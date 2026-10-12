@@ -27,22 +27,23 @@ DCS Rules § 1-2,dcs rules § 1-2,Court Rule,state_rule,HI,19,1,1,2005,2005,fals
 DCS Rules § 2-14,dcs rules § 2-14,Court Rule,state_rule,HI,19,1,1,2005,2005,false,unresolved
 Hawaii Rules of Appellate Procedure Rule 35,hawaii rules of appellate procedure rule 35,Court Rule,state_rule,HI,19,10,2,2001,2015,true,exact
 Hawaii Rules of Civil Procedure Rule 59,hawaii rules of civil procedure rule 59,Court Rule,state_rule,HI,19,15,2,1963,1999,true,exact
+Haw. R. Evid. 404,haw. r. evid. 404,Court Rule,state_rule,HI,18,7,4,1988,2008,true,exact
 Hawaii Rules of Civil Procedure Rule 72,hawaii rules of civil procedure rule 72,Court Rule,state_rule,HI,18,16,2,1962,2020,true,exact
 Hawaii Rules of Evidence (HRE) Rule 403,hawaii rules of evidence (hre) rule 403,Court Rule,state_rule,HI,18,18,2,1989,2024,false,unresolved
-Haw. R. Evid. 404,haw. r. evid. 404,Court Rule,state_rule,HI,17,7,4,1988,2008,true,exact
 Hawaii Rules of Appellate Procedure Rule 10,hawaii rules of appellate procedure rule 10,Court Rule,state_rule,HI,17,10,3,1985,2010,true,exact
 Hawaii Rules of Civil Procedure (HRCP) Rule 60,hawaii rules of civil procedure (hrcp) rule 60,Court Rule,state_rule,HI,17,16,2,1982,2015,false,unresolved
 Hawaii Rules of Civil Procedure Rule 15,hawaii rules of civil procedure rule 15,Court Rule,state_rule,HI,17,14,4,1981,2008,true,exact
 Hawaii Rules of Penal Procedure Rule 52,hawaii rules of penal procedure rule 52,Court Rule,state_rule,HI,17,17,2,1995,2010,true,exact
 DPP Rules § 6-2,dpp rules § 6-2,Court Rule,state_rule,HI,16,2,2,2019,2025,false,unresolved
 Hawaii Rules of Evidence (HRE) Rule 401,hawaii rules of evidence (hre) rule 401,Court Rule,state_rule,HI,16,14,2,1995,2025,false,unresolved
+Haw. R. Evid. 403,haw. r. evid. 403,Court Rule,state_rule,HI,15,6,2,1986,2013,true,exact
+Haw. R. Evid. 804,haw. r. evid. 804,Court Rule,state_rule,HI,15,9,6,1985,2019,true,exact
 Hawaii Rules of Civil Procedure Rule 17,hawaii rules of civil procedure rule 17,Court Rule,state_rule,HI,15,12,3,1981,2013,true,exact
 Hawaii Rules of Evidence Rule 803,hawaii rules of evidence rule 803,Court Rule,state_rule,HI,15,14,2,1982,2025,true,exact
 Haw. R. App. P. 13,haw. r. app. p. 13,Court Rule,state_rule,HI,14,6,3,2009,2023,true,exact
-Haw. R. Evid. 403,haw. r. evid. 403,Court Rule,state_rule,HI,14,6,2,1986,2013,true,exact
+Haw. R. Evid. 802.1,haw. r. evid. 802.1,Court Rule,state_rule,HI,14,6,3,1983,2020,true,exact
 Hawaii Rules of Evidence Rule 404,hawaii rules of evidence rule 404,Court Rule,state_rule,HI,14,14,2,2004,2026,true,exact
 Haw. R. Civ. P. 60,haw. r. civ. p. 60,Court Rule,state_rule,HI,13,3,2,2000,2024,true,exact
-Haw. R. Evid. 804,haw. r. evid. 804,Court Rule,state_rule,HI,13,9,6,1985,2019,true,exact
 Hawaii Rules of Appellate Procedure Rule 13,hawaii rules of appellate procedure rule 13,Court Rule,state_rule,HI,13,9,2,1986,2013,true,exact
 Hawaii Rules of Civil Procedure Rule 50,hawaii rules of civil procedure rule 50,Court Rule,state_rule,HI,13,12,2,1968,1988,true,exact
 Hawaii Rules of Criminal Procedure Rule 11,hawaii rules of criminal procedure rule 11,Court Rule,state_rule,HI,13,7,2,1972,2008,false,unresolved
@@ -52,7 +53,6 @@ ZBA Rules § 22-2,zba rules § 22-2,Court Rule,state_rule,HI,13,2,1,2013,2025,fa
 DPP Rule § 3-1,dpp rule § 3-1,Court Rule,state_rule,HI,12,2,1,2007,2007,false,unresolved
 Haw. R. App. P. 4,haw. r. app. p. 4,Court Rule,state_rule,HI,12,11,2,2020,2026,true,exact
 Haw. R. Evid. 505,haw. r. evid. 505,Court Rule,state_rule,HI,12,8,5,2000,2022,true,exact
-Haw. R. Evid. 802.1,haw. r. evid. 802.1,Court Rule,state_rule,HI,12,6,3,1983,2020,true,exact
 Hawaii Rules of Civil Procedure Rule 68,hawaii rules of civil procedure rule 68,Court Rule,state_rule,HI,12,9,2,1980,2008,true,exact
 Hawaii Rules of Civil Procedure Rule 8,hawaii rules of civil procedure rule 8,Court Rule,state_rule,HI,12,9,2,1960,2016,true,exact
 Hawaii Rules of Evidence (HRE) Rule 801,hawaii rules of evidence (hre) rule 801,Court Rule,state_rule,HI,12,12,2,1995,2020,false,unresolved
@@ -91,6 +91,7 @@ Hawaii Rules of Penal Procedure (HRPP) Rule 7,hawaii rules of penal procedure (h
 ZBA Rule § 22-2,zba rule § 22-2,Court Rule,state_rule,HI,8,2,1,2007,2007,false,unresolved
 Haw. R. Civ. P. 23,haw. r. civ. p. 23,Court Rule,state_rule,HI,7,1,1,2012,2012,true,exact
 Haw. R. Evid. 412,haw. r. evid. 412,Court Rule,state_rule,HI,7,7,4,2001,2009,true,exact
+Haw. R. Evid. 803,haw. r. evid. 803,Court Rule,state_rule,HI,7,5,3,1985,2006,true,exact
 Haw. R. Penal P. 11,haw. r. penal p. 11,Court Rule,state_rule,HI,7,5,2,2006,2018,true,exact
 Hawaii Rules of Civil Procedure Rule 24,hawaii rules of civil procedure rule 24,Court Rule,state_rule,HI,7,5,2,1981,2005,true,exact
 Hawaii Rules of Civil Procedure Rule 4,hawaii rules of civil procedure rule 4,Court Rule,state_rule,HI,7,6,2,1959,1995,true,exact
@@ -107,9 +108,9 @@ DPP Rule § 3-5,dpp rule § 3-5,Court Rule,state_rule,HI,6,2,1,2007,2007,false,u
 Haw. R. Civ. P. 12,haw. r. civ. p. 12,Court Rule,state_rule,HI,6,5,3,1996,2022,true,exact
 Haw. R. Civ. P. 17,haw. r. civ. p. 17,Court Rule,state_rule,HI,6,5,2,2003,2013,true,exact
 Haw. R. Civ. P. 56,haw. r. civ. p. 56,Court Rule,state_rule,HI,6,4,2,2005,2013,true,exact
+Haw. R. Evid. 401,haw. r. evid. 401,Court Rule,state_rule,HI,6,4,2,1986,2013,true,exact
 Haw. R. Evid. 410,haw. r. evid. 410,Court Rule,state_rule,HI,6,1,1,1988,1988,true,exact
 Haw. R. Evid. 503,haw. r. evid. 503,Court Rule,state_rule,HI,6,4,3,2006,2016,true,exact
-Haw. R. Evid. 803,haw. r. evid. 803,Court Rule,state_rule,HI,6,5,3,1985,2006,true,exact
 Haw. Rules Evid. 504,haw. rules evid. 504,Court Rule,state_rule,HI,6,2,1,1996,1996,true,exact
 Haw.R. Evid. 802.1,haw.r. evid. 802.1,Court Rule,state_rule,HI,6,5,4,1991,2001,true,exact
 Haw.Sup.Ct. R. 5,haw.sup.ct. r. 5,Court Rule,state_rule,HI,6,2,1,1989,1989,true,exact
@@ -170,7 +171,7 @@ District of Hawaii Local Rule 74.1,district of hawaii local rule 74.1,Court Rule
 HRE Rule § 504.1,hre rule § 504.1,Court Rule,state_rule,HI,4,2,1,2006,2016,false,unresolved
 Haw. Arb. R. 11,haw. arb. r. 11,Court Rule,state_rule,HI,4,2,1,2014,2014,true,exact
 Haw. R. Civ. P. Rules 41,haw. r. civ. p. rules 41,Court Rule,state_rule,HI,4,2,1,2011,2011,true,exact
-Haw. R. Evid. 401,haw. r. evid. 401,Court Rule,state_rule,HI,4,4,2,1989,2013,true,exact
+Haw. R. Evid. 105,haw. r. evid. 105,Court Rule,state_rule,HI,4,2,2,1986,2010,true,exact
 Haw. R. Evid. 402,haw. r. evid. 402,Court Rule,state_rule,HI,4,3,2,1989,2013,true,exact
 Haw. R. Evid. 407,haw. r. evid. 407,Court Rule,state_rule,HI,4,4,2,1997,1998,true,exact
 Haw. R. Evid. 506,haw. r. evid. 506,Court Rule,state_rule,HI,4,2,1,1996,1996,true,exact
@@ -242,7 +243,6 @@ Haw. R. App. P. 40.1,haw. r. app. p. 40.1,Court Rule,state_rule,HI,3,3,1,2020,20
 Haw. R. Civ. P. 11,haw. r. civ. p. 11,Court Rule,state_rule,HI,3,3,2,2010,2020,true,exact
 Haw. R. Civ. P. 35,haw. r. civ. p. 35,Court Rule,state_rule,HI,3,1,1,2005,2005,true,exact
 Haw. R. Civ. P. 58,haw. r. civ. p. 58,Court Rule,state_rule,HI,3,2,2,2023,2024,true,exact
-Haw. R. Evid. 105,haw. r. evid. 105,Court Rule,state_rule,HI,3,2,2,1986,2010,true,exact
 Haw. R. Evid. 106,haw. r. evid. 106,Court Rule,state_rule,HI,3,1,1,1986,1986,true,exact
 Haw. R. Evid. 511,haw. r. evid. 511,Court Rule,state_rule,HI,3,2,2,2009,2013,true,exact
 Haw. R. Pen. P. 48,haw. r. pen. p. 48,Court Rule,state_rule,HI,3,3,1,1995,2007,false,unresolved
@@ -308,6 +308,7 @@ BVA Rule § 12-8-1-19,bva rule § 12-8-1-19,Court Rule,state_rule,HI,2,2,1,2026,
 BVA Rule § 12-801-5,bva rule § 12-801-5,Court Rule,state_rule,HI,2,2,1,2026,2026,false,unresolved
 BVA Rule § 12-801-92,bva rule § 12-801-92,Court Rule,state_rule,HI,2,2,1,2026,2026,false,unresolved
 BVA Rules. 11. BVA Rule § 12-801-92,bva rules. 11. bva rule § 12-801-92,Court Rule,state_rule,HI,2,2,1,2026,2026,false,unresolved
+D. HRCP Rule 60,d. hrcp rule 60,Court Rule,local_rule,HI,2,1,1,2007,2022,true,exact
 D. Haw. L.R. 60.1,d. haw. l.r. 60.1,Court Rule,local_rule,HI,2,2,2,2012,2025,false,unresolved
 D. Haw. Local R. 54.3,d. haw. local r. 54.3,Court Rule,local_rule,HI,2,2,1,2009,2009,false,unresolved
 D. Haw. Local Rule 60.1,d. haw. local rule 60.1,Court Rule,local_rule,HI,2,2,1,2014,2014,false,unresolved
@@ -362,6 +363,7 @@ Haw. R. Civ. Proc. R. 35,haw. r. civ. proc. r. 35,Court Rule,state_rule,HI,2,2,1
 Haw. R. Evid. 504.1,haw. r. evid. 504.1,Court Rule,state_rule,HI,2,2,1,2010,2010,true,exact
 Haw. R. Evid. 606,haw. r. evid. 606,Court Rule,state_rule,HI,2,1,1,2013,2013,true,exact
 Haw. R. Evid. 609,haw. r. evid. 609,Court Rule,state_rule,HI,2,2,2,1999,2015,true,exact
+Haw. R. Evid. 613,haw. r. evid. 613,Court Rule,state_rule,HI,2,1,1,1986,1986,true,exact
 Haw. R. Evid. 702,haw. r. evid. 702,Court Rule,state_rule,HI,2,2,2,1989,1999,true,exact
 Haw. R. Evid. 802,haw. r. evid. 802,Court Rule,state_rule,HI,2,2,2,1983,2015,true,exact
 Haw. R. Penal P. 29,haw. r. penal p. 29,Court Rule,state_rule,HI,2,2,2,2017,2017,true,exact
@@ -503,7 +505,6 @@ ZBA Rules § 22,zba rules § 22,Court Rule,state_rule,HI,2,1,1,2025,2025,false,u
 ZBA Rules § 22-1,zba rules § 22-1,Court Rule,state_rule,HI,2,1,1,2013,2013,false,unresolved
 1 Barnard. B.R. 347. 2 Sess. Cas. 25. 2 Haw. c. 25 § 58,1 barnard. b.r. 347. 2 sess. cas. 25. 2 haw. c. 25 § 58,Court Rule,state_rule,HI,1,1,1,1802,1802,false,unresolved
 1 Haw. Cr. R. 249,1 haw. cr. r. 249,Court Rule,state_rule,HI,1,1,1,1881,1881,false,unresolved
-1 Haw. R. Evid. 401,1 haw. r. evid. 401,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
 1 Hawai'i Rules of Appellate Procedure (HRAP) Rule 4,1 hawai'i rules of appellate procedure (hrap) rule 4,Court Rule,state_rule,HI,1,1,1,2004,2004,false,unresolved
 1 Hawaii Family Court Rule 52,1 hawaii family court rule 52,Court Rule,state_rule,HI,1,1,1,1980,1980,true,exact
 1 Hawaii Rules of Appellate Procedure (further amended October 22. 1985) Rule 4,1 hawaii rules of appellate procedure (further amended october 22. 1985) rule 4,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
@@ -554,22 +555,16 @@ ZBA Rules § 22-1,zba rules § 22-1,Court Rule,state_rule,HI,2,1,1,2013,2013,fal
 385 (1996) (citation omitted). Hawaii Rules of Penal Procedure (HRPP) Rule 52,385 (1996) (citation omitted). hawaii rules of penal procedure (hrpp) rule 52,Court Rule,state_rule,HI,1,1,1,1999,1999,false,unresolved
 395 (1995)). Hawai'i Family Court Rules (HFCR) Rule 56,395 (1995)). hawai'i family court rules (hfcr) rule 56,Court Rule,state_rule,HI,1,1,1,2003,2003,false,unresolved
 4 Haw. R. Civ. P. 20,4 haw. r. civ. p. 20,Court Rule,state_rule,HI,1,1,1,2020,2020,true,exact
-4 Haw. R. Evid. 401,4 haw. r. evid. 401,Court Rule,state_rule,HI,1,1,1,1989,1989,false,unresolved
-4 Haw. R. Evid. 802.1,4 haw. r. evid. 802.1,Court Rule,state_rule,HI,1,1,1,1983,1983,false,unresolved
-4 Haw. R. Evid. 803,4 haw. r. evid. 803,Court Rule,state_rule,HI,1,1,1,1985,1985,false,unresolved
 4 Haw.Dist. Ct. R. 475,4 haw.dist. ct. r. 475,Court Rule,local_rule,HI,1,1,1,1950,1950,false,unresolved
 4 Haw.Dist.Ct. R. 475,4 haw.dist.ct. r. 475,Court Rule,local_rule,HI,1,1,1,1976,1976,false,unresolved
 4 Hawai'i Rules of Civil Procedure (HRCP) Rule 15,4 hawai'i rules of civil procedure (hrcp) rule 15,Court Rule,state_rule,HI,1,1,1,1994,1994,false,unresolved
 4 Hawaii Rules of Penal Procedure Rule 30,4 hawaii rules of penal procedure rule 30,Court Rule,state_rule,HI,1,1,1,1990,1990,true,exact
 40 C.P.R. § 1502.9,40 c.p.r. § 1502.9,Court Rule,state_rule,HI,1,1,1,2009,2009,false,unresolved
 419 (Sup. 1994). Id. (footnote omitted). 14 HRPP Rule 35,419 (sup. 1994). id. (footnote omitted). 14 hrpp rule 35,Court Rule,state_rule,HI,1,1,1,2021,2021,false,unresolved
-437 (2021). D. HRCP Rule 60,437 (2021). d. hrcp rule 60,Court Rule,local_rule,HI,1,1,1,2022,2022,false,unresolved
 "46 (1993), and Hawaii Rules of Evidence (HRE) Rule 701","46 (1993), and hawaii rules of evidence (hre) rule 701",Court Rule,state_rule,HI,1,1,1,2010,2010,false,unresolved
 48 Motion. HRPP Rule 48,48 motion. hrpp rule 48,Court Rule,state_rule,HI,1,1,1,2008,2008,false,unresolved
 "485 (1982), and Hawaii Rules of Penal Procedure (HRPP) Rule 48","485 (1982), and hawaii rules of penal procedure (hrpp) rule 48",Court Rule,state_rule,HI,1,1,1,1992,1992,false,unresolved
 5 Haw. R. 460,5 haw. r. 460,Court Rule,state_rule,HI,1,1,1,1897,1897,false,unresolved
-5 Haw. R. Evid. 404,5 haw. r. evid. 404,Court Rule,state_rule,HI,1,1,1,1988,1988,false,unresolved
-5 Haw. R. Evid. 804,5 haw. r. evid. 804,Court Rule,state_rule,HI,1,1,1,1985,1985,false,unresolved
 5 Hawai'i Rules of Penal Procedure (HRPP) Rule 52,5 hawai'i rules of penal procedure (hrpp) rule 52,Court Rule,state_rule,HI,1,1,1,2010,2010,false,unresolved
 5 Hawaii Rules of Civil Procedure (HRCP) Rule 60,5 hawaii rules of civil procedure (hrcp) rule 60,Court Rule,state_rule,HI,1,1,1,1990,1990,false,unresolved
 5 Hawaii Supreme Court Rule 131,5 hawaii supreme court rule 131,Court Rule,state_rule,HI,1,1,1,1989,1989,false,unresolved
@@ -577,7 +572,6 @@ ZBA Rules § 22-1,zba rules § 22-1,Court Rule,state_rule,HI,2,1,1,2013,2013,fal
 54 (1964). Hawaii Rules of Civil Procedure (HRCP) Rule 56,54 (1964). hawaii rules of civil procedure (hrcp) rule 56,Court Rule,state_rule,HI,1,1,1,2005,2005,false,unresolved
 "6 Cf. Hawaii Rules of Family Court Procedure, Rule 59","6 cf. hawaii rules of family court procedure, rule 59",Court Rule,state_rule,HI,1,1,1,1982,1982,false,unresolved
 6 Federal Rules of Civil Procedure (FRCP) Rule 60,6 federal rules of civil procedure (frcp) rule 60,Court Rule,federal_rule,HI,1,1,1,2020,2020,false,unresolved
-6 Haw. R. Evid. 403,6 haw. r. evid. 403,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
 "6 Hawaii Rules of Penal Procedure, Rule 35","6 hawaii rules of penal procedure, rule 35",Court Rule,state_rule,HI,1,1,1,1979,1979,true,exact
 607-14 (Supp.2002) and Hawai'i Rules of Civil Procedure (HRCP) Rule 54,607-14 (supp.2002) and hawai'i rules of civil procedure (hrcp) rule 54,Court Rule,state_rule,HI,1,1,1,2003,2003,false,unresolved
 607-14 (Supp.2002) and Hawaii Rules of Civil Procedure (HRCP) Rule 54,607-14 (supp.2002) and hawaii rules of civil procedure (hrcp) rule 54,Court Rule,state_rule,HI,1,1,1,2003,2003,false,unresolved
@@ -589,24 +583,18 @@ ZBA Rules § 22-1,zba rules § 22-1,Court Rule,state_rule,HI,2,1,1,2013,2013,fal
 688 (App.1994). Hawai'i Rules of Penal Procedure (HRPP) Rule 12,688 (app.1994). hawai'i rules of penal procedure (hrpp) rule 12,Court Rule,state_rule,HI,1,1,1,2001,2001,false,unresolved
 691 (1984). Hawaii Rules of Evidence (HRE) Rule 702,691 (1984). hawaii rules of evidence (hre) rule 702,Court Rule,state_rule,HI,1,1,1,1998,1998,false,unresolved
 696 (4th Cir.1996) (FRE Rule 106,696 (4th cir.1996) (fre rule 106,Court Rule,federal_rule,HI,1,1,1,2005,2005,false,unresolved
-7 Haw. R. Evid. 703,7 haw. r. evid. 703,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
-7 Haw. R. Evid. 802.1,7 haw. r. evid. 802.1,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
-7 Haw. R. Evid. 804,7 haw. r. evid. 804,Court Rule,state_rule,HI,1,1,1,2013,2013,false,unresolved
 7 Hawai'i Rules of Evidence (HRE) Rules 801,7 hawai'i rules of evidence (hre) rules 801,Court Rule,state_rule,HI,1,1,1,2000,2000,false,unresolved
 706-663 (1993). 4 Hawai'i Rules of Penal Procedure (HRPP) Rule 5,706-663 (1993). 4 hawai'i rules of penal procedure (hrpp) rule 5,Court Rule,state_rule,HI,1,1,1,1996,1996,false,unresolved
 725 (Haw. 1999)). Rule 9,725 (haw. 1999)). rule 9,Court Rule,state_rule,HI,1,1,1,2020,2020,false,unresolved
 8 Haw. R. 161,8 haw. r. 161,Court Rule,state_rule,HI,1,1,1,1895,1895,false,unresolved
 8 Haw. R. 680,8 haw. r. 680,Court Rule,state_rule,HI,1,1,1,1896,1896,false,unresolved
 8 Haw. R. 732,8 haw. r. 732,Court Rule,state_rule,HI,1,1,1,1896,1896,false,unresolved
-8 Haw. R. Evid. 105,8 haw. r. evid. 105,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
-8 Haw. R. Evid. 613,8 haw. r. evid. 613,Court Rule,state_rule,HI,1,1,1,1986,1986,false,unresolved
 8 Hawaii Family Court Rule 129,8 hawaii family court rule 129,Court Rule,state_rule,HI,1,1,1,1983,1983,true,exact
 9 Hawaii Rules of Civil Procedure Rule 56,9 hawaii rules of civil procedure rule 56,Court Rule,state_rule,HI,1,1,1,1989,1989,true,exact
 91 (1974)). Hawaii Local Rule 220-9,91 (1974)). hawaii local rule 220-9,Court Rule,local_rule,HI,1,1,1,1995,1995,false,unresolved
 91-14 (1993 & Supp.2007) 8 and Hawai'i Rules of Civil Procedure (HRCP) Rule 72,91-14 (1993 & supp.2007) 8 and hawai'i rules of civil procedure (hrcp) rule 72,Court Rule,state_rule,HI,1,1,1,2009,2009,false,unresolved
 "91-14 (1993), Hawai'i Rules of Civil Procedure (HRCP) Rule 72","91-14 (1993), hawai'i rules of civil procedure (hrcp) rule 72",Court Rule,state_rule,HI,1,1,1,2005,2005,false,unresolved
 "91-14 (1993), Hawai'i Rules of Civil Procedure (HRCP) Rule 72 (2000), and HAR § 12-5-51","91-14 (1993), hawai'i rules of civil procedure (hrcp) rule 72 (2000), and har § 12-5-51",Court Rule,state_rule,HI,1,1,1,2005,2005,false,unresolved
-913 (2002). Hawaii Rules of Evidence Rule 505,913 (2002). hawaii rules of evidence rule 505,Court Rule,state_rule,HI,1,1,1,2002,2002,false,unresolved
 966 (9th Cir. 1966). District of Hawaii Local Rule 56.1,966 (9th cir. 1966). district of hawaii local rule 56.1,Court Rule,local_rule,HI,1,1,1,2020,2020,false,unresolved
 A. Haw. R. Evid. 404,a. haw. r. evid. 404,Court Rule,state_rule,HI,1,1,1,1989,1989,true,exact
 A. Hawai'i Rules of Civil Procedure (HRCP) Rule 59,a. hawai'i rules of civil procedure (hrcp) rule 59,Court Rule,state_rule,HI,1,1,1,2000,2000,false,unresolved
@@ -624,7 +612,6 @@ CBM of the Pacific. 2 HRCP Rule 52,cbm of the pacific. 2 hrcp rule 52,Court Rule
 COURT RULES Hawaii Rules of Penal Procedure (HRPP) Rule 11,court rules hawaii rules of penal procedure (hrpp) rule 11,Court Rule,state_rule,HI,1,1,1,2004,2004,false,unresolved
 Cir.R. 36-3 1 Hawaii Revised Statutes § 291-4,cir.r. 36-3 1 hawaii revised statutes § 291-4,Court Rule,local_rule,HI,1,1,1,1995,1995,false,unresolved
 D. HFCR Rule 60,d. hfcr rule 60,Court Rule,local_rule,HI,1,1,1,2022,2022,true,exact
-D. HRCP Rule 60,d. hrcp rule 60,Court Rule,local_rule,HI,1,1,1,2007,2007,true,exact
 D. Haw. Civ. R. 83.1,d. haw. civ. r. 83.1,Court Rule,local_rule,HI,1,1,1,2025,2025,false,unresolved
 D. Haw. L.R. 10.2,d. haw. l.r. 10.2,Court Rule,local_rule,HI,1,1,1,2012,2012,false,unresolved
 D. Haw. Local R. 7.1,d. haw. local r. 7.1,Court Rule,local_rule,HI,1,1,1,2026,2026,false,unresolved
@@ -761,8 +748,8 @@ Haw. R. Evid. 601,haw. r. evid. 601,Court Rule,state_rule,HI,1,1,1,1985,1985,tru
 Haw. R. Evid. 603.1,haw. r. evid. 603.1,Court Rule,state_rule,HI,1,1,1,1985,1985,true,exact
 Haw. R. Evid. 608,haw. r. evid. 608,Court Rule,state_rule,HI,1,1,1,1988,1988,true,exact
 Haw. R. Evid. 611,haw. r. evid. 611,Court Rule,state_rule,HI,1,1,1,1982,1982,true,exact
-Haw. R. Evid. 613,haw. r. evid. 613,Court Rule,state_rule,HI,1,1,1,1986,1986,true,exact
 Haw. R. Evid. 7,haw. r. evid. 7,Court Rule,state_rule,HI,1,1,1,1982,1982,false,unresolved
+Haw. R. Evid. 703,haw. r. evid. 703,Court Rule,state_rule,HI,1,1,1,1986,1986,true,exact
 Haw. R. Evid. Rule 202,haw. r. evid. rule 202,Court Rule,state_rule,HI,1,1,1,2002,2002,true,exact
 Haw. R. Pen. P. 40,haw. r. pen. p. 40,Court Rule,state_rule,HI,1,1,1,2012,2012,false,unresolved
 Haw. R. Penal P. 24,haw. r. penal p. 24,Court Rule,state_rule,HI,1,1,1,2011,2011,true,exact
@@ -1058,6 +1045,7 @@ Hawaii Rules of Evidence Rule 104,hawaii rules of evidence rule 104,Court Rule,s
 Hawaii Rules of Evidence Rule 105,hawaii rules of evidence rule 105,Court Rule,state_rule,HI,1,1,1,2006,2006,true,exact
 Hawaii Rules of Evidence Rule 106,hawaii rules of evidence rule 106,Court Rule,state_rule,HI,1,1,1,2005,2005,true,exact
 Hawaii Rules of Evidence Rule 408,hawaii rules of evidence rule 408,Court Rule,state_rule,HI,1,1,1,2009,2009,true,exact
+Hawaii Rules of Evidence Rule 505,hawaii rules of evidence rule 505,Court Rule,state_rule,HI,1,1,1,2002,2002,true,exact
 Hawaii Rules of Evidence Rule 511,hawaii rules of evidence rule 511,Court Rule,state_rule,HI,1,1,1,1997,1997,true,exact
 Hawaii Rules of Evidence Rule 609.1,hawaii rules of evidence rule 609.1,Court Rule,state_rule,HI,1,1,1,1998,1998,true,exact
 Hawaii Rules of Evidence Rule 614,hawaii rules of evidence rule 614,Court Rule,state_rule,HI,1,1,1,1995,1995,true,exact

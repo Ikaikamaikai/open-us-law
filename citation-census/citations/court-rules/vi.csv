@@ -1,11 +1,11 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-V.I.S.Ct. R. 4,v.i.s.ct. r. 4,Court Rule,state_rule,VI,123,93,2,2010,2017,true,exact
+V.I.S.Ct. R. 4,v.i.s.ct. r. 4,Court Rule,state_rule,VI,124,93,2,2010,2017,true,exact
 V.I.S.Ct. R. 22,v.i.s.ct. r. 22,Court Rule,state_rule,VI,113,73,1,2011,2017,true,exact
 V.I.S.Ct. R. 5,v.i.s.ct. r. 5,Court Rule,state_rule,VI,106,90,2,2009,2017,true,exact
 V.I.S.CT. R. 5,v.i.s.ct. r. 5,Court Rule,state_rule,VI,40,33,1,2009,2025,true,exact
 SUPER. Ct. R. 7,super. ct. r. 7,Court Rule,state_rule,VI,37,34,3,2005,2015,true,exact
+V.I. R. Civ. P. 8,v.i. r. civ. p. 8,Court Rule,state_rule,VI,31,15,3,2017,2026,true,exact
 V.I. R. App. P. 5,v.i. r. app. p. 5,Court Rule,state_rule,VI,28,16,2,1999,2025,true,exact
-V.I. R. Civ. P. 8,v.i. r. civ. p. 8,Court Rule,state_rule,VI,28,15,3,2017,2026,true,exact
 V.I.S.Ct. R. 203,v.i.s.ct. r. 203,Court Rule,state_rule,VI,28,12,1,2011,2014,true,exact
 Virgin Islands Rules of Civil Procedure Rule 54,virgin islands rules of civil procedure rule 54,Court Rule,state_rule,VI,27,8,2,2023,2025,true,exact
 V.I. R. Civ. P. 12,v.i. r. civ. p. 12,Court Rule,state_rule,VI,26,11,3,2017,2026,true,exact
@@ -25,25 +25,27 @@ Virgin Islands Rules of Civil Procedure Rule 56,virgin islands rules of civil pr
 19 V.I.R.R. § 1560-2,19 v.i.r.r. § 1560-2,Court Rule,state_rule,VI,11,1,1,2010,2010,false,unresolved
 "5 V.I.C. App. IV, Rule 7","5 v.i.c. app. iv, rule 7",Court Rule,state_rule,VI,11,8,1,1978,2010,false,unresolved
 V.I. R. APP. P. 22,v.i. r. app. p. 22,Court Rule,state_rule,VI,11,6,1,2017,2026,true,exact
+V.I. R. Civ. P. 4,v.i. r. civ. p. 4,Court Rule,state_rule,VI,10,8,3,2017,2025,true,exact
 V.I. SM. CL. R. 2,v.i. sm. cl. r. 2,Court Rule,state_rule,VI,10,1,1,2025,2025,true,exact
 V.I.R. App. P. 5,v.i.r. app. p. 5,Court Rule,state_rule,VI,10,5,2,2004,2026,true,exact
 V.I.S.CT. R. 4,v.i.s.ct. r. 4,Court Rule,state_rule,VI,10,8,1,2010,2026,true,exact
 Virgin Islands Rules of Appellate Procedure Rule 4,virgin islands rules of appellate procedure rule 4,Court Rule,state_rule,VI,10,8,2,2008,2026,true,exact
 Virgin Islands Rules of Appellate Procedure Rule 5,virgin islands rules of appellate procedure rule 5,Court Rule,state_rule,VI,10,7,2,1999,2025,true,exact
 V.I. H.C. R. 2,v.i. h.c. r. 2,Court Rule,state_rule,VI,9,3,1,2023,2025,true,exact
-V.I. R. Civ. P. 4,v.i. r. civ. p. 4,Court Rule,state_rule,VI,9,8,3,2017,2025,true,exact
+V.I. R. Civ. P. 9,v.i. r. civ. p. 9,Court Rule,state_rule,VI,9,4,2,2017,2023,true,exact
 V.I. R. Civ. P. 92,v.i. r. civ. p. 92,Court Rule,state_rule,VI,9,1,1,2023,2023,false,unresolved
 V.I.S.Ct. R. 201,v.i.s.ct. r. 201,Court Rule,state_rule,VI,9,3,1,2013,2014,true,exact
 Virgin Islands Rules of Civil Procedure Rule 9,virgin islands rules of civil procedure rule 9,Court Rule,state_rule,VI,9,3,1,2023,2023,true,exact
 "5 V.I.C. App. I, Rule 56","5 v.i.c. app. i, rule 56",Court Rule,state_rule,VI,8,6,1,1977,1992,false,unresolved
 SUPER. Ct. R. 135,super. ct. r. 135,Court Rule,state_rule,VI,8,7,2,2007,2016,true,exact
 V.I. R. Civ. P. 6,v.i. r. civ. p. 6,Court Rule,state_rule,VI,8,3,3,2023,2025,true,exact
+V.I. R. Civ. P. 60,v.i. r. civ. p. 60,Court Rule,state_rule,VI,8,1,1,2017,2017,true,exact
 V.I.S.Ct. R. 16,v.i.s.ct. r. 16,Court Rule,state_rule,VI,8,6,1,2012,2016,true,exact
 Virgin Islands Rules of Civil Procedure Rule 4,virgin islands rules of civil procedure rule 4,Court Rule,state_rule,VI,8,6,3,2020,2025,true,exact
 Virgin Islands Rules of Civil Procedure Rule 8,virgin islands rules of civil procedure rule 8,Court Rule,state_rule,VI,8,6,2,2017,2024,true,exact
 V.I. R. APP. P. 16,v.i. r. app. p. 16,Court Rule,state_rule,VI,7,4,2,2002,2024,true,exact
 V.I. R. App. P. 16,v.i. r. app. p. 16,Court Rule,state_rule,VI,7,6,2,1999,2026,true,exact
-V.I. R. Civ. P. 60,v.i. r. civ. p. 60,Court Rule,state_rule,VI,7,1,1,2017,2017,true,exact
+V.I. R. Civ. P. 11,v.i. r. civ. p. 11,Court Rule,state_rule,VI,7,3,2,2017,2025,true,exact
 V.I. S. CT. R. 5,v.i. s. ct. r. 5,Court Rule,state_rule,VI,7,6,1,2008,2012,true,exact
 V.I. SUPER. CT. R. 322,v.i. super. ct. r. 322,Court Rule,state_rule,VI,7,3,2,2024,2025,true,exact
 V.I.S.Ct. R. 207.1.2,v.i.s.ct. r. 207.1.2,Court Rule,state_rule,VI,7,4,1,2012,2014,true,exact
@@ -53,8 +55,7 @@ SUPER. Ct. R. 141,super. ct. r. 141,Court Rule,state_rule,VI,6,2,2,2006,2008,tru
 SUPER. Ct. R. 8,super. ct. r. 8,Court Rule,state_rule,VI,6,6,2,2011,2017,true,exact
 V.I. R. App. P. 4,v.i. r. app. p. 4,Court Rule,state_rule,VI,6,6,2,2011,2026,true,exact
 V.I. R. App. P. 8,v.i. r. app. p. 8,Court Rule,state_rule,VI,6,1,1,2023,2023,true,exact
-V.I. R. Civ. P. 11,v.i. r. civ. p. 11,Court Rule,state_rule,VI,6,3,2,2017,2025,true,exact
-V.I. R. Civ. P. 9,v.i. r. civ. p. 9,Court Rule,state_rule,VI,6,4,2,2017,2023,true,exact
+V.I.R. Civ. P. 4,v.i.r. civ. p. 4,Court Rule,state_rule,VI,6,4,2,2017,2025,true,exact
 V.I.S.Ct. R. 10,v.i.s.ct. r. 10,Court Rule,state_rule,VI,6,4,1,2012,2017,true,exact
 V.I.S.Ct. R. 13,v.i.s.ct. r. 13,Court Rule,state_rule,VI,6,4,1,2011,2016,true,exact
 V.I.S.Ct. R. 205,v.i.s.ct. r. 205,Court Rule,state_rule,VI,6,5,2,2012,2015,true,exact
@@ -72,7 +73,6 @@ SUPER. Ct. R. 48,super. ct. r. 48,Court Rule,state_rule,VI,5,5,2,2010,2017,true,
 V.I R. Civ. P. 8,v.i r. civ. p. 8,Court Rule,state_rule,VI,5,2,1,2025,2025,true,exact
 V.I. R. CIV. P. 12,v.i. r. civ. p. 12,Court Rule,state_rule,VI,5,2,2,2025,2025,true,exact
 V.I. R. CIV. P. 8,v.i. r. civ. p. 8,Court Rule,state_rule,VI,5,5,3,2023,2025,true,exact
-V.I.R. Civ. P. 4,v.i.r. civ. p. 4,Court Rule,state_rule,VI,5,4,2,2020,2025,true,exact
 V.I.S.Ct. R. 15,v.i.s.ct. r. 15,Court Rule,state_rule,VI,5,5,1,2013,2016,true,exact
 V.I.S.Ct. R. 207.5.5,v.i.s.ct. r. 207.5.5,Court Rule,state_rule,VI,5,5,1,2013,2013,true,exact
 V.I.S.Ct. R. 210.3,v.i.s.ct. r. 210.3,Court Rule,state_rule,VI,5,4,1,2012,2017,true,exact
@@ -93,6 +93,7 @@ V.I. R. Crim. P. 41,v.i. r. crim. p. 41,Court Rule,state_rule,VI,4,1,1,2024,2024
 V.I. Rule App. P. 22,v.i. rule app. p. 22,Court Rule,state_rule,VI,4,2,1,2022,2022,true,exact
 V.I. Super. Ct. R. 322,v.i. super. ct. r. 322,Court Rule,state_rule,VI,4,2,1,2025,2025,true,exact
 V.I.R. App. P. 22,v.i.r. app. p. 22,Court Rule,state_rule,VI,4,4,1,2017,2025,true,exact
+V.I.R. Civ. P. 12,v.i.r. civ. p. 12,Court Rule,state_rule,VI,4,2,1,2017,2025,true,exact
 V.I.S. Ct. R. 4,v.i.s. ct. r. 4,Court Rule,state_rule,VI,4,3,2,2010,2013,true,exact
 V.I.S.Ct. R. 206,v.i.s.ct. r. 206,Court Rule,state_rule,VI,4,3,1,2013,2015,true,exact
 V.I.S.Ct. R. 207.3.1,v.i.s.ct. r. 207.3.1,Court Rule,state_rule,VI,4,3,1,2012,2013,true,exact
@@ -133,11 +134,10 @@ V.I. R. CRIM P. 3,v.i. r. crim p. 3,Court Rule,state_rule,VI,3,1,1,2024,2024,tru
 V.I. R. CRIM. P. 4,v.i. r. crim. p. 4,Court Rule,state_rule,VI,3,1,1,2024,2024,true,exact
 V.I. R. Civ. P. 1-1,v.i. r. civ. p. 1-1,Court Rule,state_rule,VI,3,3,2,2017,2024,true,exact
 V.I. R. Civ. P. 25,v.i. r. civ. p. 25,Court Rule,state_rule,VI,3,2,1,2017,2023,true,exact
+V.I. R. Civ. P. 5,v.i. r. civ. p. 5,Court Rule,state_rule,VI,3,2,1,2017,2023,true,exact
 V.I. R. Civ. P. 50,v.i. r. civ. p. 50,Court Rule,state_rule,VI,3,1,1,2025,2025,true,exact
 V.I. R. Civ. P. 6-1,v.i. r. civ. p. 6-1,Court Rule,state_rule,VI,3,3,1,2017,2023,true,exact
 V.I. R. Crim. P. 35.1,v.i. r. crim. p. 35.1,Court Rule,state_rule,VI,3,1,1,2001,2001,true,exact
-V.I. R. Crv. P. 8,v.i. r. crv. p. 8,Court Rule,state_rule,VI,3,2,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 9,v.i. r. crv. p. 9,Court Rule,state_rule,VI,3,1,1,2017,2017,false,unresolved
 V.I. R. Evid. 502,v.i. r. evid. 502,Court Rule,state_rule,VI,3,1,1,2026,2026,true,exact
 V.I. R.Crim. P. 35.1,v.i. r.crim. p. 35.1,Court Rule,state_rule,VI,3,1,1,2001,2001,true,exact
 V.I. S. Ct. R. 11,v.i. s. ct. r. 11,Court Rule,state_rule,VI,3,1,1,2008,2008,true,exact
@@ -188,7 +188,6 @@ Virgin Islands Rules of Civil Procedure Rule 65,virgin islands rules of civil pr
 "5 V.I.C. App. V, Rule 6","5 v.i.c. app. v, rule 6",Court Rule,state_rule,VI,2,2,1,1979,1983,false,unresolved
 "5 V.I.C., App. V Rule 24","5 v.i.c., app. v rule 24",Court Rule,state_rule,VI,2,2,1,1990,1990,false,unresolved
 FED. R. ClV. P. 8,fed. r. clv. p. 8,Court Rule,state_rule,VI,2,2,2,2004,2005,false,unresolved
-FED. R. Crv. P. 19,fed. r. crv. p. 19,Court Rule,state_rule,VI,2,1,1,2011,2011,false,unresolved
 SUPER. Ct. R. 102,super. ct. r. 102,Court Rule,state_rule,VI,2,2,2,2009,2015,true,exact
 SUPER. Ct. R. 11,super. ct. r. 11,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 SUPER. Ct. R. 139,super. ct. r. 139,Court Rule,state_rule,VI,2,1,1,2015,2015,true,exact
@@ -215,14 +214,14 @@ V.I. R. CIV. P. 90,v.i. r. civ. p. 90,Court Rule,state_rule,VI,2,1,1,2026,2026,t
 V.I. R. CIV. P. Rule 41,v.i. r. civ. p. rule 41,Court Rule,state_rule,VI,2,1,1,2025,2025,true,exact
 V.I. R. Civ P. 15,v.i. r. civ p. 15,Court Rule,state_rule,VI,2,1,1,2024,2024,true,exact
 V.I. R. Civ P. 65,v.i. r. civ p. 65,Court Rule,state_rule,VI,2,1,1,2025,2025,true,exact
+V.I. R. Civ. P. 1,v.i. r. civ. p. 1,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 35,v.i. r. civ. p. 35,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 36,v.i. r. civ. p. 36,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 41,v.i. r. civ. p. 41,Court Rule,state_rule,VI,2,1,1,2025,2025,true,exact
 V.I. R. Civ. P. 42,v.i. r. civ. p. 42,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 43,v.i. r. civ. p. 43,Court Rule,state_rule,VI,2,2,1,2023,2023,true,exact
-V.I. R. Civ. P. 5,v.i. r. civ. p. 5,Court Rule,state_rule,VI,2,2,1,2017,2023,true,exact
+V.I. R. Civ. P. 6-3,v.i. r. civ. p. 6-3,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 V.I. R. Civ. P. R. 1,v.i. r. civ. p. r. 1,Court Rule,state_rule,VI,2,2,1,2023,2023,true,exact
-V.I. R. Crv. P. 12,v.i. r. crv. p. 12,Court Rule,state_rule,VI,2,1,1,2017,2017,false,unresolved
 V.I. R.App. P. 22,v.i. r.app. p. 22,Court Rule,state_rule,VI,2,2,1,2002,2002,true,exact
 V.I. R.App. P. 40.6,v.i. r.app. p. 40.6,Court Rule,state_rule,VI,2,1,1,2017,2017,true,exact
 V.I. S. CT. R. 203,v.i. s. ct. r. 203,Court Rule,state_rule,VI,2,2,1,2024,2024,true,exact
@@ -244,7 +243,6 @@ V.I. Super. Ct. R. 64,v.i. super. ct. r. 64,Court Rule,state_rule,VI,2,2,1,2016,
 V.I. Super. Ct. Rule 35,v.i. super. ct. rule 35,Court Rule,state_rule,VI,2,1,1,2019,2019,true,exact
 V.I.R. APP. P. 1,v.i.r. app. p. 1,Court Rule,state_rule,VI,2,2,1,2002,2008,true,exact
 V.I.R. APP. P. 4,v.i.r. app. p. 4,Court Rule,state_rule,VI,2,2,2,2002,2025,true,exact
-V.I.R. Civ. P. 12,v.i.r. civ. p. 12,Court Rule,state_rule,VI,2,2,1,2024,2025,true,exact
 V.I.R. Evid. 201,v.i.r. evid. 201,Court Rule,state_rule,VI,2,1,1,2025,2025,true,exact
 V.I.S. CT. R. 211.3.7,v.i.s. ct. r. 211.3.7,Court Rule,state_rule,VI,2,1,1,2024,2024,true,exact
 V.I.S. Ct. R. 203,v.i.s. ct. r. 203,Court Rule,state_rule,VI,2,2,2,2012,2013,true,exact
@@ -285,7 +283,6 @@ Virgin Islands Rules of Criminal Procedure Rule 32,virgin islands rules of crimi
 12-21 V.I. CODE R. § 914-12,12-21 v.i. code r. § 914-12,Court Rule,state_rule,VI,1,1,1,2014,2014,true,exact
 13 V.I. R. CIV. P. 8,13 v.i. r. civ. p. 8,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 "15 (b) of the Federal Rules, 5 V.I.C. App. I, Rule 15","15 (b) of the federal rules, 5 v.i.c. app. i, rule 15",Court Rule,state_rule,VI,1,1,1,1978,1978,false,unresolved
-1561 (2006). V.I.S.Ct. R. 4,1561 (2006). v.i.s.ct. r. 4,Court Rule,state_rule,VI,1,1,1,2015,2015,false,unresolved
 16 V.I. R. & R. § 345-06,16 v.i. r. & r. § 345-06,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
 16 V.I.S.Cr. R. 211.1.74,16 v.i.s.cr. r. 211.1.74,Court Rule,state_rule,VI,1,1,1,2024,2024,false,unresolved
 17 V.I. CODE R. § 121-26,17 v.i. code r. § 121-26,Court Rule,state_rule,VI,1,1,1,2009,2009,false,unresolved
@@ -404,14 +401,10 @@ CZM Rule 913-2 and 12 V.I.C. § 913,czm rule 913-2 and 12 v.i.c. § 913,Court Ru
 "DENIED. 5 V.I.C. App. V, Rule 6","denied. 5 v.i.c. app. v, rule 6",Court Rule,state_rule,VI,1,1,1,1977,1977,false,unresolved
 DENIED. Rule 4.2,denied. rule 4.2,Court Rule,state_rule,VI,1,1,1,2008,2008,false,unresolved
 "District Court, 4 V.I.C. App. V. R. 11","district court, 4 v.i.c. app. v. r. 11",Court Rule,state_rule,VI,1,1,1,1999,1999,false,unresolved
-ECF 23. 53 V.I. R. Civ. P. 4,ecf 23. 53 v.i. r. civ. p. 4,Court Rule,state_rule,VI,1,1,1,2024,2024,false,unresolved
 FED. R. CRJM. P. 12.1,fed. r. crjm. p. 12.1,Court Rule,state_rule,VI,1,1,1,2009,2009,false,unresolved
 FED. R. ClV. P. 19,fed. r. clv. p. 19,Court Rule,state_rule,VI,1,1,1,2003,2003,false,unresolved
 FED. R. ClV. P. 34,fed. r. clv. p. 34,Court Rule,state_rule,VI,1,1,1,2014,2014,false,unresolved
 FED. R. ClV. P. 35,fed. r. clv. p. 35,Court Rule,state_rule,VI,1,1,1,2001,2001,false,unresolved
-FED. R. Crv. P. 18,fed. r. crv. p. 18,Court Rule,state_rule,VI,1,1,1,2010,2010,false,unresolved
-FED. R. Crv. P. 3,fed. r. crv. p. 3,Court Rule,state_rule,VI,1,1,1,2009,2009,false,unresolved
-FED. R.. Civ. P. 12,fed. r.. civ. p. 12,Court Rule,state_rule,VI,1,1,1,2003,2003,false,unresolved
 J.D. R. 1083,j.d. r. 1083,Court Rule,local_rule,VI,1,1,1,1977,1977,false,unresolved
 J.D. R. 39/1976,j.d. r. 39/1976,Court Rule,local_rule,VI,1,1,1,1977,1977,false,unresolved
 J.D. R. 43/1975,j.d. r. 43/1975,Court Rule,local_rule,VI,1,1,1,1977,1977,false,unresolved
@@ -518,7 +511,6 @@ V.I. R. CRIM. P. 5-1,v.i. r. crim. p. 5-1,Court Rule,state_rule,VI,1,1,1,2024,20
 V.I. R. CRIM. P. Rule 5-1,v.i. r. crim. p. rule 5-1,Court Rule,state_rule,VI,1,1,1,2024,2024,true,exact
 V.I. R. Civ P. 6,v.i. r. civ p. 6,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 V.I. R. Civ P. 8,v.i. r. civ p. 8,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
-V.I. R. Civ. P. 1,v.i. r. civ. p. 1,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 1-3,v.i. r. civ. p. 1-3,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 10,v.i. r. civ. p. 10,Court Rule,state_rule,VI,1,1,1,2023,2023,true,exact
 V.I. R. Civ. P. 15. Rule 15,v.i. r. civ. p. 15. rule 15,Court Rule,state_rule,VI,1,1,1,2023,2023,true,exact
@@ -526,11 +518,12 @@ V.I. R. Civ. P. 16,v.i. r. civ. p. 16,Court Rule,state_rule,VI,1,1,1,2017,2017,t
 V.I. R. Civ. P. 2,v.i. r. civ. p. 2,Court Rule,state_rule,VI,1,1,1,2020,2020,true,exact
 V.I. R. Civ. P. 30,v.i. r. civ. p. 30,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 32,v.i. r. civ. p. 32,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
+V.I. R. Civ. P. 45,v.i. r. civ. p. 45,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 51,v.i. r. civ. p. 51,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 V.I. R. Civ. P. 6-2,v.i. r. civ. p. 6-2,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
-V.I. R. Civ. P. 6-3,v.i. r. civ. p. 6-3,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 61,v.i. r. civ. p. 61,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 V.I. R. Civ. P. 69,v.i. r. civ. p. 69,Court Rule,state_rule,VI,1,1,1,2023,2023,true,exact
+V.I. R. Civ. P. 7,v.i. r. civ. p. 7,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I. R. Civ. P. 93,v.i. r. civ. p. 93,Court Rule,state_rule,VI,1,1,1,2023,2023,false,unresolved
 V.I. R. Civ. P. Rule 15,v.i. r. civ. p. rule 15,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 V.I. R. Civ. P. Rule 6,v.i. r. civ. p. rule 6,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
@@ -538,14 +531,6 @@ V.I. R. Crim. P. 31,v.i. r. crim. p. 31,Court Rule,state_rule,VI,1,1,1,2020,2020
 V.I. R. Crim. P. 32.1,v.i. r. crim. p. 32.1,Court Rule,state_rule,VI,1,1,1,2020,2020,true,exact
 V.I. R. Crim. P. 4 and V.I. R. Crim. P. 41,v.i. r. crim. p. 4 and v.i. r. crim. p. 41,Court Rule,state_rule,VI,1,1,1,2024,2024,true,exact
 V.I. R. Crim. P. 47,v.i. r. crim. p. 47,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
-V.I. R. Crv. P. 1,v.i. r. crv. p. 1,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 11,v.i. r. crv. p. 11,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 41,v.i. r. crv. p. 41,Court Rule,state_rule,VI,1,1,1,2025,2025,false,unresolved
-V.I. R. Crv. P. 45,v.i. r. crv. p. 45,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 5,v.i. r. crv. p. 5,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 6-3,v.i. r. crv. p. 6-3,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 60,v.i. r. crv. p. 60,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I. R. Crv. P. 7,v.i. r. crv. p. 7,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
 V.I. R. Ctv. P. 56,v.i. r. ctv. p. 56,Court Rule,state_rule,VI,1,1,1,2024,2024,false,unresolved
 V.I. R. Ctv. P. 6,v.i. r. ctv. p. 6,Court Rule,state_rule,VI,1,1,1,2024,2024,false,unresolved
 V.I. R. Cv. P. 56,v.i. r. cv. p. 56,Court Rule,state_rule,VI,1,1,1,2024,2024,false,unresolved
@@ -630,8 +615,7 @@ V.I.R. Civ. P. 3,v.i.r. civ. p. 3,Court Rule,state_rule,VI,1,1,1,2025,2025,true,
 V.I.R. Civ. P. 42,v.i.r. civ. p. 42,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 V.I.R. Civ. P. 56,v.i.r. civ. p. 56,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
 V.I.R. Civ. P. 59,v.i.r. civ. p. 59,Court Rule,state_rule,VI,1,1,1,2025,2025,true,exact
-V.I.R. Crv. P. 4,v.i.r. crv. p. 4,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
-V.I.R. Crv. P. 8-1,v.i.r. crv. p. 8-1,Court Rule,state_rule,VI,1,1,1,2017,2017,false,unresolved
+V.I.R. Civ. P. 8-1,v.i.r. civ. p. 8-1,Court Rule,state_rule,VI,1,1,1,2017,2017,true,exact
 V.I.S. CT. R. 207.4.3,v.i.s. ct. r. 207.4.3,Court Rule,state_rule,VI,1,1,1,2013,2013,true,exact
 V.I.S. CT. R. 211,v.i.s. ct. r. 211,Court Rule,state_rule,VI,1,1,1,2024,2024,false,unresolved
 V.I.S. CT. R. 211.1.7,v.i.s. ct. r. 211.1.7,Court Rule,state_rule,VI,1,1,1,2024,2024,true,exact

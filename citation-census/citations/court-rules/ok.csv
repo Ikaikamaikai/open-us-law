@@ -80,6 +80,7 @@ Okla. Sup. Ct. R. 1.6,okla. sup. ct. r. 1.6,Court Rule,state_rule,OK,6,6,2,2016,
 Okla. Sup.Ct. R. 1.27,okla. sup.ct. r. 1.27,Court Rule,state_rule,OK,6,6,1,2003,2013,true,exact
 Okla.Sup.Ct. R. 1.21,okla.sup.ct. r. 1.21,Court Rule,state_rule,OK,6,6,2,1997,2019,true,exact
 Okla.Sup.Ct. R. 1.25,okla.sup.ct. r. 1.25,Court Rule,state_rule,OK,6,2,1,2002,2002,true,exact
+Oklahoma Rule 3.11,oklahoma rule 3.11,Court Rule,state_rule,OK,6,5,1,2008,2009,true,exact
 Oklahoma Supreme Court Rule 1.1,oklahoma supreme court rule 1.1,Court Rule,state_rule,OK,6,6,1,2017,2019,true,exact
 Oklahoma Supreme Court Rule 1.5,oklahoma supreme court rule 1.5,Court Rule,state_rule,OK,6,6,1,2013,2023,true,exact
 Oklahoma Supreme Court Rules 1.260,oklahoma supreme court rules 1.260,Court Rule,state_rule,OK,6,2,1,2010,2010,true,exact
@@ -100,7 +101,6 @@ Okla.Sup.Ct. R. 1.6,okla.sup.ct. r. 1.6,Court Rule,state_rule,OK,5,4,2,1997,2013
 Oklahoma County Local Rule 11,oklahoma county local rule 11,Court Rule,local_rule,OK,5,5,1,2010,2016,false,unresolved
 Oklahoma District Court Rule 4,oklahoma district court rule 4,Court Rule,state_rule,OK,5,5,2,1987,2020,true,exact
 Oklahoma Rule 1.2,oklahoma rule 1.2,Court Rule,state_rule,OK,5,1,1,2009,2009,true,exact
-Oklahoma Rule 3.11,oklahoma rule 3.11,Court Rule,state_rule,OK,5,5,1,2008,2009,true,exact
 Oklahoma Supreme Court Rule 1.180,oklahoma supreme court rule 1.180,Court Rule,state_rule,OK,5,5,1,2003,2023,true,exact
 Oklahoma Supreme Court Rule 1.194,oklahoma supreme court rule 1.194,Court Rule,state_rule,OK,5,2,1,2014,2014,true,exact
 Oklahoma Supreme Court Rule 1.25,oklahoma supreme court rule 1.25,Court Rule,state_rule,OK,5,3,1,2022,2022,true,exact
@@ -193,7 +193,6 @@ Oklahoma Supreme Court Rule 1.51,oklahoma supreme court rule 1.51,Court Rule,sta
 "R.G.D.P., Rule 9.1","r.g.d.p., rule 9.1",Court Rule,local_rule,OK,3,3,1,2016,2016,false,unresolved
 "RGDP, Rule 1 § 5.2","rgdp, rule 1 § 5.2",Court Rule,state_rule,OK,3,3,1,2025,2025,false,unresolved
 "RGDP, Rule 6 § 6.16","rgdp, rule 6 § 6.16",Court Rule,state_rule,OK,3,3,1,2025,2025,false,unresolved
-S.J.R. No. 44 § 2,s.j.r. no. 44 § 2,Court Rule,state_rule,OK,3,3,1,1978,2008,false,unresolved
 W.D. Okla. Civ. R. 7.1,w.d. okla. civ. r. 7.1,Court Rule,local_rule,OK,3,3,2,2017,2022,false,unresolved
 W.D. Okla. L.R. 54.1,w.d. okla. l.r. 54.1,Court Rule,local_rule,OK,3,1,1,2010,2010,false,unresolved
 1 Okla. Evid. (Whinery) § 2609,1 okla. evid. (whinery) § 2609,Court Rule,state_rule,OK,2,2,1,1992,1992,false,unresolved
@@ -203,7 +202,6 @@ W.D. Okla. L.R. 54.1,w.d. okla. l.r. 54.1,Court Rule,local_rule,OK,3,1,1,2010,20
 "12 O.S.2001, Ch. 15, App. 1, Okla. Sup.Ct. R. 1.4","12 o.s.2001, ch. 15, app. 1, okla. sup.ct. r. 1.4",Court Rule,state_rule,OK,2,2,1,2004,2004,false,unresolved
 17 Okla. Cr. R. 291,17 okla. cr. r. 291,Court Rule,state_rule,OK,2,2,1,1965,1965,false,unresolved
 "17 Okla. Cr. R. 291, 188 P. 124","17 okla. cr. r. 291, 188 p. 124",Court Rule,state_rule,OK,2,2,1,1965,1965,false,unresolved
-21 C.E.R. § 820.70,21 c.e.r. § 820.70,Court Rule,state_rule,OK,2,1,1,2013,2013,false,unresolved
 21 Okla. L.R. 79,21 okla. l.r. 79,Court Rule,local_rule,OK,2,2,1,1978,1978,false,unresolved
 35 A.D. R. 417,35 a.d. r. 417,Court Rule,local_rule,OK,2,2,1,1975,1975,false,unresolved
 35 Okla. L.R. 633,35 okla. l.r. 633,Court Rule,local_rule,OK,2,2,1,1985,1985,false,unresolved
@@ -235,7 +233,6 @@ E.D. Okla. Local Civ. R. 7.1,e.d. okla. local civ. r. 7.1,Court Rule,local_rule,
 E.D. Okla. R. 5,e.d. okla. r. 5,Court Rule,local_rule,OK,2,2,1,1996,1996,false,unresolved
 E.D. Okla. Rule 12,e.d. okla. rule 12,Court Rule,local_rule,OK,2,2,1,1962,1962,false,unresolved
 FED. CIR. R. 47.8,fed. cir. r. 47.8,Court Rule,state_rule,OK,2,2,1,2002,2002,true,exact
-H.J.R. 1077 § 33,h.j.r. 1077 § 33,Court Rule,state_rule,OK,2,2,1,1993,1993,false,unresolved
 O.S.1991 Okla.Sup.Ct. R. 1.178,o.s.1991 okla.sup.ct. r. 1.178,Court Rule,state_rule,OK,2,2,1,2011,2011,false,unresolved
 "Okla. City Compl., R. 35-25","okla. city compl., r. 35-25",Court Rule,state_rule,OK,2,2,1,2023,2023,false,unresolved
 Okla. Crim. App. R. 2.1,okla. crim. app. r. 2.1,Court Rule,state_rule,OK,2,2,1,2000,2019,true,exact
@@ -334,7 +331,6 @@ WD Okla. Rules 42,wd okla. rules 42,Court Rule,state_rule,OK,2,2,1,1991,1991,tru
 "1086 (1981), and Okla.R.Crim. P. 4.1","1086 (1981), and okla.r.crim. p. 4.1",Court Rule,state_rule,OK,1,1,1,1992,1992,false,unresolved
 11 Okla. Sup. Ct. R. 1.21,11 okla. sup. ct. r. 1.21,Court Rule,state_rule,OK,1,1,1,2018,2018,true,exact
 1143 (Okla. 1993). RGDP Rule 6.2,1143 (okla. 1993). rgdp rule 6.2,Court Rule,state_rule,OK,1,1,1,1997,1997,false,unresolved
-12 C.E.R. § 226.2,12 c.e.r. § 226.2,Court Rule,state_rule,OK,1,1,1,2015,2015,false,unresolved
 "12 O.S.2001, Ch. 15, App. 1, Okla.Sup. Ct. R. 1.26","12 o.s.2001, ch. 15, app. 1, okla.sup. ct. r. 1.26",Court Rule,state_rule,OK,1,1,1,2008,2008,false,unresolved
 "12 O.S.Supp.1993, Ch. 2, App. 1, D.Ct. Rule 13","12 o.s.supp.1993, ch. 2, app. 1, d.ct. rule 13",Court Rule,local_rule,OK,1,1,1,1996,1996,false,unresolved
 "12 O.S.Supp.1993, Ch. 2, App., D.Ct. Rule 13","12 o.s.supp.1993, ch. 2, app., d.ct. rule 13",Court Rule,local_rule,OK,1,1,1,1996,1996,false,unresolved
@@ -396,10 +392,7 @@ WD Okla. Rules 42,wd okla. rules 42,Court Rule,state_rule,OK,2,2,1,1991,1991,tru
 40 Okla. Cr. R. 421,40 okla. cr. r. 421,Court Rule,state_rule,OK,1,1,1,1942,1942,false,unresolved
 "40 Okla. Cr. R. 421, 269 P. 385","40 okla. cr. r. 421, 269 p. 385",Court Rule,state_rule,OK,1,1,1,1942,1942,false,unresolved
 "414-15 (Okla.1956). Title 85 O.S.1991, Ch. 4 App., Rule 28","414-15 (okla.1956). title 85 o.s.1991, ch. 4 app., rule 28",Court Rule,state_rule,OK,1,1,1,1995,1995,false,unresolved
-42 C.E.R. § 431.245,42 c.e.r. § 431.245,Court Rule,state_rule,OK,1,1,1,2006,2006,false,unresolved
 42 C.E.R. § 483,42 c.e.r. § 483,Court Rule,state_rule,OK,1,1,1,2011,2011,false,unresolved
-42 C.E.R. § 483.13,42 c.e.r. § 483.13,Court Rule,state_rule,OK,1,1,1,2006,2006,false,unresolved
-42 C.E.R. § 488.5,42 c.e.r. § 488.5,Court Rule,state_rule,OK,1,1,1,2006,2006,false,unresolved
 "42 C.E.R., ch. IV (10-1-05), Part 483 § 483.1","42 c.e.r., ch. iv (10-1-05), part 483 § 483.1",Court Rule,state_rule,OK,1,1,1,2006,2006,false,unresolved
 42 W.D. Okla. Civ. R. 7.1,42 w.d. okla. civ. r. 7.1,Court Rule,local_rule,OK,1,1,1,2019,2019,false,unresolved
 444-445 (Okla.1967). Rule 28,444-445 (okla.1967). rule 28,Court Rule,state_rule,OK,1,1,1,1991,1991,false,unresolved
@@ -408,7 +401,6 @@ WD Okla. Rules 42,wd okla. rules 42,Court Rule,state_rule,OK,2,2,1,1991,1991,tru
 47 Oklahoma Supreme Court Rule 1.194,47 oklahoma supreme court rule 1.194,Court Rule,state_rule,OK,1,1,1,2014,2014,true,exact
 48 Okla. Cr. R. 257,48 okla. cr. r. 257,Court Rule,state_rule,OK,1,1,1,1934,1934,false,unresolved
 486 (Okla. 1944). Rule 45.2,486 (okla. 1944). rule 45.2,Court Rule,state_rule,OK,1,1,1,1964,1964,false,unresolved
-49 C.E.R. § 216.15,49 c.e.r. § 216.15,Court Rule,state_rule,OK,1,1,1,2003,2003,false,unresolved
 49 C.FP.R. § 216.15,49 c.fp.r. § 216.15,Court Rule,state_rule,OK,1,1,1,2003,2003,false,unresolved
 49 C.R.R. § 571.208,49 c.r.r. § 571.208,Court Rule,state_rule,OK,1,1,1,2001,2001,false,unresolved
 "5 O.S., Chap. 1, App. 3, D. R. 7-107","5 o.s., chap. 1, app. 3, d. r. 7-107",Court Rule,local_rule,OK,1,1,1,1978,1978,false,unresolved
@@ -498,14 +490,11 @@ E.D. Okla. Local Rule 54.1,e.d. okla. local rule 54.1,Court Rule,local_rule,OK,1
 E.D. Okla. R. 16.1,e.d. okla. r. 16.1,Court Rule,local_rule,OK,1,1,1,2000,2000,false,unresolved
 E.D. Okla. Rule 4,e.d. okla. rule 4,Court Rule,local_rule,OK,1,1,1,1991,1991,false,unresolved
 Fed. Civ. Proc. Rule 14,fed. civ. proc. rule 14,Court Rule,state_rule,OK,1,1,1,2015,2015,false,unresolved
-I. Oklahoma Rule 3.11,i. oklahoma rule 3.11,Court Rule,state_rule,OK,1,1,1,2009,2009,false,unresolved
 "L. Ed. 303, 54 A.D. R. 1016","l. ed. 303, 54 a.d. r. 1016",Court Rule,local_rule,OK,1,1,1,1934,1934,false,unresolved
 "L.R. 283, 4 D. L.R. 452","l.r. 283, 4 d. l.r. 452",Court Rule,local_rule,OK,1,1,1,1941,1941,false,unresolved
 L.R.A. 1916 § 106,l.r.a. 1916 § 106,Court Rule,local_rule,OK,1,1,1,1931,1931,false,unresolved
 L.R.A. 1916 § 116,l.r.a. 1916 § 116,Court Rule,local_rule,OK,1,1,1,1931,1931,false,unresolved
 "L.R.A. 1918E, 561, 78 A.D. R. 1232","l.r.a. 1918e, 561, 78 a.d. r. 1232",Court Rule,local_rule,OK,1,1,1,1932,1932,false,unresolved
-LR.C. § 1501,lr.c. § 1501,Court Rule,local_rule,OK,1,1,1,2006,2006,false,unresolved
-LR.C. § 1504,lr.c. § 1504,Court Rule,local_rule,OK,1,1,1,2006,2006,false,unresolved
 "Local Rules, W.D. Okla., L.R. 56.1","local rules, w.d. okla., l.r. 56.1",Court Rule,local_rule,OK,1,1,1,2013,2013,false,unresolved
 "Local Rules, W.D. Okla., LCvR 56.1","local rules, w.d. okla., lcvr 56.1",Court Rule,local_rule,OK,1,1,1,2013,2013,false,unresolved
 M.D. R. T7,m.d. r. t7,Court Rule,local_rule,OK,1,1,1,2003,2003,false,unresolved
@@ -719,7 +708,6 @@ Oklahoma Supreme Court. Rule 4,oklahoma supreme court. rule 4,Court Rule,state_r
 "R. L, 1910, 4642 (12 O.S.2011 § 2","r. l, 1910, 4642 (12 o.s.2011 § 2",Court Rule,state_rule,OK,1,1,1,2016,2016,false,unresolved
 R.R. 1910 § 5124,r.r. 1910 § 5124,Court Rule,state_rule,OK,1,1,1,1918,1918,false,unresolved
 "RG.D.P., Rule 5.2","rg.d.p., rule 5.2",Court Rule,local_rule,OK,1,1,1,2003,2003,false,unresolved
-S.J.R. No. 27 § 8,s.j.r. no. 27 § 8,Court Rule,state_rule,OK,1,1,1,1992,1992,false,unresolved
 "Supreme Court of Oklahoma, Rules 13","supreme court of oklahoma, rules 13",Court Rule,state_rule,OK,1,1,1,1975,1975,true,exact
 Supreme Court of Oklahoma. Rule 3.13,supreme court of oklahoma. rule 3.13,Court Rule,state_rule,OK,1,1,1,1983,1983,true,exact
 Supreme Court of Oklahoma. Rule 32,supreme court of oklahoma. rule 32,Court Rule,state_rule,OK,1,1,1,1977,1977,false,unresolved

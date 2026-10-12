@@ -1,19 +1,19 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 S.D. Ind. L.R. 56-1,s.d. ind. l.r. 56-1,Court Rule,local_rule,SD,648,330,4,2012,2026,false,unresolved
-S.D. Ohio Civ. R. 7.2,s.d. ohio civ. r. 7.2,Court Rule,local_rule,SD,447,344,3,1999,2026,true,exact
+S.D. Ohio Civ. R. 7.2,s.d. ohio civ. r. 7.2,Court Rule,local_rule,SD,450,344,3,1999,2026,true,exact
 S.D. Fla. L.R. 7.1,s.d. fla. l.r. 7.1,Court Rule,local_rule,SD,277,220,5,2007,2026,true,exact
 S.D. Fla. Mag. R. 4,s.d. fla. mag. r. 4,Court Rule,local_rule,SD,179,179,3,2010,2026,false,unresolved
-S.D. Fla. L.R. 56.1,s.d. fla. l.r. 56.1,Court Rule,local_rule,SD,159,98,2,2011,2026,true,exact
-S.D. Ohio Civ. R. 37.1,s.d. ohio civ. r. 37.1,Court Rule,local_rule,SD,157,109,1,2013,2026,true,exact
+S.D. Fla. L.R. 56.1,s.d. fla. l.r. 56.1,Court Rule,local_rule,SD,166,98,2,2011,2026,true,exact
+S.D. Ohio Civ. R. 37.1,s.d. ohio civ. r. 37.1,Court Rule,local_rule,SD,158,109,1,2013,2026,true,exact
 S.D. Ind. Local Rule 56-1,s.d. ind. local rule 56-1,Court Rule,local_rule,SD,138,126,1,2019,2025,false,unresolved
 S.D. Ohio General Rule 22-01,s.d. ohio general rule 22-01,Court Rule,local_rule,SD,137,137,1,2022,2026,false,unresolved
-S.D.N.Y. Local Civil Rule 56.1,s.d.n.y. local civil rule 56.1,Court Rule,local_rule,SD,115,102,3,1997,2025,true,exact
+S.D.N.Y. Local Civil Rule 56.1,s.d.n.y. local civil rule 56.1,Court Rule,local_rule,SD,116,102,3,1997,2025,true,exact
 S.D.N.Y. Local Rule 56.1,s.d.n.y. local rule 56.1,Court Rule,local_rule,SD,114,104,4,1998,2025,true,exact
 S.D. Fla. L. Mag. J. R. 4,s.d. fla. l. mag. j. r. 4,Court Rule,local_rule,SD,89,85,1,2021,2026,false,unresolved
 S.D. Cal. Civ. R. 7.1,s.d. cal. civ. r. 7.1,Court Rule,local_rule,SD,86,76,2,2003,2026,false,unresolved
+S.D. Cal. Civ. L.R. 3.2,s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,83,68,1,2019,2025,true,exact
 S.D. Fla. L.R. 7.3,s.d. fla. l.r. 7.3,Court Rule,local_rule,SD,77,57,4,2000,2026,true,exact
 S.D. Tex. L.R. 7.4,s.d. tex. l.r. 7.4,Court Rule,local_rule,SD,74,67,2,2013,2025,false,unresolved
-S.D. Cal. Civ. L.R. 3.2,s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,68,68,1,2019,2025,true,exact
 S.D. Cal. Civ. L.R. 15.1,s.d. cal. civ. l.r. 15.1,Court Rule,local_rule,SD,67,66,1,2018,2025,true,exact
 S.D. Ga. L. Civ. R. 7.5,s.d. ga. l. civ. r. 7.5,Court Rule,local_rule,SD,67,58,1,2019,2026,false,unresolved
 S.D. Fla. L.R. 26.1,s.d. fla. l.r. 26.1,Court Rule,local_rule,SD,63,36,2,2008,2026,true,exact
@@ -25,7 +25,7 @@ S.D. Cal. Civ. R. 83.3,s.d. cal. civ. r. 83.3,Court Rule,local_rule,SD,45,15,2,2
 S.D. Ohio Civ. R. 5.2.1,s.d. ohio civ. r. 5.2.1,Court Rule,local_rule,SD,45,39,1,2019,2026,true,exact
 S.D. Tex. Local R. 7.4,s.d. tex. local r. 7.4,Court Rule,local_rule,SD,39,32,3,2002,2026,false,unresolved
 S.D. OHIO Civ. R. 7.2,s.d. ohio civ. r. 7.2,Court Rule,local_rule,SD,38,34,1,2024,2025,true,exact
-S.D. Ohio Civ. R. 82.1,s.d. ohio civ. r. 82.1,Court Rule,local_rule,SD,36,19,1,2019,2025,true,exact
+S.D. Ohio Civ. R. 82.1,s.d. ohio civ. r. 82.1,Court Rule,local_rule,SD,37,19,1,2019,2025,true,exact
 S.D. Fla. L.R. 11.1,s.d. fla. l.r. 11.1,Court Rule,local_rule,SD,34,29,2,2007,2025,true,exact
 S.D. Ind. L.R. 5-11,s.d. ind. l.r. 5-11,Court Rule,local_rule,SD,34,14,1,2012,2026,false,unresolved
 S.D. Ohio Civ. R. 16.3,s.d. ohio civ. r. 16.3,Court Rule,local_rule,SD,34,16,2,2020,2026,true,exact
@@ -33,7 +33,7 @@ S.D.N.Y. Local Civ. R. 6.3,s.d.n.y. local civ. r. 6.3,Court Rule,local_rule,SD,3
 S.D.N.Y. Local Civil Rule 6.3,s.d.n.y. local civil rule 6.3,Court Rule,local_rule,SD,34,32,3,2003,2025,true,exact
 S.D.N.Y. Civ. R. 56.1,s.d.n.y. civ. r. 56.1,Court Rule,local_rule,SD,33,17,1,2000,2020,true,exact
 S.D. Ohio Civ. R. 8.1,s.d. ohio civ. r. 8.1,Court Rule,local_rule,SD,32,32,1,2020,2025,true,exact
-S.D. Ohio Civ. R. 7.3,s.d. ohio civ. r. 7.3,Court Rule,local_rule,SD,30,17,2,2017,2026,true,exact
+S.D. Ohio Civ. R. 7.3,s.d. ohio civ. r. 7.3,Court Rule,local_rule,SD,31,17,2,2017,2026,true,exact
 S.D. Ga. L.R. 56.1,s.d. ga. l.r. 56.1,Court Rule,local_rule,SD,28,19,3,2002,2025,false,unresolved
 S.D. Ind. L.R. 56.1,s.d. ind. l.r. 56.1,Court Rule,local_rule,SD,28,24,3,1997,2024,false,unresolved
 S.D.N.Y. Local Rule 6.3,s.d.n.y. local rule 6.3,Court Rule,local_rule,SD,28,25,2,2005,2025,true,exact
@@ -41,12 +41,12 @@ S.D. Fla. L.R. 15.1,s.d. fla. l.r. 15.1,Court Rule,local_rule,SD,27,25,2,2001,20
 S.D. Fla. L.R. 7.5,s.d. fla. l.r. 7.5,Court Rule,local_rule,SD,27,25,3,2002,2012,false,unresolved
 S.D. Fla. Mag. J. R. 4,s.d. fla. mag. j. r. 4,Court Rule,local_rule,SD,27,26,1,2008,2026,true,exact
 S.D. Ind. L.R. 56,s.d. ind. l.r. 56,Court Rule,local_rule,SD,27,21,2,2014,2026,false,unresolved
-S.D. Ohio Civ. R. 4.2,s.d. ohio civ. r. 4.2,Court Rule,local_rule,SD,26,19,2,2020,2025,true,exact
+S.D. Ohio Civ. R. 4.2,s.d. ohio civ. r. 4.2,Court Rule,local_rule,SD,27,19,2,2020,2025,true,exact
 S.D. Ohio Civ. R. 54.2,s.d. ohio civ. r. 54.2,Court Rule,local_rule,SD,26,13,2,2017,2024,true,exact
 S.D. Fla. Local Rule 7.1,s.d. fla. local rule 7.1,Court Rule,local_rule,SD,25,22,2,2008,2024,true,exact
+S.D. Ohio Civ. R. 5.1,s.d. ohio civ. r. 5.1,Court Rule,local_rule,SD,25,19,1,2021,2026,true,exact
+S.D. Cal. Civ. L.R. 4.1.c,s.d. cal. civ. l.r. 4.1.c,Court Rule,local_rule,SD,24,23,1,2020,2025,true,exact
 S.D. Ill. Rule 4.2,s.d. ill. rule 4.2,Court Rule,local_rule,SD,24,2,1,2001,2001,false,unresolved
-S.D. Ohio Civ. R. 5.1,s.d. ohio civ. r. 5.1,Court Rule,local_rule,SD,24,19,1,2021,2026,true,exact
-S.D. Cal. Civ. L.R. 4.1.c,s.d. cal. civ. l.r. 4.1.c,Court Rule,local_rule,SD,23,23,1,2020,2025,true,exact
 S.D. Fla. L.R. 5.4,s.d. fla. l.r. 5.4,Court Rule,local_rule,SD,23,20,2,2019,2026,true,exact
 "S.D. Fla. L.R., Mag. R. 1","s.d. fla. l.r., mag. r. 1",Court Rule,local_rule,SD,23,23,1,2015,2026,false,unresolved
 S.D.N.Y. Local Civ. R. 56.1,s.d.n.y. local civ. r. 56.1,Court Rule,local_rule,SD,23,13,2,1998,2025,true,exact
@@ -55,6 +55,7 @@ S.D. Ind. L.R. 37-1,s.d. ind. l.r. 37-1,Court Rule,local_rule,SD,22,17,2,2014,20
 District Judge. S.D. Ohio Civ. R. 72.4,district judge. s.d. ohio civ. r. 72.4,Court Rule,local_rule,SD,21,21,1,2022,2025,false,unresolved
 S.D. Ind. L.R. 15-1,s.d. ind. l.r. 15-1,Court Rule,local_rule,SD,20,18,1,2019,2025,false,unresolved
 S.D. Tex. L.R. 7.3,s.d. tex. l.r. 7.3,Court Rule,local_rule,SD,20,13,2,2005,2025,false,unresolved
+S.D. Cal. Civ. L.R. 7.1,s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,19,13,1,2020,2025,true,exact
 S.D. Cal. Civil Local Rule 7.1,s.d. cal. civil local rule 7.1,Court Rule,local_rule,SD,19,18,1,2020,2025,true,exact
 S.D. Cal. Civ. L.R. 16.1,s.d. cal. civ. l.r. 16.1,Court Rule,local_rule,SD,17,14,2,2001,2024,true,exact
 S.D. Fla. L.R. 88.2,s.d. fla. l.r. 88.2,Court Rule,local_rule,SD,17,7,1,2020,2025,true,exact
@@ -65,11 +66,12 @@ S.D. Ga. L. Civ. R. 11.1,s.d. ga. l. civ. r. 11.1,Court Rule,local_rule,SD,16,16
 S.D. Cal. Civ. L.R. 5.2,s.d. cal. civ. l.r. 5.2,Court Rule,local_rule,SD,15,15,1,2019,2023,true,exact
 S.D. Fla. L. Mag. R. 4,s.d. fla. l. mag. r. 4,Court Rule,local_rule,SD,15,13,1,2006,2024,false,unresolved
 S.D. Fla. L.R. 4,s.d. fla. l.r. 4,Court Rule,local_rule,SD,15,14,2,2005,2025,false,unresolved
+S.D.N.Y. Civ. R. 26.2,s.d.n.y. civ. r. 26.2,Court Rule,local_rule,SD,15,8,1,2009,2014,true,exact
 S.D.N.Y. Loc. Civ. R. 56.1,s.d.n.y. loc. civ. r. 56.1,Court Rule,local_rule,SD,15,7,3,2021,2024,true,exact
 S.D.N.Y. Local Civil Rule 1.5,s.d.n.y. local civil rule 1.5,Court Rule,local_rule,SD,15,9,3,2002,2018,true,exact
 S.D.N.Y. Local Rules and ECF Rule 16.4,s.d.n.y. local rules and ecf rule 16.4,Court Rule,local_rule,SD,15,15,1,2023,2023,false,unresolved
 S.D. Ala. Civ. L.R. 41,s.d. ala. civ. l.r. 41,Court Rule,local_rule,SD,14,7,1,2019,2023,false,unresolved
-S.D. Cal. Civ. L.R. 7.1,s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,14,13,1,2020,2025,true,exact
+S.D. Cal. Civ. L.R. 83.3,s.d. cal. civ. l.r. 83.3,Court Rule,local_rule,SD,14,12,2,2000,2025,true,exact
 S.D. Cal. Civ. R. 41.1,s.d. cal. civ. r. 41.1,Court Rule,local_rule,SD,14,12,2,2018,2024,false,unresolved
 S.D. Ind. L.R. 10-1,s.d. ind. l.r. 10-1,Court Rule,local_rule,SD,14,5,2,2023,2026,false,unresolved
 S.D. Ohio Local Rule 7.2,s.d. ohio local rule 7.2,Court Rule,local_rule,SD,14,12,2,1998,2024,false,unresolved
@@ -78,9 +80,7 @@ S.D.Ind. L.R. 56.1,s.d.ind. l.r. 56.1,Court Rule,local_rule,SD,14,11,3,1993,2002
 S.D. Fla. Mag. R. 1,s.d. fla. mag. r. 1,Court Rule,local_rule,SD,13,13,1,2015,2026,false,unresolved
 S.D. Ind. Local Rule 7-1,s.d. ind. local rule 7-1,Court Rule,local_rule,SD,13,11,1,2020,2026,false,unresolved
 S.D. Ohio Civ. R. 1.1,s.d. ohio civ. r. 1.1,Court Rule,local_rule,SD,13,9,2,2017,2023,true,exact
-S.D.N.Y. Civ. R. 26.2,s.d.n.y. civ. r. 26.2,Court Rule,local_rule,SD,13,8,1,2009,2014,true,exact
 S.D.N.Y.Civ. R. 3,s.d.n.y.civ. r. 3,Court Rule,local_rule,SD,13,13,3,1983,1997,false,unresolved
-S.D. Cal. Civ. L.R. 83.3,s.d. cal. civ. l.r. 83.3,Court Rule,local_rule,SD,12,12,2,2000,2025,true,exact
 S.D. Ga. L. Civ. R. 41.1,s.d. ga. l. civ. r. 41.1,Court Rule,local_rule,SD,12,12,1,2021,2025,false,unresolved
 S.D. Ohio Civ. R. 54.1,s.d. ohio civ. r. 54.1,Court Rule,local_rule,SD,12,8,1,2021,2026,true,exact
 S.D. TEX. L.R. 7.4,s.d. tex. l.r. 7.4,Court Rule,local_rule,SD,12,12,2,2011,2025,false,unresolved
@@ -149,7 +149,6 @@ District Judge. S.D. Ohio L.R. 72.4,district judge. s.d. ohio l.r. 72.4,Court Ru
 S.D. Ala. Civ. L.R. 56,s.d. ala. civ. l.r. 56,Court Rule,local_rule,SD,6,5,1,2018,2024,false,unresolved
 S.D. Cal. Civ. R. 26.1,s.d. cal. civ. r. 26.1,Court Rule,local_rule,SD,6,2,1,2012,2023,false,unresolved
 S.D. Cal. Crim. R. 47.1,s.d. cal. crim. r. 47.1,Court Rule,local_rule,SD,6,2,1,2016,2016,false,unresolved
-S.D. Fla. L.R. 56.l,s.d. fla. l.r. 56.l,Court Rule,local_rule,SD,6,2,1,2025,2025,false,unresolved
 S.D. Fla. Loc. R. 7.1,s.d. fla. loc. r. 7.1,Court Rule,local_rule,SD,6,5,3,2003,2025,true,exact
 S.D. Fla. Local Rule 5.4,s.d. fla. local rule 5.4,Court Rule,local_rule,SD,6,6,2,2020,2022,true,exact
 S.D. Ill. L.R. 7.1,s.d. ill. l.r. 7.1,Court Rule,local_rule,SD,6,2,1,2012,2015,false,unresolved
@@ -170,8 +169,6 @@ S.D.N.Y. Local Rule 26.2,s.d.n.y. local rule 26.2,Court Rule,local_rule,SD,6,6,3
 S.D.N.Y. Local Rule 54.1,s.d.n.y. local rule 54.1,Court Rule,local_rule,SD,6,5,2,2002,2025,true,exact
 S.D.N.Y. R. 83.2,s.d.n.y. r. 83.2,Court Rule,local_rule,SD,6,2,1,1999,1999,false,unresolved
 "South Dakota, N.A., 219 B. R. 763","south dakota, n.a., 219 b. r. 763",Court Rule,state_rule,SD,6,6,3,2003,2023,false,unresolved
-21 S.D. Cal. Civ. L.R. 3.2,21 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,5,5,1,2022,2024,false,unresolved
-22 S.D. Cal. Civ. L.R. 3.2,22 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,5,5,1,2022,2025,false,unresolved
 District Judge. S.D. Ohio L.R. 72.3,district judge. s.d. ohio l.r. 72.3,Court Rule,local_rule,SD,5,5,1,2012,2020,false,unresolved
 S.D. Ala. Civil Local Rule 15,s.d. ala. civil local rule 15,Court Rule,local_rule,SD,5,3,1,2019,2024,false,unresolved
 S.D. Cal. Civ. L.R. 83.11,s.d. cal. civ. l.r. 83.11,Court Rule,local_rule,SD,5,3,1,2023,2025,true,exact
@@ -255,6 +252,7 @@ S.D.N.Y. & E.D.N.Y. Local Rule 13,s.d.n.y. & e.d.n.y. local rule 13,Court Rule,l
 S.D.N.Y. & E.D.N.Y.Civ. R. 5,s.d.n.y. & e.d.n.y.civ. r. 5,Court Rule,local_rule,SD,4,2,1,1985,1985,false,unresolved
 S.D.N.Y. Civ. R. 1.4,s.d.n.y. civ. r. 1.4,Court Rule,local_rule,SD,4,4,1,2006,2022,true,exact
 S.D.N.Y. Civ. R. 54.1,s.d.n.y. civ. r. 54.1,Court Rule,local_rule,SD,4,2,1,2008,2020,true,exact
+S.D.N.Y. Civ. R. 7.1,s.d.n.y. civ. r. 7.1,Court Rule,local_rule,SD,4,3,1,2003,2010,true,exact
 S.D.N.Y. L. Civ. R. 6.3,s.d.n.y. l. civ. r. 6.3,Court Rule,local_rule,SD,4,4,2,2019,2023,true,exact
 S.D.N.Y. Loc. R. 6.3,s.d.n.y. loc. r. 6.3,Court Rule,local_rule,SD,4,3,1,2021,2025,true,exact
 S.D.N.Y. Local Civil Rule 3,s.d.n.y. local civil rule 3,Court Rule,local_rule,SD,4,4,2,1981,1995,false,unresolved
@@ -268,7 +266,6 @@ S.D.N.Y. Local Rule 83.10,s.d.n.y. local rule 83.10,Court Rule,local_rule,SD,4,2
 S.D.N.Y. R. 3,s.d.n.y. r. 3,Court Rule,local_rule,SD,4,4,1,1985,1996,false,unresolved
 S.D.N.Y. R. 9023-1,s.d.n.y. r. 9023-1,Court Rule,local_rule,SD,4,3,1,2013,2026,false,unresolved
 "South Dakota Rules of Evidence, Rule 404","south dakota rules of evidence, rule 404",Court Rule,state_rule,SD,4,3,1,1978,1979,false,unresolved
-1 S.D. Ohio Civ. R. 7.2,1 s.d. ohio civ. r. 7.2,Court Rule,local_rule,SD,3,3,1,2022,2025,false,unresolved
 "175 B.R. 525, 533 (Bankr. S.D.N.Y. 1994)). 52 § 101","175 b.r. 525, 533 (bankr. s.d.n.y. 1994)). 52 § 101",Court Rule,local_rule,SD,3,3,1,2025,2025,false,unresolved
 327 (S.D.N.Y.2006). Rule 9,327 (s.d.n.y.2006). rule 9,Court Rule,local_rule,SD,3,3,1,2013,2013,false,unresolved
 632-33 (S.D.N.Y.2008). Rule 9,632-33 (s.d.n.y.2008). rule 9,Court Rule,local_rule,SD,3,3,1,2013,2015,false,unresolved
@@ -284,11 +281,15 @@ S.D. & E.D.N.Y.R. Civ. P. 83.1,s.d. & e.d.n.y.r. civ. p. 83.1,Court Rule,local_r
 S.D. Ala. Civ. LR 54,s.d. ala. civ. lr 54,Court Rule,local_rule,SD,3,2,1,2023,2025,false,unresolved
 S.D. Ala. Civil Local Rule 7.1,s.d. ala. civil local rule 7.1,Court Rule,local_rule,SD,3,3,1,2025,2026,false,unresolved
 S.D. Ala. L.R. 7.2,s.d. ala. l.r. 7.2,Court Rule,local_rule,SD,3,3,1,2013,2023,false,unresolved
+S.D. Cal. Civ. L.R. 26.1,s.d. cal. civ. l.r. 26.1,Court Rule,local_rule,SD,3,2,1,2019,2023,true,exact
 S.D. Cal. Civ. L.R. 4,s.d. cal. civ. l.r. 4,Court Rule,local_rule,SD,3,3,1,2021,2023,false,unresolved
+S.D. Cal. Civ. L.R. 4.1,s.d. cal. civ. l.r. 4.1,Court Rule,local_rule,SD,3,2,1,2023,2025,true,exact
 S.D. Cal. Civ. L.R. 41.1,s.d. cal. civ. l.r. 41.1,Court Rule,local_rule,SD,3,3,1,2020,2024,true,exact
+S.D. Cal. Civ. L.R. 54.1,s.d. cal. civ. l.r. 54.1,Court Rule,local_rule,SD,3,2,1,2025,2025,true,exact
 S.D. Cal. Civ. L.R. 8,s.d. cal. civ. l.r. 8,Court Rule,local_rule,SD,3,3,1,2024,2026,true,exact
 S.D. Cal. Civ. L.R. 83.3.f,s.d. cal. civ. l.r. 83.3.f,Court Rule,local_rule,SD,3,1,1,2021,2021,true,exact
 S.D. Cal. Civ. L.R. 83.4,s.d. cal. civ. l.r. 83.4,Court Rule,local_rule,SD,3,3,2,2020,2023,false,unresolved
+S.D. Cal. Civ. LR 7.1,s.d. cal. civ. lr 7.1,Court Rule,local_rule,SD,3,2,1,2020,2025,true,exact
 S.D. Cal. Civ. R. 16.1,s.d. cal. civ. r. 16.1,Court Rule,local_rule,SD,3,3,1,2012,2012,false,unresolved
 S.D. Cal. Civ. R. 16.3,s.d. cal. civ. r. 16.3,Court Rule,local_rule,SD,3,3,1,2012,2012,false,unresolved
 S.D. Cal. Civ. R. 7.1.e,s.d. cal. civ. r. 7.1.e,Court Rule,local_rule,SD,3,3,2,2013,2022,false,unresolved
@@ -340,7 +341,6 @@ S.D.Fla. L.R. 7.5,s.d.fla. l.r. 7.5,Court Rule,local_rule,SD,3,3,1,2000,2001,fal
 S.D.Fla. Local Rule 10,s.d.fla. local rule 10,Court Rule,local_rule,SD,3,3,2,1990,1991,false,unresolved
 S.D.N.Y. Civ R. 56.1,s.d.n.y. civ r. 56.1,Court Rule,local_rule,SD,3,1,1,2009,2009,true,exact
 S.D.N.Y. Civ. R. 6.3,s.d.n.y. civ. r. 6.3,Court Rule,local_rule,SD,3,3,1,2004,2010,true,exact
-S.D.N.Y. Civ. R. 7.1,s.d.n.y. civ. r. 7.1,Court Rule,local_rule,SD,3,3,1,2003,2009,true,exact
 S.D.N.Y. Civ. Rule 19,s.d.n.y. civ. rule 19,Court Rule,local_rule,SD,3,3,2,1984,2012,false,unresolved
 S.D.N.Y. Loc. Civ. R. 56.2,s.d.n.y. loc. civ. r. 56.2,Court Rule,local_rule,SD,3,2,2,2025,2025,true,exact
 S.D.N.Y. Loc. R. 56.1,s.d.n.y. loc. r. 56.1,Court Rule,local_rule,SD,3,2,1,2004,2024,true,exact
@@ -366,7 +366,6 @@ S.D.Tex. R. 22,s.d.tex. r. 22,Court Rule,local_rule,SD,3,1,1,1975,1975,false,unr
 S.D.Tex. R. 6,s.d.tex. r. 6,Court Rule,local_rule,SD,3,3,2,1980,1995,false,unresolved
 S.D.Tex. R. 6.E,s.d.tex. r. 6.e,Court Rule,local_rule,SD,3,2,1,1996,1997,false,unresolved
 10 (S.D.N.Y.2000) Rule 9,10 (s.d.n.y.2000) rule 9,Court Rule,local_rule,SD,2,2,1,2001,2001,false,unresolved
-"111 B.R. 914, 918 (Bankr. S.D. Cal. 1990)). 6 CAL. CIV. CODE § 3439.09","111 b.r. 914, 918 (bankr. s.d. cal. 1990)). 6 cal. civ. code § 3439.09",Court Rule,local_rule,SD,2,2,1,2015,2015,false,unresolved
 126 (S.D.1984) Rule 701,126 (s.d.1984) rule 701,Court Rule,local_rule,SD,2,2,1,1999,1999,false,unresolved
 13 S.D. Cal. Civ. R. 3.2,13 s.d. cal. civ. r. 3.2,Court Rule,local_rule,SD,2,2,1,2025,2025,false,unresolved
 1349 (S.D.Fla.1999). Rule 56,1349 (s.d.fla.1999). rule 56,Court Rule,local_rule,SD,2,2,1,2002,2002,false,unresolved
@@ -412,18 +411,15 @@ S.D. Ala. R. 56,s.d. ala. r. 56,Court Rule,local_rule,SD,2,1,1,2024,2024,false,u
 "S.D. Cal. 1938, 24 A.F.T. R. 1091","s.d. cal. 1938, 24 a.f.t. r. 1091",Court Rule,local_rule,SD,2,2,1,1968,1968,false,unresolved
 "S.D. Cal. 1953, 48 A.F.T. R. 1544","s.d. cal. 1953, 48 a.f.t. r. 1544",Court Rule,local_rule,SD,2,2,1,1965,1965,false,unresolved
 S.D. Cal. 26 Civ. L.R. 5.2,s.d. cal. 26 civ. l.r. 5.2,Court Rule,local_rule,SD,2,2,1,2020,2020,false,unresolved
+S.D. Cal. Civ L.R. 83.3,s.d. cal. civ l.r. 83.3,Court Rule,local_rule,SD,2,1,1,2021,2022,true,exact
 S.D. Cal. Civ. L.R. 1,s.d. cal. civ. l.r. 1,Court Rule,local_rule,SD,2,2,1,2021,2022,false,unresolved
 S.D. Cal. Civ. L.R. 14,s.d. cal. civ. l.r. 14,Court Rule,local_rule,SD,2,2,1,2023,2025,false,unresolved
 S.D. Cal. Civ. L.R. 15,s.d. cal. civ. l.r. 15,Court Rule,local_rule,SD,2,2,1,2020,2026,true,exact
 S.D. Cal. Civ. L.R. 16,s.d. cal. civ. l.r. 16,Court Rule,local_rule,SD,2,2,1,2020,2022,false,unresolved
 S.D. Cal. Civ. L.R. 20,s.d. cal. civ. l.r. 20,Court Rule,local_rule,SD,2,2,1,2023,2023,false,unresolved
-S.D. Cal. Civ. L.R. 26.1,s.d. cal. civ. l.r. 26.1,Court Rule,local_rule,SD,2,2,1,2019,2020,true,exact
-S.D. Cal. Civ. L.R. 4.1,s.d. cal. civ. l.r. 4.1,Court Rule,local_rule,SD,2,2,1,2023,2025,true,exact
-S.D. Cal. Civ. L.R. 54.1,s.d. cal. civ. l.r. 54.1,Court Rule,local_rule,SD,2,2,1,2025,2025,true,exact
 S.D. Cal. Civ. L.R. 7.1.d,s.d. cal. civ. l.r. 7.1.d,Court Rule,local_rule,SD,2,2,1,2023,2024,true,exact
 S.D. Cal. Civ. L.R. 7.1.i,s.d. cal. civ. l.r. 7.1.i,Court Rule,local_rule,SD,2,1,1,2023,2023,true,exact
 S.D. Cal. Civ. LR 5.2,s.d. cal. civ. lr 5.2,Court Rule,local_rule,SD,2,2,1,2024,2025,true,exact
-S.D. Cal. Civ. LR 7.1,s.d. cal. civ. lr 7.1,Court Rule,local_rule,SD,2,2,1,2020,2025,true,exact
 S.D. Cal. Civ. Local R. 15.1,s.d. cal. civ. local r. 15.1,Court Rule,local_rule,SD,2,2,1,2020,2020,false,unresolved
 S.D. Cal. Civ. Local Rule 13,s.d. cal. civ. local rule 13,Court Rule,local_rule,SD,2,2,1,2019,2022,false,unresolved
 S.D. Cal. Civ. Local Rule 5.2,s.d. cal. civ. local rule 5.2,Court Rule,local_rule,SD,2,1,1,2022,2022,false,unresolved
@@ -611,7 +607,6 @@ S.D.N.Y. Civil Rule 46,s.d.n.y. civil rule 46,Court Rule,local_rule,SD,2,2,1,199
 S.D.N.Y. Civil Rule 56.1,s.d.n.y. civil rule 56.1,Court Rule,local_rule,SD,2,1,1,2004,2004,true,exact
 S.D.N.Y. Civil Rule 6.3,s.d.n.y. civil rule 6.3,Court Rule,local_rule,SD,2,1,1,2014,2014,true,exact
 S.D.N.Y. Civil Rule 83.9,s.d.n.y. civil rule 83.9,Court Rule,local_rule,SD,2,1,1,2009,2009,true,exact
-S.D.N.Y. Crv. R. 26.2,s.d.n.y. crv. r. 26.2,Court Rule,local_rule,SD,2,2,1,2010,2010,false,unresolved
 S.D.N.Y. ECF R. 9.1,s.d.n.y. ecf r. 9.1,Court Rule,local_rule,SD,2,1,1,2022,2022,false,unresolved
 S.D.N.Y. ECF Rule 21.4,s.d.n.y. ecf rule 21.4,Court Rule,local_rule,SD,2,2,1,2024,2025,false,unresolved
 S.D.N.Y. Gen Rule 23,s.d.n.y. gen rule 23,Court Rule,local_rule,SD,2,2,1,1962,1962,false,unresolved
@@ -689,22 +684,17 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 1 (S.D.N.Y.1981). NYSE Rule 435,1 (s.d.n.y.1981). nyse rule 435,Court Rule,local_rule,SD,1,1,1,1983,1983,false,unresolved
 1 District of South Dakota Local Rule 7.1,1 district of south dakota local rule 7.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 1 E.D.N.Y. & S.D.N.Y. R. 5.2,1 e.d.n.y. & s.d.n.y. r. 5.2,Court Rule,local_rule,SD,1,1,1,2015,2015,false,unresolved
-1 S.D. Cal. Civ. L.R. 26.1,1 s.d. cal. civ. l.r. 26.1,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
 1 S.D. Cal. Civ. R. 7.1,1 s.d. cal. civ. r. 7.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 1 S.D.N.Y. Local Rule 56.2,1 s.d.n.y. local rule 56.2,Court Rule,local_rule,SD,1,1,1,2010,2010,false,unresolved
 "10 S.D. 333, 73 N.W. 72, 43 L.R.A. 287, 289. Rev. Code 1919 § 3550","10 s.d. 333, 73 n.w. 72, 43 l.r.a. 287, 289. rev. code 1919 § 3550",Court Rule,local_rule,SD,1,1,1,1929,1929,false,unresolved
-10 S.D. Cal. Civ. L.R. 3.2,10 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
 107 B.R. 20 (S.D.N.Y.1989) § 523,107 b.r. 20 (s.d.n.y.1989) § 523,Court Rule,local_rule,SD,1,1,1,1991,1991,false,unresolved
 1074 (S.D.Ind.2011). 2. Rule 12,1074 (s.d.ind.2011). 2. rule 12,Court Rule,local_rule,SD,1,1,1,2014,2014,false,unresolved
 1095 (S.D.Cal.2006) Rule 9,1095 (s.d.cal.2006) rule 9,Court Rule,local_rule,SD,1,1,1,2007,2007,false,unresolved
-11 S.D. Cal. Civ. L.R. 7.1,11 s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 "11 S.D.Ga. Local Rules Sec. 4, Rule 5","11 s.d.ga. local rules sec. 4, rule 5",Court Rule,local_rule,SD,1,1,1,1989,1989,false,unresolved
 11 S.D.Miss. Local Rule 18,11 s.d.miss. local rule 18,Court Rule,local_rule,SD,1,1,1,1981,1981,false,unresolved
 111 B.R. 914 (Bankr. S.D. Cal. 1990) § 108,111 b.r. 914 (bankr. s.d. cal. 1990) § 108,Court Rule,local_rule,SD,1,1,1,1993,1993,false,unresolved
 112 (S.D.N.Y. 1972). Rule 27,112 (s.d.n.y. 1972). rule 27,Court Rule,local_rule,SD,1,1,1,1994,1994,false,unresolved
 1139 (S.D.Cal.2006). Rule 12,1139 (s.d.cal.2006). rule 12,Court Rule,local_rule,SD,1,1,1,2008,2008,false,unresolved
-12 S.D. Cal. Civ. L.R. 54.1,12 s.d. cal. civ. l.r. 54.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
-12 S.D. Cal. Civ. L.R. 83.3,12 s.d. cal. civ. l.r. 83.3,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 12 S.D. Cal. Civ. R. 16.1,12 s.d. cal. civ. r. 16.1,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
 1227 (S.D.Fla.2010). Rule 8,1227 (s.d.fla.2010). rule 8,Court Rule,local_rule,SD,1,1,1,2016,2016,false,unresolved
 "124 B.R. 635, 642 (S.D.N.Y.1991) § 105","124 b.r. 635, 642 (s.d.n.y.1991) § 105",Court Rule,local_rule,SD,1,1,1,1991,1991,false,unresolved
@@ -713,7 +703,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 1290 (S.D.Ind.2000). B. Rule 12,1290 (s.d.ind.2000). b. rule 12,Court Rule,local_rule,SD,1,1,1,2014,2014,false,unresolved
 13 R.C.R. 636 § 114,13 r.c.r. 636 § 114,Court Rule,state_rule,SD,1,1,1,1920,1920,false,unresolved
 13 R.C.R. 647 § 108,13 r.c.r. 647 § 108,Court Rule,state_rule,SD,1,1,1,1920,1920,false,unresolved
-13 S.D. Cal. Civ. L.R. 7.1,13 s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 13 S.D. Cal. Civ. R. 83.3,13 s.d. cal. civ. r. 83.3,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
 13 S.D.N.Y. & E.D.N.Y. Local Civ. R. 6.3,13 s.d.n.y. & e.d.n.y. local civ. r. 6.3,Court Rule,local_rule,SD,1,1,1,2013,2013,false,unresolved
 1318 (S.D.Fla.2005). Rule 12,1318 (s.d.fla.2005). rule 12,Court Rule,local_rule,SD,1,1,1,2009,2009,false,unresolved
@@ -736,8 +725,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 16 S.D. L.R. 214,16 s.d. l.r. 214,Court Rule,local_rule,SD,1,1,1,1973,1973,false,unresolved
 16 S.D. L.R. 468,16 s.d. l.r. 468,Court Rule,local_rule,SD,1,1,1,1973,1973,false,unresolved
 161 B.R. 571 (S.D.N.Y.1993) (Code § 365,161 b.r. 571 (s.d.n.y.1993) (code § 365,Court Rule,local_rule,SD,1,1,1,1996,1996,false,unresolved
-17 S.D. Cal. Civ. L.R. 40.1,17 s.d. cal. civ. l.r. 40.1,Court Rule,local_rule,SD,1,1,1,2024,2024,false,unresolved
-17 S.D. Cal. Civ. L.R. 7.1,17 s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 17 S.D. L.R. 341,17 s.d. l.r. 341,Court Rule,local_rule,SD,1,1,1,1973,1973,false,unresolved
 "172 B.R. 748, 763-64 (S.D.N.Y. 1994) § 157","172 b.r. 748, 763-64 (s.d.n.y. 1994) § 157",Court Rule,local_rule,SD,1,1,1,2007,2007,false,unresolved
 "172 B.R. 748, 763-64 (S.D.N.Y.1994) § 157","172 b.r. 748, 763-64 (s.d.n.y.1994) § 157",Court Rule,local_rule,SD,1,1,1,2007,2007,false,unresolved
@@ -746,7 +733,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 18 S.D.N.Y. Local Rules 3,18 s.d.n.y. local rules 3,Court Rule,local_rule,SD,1,1,1,2011,2011,false,unresolved
 183 B. S.D.N.Y. Civil Rule 56.1,183 b. s.d.n.y. civil rule 56.1,Court Rule,local_rule,SD,1,1,1,2012,2012,false,unresolved
 19 A.D. R. 807,19 a.d. r. 807,Court Rule,local_rule,SD,1,1,1,1923,1923,false,unresolved
-19 S.D. Cal. Civ. L.R. 3.2,19 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,1,1,1,2024,2024,false,unresolved
 "198 B.R. 433, 440 (S.D.N.Y.1996). A. § 727","198 b.r. 433, 440 (s.d.n.y.1996). a. § 727",Court Rule,local_rule,SD,1,1,1,2007,2007,false,unresolved
 "2 (S.D.N.Y. June 5, 1989). Rule 612","2 (s.d.n.y. june 5, 1989). rule 612",Court Rule,local_rule,SD,1,1,1,1994,1994,false,unresolved
 2 (S.D.N.Y.1983) Rule 56,2 (s.d.n.y.1983) rule 56,Court Rule,local_rule,SD,1,1,1,1985,1985,false,unresolved
@@ -754,12 +740,7 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 2 (S.D.Ohio 1992). Rule 9,2 (s.d.ohio 1992). rule 9,Court Rule,local_rule,SD,1,1,1,1996,1996,false,unresolved
 "2 B.R. 222, 223 (Bankr. S.D.Fla.1980). Article X § 4","2 b.r. 222, 223 (bankr. s.d.fla.1980). article x § 4",Court Rule,local_rule,SD,1,1,1,2010,2010,false,unresolved
 2 S.D. & E.D. N.Y. R. 56.1,2 s.d. & e.d. n.y. r. 56.1,Court Rule,local_rule,SD,1,1,1,2005,2005,false,unresolved
-2 S.D. Ohio Civ. R. 5.1,2 s.d. ohio civ. r. 5.1,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
-2 S.D. Ohio Civ. R. 82.1,2 s.d. ohio civ. r. 82.1,Court Rule,local_rule,SD,1,1,1,2021,2021,false,unresolved
 2 S.D. TEX. LOC. R. 7.4,2 s.d. tex. loc. r. 7.4,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
-20 S.D. Cal. Civ L.R. 83.3,20 s.d. cal. civ l.r. 83.3,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
-20 S.D. Cal. Civ. L.R. 3.2,20 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
-20 S.D. Cal. Civ. L.R. 83.3,20 s.d. cal. civ. l.r. 83.3,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
 20 S.D. Cal. Civ. R. 3.2,20 s.d. cal. civ. r. 3.2,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 207 (S.D.N.Y.2004). 5 Rule 23,207 (s.d.n.y.2004). 5 rule 23,Court Rule,local_rule,SD,1,1,1,2004,2004,false,unresolved
 21 S.D. Cal. Civ. R. 3.2,21 s.d. cal. civ. r. 3.2,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
@@ -777,23 +758,16 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 24 S.D. Cal. Civil Local Rule 7.1,24 s.d. cal. civil local rule 7.1,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
 240 (S.D.N.Y.2000)). Rule 9,240 (s.d.n.y.2000)). rule 9,Court Rule,local_rule,SD,1,1,1,2013,2013,false,unresolved
 249 (S.D.N.Y.2007)). Rule 10b-5,249 (s.d.n.y.2007)). rule 10b-5,Court Rule,local_rule,SD,1,1,1,2016,2016,false,unresolved
-25 S.D. Cal. Civ. L.R. 3.2,25 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
 251 (S.D.N.Y.2003))). Rule 4,251 (s.d.n.y.2003))). rule 4,Court Rule,local_rule,SD,1,1,1,2016,2016,false,unresolved
 252 (S.D.N.Y.2014). Rule 9,252 (s.d.n.y.2014). rule 9,Court Rule,local_rule,SD,1,1,1,2016,2016,false,unresolved
 "258 F.Supp. 686 (S.D.N.Y.1966), C.P.L.R. § 5202","258 f.supp. 686 (s.d.n.y.1966), c.p.l.r. § 5202",Court Rule,local_rule,SD,1,1,1,1974,1974,false,unresolved
 "258 F.Supp. 686 (S.D.N.Y.1966), C.P.L.R. § 5234","258 f.supp. 686 (s.d.n.y.1966), c.p.l.r. § 5234",Court Rule,local_rule,SD,1,1,1,1974,1974,false,unresolved
 26 R.C.R. § 315,26 r.c.r. § 315,Court Rule,state_rule,SD,1,1,1,1932,1932,false,unresolved
-26 S.D. Cal. Civ L.R. 83.3,26 s.d. cal. civ l.r. 83.3,Court Rule,local_rule,SD,1,1,1,2021,2021,false,unresolved
-26 S.D. Cal. Civ. L.R. 4.1,26 s.d. cal. civ. l.r. 4.1,Court Rule,local_rule,SD,1,1,1,2024,2024,false,unresolved
 26 S.D. Cal. Civ. R. 7.1,26 s.d. cal. civ. r. 7.1,Court Rule,local_rule,SD,1,1,1,2021,2021,false,unresolved
 26 S.D. Cal. Civ. R. 83.3,26 s.d. cal. civ. r. 83.3,Court Rule,local_rule,SD,1,1,1,2021,2021,false,unresolved
 "27 (S.D.N.Y. March 7, 1995). Rule 11","27 (s.d.n.y. march 7, 1995). rule 11",Court Rule,local_rule,SD,1,1,1,1995,1995,false,unresolved
-27 S.D. Cal. Civ. L.R. 7.1,27 s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,1,1,1,2021,2021,false,unresolved
-27 S.D. Cal. Civ. LR 7.1,27 s.d. cal. civ. lr 7.1,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
 27 S.D. Local. Civ. R. 7.1,27 s.d. local. civ. r. 7.1,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
 "28 B.R. 946, 948 (Bankr. S.D.N.Y. 1983) § 78fff-2","28 b.r. 946, 948 (bankr. s.d.n.y. 1983) § 78fff-2",Court Rule,local_rule,SD,1,1,1,1986,1986,false,unresolved
-28 S.D. Cal. Civ. L.R. 3.2,28 s.d. cal. civ. l.r. 3.2,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
-28 S.D. Cal. Civ. L.R. 72.1,28 s.d. cal. civ. l.r. 72.1,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
 28 S.D. Cal. Civ. R. 17.1,28 s.d. cal. civ. r. 17.1,Court Rule,local_rule,SD,1,1,1,2024,2024,false,unresolved
 28 S.D. R. 190,28 s.d. r. 190,Court Rule,local_rule,SD,1,1,1,1924,1924,false,unresolved
 "281 (S.D.N.Y.2001), Rule 21","281 (s.d.n.y.2001), rule 21",Court Rule,local_rule,SD,1,1,1,2002,2002,false,unresolved
@@ -802,8 +776,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 293 (S.D.N.Y.2000)). Rule 9,293 (s.d.n.y.2000)). rule 9,Court Rule,local_rule,SD,1,1,1,2008,2008,false,unresolved
 3 (S.D.N.Y.1983)). Rule 4,3 (s.d.n.y.1983)). rule 4,Court Rule,local_rule,SD,1,1,1,2010,2010,false,unresolved
 "3 B.R. 715, 718 (S.D.Tex.1980) § 144","3 b.r. 715, 718 (s.d.tex.1980) § 144",Court Rule,local_rule,SD,1,1,1,1990,1990,false,unresolved
-3 S.D. Fla. L.R. 56.1,3 s.d. fla. l.r. 56.1,Court Rule,local_rule,SD,1,1,1,2026,2026,false,unresolved
-3 S.D. Ohio Civ. R. 37.1,3 s.d. ohio civ. r. 37.1,Court Rule,local_rule,SD,1,1,1,2019,2019,false,unresolved
 3 South Dakota Local Rule 56.1,3 south dakota local rule 56.1,Court Rule,local_rule,SD,1,1,1,2005,2005,false,unresolved
 "3-4 (S.D.N.Y. Jan.13, 1998). Rule 801","3-4 (s.d.n.y. jan.13, 1998). rule 801",Court Rule,local_rule,SD,1,1,1,1998,1998,false,unresolved
 30 S.D. Tex. L.R. 81,30 s.d. tex. l.r. 81,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
@@ -825,15 +797,11 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 381-82 (S.D.N.Y.2003). Rule 9,381-82 (s.d.n.y.2003). rule 9,Court Rule,local_rule,SD,1,1,1,2003,2003,false,unresolved
 387 (S.D.N.Y.2002)). C. Rule 12,387 (s.d.n.y.2002)). c. rule 12,Court Rule,local_rule,SD,1,1,1,2015,2015,false,unresolved
 39 S.D. L.R. 276,39 s.d. l.r. 276,Court Rule,local_rule,SD,1,1,1,2002,2002,false,unresolved
-391 (S.D.N.Y.2012). 1. N.Y. C.P.L.R. § 302,391 (s.d.n.y.2012). 1. n.y. c.p.l.r. § 302,Court Rule,local_rule,SD,1,1,1,2013,2013,false,unresolved
 391-92 (S.D.N.Y.2000) Rule 59,391-92 (s.d.n.y.2000) rule 59,Court Rule,local_rule,SD,1,1,1,2000,2000,false,unresolved
 4 (S.D.Miss.1987). Rule 22,4 (s.d.miss.1987). rule 22,Court Rule,local_rule,SD,1,1,1,2012,2012,false,unresolved
 "4 (S.D.N.Y. April 30, 1997) Rule 4","4 (s.d.n.y. april 30, 1997) rule 4",Court Rule,local_rule,SD,1,1,1,2001,2001,false,unresolved
 4 A.D. R. 1299,4 a.d. r. 1299,Court Rule,local_rule,SD,1,1,1,1923,1923,false,unresolved
 4 S.D. Cal. Civ. R. 7.1,4 s.d. cal. civ. r. 7.1,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
-4 S.D. Ohio Civ. R. 4.2,4 s.d. ohio civ. r. 4.2,Court Rule,local_rule,SD,1,1,1,2025,2025,false,unresolved
-4 S.D. Ohio Civ. R. 7.3,4 s.d. ohio civ. r. 7.3,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
-4 S.D.N.Y. Local Civil Rule 56.1,4 s.d.n.y. local civil rule 56.1,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
 4 S.D.N.Y. Local R. 3,4 s.d.n.y. local r. 3,Court Rule,local_rule,SD,1,1,1,1996,1996,false,unresolved
 411 (S.D.Tex.2000). Rule 23,411 (s.d.tex.2000). rule 23,Court Rule,local_rule,SD,1,1,1,2009,2009,false,unresolved
 412 (S.D.N.Y.2004). Rule 502,412 (s.d.n.y.2004). rule 502,Court Rule,local_rule,SD,1,1,1,2015,2015,false,unresolved
@@ -853,7 +821,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 5 (S.D.N.Y.1979) Rule 15,5 (s.d.n.y.1979) rule 15,Court Rule,local_rule,SD,1,1,1,1999,1999,false,unresolved
 5 S.D. Cal. Civ. R. 83.3,5 s.d. cal. civ. r. 83.3,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
 502 (S.D.N.Y.2000). Rule 11,502 (s.d.n.y.2000). rule 11,Court Rule,local_rule,SD,1,1,1,2000,2000,false,unresolved
-533 (S.D.N.Y.1999). New York Civil Practice Law and Rules § 215,533 (s.d.n.y.1999). new york civil practice law and rules § 215,Court Rule,local_rule,SD,1,1,1,2008,2008,false,unresolved
 538 (S.D.W.Va.1999). Rule 59,538 (s.d.w.va.1999). rule 59,Court Rule,local_rule,SD,1,1,1,1999,1999,false,unresolved
 "549 F.Supp. 174 (S.D.N.Y.1982), and 7 N.Y.C.R.R. § 305.1","549 f.supp. 174 (s.d.n.y.1982), and 7 n.y.c.r.r. § 305.1",Court Rule,local_rule,SD,1,1,1,1998,1998,false,unresolved
 "56 B.R. 899, 908 (S.D.N.Y.1986). § 546","56 b.r. 899, 908 (s.d.n.y.1986). § 546",Court Rule,local_rule,SD,1,1,1,1988,1988,false,unresolved
@@ -883,7 +850,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 690 (S.D.N.Y.2000) Rule 9,690 (s.d.n.y.2000) rule 9,Court Rule,local_rule,SD,1,1,1,2001,2001,false,unresolved
 7 (S.D.Fla.1989) Rule 6,7 (s.d.fla.1989) rule 6,Court Rule,local_rule,SD,1,1,1,1994,1994,false,unresolved
 7 (S.D.N.Y.2003) (same). III. Rule 11,7 (s.d.n.y.2003) (same). iii. rule 11,Court Rule,local_rule,SD,1,1,1,2006,2006,false,unresolved
-7 S.D. Cal. Civ. L.R. 7.1,7 s.d. cal. civ. l.r. 7.1,Court Rule,local_rule,SD,1,1,1,2021,2021,false,unresolved
 7 S.D.Fla.Local R. 16.D,7 s.d.fla.local r. 16.d,Court Rule,local_rule,SD,1,1,1,1993,1993,false,unresolved
 7 S.D.Ind. L.R. 56.1,7 s.d.ind. l.r. 56.1,Court Rule,local_rule,SD,1,1,1,1994,1994,false,unresolved
 71 A.D. R. 1278,71 a.d. r. 1278,Court Rule,local_rule,SD,1,1,1,1935,1935,false,unresolved
@@ -897,7 +863,6 @@ UNDER S.D. OHIO CRIM. R. 32.1,under s.d. ohio crim. r. 32.1,Court Rule,local_rul
 759 (S.D.N.Y.2003) Rule 8,759 (s.d.n.y.2003) rule 8,Court Rule,local_rule,SD,1,1,1,2004,2004,false,unresolved
 "76-77 CCH Fed. Sec. L. Rep. 95, 267 (S.D.N.Y. 1976). Rule 23.1","76-77 cch fed. sec. l. rep. 95, 267 (s.d.n.y. 1976). rule 23.1",Court Rule,local_rule,SD,1,1,1,1981,1981,false,unresolved
 795 (S.D.W.Va.2004) Rule 37,795 (s.d.w.va.2004) rule 37,Court Rule,local_rule,SD,1,1,1,2012,2012,false,unresolved
-8 S.D. Cal. Civ. L.R. 4.1.c,8 s.d. cal. civ. l.r. 4.1.c,Court Rule,local_rule,SD,1,1,1,2023,2023,false,unresolved
 8 S.D. Cal. Civ. L.R. 83.4,8 s.d. cal. civ. l.r. 83.4,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
 "80 B.R. 544, 548 (S.D.Fla. 1987) § 507","80 b.r. 544, 548 (s.d.fla. 1987) § 507",Court Rule,local_rule,SD,1,1,1,1993,1993,false,unresolved
 826 (S.D.Ohio 1998) Rule 56,826 (s.d.ohio 1998) rule 56,Court Rule,local_rule,SD,1,1,1,2005,2005,false,unresolved
@@ -1050,11 +1015,13 @@ S.D. Cal. Civ. L.R. 22,s.d. cal. civ. l.r. 22,Court Rule,local_rule,SD,1,1,1,202
 S.D. Cal. Civ. L.R. 23,s.d. cal. civ. l.r. 23,Court Rule,local_rule,SD,1,1,1,2023,2023,true,exact
 S.D. Cal. Civ. L.R. 27,s.d. cal. civ. l.r. 27,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
 S.D. Cal. Civ. L.R. 4.5,s.d. cal. civ. l.r. 4.5,Court Rule,local_rule,SD,1,1,1,2023,2023,true,exact
+S.D. Cal. Civ. L.R. 40.1,s.d. cal. civ. l.r. 40.1,Court Rule,local_rule,SD,1,1,1,2024,2024,true,exact
 S.D. Cal. Civ. L.R. 5.4,s.d. cal. civ. l.r. 5.4,Court Rule,local_rule,SD,1,1,1,2024,2024,true,exact
 S.D. Cal. Civ. L.R. 65.1.2,s.d. cal. civ. l.r. 65.1.2,Court Rule,local_rule,SD,1,1,1,2019,2019,true,exact
 S.D. Cal. Civ. L.R. 69.1,s.d. cal. civ. l.r. 69.1,Court Rule,local_rule,SD,1,1,1,2021,2021,true,exact
 S.D. Cal. Civ. L.R. 7.1.e,s.d. cal. civ. l.r. 7.1.e,Court Rule,local_rule,SD,1,1,1,2021,2021,true,exact
 S.D. Cal. Civ. L.R. 71.1,s.d. cal. civ. l.r. 71.1,Court Rule,local_rule,SD,1,1,1,2020,2020,false,unresolved
+S.D. Cal. Civ. L.R. 72.1,s.d. cal. civ. l.r. 72.1,Court Rule,local_rule,SD,1,1,1,2020,2020,true,exact
 S.D. Cal. Civ. L.R. 8.2,s.d. cal. civ. l.r. 8.2,Court Rule,local_rule,SD,1,1,1,2024,2024,false,unresolved
 S.D. Cal. Civ. L.R. 83.1,s.d. cal. civ. l.r. 83.1,Court Rule,local_rule,SD,1,1,1,2020,2020,true,exact
 S.D. Cal. Civ. L.R. 83.1.a,s.d. cal. civ. l.r. 83.1.a,Court Rule,local_rule,SD,1,1,1,2021,2021,true,exact
@@ -1651,11 +1618,10 @@ S.D.N.Y. Civil Rule 26.2,s.d.n.y. civil rule 26.2,Court Rule,local_rule,SD,1,1,1
 S.D.N.Y. Civil Rule 4,s.d.n.y. civil rule 4,Court Rule,local_rule,SD,1,1,1,1958,1958,false,unresolved
 S.D.N.Y. Civil Rule 5,s.d.n.y. civil rule 5,Court Rule,local_rule,SD,1,1,1,1995,1995,false,unresolved
 S.D.N.Y. Crv. R. 3CÍ,s.d.n.y. crv. r. 3cí,Court Rule,local_rule,SD,1,1,1,1995,1995,false,unresolved
-S.D.N.Y. Crv. R. 7.1,s.d.n.y. crv. r. 7.1,Court Rule,local_rule,SD,1,1,1,2010,2010,false,unresolved
 S.D.N.Y. Ct. R. 56.1,s.d.n.y. ct. r. 56.1,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
+S.D.N.Y. Div. Bus. R. 21,s.d.n.y. div. bus. r. 21,Court Rule,local_rule,SD,1,1,1,2002,2002,true,exact
 S.D.N.Y. Div. Bus. R. 27,s.d.n.y. div. bus. r. 27,Court Rule,local_rule,SD,1,1,1,2002,2002,false,unresolved
 S.D.N.Y. Div. of Business Rule 15,s.d.n.y. div. of business rule 15,Court Rule,local_rule,SD,1,1,1,1996,1996,true,exact
-S.D.N.Y. Div.. Bus. R. 21,s.d.n.y. div.. bus. r. 21,Court Rule,local_rule,SD,1,1,1,2002,2002,false,unresolved
 S.D.N.Y. ECF R. 9.2,s.d.n.y. ecf r. 9.2,Court Rule,local_rule,SD,1,1,1,2022,2022,false,unresolved
 S.D.N.Y. ECF Rule 4.3,s.d.n.y. ecf rule 4.3,Court Rule,local_rule,SD,1,1,1,2013,2013,false,unresolved
 S.D.N.Y. General R. 9,s.d.n.y. general r. 9,Court Rule,local_rule,SD,1,1,1,1970,1970,false,unresolved

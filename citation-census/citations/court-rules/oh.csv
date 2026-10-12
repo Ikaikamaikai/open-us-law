@@ -60,6 +60,7 @@ Ohio R. Evid. 804,ohio r. evid. 804,Court Rule,state_rule,OH,36,22,7,1988,2025,t
 C.P. Sup. R. 12,c.p. sup. r. 12,Court Rule,state_rule,OH,34,13,3,1980,2000,false,unresolved
 Ohio R. Civ. P. 60,ohio r. civ. p. 60,Court Rule,state_rule,OH,34,27,4,1999,2026,true,exact
 C.P.Sup. R. 6,c.p.sup. r. 6,Court Rule,state_rule,OH,33,16,2,1990,2000,false,unresolved
+Ohio R. Civ. P. 41,ohio r. civ. p. 41,Court Rule,state_rule,OH,33,22,7,1997,2023,true,exact
 Ohio Rules of Civil Procedure Rule 23,ohio rules of civil procedure rule 23,Court Rule,state_rule,OH,33,28,7,1972,2019,true,exact
 Ohio Civ. R. 3,ohio civ. r. 3,Court Rule,state_rule,OH,32,21,6,1987,2025,true,exact
 Ohio Crim. R. 15,ohio crim. r. 15,Court Rule,state_rule,OH,32,9,2,2001,2016,true,exact
@@ -69,7 +70,6 @@ Ohio Rules of Criminal Procedure Rule 32,ohio rules of criminal procedure rule 3
 Ohio Rules of Criminal Procedure Rule 32.1,ohio rules of criminal procedure rule 32.1,Court Rule,state_rule,OH,32,31,2,1998,2025,true,exact
 Ohio App. Rule 26,ohio app. rule 26,Court Rule,state_rule,OH,31,30,4,1998,2026,true,exact
 Ohio Evid. R. 801,ohio evid. r. 801,Court Rule,state_rule,OH,31,26,5,2000,2025,true,exact
-Ohio R. Civ. P. 41,ohio r. civ. p. 41,Court Rule,state_rule,OH,31,22,7,1997,2023,true,exact
 Ohio Rules of Appellate Procedure Rule 16,ohio rules of appellate procedure rule 16,Court Rule,state_rule,OH,30,29,3,1998,2025,true,exact
 Ohio Rules of Appellate Procedure Rule 4,ohio rules of appellate procedure rule 4,Court Rule,state_rule,OH,30,23,5,1973,2024,true,exact
 C.P.Sup. R. 40,c.p.sup. r. 40,Court Rule,state_rule,OH,29,12,1,1989,2008,false,unresolved
@@ -135,6 +135,7 @@ Ohio R.Civ. P. 41,ohio r.civ. p. 41,Court Rule,state_rule,OH,17,7,3,1983,2007,tr
 Ohio Rules of Civil Procedure Rule 15,ohio rules of civil procedure rule 15,Court Rule,state_rule,OH,17,16,4,1988,2024,true,exact
 C.P.Sup. R. 39,c.p.sup. r. 39,Court Rule,state_rule,OH,16,8,2,1991,2008,false,unresolved
 Ohio Civ. R. 4.2,ohio civ. r. 4.2,Court Rule,state_rule,OH,16,12,6,1998,2025,true,exact
+Ohio Civil Rule 13,ohio civil rule 13,Court Rule,state_rule,OH,16,8,3,2016,2024,true,exact
 Ohio Civil Rule 25,ohio civil rule 25,Court Rule,state_rule,OH,16,4,3,1980,2023,true,exact
 Ohio Crim. R. 6,ohio crim. r. 6,Court Rule,state_rule,OH,16,13,6,1981,2023,true,exact
 Ohio Criminal Rule 32,ohio criminal rule 32,Court Rule,state_rule,OH,16,13,3,2003,2025,true,exact
@@ -152,7 +153,6 @@ M.C.Sup. R. 6,m.c.sup. r. 6,Court Rule,state_rule,OH,15,9,2,1991,2017,false,unre
 Ohio Appellate Rule 16,ohio appellate rule 16,Court Rule,state_rule,OH,15,15,3,1998,2023,true,exact
 Ohio Appellate Rule 4,ohio appellate rule 4,Court Rule,state_rule,OH,15,14,4,2008,2026,true,exact
 Ohio Civ. R. 17,ohio civ. r. 17,Court Rule,state_rule,OH,15,10,7,1998,2025,true,exact
-Ohio Civil Rule 13,ohio civil rule 13,Court Rule,state_rule,OH,15,8,3,2016,2024,true,exact
 Ohio Crim. R. 4,ohio crim. r. 4,Court Rule,state_rule,OH,15,8,4,2003,2025,true,exact
 Ohio Evid. R. 609,ohio evid. r. 609,Court Rule,state_rule,OH,15,14,3,1986,2018,true,exact
 Ohio Evid. R. 611,ohio evid. r. 611,Court Rule,state_rule,OH,15,12,2,1986,2024,true,exact
@@ -225,6 +225,7 @@ Ohio R. Crim. P. 52,ohio r. crim. p. 52,Court Rule,state_rule,OH,10,10,3,2003,20
 Ohio R.App. P. 4,ohio r.app. p. 4,Court Rule,state_rule,OH,10,7,3,1986,2021,true,exact
 Ohio R.Civ. P. 56,ohio r.civ. p. 56,Court Rule,state_rule,OH,10,10,2,1982,2021,true,exact
 Ohio Rule 3.3,ohio rule 3.3,Court Rule,state_rule,OH,10,2,1,2022,2022,true,exact
+Ohio Rule 8.4,ohio rule 8.4,Court Rule,state_rule,OH,10,6,2,2013,2022,true,exact
 Ohio Rules of Civil Procedure Rule 37,ohio rules of civil procedure rule 37,Court Rule,state_rule,OH,10,10,2,1980,2012,true,exact
 Ohio Rules of Civil Procedure Rule 57,ohio rules of civil procedure rule 57,Court Rule,state_rule,OH,10,8,3,1971,2002,true,exact
 Ohio Rules of Criminal Procedure Rule 41,ohio rules of criminal procedure rule 41,Court Rule,state_rule,OH,10,9,5,1975,2023,true,exact
@@ -275,7 +276,6 @@ Ohio R.Crim. P. 52,ohio r.crim. p. 52,Court Rule,state_rule,OH,8,8,3,1993,2020,t
 Ohio Rule 23.1,ohio rule 23.1,Court Rule,state_rule,OH,8,4,3,2003,2024,true,exact
 Ohio Rule 30,ohio rule 30,Court Rule,state_rule,OH,8,5,1,1983,1992,true,exact
 Ohio Rule 60,ohio rule 60,Court Rule,state_rule,OH,8,5,3,1985,2020,true,exact
-Ohio Rule 8.4,ohio rule 8.4,Court Rule,state_rule,OH,8,6,2,2013,2022,true,exact
 Ohio Rules of Civil Procedure Rule 14,ohio rules of civil procedure rule 14,Court Rule,state_rule,OH,8,5,4,1971,2022,true,exact
 Ohio Rules of Civil Procedure Rule 26,ohio rules of civil procedure rule 26,Court Rule,state_rule,OH,8,8,3,1974,2023,true,exact
 Ohio Rules of Civil Procedure Rule 9,ohio rules of civil procedure rule 9,Court Rule,state_rule,OH,8,8,4,1987,2020,true,exact
@@ -640,6 +640,7 @@ Ohio Evidence Rule 602,ohio evidence rule 602,Court Rule,state_rule,OH,3,3,3,200
 Ohio Evidence Rule 606,ohio evidence rule 606,Court Rule,state_rule,OH,3,2,2,2019,2021,true,exact
 Ohio Evidence Rule 608,ohio evidence rule 608,Court Rule,state_rule,OH,3,2,2,1996,2021,true,exact
 Ohio Evidence Rule 611,ohio evidence rule 611,Court Rule,state_rule,OH,3,3,2,1999,2012,true,exact
+Ohio Evidence Rule 901,ohio evidence rule 901,Court Rule,state_rule,OH,3,2,2,2013,2022,true,exact
 Ohio Evidence Rules 404,ohio evidence rules 404,Court Rule,state_rule,OH,3,3,2,1990,2022,true,exact
 "Ohio Gen. Hosp. Ass'n, 126 B. R. 513","ohio gen. hosp. ass'n, 126 b. r. 513",Court Rule,state_rule,OH,3,3,2,1992,2009,false,unresolved
 "Ohio Gen. Hosp. Assn., 126 B. R. 513","ohio gen. hosp. assn., 126 b. r. 513",Court Rule,state_rule,OH,3,3,2,2001,2007,false,unresolved
@@ -657,6 +658,7 @@ Ohio R. Civ. P. 23,ohio r. civ. p. 23,Court Rule,state_rule,OH,3,3,2,2015,2025,t
 Ohio R. Civ. P. 26,ohio r. civ. p. 26,Court Rule,state_rule,OH,3,3,2,2005,2009,true,exact
 Ohio R. Civ. P. 4.4,ohio r. civ. p. 4.4,Court Rule,state_rule,OH,3,2,2,2022,2023,true,exact
 Ohio R. Civ. P. 59,ohio r. civ. p. 59,Court Rule,state_rule,OH,3,3,2,2001,2009,true,exact
+Ohio R. Civ. P. 62,ohio r. civ. p. 62,Court Rule,state_rule,OH,3,2,2,2008,2020,true,exact
 Ohio R. Evid. 103,ohio r. evid. 103,Court Rule,state_rule,OH,3,3,1,1998,2023,true,exact
 Ohio R. Evid. 701,ohio r. evid. 701,Court Rule,state_rule,OH,3,3,2,1978,2022,true,exact
 Ohio R. Evid. 704,ohio r. evid. 704,Court Rule,state_rule,OH,3,3,1,2022,2022,true,exact
@@ -771,7 +773,6 @@ UNDER OHIO EVID. R. 403,under ohio evid. r. 403,Court Rule,state_rule,OH,3,2,1,2
 18 Ohio Cir. Ct. R. 826,18 ohio cir. ct. r. 826,Court Rule,local_rule,OH,2,2,2,1923,1924,false,unresolved
 18 Ohio Cir.Ct. R. 464,18 ohio cir.ct. r. 464,Court Rule,local_rule,OH,2,2,1,1957,1957,false,unresolved
 18 Ohio R. 54,18 ohio r. 54,Court Rule,state_rule,OH,2,2,1,1851,1857,false,unresolved
-18 Ohio Rule 8.4,18 ohio rule 8.4,Court Rule,state_rule,OH,2,2,1,2022,2022,false,unresolved
 "18 Ohio, Cir.Ct. R. 826","18 ohio, cir.ct. r. 826",Court Rule,local_rule,OH,2,2,1,1954,1954,false,unresolved
 19 Ohio C.C. R. 385,19 ohio c.c. r. 385,Court Rule,state_rule,OH,2,1,1,1969,1969,false,unresolved
 19 Ohio Cir. Ct. R. 137,19 ohio cir. ct. r. 137,Court Rule,local_rule,OH,2,2,2,1908,1917,false,unresolved
@@ -1004,7 +1005,6 @@ Ohio Evid. Rule 408,ohio evid. rule 408,Court Rule,state_rule,OH,2,1,1,2020,2020
 Ohio Evidence Rule 101,ohio evidence rule 101,Court Rule,state_rule,OH,2,2,1,2002,2016,true,exact
 Ohio Evidence Rule 402,ohio evidence rule 402,Court Rule,state_rule,OH,2,2,2,2004,2016,true,exact
 Ohio Evidence Rule 609,ohio evidence rule 609,Court Rule,state_rule,OH,2,2,2,2007,2011,true,exact
-Ohio Evidence Rule 901,ohio evidence rule 901,Court Rule,state_rule,OH,2,2,2,2019,2022,true,exact
 Ohio Evidence Rules 801,ohio evidence rules 801,Court Rule,state_rule,OH,2,2,1,2007,2009,true,exact
 "Ohio General Hosp. Assoc., 126 B. R. 513","ohio general hosp. assoc., 126 b. r. 513",Court Rule,state_rule,OH,2,1,1,1997,1997,false,unresolved
 Ohio Juv. R. 2,ohio juv. r. 2,Court Rule,state_rule,OH,2,2,2,1986,2003,true,exact
@@ -1039,7 +1039,6 @@ Ohio R. Civ. P. 36,ohio r. civ. p. 36,Court Rule,state_rule,OH,2,2,2,2011,2017,t
 Ohio R. Civ. P. 39,ohio r. civ. p. 39,Court Rule,state_rule,OH,2,2,1,2002,2002,true,exact
 Ohio R. Civ. P. 4,ohio r. civ. p. 4,Court Rule,state_rule,OH,2,2,2,2024,2026,true,exact
 Ohio R. Civ. P. 5,ohio r. civ. p. 5,Court Rule,state_rule,OH,2,2,2,2007,2021,true,exact
-Ohio R. Civ. P. 62,ohio r. civ. p. 62,Court Rule,state_rule,OH,2,2,2,2008,2020,true,exact
 Ohio R. Civ. P. 9,ohio r. civ. p. 9,Court Rule,state_rule,OH,2,2,2,2013,2014,true,exact
 Ohio R. Code § 2305.7,ohio r. code § 2305.7,Court Rule,state_rule,OH,2,1,1,2020,2020,false,unresolved
 Ohio R. Code § 4112,ohio r. code § 4112,Court Rule,state_rule,OH,2,1,1,2020,2020,false,unresolved
@@ -1050,7 +1049,6 @@ Ohio R. Crim. P. 29,ohio r. crim. p. 29,Court Rule,state_rule,OH,2,1,1,2021,2021
 Ohio R. Crim. P. 2953.23,ohio r. crim. p. 2953.23,Court Rule,state_rule,OH,2,1,1,2019,2019,false,unresolved
 Ohio R. Crim. P. 35,ohio r. crim. p. 35,Court Rule,state_rule,OH,2,2,2,2018,2023,true,exact
 Ohio R. Crim. P. 48,ohio r. crim. p. 48,Court Rule,state_rule,OH,2,2,1,2021,2021,true,exact
-Ohio R. Crv. P. 41,ohio r. crv. p. 41,Court Rule,state_rule,OH,2,2,1,2003,2013,false,unresolved
 Ohio R. Ev. 1008,ohio r. ev. 1008,Court Rule,state_rule,OH,2,1,1,2001,2001,false,unresolved
 Ohio R. Ev. 702,ohio r. ev. 702,Court Rule,state_rule,OH,2,2,1,1997,1997,false,unresolved
 Ohio R. Evid. 101,ohio r. evid. 101,Court Rule,state_rule,OH,2,2,2,2012,2023,true,exact
@@ -1094,6 +1092,7 @@ Ohio Rule 1.11,ohio rule 1.11,Court Rule,state_rule,OH,2,1,1,2025,2025,true,exac
 Ohio Rule 102,ohio rule 102,Court Rule,state_rule,OH,2,1,1,2004,2004,true,exact
 Ohio Rule 29,ohio rule 29,Court Rule,state_rule,OH,2,2,2,2006,2024,true,exact
 Ohio Rule 32,ohio rule 32,Court Rule,state_rule,OH,2,2,2,2019,2020,true,exact
+Ohio Rule 5,ohio rule 5,Court Rule,state_rule,OH,2,1,1,2002,2020,true,exact
 Ohio Rule 5.5,ohio rule 5.5,Court Rule,state_rule,OH,2,1,1,2014,2014,true,exact
 Ohio Rule 5.S,ohio rule 5.s,Court Rule,state_rule,OH,2,2,1,2017,2017,false,unresolved
 Ohio Rule 702,ohio rule 702,Court Rule,state_rule,OH,2,2,2,2007,2024,true,exact
@@ -1217,6 +1216,7 @@ Ohio. R. 23-4,ohio. r. 23-4,Court Rule,state_rule,OH,2,1,1,2013,2013,false,unres
 Ohio. R. 7,ohio. r. 7,Court Rule,state_rule,OH,2,2,2,2016,2025,false,unresolved
 Ohio. R. 76,ohio. r. 76,Court Rule,state_rule,OH,2,2,2,2009,2024,false,unresolved
 Ohio. Rule 10,ohio. rule 10,Court Rule,state_rule,OH,2,2,2,1933,1935,true,exact
+Ohio. Rule 11,ohio. rule 11,Court Rule,state_rule,OH,2,2,1,1977,1977,true,exact
 Ohio. Rule 2,ohio. rule 2,Court Rule,state_rule,OH,2,2,2,1914,1996,true,exact
 Ohio. Rule 4,ohio. rule 4,Court Rule,state_rule,OH,2,2,2,1975,1981,true,exact
 Ohio. Rule 56.1,ohio. rule 56.1,Court Rule,state_rule,OH,2,1,1,2021,2021,false,unresolved
@@ -1368,7 +1368,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 "115 B.R. 579, 582 (Bankr.N.D.Ohio 1990) § 1114","115 b.r. 579, 582 (bankr.n.d.ohio 1990) § 1114",Court Rule,local_rule,OH,1,1,1,1990,1990,false,unresolved
 116 (Ohio 1976). Rule 60,116 (ohio 1976). rule 60,Court Rule,state_rule,OH,1,1,1,2022,2022,false,unresolved
 116 B.R. 541 (Bankr.N.D.Ohio 1990). 2. Ohio Rev.Code § 130949,116 b.r. 541 (bankr.n.d.ohio 1990). 2. ohio rev.code § 130949,Court Rule,local_rule,OH,1,1,1,1991,1991,false,unresolved
-116 B.R. 541 (Bankr.N.D.Ohio 1990). 2. Ohio Rev.Code § 1317.12,116 b.r. 541 (bankr.n.d.ohio 1990). 2. ohio rev.code § 1317.12,Court Rule,local_rule,OH,1,1,1,1991,1991,false,unresolved
 "116 B.R. 595, 601 (Bankr.S.D.Ohio 1990). Code § 542","116 b.r. 595, 601 (bankr.s.d.ohio 1990). code § 542",Court Rule,local_rule,OH,1,1,1,1999,1999,false,unresolved
 117 B.R. 306 (Bankr.N.D.Ohio 1990) § 523,117 b.r. 306 (bankr.n.d.ohio 1990) § 523,Court Rule,local_rule,OH,1,1,1,1991,1991,false,unresolved
 117 Ohio St. R. 586,117 ohio st. r. 586,Court Rule,state_rule,OH,1,1,1,1953,1953,false,unresolved
@@ -1451,7 +1450,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 14 Ohio St. R. 493,14 ohio st. r. 493,Court Rule,state_rule,OH,1,1,1,1871,1871,false,unresolved
 14 Ohio St. R. 7,14 ohio st. r. 7,Court Rule,state_rule,OH,1,1,1,1868,1868,false,unresolved
 "142 B.R. 811, 812-18 (Bankr.S.D.Ohio 1992) § 524","142 b.r. 811, 812-18 (bankr.s.d.ohio 1992) § 524",Court Rule,local_rule,OH,1,1,1,2009,2009,false,unresolved
-148 (2nd Dist.1994). Ohio Evidence Rule 901,148 (2nd dist.1994). ohio evidence rule 901,Court Rule,local_rule,OH,1,1,1,2013,2013,false,unresolved
 15 Ohio App. R. 26,15 ohio app. r. 26,Court Rule,state_rule,OH,1,1,1,2019,2019,true,exact
 15 Ohio B. R. 452,15 ohio b. r. 452,Court Rule,state_rule,OH,1,1,1,1992,1992,false,unresolved
 15 Ohio Cir. Ct. R. 228,15 ohio cir. ct. r. 228,Court Rule,local_rule,OH,1,1,1,1934,1934,false,unresolved
@@ -1517,8 +1515,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 17 Ohio R. 440,17 ohio r. 440,Court Rule,state_rule,OH,1,1,1,1865,1865,false,unresolved
 17 Ohio R. 593,17 ohio r. 593,Court Rule,state_rule,OH,1,1,1,1853,1853,false,unresolved
 17 Ohio St. R. 665,17 ohio st. r. 665,Court Rule,state_rule,OH,1,1,1,1880,1880,false,unresolved
-18 B.R. 140 (Bankr.W.D.Wisc.1982). Ohio Revised Code § 2315.19,18 b.r. 140 (bankr.w.d.wisc.1982). ohio revised code § 2315.19,Court Rule,local_rule,OH,1,1,1,1991,1991,false,unresolved
-18 B.R. 817 (Bankr.W.D.Tenn.1982)). Ohio Rev.Code § 4301.26,18 b.r. 817 (bankr.w.d.tenn.1982)). ohio rev.code § 4301.26,Court Rule,local_rule,OH,1,1,1,1993,1993,false,unresolved
 18 Ohio Cir. Ct. R. 136,18 ohio cir. ct. r. 136,Court Rule,local_rule,OH,1,1,1,1916,1916,false,unresolved
 18 Ohio Cir. Ct. R. 294,18 ohio cir. ct. r. 294,Court Rule,local_rule,OH,1,1,1,1922,1922,false,unresolved
 18 Ohio Cir. Ct. R. 4,18 ohio cir. ct. r. 4,Court Rule,local_rule,OH,1,1,1,1910,1910,false,unresolved
@@ -1554,7 +1550,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 19 Ohio R. 423,19 ohio r. 423,Court Rule,state_rule,OH,1,1,1,1876,1876,false,unresolved
 19 Ohio St. R. 189,19 ohio st. r. 189,Court Rule,state_rule,OH,1,1,1,1873,1873,false,unresolved
 19 Ohio St. R. 424,19 ohio st. r. 424,Court Rule,state_rule,OH,1,1,1,1875,1875,false,unresolved
-"193 B.R. 451, 456 (Bankr.S.D.Ohio, 1995)). Ohio Revised Code § 1336.03","193 b.r. 451, 456 (bankr.s.d.ohio, 1995)). ohio revised code § 1336.03",Court Rule,local_rule,OH,1,1,1,2002,2002,false,unresolved
 2 C.S.C. R. 116,2 c.s.c. r. 116,Court Rule,state_rule,OH,1,1,1,1894,1894,false,unresolved
 2 C.S.C. R. 298,2 c.s.c. r. 298,Court Rule,state_rule,OH,1,1,1,1833,1833,false,unresolved
 2 C.S.C. R. 350,2 c.s.c. r. 350,Court Rule,state_rule,OH,1,1,1,1886,1886,false,unresolved
@@ -1622,7 +1617,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 20 Ohio St. R. 62,20 ohio st. r. 62,Court Rule,state_rule,OH,1,1,1,1874,1874,false,unresolved
 "20 Ohio, Cir. Ct. R. 578","20 ohio, cir. ct. r. 578",Court Rule,local_rule,OH,1,1,1,1911,1911,false,unresolved
 20 Ohio.Cir.Ct. R. 161,20 ohio.cir.ct. r. 161,Court Rule,local_rule,OH,1,1,1,1989,1989,false,unresolved
-20 R. C.L. 160 § 141,20 r. c.l. 160 § 141,Court Rule,state_rule,OH,1,1,1,1933,1933,false,unresolved
 "207 B.R. 559, 565-66 (Bankr.S.D.Ohio 1997). A. § 362","207 b.r. 559, 565-66 (bankr.s.d.ohio 1997). a. § 362",Court Rule,local_rule,OH,1,1,1,2016,2016,false,unresolved
 "21 B.R. 223, 227 (Bankr.S.D.Ohio 1982) § 553","21 b.r. 223, 227 (bankr.s.d.ohio 1982) § 553",Court Rule,local_rule,OH,1,1,1,1995,1995,false,unresolved
 21 Ohio Cir. Ct. R. 313,21 ohio cir. ct. r. 313,Court Rule,local_rule,OH,1,1,1,1915,1915,false,unresolved
@@ -1639,7 +1633,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 21 Ohio R. Crim. P. 30,21 ohio r. crim. p. 30,Court Rule,state_rule,OH,1,1,1,2022,2022,true,exact
 21 Ohio St. R. 191,21 ohio st. r. 191,Court Rule,state_rule,OH,1,1,1,1874,1874,false,unresolved
 21 Ohio St. R. 431,21 ohio st. r. 431,Court Rule,state_rule,OH,1,1,1,1942,1942,false,unresolved
-"217 B.R. 540, 542 (Bankr.S.D.Ohio 1997). Ohio Rev.Code § 2719.01","217 b.r. 540, 542 (bankr.s.d.ohio 1997). ohio rev.code § 2719.01",Court Rule,local_rule,OH,1,1,1,1999,1999,false,unresolved
 "217 B.R. 540, 543 (Bankr.S.D.Ohio 1997) (Ohio Revised Code § 5301.23","217 b.r. 540, 543 (bankr.s.d.ohio 1997) (ohio revised code § 5301.23",Court Rule,local_rule,OH,1,1,1,2011,2011,false,unresolved
 22 Ohio Cir. Ct. R. 120,22 ohio cir. ct. r. 120,Court Rule,local_rule,OH,1,1,1,1929,1929,false,unresolved
 22 Ohio Cir. Ct. R. 252,22 ohio cir. ct. r. 252,Court Rule,local_rule,OH,1,1,1,1916,1916,false,unresolved
@@ -1651,7 +1644,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 22 Ohio Cir. Ct. R. 71,22 ohio cir. ct. r. 71,Court Rule,local_rule,OH,1,1,1,1910,1910,false,unresolved
 22 Ohio Cir. Ot. R. 437,22 ohio cir. ot. r. 437,Court Rule,local_rule,OH,1,1,1,1918,1918,false,unresolved
 22 Ohio R.Civ. P. 50,22 ohio r.civ. p. 50,Court Rule,state_rule,OH,1,1,1,1989,1989,true,exact
-"224 B.R. 27, 30-31 (6th Cir. BAP 1998). Ohio Revised Code § 1336.07","224 b.r. 27, 30-31 (6th cir. bap 1998). ohio revised code § 1336.07",Court Rule,local_rule,OH,1,1,1,1999,1999,false,unresolved
 23 Ohio B. R. 208,23 ohio b. r. 208,Court Rule,state_rule,OH,1,1,1,1987,1987,false,unresolved
 23 Ohio Cir. Ct. R. 180,23 ohio cir. ct. r. 180,Court Rule,local_rule,OH,1,1,1,1903,1903,false,unresolved
 23 Ohio Cir. Ct. R. 199,23 ohio cir. ct. r. 199,Court Rule,local_rule,OH,1,1,1,1914,1914,false,unresolved
@@ -1671,7 +1663,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 24 Ohio Cir. Ct. R. 80,24 ohio cir. ct. r. 80,Court Rule,local_rule,OH,1,1,1,1925,1925,false,unresolved
 24 Ohio Cir.Ct. R. 734,24 ohio cir.ct. r. 734,Court Rule,local_rule,OH,1,1,1,1941,1941,false,unresolved
 24 Ohio St. L.J. 89 (1963). 2 Rule 804,24 ohio st. l.j. 89 (1963). 2 rule 804,Court Rule,state_rule,OH,1,1,1,2013,2013,false,unresolved
-"240 B.R. 884, 885 (Bankr.N.D.Ohio 1999). Ohio Rev. Code § 5301.234","240 b.r. 884, 885 (bankr.n.d.ohio 1999). ohio rev. code § 5301.234",Court Rule,local_rule,OH,1,1,1,2001,2001,false,unresolved
 241 (1972). Ohio Civil Procedure Rule 14,241 (1972). ohio civil procedure rule 14,Court Rule,state_rule,OH,1,1,1,2021,2021,true,exact
 25 Ohio Cir. Ct. R. 1,25 ohio cir. ct. r. 1,Court Rule,local_rule,OH,1,1,1,1917,1917,false,unresolved
 25 Ohio Cir. Ct. R. 140,25 ohio cir. ct. r. 140,Court Rule,local_rule,OH,1,1,1,1904,1904,false,unresolved
@@ -1725,7 +1716,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 29 Ohio Cir. R. 625,29 ohio cir. r. 625,Court Rule,local_rule,OH,1,1,1,1927,1927,false,unresolved
 29 Ohio L.R. 225,29 ohio l.r. 225,Court Rule,local_rule,OH,1,1,1,2004,2004,false,unresolved
 29 Ohio N.P. R. 31,29 ohio n.p. r. 31,Court Rule,state_rule,OH,1,1,1,1935,1935,false,unresolved
-29B Cal.Evid.Code § 1004,29b cal.evid.code § 1004,Court Rule,state_rule,OH,1,1,1,1992,1992,false,unresolved
 3 C.P. Sup. R. 13,3 c.p. sup. r. 13,Court Rule,state_rule,OH,1,1,1,2021,2021,false,unresolved
 3 Ham. Ohio R. 211,3 ham. ohio r. 211,Court Rule,state_rule,OH,1,1,1,1839,1839,false,unresolved
 3 Ham. Ohio R. 287,3 ham. ohio r. 287,Court Rule,state_rule,OH,1,1,1,1845,1845,false,unresolved
@@ -1837,7 +1827,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 "451 (1994), AND EVID. R. 702","451 (1994), and evid. r. 702",Court Rule,state_rule,OH,1,1,1,1998,1998,true,exact
 48 Ohio S. R. 25,48 ohio s. r. 25,Court Rule,state_rule,OH,1,1,1,1939,1939,false,unresolved
 483-85 (E.D.Pa. 1997) Rule 23,483-85 (e.d.pa. 1997) rule 23,Court Rule,local_rule,OH,1,1,1,2002,2002,false,unresolved
-493 (6th Cir. 1997). Ohio Civil Rule 13,493 (6th cir. 1997). ohio civil rule 13,Court Rule,local_rule,OH,1,1,1,2019,2019,false,unresolved
 5 C.P.Sup. R. 4,5 c.p.sup. r. 4,Court Rule,state_rule,OH,1,1,1,2007,2007,false,unresolved
 5 Ohio Appellate Rule 26,5 ohio appellate rule 26,Court Rule,state_rule,OH,1,1,1,2025,2025,true,exact
 5 Ohio Cir. Ct. R. 395,5 ohio cir. ct. r. 395,Court Rule,local_rule,OH,1,1,1,1909,1909,false,unresolved
@@ -1939,7 +1928,6 @@ WITH EVID. R. 703,with evid. r. 703,Court Rule,state_rule,OH,2,2,1,2006,2019,tru
 6 Ohio R. 90,6 ohio r. 90,Court Rule,state_rule,OH,1,1,1,1825,1825,false,unresolved
 6 Ohio R. 92,6 ohio r. 92,Court Rule,state_rule,OH,1,1,1,1841,1841,false,unresolved
 6 Ohio R. 94,6 ohio r. 94,Court Rule,state_rule,OH,1,1,1,1841,1841,false,unresolved
-6 Ohio Rule 5,6 ohio rule 5,Court Rule,state_rule,OH,1,1,1,2002,2002,false,unresolved
 6 Ohio Rule Rep.Op. R. 3.4,6 ohio rule rep.op. r. 3.4,Court Rule,state_rule,OH,1,1,1,2025,2025,false,unresolved
 6 Ohio S. R. 12,6 ohio s. r. 12,Court Rule,state_rule,OH,1,1,1,1862,1862,false,unresolved
 6 Ohio S. R. 607,6 ohio s. r. 607,Court Rule,state_rule,OH,1,1,1,1864,1864,false,unresolved
@@ -2264,7 +2252,6 @@ Gov.Bar R. VII § 8,gov.bar r. vii § 8,Court Rule,state_rule,OH,1,1,1,2009,2009
 "H. & D.R. Co., 7 Ohio N. P. 202","h. & d.r. co., 7 ohio n. p. 202",Court Rule,local_rule,OH,1,1,1,1910,1910,false,unresolved
 "HABEAS CORPUS, 10 Ohio St. L.J. 337 (1949). 6 Cf. Rule 7","habeas corpus, 10 ohio st. l.j. 337 (1949). 6 cf. rule 7",Court Rule,state_rule,OH,1,1,1,2013,2013,false,unresolved
 HUD. 24 C.F. R. 203.500,hud. 24 c.f. r. 203.500,Court Rule,state_rule,OH,1,1,1,2019,2019,true,exact
-II. Ohio R. Civ. P. 62,ii. ohio r. civ. p. 62,Court Rule,state_rule,OH,1,1,1,2018,2018,false,unresolved
 III. 6 Sup. R. 88,iii. 6 sup. r. 88,Court Rule,state_rule,OH,1,1,1,2023,2023,false,unresolved
 IN EVID. R. 12,in evid. r. 12,Court Rule,state_rule,OH,1,1,1,2016,2016,false,unresolved
 IN EVID. R. 804,in evid. r. 804,Court Rule,state_rule,OH,1,1,1,2020,2020,true,exact
@@ -2844,7 +2831,6 @@ Ohio Rule 4.2,ohio rule 4.2,Court Rule,state_rule,OH,1,1,1,2025,2025,true,exact
 Ohio Rule 4.4,ohio rule 4.4,Court Rule,state_rule,OH,1,1,1,2012,2012,true,exact
 Ohio Rule 403,ohio rule 403,Court Rule,state_rule,OH,1,1,1,2002,2002,true,exact
 Ohio Rule 48.03,ohio rule 48.03,Court Rule,state_rule,OH,1,1,1,2026,2026,false,unresolved
-Ohio Rule 5,ohio rule 5,Court Rule,state_rule,OH,1,1,1,2020,2020,true,exact
 Ohio Rule 50,ohio rule 50,Court Rule,state_rule,OH,1,1,1,1979,1979,true,exact
 Ohio Rule 53,ohio rule 53,Court Rule,state_rule,OH,1,1,1,2003,2003,true,exact
 Ohio Rule 56,ohio rule 56,Court Rule,state_rule,OH,1,1,1,2012,2012,true,exact

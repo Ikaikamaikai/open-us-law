@@ -1,10 +1,10 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-Colo. R. Crim. P. 35,colo. r. crim. p. 35,Court Rule,state_rule,CO,426,286,5,1964,2026,true,exact
+Colo. R. Crim. P. 35,colo. r. crim. p. 35,Court Rule,state_rule,CO,429,286,5,1964,2026,true,exact
 Colo. R. Civ. P. 4,colo. r. civ. p. 4,Court Rule,state_rule,CO,239,77,8,2002,2026,true,exact
 Colorado Rules of Criminal Procedure Rule 35,colorado rules of criminal procedure rule 35,Court Rule,state_rule,CO,176,142,6,1962,2026,true,exact
 C.R.C.P. 121 § 1-15,c.r.c.p. 121 § 1-15,Court Rule,state_rule,CO,164,122,3,1984,2026,true,exact
 C.R.C.P. 121 § 1-22,c.r.c.p. 121 § 1-22,Court Rule,state_rule,CO,133,68,2,1988,2026,true,exact
-Colo. R. Civ. P. 106,colo. r. civ. p. 106,Court Rule,state_rule,CO,62,29,5,1999,2026,true,exact
+Colo. R. Civ. P. 106,colo. r. civ. p. 106,Court Rule,state_rule,CO,65,29,5,1987,2026,true,exact
 Colorado Rule 4,colorado rule 4,Court Rule,state_rule,CO,45,18,4,1963,2025,true,exact
 Colo. R. Civ. P. 120,colo. r. civ. p. 120,Court Rule,state_rule,CO,44,27,3,1996,2026,true,exact
 C.R.C.P. 121 § 1-10,c.r.c.p. 121 § 1-10,Court Rule,state_rule,CO,42,20,2,1984,2026,true,exact
@@ -22,20 +22,21 @@ Colo. R. Crim. P. 16,colo. r. crim. p. 16,Court Rule,state_rule,CO,26,15,4,1965,
 Colorado Rule 35,colorado rule 35,Court Rule,state_rule,CO,26,13,3,1963,2018,true,exact
 Colorado Rules of Civil Procedure Rule 12,colorado rules of civil procedure rule 12,Court Rule,state_rule,CO,26,26,6,1950,2025,true,exact
 Colorado Rules of Civil Procedure Rule 4,colorado rules of civil procedure rule 4,Court Rule,state_rule,CO,24,22,4,1954,2025,true,exact
+C.R.C.P. 103 § 8,c.r.c.p. 103 § 8,Court Rule,state_rule,CO,21,11,3,1990,2022,true,exact
 C.R.C.P. 121 § 1-1,c.r.c.p. 121 § 1-1,Court Rule,state_rule,CO,21,14,2,1990,2025,true,exact
 C.R.C.P. 121 § 1-5,c.r.c.p. 121 § 1-5,Court Rule,state_rule,CO,21,10,2,1994,2017,true,exact
 Colo. R. Crim. P. 48,colo. r. crim. p. 48,Court Rule,state_rule,CO,21,17,3,1964,2007,true,exact
+Colo. R. Evid. 404,colo. r. evid. 404,Court Rule,state_rule,CO,21,12,4,1993,2024,true,exact
 Colorado Appellate Rule 21,colorado appellate rule 21,Court Rule,state_rule,CO,21,18,3,1985,2021,true,exact
 District of Colorado Rule 15.1,district of colorado rule 15.1,Court Rule,state_rule,CO,21,21,3,2023,2025,false,unresolved
-C.R.C.P. 103 § 8,c.r.c.p. 103 § 8,Court Rule,state_rule,CO,20,11,3,1990,2022,true,exact
 Colo. R. Crim. P. 41,colo. r. crim. p. 41,Court Rule,state_rule,CO,20,15,4,1963,2019,true,exact
 Colo. R.Crim. P. 35,colo. r.crim. p. 35,Court Rule,state_rule,CO,20,17,5,1968,2014,true,exact
+C.R.C.P. 11 § 13-17-102,c.r.c.p. 11 § 13-17-102,Court Rule,state_rule,CO,19,13,1,1990,2005,true,exact
 C.R.C.P. 121 § 1-14,c.r.c.p. 121 § 1-14,Court Rule,state_rule,CO,19,8,2,1986,2025,true,exact
-C.R.C.P. 11 § 13-17-102,c.r.c.p. 11 § 13-17-102,Court Rule,state_rule,CO,18,13,1,1990,2005,true,exact
 C.R.C.P. 121 § 1-11,c.r.c.p. 121 § 1-11,Court Rule,state_rule,CO,18,18,2,1987,2026,true,exact
 Colo. App. R. 21.1,colo. app. r. 21.1,Court Rule,state_rule,CO,18,15,2,1999,2025,true,exact
 Colo. R. Civ. P. 15,colo. r. civ. p. 15,Court Rule,state_rule,CO,18,8,3,2003,2026,true,exact
-Colo. R. Evid. 404,colo. r. evid. 404,Court Rule,state_rule,CO,18,12,4,2010,2024,true,exact
+Colo. R. Evid. 804,colo. r. evid. 804,Court Rule,state_rule,CO,18,8,2,1991,2024,true,exact
 Colorado Rules of Civil Procedure Rule 26,colorado rules of civil procedure rule 26,Court Rule,state_rule,CO,18,18,3,1959,2025,true,exact
 Colo.App. R. 21.1,colo.app. r. 21.1,Court Rule,state_rule,CO,17,15,3,1972,2014,true,exact
 Colo.R.Civ. P. 102,colo.r.civ. p. 102,Court Rule,state_rule,CO,17,11,4,1966,2025,true,exact
@@ -47,29 +48,30 @@ Colo. R. Civ. P. 12,colo. r. civ. p. 12,Court Rule,state_rule,CO,15,11,3,1996,20
 Colo.R.Civ. P. 103,colo.r.civ. p. 103,Court Rule,state_rule,CO,15,11,3,1990,2004,true,exact
 Colorado Rule 701,colorado rule 701,Court Rule,state_rule,CO,15,4,3,2005,2021,true,exact
 Colo. R. Crim. P. 46,colo. r. crim. p. 46,Court Rule,state_rule,CO,14,7,1,1965,1967,true,exact
+Colorado Appellate Rule 4,colorado appellate rule 4,Court Rule,state_rule,CO,14,11,5,1975,2020,true,exact
 Colorado Rules of Criminal Procedure. Rule 35,colorado rules of criminal procedure. rule 35,Court Rule,state_rule,CO,14,4,1,1964,2018,true,exact
 Colo. Crim. P. 35,colo. crim. p. 35,Court Rule,state_rule,CO,13,10,2,1997,2025,true,exact
 Colo. Crim. P. Rule 35,colo. crim. p. rule 35,Court Rule,state_rule,CO,13,10,2,2012,2025,true,exact
 Colo. R. Civ. P. 13,colo. r. civ. p. 13,Court Rule,state_rule,CO,13,6,3,2001,2021,true,exact
 Colo. R. Civ. P. 26,colo. r. civ. p. 26,Court Rule,state_rule,CO,13,11,4,1998,2024,true,exact
+Colo. R. Civ. P. 60,colo. r. civ. p. 60,Court Rule,state_rule,CO,13,8,4,1985,2026,true,exact
 Colo.Crim. P. 5,colo.crim. p. 5,Court Rule,state_rule,CO,13,2,1,1987,1987,true,exact
-Colorado Appellate Rule 4,colorado appellate rule 4,Court Rule,state_rule,CO,13,11,5,1975,2020,true,exact
 Colorado Appellate Rule 51.1,colorado appellate rule 51.1,Court Rule,state_rule,CO,13,11,3,2007,2023,true,exact
+C.R.C.P. 121 § 1-16,c.r.c.p. 121 § 1-16,Court Rule,state_rule,CO,12,8,2,1990,2025,true,exact
 Colo. App. R. 10,colo. app. r. 10,Court Rule,state_rule,CO,12,2,2,1972,2010,true,exact
 Colo. App. R. 21,colo. app. r. 21,Court Rule,state_rule,CO,12,9,2,1999,2024,true,exact
-Colo. R. Civ. P. 60,colo. r. civ. p. 60,Court Rule,state_rule,CO,12,8,4,1998,2026,true,exact
 Colo. R. Crim. P. 30,colo. r. crim. p. 30,Court Rule,state_rule,CO,12,12,1,1965,1972,true,exact
 Colo. R. Crim. P. 7,colo. r. crim. p. 7,Court Rule,state_rule,CO,12,12,2,1965,2021,true,exact
-C.R.C.P. 121 § 1-16,c.r.c.p. 121 § 1-16,Court Rule,state_rule,CO,11,8,2,1990,2025,true,exact
-Colo. R. Evid. 804,colo. r. evid. 804,Court Rule,state_rule,CO,11,8,2,1997,2024,true,exact
+Colo. R. Evid. 608,colo. r. evid. 608,Court Rule,state_rule,CO,12,8,3,1989,2014,true,exact
+Colo. R. Evid. 702,colo. r. evid. 702,Court Rule,state_rule,CO,12,6,3,1991,2020,true,exact
+Colo. R. Civ. P. 54,colo. r. civ. p. 54,Court Rule,state_rule,CO,11,9,5,1984,2025,true,exact
 Colorado Rules of Civil Procedure Rule 102,colorado rules of civil procedure rule 102,Court Rule,state_rule,CO,11,6,3,1964,1990,true,exact
 Colorado Rules of Criminal Procedure Rule 11,colorado rules of criminal procedure rule 11,Court Rule,state_rule,CO,11,11,3,1963,2007,true,exact
 Colorado Rules of Criminal Procedure Rule 17,colorado rules of criminal procedure rule 17,Court Rule,state_rule,CO,11,9,2,1971,2017,true,exact
 Colo. App. R. 51.1,colo. app. r. 51.1,Court Rule,state_rule,CO,10,8,2,2007,2024,true,exact
-Colo. R. Civ. P. 54,colo. r. civ. p. 54,Court Rule,state_rule,CO,10,9,5,2002,2025,true,exact
 Colo. R. Crim. P. 24,colo. r. crim. p. 24,Court Rule,state_rule,CO,10,6,4,1965,2025,true,exact
-Colo. R. Evid. 608,colo. r. evid. 608,Court Rule,state_rule,CO,10,8,3,1999,2014,true,exact
 Colo. R. Evid. 701,colo. r. evid. 701,Court Rule,state_rule,CO,10,4,2,2002,2011,true,exact
+Colo. R. Evid. 803,colo. r. evid. 803,Court Rule,state_rule,CO,10,5,4,1981,2014,true,exact
 Colorado Rules of Civil Procedure Rule 109,colorado rules of civil procedure rule 109,Court Rule,state_rule,CO,10,7,5,1958,1980,true,exact
 Colorado Rules of Civil Procedure Rule 15,colorado rules of civil procedure rule 15,Court Rule,state_rule,CO,10,10,3,1943,2021,true,exact
 Colorado Rules of Civil Procedure Rule 65,colorado rules of civil procedure rule 65,Court Rule,state_rule,CO,10,8,3,1986,2022,true,exact
@@ -83,6 +85,7 @@ C.R.C.P. 121 § 1-23,c.r.c.p. 121 § 1-23,Court Rule,state_rule,CO,9,5,2,1999,20
 Colo. R. App. P. 4,colo. r. app. p. 4,Court Rule,state_rule,CO,9,8,1,2007,2018,true,exact
 Colo. R. Civ. P. 105,colo. r. civ. p. 105,Court Rule,state_rule,CO,9,7,4,1981,2026,true,exact
 Colo. R. Civ. P. 69,colo. r. civ. p. 69,Court Rule,state_rule,CO,9,5,4,2007,2025,true,exact
+Colo. R. Crim. P. 32,colo. r. crim. p. 32,Court Rule,state_rule,CO,9,7,4,1967,2024,true,exact
 Colo. R. Crim. P. 5,colo. r. crim. p. 5,Court Rule,state_rule,CO,9,8,2,1965,2019,true,exact
 Colo.R.Civ. P. 105,colo.r.civ. p. 105,Court Rule,state_rule,CO,9,4,1,1984,1992,true,exact
 Colorado Rule 120,colorado rule 120,Court Rule,state_rule,CO,9,6,2,2012,2018,true,exact
@@ -92,7 +95,7 @@ Colorado Rules of Criminal Procedure Rule 7,colorado rules of criminal procedure
 IEC Rules of Procedure § 3,iec rules of procedure § 3,Court Rule,state_rule,CO,9,5,1,2016,2016,false,unresolved
 C.R. S. § 38-39-103,c.r. s. § 38-39-103,Court Rule,state_rule,CO,8,2,1,1988,1988,true,exact
 Colo. App. R. 26,colo. app. r. 26,Court Rule,state_rule,CO,8,6,1,1996,2020,true,exact
-Colo. R. Crim. P. 32,colo. r. crim. p. 32,Court Rule,state_rule,CO,8,7,4,1967,2024,true,exact
+Colo. R. Civ. P. 5,colo. r. civ. p. 5,Court Rule,state_rule,CO,8,3,1,1983,2026,true,exact
 Colo. R. Crim. P. 33,colo. r. crim. p. 33,Court Rule,state_rule,CO,8,8,3,1964,2022,true,exact
 Colo. R. Evid. 606,colo. r. evid. 606,Court Rule,state_rule,CO,8,1,1,2017,2017,true,exact
 Colo.R.Civ. P. 69,colo.r.civ. p. 69,Court Rule,state_rule,CO,8,3,2,1998,2022,true,exact
@@ -108,19 +111,17 @@ C.R.C.P. 121 § 1-19,c.r.c.p. 121 § 1-19,Court Rule,state_rule,CO,7,2,1,1987,19
 Colo. R. Civ. P. 16.1,colo. r. civ. p. 16.1,Court Rule,state_rule,CO,7,2,1,2009,2009,true,exact
 Colo. R. Civ. P. 57,colo. r. civ. p. 57,Court Rule,state_rule,CO,7,7,3,2008,2023,true,exact
 Colo.App. R. 8,colo.app. r. 8,Court Rule,state_rule,CO,7,1,1,1989,1989,true,exact
-Colo.R. Evid. 804,colo.r. evid. 804,Court Rule,state_rule,CO,7,1,1,1991,1991,false,unresolved
-LR.C. § 48,lr.c. § 48,Court Rule,local_rule,CO,7,1,1,2001,2001,false,unresolved
 C.R. S.1973 § 8-51-101,c.r. s.1973 § 8-51-101,Court Rule,state_rule,CO,6,2,1,1982,1982,false,unresolved
 C.R.C.P. 121 § 1-17,c.r.c.p. 121 § 1-17,Court Rule,state_rule,CO,6,1,1,2001,2001,true,exact
 C.R.C.P. 121 § 1-5.2,c.r.c.p. 121 § 1-5.2,Court Rule,state_rule,CO,6,3,1,1996,1999,true,exact
 Colo. R. App. P. 21.1,colo. r. app. p. 21.1,Court Rule,state_rule,CO,6,5,3,2011,2023,true,exact
+Colo. R. Civ. P. 11,colo. r. civ. p. 11,Court Rule,state_rule,CO,6,5,4,1989,2022,true,exact
 Colo. R. Civ. P. 41,colo. r. civ. p. 41,Court Rule,state_rule,CO,6,4,2,2002,2025,true,exact
 Colo. R. Civ. P. 45,colo. r. civ. p. 45,Court Rule,state_rule,CO,6,1,1,2025,2025,true,exact
 Colo. R. Civ. P. 8,colo. r. civ. p. 8,Court Rule,state_rule,CO,6,5,5,1997,2023,true,exact
 Colo. R. Crim. P. 14,colo. r. crim. p. 14,Court Rule,state_rule,CO,6,5,2,1965,2021,true,exact
 Colo. R. Crim. P. 38,colo. r. crim. p. 38,Court Rule,state_rule,CO,6,3,1,1971,1971,true,exact
-Colo. R. Evid. 702,colo. r. evid. 702,Court Rule,state_rule,CO,6,6,3,2002,2020,true,exact
-Colo.R. Evid. 702,colo.r. evid. 702,Court Rule,state_rule,CO,6,2,1,1991,1991,false,unresolved
+Colo. R. Evid. 801,colo. r. evid. 801,Court Rule,state_rule,CO,6,4,3,1985,2023,true,exact
 Colo.R.Civ. P. 11,colo.r.civ. p. 11,Court Rule,state_rule,CO,6,2,2,1989,2000,true,exact
 Colo.R.Civ. P. 65,colo.r.civ. p. 65,Court Rule,state_rule,CO,6,6,1,1984,2000,true,exact
 Colo.R.Crim. P. 48,colo.r.crim. p. 48,Court Rule,state_rule,CO,6,5,3,1969,1991,true,exact
@@ -143,20 +144,16 @@ C.R. S.1973 § 14-11-101,c.r. s.1973 § 14-11-101,Court Rule,state_rule,CO,5,1,1
 C.R.C.P. 103 § 2,c.r.c.p. 103 § 2,Court Rule,state_rule,CO,5,2,1,1991,1995,true,exact
 C.R.C.P. 103 § 4,c.r.c.p. 103 § 4,Court Rule,state_rule,CO,5,5,3,1991,2022,true,exact
 C.R.C.P. 121 § 1-26,c.r.c.p. 121 § 1-26,Court Rule,state_rule,CO,5,2,1,2015,2025,true,exact
-Colo. R. Civ. P. 11,colo. r. civ. p. 11,Court Rule,state_rule,CO,5,5,4,2000,2022,true,exact
-Colo. R. Civ. P. 5,colo. r. civ. p. 5,Court Rule,state_rule,CO,5,3,1,2019,2026,true,exact
 Colo. R. Civ. P. 51.1,colo. r. civ. p. 51.1,Court Rule,state_rule,CO,5,3,2,2013,2022,true,exact
 Colo. R. Civ. P. 59,colo. r. civ. p. 59,Court Rule,state_rule,CO,5,5,3,1997,2019,true,exact
 Colo. R. Civ. P. 65,colo. r. civ. p. 65,Court Rule,state_rule,CO,5,4,2,2002,2021,true,exact
 Colo. R. Crim. P. 17,colo. r. crim. p. 17,Court Rule,state_rule,CO,5,3,2,2017,2026,true,exact
 Colo. R. Crim. P. 21,colo. r. crim. p. 21,Court Rule,state_rule,CO,5,4,2,1966,2019,true,exact
 Colo. R. Crim. P. 29,colo. r. crim. p. 29,Court Rule,state_rule,CO,5,5,3,1964,2017,true,exact
-Colo. R. Evid. 803,colo. r. evid. 803,Court Rule,state_rule,CO,5,5,3,2006,2014,true,exact
 Colo. R.Civ. P. 54,colo. r.civ. p. 54,Court Rule,state_rule,CO,5,1,1,1993,1993,true,exact
 Colo. R.Crim. P. 41,colo. r.crim. p. 41,Court Rule,state_rule,CO,5,4,3,1998,2013,true,exact
 Colo. Sup.Ct. R. 21.1,colo. sup.ct. r. 21.1,Court Rule,state_rule,CO,5,2,2,2002,2002,false,unresolved
 "Colo., 138 B. R. 973","colo., 138 b. r. 973",Court Rule,state_rule,CO,5,5,4,2009,2014,false,unresolved
-Colo.R. Evid. 803,colo.r. evid. 803,Court Rule,state_rule,CO,5,5,4,1981,1995,false,unresolved
 Colo.R.Civ. P. 252,colo.r.civ. p. 252,Court Rule,state_rule,CO,5,3,2,1982,1984,false,unresolved
 Colo.R.Civ. P. 54,colo.r.civ. p. 54,Court Rule,state_rule,CO,5,2,2,1992,1993,true,exact
 Colorado Appellate Rule 10,colorado appellate rule 10,Court Rule,state_rule,CO,5,4,3,1984,2025,true,exact
@@ -180,7 +177,6 @@ Colo. R. Civ. P. 35,colo. r. civ. p. 35,Court Rule,state_rule,CO,4,4,3,1964,2020
 Colo. R. Civ. P. 37,colo. r. civ. p. 37,Court Rule,state_rule,CO,4,4,2,2002,2002,true,exact
 Colo. R.Crim. P. 29,colo. r.crim. p. 29,Court Rule,state_rule,CO,4,2,1,2009,2009,true,exact
 Colo. Rule Prof. Conduct 1.15,colo. rule prof. conduct 1.15,Court Rule,state_rule,CO,4,4,2,1998,2015,true,exact
-Colo.R. Evid. 801,colo.r. evid. 801,Court Rule,state_rule,CO,4,4,3,1985,1991,false,unresolved
 Colo.R.Civ. P. 120,colo.r.civ. p. 120,Court Rule,state_rule,CO,4,1,1,1996,1996,true,exact
 Colo.R.Civ. P. 241,colo.r.civ. p. 241,Court Rule,state_rule,CO,4,4,1,1976,1984,false,unresolved
 Colo.R.Civ. P. 241.14,colo.r.civ. p. 241.14,Court Rule,state_rule,CO,4,1,1,1989,1989,false,unresolved
@@ -243,6 +239,7 @@ Colo. R. Crim. P. 15,colo. r. crim. p. 15,Court Rule,state_rule,CO,3,2,2,1967,19
 Colo. R. Crim. P. 44,colo. r. crim. p. 44,Court Rule,state_rule,CO,3,3,1,1965,1967,true,exact
 Colo. R. Crim. P. 45,colo. r. crim. p. 45,Court Rule,state_rule,CO,3,3,2,1968,2026,true,exact
 Colo. R. Crim. P. 8,colo. r. crim. p. 8,Court Rule,state_rule,CO,3,3,2,2020,2024,true,exact
+Colo. R. Evid. 301,colo. r. evid. 301,Court Rule,state_rule,CO,3,2,1,1993,2010,true,exact
 Colo. R. Evid. 704,colo. r. evid. 704,Court Rule,state_rule,CO,3,3,1,2022,2022,true,exact
 Colo. R. Evid. 807,colo. r. evid. 807,Court Rule,state_rule,CO,3,3,3,2007,2023,true,exact
 Colo. R. Pro. Conduct 1.5,colo. r. pro. conduct 1.5,Court Rule,state_rule,CO,3,1,1,2024,2024,false,unresolved
@@ -257,9 +254,6 @@ Colo. R.Crim. P. 48,colo. r.crim. p. 48,Court Rule,state_rule,CO,3,3,3,2007,2013
 Colo. Rule Evid. 606,colo. rule evid. 606,Court Rule,state_rule,CO,3,3,2,2017,2017,true,exact
 "Colo., 149 B. R. 177","colo., 149 b. r. 177",Court Rule,state_rule,CO,3,3,3,1995,2012,false,unresolved
 Colo.Crim. P. 52,colo.crim. p. 52,Court Rule,state_rule,CO,3,2,1,2005,2014,true,exact
-Colo.R. Civ. P. 5,colo.r. civ. p. 5,Court Rule,state_rule,CO,3,1,1,1983,1983,false,unresolved
-Colo.R. Crim. P. 35,colo.r. crim. p. 35,Court Rule,state_rule,CO,3,1,1,1967,1967,false,unresolved
-Colo.R. Evid. 404,colo.r. evid. 404,Court Rule,state_rule,CO,3,3,2,1993,2001,false,unresolved
 Colo.R.Civ. P. 241.6,colo.r.civ. p. 241.6,Court Rule,state_rule,CO,3,2,2,1993,1996,false,unresolved
 Colo.R.Civ. P. 41,colo.r.civ. p. 41,Court Rule,state_rule,CO,3,3,2,1990,1993,true,exact
 Colo.R.Crim. P. 21,colo.r.crim. p. 21,Court Rule,state_rule,CO,3,3,3,1970,1978,true,exact
@@ -297,7 +291,6 @@ Colorado Rules of Criminal Procedure. Crim. P. 24,colorado rules of criminal pro
 "Colorado, Inc., 54 B. R. 764","colorado, inc., 54 b. r. 764",Court Rule,state_rule,CO,3,3,3,1988,1997,false,unresolved
 "Colorado, Inc., 97 B. R. 39","colorado, inc., 97 b. r. 39",Court Rule,state_rule,CO,3,3,3,1989,1992,false,unresolved
 D. Colo. Civ. R. 5.1,d. colo. civ. r. 5.1,Court Rule,local_rule,CO,3,3,1,2019,2025,true,exact
-LR.C. § 46,lr.c. § 46,Court Rule,local_rule,CO,3,1,1,2001,2001,false,unresolved
 PUC Rule 31 § 1,puc rule 31 § 1,Court Rule,state_rule,CO,3,1,1,1986,1986,false,unresolved
 R.R. § 1165,r.r. § 1165,Court Rule,state_rule,CO,3,2,2,1899,1915,false,unresolved
 1246 (Colo. 1988). C.A. R. 4,1246 (colo. 1988). c.a. r. 4,Court Rule,state_rule,CO,2,2,1,2025,2026,true,exact
@@ -310,7 +303,6 @@ R.R. § 1165,r.r. § 1165,Court Rule,state_rule,CO,3,2,2,1899,1915,false,unresol
 1385 (Colo.1983). Crim. P. 7,1385 (colo.1983). crim. p. 7,Court Rule,state_rule,CO,2,2,1,1983,1983,true,exact
 187 (2002). Colorado's Rule 701,187 (2002). colorado's rule 701,Court Rule,state_rule,CO,2,2,1,2002,2002,false,unresolved
 196 (Colo.1990). Crim. P. 5,196 (colo.1990). crim. p. 5,Court Rule,state_rule,CO,2,2,1,1994,1994,true,exact
-25 C.E.R. § 23.11,25 c.e.r. § 23.11,Court Rule,state_rule,CO,2,1,1,2009,2009,false,unresolved
 3 Colo. L.R. 193,3 colo. l.r. 193,Court Rule,local_rule,CO,2,2,2,1884,1912,false,unresolved
 360 (Colo.1986). Crim. P. 16,360 (colo.1986). crim. p. 16,Court Rule,state_rule,CO,2,2,1,2001,2001,true,exact
 365 (Colo. 1984). C.A. R. 38,365 (colo. 1984). c.a. r. 38,Court Rule,state_rule,CO,2,2,1,2019,2025,true,exact
@@ -400,9 +392,8 @@ Colo. R. Crim. P. Rule 35,colo. r. crim. p. rule 35,Court Rule,state_rule,CO,2,2
 "Colo. R. Crim. P., Rule 35","colo. r. crim. p., rule 35",Court Rule,state_rule,CO,2,2,1,1964,1964,true,exact
 Colo. R. Evid. 103,colo. r. evid. 103,Court Rule,state_rule,CO,2,2,2,2002,2013,true,exact
 Colo. R. Evid. 1101,colo. r. evid. 1101,Court Rule,state_rule,CO,2,2,1,2009,2009,true,exact
-Colo. R. Evid. 301,colo. r. evid. 301,Court Rule,state_rule,CO,2,2,1,1993,2010,true,exact
+Colo. R. Evid. 403,colo. r. evid. 403,Court Rule,state_rule,CO,2,1,1,1996,2018,true,exact
 Colo. R. Evid. 408,colo. r. evid. 408,Court Rule,state_rule,CO,2,2,1,2021,2022,true,exact
-Colo. R. Evid. 801,colo. r. evid. 801,Court Rule,state_rule,CO,2,2,2,2022,2023,true,exact
 Colo. R. Prof. Cond. 1.2,colo. r. prof. cond. 1.2,Court Rule,state_rule,CO,2,2,2,2003,2015,false,unresolved
 Colo. R. Prof. Conduct 1.5,colo. r. prof. conduct 1.5,Court Rule,state_rule,CO,2,2,2,2015,2019,true,exact
 Colo. R. Prof. Conduct 3.3,colo. r. prof. conduct 3.3,Court Rule,state_rule,CO,2,2,1,1998,2019,true,exact
@@ -424,9 +415,7 @@ Colo.Crim. P. 35,colo.crim. p. 35,Court Rule,state_rule,CO,2,2,2,1991,1997,true,
 Colo.Crim.P. 5 and Mo.R.Crim. P. 21.11,colo.crim.p. 5 and mo.r.crim. p. 21.11,Court Rule,state_rule,CO,2,2,1,1987,1987,false,unresolved
 Colo.Mun.Ct.R. P. 223,colo.mun.ct.r. p. 223,Court Rule,state_rule,CO,2,2,1,1983,1983,true,exact
 Colo.R. Civ. P. 6,colo.r. civ. p. 6,Court Rule,state_rule,CO,2,1,1,1989,1989,false,unresolved
-Colo.R. Civ.P. 106,colo.r. civ.p. 106,Court Rule,state_rule,CO,2,1,1,1988,1988,false,unresolved
 Colo.R. Evid. 406,colo.r. evid. 406,Court Rule,state_rule,CO,2,2,1,2003,2003,false,unresolved
-Colo.R. Evid. 608,colo.r. evid. 608,Court Rule,state_rule,CO,2,2,1,1989,1989,false,unresolved
 Colo.R. Prof. Conduct 1.7,colo.r. prof. conduct 1.7,Court Rule,state_rule,CO,2,1,1,1999,1999,false,unresolved
 Colo.R.C.P. Rule 259,colo.r.c.p. rule 259,Court Rule,state_rule,CO,2,2,1,1984,1984,false,unresolved
 Colo.R.Civ. P. 12,colo.r.civ. p. 12,Court Rule,state_rule,CO,2,2,1,1994,1995,true,exact
@@ -480,6 +469,8 @@ Colorado Rule 10,colorado rule 10,Court Rule,state_rule,CO,2,1,1,1972,1972,true,
 Colorado Rule 12,colorado rule 12,Court Rule,state_rule,CO,2,2,2,2019,2021,true,exact
 Colorado Rule 15,colorado rule 15,Court Rule,state_rule,CO,2,2,2,1956,2020,true,exact
 Colorado Rule 202,colorado rule 202,Court Rule,state_rule,CO,2,2,1,1980,1980,true,exact
+Colorado Rule 251.18,colorado rule 251.18,Court Rule,state_rule,CO,2,1,1,2019,2019,true,exact
+Colorado Rule 3.3,colorado rule 3.3,Court Rule,state_rule,CO,2,1,1,1996,1996,true,exact
 Colorado Rule 41,colorado rule 41,Court Rule,state_rule,CO,2,1,1,2025,2025,true,exact
 Colorado Rule 53,colorado rule 53,Court Rule,state_rule,CO,2,2,1,1973,1973,true,exact
 Colorado Rule 59,colorado rule 59,Court Rule,state_rule,CO,2,2,1,1972,2019,true,exact
@@ -617,7 +608,6 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 2 (Colo.App.1982). Crim. P. 24,2 (colo.app.1982). crim. p. 24,Court Rule,state_rule,CO,1,1,1,1986,1986,false,unresolved
 2 Colo. L.R. 63-66,2 colo. l.r. 63-66,Court Rule,local_rule,CO,1,1,1,1884,1884,false,unresolved
 2 Colo. L.R. 86,2 colo. l.r. 86,Court Rule,local_rule,CO,1,1,1,1882,1882,false,unresolved
-2 R. C.L. 372 § 20,2 r. c.l. 372 § 20,Court Rule,state_rule,CO,1,1,1,1936,1936,false,unresolved
 "2 R. Civ. P. 65, and Colo. R. Civ. P. 104","2 r. civ. p. 65, and colo. r. civ. p. 104",Court Rule,state_rule,CO,1,1,1,2021,2021,false,unresolved
 209 C.E.R. § 825.302,209 c.e.r. § 825.302,Court Rule,state_rule,CO,1,1,1,2000,2000,false,unresolved
 217 (Colo. App. 1990). 8 C.A. R. 10,217 (colo. app. 1990). 8 c.a. r. 10,Court Rule,state_rule,CO,1,1,1,2024,2024,false,unresolved
@@ -631,14 +621,11 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 268 (10th Cir. 1986). District of Colorado Local Rule 7.1,268 (10th cir. 1986). district of colorado local rule 7.1,Court Rule,local_rule,CO,1,1,1,2006,2006,false,unresolved
 269-70 (Colo.App.2005). C.A. R. 4,269-70 (colo.app.2005). c.a. r. 4,Court Rule,state_rule,CO,1,1,1,2007,2007,false,unresolved
 28 C.E.R. § 85.104,28 c.e.r. § 85.104,Court Rule,state_rule,CO,1,1,1,2015,2015,false,unresolved
-287 (1970). 42 C.E.R. § 431.205,287 (1970). 42 c.e.r. § 431.205,Court Rule,state_rule,CO,1,1,1,2002,2002,false,unresolved
 29 C.E.R. § 1680.2,29 c.e.r. § 1680.2,Court Rule,state_rule,CO,1,1,1,2016,2016,false,unresolved
 29 C.E.R. § 208,29 c.e.r. § 208,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 29 C.E.R. § 541,29 c.e.r. § 541,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 29 C.E.R. § 541.108,29 c.e.r. § 541.108,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
-29 C.E.R. § 541.2,29 c.e.r. § 541.2,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 29 C.E.R. § 541.205-541.207,29 c.e.r. § 541.205-541.207,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
-29 C.E.R. § 825.208,29 c.e.r. § 825.208,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 29 C.FB.R. § 825.101,29 c.fb.r. § 825.101,Court Rule,state_rule,CO,1,1,1,2000,2000,false,unresolved
 29 CFP.R. § 825.305,29 cfp.r. § 825.305,Court Rule,state_rule,CO,1,1,1,2000,2000,false,unresolved
 290 (Colo.2000). Crim. P. 35,290 (colo.2000). crim. p. 35,Court Rule,state_rule,CO,1,1,1,2003,2003,true,exact
@@ -647,7 +634,6 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 3 Colo. R. Civ. P. 120,3 colo. r. civ. p. 120,Court Rule,state_rule,CO,1,1,1,2015,2015,true,exact
 3 Colo. R. Crim. P. 41.1,3 colo. r. crim. p. 41.1,Court Rule,state_rule,CO,1,1,1,1990,1990,true,exact
 3 Colorado Appellate Rule 21.1,3 colorado appellate rule 21.1,Court Rule,state_rule,CO,1,1,1,1997,1997,true,exact
-30 C.E.R. § 1206.178,30 c.e.r. § 1206.178,Court Rule,state_rule,CO,1,1,1,2016,2016,false,unresolved
 320 (Colo.1984) (en banc) (Colo.R. Civ. P. 26,320 (colo.1984) (en banc) (colo.r. civ. p. 26,Court Rule,state_rule,CO,1,1,1,1985,1985,false,unresolved
 321 (Colo.2003). Rule 403,321 (colo.2003). rule 403,Court Rule,state_rule,CO,1,1,1,2014,2014,false,unresolved
 329 (Colo.App.1984). Crim. P. 35,329 (colo.app.1984). crim. p. 35,Court Rule,state_rule,CO,1,1,1,1987,1987,false,unresolved
@@ -658,7 +644,6 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 369 (Colo.App.1984). Rule 15,369 (colo.app.1984). rule 15,Court Rule,state_rule,CO,1,1,1,1988,1988,false,unresolved
 37 (Colo.1983). Rule 11,37 (colo.1983). rule 11,Court Rule,state_rule,CO,1,1,1,1986,1986,false,unresolved
 37 (d) R.C.P. Colo. Rule 37,37 (d) r.c.p. colo. rule 37,Court Rule,state_rule,CO,1,1,1,1963,1963,false,unresolved
-37 C.E.R. § 10.149,37 c.e.r. § 10.149,Court Rule,state_rule,CO,1,1,1,2005,2005,false,unresolved
 38 C.E.R. § 18.71,38 c.e.r. § 18.71,Court Rule,state_rule,CO,1,1,1,2007,2007,false,unresolved
 38 C.FE.R. § 18.55,38 c.fe.r. § 18.55,Court Rule,state_rule,CO,1,1,1,2007,2007,false,unresolved
 "4 Code Colo.Reg., Rule 7-3-1","4 code colo.reg., rule 7-3-1",Court Rule,state_rule,CO,1,1,1,1986,1986,false,unresolved
@@ -670,8 +655,6 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 413 (Colo. 1981). Crim. P. 11,413 (colo. 1981). crim. p. 11,Court Rule,state_rule,CO,1,1,1,1985,1985,true,exact
 419 (Colo.1987). Crim. P. 15,419 (colo.1987). crim. p. 15,Court Rule,state_rule,CO,1,1,1,1990,1990,true,exact
 419 (Colo.1987). Crim. P. 52,419 (colo.1987). crim. p. 52,Court Rule,state_rule,CO,1,1,1,1990,1990,true,exact
-42 C.E.R. § 2.1,42 c.e.r. § 2.1,Court Rule,state_rule,CO,1,1,1,2013,2013,false,unresolved
-42 C.E.R. § 2.67,42 c.e.r. § 2.67,Court Rule,state_rule,CO,1,1,1,2013,2013,false,unresolved
 42 C.E.R. § 411.22,42 c.e.r. § 411.22,Court Rule,state_rule,CO,1,1,1,2014,2014,true,exact
 42 C.FE.R. § 440.70,42 c.fe.r. § 440.70,Court Rule,state_rule,CO,1,1,1,2001,2001,false,unresolved
 42 U. Colo. L.R. 403,42 u. colo. l.r. 403,Court Rule,local_rule,CO,1,1,1,1976,1976,false,unresolved
@@ -679,16 +662,12 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 424 (Colo.1993). Crim. P. 24,424 (colo.1993). crim. p. 24,Court Rule,state_rule,CO,1,1,1,1996,1996,true,exact
 428-29 (Colo.App.1992). Rule 106,428-29 (colo.app.1992). rule 106,Court Rule,state_rule,CO,1,1,1,1998,1998,false,unresolved
 439 (Colo.App.1986). C.A. R. 52,439 (colo.app.1986). c.a. r. 52,Court Rule,state_rule,CO,1,1,1,1993,1993,false,unresolved
-45 C.E.R. § 205.10,45 c.e.r. § 205.10,Court Rule,state_rule,CO,1,1,1,2001,2001,false,unresolved
 45 C.FE.R. § 160.103,45 c.fe.r. § 160.103,Court Rule,state_rule,CO,1,1,1,2010,2010,false,unresolved
 45 C.FE.R. § 164.502,45 c.fe.r. § 164.502,Court Rule,state_rule,CO,1,1,1,2010,2010,false,unresolved
 463 (Colo.1985). Crim. P. 7,463 (colo.1985). crim. p. 7,Court Rule,state_rule,CO,1,1,1,1993,1993,true,exact
-49 C.E.R. § 24.101,49 c.e.r. § 24.101,Court Rule,state_rule,CO,1,1,1,2001,2001,false,unresolved
-49 C.E.R. § 376.12,49 c.e.r. § 376.12,Court Rule,state_rule,CO,1,1,1,2011,2011,false,unresolved
 49 CFE.R. § 229.13,49 cfe.r. § 229.13,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 49 Colorado L.R. 185,49 colorado l.r. 185,Court Rule,local_rule,CO,1,1,1,1978,1978,false,unresolved
 491 (Colo.App.1994). Crim. P. 16,491 (colo.app.1994). crim. p. 16,Court Rule,state_rule,CO,1,1,1,1994,1994,false,unresolved
-498 (Colo.App.1985). C.R.C.P. 103 § 8,498 (colo.app.1985). c.r.c.p. 103 § 8,Court Rule,state_rule,CO,1,1,1,1993,1993,false,unresolved
 5 (Colo.1985). Rule 59,5 (colo.1985). rule 59,Court Rule,state_rule,CO,1,1,1,1987,1987,false,unresolved
 5 Colo. R. Civ. P. 4,5 colo. r. civ. p. 4,Court Rule,state_rule,CO,1,1,1,2024,2024,true,exact
 5 Colo. Sup. Ct. R. 21.1,5 colo. sup. ct. r. 21.1,Court Rule,state_rule,CO,1,1,1,2002,2002,false,unresolved
@@ -711,7 +690,6 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 "59 Colo. L. Rev. 1479, 1498 (1971). Rule 711","59 colo. l. rev. 1479, 1498 (1971). rule 711",Court Rule,state_rule,CO,1,1,1,1982,1982,false,unresolved
 "6 (b), Colorado Rules of Civil Procedure. Rule 111","6 (b), colorado rules of civil procedure. rule 111",Court Rule,state_rule,CO,1,1,1,1954,1954,false,unresolved
 6 Colo. R. Civ. P. 104,6 colo. r. civ. p. 104,Court Rule,state_rule,CO,1,1,1,2021,2021,true,exact
-6 Colorado Rule 21,6 colorado rule 21,Court Rule,state_rule,CO,1,1,1,2011,2011,false,unresolved
 6 D. Colo. L.B. R. 3012-1,6 d. colo. l.b. r. 3012-1,Court Rule,local_rule,CO,1,1,1,2016,2016,false,unresolved
 60 (Colo.1999). Crim. P. 7,60 (colo.1999). crim. p. 7,Court Rule,state_rule,CO,1,1,1,2001,2001,true,exact
 625 (Colo. 1988)). Rule 106,625 (colo. 1988)). rule 106,Court Rule,state_rule,CO,1,1,1,2025,2025,false,unresolved
@@ -720,10 +698,8 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 668 (Colo.1999). Rule 12,668 (colo.1999). rule 12,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 "681 (Colo.App.1999). Section 424-1718, C. R. S8.1999","681 (colo.app.1999). section 424-1718, c. r. s8.1999",Court Rule,state_rule,CO,1,1,1,2000,2000,false,unresolved
 69 (Colo.App.1993). Rule 55,69 (colo.app.1993). rule 55,Court Rule,state_rule,CO,1,1,1,1995,1995,true,exact
-7 Colorado Rule 251.18,7 colorado rule 251.18,Court Rule,state_rule,CO,1,1,1,2019,2019,false,unresolved
 "7 D. & C. (2d) 199, 52 Sch. L.R. 26","7 d. & c. (2d) 199, 52 sch. l.r. 26",Court Rule,local_rule,CO,1,1,1,1960,1960,false,unresolved
 70 Colo. R. Civ. P. 69,70 colo. r. civ. p. 69,Court Rule,state_rule,CO,1,1,1,2023,2023,true,exact
-702 (Colo.App.1989). C.R.C.P. 121 § 1-16,702 (colo.app.1989). c.r.c.p. 121 § 1-16,Court Rule,state_rule,CO,1,1,1,1990,1990,false,unresolved
 728 (Colo.App.2002). Crim. P. 31,728 (colo.app.2002). crim. p. 31,Court Rule,state_rule,CO,1,1,1,2003,2003,false,unresolved
 73 (Colo.1987). Cf. Crim. P. 23,73 (colo.1987). cf. crim. p. 23,Court Rule,state_rule,CO,1,1,1,1990,1990,false,unresolved
 733 (Colo.1986). Crim. P. 35,733 (colo.1986). crim. p. 35,Court Rule,state_rule,CO,1,1,1,1991,1991,true,exact
@@ -747,10 +723,8 @@ The Colorado Rules of Criminal Procedure Rule 34,the colorado rules of criminal 
 9 Colo. R. Civ. P. 69,9 colo. r. civ. p. 69,Court Rule,state_rule,CO,1,1,1,2022,2022,true,exact
 9 Colo.Dist.Ct. R. 400A,9 colo.dist.ct. r. 400a,Court Rule,local_rule,CO,1,1,1,1992,1992,false,unresolved
 9 Colorado Appellate Rule 3.4,9 colorado appellate rule 3.4,Court Rule,state_rule,CO,1,1,1,2022,2022,true,exact
-9 Colorado Rule 3.3,9 colorado rule 3.3,Court Rule,state_rule,CO,1,1,1,1996,1996,false,unresolved
 947 (Colo. 1974) Rule 35,947 (colo. 1974) rule 35,Court Rule,state_rule,CO,1,1,1,1999,1999,false,unresolved
 962 (Colo.App.1996) Crim. P. 38,962 (colo.app.1996) crim. p. 38,Court Rule,state_rule,CO,1,1,1,2000,2000,false,unresolved
-977-78 (Colo.1999). III. C.R.C.P. 11 § 13-17-102,977-78 (colo.1999). iii. c.r.c.p. 11 § 13-17-102,Court Rule,state_rule,CO,1,1,1,2005,2005,false,unresolved
 981 (Colo.App.1983). Crim. P. 38,981 (colo.app.1983). crim. p. 38,Court Rule,state_rule,CO,1,1,1,2008,2008,false,unresolved
 990 (Colo.App.1991). Crim. P. 7,990 (colo.app.1991). crim. p. 7,Court Rule,state_rule,CO,1,1,1,1996,1996,false,unresolved
 "992 (Colo.2002), Rule 7","992 (colo.2002), rule 7",Court Rule,state_rule,CO,1,1,1,2015,2015,false,unresolved
@@ -963,7 +937,6 @@ Colo. R. Evid. 106,colo. r. evid. 106,Court Rule,state_rule,CO,1,1,1,2023,2023,t
 Colo. R. Evid. 108,colo. r. evid. 108,Court Rule,state_rule,CO,1,1,1,2002,2002,false,unresolved
 Colo. R. Evid. 308,colo. r. evid. 308,Court Rule,state_rule,CO,1,1,1,2000,2000,false,unresolved
 Colo. R. Evid. 402,colo. r. evid. 402,Court Rule,state_rule,CO,1,1,1,2019,2019,true,exact
-Colo. R. Evid. 403,colo. r. evid. 403,Court Rule,state_rule,CO,1,1,1,2018,2018,true,exact
 Colo. R. Evid. 501,colo. r. evid. 501,Court Rule,state_rule,CO,1,1,1,1988,1988,true,exact
 Colo. R. Evid. 611,colo. r. evid. 611,Court Rule,state_rule,CO,1,1,1,2012,2012,true,exact
 Colo. R. Evid. 702.3,colo. r. evid. 702.3,Court Rule,state_rule,CO,1,1,1,2010,2010,true,exact
@@ -1034,17 +1007,10 @@ Colo.Crim. P. R. 48,colo.crim. p. r. 48,Court Rule,state_rule,CO,1,1,1,1986,1986
 Colo.Crim. P. Rule 35,colo.crim. p. rule 35,Court Rule,state_rule,CO,1,1,1,2015,2015,true,exact
 Colo.Crim.P. Rule 35,colo.crim.p. rule 35,Court Rule,state_rule,CO,1,1,1,2020,2020,true,exact
 Colo.L.B. R. 929,colo.l.b. r. 929,Court Rule,state_rule,CO,1,1,1,1994,1994,false,unresolved
-Colo.R. Civ. P. 106,colo.r. civ. p. 106,Court Rule,state_rule,CO,1,1,1,1987,1987,false,unresolved
-Colo.R. Civ. P. 11,colo.r. civ. p. 11,Court Rule,state_rule,CO,1,1,1,1989,1989,false,unresolved
 Colo.R. Civ. P. 241.16,colo.r. civ. p. 241.16,Court Rule,state_rule,CO,1,1,1,1989,1989,false,unresolved
 Colo.R. Civ. P. 3,colo.r. civ. p. 3,Court Rule,state_rule,CO,1,1,1,1982,1982,false,unresolved
-Colo.R. Civ. P. 60,colo.r. civ. p. 60,Court Rule,state_rule,CO,1,1,1,1985,1985,false,unresolved
-Colo.R. Civ.P. 54,colo.r. civ.p. 54,Court Rule,state_rule,CO,1,1,1,1984,1984,false,unresolved
 Colo.R. Crim. P. 121,colo.r. crim. p. 121,Court Rule,state_rule,CO,1,1,1,1970,1970,false,unresolved
-Colo.R. Crim. P. 32,colo.r. crim. p. 32,Court Rule,state_rule,CO,1,1,1,1982,1982,false,unresolved
 Colo.R. Evid. 105,colo.r. evid. 105,Court Rule,state_rule,CO,1,1,1,2001,2001,false,unresolved
-Colo.R. Evid. 301,colo.r. evid. 301,Court Rule,state_rule,CO,1,1,1,1993,1993,false,unresolved
-Colo.R. Evid. 403,colo.r. evid. 403,Court Rule,state_rule,CO,1,1,1,1996,1996,false,unresolved
 Colo.R.App. P. 21.1,colo.r.app. p. 21.1,Court Rule,state_rule,CO,1,1,1,1994,1994,true,exact
 Colo.R.Civ. P. 104,colo.r.civ. p. 104,Court Rule,state_rule,CO,1,1,1,1988,1988,true,exact
 Colo.R.Civ. P. 111,colo.r.civ. p. 111,Court Rule,state_rule,CO,1,1,1,1967,1967,false,unresolved
@@ -1155,13 +1121,12 @@ Colorado Rule 106,colorado rule 106,Court Rule,state_rule,CO,1,1,1,1991,1991,tru
 Colorado Rule 16,colorado rule 16,Court Rule,state_rule,CO,1,1,1,2009,2009,true,exact
 Colorado Rule 16.1,colorado rule 16.1,Court Rule,state_rule,CO,1,1,1,2009,2009,true,exact
 Colorado Rule 17,colorado rule 17,Court Rule,state_rule,CO,1,1,1,2020,2020,true,exact
+Colorado Rule 21,colorado rule 21,Court Rule,state_rule,CO,1,1,1,2011,2011,true,exact
 Colorado Rule 251.13,colorado rule 251.13,Court Rule,state_rule,CO,1,1,1,2005,2005,true,exact
 Colorado Rule 251.14,colorado rule 251.14,Court Rule,state_rule,CO,1,1,1,2019,2019,true,exact
 Colorado Rule 251.16,colorado rule 251.16,Court Rule,state_rule,CO,1,1,1,2019,2019,true,exact
-Colorado Rule 251.18,colorado rule 251.18,Court Rule,state_rule,CO,1,1,1,2019,2019,true,exact
 Colorado Rule 251.19,colorado rule 251.19,Court Rule,state_rule,CO,1,1,1,2019,2019,true,exact
 Colorado Rule 26,colorado rule 26,Court Rule,state_rule,CO,1,1,1,2002,2002,true,exact
-Colorado Rule 3.3,colorado rule 3.3,Court Rule,state_rule,CO,1,1,1,1996,1996,true,exact
 Colorado Rule 306,colorado rule 306,Court Rule,state_rule,CO,1,1,1,1991,1991,true,exact
 Colorado Rule 33,colorado rule 33,Court Rule,state_rule,CO,1,1,1,1970,1970,true,exact
 Colorado Rule 34,colorado rule 34,Court Rule,state_rule,CO,1,1,1,1996,1996,true,exact
@@ -1333,16 +1298,13 @@ District of Colorado. Rule 41,district of colorado. rule 41,Court Rule,state_rul
 FAA and the Colorado UAA. 2. Rule 12,faa and the colorado uaa. 2. rule 12,Court Rule,state_rule,CO,1,1,1,2024,2024,false,unresolved
 Fed. Crim. P. 5,fed. crim. p. 5,Court Rule,state_rule,CO,1,1,1,1975,1975,false,unresolved
 Fed.Evid. § 607.2,fed.evid. § 607.2,Court Rule,state_rule,CO,1,1,1,1986,1986,false,unresolved
-H.R. 1405 § 1,h.r. 1405 § 1,Court Rule,state_rule,CO,1,1,1,2023,2023,false,unresolved
 I. & W.R. § 1633,i. & w.r. § 1633,Court Rule,state_rule,CO,1,1,1,1921,1921,false,unresolved
 I. C.R.C.P. 121 § 1-15,i. c.r.c.p. 121 § 1-15,Court Rule,state_rule,CO,1,1,1,2002,2002,true,exact
 IEC Rules of Procedure § 8,iec rules of procedure § 8,Court Rule,state_rule,CO,1,1,1,2016,2016,false,unresolved
-II. Colorado Appellate Rule 4,ii. colorado appellate rule 4,Court Rule,state_rule,CO,1,1,1,1991,1991,false,unresolved
 II. Law C.A. R. 4.2,ii. law c.a. r. 4.2,Court Rule,state_rule,CO,1,1,1,2011,2011,false,unresolved
 III. Garcia's Crim. P. 35,iii. garcia's crim. p. 35,Court Rule,state_rule,CO,1,1,1,1991,1991,false,unresolved
 IL. Colorado Appellate Rule 21,il. colorado appellate rule 21,Court Rule,state_rule,CO,1,1,1,2002,2002,true,exact
 K.P. and A.R. § 24-4-105,k.p. and a.r. § 24-4-105,Court Rule,state_rule,CO,1,1,1,2018,2018,false,unresolved
-LR.C. § 38,lr.c. § 38,Court Rule,local_rule,CO,1,1,1,2001,2001,false,unresolved
 Mr.Vesely. Colo. R. Civ. P. 4,mr.vesely. colo. r. civ. p. 4,Court Rule,state_rule,CO,1,1,1,2021,2021,false,unresolved
 Other Colorado Rules of Civil Procedure Rule 127,other colorado rules of civil procedure rule 127,Court Rule,state_rule,CO,1,1,1,2015,2015,false,unresolved
 "PUC. Colorado PURPA Rules, Rule 5.300","puc. colorado purpa rules, rule 5.300",Court Rule,state_rule,CO,1,1,1,1999,1999,false,unresolved

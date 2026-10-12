@@ -488,6 +488,7 @@ Maine R. R. 342,maine r. r. 342,Court Rule,state_rule,ME,3,3,2,1962,1974,false,u
 Maine R. R. 343,maine r. r. 343,Court Rule,state_rule,ME,3,3,2,1965,1974,false,unresolved
 Maine R. R. 82,maine r. r. 82,Court Rule,state_rule,ME,3,3,2,1911,1943,false,unresolved
 Maine Rule 23,maine rule 23,Court Rule,state_rule,ME,3,2,1,2000,2001,true,exact
+Maine Rule 62,maine rule 62,Court Rule,state_rule,ME,3,1,1,2024,2024,true,exact
 "Maine Rules Civil Procedure, Rule 50","maine rules civil procedure, rule 50",Court Rule,state_rule,ME,3,3,1,1963,1967,true,exact
 Maine Rules of Appellate Procedure Rule 13,maine rules of appellate procedure rule 13,Court Rule,state_rule,ME,3,3,2,2011,2020,true,exact
 Maine Rules of Appellate Procedure Rule 5,maine rules of appellate procedure rule 5,Court Rule,state_rule,ME,3,3,1,2007,2010,true,exact
@@ -528,6 +529,7 @@ Me. Bar. R. 3.7,me. bar. r. 3.7,Court Rule,state_rule,ME,3,3,1,2007,2007,true,ex
 Me. Loc. R. 54.2,me. loc. r. 54.2,Court Rule,local_rule,ME,3,3,2,2004,2025,false,unresolved
 Me. R. 06-096-529,me. r. 06-096-529,Court Rule,state_rule,ME,3,1,1,2004,2004,false,unresolved
 Me. R. Civ. P. 13,me. r. civ. p. 13,Court Rule,state_rule,ME,3,3,2,1996,2022,true,exact
+Me. R. Civ. P. 17,me. r. civ. p. 17,Court Rule,state_rule,ME,3,1,1,2012,2012,true,exact
 Me. R. Civ. P. 50,me. r. civ. p. 50,Court Rule,state_rule,ME,3,1,1,2025,2025,true,exact
 Me. R. Civ. P. 93,me. r. civ. p. 93,Court Rule,state_rule,ME,3,2,1,2020,2021,true,exact
 Me. R. Crim. P. 11,me. r. crim. p. 11,Court Rule,state_rule,ME,3,2,2,2007,2018,false,unresolved
@@ -553,7 +555,6 @@ W.C.B. Rule ch. 8 § 7,w.c.b. rule ch. 8 § 7,Court Rule,state_rule,ME,3,1,1,200
 06-096 CODE ME. R. ch. 420 § 17,06-096 code me. r. ch. 420 § 17,Court Rule,state_rule,ME,2,2,1,2003,2003,false,unresolved
 06-096 CODE ME. R. ch. 420 § 4-10,06-096 code me. r. ch. 420 § 4-10,Court Rule,state_rule,ME,2,2,1,2003,2003,false,unresolved
 06-096 CODE ME. R. ch. 555-3 § 9,06-096 code me. r. ch. 555-3 § 9,Court Rule,state_rule,ME,2,2,1,2003,2003,false,unresolved
-1 Greenleaf's Me. R. 79,1 greenleaf's me. r. 79,Court Rule,state_rule,ME,2,2,1,1852,1852,false,unresolved
 1 Greenleaf's Me. R. 79. 3 T. R. 240,1 greenleaf's me. r. 79. 3 t. r. 240,Court Rule,state_rule,ME,2,2,1,1852,1852,false,unresolved
 1 M.R. S.A. § 72,1 m.r. s.a. § 72,Court Rule,state_rule,ME,2,2,1,1977,1977,true,exact
 10 M.R. S.A. § 1212,10 m.r. s.a. § 1212,Court Rule,state_rule,ME,2,1,1,1981,1981,true,exact
@@ -906,9 +907,9 @@ Maine Rule 502,maine rule 502,Court Rule,state_rule,ME,2,1,1,1987,1987,true,exac
 Maine Rule 6,maine rule 6,Court Rule,state_rule,ME,2,1,1,2010,2010,true,exact
 Maine Rule 60,maine rule 60,Court Rule,state_rule,ME,2,2,1,2024,2024,true,exact
 Maine Rule 609,maine rule 609,Court Rule,state_rule,ME,2,1,1,1983,1983,true,exact
-Maine Rule 62,maine rule 62,Court Rule,state_rule,ME,2,1,1,2024,2024,true,exact
 Maine Rule 7.1,maine rule 7.1,Court Rule,state_rule,ME,2,2,1,2018,2018,true,exact
 Maine Rule of Evid. 607,maine rule of evid. 607,Court Rule,state_rule,ME,2,2,1,1985,1985,true,exact
+Maine Rules 5,maine rules 5,Court Rule,state_rule,ME,2,1,1,2018,2023,true,exact
 "Maine Rules Civil Procedure, Rule 12","maine rules civil procedure, rule 12",Court Rule,state_rule,ME,2,1,1,1967,1967,true,exact
 Maine Rules of Appellate Procedure Rule 2B,maine rules of appellate procedure rule 2b,Court Rule,state_rule,ME,2,2,1,2020,2023,true,exact
 Maine Rules of Civil Procedure Rule 16B,maine rules of civil procedure rule 16b,Court Rule,state_rule,ME,2,1,1,2014,2014,true,exact
@@ -968,7 +969,6 @@ Me. Local R. 7,me. local r. 7,Court Rule,local_rule,ME,2,2,2,2005,2006,false,unr
 Me. M.R. Evid. 804,me. m.r. evid. 804,Court Rule,state_rule,ME,2,2,1,1987,1987,true,exact
 Me. R. 05-071,me. r. 05-071,Court Rule,state_rule,ME,2,2,1,2013,2019,false,unresolved
 Me. R. 10-144 Ch. 231 § 1-11,me. r. 10-144 ch. 231 § 1-11,Court Rule,state_rule,ME,2,1,1,2020,2020,false,unresolved
-Me. R. Civ. P. 17,me. r. civ. p. 17,Court Rule,state_rule,ME,2,1,1,2012,2012,true,exact
 Me. R. Civ. P. 39,me. r. civ. p. 39,Court Rule,state_rule,ME,2,2,1,2002,2002,true,exact
 Me. R. Civ. P. 43,me. r. civ. p. 43,Court Rule,state_rule,ME,2,2,1,2011,2011,true,exact
 Me. R. Civ. P. 55,me. r. civ. p. 55,Court Rule,state_rule,ME,2,2,2,2005,2013,true,exact
@@ -1023,7 +1023,7 @@ Title 29 M.R. S.A. § 1312,title 29 m.r. s.a. § 1312,Court Rule,state_rule,ME,2
 WCB Rule ch. 2 § 1,wcb rule ch. 2 § 1,Court Rule,state_rule,ME,2,2,1,1999,2002,false,unresolved
 05-071 Code Me.Rules ch. 130 § 1,05-071 code me.rules ch. 130 § 1,Court Rule,state_rule,ME,1,1,1,1988,1988,false,unresolved
 05-071 Code Me.Rules ch. 130 § 2,05-071 code me.rules ch. 130 § 2,Court Rule,state_rule,ME,1,1,1,1988,1988,false,unresolved
-"06-096 C.M.. R., ch. 2 § 7","06-096 c.m.. r., ch. 2 § 7",Court Rule,state_rule,ME,1,1,1,2020,2020,false,unresolved
+"06-096 C.M. R., ch. 2 § 7","06-096 c.m. r., ch. 2 § 7",Court Rule,state_rule,ME,1,1,1,2020,2020,true,exact
 06-096 CODE ME. R. ch. 305 § 14,06-096 code me. r. ch. 305 § 14,Court Rule,state_rule,ME,1,1,1,2003,2003,true,exact
 06-096 Code Me. R. ch. 310 § 9,06-096 code me. r. ch. 310 § 9,Court Rule,state_rule,ME,1,1,1,2003,2003,true,exact
 1 (Me.1981). 3 M.R. Evid. 301,1 (me.1981). 3 m.r. evid. 301,Court Rule,state_rule,ME,1,1,1,2010,2010,true,exact
@@ -1096,7 +1096,6 @@ WCB Rule ch. 2 § 1,wcb rule ch. 2 § 1,Court Rule,state_rule,ME,2,2,1,1999,2002
 1237-38 (Me.1985) Rule 24,1237-38 (me.1985) rule 24,Court Rule,state_rule,ME,1,1,1,1988,1988,false,unresolved
 125-107 (“Ordinance”) and M.R.Civ. P. 80B,125-107 (“ordinance”) and m.r.civ. p. 80b,Court Rule,state_rule,ME,1,1,1,2004,2004,false,unresolved
 1253 (Me.1993). M.R.Civ. P. 4A,1253 (me.1993). m.r.civ. p. 4a,Court Rule,state_rule,ME,1,1,1,1996,1996,true,exact
-1254 (Me. 1993). Maine Rules 5,1254 (me. 1993). maine rules 5,Court Rule,state_rule,ME,1,1,1,2023,2023,false,unresolved
 1263 (Fed. Cir. 1985). Rule 55,1263 (fed. cir. 1985). rule 55,Court Rule,local_rule,ME,1,1,1,2018,2018,false,unresolved
 1265 (Me.1991)). Rule 13,1265 (me.1991)). rule 13,Court Rule,state_rule,ME,1,1,1,2001,2001,false,unresolved
 "128 Maine, 495. 37 Am. L.R. 1262","128 maine, 495. 37 am. l.r. 1262",Court Rule,local_rule,ME,1,1,1,1934,1934,false,unresolved
@@ -1574,7 +1573,6 @@ WCB Rule ch. 2 § 1,wcb rule ch. 2 § 1,Court Rule,state_rule,ME,2,2,1,1999,2002
 25 Maine R. 495,25 maine r. 495,Court Rule,state_rule,ME,1,1,1,1849,1849,false,unresolved
 25 Maine R. 541,25 maine r. 541,Court Rule,state_rule,ME,1,1,1,1856,1856,false,unresolved
 25 Maine R. 567,25 maine r. 567,Court Rule,state_rule,ME,1,1,1,1847,1847,false,unresolved
-26 C.E.R. § 1.6001-1,26 c.e.r. § 1.6001-1,Court Rule,state_rule,ME,1,1,1,2004,2004,false,unresolved
 26 M.R. S. § 1043,26 m.r. s. § 1043,Court Rule,state_rule,ME,1,1,1,2022,2022,true,exact
 26 M.R. S. § 1193,26 m.r. s. § 1193,Court Rule,state_rule,ME,1,1,1,2014,2014,true,exact
 26 M.R. S.A. § 1032,26 m.r. s.a. § 1032,Court Rule,state_rule,ME,1,1,1,1983,1983,true,exact
@@ -1887,7 +1885,6 @@ WCB Rule ch. 2 § 1,wcb rule ch. 2 § 1,Court Rule,state_rule,ME,2,2,1,1999,2002
 7 M.LR.S.A. § 1017,7 m.lr.s.a. § 1017,Court Rule,local_rule,ME,1,1,1,2002,2002,false,unresolved
 7 M.R. S.A. § 3651,7 m.r. s.a. § 3651,Court Rule,state_rule,ME,1,1,1,1985,1985,false,unresolved
 7 Maine R. 54,7 maine r. 54,Court Rule,state_rule,ME,1,1,1,1855,1855,false,unresolved
-7 Maine Rule 62,7 maine rule 62,Court Rule,state_rule,ME,1,1,1,2024,2024,false,unresolved
 707 (Me.1989). Rule 412,707 (me.1989). rule 412,Court Rule,state_rule,ME,1,1,1,2008,2008,false,unresolved
 "71 Maine, 361 (36 Am. R. 325","71 maine, 361 (36 am. r. 325",Court Rule,state_rule,ME,1,1,1,1887,1887,false,unresolved
 717 (Me. 1977) (Maine Rule 50,717 (me. 1977) (maine rule 50,Court Rule,state_rule,ME,1,1,1,1979,1979,false,unresolved
@@ -2398,7 +2395,6 @@ Maine Rules 11,maine rules 11,Court Rule,state_rule,ME,1,1,1,2019,2019,true,exac
 Maine Rules 4,maine rules 4,Court Rule,state_rule,ME,1,1,1,2019,2019,true,exact
 Maine Rules 42,maine rules 42,Court Rule,state_rule,ME,1,1,1,2020,2020,true,exact
 Maine Rules 4A,maine rules 4a,Court Rule,state_rule,ME,1,1,1,2020,2020,true,exact
-Maine Rules 5,maine rules 5,Court Rule,state_rule,ME,1,1,1,2018,2018,true,exact
 "Maine Rules Civil Procedure, Rule 4","maine rules civil procedure, rule 4",Court Rule,state_rule,ME,1,1,1,1966,1966,true,exact
 "Maine Rules Civil Procedure, Rule 72","maine rules civil procedure, rule 72",Court Rule,state_rule,ME,1,1,1,1967,1967,true,exact
 "Maine Rules Civil Procedure, Rule 75","maine rules civil procedure, rule 75",Court Rule,state_rule,ME,1,1,1,1965,1965,false,unresolved
@@ -2600,7 +2596,6 @@ Me. R. Crim. P. 48,me. r. crim. p. 48,Court Rule,state_rule,ME,1,1,1,1979,1979,f
 Me. R. Crim. P. 6,me. r. crim. p. 6,Court Rule,state_rule,ME,1,1,1,2002,2002,false,unresolved
 Me. R. Crim. P. 76,me. r. crim. p. 76,Court Rule,state_rule,ME,1,1,1,2002,2002,false,unresolved
 Me. R. Crim. P. 8,me. r. crim. p. 8,Court Rule,state_rule,ME,1,1,1,2007,2007,false,unresolved
-Me. R. Crv. P. 17,me. r. crv. p. 17,Court Rule,state_rule,ME,1,1,1,2012,2012,false,unresolved
 Me. R. Ev. 502,me. r. ev. 502,Court Rule,state_rule,ME,1,1,1,1999,1999,false,unresolved
 Me. R. Evid. 1004,me. r. evid. 1004,Court Rule,state_rule,ME,1,1,1,2021,2021,true,exact
 Me. R. Evid. 201,me. r. evid. 201,Court Rule,state_rule,ME,1,1,1,2003,2003,true,exact

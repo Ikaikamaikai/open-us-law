@@ -1,16 +1,16 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 Alaska Appellate Rule 214,alaska appellate rule 214,Court Rule,state_rule,AK,1270,676,2,1983,2026,true,exact
 Alaska Civil Rule 82,alaska civil rule 82,Court Rule,state_rule,AK,604,434,6,1971,2026,true,exact
-Alaska R. Civ. P. 90.3,alaska r. civ. p. 90.3,Court Rule,state_rule,AK,571,185,6,1996,2025,true,exact
+Alaska R. Civ. P. 90.3,alaska r. civ. p. 90.3,Court Rule,state_rule,AK,572,185,6,1996,2025,true,exact
 Alaska Civil Rule 60,alaska civil rule 60,Court Rule,state_rule,AK,386,250,3,1967,2026,true,exact
 Alaska Civil Rule 90.3,alaska civil rule 90.3,Court Rule,state_rule,AK,344,223,4,1989,2025,true,exact
 Alaska R. Civ. P. 82,alaska r. civ. p. 82,Court Rule,state_rule,AK,304,192,7,1995,2026,true,exact
 Alaska Civil Rule 12,alaska civil rule 12,Court Rule,state_rule,AK,192,139,3,1977,2026,true,exact
 Alaska Civil Rule 68,alaska civil rule 68,Court Rule,state_rule,AK,185,110,4,1973,2025,true,exact
-Alaska Evidence Rule 404,alaska evidence rule 404,Court Rule,state_rule,AK,156,107,5,1982,2026,true,exact
+Alaska Evidence Rule 404,alaska evidence rule 404,Court Rule,state_rule,AK,157,107,5,1982,2026,true,exact
 Alaska R. Civ. P. 56,alaska r. civ. p. 56,Court Rule,state_rule,AK,153,131,2,1996,2026,true,exact
 Alaska R.Civ. P. 56,alaska r.civ. p. 56,Court Rule,state_rule,AK,142,128,2,1971,2001,true,exact
-Alaska Civil Rule 56,alaska civil rule 56,Court Rule,state_rule,AK,137,109,2,1975,2025,true,exact
+Alaska Civil Rule 56,alaska civil rule 56,Court Rule,state_rule,AK,138,109,2,1975,2025,true,exact
 Alaska R.Civ. P. 52,alaska r.civ. p. 52,Court Rule,state_rule,AK,131,113,2,1971,2000,true,exact
 District of Alaska Local Civil Rule 15.1,district of alaska local civil rule 15.1,Court Rule,local_rule,AK,131,125,1,2025,2026,false,unresolved
 District of Alaska Local Civil Rule 11.1,district of alaska local civil rule 11.1,Court Rule,local_rule,AK,125,125,1,2021,2026,false,unresolved
@@ -23,16 +23,16 @@ Alaska Civil Rule 15,alaska civil rule 15,Court Rule,state_rule,AK,106,71,2,1973
 Alaska R. Evid. 801,alaska r. evid. 801,Court Rule,state_rule,AK,104,69,5,1980,2026,true,exact
 Alaska Criminal Rule 35.1,alaska criminal rule 35.1,Court Rule,state_rule,AK,98,67,4,1988,2025,true,exact
 Alaska Evidence Rule 403,alaska evidence rule 403,Court Rule,state_rule,AK,98,82,3,1981,2024,true,exact
+Alaska R.Civ. P. 82,alaska r.civ. p. 82,Court Rule,state_rule,AK,98,69,3,1971,2007,true,exact
 Alaska Criminal Rule 45,alaska criminal rule 45,Court Rule,state_rule,AK,97,61,4,1973,2025,true,exact
-Alaska R.Civ. P. 82,alaska r.civ. p. 82,Court Rule,state_rule,AK,97,69,3,1971,2007,true,exact
 Alaska R.Civ. P. 90.3,alaska r.civ. p. 90.3,Court Rule,state_rule,AK,97,34,2,1989,2000,true,exact
 Alaska Civil Rule 77,alaska civil rule 77,Court Rule,state_rule,AK,92,83,2,1974,2026,true,exact
 Alaska Civil Rule 26,alaska civil rule 26,Court Rule,state_rule,AK,91,64,3,1975,2025,true,exact
+Alaska R. Civ. P. 77,alaska r. civ. p. 77,Court Rule,state_rule,AK,87,73,2,1997,2026,true,exact
 Alaska Criminal Rule 6,alaska criminal rule 6,Court Rule,state_rule,AK,86,43,2,1974,2025,true,exact
-Alaska R. Civ. P. 77,alaska r. civ. p. 77,Court Rule,state_rule,AK,86,73,2,1997,2026,true,exact
 Alaska Evidence Rule 803,alaska evidence rule 803,Court Rule,state_rule,AK,84,48,2,1988,2025,true,exact
+Alaska Criminal Rule 11,alaska criminal rule 11,Court Rule,state_rule,AK,82,57,2,1976,2024,true,exact
 Alaska Criminal Rule 16,alaska criminal rule 16,Court Rule,state_rule,AK,80,58,3,1974,2025,true,exact
-Alaska Criminal Rule 11,alaska criminal rule 11,Court Rule,state_rule,AK,78,57,2,1976,2024,true,exact
 Alaska R.Crim. P. 35,alaska r.crim. p. 35,Court Rule,state_rule,AK,77,51,2,1971,2014,true,exact
 Alaska R.Crim. P. 6,alaska r.crim. p. 6,Court Rule,state_rule,AK,77,50,2,1972,2012,true,exact
 Alaska R.Crim. P. 45,alaska r.crim. p. 45,Court Rule,state_rule,AK,76,40,6,1979,2010,true,exact
@@ -44,14 +44,14 @@ Alaska R. Civ. P. 61,alaska r. civ. p. 61,Court Rule,state_rule,AK,69,60,1,1997,
 Alaska Civil Rule 52,alaska civil rule 52,Court Rule,state_rule,AK,67,61,2,1971,2026,true,exact
 Alaska R. Civ. P. 12,alaska r. civ. p. 12,Court Rule,state_rule,AK,64,47,2,1996,2026,true,exact
 Alaska Civil Rule 24,alaska civil rule 24,Court Rule,state_rule,AK,62,29,1,1973,2025,true,exact
+Alaska Criminal Rule 30,alaska criminal rule 30,Court Rule,state_rule,AK,62,40,2,1970,2025,true,exact
 Alaska Criminal Rule 35,alaska criminal rule 35,Court Rule,state_rule,AK,62,55,3,1969,2025,true,exact
 Alaska R. Civ. P. 37,alaska r. civ. p. 37,Court Rule,state_rule,AK,62,36,1,1996,2025,true,exact
 Alaska R. Evid. 404,alaska r. evid. 404,Court Rule,state_rule,AK,62,46,7,1979,2025,true,exact
+Alaska R.Civ. P. 12,alaska r.civ. p. 12,Court Rule,state_rule,AK,62,42,2,1975,2001,true,exact
 Alaska R.Crim. P. 11,alaska r.crim. p. 11,Court Rule,state_rule,AK,62,33,2,1974,2014,true,exact
 Alaska Civil Rule 79,alaska civil rule 79,Court Rule,state_rule,AK,61,42,2,1986,2024,true,exact
-Alaska Criminal Rule 30,alaska criminal rule 30,Court Rule,state_rule,AK,61,40,2,1970,2025,true,exact
 Alaska R.App. P. 402,alaska r.app. p. 402,Court Rule,state_rule,AK,61,45,4,1981,2011,true,exact
-Alaska R.Civ. P. 12,alaska r.civ. p. 12,Court Rule,state_rule,AK,61,42,2,1975,2001,true,exact
 Alaska R.App. P. 212,alaska r.app. p. 212,Court Rule,state_rule,AK,59,52,2,1982,2012,true,exact
 Alaska Criminal Rule 25,alaska criminal rule 25,Court Rule,state_rule,AK,57,37,2,1975,2023,true,exact
 Alaska R.App. P. 210,alaska r.app. p. 210,Court Rule,state_rule,AK,57,54,2,1981,2012,true,exact
@@ -72,10 +72,10 @@ Alaska Evidence Rule 702,alaska evidence rule 702,Court Rule,state_rule,AK,45,36
 Alaska Civil Rule 37,alaska civil rule 37,Court Rule,state_rule,AK,44,36,1,1986,2025,true,exact
 Alaska Civil Rule 11,alaska civil rule 11,Court Rule,state_rule,AK,43,31,2,1989,2026,true,exact
 Alaska R. Evid. 804,alaska r. evid. 804,Court Rule,state_rule,AK,43,23,3,1981,2025,true,exact
+Alaska Appellate Rule 508,alaska appellate rule 508,Court Rule,state_rule,AK,42,36,1,1991,2025,true,exact
 Alaska R. Civ. P. 26,alaska r. civ. p. 26,Court Rule,state_rule,AK,42,33,3,1999,2023,true,exact
 Alaska R.App. P. 602,alaska r.app. p. 602,Court Rule,state_rule,AK,42,35,1,1981,2012,true,exact
 Alaska R.Crim. P. 30,alaska r.crim. p. 30,Court Rule,state_rule,AK,42,35,2,1974,2013,true,exact
-Alaska Appellate Rule 508,alaska appellate rule 508,Court Rule,state_rule,AK,41,36,1,1991,2025,true,exact
 Alaska Criminal Rule 38,alaska criminal rule 38,Court Rule,state_rule,AK,41,24,2,1973,2025,true,exact
 Alaska R. Crim. P. 35.1,alaska r. crim. p. 35.1,Court Rule,state_rule,AK,41,31,6,2010,2025,true,exact
 Alaska Civil Rule 23,alaska civil rule 23,Court Rule,state_rule,AK,39,20,3,1977,2024,true,exact
@@ -108,18 +108,18 @@ Alaska Civil Rule 59,alaska civil rule 59,Court Rule,state_rule,AK,30,27,2,1972,
 Alaska R.Civ. P. 43,alaska r.civ. p. 43,Court Rule,state_rule,AK,30,20,2,1970,2002,true,exact
 Alaska Civil Rule 17,alaska civil rule 17,Court Rule,state_rule,AK,29,25,1,1985,2024,true,exact
 Alaska Civil Rule 95,alaska civil rule 95,Court Rule,state_rule,AK,29,15,2,1985,2025,true,exact
+Alaska Criminal Rule 14,alaska criminal rule 14,Court Rule,state_rule,AK,29,23,2,1975,2025,true,exact
 Alaska Criminal Rule 8,alaska criminal rule 8,Court Rule,state_rule,AK,29,23,2,1975,2025,true,exact
 Alaska R. Crim. P. 11,alaska r. crim. p. 11,Court Rule,state_rule,AK,29,16,4,1982,2024,true,exact
 Alaska Criminal Rule 12,alaska criminal rule 12,Court Rule,state_rule,AK,28,22,2,1980,2022,true,exact
-Alaska Criminal Rule 14,alaska criminal rule 14,Court Rule,state_rule,AK,28,23,2,1975,2025,true,exact
 Alaska Criminal Rule 33,alaska criminal rule 33,Court Rule,state_rule,AK,28,21,2,1982,2026,true,exact
 Alaska Evidence Rule 504,alaska evidence rule 504,Court Rule,state_rule,AK,28,13,2,1984,2023,true,exact
 Alaska R. App. P. 204,alaska r. app. p. 204,Court Rule,state_rule,AK,28,26,3,2013,2026,true,exact
+Alaska R. Civ. P. 59,alaska r. civ. p. 59,Court Rule,state_rule,AK,28,21,3,1988,2024,true,exact
 Alaska R. Evid. 402,alaska r. evid. 402,Court Rule,state_rule,AK,28,26,1,1980,2017,true,exact
 Alaska R. Evid. 505,alaska r. evid. 505,Court Rule,state_rule,AK,28,21,10,1980,2024,true,exact
 Alaska R.Civ. P. 37,alaska r.civ. p. 37,Court Rule,state_rule,AK,28,23,1,1970,2000,true,exact
 Alaska R. App. P. 402,alaska r. app. p. 402,Court Rule,state_rule,AK,27,18,3,1981,2025,true,exact
-Alaska R. Civ. P. 59,alaska r. civ. p. 59,Court Rule,state_rule,AK,27,21,3,1988,2024,true,exact
 Alaska R. Crim. P. 45,alaska r. crim. p. 45,Court Rule,state_rule,AK,27,15,5,1995,2025,true,exact
 Alaska R.Civ. P. 55,alaska r.civ. p. 55,Court Rule,state_rule,AK,27,13,1,1974,2001,true,exact
 Alaska R.Civ. P. 79,alaska r.civ. p. 79,Court Rule,state_rule,AK,27,21,1,1980,2007,true,exact
@@ -129,29 +129,29 @@ Alaska R. Evid. 503,alaska r. evid. 503,Court Rule,state_rule,AK,26,17,5,1988,20
 Alaska R. Evid. 504,alaska r. evid. 504,Court Rule,state_rule,AK,26,17,5,1987,2023,true,exact
 Alaska Civil Rule 19,alaska civil rule 19,Court Rule,state_rule,AK,25,22,1,1977,2025,true,exact
 Alaska Criminal Rule 43,alaska criminal rule 43,Court Rule,state_rule,AK,25,11,2,1976,2020,true,exact
+Alaska Criminal Rule 7,alaska criminal rule 7,Court Rule,state_rule,AK,25,15,2,1973,2025,true,exact
 Alaska R. Civ. P. 42,alaska r. civ. p. 42,Court Rule,state_rule,AK,25,17,2,1997,2023,true,exact
+Alaska R.Civ. P. 77,alaska r.civ. p. 77,Court Rule,state_rule,AK,25,21,2,1974,1995,true,exact
 Alaska R.Civ. P. 8,alaska r.civ. p. 8,Court Rule,state_rule,AK,25,17,1,1975,1997,true,exact
 Alaska Rule 68,alaska rule 68,Court Rule,state_rule,AK,25,2,2,2003,2024,true,exact
 Alaska Civil Rule 13,alaska civil rule 13,Court Rule,state_rule,AK,24,16,2,1971,2016,true,exact
 Alaska Criminal Rule 23,alaska criminal rule 23,Court Rule,state_rule,AK,24,12,2,1978,2023,true,exact
 Alaska Criminal Rule 26,alaska criminal rule 26,Court Rule,state_rule,AK,24,15,3,1973,1993,false,unresolved
-Alaska Criminal Rule 7,alaska criminal rule 7,Court Rule,state_rule,AK,24,15,2,1973,2025,true,exact
 Alaska Evidence Rule 412,alaska evidence rule 412,Court Rule,state_rule,AK,24,11,2,1983,2019,true,exact
 Alaska R. App. P. 210,alaska r. app. p. 210,Court Rule,state_rule,AK,24,22,1,2014,2026,true,exact
 Alaska R. App. P. 212,alaska r. app. p. 212,Court Rule,state_rule,AK,24,22,1,2014,2026,true,exact
 Alaska R. Evid. 609,alaska r. evid. 609,Court Rule,state_rule,AK,24,13,4,1982,2025,true,exact
 Alaska R.Civ. P. 26,alaska r.civ. p. 26,Court Rule,state_rule,AK,24,19,2,1975,1995,true,exact
-Alaska R.Civ. P. 77,alaska r.civ. p. 77,Court Rule,state_rule,AK,24,21,2,1974,1995,true,exact
 Alaska R. Civ. P. 8,alaska r. civ. p. 8,Court Rule,state_rule,AK,23,16,2,1998,2025,true,exact
 Alaska R.Crim. P. 37,alaska r.crim. p. 37,Court Rule,state_rule,AK,23,16,4,1972,2015,true,exact
 Alaska Civil Rule 61,alaska civil rule 61,Court Rule,state_rule,AK,22,19,1,1971,2016,true,exact
+Alaska R. Civ. P. 23,alaska r. civ. p. 23,Court Rule,state_rule,AK,22,9,2,2001,2024,true,exact
 Alaska R.App. P. 601,alaska r.app. p. 601,Court Rule,state_rule,AK,22,20,1,1981,2011,true,exact
 Alaska R.Crim. P. 24,alaska r.crim. p. 24,Court Rule,state_rule,AK,22,12,2,1980,2010,true,exact
 Alaska Civil Rule 23.1,alaska civil rule 23.1,Court Rule,state_rule,AK,21,7,2,1992,2012,true,exact
 Alaska Evidence Rule 505,alaska evidence rule 505,Court Rule,state_rule,AK,21,6,1,2018,2024,true,exact
 Alaska Evidence Rule 703,alaska evidence rule 703,Court Rule,state_rule,AK,21,14,2,1995,2020,true,exact
 Alaska Evidence Rules 404,alaska evidence rules 404,Court Rule,state_rule,AK,21,20,2,1987,2018,true,exact
-Alaska R. Civ. P. 23,alaska r. civ. p. 23,Court Rule,state_rule,AK,21,9,2,2001,2024,true,exact
 Alaska R. Civ. P. 4,alaska r. civ. p. 4,Court Rule,state_rule,AK,21,17,3,1998,2026,true,exact
 Alaska Appellate Rule 216,alaska appellate rule 216,Court Rule,state_rule,AK,20,14,1,1987,2018,true,exact
 Alaska Appellate Rule 407,alaska appellate rule 407,Court Rule,state_rule,AK,20,16,3,1984,2024,true,exact
@@ -212,6 +212,7 @@ Alaska R. App. P. 508,alaska r. app. p. 508,Court Rule,state_rule,AK,15,14,1,201
 Alaska R. App. P. 602,alaska r. app. p. 602,Court Rule,state_rule,AK,15,15,2,2015,2025,true,exact
 Alaska R. Civ. P. 14,alaska r. civ. p. 14,Court Rule,state_rule,AK,15,9,3,1997,2022,true,exact
 Alaska R. Civ. P. 41,alaska r. civ. p. 41,Court Rule,state_rule,AK,15,11,2,1999,2025,true,exact
+Alaska R. Prof. Conduct 1.2,alaska r. prof. conduct 1.2,Court Rule,state_rule,AK,15,13,2,2005,2024,true,exact
 Alaska R.App. P. 604,alaska r.app. p. 604,Court Rule,state_rule,AK,15,12,1,1987,2007,true,exact
 Alaska R.Crim. P. 39,alaska r.crim. p. 39,Court Rule,state_rule,AK,15,6,2,1981,2007,true,exact
 Alaska Rules of Criminal Procedure Rule 11,alaska rules of criminal procedure rule 11,Court Rule,state_rule,AK,15,5,2,1976,2022,true,exact
@@ -223,8 +224,8 @@ Alaska Evidence Rule 103,alaska evidence rule 103,Court Rule,state_rule,AK,14,14
 Alaska Evidence Rule 408,alaska evidence rule 408,Court Rule,state_rule,AK,14,11,2,2001,2014,true,exact
 Alaska Evidence Rules 403,alaska evidence rules 403,Court Rule,state_rule,AK,14,13,2,1986,2005,true,exact
 Alaska R. Civ. P. 72,alaska r. civ. p. 72,Court Rule,state_rule,AK,14,7,2,1997,2019,true,exact
+Alaska R. Evid. 407,alaska r. evid. 407,Court Rule,state_rule,AK,14,12,6,1981,2011,true,exact
 Alaska R. Evid. 705,alaska r. evid. 705,Court Rule,state_rule,AK,14,14,2,1983,2023,true,exact
-Alaska R. Prof. Conduct 1.2,alaska r. prof. conduct 1.2,Court Rule,state_rule,AK,14,13,2,2005,2024,true,exact
 Alaska R.Civ. P. 11,alaska r.civ. p. 11,Court Rule,state_rule,AK,14,11,2,1976,1990,true,exact
 Alaska R.Civ. P. 38,alaska r.civ. p. 38,Court Rule,state_rule,AK,14,8,1,1971,1988,true,exact
 Alaska R.Civ. P. 51,alaska r.civ. p. 51,Court Rule,state_rule,AK,14,13,1,1975,1995,true,exact
@@ -236,7 +237,6 @@ Alaska Civil Rule 90.2,alaska civil rule 90.2,Court Rule,state_rule,AK,13,7,1,19
 Alaska Evidence Rule 405,alaska evidence rule 405,Court Rule,state_rule,AK,13,9,1,1997,2026,true,exact
 Alaska R. Civ. P. 51,alaska r. civ. p. 51,Court Rule,state_rule,AK,13,13,1,1997,2024,true,exact
 Alaska R. Civ. P. 95,alaska r. civ. p. 95,Court Rule,state_rule,AK,13,10,1,1999,2025,true,exact
-Alaska R. Evid. 407,alaska r. evid. 407,Court Rule,state_rule,AK,13,12,6,1981,2011,true,exact
 Alaska R.Civ. P. 4,alaska r.civ. p. 4,Court Rule,state_rule,AK,13,9,1,1979,1994,true,exact
 Alaska Civil Rule 6,alaska civil rule 6,Court Rule,state_rule,AK,12,11,1,1981,2015,true,exact
 Alaska Civil Rule 78,alaska civil rule 78,Court Rule,state_rule,AK,12,12,1,1999,2022,true,exact
@@ -276,6 +276,7 @@ Alaska Civil Rule 94,alaska civil rule 94,Court Rule,state_rule,AK,10,10,2,1973,
 Alaska Civil Rules 68,alaska civil rules 68,Court Rule,state_rule,AK,10,10,3,2000,2023,true,exact
 Alaska Criminal Rule 39,alaska criminal rule 39,Court Rule,state_rule,AK,10,6,2,1976,2016,true,exact
 Alaska Evid. R. 404,alaska evid. r. 404,Court Rule,state_rule,AK,10,7,1,1983,2020,true,exact
+Alaska R. App. P. 106,alaska r. app. p. 106,Court Rule,state_rule,AK,10,7,1,2013,2017,true,exact
 Alaska R. App. P. 521,alaska r. app. p. 521,Court Rule,state_rule,AK,10,10,1,2013,2024,true,exact
 Alaska R. App. P. 601,alaska r. app. p. 601,Court Rule,state_rule,AK,10,8,1,2016,2025,true,exact
 Alaska R. App. P. 604,alaska r. app. p. 604,Court Rule,state_rule,AK,10,9,1,2018,2025,true,exact
@@ -328,6 +329,7 @@ Alaska Evidence Rule 614,alaska evidence rule 614,Court Rule,state_rule,AK,8,6,2
 Alaska R. Civ. P. 1,alaska r. civ. p. 1,Court Rule,state_rule,AK,8,8,3,1997,2022,true,exact
 Alaska R. Civ. P. 17,alaska r. civ. p. 17,Court Rule,state_rule,AK,8,8,1,1999,2024,true,exact
 Alaska R. Civ. P. 57,alaska r. civ. p. 57,Court Rule,state_rule,AK,8,8,2,2001,2025,true,exact
+Alaska R. Crim. P. 25,alaska r. crim. p. 25,Court Rule,state_rule,AK,8,4,1,2018,2018,true,exact
 Alaska R. Crim. P. 33,alaska r. crim. p. 33,Court Rule,state_rule,AK,8,7,2,1980,2025,true,exact
 Alaska R. Crim. P. 35,alaska r. crim. p. 35,Court Rule,state_rule,AK,8,3,1,2022,2025,true,exact
 Alaska R. Crim. P. 43,alaska r. crim. p. 43,Court Rule,state_rule,AK,8,6,2,1995,2024,true,exact
@@ -353,12 +355,10 @@ Alaska Dist.Ct.R.Crim. P. 1,alaska dist.ct.r.crim. p. 1,Court Rule,local_rule,AK
 Alaska E. R. 803,alaska e. r. 803,Court Rule,state_rule,AK,7,5,1,2012,2015,false,unresolved
 Alaska Evidence Rule 609,alaska evidence rule 609,Court Rule,state_rule,AK,7,6,2,1988,2018,true,exact
 Alaska Evidence Rules 801,alaska evidence rules 801,Court Rule,state_rule,AK,7,7,2,1991,2015,true,exact
-Alaska R. App. P. 106,alaska r. app. p. 106,Court Rule,state_rule,AK,7,7,1,2013,2017,true,exact
 Alaska R. App. P. 215,alaska r. app. p. 215,Court Rule,state_rule,AK,7,6,1,2014,2025,true,exact
 Alaska R. Civ. P. 58.1,alaska r. civ. p. 58.1,Court Rule,state_rule,AK,7,7,1,1998,2024,true,exact
 Alaska R. Civ. P. 65,alaska r. civ. p. 65,Court Rule,state_rule,AK,7,6,1,1999,2025,true,exact
 Alaska R. Civ. P. 90.7,alaska r. civ. p. 90.7,Court Rule,state_rule,AK,7,5,1,2007,2025,true,exact
-Alaska R. Crim. P. 25,alaska r. crim. p. 25,Court Rule,state_rule,AK,7,4,1,2018,2018,true,exact
 Alaska R. Evid. 611,alaska r. evid. 611,Court Rule,state_rule,AK,7,7,2,1982,2025,true,exact
 Alaska R. Evid. 901,alaska r. evid. 901,Court Rule,state_rule,AK,7,7,2,1983,2021,true,exact
 Alaska R. Prof. Conduct 1.9,alaska r. prof. conduct 1.9,Court Rule,state_rule,AK,7,4,2,2003,2022,true,exact
@@ -398,6 +398,7 @@ Alaska R. Civ. P. 47,alaska r. civ. p. 47,Court Rule,state_rule,AK,6,3,1,2002,20
 Alaska R. Civ. P. 5,alaska r. civ. p. 5,Court Rule,state_rule,AK,6,6,3,1998,2013,true,exact
 Alaska R. Civ. P. 94,alaska r. civ. p. 94,Court Rule,state_rule,AK,6,6,1,1998,2023,true,exact
 Alaska R. Evid. 202,alaska r. evid. 202,Court Rule,state_rule,AK,6,6,2,1986,2022,true,exact
+Alaska R. Evid. 704,alaska r. evid. 704,Court Rule,state_rule,AK,6,5,2,2021,2026,true,exact
 Alaska R. Evid. 902,alaska r. evid. 902,Court Rule,state_rule,AK,6,6,2,1982,2025,true,exact
 Alaska R. Prob. P. 1,alaska r. prob. p. 1,Court Rule,state_rule,AK,6,6,1,2002,2016,true,exact
 Alaska R. Prof. Conduct 3.3,alaska r. prof. conduct 3.3,Court Rule,state_rule,AK,6,6,2,1996,2024,true,exact
@@ -429,6 +430,7 @@ D. Alaska Loc. Civ. R. 7.5,d. alaska loc. civ. r. 7.5,Court Rule,local_rule,AK,6
 Alaska Appellate Rule 203,alaska appellate rule 203,Court Rule,state_rule,AK,5,5,2,1985,1999,true,exact
 Alaska Appellate Rule 603,alaska appellate rule 603,Court Rule,state_rule,AK,5,4,1,1991,2018,true,exact
 Alaska Civ. R. 43,alaska civ. r. 43,Court Rule,state_rule,AK,5,5,1,1972,1978,true,exact
+Alaska Civil Procedure Rule 82,alaska civil procedure rule 82,Court Rule,state_rule,AK,5,2,2,1997,2013,true,exact
 Alaska Civil Rule 50,alaska civil rule 50,Court Rule,state_rule,AK,5,5,1,1985,2017,true,exact
 Alaska Crim. R. 35,alaska crim. r. 35,Court Rule,state_rule,AK,5,5,2,1967,2006,true,exact
 Alaska Crim. R. 45,alaska crim. r. 45,Court Rule,state_rule,AK,5,3,1,1974,1978,true,exact
@@ -452,7 +454,6 @@ Alaska R. Crim. P. 3,alaska r. crim. p. 3,Court Rule,state_rule,AK,5,4,2,2017,20
 Alaska R. Crim. P. 32.1,alaska r. crim. p. 32.1,Court Rule,state_rule,AK,5,5,3,2010,2022,true,exact
 Alaska R. Evid. 203,alaska r. evid. 203,Court Rule,state_rule,AK,5,5,1,1993,2016,true,exact
 Alaska R. Evid. 408,alaska r. evid. 408,Court Rule,state_rule,AK,5,4,1,1982,2024,true,exact
-Alaska R. Evid. 704,alaska r. evid. 704,Court Rule,state_rule,AK,5,5,2,2022,2026,true,exact
 Alaska R. Prof. Conduct 1.10,alaska r. prof. conduct 1.10,Court Rule,state_rule,AK,5,2,2,2003,2022,true,exact
 Alaska R. Prof. Conduct 3.4,alaska r. prof. conduct 3.4,Court Rule,state_rule,AK,5,5,2,2010,2022,true,exact
 Alaska R. Prof. Conduct 8.1,alaska r. prof. conduct 8.1,Court Rule,state_rule,AK,5,3,1,1996,2017,true,exact
@@ -584,6 +585,8 @@ Alaska R.Civ. P. 89,alaska r.civ. p. 89,Court Rule,state_rule,AK,4,4,2,1988,1996
 Alaska R.Crim. P. 39.1,alaska r.crim. p. 39.1,Court Rule,state_rule,AK,4,2,1,2001,2001,true,exact
 Alaska R.Crim. P. 52,alaska r.crim. p. 52,Court Rule,state_rule,AK,4,4,2,1980,1983,true,exact
 Alaska RApp. P. 402,alaska rapp. p. 402,Court Rule,state_rule,AK,4,2,1,1995,1995,true,exact
+Alaska Rule 35,alaska rule 35,Court Rule,state_rule,AK,4,3,1,1973,1989,true,exact
+Alaska Rule 64,alaska rule 64,Court Rule,state_rule,AK,4,1,1,1976,1976,true,exact
 Alaska Rule 69,alaska rule 69,Court Rule,state_rule,AK,4,2,1,1996,1996,true,exact
 Alaska Rule Prof. Conduct 1.15,alaska rule prof. conduct 1.15,Court Rule,state_rule,AK,4,4,2,1998,2015,true,exact
 Alaska Rules of Appellate Procedure Rule 9,alaska rules of appellate procedure rule 9,Court Rule,state_rule,AK,4,4,1,1976,1978,false,unresolved
@@ -639,13 +642,11 @@ D. Alaska Loc. Civ. R. 7.3,d. alaska loc. civ. r. 7.3,Court Rule,local_rule,AK,4
 68 Alaska R. Civ. P. 82,68 alaska r. civ. p. 82,Court Rule,state_rule,AK,3,3,1,2022,2025,true,exact
 7 Alaska R. Civ. P. 60,7 alaska r. civ. p. 60,Court Rule,state_rule,AK,3,3,1,2020,2023,true,exact
 7 Alaska R. Civ. P. 82,7 alaska r. civ. p. 82,Court Rule,state_rule,AK,3,3,1,2000,2023,true,exact
-7 C.E.R. § 273.18,7 c.e.r. § 273.18,Court Rule,state_rule,AK,3,1,1,2009,2009,false,unresolved
 76 Alaska R. Civ. P. 90.3,76 alaska r. civ. p. 90.3,Court Rule,state_rule,AK,3,3,1,2018,2025,true,exact
 8 Alaska R. Civ. P. 60,8 alaska r. civ. p. 60,Court Rule,state_rule,AK,3,3,1,2013,2024,true,exact
 Alaska Appellate Rule 217,alaska appellate rule 217,Court Rule,state_rule,AK,3,3,1,1988,1997,true,exact
 Alaska Appellate Rule 218,alaska appellate rule 218,Court Rule,state_rule,AK,3,3,1,2006,2018,true,exact
 Alaska Civ. R. 8,alaska civ. r. 8,Court Rule,state_rule,AK,3,3,1,1972,1973,true,exact
-Alaska Civil Procedure Rule 82,alaska civil procedure rule 82,Court Rule,state_rule,AK,3,2,2,1997,2013,true,exact
 Alaska Civil Rule 1,alaska civil rule 1,Court Rule,state_rule,AK,3,3,1,1997,2017,true,exact
 Alaska Civil Rule 18,alaska civil rule 18,Court Rule,state_rule,AK,3,3,1,2006,2015,true,exact
 Alaska Civil Rule 33,alaska civil rule 33,Court Rule,state_rule,AK,3,3,1,1981,1989,true,exact
@@ -732,10 +733,8 @@ Alaska R.Civ. P. 98,alaska r.civ. p. 98,Court Rule,state_rule,AK,3,3,1,1995,1996
 Alaska R.Crim. P. 23,alaska r.crim. p. 23,Court Rule,state_rule,AK,3,3,2,1982,1986,true,exact
 Alaska R.Crim. P. 6.1,alaska r.crim. p. 6.1,Court Rule,state_rule,AK,3,2,2,2001,2012,true,exact
 Alaska Rule 24,alaska rule 24,Court Rule,state_rule,AK,3,1,1,2025,2025,true,exact
-Alaska Rule 35,alaska rule 35,Court Rule,state_rule,AK,3,3,1,1973,1989,true,exact
 Alaska Rule 41,alaska rule 41,Court Rule,state_rule,AK,3,3,1,1971,1995,true,exact
 Alaska Rule 609,alaska rule 609,Court Rule,state_rule,AK,3,3,2,1983,1990,true,exact
-Alaska Rule 64,alaska rule 64,Court Rule,state_rule,AK,3,1,1,1976,1976,true,exact
 Alaska Rule 65,alaska rule 65,Court Rule,state_rule,AK,3,1,1,2024,2024,true,exact
 Alaska Rule of Crim. P. § 32,alaska rule of crim. p. § 32,Court Rule,state_rule,AK,3,1,1,2001,2001,true,exact
 Alaska Rules of Civil Procedure Rule 14,alaska rules of civil procedure rule 14,Court Rule,state_rule,AK,3,3,2,1972,1993,true,exact
@@ -760,7 +759,6 @@ D. Alaska Civ. R. 11.1,d. alaska civ. r. 11.1,Court Rule,local_rule,AK,3,3,1,201
 D. Alaska L. Civ. R. 5.1,d. alaska l. civ. r. 5.1,Court Rule,local_rule,AK,3,3,1,2025,2025,false,unresolved
 D. Alaska L. Civ. R. 7.1,d. alaska l. civ. r. 7.1,Court Rule,local_rule,AK,3,3,1,2021,2025,false,unresolved
 District of Alaska Local Rule 7.1,district of alaska local rule 7.1,Court Rule,local_rule,AK,3,3,1,2005,2025,false,unresolved
-I. 33 Alaska R. App. P. 106,i. 33 alaska r. app. p. 106,Court Rule,state_rule,AK,3,3,1,2013,2013,false,unresolved
 1 Alaska Civil Rule 26,1 alaska civil rule 26,Court Rule,state_rule,AK,2,2,1,1973,2017,true,exact
 1 Alaska R. Civ. P. 4,1 alaska r. civ. p. 4,Court Rule,state_rule,AK,2,2,1,2013,2018,true,exact
 1 Alaska R. Civ. P. 41,1 alaska r. civ. p. 41,Court Rule,state_rule,AK,2,2,1,2023,2025,true,exact
@@ -1033,7 +1031,6 @@ Alaska Criminal Rule 4 and Alaska Civil Rule 4,alaska criminal rule 4 and alaska
 Alaska Criminal Rule 80,alaska criminal rule 80,Court Rule,state_rule,AK,2,2,1,2012,2013,false,unresolved
 Alaska Criminal Rule 82.1,alaska criminal rule 82.1,Court Rule,state_rule,AK,2,2,1,2006,2008,false,unresolved
 Alaska Criminal Rule 88,alaska criminal rule 88,Court Rule,state_rule,AK,2,2,1,2011,2013,false,unresolved
-Alaska Criminal Rule l1,alaska criminal rule l1,Court Rule,state_rule,AK,2,1,1,2002,2002,false,unresolved
 Alaska Criminal Rules 32.1,alaska criminal rules 32.1,Court Rule,state_rule,AK,2,2,1,1998,2013,true,exact
 Alaska Criminal Rules 6,alaska criminal rules 6,Court Rule,state_rule,AK,2,2,1,1981,1981,true,exact
 Alaska Ct. R. Civ. P. 8,alaska ct. r. civ. p. 8,Court Rule,state_rule,AK,2,2,1,2009,2009,false,unresolved
@@ -1263,7 +1260,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 10 Alaska R.Civ. P. 52,10 alaska r.civ. p. 52,Court Rule,state_rule,AK,1,1,1,1997,1997,true,exact
 100 Alaska R. Civ. P. 26,100 alaska r. civ. p. 26,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 100 Alaska R. Evid. 606,100 alaska r. evid. 606,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
-1005 (Alaska App. 1986). Alaska Criminal Rule 7,1005 (alaska app. 1986). alaska criminal rule 7,Court Rule,state_rule,AK,1,1,1,2000,2000,false,unresolved
 1009-10 (Alaska 1962). Rule 46,1009-10 (alaska 1962). rule 46,Court Rule,state_rule,AK,1,1,1,1978,1978,false,unresolved
 101 Alaska R. Civ. P. 26,101 alaska r. civ. p. 26,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 1011 (Alaska 1982). B. Civil Rule 60,1011 (alaska 1982). b. civil rule 60,Court Rule,state_rule,AK,1,1,1,1997,1997,false,unresolved
@@ -1277,8 +1273,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 1062 (Alaska 1997). 10 Alaska R. Civ. P. 60,1062 (alaska 1997). 10 alaska r. civ. p. 60,Court Rule,state_rule,AK,1,1,1,2015,2015,true,exact
 1066 (Alaska 1991))). 25 Alaska R. Civ. P. 90.3,1066 (alaska 1991))). 25 alaska r. civ. p. 90.3,Court Rule,state_rule,AK,1,1,1,2017,2017,true,exact
 1071-73 (Alaska 1973). Criminal Rule 30,1071-73 (alaska 1973). criminal rule 30,Court Rule,state_rule,AK,1,1,1,1977,1977,true,exact
-1075-76 (Alaska App. 1993)). 15 Alaska R. Evid. 704,1075-76 (alaska app. 1993)). 15 alaska r. evid. 704,Court Rule,state_rule,AK,1,1,1,2021,2021,false,unresolved
-1075-76 (Alaska App. 1993)). 15 Alaska R. Evid. 704. 16 Alaska R. Evid. 704,1075-76 (alaska app. 1993)). 15 alaska r. evid. 704. 16 alaska r. evid. 704,Court Rule,state_rule,AK,1,1,1,2021,2021,false,unresolved
 1088 (Alaska 1973). Criminal Rule 38,1088 (alaska 1973). criminal rule 38,Court Rule,state_rule,AK,1,1,1,1988,1988,true,exact
 109 Alaska R. Civ. P. 56,109 alaska r. civ. p. 56,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 11 (Alaska 1962). Appellate Rule 9,11 (alaska 1962). appellate rule 9,Court Rule,state_rule,AK,1,1,1,1977,1977,false,unresolved
@@ -1310,7 +1304,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 112 (Alaska 1983). 30 Alaska R. App. P. 204,112 (alaska 1983). 30 alaska r. app. p. 204,Court Rule,state_rule,AK,1,1,1,2013,2013,true,exact
 112 Alaska R. Civ. P. 82,112 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2026,2026,true,exact
 1123 (Alaska 1993). 7 Alaska R. App. P. 521,1123 (alaska 1993). 7 alaska r. app. p. 521,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
-1127 (8th Cir. 1969). Alaska Rule 64,1127 (8th cir. 1969). alaska rule 64,Court Rule,local_rule,AK,1,1,1,1976,1976,false,unresolved
 115 (Alaska 1990). 27 Alaska R. Civ. P. 90.3,115 (alaska 1990). 27 alaska r. civ. p. 90.3,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 115 Alaska R. Civ. P. 93,115 alaska r. civ. p. 93,Court Rule,state_rule,AK,1,1,1,2026,2026,true,exact
 115 Alaska R. Civ. P. 93. 116 Alaska R. Civ. P. 1,115 alaska r. civ. p. 93. 116 alaska r. civ. p. 1,Court Rule,state_rule,AK,1,1,1,2026,2026,true,exact
@@ -1348,7 +1341,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 12 D. Alaska L. Civ. R. 7.3,12 d. alaska l. civ. r. 7.3,Court Rule,local_rule,AK,1,1,1,2021,2021,false,unresolved
 1209 (Alaska 1984)). Alaska Civil Rule 61,1209 (alaska 1984)). alaska civil rule 61,Court Rule,state_rule,AK,1,1,1,1996,1996,true,exact
 1212 (Alaska 1986) (Civil Rule 82,1212 (alaska 1986) (civil rule 82,Court Rule,state_rule,AK,1,1,1,1997,1997,true,exact
-1218 (Alaska App.1986). Alaska Criminal Rule 30,1218 (alaska app.1986). alaska criminal rule 30,Court Rule,state_rule,AK,1,1,1,1990,1990,false,unresolved
 "1220 (Alaska App.1996), Criminal Rule 35","1220 (alaska app.1996), criminal rule 35",Court Rule,state_rule,AK,1,1,1,2002,2002,false,unresolved
 1223 (Alaska Ct. App. 1996)). 13 Rule 35,1223 (alaska ct. app. 1996)). 13 rule 35,Court Rule,state_rule,AK,1,1,1,2025,2025,false,unresolved
 1231 (Alaska 1993)). 105 Alaska R. Civ. P. 82,1231 (alaska 1993)). 105 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2026,2026,true,exact
@@ -1381,7 +1373,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 1327 (Alaska 1977)). 16 Alaska R. Civ. P. 5,1327 (alaska 1977)). 16 alaska r. civ. p. 5,Court Rule,state_rule,AK,1,1,1,2013,2013,true,exact
 133 Alaska R. Civ. P. 82,133 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 1354 (Alaska 1974) Rule 60,1354 (alaska 1974) rule 60,Court Rule,state_rule,AK,1,1,1,1977,1977,false,unresolved
-1363 (Alaska App.1983). Alaska Criminal Rule 14,1363 (alaska app.1983). alaska criminal rule 14,Court Rule,state_rule,AK,1,1,1,1987,1987,false,unresolved
 "1363 (Alaska App.1997), the Rule 45","1363 (alaska app.1997), the rule 45",Court Rule,state_rule,AK,1,1,1,1998,1998,false,unresolved
 137 Alaska R. App. P. 601,137 alaska r. app. p. 601,Court Rule,state_rule,AK,1,1,1,2026,2026,true,exact
 1371 (Alaska 1991). 33 Alaska R. Civ. P. 82,1371 (alaska 1991). 33 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
@@ -1422,8 +1413,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 15 Alaska R. Prob. P. 4.5,15 alaska r. prob. p. 4.5,Court Rule,state_rule,AK,1,1,1,2026,2026,false,unresolved
 15 Alaska R. Prof. Conduct 1.2,15 alaska r. prof. conduct 1.2,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 15 Alaska R. Prof. Conduct 9.1,15 alaska r. prof. conduct 9.1,Court Rule,state_rule,AK,1,1,1,2015,2015,true,exact
-15 C.E.R. § 24.36,15 c.e.r. § 24.36,Court Rule,state_rule,AK,1,1,1,2007,2007,false,unresolved
-152 (9th Cir.1979). Alaska Appellate Rule 508,152 (9th cir.1979). alaska appellate rule 508,Court Rule,local_rule,AK,1,1,1,1992,1992,false,unresolved
 153 A.D. R. 649,153 a.d. r. 649,Court Rule,local_rule,AK,1,1,1,1965,1965,false,unresolved
 156-57 (Alaska 1991)). 12 Alaska R. Civ. P. 26,156-57 (alaska 1991)). 12 alaska r. civ. p. 26,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 16 Alaska Civil Rule 25,16 alaska civil rule 25,Court Rule,state_rule,AK,1,1,1,2013,2013,true,exact
@@ -1617,7 +1606,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 25 Alaska R. Evid. 606,25 alaska r. evid. 606,Court Rule,state_rule,AK,1,1,1,2017,2017,true,exact
 25 Alaska R. Evid. 801,25 alaska r. evid. 801,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 25 Alaska R. Prof. Conduct 1.13,25 alaska r. prof. conduct 1.13,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
-"258 (Oct. 15, 1976). 24 Alaska R. Civ. P. 23","258 (oct. 15, 1976). 24 alaska r. civ. p. 23",Court Rule,state_rule,AK,1,1,1,2024,2024,false,unresolved
 26 Alaska Civil Rule 53,26 alaska civil rule 53,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
 26 Alaska Criminal Rule 6,26 alaska criminal rule 6,Court Rule,state_rule,AK,1,1,1,2012,2012,true,exact
 26 Alaska R. App. P. 212,26 alaska r. app. p. 212,Court Rule,state_rule,AK,1,1,1,2020,2020,true,exact
@@ -1669,7 +1657,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 29 Alaska R. Civ. P. 90.6,29 alaska r. civ. p. 90.6,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
 29 Alaska R. Evid. 403,29 alaska r. evid. 403,Court Rule,state_rule,AK,1,1,1,2016,2016,true,exact
 29 Alaska R. Prof. Conduct 1.6,29 alaska r. prof. conduct 1.6,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
-29 C.E.R. § 1910.109,29 c.e.r. § 1910.109,Court Rule,state_rule,AK,1,1,1,2000,2000,false,unresolved
 29 D. Alaska L.R. 7.3,29 d. alaska l.r. 7.3,Court Rule,local_rule,AK,1,1,1,2020,2020,false,unresolved
 29 District of Alaska Local Civil Rule 79.2,29 district of alaska local civil rule 79.2,Court Rule,local_rule,AK,1,1,1,2024,2024,false,unresolved
 3 (...continued) E.R. 403. 4 Alaska R. Evid. 404,3 (...continued) e.r. 403. 4 alaska r. evid. 404,Court Rule,state_rule,AK,1,1,1,2014,2014,false,unresolved
@@ -1736,7 +1723,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 34 Alaska Civil Rule 77,34 alaska civil rule 77,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
 34 Alaska R. Civ. P. 37,34 alaska r. civ. p. 37,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 34 Alaska R. Civ. P. 82,34 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
-34 C.E.R. § 300.152,34 c.e.r. § 300.152,Court Rule,state_rule,AK,1,1,1,2007,2007,false,unresolved
 35 Alaska Civil Rule 82,35 alaska civil rule 82,Court Rule,state_rule,AK,1,1,1,2019,2019,true,exact
 35 Alaska R. App. P. 602,35 alaska r. app. p. 602,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
 35 Alaska R. Civ. P. 35,35 alaska r. civ. p. 35,Court Rule,state_rule,AK,1,1,1,2013,2013,true,exact
@@ -1776,7 +1762,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 39 Alaska R. Crim. P. 45,39 alaska r. crim. p. 45,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 39 Alaska R. Evid. 201,39 alaska r. evid. 201,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 39 Alaska R. Evid. 801,39 alaska r. evid. 801,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
-396 (2d ed. 1982). Alaska Rule 35,396 (2d ed. 1982). alaska rule 35,Court Rule,state_rule,AK,1,1,1,1984,1984,false,unresolved
 4 Alaska Civil Rule 35,4 alaska civil rule 35,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
 4 Alaska Civil Rule 59,4 alaska civil rule 59,Court Rule,state_rule,AK,1,1,1,2017,2017,true,exact
 4 Alaska Civil Rule 65,4 alaska civil rule 65,Court Rule,state_rule,AK,1,1,1,2000,2000,true,exact
@@ -1841,7 +1826,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 45 Alaska R. Civ. P. 79,45 alaska r. civ. p. 79,Court Rule,state_rule,AK,1,1,1,2017,2017,true,exact
 45 Alaska R. Civ. P. 82,45 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2022,2022,true,exact
 45 Alaska R. Evid. 301,45 alaska r. evid. 301,Court Rule,state_rule,AK,1,1,1,2022,2022,true,exact
-45 C.E.R. § 1642.3,45 c.e.r. § 1642.3,Court Rule,state_rule,AK,1,1,1,2006,2006,false,unresolved
 451 (Alaska 1963). Civil Rule 93,451 (alaska 1963). civil rule 93,Court Rule,state_rule,AK,1,1,1,1981,1981,true,exact
 451 (Alaska 1963). Civil Rule 98,451 (alaska 1963). civil rule 98,Court Rule,state_rule,AK,1,1,1,2007,2007,true,exact
 451 (Alaska 1992). B. Alaska Civil Rule 77,451 (alaska 1992). b. alaska civil rule 77,Court Rule,state_rule,AK,1,1,1,1995,1995,false,unresolved
@@ -1852,13 +1836,10 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 46 Alaska R. Civ. P. 82,46 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
 46 C.B.R. § 15.101,46 c.b.r. § 15.101,Court Rule,state_rule,AK,1,1,1,2003,2003,false,unresolved
 46 C.B.R. § 24.05-1,46 c.b.r. § 24.05-1,Court Rule,state_rule,AK,1,1,1,2009,2009,false,unresolved
-46 C.E.R. § 15.605,46 c.e.r. § 15.605,Court Rule,state_rule,AK,1,1,1,2009,2009,false,unresolved
-46 C.E.R. § 24.05-1,46 c.e.r. § 24.05-1,Court Rule,state_rule,AK,1,1,1,2009,2009,false,unresolved
 460 (Alaska 1991)). 22 Alaska R. Civ. P. 82,460 (alaska 1991)). 22 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2016,2016,true,exact
 460 (Alaska 1991). Rule 82,460 (alaska 1991). rule 82,Court Rule,state_rule,AK,1,1,1,1997,1997,false,unresolved
 460-61 (Alaska 1986). Civil Rule 26,460-61 (alaska 1986). civil rule 26,Court Rule,state_rule,AK,1,1,1,1995,1995,true,exact
 461 (Alaska 1986)). 57 Alaska R. Civ. P. 26,461 (alaska 1986)). 57 alaska r. civ. p. 26,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
-463 (2d ed.1972)). 24. Alaska R. Evid. 407,463 (2d ed.1972)). 24. alaska r. evid. 407,Court Rule,state_rule,AK,1,1,1,2001,2001,false,unresolved
 463 (Alaska 1993). 16 Alaska R. App. P. 602,463 (alaska 1993). 16 alaska r. app. p. 602,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
 464 (Alaska 1999)). 100 Alaska R. Prof. Conduct 1.7,464 (alaska 1999)). 100 alaska r. prof. conduct 1.7,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 47 Alaska R. Civ. P. 15,47 alaska r. civ. p. 15,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
@@ -1968,7 +1949,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 59 Alaska R. Civ. P. 65,59 alaska r. civ. p. 65,Court Rule,state_rule,AK,1,1,1,2015,2015,true,exact
 59 Alaska R. Civ. P. 68,59 alaska r. civ. p. 68,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
 591 (Alaska 1963). Rule 4,591 (alaska 1963). rule 4,Court Rule,state_rule,AK,1,1,1,1975,1975,false,unresolved
-592 (1969 & Supp.1979). Alaska R.Civ. P. 12,592 (1969 & supp.1979). alaska r.civ. p. 12,Court Rule,state_rule,AK,1,1,1,1979,1979,false,unresolved
 6 Alaska Civil Rule 24,6 alaska civil rule 24,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
 6 Alaska Civil Rule 25,6 alaska civil rule 25,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
 6 Alaska Criminal Rule 35.1,6 alaska criminal rule 35.1,Court Rule,state_rule,AK,1,1,1,2022,2022,true,exact
@@ -2036,7 +2016,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 68 Alaska Local Civil Rule 79.2,68 alaska local civil rule 79.2,Court Rule,local_rule,AK,1,1,1,2026,2026,false,unresolved
 68 Alaska R. Civ. P. 90.3,68 alaska r. civ. p. 90.3,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 68 Alaska R. Prof. Conduct 3.4,68 alaska r. prof. conduct 3.4,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
-682 (9th Cir. 1980). Alaska Civil Procedure Rule 15,682 (9th cir. 1980). alaska civil procedure rule 15,Court Rule,local_rule,AK,1,1,1,2020,2020,false,unresolved
 682 (Alaska 1970). Rule 45,682 (alaska 1970). rule 45,Court Rule,state_rule,AK,1,1,1,1978,1978,false,unresolved
 69 Alaska L.Civ. R. 7.3,69 alaska l.civ. r. 7.3,Court Rule,state_rule,AK,1,1,1,2024,2024,false,unresolved
 69 Alaska R. Civ. P. 6,69 alaska r. civ. p. 6,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
@@ -2063,7 +2042,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 70 Alaska R. Civ. P. 82,70 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
 70 Alaska R. Civ. P. 94,70 alaska r. civ. p. 94,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
 700 (Alaska 1970) Rule 60,700 (alaska 1970) rule 60,Court Rule,state_rule,AK,1,1,1,1972,1972,false,unresolved
-706 (9th Cir. 1972). Cf. Alaska R.Civ. P. 77,706 (9th cir. 1972). cf. alaska r.civ. p. 77,Court Rule,local_rule,AK,1,1,1,1981,1981,false,unresolved
 709 (Alaska 1973). 7 Alaska Evid. R. 101,709 (alaska 1973). 7 alaska evid. r. 101,Court Rule,state_rule,AK,1,1,1,2019,2019,true,exact
 709-10 (Alaska 1978). Rule 54,709-10 (alaska 1978). rule 54,Court Rule,state_rule,AK,1,1,1,1994,1994,false,unresolved
 710-11 (Alaska 1978) (Civil Rule 54,710-11 (alaska 1978) (civil rule 54,Court Rule,state_rule,AK,1,1,1,1992,1992,true,exact
@@ -2083,7 +2061,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 76 Alaska R. Civ. P. 4,76 alaska r. civ. p. 4,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
 76 Alaska R. Civ. P. 82,76 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
 763 (Alaska 1997). 17 Alaska R. App. P. 502,763 (alaska 1997). 17 alaska r. app. p. 502,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
-766 (3d Cir.1978). Alaska Evidence Rule 404,766 (3d cir.1978). alaska evidence rule 404,Court Rule,local_rule,AK,1,1,1,1985,1985,false,unresolved
 77 Alaska R. Civ. P. 82,77 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 77 Alaska R. Civ. P. 90.3,77 alaska r. civ. p. 90.3,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 778 (Alaska 1968). Rule 72,778 (alaska 1968). rule 72,Court Rule,state_rule,AK,1,1,1,1988,1988,false,unresolved
@@ -2126,12 +2103,10 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 83 Alaska R. Civ. P. 95,83 alaska r. civ. p. 95,Court Rule,state_rule,AK,1,1,1,2024,2024,true,exact
 864 (Alaska 1993)). 15 Alaska R. Civ. P. 82,864 (alaska 1993)). 15 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
 870 (Alaska 1980) Rule 17,870 (alaska 1980) rule 17,Court Rule,state_rule,AK,1,1,1,1986,1986,false,unresolved
-871-72 (Alaska App. 1983). 8 Alaska R. Crim. P. 25,871-72 (alaska app. 1983). 8 alaska r. crim. p. 25,Court Rule,state_rule,AK,1,1,1,2018,2018,false,unresolved
 876 (Alaska 1979)). Rule 82,876 (alaska 1979)). rule 82,Court Rule,state_rule,AK,1,1,1,2021,2021,false,unresolved
 88 Alaska R. Civ. P. 3,88 alaska r. civ. p. 3,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
 88 Alaska R. Civ. P. 82,88 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2018,2018,true,exact
 880-81 (Alaska 1980) (Alaska Rule 11,880-81 (alaska 1980) (alaska rule 11,Court Rule,state_rule,AK,1,1,1,1991,1991,false,unresolved
-889 (11th Cir. 1985). 13 Alaska R. Prof. Conduct 1.2,889 (11th cir. 1985). 13 alaska r. prof. conduct 1.2,Court Rule,local_rule,AK,1,1,1,2024,2024,false,unresolved
 89 Alaska R. Civ. P. 82,89 alaska r. civ. p. 82,Court Rule,state_rule,AK,1,1,1,2014,2014,true,exact
 895 (Alaska 1979). Appellate Rule 45,895 (alaska 1979). appellate rule 45,Court Rule,state_rule,AK,1,1,1,2007,2007,false,unresolved
 9 Alaska Civil Rule 13,9 alaska civil rule 13,Court Rule,state_rule,AK,1,1,1,2019,2019,true,exact
@@ -2166,7 +2141,6 @@ See Alaska Rules of Appellate Procedure Rule 45,see alaska rules of appellate pr
 964 (Alaska App.1983). Rule 8,964 (alaska app.1983). rule 8,Court Rule,state_rule,AK,1,1,1,1987,1987,false,unresolved
 97 Alaska R. Civ. P. 26,97 alaska r. civ. p. 26,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 970 (Alaska 1981). Rule 72,970 (alaska 1981). rule 72,Court Rule,state_rule,AK,1,1,1,1988,1988,false,unresolved
-979 (D.C.Cir.1964). Alaska Criminal Rule 11,979 (d.c.cir.1964). alaska criminal rule 11,Court Rule,local_rule,AK,1,1,1,1982,1982,false,unresolved
 98 (2d ed. 1972) and Alaska R. Evid. 403,98 (2d ed. 1972) and alaska r. evid. 403,Court Rule,state_rule,AK,1,1,1,1980,1980,false,unresolved
 98 Alaska R. Civ. P. 26,98 alaska r. civ. p. 26,Court Rule,state_rule,AK,1,1,1,2023,2023,true,exact
 98 Alaska R. Civ. P. 68,98 alaska r. civ. p. 68,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
@@ -2244,6 +2218,7 @@ Alaska Civ. R. 86,alaska civ. r. 86,Court Rule,state_rule,AK,1,1,1,1973,1973,tru
 Alaska Civ. R. 90.3,alaska civ. r. 90.3,Court Rule,state_rule,AK,1,1,1,1998,1998,true,exact
 Alaska Civ. Rule 52,alaska civ. rule 52,Court Rule,state_rule,AK,1,1,1,1982,1982,true,exact
 Alaska Civ.Proc. Rule 61,alaska civ.proc. rule 61,Court Rule,state_rule,AK,1,1,1,1995,1995,true,exact
+Alaska Civil Procedure Rule 15,alaska civil procedure rule 15,Court Rule,state_rule,AK,1,1,1,2020,2020,true,exact
 Alaska Civil Procedure Rule 68,alaska civil procedure rule 68,Court Rule,state_rule,AK,1,1,1,1995,1995,true,exact
 Alaska Civil Procedure Rules 4,alaska civil procedure rules 4,Court Rule,state_rule,AK,1,1,1,1994,1994,true,exact
 Alaska Civil R. 52,alaska civil r. 52,Court Rule,state_rule,AK,1,1,1,1992,1992,true,exact
@@ -2503,8 +2478,6 @@ Alaska R. Crim. P. 31,alaska r. crim. p. 31,Court Rule,state_rule,AK,1,1,1,2015,
 Alaska R. Crim. P. 32.3,alaska r. crim. p. 32.3,Court Rule,state_rule,AK,1,1,1,2015,2015,true,exact
 Alaska R. Crim. P. 32.6,alaska r. crim. p. 32.6,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
 Alaska R. Crim. P. 50,alaska r. crim. p. 50,Court Rule,state_rule,AK,1,1,1,2025,2025,true,exact
-Alaska R. Crv. P. 59,alaska r. crv. p. 59,Court Rule,state_rule,AK,1,1,1,2009,2009,false,unresolved
-Alaska R. Crv. P. 77,alaska r. crv. p. 77,Court Rule,state_rule,AK,1,1,1,2000,2000,false,unresolved
 Alaska R. Evid. 11,alaska r. evid. 11,Court Rule,state_rule,AK,1,1,1,1981,1981,false,unresolved
 Alaska R. Evid. 401. 23 Alaska R. Evid. 615,alaska r. evid. 401. 23 alaska r. evid. 615,Court Rule,state_rule,AK,1,1,1,2017,2017,true,exact
 Alaska R. Evid. 402. Alaska Evidence Rule 401,alaska r. evid. 402. alaska evidence rule 401,Court Rule,state_rule,AK,1,1,1,2007,2007,true,exact
@@ -2517,6 +2490,7 @@ Alaska R. Evid. 504-506,alaska r. evid. 504-506,Court Rule,state_rule,AK,1,1,1,2
 Alaska R. Evid. 506,alaska r. evid. 506,Court Rule,state_rule,AK,1,1,1,1993,1993,true,exact
 Alaska R. Evid. 508,alaska r. evid. 508,Court Rule,state_rule,AK,1,1,1,1998,1998,true,exact
 Alaska R. Evid. 614,alaska r. evid. 614,Court Rule,state_rule,AK,1,1,1,1982,1982,true,exact
+Alaska R. Evid. 704. 16 Alaska R. Evid. 704,alaska r. evid. 704. 16 alaska r. evid. 704,Court Rule,state_rule,AK,1,1,1,2021,2021,true,exact
 Alaska R. Evid. 801-02,alaska r. evid. 801-02,Court Rule,state_rule,AK,1,1,1,2023,2023,false,unresolved
 Alaska R. Evid. 801-802,alaska r. evid. 801-802,Court Rule,state_rule,AK,1,1,1,2008,2008,false,unresolved
 Alaska R. Evid. 802. Alaska R. Evid. 803,alaska r. evid. 802. alaska r. evid. 803,Court Rule,state_rule,AK,1,1,1,2019,2019,true,exact
@@ -2831,16 +2805,12 @@ FRCP 68 and Alaska Rule 68,frcp 68 and alaska rule 68,Court Rule,federal_rule,AK
 Fed.It.Civ. P. 9,fed.it.civ. p. 9,Court Rule,state_rule,AK,1,1,1,1961,1961,false,unresolved
 I. 22 21 Alaska R. Crim. P. 32,i. 22 21 alaska r. crim. p. 32,Court Rule,state_rule,AK,1,1,1,2024,2024,false,unresolved
 "I.N.S. C.D.Cal. B.I.A. D.Alaska D.Nev. I.N.S. Bkrtcy.App. 9, 130 B. R. 362","i.n.s. c.d.cal. b.i.a. d.alaska d.nev. i.n.s. bkrtcy.app. 9, 130 b. r. 362",Court Rule,local_rule,AK,1,1,1,1993,1993,false,unresolved
-III. Alaska Civil Rule 56,iii. alaska civil rule 56,Court Rule,state_rule,AK,1,1,1,1999,1999,false,unresolved
 III.A. 39 Alaska R. Civ. P. 90.3,iii.a. 39 alaska r. civ. p. 90.3,Court Rule,state_rule,AK,1,1,1,2018,2018,false,unresolved
 III.Alaska Civil Rule 56,iii.alaska civil rule 56,Court Rule,state_rule,AK,1,1,1,1999,1999,false,unresolved
-J. 4 (1985). 41 Alaska Civil Procedure Rule 82,j. 4 (1985). 41 alaska civil procedure rule 82,Court Rule,state_rule,AK,1,1,1,2013,2013,false,unresolved
-J. 4 (1985). 45 Alaska Civil Procedure Rule 82,j. 4 (1985). 45 alaska civil procedure rule 82,Court Rule,state_rule,AK,1,1,1,2013,2013,false,unresolved
 JUDGE 4 Alaska L.Civ. R. 7.3,judge 4 alaska l.civ. r. 7.3,Court Rule,state_rule,AK,1,1,1,2024,2024,false,unresolved
 JUDGE 41 Alaska R. App. P. 407,judge 41 alaska r. app. p. 407,Court Rule,state_rule,AK,1,1,1,2022,2022,false,unresolved
 JUDGE 53 Alaska Local Civil Rule 79.2,judge 53 alaska local civil rule 79.2,Court Rule,local_rule,AK,1,1,1,2026,2026,false,unresolved
 JUDGE 63 Alaska Local Civil Rule 79.2,judge 63 alaska local civil rule 79.2,Court Rule,local_rule,AK,1,1,1,2026,2026,false,unresolved
-LR.C. § 417,lr.c. § 417,Court Rule,local_rule,AK,1,1,1,2008,2008,false,unresolved
 Local Civil 8 Rules. Alaska Local Civil Rule 83.1,local civil 8 rules. alaska local civil rule 83.1,Court Rule,local_rule,AK,1,1,1,2023,2023,false,unresolved
 MANNHEIMER. Alaska Criminal Rule 53,mannheimer. alaska criminal rule 53,Court Rule,state_rule,AK,1,1,1,2016,2016,false,unresolved
 MMWA. Alaska Civil Rule 68,mmwa. alaska civil rule 68,Court Rule,state_rule,AK,1,1,1,2006,2006,false,unresolved

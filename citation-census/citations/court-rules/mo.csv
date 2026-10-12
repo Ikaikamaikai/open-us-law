@@ -1,19 +1,19 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-Missouri Supreme Court Rule 29.15,missouri supreme court rule 29.15,Court Rule,state_rule,MO,507,447,5,1988,2026,true,exact
-E.D. Mo. L.R. 2.06,e.d. mo. l.r. 2.06,Court Rule,local_rule,MO,449,425,2,2001,2026,true,exact
-Missouri Rule 27.26,missouri rule 27.26,Court Rule,state_rule,MO,350,98,7,1966,1995,true,exact
-Missouri Supreme Court Rule 27.26,missouri supreme court rule 27.26,Court Rule,state_rule,MO,284,231,8,1959,2014,true,exact
-E.D. Mo. L.R. 4.01,e.d. mo. l.r. 4.01,Court Rule,local_rule,MO,222,189,2,1997,2026,true,exact
-Missouri Supreme Court Rule 24.035,missouri supreme court rule 24.035,Court Rule,state_rule,MO,173,145,4,1989,2026,true,exact
+Missouri Supreme Court Rule 29.15,missouri supreme court rule 29.15,Court Rule,state_rule,MO,510,447,5,1988,2026,true,exact
+E.D. Mo. L.R. 2.06,e.d. mo. l.r. 2.06,Court Rule,local_rule,MO,450,425,2,2001,2026,true,exact
+Missouri Rule 27.26,missouri rule 27.26,Court Rule,state_rule,MO,351,98,7,1966,1995,true,exact
+Missouri Supreme Court Rule 27.26,missouri supreme court rule 27.26,Court Rule,state_rule,MO,286,231,8,1959,2014,true,exact
+E.D. Mo. L.R. 4.01,e.d. mo. l.r. 4.01,Court Rule,local_rule,MO,223,189,2,1997,2026,true,exact
+Missouri Supreme Court Rule 24.035,missouri supreme court rule 24.035,Court Rule,state_rule,MO,174,145,4,1989,2026,true,exact
 Missouri Criminal Rule 27.26,missouri criminal rule 27.26,Court Rule,state_rule,MO,142,52,4,1965,1976,true,exact
+Mo. R. Civ. P. 84.16,mo. r. civ. p. 84.16,Court Rule,state_rule,MO,124,121,1,2011,2019,true,exact
 E.D. Mo. L.R. 2.01,e.d. mo. l.r. 2.01,Court Rule,local_rule,MO,121,115,1,2020,2026,true,exact
-Mo. R. Civ. P. 84.16,mo. r. civ. p. 84.16,Court Rule,state_rule,MO,121,121,1,2011,2019,true,exact
 Missouri Supreme Court Rule 91,missouri supreme court rule 91,Court Rule,state_rule,MO,106,89,4,1989,2025,false,unresolved
 E.D. Mo. Local Rule 2.06,e.d. mo. local rule 2.06,Court Rule,local_rule,MO,92,92,1,2019,2026,true,exact
 E.D. Mo. L.R. 45,e.d. mo. l.r. 45,Court Rule,local_rule,MO,75,72,1,2019,2024,false,unresolved
 Missouri Rules of Criminal Procedure Rule 27.26,missouri rules of criminal procedure rule 27.26,Court Rule,state_rule,MO,65,60,3,1963,1994,true,exact
 Missouri Supreme Court Rule 84.04,missouri supreme court rule 84.04,Court Rule,state_rule,MO,65,57,3,1980,2025,true,exact
-Mo. Sup. Ct. R. 29.15,mo. sup. ct. r. 29.15,Court Rule,state_rule,MO,62,36,4,1997,2025,true,exact
+Mo. Sup. Ct. R. 29.15,mo. sup. ct. r. 29.15,Court Rule,state_rule,MO,64,36,4,1993,2025,true,exact
 E.D. Mo. L.R. 2.05,e.d. mo. l.r. 2.05,Court Rule,local_rule,MO,60,40,1,2019,2025,true,exact
 E.D. Mo. L.R. 13.05,e.d. mo. l.r. 13.05,Court Rule,local_rule,MO,58,27,1,2020,2025,true,exact
 Missouri Rules of Civil Procedure Rule 73.01,missouri rules of civil procedure rule 73.01,Court Rule,state_rule,MO,50,49,1,1974,2003,true,exact
@@ -25,8 +25,8 @@ Missouri Rules of Civil Procedure Rule 84.13,missouri rules of civil procedure r
 Mo. R.Crim. P. 2010,mo. r.crim. p. 2010,Court Rule,state_rule,MO,41,41,1,2010,2015,false,unresolved
 6 C.S.R. § 10-3.010,6 c.s.r. § 10-3.010,Court Rule,state_rule,MO,38,1,1,2017,2017,true,exact
 Missouri Rules of Criminal Procedure Rule 29.15,missouri rules of criminal procedure rule 29.15,Court Rule,state_rule,MO,36,36,2,1988,2018,true,exact
+Missouri Rule 29.15,missouri rule 29.15,Court Rule,state_rule,MO,35,31,4,1989,2024,true,exact
 Missouri Rules of Civil Procedure Rule 74.01,missouri rules of civil procedure rule 74.01,Court Rule,state_rule,MO,35,35,1,1988,2021,true,exact
-Missouri Rule 29.15,missouri rule 29.15,Court Rule,state_rule,MO,34,31,4,1989,2024,true,exact
 Missouri Supreme Court Rule 30.20,missouri supreme court rule 30.20,Court Rule,state_rule,MO,34,29,3,1988,2025,true,exact
 Mo. R.Crim. P. 2011,mo. r.crim. p. 2011,Court Rule,state_rule,MO,33,33,1,2011,2014,false,unresolved
 Missouri Supreme Court Rule 74.01,missouri supreme court rule 74.01,Court Rule,state_rule,MO,32,27,1,1989,2025,true,exact
@@ -36,15 +36,15 @@ Missouri Rules of Civil Procedure Rule 74.04,missouri rules of civil procedure r
 Missouri Supreme Court Rule 88.01,missouri supreme court rule 88.01,Court Rule,state_rule,MO,28,26,1,1992,2025,true,exact
 Missouri Rules of Criminal Procedure Rule 24.035,missouri rules of criminal procedure rule 24.035,Court Rule,state_rule,MO,27,26,2,1988,2005,true,exact
 Mo. S. Ct. R. 29.15,mo. s. ct. r. 29.15,Court Rule,state_rule,MO,27,17,2,1996,2024,true,exact
+Missouri Supreme Court Rule 74.04,missouri supreme court rule 74.04,Court Rule,state_rule,MO,26,23,2,1989,2024,true,exact
 Missouri Supreme Court Rule 84.16,missouri supreme court rule 84.16,Court Rule,state_rule,MO,26,26,1,2013,2019,true,exact
 E.D. Mo. Local Rule 4.01,e.d. mo. local rule 4.01,Court Rule,local_rule,MO,24,19,2,2007,2025,true,exact
-Missouri Supreme Court Rule 74.04,missouri supreme court rule 74.04,Court Rule,state_rule,MO,24,23,2,1989,2024,true,exact
 Mo. R.Crim. P. 2009,mo. r.crim. p. 2009,Court Rule,state_rule,MO,24,24,1,2010,2013,false,unresolved
+E.D. Mo. L.R. 3.04,e.d. mo. l.r. 3.04,Court Rule,local_rule,MO,23,18,1,2009,2026,true,exact
 Mo. R. Civ. P. 99.01,mo. r. civ. p. 99.01,Court Rule,state_rule,MO,23,21,2,2003,2025,true,exact
 Mo. R.Crim. P. 2008,mo. r.crim. p. 2008,Court Rule,state_rule,MO,23,23,1,2009,2013,false,unresolved
 Mo. R.Crim. P. 30.25,mo. r.crim. p. 30.25,Court Rule,state_rule,MO,23,23,1,2012,2014,true,exact
 42 V.A.M.S. Supreme Court Rule 1.08,42 v.a.m.s. supreme court rule 1.08,Court Rule,state_rule,MO,22,22,2,1953,1959,false,unresolved
-E.D. Mo. L.R. 3.04,e.d. mo. l.r. 3.04,Court Rule,local_rule,MO,22,18,1,2009,2026,true,exact
 District of Missouri Local Rule 13.05,district of missouri local rule 13.05,Court Rule,local_rule,MO,21,16,1,2021,2026,false,unresolved
 Missouri Rule 52.08,missouri rule 52.08,Court Rule,state_rule,MO,21,12,3,1983,2016,true,exact
 Missouri Supreme Court Rule 74.06,missouri supreme court rule 74.06,Court Rule,state_rule,MO,21,14,3,1991,2025,true,exact
@@ -55,6 +55,7 @@ Mo. R. Crim. P. 24.035,mo. r. crim. p. 24.035,Court Rule,state_rule,MO,20,13,5,1
 Mo. R.Crim. P. 2005,mo. r.crim. p. 2005,Court Rule,state_rule,MO,20,20,1,2005,2011,false,unresolved
 13 C.S.R. § 40-2.030,13 c.s.r. § 40-2.030,Court Rule,state_rule,MO,19,3,1,2004,2010,true,exact
 Missouri Supreme Court Rule 25.04,missouri supreme court rule 25.04,Court Rule,state_rule,MO,19,13,5,1970,2016,true,exact
+Missouri Supreme Court Rule 54.13,missouri supreme court rule 54.13,Court Rule,state_rule,MO,19,15,7,1996,2025,true,exact
 Mo.S.Ct. R. 29.15,mo.s.ct. r. 29.15,Court Rule,state_rule,MO,19,11,2,1991,2024,true,exact
 1 C.S.R. § 20-3.070,1 c.s.r. § 20-3.070,Court Rule,state_rule,MO,18,4,1,2014,2014,true,exact
 4 C.S.R. § 240-20.094,4 c.s.r. § 240-20.094,Court Rule,state_rule,MO,18,1,1,2013,2013,true,exact
@@ -65,7 +66,7 @@ Mo. Sup.Ct. R. 29.15,mo. sup.ct. r. 29.15,Court Rule,state_rule,MO,18,8,2,1997,2
 Mo.Sup.Ct. R. 27.26,mo.sup.ct. r. 27.26,Court Rule,state_rule,MO,18,17,2,1975,1999,true,exact
 Missouri Rule 91,missouri rule 91,Court Rule,state_rule,MO,17,8,2,1976,2026,false,unresolved
 Missouri Rules of Criminal Procedure Rule 2004,missouri rules of criminal procedure rule 2004,Court Rule,state_rule,MO,17,17,1,2004,2006,false,unresolved
-Missouri Supreme Court Rule 54.13,missouri supreme court rule 54.13,Court Rule,state_rule,MO,17,15,7,1996,2025,true,exact
+Missouri Supreme Court Rule 29.07,missouri supreme court rule 29.07,Court Rule,state_rule,MO,17,16,4,1995,2025,true,exact
 Missouri Supreme Court Rule 74.05,missouri supreme court rule 74.05,Court Rule,state_rule,MO,17,13,3,1994,2022,true,exact
 Mo. R. Crim. P. 2014,mo. r. crim. p. 2014,Court Rule,state_rule,MO,17,17,1,2015,2018,false,unresolved
 Mo. R. Crim. P. 29.15,mo. r. crim. p. 29.15,Court Rule,state_rule,MO,17,11,3,1996,2018,true,exact
@@ -74,8 +75,8 @@ Mo.S.Ct. R. 27.26,mo.s.ct. r. 27.26,Court Rule,state_rule,MO,17,15,4,1975,1988,t
 W.D. Mo. R. 83.6,w.d. mo. r. 83.6,Court Rule,local_rule,MO,17,2,1,2005,2005,false,unresolved
 Missouri Rule 4-4.2,missouri rule 4-4.2,Court Rule,state_rule,MO,16,4,2,2002,2005,true,exact
 Missouri Rules of Criminal Procedure Rule 30.20,missouri rules of criminal procedure rule 30.20,Court Rule,state_rule,MO,16,16,2,1985,2000,true,exact
-Missouri Supreme Court Rule 29.07,missouri supreme court rule 29.07,Court Rule,state_rule,MO,16,16,4,1995,2025,true,exact
 Missouri Supreme Court Rule 30.01,missouri supreme court rule 30.01,Court Rule,state_rule,MO,16,16,3,2000,2024,true,exact
+Missouri Supreme Court Rule 84.14,missouri supreme court rule 84.14,Court Rule,state_rule,MO,16,14,1,2004,2023,true,exact
 Mo. R. Civ. P. 2003,mo. r. civ. p. 2003,Court Rule,state_rule,MO,16,16,1,2003,2004,false,unresolved
 Mo. S. Ct. R. 91.01,mo. s. ct. r. 91.01,Court Rule,state_rule,MO,16,13,1,2022,2024,true,exact
 Mo. S.Ct. R. 29.15,mo. s.ct. r. 29.15,Court Rule,state_rule,MO,16,10,2,1998,2023,true,exact
@@ -83,20 +84,20 @@ Mo. Sup. Ct. R. 81.04,mo. sup. ct. r. 81.04,Court Rule,state_rule,MO,16,16,1,201
 E.D. Mo. L.R. 12.02,e.d. mo. l.r. 12.02,Court Rule,local_rule,MO,15,15,2,1996,2024,true,exact
 E.D. Mo. L.R. 4.03,e.d. mo. l.r. 4.03,Court Rule,local_rule,MO,15,15,1,2020,2025,true,exact
 Missouri Supreme Court Rule 30.25,missouri supreme court rule 30.25,Court Rule,state_rule,MO,15,15,2,2013,2021,true,exact
+Missouri Supreme Court Rule 67.03,missouri supreme court rule 67.03,Court Rule,state_rule,MO,15,7,3,1996,2025,true,exact
 Mo. R. Civ. P. 74.09,mo. r. civ. p. 74.09,Court Rule,state_rule,MO,15,5,4,2003,2024,true,exact
 Mo. R. Crim. P. 2013,mo. r. crim. p. 2013,Court Rule,state_rule,MO,15,15,1,2014,2017,false,unresolved
 Mo. R.Crim. P. 2002,mo. r.crim. p. 2002,Court Rule,state_rule,MO,15,15,1,2002,2003,false,unresolved
 Mo. Rules Crim. P. 2004,mo. rules crim. p. 2004,Court Rule,state_rule,MO,15,15,1,2005,2007,false,unresolved
 Mo. Sup. Ct. R. 83.04,mo. sup. ct. r. 83.04,Court Rule,state_rule,MO,15,13,3,2008,2023,true,exact
 Missouri Rule 33.01,missouri rule 33.01,Court Rule,state_rule,MO,14,3,1,2021,2021,true,exact
+Missouri Rule 55.33,missouri rule 55.33,Court Rule,state_rule,MO,14,5,4,1983,2019,true,exact
 Missouri Rule 84.08,missouri rule 84.08,Court Rule,state_rule,MO,14,6,1,1974,1987,true,exact
 Missouri Supreme Court Rule 25.03,missouri supreme court rule 25.03,Court Rule,state_rule,MO,14,12,3,1989,2024,true,exact
 Missouri Supreme Court Rule 30.03,missouri supreme court rule 30.03,Court Rule,state_rule,MO,14,11,4,1992,2024,true,exact
 Missouri Supreme Court Rule 4-4.2,missouri supreme court rule 4-4.2,Court Rule,state_rule,MO,14,7,5,1997,2021,true,exact
 Missouri Supreme Court Rule 52.12,missouri supreme court rule 52.12,Court Rule,state_rule,MO,14,10,4,1984,2023,true,exact
-Missouri Supreme Court Rule 67.03,missouri supreme court rule 67.03,Court Rule,state_rule,MO,14,7,3,1996,2025,true,exact
 Missouri Supreme Court Rule 75.01,missouri supreme court rule 75.01,Court Rule,state_rule,MO,14,12,2,1980,2024,true,exact
-Missouri Supreme Court Rule 84.14,missouri supreme court rule 84.14,Court Rule,state_rule,MO,14,14,1,2004,2022,true,exact
 Mo. R. Civ. P. 74.04,mo. r. civ. p. 74.04,Court Rule,state_rule,MO,14,11,1,2007,2021,true,exact
 Mo. R.Crim. P. 2004,mo. r.crim. p. 2004,Court Rule,state_rule,MO,14,14,1,2004,2008,false,unresolved
 Mo. R.Crim. P. 2012,mo. r.crim. p. 2012,Court Rule,state_rule,MO,14,14,1,2013,2014,false,unresolved
@@ -104,9 +105,9 @@ Mo. Sup. Ct. Rule 29.15,mo. sup. ct. rule 29.15,Court Rule,state_rule,MO,14,11,4
 10 C.S.R. § 20-6.030,10 c.s.r. § 20-6.030,Court Rule,state_rule,MO,13,1,1,1987,1987,true,exact
 10 C.S.R. § 20-8.300,10 c.s.r. § 20-8.300,Court Rule,state_rule,MO,13,1,1,2021,2021,true,exact
 Missouri Court Rule 84.04,missouri court rule 84.04,Court Rule,state_rule,MO,13,13,1,2007,2018,false,unresolved
-Missouri Rule 55.33,missouri rule 55.33,Court Rule,state_rule,MO,13,5,4,1983,2006,true,exact
 Missouri Rule 74.01,missouri rule 74.01,Court Rule,state_rule,MO,13,11,2,1990,2023,true,exact
 Missouri Supreme Court Rule 24.02,missouri supreme court rule 24.02,Court Rule,state_rule,MO,13,13,4,1970,2023,true,exact
+Missouri Supreme Court Rule 55.27,missouri supreme court rule 55.27,Court Rule,state_rule,MO,13,11,4,1984,2024,true,exact
 Missouri Supreme Court Rule 55.33,missouri supreme court rule 55.33,Court Rule,state_rule,MO,13,13,3,1981,2025,true,exact
 Mo.R.Civ. P. 83.02,mo.r.civ. p. 83.02,Court Rule,state_rule,MO,13,9,3,1981,1991,true,exact
 Mo.R.Crim. P. 29.15,mo.r.crim. p. 29.15,Court Rule,state_rule,MO,13,9,3,1988,1999,true,exact
@@ -117,7 +118,7 @@ E.D. Mo. L.R. 4.07,e.d. mo. l.r. 4.07,Court Rule,local_rule,MO,12,12,1,2023,2025
 Missouri Rules of Civil Procedure Rule 55.33,missouri rules of civil procedure rule 55.33,Court Rule,state_rule,MO,12,12,2,1985,2017,true,exact
 Missouri Supreme Court Rule 24.09,missouri supreme court rule 24.09,Court Rule,state_rule,MO,12,11,6,1988,2024,true,exact
 Missouri Supreme Court Rule 29.05,missouri supreme court rule 29.05,Court Rule,state_rule,MO,12,8,2,1992,2011,true,exact
-Missouri Supreme Court Rule 55.27,missouri supreme court rule 55.27,Court Rule,state_rule,MO,12,11,4,1984,2024,true,exact
+Missouri Supreme Court Rule 78.07,missouri supreme court rule 78.07,Court Rule,state_rule,MO,12,9,1,1986,2024,true,exact
 Mo. R. Civ. P. 2010,mo. r. civ. p. 2010,Court Rule,state_rule,MO,12,12,1,2011,2014,false,unresolved
 Mo. R. Civ. P. 74.01,mo. r. civ. p. 74.01,Court Rule,state_rule,MO,12,10,3,1998,2021,true,exact
 Mo. R.Crim. P. 2013,mo. r.crim. p. 2013,Court Rule,state_rule,MO,12,12,1,2013,2015,false,unresolved
@@ -154,7 +155,6 @@ Missouri Rules of Civil Procedure Rule 67.03,missouri rules of civil procedure r
 Missouri Rules of Criminal Procedure Rule 27.01,missouri rules of criminal procedure rule 27.01,Court Rule,state_rule,MO,10,10,1,1986,1999,true,exact
 Missouri Supreme Court Rule 5.13,missouri supreme court rule 5.13,Court Rule,state_rule,MO,10,5,1,2008,2009,true,exact
 Missouri Supreme Court Rule 55.32,missouri supreme court rule 55.32,Court Rule,state_rule,MO,10,8,4,2000,2025,true,exact
-Missouri Supreme Court Rule 78.07,missouri supreme court rule 78.07,Court Rule,state_rule,MO,10,9,1,1986,2024,true,exact
 Missouri Supreme Court Rule 81.05,missouri supreme court rule 81.05,Court Rule,state_rule,MO,10,10,2,2009,2024,true,exact
 Mo. R. Civ. P. 2009,mo. r. civ. p. 2009,Court Rule,state_rule,MO,10,10,1,2009,2010,false,unresolved
 Mo. R. Civ. P. 54.13,mo. r. civ. p. 54.13,Court Rule,state_rule,MO,10,8,6,2009,2025,true,exact
@@ -170,6 +170,7 @@ Missouri Rules of Civil Procedure Rule 55.27,missouri rules of civil procedure r
 Missouri Rules of Civil Procedure Rule 84.16,missouri rules of civil procedure rule 84.16,Court Rule,state_rule,MO,9,9,1,1986,1997,true,exact
 Missouri Rules of Criminal Procedure Rule 28.02,missouri rules of criminal procedure rule 28.02,Court Rule,state_rule,MO,9,9,1,1984,1998,true,exact
 Missouri Supreme Court Rule 29.16,missouri supreme court rule 29.16,Court Rule,state_rule,MO,9,5,1,2000,2003,true,exact
+Missouri Supreme Court Rule 52.05,missouri supreme court rule 52.05,Court Rule,state_rule,MO,9,6,4,2000,2024,true,exact
 Missouri Supreme Court Rule 54.16,missouri supreme court rule 54.16,Court Rule,state_rule,MO,9,6,2,2021,2024,true,exact
 Missouri Supreme Court Rule 54.21,missouri supreme court rule 54.21,Court Rule,state_rule,MO,9,3,1,2022,2022,true,exact
 Mo. R. Civ. P. 2004,mo. r. civ. p. 2004,Court Rule,state_rule,MO,9,9,1,2004,2009,false,unresolved
@@ -195,7 +196,7 @@ Missouri Rules of Criminal Procedure Rule 29.07,missouri rules of criminal proce
 Missouri Supreme Court Rule 24.10,missouri supreme court rule 24.10,Court Rule,state_rule,MO,8,8,4,2000,2024,true,exact
 Missouri Supreme Court Rule 27.01,missouri supreme court rule 27.01,Court Rule,state_rule,MO,8,7,2,1992,2023,true,exact
 Missouri Supreme Court Rule 33.01,missouri supreme court rule 33.01,Court Rule,state_rule,MO,8,8,3,1961,2024,true,exact
-Missouri Supreme Court Rule 52.05,missouri supreme court rule 52.05,Court Rule,state_rule,MO,8,6,4,2000,2024,true,exact
+Missouri Supreme Court Rule 83.02,missouri supreme court rule 83.02,Court Rule,state_rule,MO,8,6,4,1982,2025,true,exact
 Missouri Supreme Court Rule 84.08,missouri supreme court rule 84.08,Court Rule,state_rule,MO,8,1,1,1987,1987,true,exact
 "Missouri, 22 B. R. 600","missouri, 22 b. r. 600",Court Rule,state_rule,MO,8,8,5,1983,1987,false,unresolved
 "Missouri, 9 B. R. 801","missouri, 9 b. r. 801",Court Rule,state_rule,MO,8,7,2,1981,1985,false,unresolved
@@ -227,6 +228,7 @@ Missouri Supreme Court Rule 37,missouri supreme court rule 37,Court Rule,state_r
 Missouri Supreme Court Rule 53.01,missouri supreme court rule 53.01,Court Rule,state_rule,MO,7,3,2,2008,2023,true,exact
 Missouri Supreme Court Rule 67.02,missouri supreme court rule 67.02,Court Rule,state_rule,MO,7,5,4,2008,2025,true,exact
 Missouri Supreme Court Rule 73.01,missouri supreme court rule 73.01,Court Rule,state_rule,MO,7,7,1,1966,2021,true,exact
+Missouri Supreme Court Rule 81.04,missouri supreme court rule 81.04,Court Rule,state_rule,MO,7,6,4,1983,2024,true,exact
 Missouri Supreme Court Rule 90,missouri supreme court rule 90,Court Rule,state_rule,MO,7,7,4,2000,2024,false,unresolved
 Missouri Supreme Court Rules 29.15,missouri supreme court rules 29.15,Court Rule,state_rule,MO,7,7,1,2003,2022,true,exact
 Mo. R. Civ. P. 2012,mo. r. civ. p. 2012,Court Rule,state_rule,MO,7,7,1,2012,2016,false,unresolved
@@ -239,6 +241,7 @@ E.D. Mo. L.R. 5.01,e.d. mo. l.r. 5.01,Court Rule,local_rule,MO,6,6,1,2020,2024,t
 E.D. Mo. L.R. 7-4.01,e.d. mo. l.r. 7-4.01,Court Rule,local_rule,MO,6,4,2,2006,2013,false,unresolved
 E.D. Mo. Local Rule 4.04,e.d. mo. local rule 4.04,Court Rule,local_rule,MO,6,6,1,2019,2025,true,exact
 Missouri Criminal Rule 29.01,missouri criminal rule 29.01,Court Rule,state_rule,MO,6,2,1,1969,1977,true,exact
+Missouri Rule 52.05,missouri rule 52.05,Court Rule,state_rule,MO,6,3,2,1967,2017,true,exact
 Missouri Rule 55.03,missouri rule 55.03,Court Rule,state_rule,MO,6,5,2,1994,2019,true,exact
 Missouri Rules of Civil Procedure Rule 2008,missouri rules of civil procedure rule 2008,Court Rule,state_rule,MO,6,6,1,2009,2009,false,unresolved
 Missouri Rules of Civil Procedure Rule 74.06,missouri rules of civil procedure rule 74.06,Court Rule,state_rule,MO,6,6,1,1999,2021,true,exact
@@ -252,10 +255,13 @@ Missouri Supreme Court Rule 30.06,missouri supreme court rule 30.06,Court Rule,s
 Missouri Supreme Court Rule 5.24,missouri supreme court rule 5.24,Court Rule,state_rule,MO,6,2,1,2024,2024,true,exact
 Missouri Supreme Court Rule 55.05,missouri supreme court rule 55.05,Court Rule,state_rule,MO,6,6,2,1980,2020,true,exact
 Missouri Supreme Court Rule 61.01,missouri supreme court rule 61.01,Court Rule,state_rule,MO,6,4,2,2005,2021,true,exact
+Missouri Supreme Court Rule 67.01,missouri supreme court rule 67.01,Court Rule,state_rule,MO,6,4,2,1978,2025,true,exact
 Missouri Supreme Court Rule 70.02,missouri supreme court rule 70.02,Court Rule,state_rule,MO,6,6,2,1985,2017,true,exact
 Missouri Supreme Court Rule 77.01,missouri supreme court rule 77.01,Court Rule,state_rule,MO,6,4,2,1985,2021,true,exact
-Missouri Supreme Court Rule 81.04,missouri supreme court rule 81.04,Court Rule,state_rule,MO,6,6,4,1983,2024,true,exact
-Missouri Supreme Court Rule 83.02,missouri supreme court rule 83.02,Court Rule,state_rule,MO,6,6,4,1982,2025,true,exact
+Missouri Supreme Court Rule 81.12,missouri supreme court rule 81.12,Court Rule,state_rule,MO,6,5,2,1999,2021,true,exact
+Missouri Supreme Court Rule 84.05,missouri supreme court rule 84.05,Court Rule,state_rule,MO,6,4,2,2008,2025,true,exact
+Missouri Supreme Court Rule 87.02,missouri supreme court rule 87.02,Court Rule,state_rule,MO,6,4,2,1990,2022,true,exact
+Missouri Supreme Court Rule 94.03,missouri supreme court rule 94.03,Court Rule,state_rule,MO,6,4,2,1990,2017,true,exact
 Missouri Supreme Court Rules 2022,missouri supreme court rules 2022,Court Rule,state_rule,MO,6,6,1,2022,2025,false,unresolved
 Missouri Supreme Court Rules 2023,missouri supreme court rules 2023,Court Rule,state_rule,MO,6,6,1,2023,2024,false,unresolved
 "Missouri, 16 F.C.C. R. 1174","missouri, 16 f.c.c. r. 1174",Court Rule,state_rule,MO,6,3,1,2005,2005,false,unresolved
@@ -294,9 +300,9 @@ Missouri Court Rules 2018,missouri court rules 2018,Court Rule,state_rule,MO,5,5
 "Missouri Mining, Inc., 186 B. R. 946","missouri mining, inc., 186 b. r. 946",Court Rule,state_rule,MO,5,4,4,1996,2020,false,unresolved
 Missouri Rule 19,missouri rule 19,Court Rule,state_rule,MO,5,5,1,2015,2015,false,unresolved
 Missouri Rule 24.04,missouri rule 24.04,Court Rule,state_rule,MO,5,5,1,1978,2014,true,exact
-Missouri Rule 52.05,missouri rule 52.05,Court Rule,state_rule,MO,5,3,2,1967,2017,true,exact
 Missouri Rule 56.01,missouri rule 56.01,Court Rule,state_rule,MO,5,5,2,1990,2007,true,exact
 Missouri Rule 74.04,missouri rule 74.04,Court Rule,state_rule,MO,5,4,2,1982,2012,true,exact
+Missouri Rule 75.01,missouri rule 75.01,Court Rule,state_rule,MO,5,3,2,1991,1997,true,exact
 Missouri Rules of Civil Procedure Rule 2007,missouri rules of civil procedure rule 2007,Court Rule,state_rule,MO,5,5,1,2007,2008,false,unresolved
 Missouri Rules of Civil Procedure Rule 52.08,missouri rules of civil procedure rule 52.08,Court Rule,state_rule,MO,5,5,3,1987,2007,true,exact
 Missouri Rules of Civil Procedure Rule 55,missouri rules of civil procedure rule 55,Court Rule,state_rule,MO,5,3,2,2001,2008,false,unresolved
@@ -305,20 +311,18 @@ Missouri Rules of Civil Procedure Rule 67.02,missouri rules of civil procedure r
 Missouri Rules of Civil Procedure Rule 83.05,missouri rules of civil procedure rule 83.05,Court Rule,state_rule,MO,5,3,2,1960,1969,true,exact
 Missouri Rules of Criminal Procedure Rule 29.-15,missouri rules of criminal procedure rule 29.-15,Court Rule,state_rule,MO,5,5,1,1989,1991,true,exact
 Missouri Rules of Criminal Procedure Rule 29.11,missouri rules of criminal procedure rule 29.11,Court Rule,state_rule,MO,5,5,2,1986,1999,true,exact
+Missouri Supreme Court Rule 23.01,missouri supreme court rule 23.01,Court Rule,state_rule,MO,5,2,1,1987,2022,true,exact
 Missouri Supreme Court Rule 33.17,missouri supreme court rule 33.17,Court Rule,state_rule,MO,5,3,2,1980,2022,true,exact
+Missouri Supreme Court Rule 4-1.7,missouri supreme court rule 4-1.7,Court Rule,state_rule,MO,5,4,2,2001,2023,true,exact
 Missouri Supreme Court Rule 4-1.9,missouri supreme court rule 4-1.9,Court Rule,state_rule,MO,5,3,2,2012,2024,true,exact
 Missouri Supreme Court Rule 54,missouri supreme court rule 54,Court Rule,state_rule,MO,5,4,2,2021,2024,false,unresolved
 Missouri Supreme Court Rule 55.03,missouri supreme court rule 55.03,Court Rule,state_rule,MO,5,4,4,2006,2024,true,exact
 Missouri Supreme Court Rule 55.12,missouri supreme court rule 55.12,Court Rule,state_rule,MO,5,4,1,1988,2025,true,exact
 Missouri Supreme Court Rule 60.01,missouri supreme court rule 60.01,Court Rule,state_rule,MO,5,4,2,1984,2021,true,exact
-Missouri Supreme Court Rule 67.01,missouri supreme court rule 67.01,Court Rule,state_rule,MO,5,4,2,1978,2025,true,exact
 Missouri Supreme Court Rule 70.01,missouri supreme court rule 70.01,Court Rule,state_rule,MO,5,5,3,1967,1975,true,exact
 Missouri Supreme Court Rule 74.09,missouri supreme court rule 74.09,Court Rule,state_rule,MO,5,4,3,2015,2023,true,exact
-Missouri Supreme Court Rule 81.12,missouri supreme court rule 81.12,Court Rule,state_rule,MO,5,5,2,1999,2021,true,exact
 Missouri Supreme Court Rule 84.19,missouri supreme court rule 84.19,Court Rule,state_rule,MO,5,5,2,1989,2020,true,exact
-Missouri Supreme Court Rule 87.02,missouri supreme court rule 87.02,Court Rule,state_rule,MO,5,4,2,1990,2022,true,exact
 Missouri Supreme Court Rule 88,missouri supreme court rule 88,Court Rule,state_rule,MO,5,5,1,1991,2025,false,unresolved
-Missouri Supreme Court Rule 94.03,missouri supreme court rule 94.03,Court Rule,state_rule,MO,5,4,2,1990,2017,true,exact
 Missouri Supreme Court Rules 2016,missouri supreme court rules 2016,Court Rule,state_rule,MO,5,5,1,2017,2020,false,unresolved
 "Missouri Supreme Court Rules of Civil Procedure, V.A.M. R. 2","missouri supreme court rules of civil procedure, v.a.m. r. 2",Court Rule,state_rule,MO,5,5,1,1970,1978,false,unresolved
 "Missouri, Inc., 178 B. R. 792","missouri, inc., 178 b. r. 792",Court Rule,state_rule,MO,5,5,4,1996,1999,false,unresolved
@@ -409,11 +413,12 @@ Missouri Rules of Criminal Procedure Rule 30.25,missouri rules of criminal proce
 "Missouri Rules of Criminal Procedure, Rule 29.07","missouri rules of criminal procedure, rule 29.07",Court Rule,state_rule,MO,4,2,1,2001,2001,true,exact
 Missouri Supreme Court Rule 2,missouri supreme court rule 2,Court Rule,state_rule,MO,4,4,2,1978,2001,false,unresolved
 Missouri Supreme Court Rule 23.05,missouri supreme court rule 23.05,Court Rule,state_rule,MO,4,4,2,1988,2020,true,exact
+Missouri Supreme Court Rule 23.08,missouri supreme court rule 23.08,Court Rule,state_rule,MO,4,3,1,1985,2019,true,exact
 Missouri Supreme Court Rule 24.05,missouri supreme court rule 24.05,Court Rule,state_rule,MO,4,4,1,2020,2025,true,exact
 Missouri Supreme Court Rule 28.03,missouri supreme court rule 28.03,Court Rule,state_rule,MO,4,4,2,1992,2001,true,exact
+Missouri Supreme Court Rule 29.01,missouri supreme court rule 29.01,Court Rule,state_rule,MO,4,2,2,1982,2021,true,exact
 Missouri Supreme Court Rule 29.11,missouri supreme court rule 29.11,Court Rule,state_rule,MO,4,4,2,1991,2022,true,exact
 Missouri Supreme Court Rule 4-1.5,missouri supreme court rule 4-1.5,Court Rule,state_rule,MO,4,4,3,2010,2021,true,exact
-Missouri Supreme Court Rule 4-1.7,missouri supreme court rule 4-1.7,Court Rule,state_rule,MO,4,4,2,2001,2023,true,exact
 Missouri Supreme Court Rule 4-3.3,missouri supreme court rule 4-3.3,Court Rule,state_rule,MO,4,3,2,2017,2022,true,exact
 Missouri Supreme Court Rule 4-8.4,missouri supreme court rule 4-8.4,Court Rule,state_rule,MO,4,3,3,1999,2022,true,exact
 Missouri Supreme Court Rule 5,missouri supreme court rule 5,Court Rule,state_rule,MO,4,3,2,2008,2021,false,unresolved
@@ -422,7 +427,7 @@ Missouri Supreme Court Rule 5.21,missouri supreme court rule 5.21,Court Rule,sta
 Missouri Supreme Court Rule 5.315,missouri supreme court rule 5.315,Court Rule,state_rule,MO,4,4,3,2004,2021,true,exact
 Missouri Supreme Court Rule 52.04,missouri supreme court rule 52.04,Court Rule,state_rule,MO,4,4,3,2000,2013,true,exact
 Missouri Supreme Court Rule 55.08,missouri supreme court rule 55.08,Court Rule,state_rule,MO,4,4,2,2009,2026,true,exact
-Missouri Supreme Court Rule 84.05,missouri supreme court rule 84.05,Court Rule,state_rule,MO,4,4,2,2008,2025,true,exact
+Missouri Supreme Court Rule 78.06,missouri supreme court rule 78.06,Court Rule,state_rule,MO,4,3,1,2005,2020,true,exact
 Missouri Supreme Court Rules 30.01,missouri supreme court rules 30.01,Court Rule,state_rule,MO,4,4,2,2009,2026,true,exact
 Missouri Supreme Court Rules 83.02,missouri supreme court rules 83.02,Court Rule,state_rule,MO,4,2,1,2001,2001,true,exact
 Mo. Ct.App. E.D. Rule 380,mo. ct.app. e.d. rule 380,Court Rule,local_rule,MO,4,1,1,2006,2006,false,unresolved
@@ -507,9 +512,9 @@ District of Missouri Local Rule 7-4.01,district of missouri local rule 7-4.01,Co
 District of Missouri. R. 1,district of missouri. r. 1,Court Rule,state_rule,MO,3,3,3,2011,2025,false,unresolved
 E.D. Mo. L.R. 2.08,e.d. mo. l.r. 2.08,Court Rule,local_rule,MO,3,3,1,2020,2025,true,exact
 E.D. Mo. L.R. 6.02,e.d. mo. l.r. 6.02,Court Rule,local_rule,MO,3,2,1,2025,2025,true,exact
+E.D. Mo. L.R. 8.02,e.d. mo. l.r. 8.02,Court Rule,local_rule,MO,3,2,1,2020,2022,true,exact
 E.D. Mo. Loc. R. 4.01,e.d. mo. loc. r. 4.01,Court Rule,local_rule,MO,3,3,1,2022,2024,false,unresolved
 E.D. Mo. Local Rule 12.02,e.d. mo. local rule 12.02,Court Rule,local_rule,MO,3,3,1,2020,2023,true,exact
-H.R. 700 § 41,h.r. 700 § 41,Court Rule,state_rule,MO,3,3,1,1987,1987,false,unresolved
 Local Rules. E.D. Mo. L.R. 2.06,local rules. e.d. mo. l.r. 2.06,Court Rule,local_rule,MO,3,3,1,2021,2025,false,unresolved
 Missouri 1945 and Rule 84.05,missouri 1945 and rule 84.05,Court Rule,state_rule,MO,3,3,2,1963,1963,false,unresolved
 Missouri Civil Rule 78.04,missouri civil rule 78.04,Court Rule,state_rule,MO,3,3,2,2009,2011,true,exact
@@ -524,7 +529,6 @@ Missouri Rule 52.12,missouri rule 52.12,Court Rule,state_rule,MO,3,3,3,2012,2021
 Missouri Rule 54.16,missouri rule 54.16,Court Rule,state_rule,MO,3,1,1,2025,2025,true,exact
 Missouri Rule 57.01,missouri rule 57.01,Court Rule,state_rule,MO,3,3,1,1966,1987,true,exact
 Missouri Rule 57.03,missouri rule 57.03,Court Rule,state_rule,MO,3,2,1,1978,1997,true,exact
-Missouri Rule 75.01,missouri rule 75.01,Court Rule,state_rule,MO,3,3,2,1991,1997,true,exact
 Missouri Rule 84.-04,missouri rule 84.-04,Court Rule,state_rule,MO,3,1,1,1976,1976,true,exact
 Missouri Rule 91.01,missouri rule 91.01,Court Rule,state_rule,MO,3,2,1,1989,1989,true,exact
 Missouri Rule 91.02,missouri rule 91.02,Court Rule,state_rule,MO,3,2,1,1989,1989,true,exact
@@ -553,14 +557,13 @@ Missouri Rules of Criminal Procedure Rule 27.20,missouri rules of criminal proce
 Missouri Rules of Criminal Procedure Rule 27.25,missouri rules of criminal procedure rule 27.25,Court Rule,state_rule,MO,3,1,1,1978,1978,false,unresolved
 Missouri Rules of Criminal Procedure Rule 29.05,missouri rules of criminal procedure rule 29.05,Court Rule,state_rule,MO,3,3,2,1989,1995,true,exact
 Missouri Rules of Criminal Procedure Rule 30.04,missouri rules of criminal procedure rule 30.04,Court Rule,state_rule,MO,3,3,1,1987,1988,true,exact
+Missouri Supreme Court Rule 103.06,missouri supreme court rule 103.06,Court Rule,state_rule,MO,3,1,1,2019,2024,true,exact
 Missouri Supreme Court Rule 20.01,missouri supreme court rule 20.01,Court Rule,state_rule,MO,3,2,1,2021,2021,true,exact
 Missouri Supreme Court Rule 22,missouri supreme court rule 22,Court Rule,state_rule,MO,3,3,1,2004,2004,false,unresolved
 Missouri Supreme Court Rule 23.03,missouri supreme court rule 23.03,Court Rule,state_rule,MO,3,2,2,2004,2020,true,exact
-Missouri Supreme Court Rule 23.08,missouri supreme court rule 23.08,Court Rule,state_rule,MO,3,3,1,1994,2019,true,exact
 Missouri Supreme Court Rule 24.03,missouri supreme court rule 24.03,Court Rule,state_rule,MO,3,2,1,1989,1989,true,exact
 Missouri Supreme Court Rule 27.05,missouri supreme court rule 27.05,Court Rule,state_rule,MO,3,3,1,1996,2018,true,exact
 Missouri Supreme Court Rule 28.02,missouri supreme court rule 28.02,Court Rule,state_rule,MO,3,3,2,1971,2016,true,exact
-Missouri Supreme Court Rule 29.01,missouri supreme court rule 29.01,Court Rule,state_rule,MO,3,2,2,1983,2021,true,exact
 Missouri Supreme Court Rule 29.12,missouri supreme court rule 29.12,Court Rule,state_rule,MO,3,3,2,2002,2023,true,exact
 Missouri Supreme Court Rule 29.15.1,missouri supreme court rule 29.15.1,Court Rule,state_rule,MO,3,3,1,2023,2025,false,unresolved
 Missouri Supreme Court Rule 30.23,missouri supreme court rule 30.23,Court Rule,state_rule,MO,3,2,1,2011,2018,true,exact
@@ -575,10 +578,10 @@ Missouri Supreme Court Rule 54.12,missouri supreme court rule 54.12,Court Rule,s
 Missouri Supreme Court Rule 67.06,missouri supreme court rule 67.06,Court Rule,state_rule,MO,3,3,1,1989,2022,true,exact
 Missouri Supreme Court Rule 68,missouri supreme court rule 68,Court Rule,state_rule,MO,3,2,1,2001,2002,false,unresolved
 Missouri Supreme Court Rule 78.04,missouri supreme court rule 78.04,Court Rule,state_rule,MO,3,3,2,1975,2024,true,exact
-Missouri Supreme Court Rule 78.06,missouri supreme court rule 78.06,Court Rule,state_rule,MO,3,3,1,2005,2007,true,exact
 Missouri Supreme Court Rule 81.07,missouri supreme court rule 81.07,Court Rule,state_rule,MO,3,3,3,1983,2024,true,exact
 Missouri Supreme Court Rule 83.04,missouri supreme court rule 83.04,Court Rule,state_rule,MO,3,3,2,2008,2009,true,exact
 Missouri Supreme Court Rule 84.17,missouri supreme court rule 84.17,Court Rule,state_rule,MO,3,2,2,1980,2020,true,exact
+Missouri Supreme Court Rule 84.24,missouri supreme court rule 84.24,Court Rule,state_rule,MO,3,2,1,2014,2015,true,exact
 Missouri Supreme Court Rule 94,missouri supreme court rule 94,Court Rule,state_rule,MO,3,3,2,1996,2020,false,unresolved
 Missouri Supreme Court Rule 99,missouri supreme court rule 99,Court Rule,state_rule,MO,3,2,2,1987,2024,false,unresolved
 Missouri Supreme Court Rules 2018,missouri supreme court rules 2018,Court Rule,state_rule,MO,3,3,1,2019,2021,false,unresolved
@@ -620,7 +623,6 @@ Mo. R. Crim. P. 2011,mo. r. crim. p. 2011,Court Rule,state_rule,MO,3,3,1,2015,20
 Mo. R. Crim. P. 24.02,mo. r. crim. p. 24.02,Court Rule,state_rule,MO,3,3,2,2016,2019,true,exact
 Mo. R. Crim. P. 28.02,mo. r. crim. p. 28.02,Court Rule,state_rule,MO,3,2,2,2017,2024,true,exact
 Mo. R. Crim. P. 33.01,mo. r. crim. p. 33.01,Court Rule,state_rule,MO,3,2,2,2020,2024,true,exact
-Mo. R. Crv. P. 84.16,mo. r. crv. p. 84.16,Court Rule,state_rule,MO,3,3,1,2016,2017,false,unresolved
 Mo. R. Juv. P. 110.04,mo. r. juv. p. 110.04,Court Rule,state_rule,MO,3,1,1,2025,2025,true,exact
 Mo. R.C.R.P. Rule 24.035,mo. r.c.r.p. rule 24.035,Court Rule,state_rule,MO,3,3,1,2004,2004,false,unresolved
 Mo. R.C.R.P. Rule 29.15,mo. r.c.r.p. rule 29.15,Court Rule,state_rule,MO,3,3,1,2004,2004,false,unresolved
@@ -640,6 +642,7 @@ Mo. Sup. Ct. R. 25.05,mo. sup. ct. r. 25.05,Court Rule,state_rule,MO,3,3,2,1983,
 Mo. Sup. Ct. R. 27.20,mo. sup. ct. r. 27.20,Court Rule,state_rule,MO,3,1,1,1977,1977,false,unresolved
 Mo. Sup. Ct. R. 27.26,mo. sup. ct. r. 27.26,Court Rule,state_rule,MO,3,2,1,1998,1999,true,exact
 Mo. Sup. Ct. R. 28.01,mo. sup. ct. r. 28.01,Court Rule,state_rule,MO,3,3,1,2018,2023,true,exact
+Mo. Sup. Ct. R. 29.07,mo. sup. ct. r. 29.07,Court Rule,state_rule,MO,3,2,2,1999,2018,true,exact
 Mo. Sup. Ct. R. 30.03,mo. sup. ct. r. 30.03,Court Rule,state_rule,MO,3,2,2,2018,2021,true,exact
 Mo. Sup. Ct. R. 33.05,mo. sup. ct. r. 33.05,Court Rule,state_rule,MO,3,3,1,2020,2023,true,exact
 Mo. Sup. Ct. R. 33.09,mo. sup. ct. r. 33.09,Court Rule,state_rule,MO,3,3,1,2020,2023,true,exact
@@ -688,7 +691,6 @@ W.D. Mo. L.R. 56.1,w.d. mo. l.r. 56.1,Court Rule,local_rule,MO,3,3,3,2016,2025,f
 W.D. Mo. Local R. 7.1,w.d. mo. local r. 7.1,Court Rule,local_rule,MO,3,3,1,2008,2008,false,unresolved
 W.D. Mo. R. 83.5,w.d. mo. r. 83.5,Court Rule,local_rule,MO,3,3,1,1999,2005,false,unresolved
 W.D. Special Rule 31,w.d. special rule 31,Court Rule,local_rule,MO,3,3,1,2023,2025,false,unresolved
-1 Missouri Supreme Court Rule 54.13,1 missouri supreme court rule 54.13,Court Rule,state_rule,MO,2,2,1,2022,2024,false,unresolved
 1 Mo. C.C. R. 27,1 mo. c.c. r. 27,Court Rule,state_rule,MO,2,1,1,1867,1867,false,unresolved
 1 Mo. C.C. R. 452,1 mo. c.c. r. 452,Court Rule,state_rule,MO,2,1,1,1867,1867,false,unresolved
 1 Mo. R. 282,1 mo. r. 282,Court Rule,state_rule,MO,2,2,1,1848,1850,false,unresolved
@@ -731,8 +733,6 @@ W.D. Special Rule 31,w.d. special rule 31,Court Rule,local_rule,MO,3,3,1,2023,20
 19 C.S.R. § 30-40.430,19 c.s.r. § 30-40.430,Court Rule,state_rule,MO,2,1,1,2022,2022,true,exact
 19 C.S.R. § 30-62.082,19 c.s.r. § 30-62.082,Court Rule,state_rule,MO,2,1,1,2014,2014,true,exact
 19 Mo. R. 517,19 mo. r. 517,Court Rule,state_rule,MO,2,1,1,1859,1859,false,unresolved
-2 Missouri Supreme Court Rule 84.05,2 missouri supreme court rule 84.05,Court Rule,state_rule,MO,2,2,1,2019,2020,false,unresolved
-2 Missouri Supreme Court Rule 84.24,2 missouri supreme court rule 84.24,Court Rule,state_rule,MO,2,2,1,2014,2015,false,unresolved
 2 Missouri Supreme Court Rule 91,2 missouri supreme court rule 91,Court Rule,state_rule,MO,2,2,1,2010,2010,false,unresolved
 20 C.S.R. § 2233-2.040,20 c.s.r. § 2233-2.040,Court Rule,state_rule,MO,2,1,1,2013,2013,true,exact
 20 C.S.R. § 500-2.100,20 c.s.r. § 500-2.100,Court Rule,state_rule,MO,2,2,1,1998,2006,true,exact
@@ -757,7 +757,6 @@ W.D. Special Rule 31,w.d. special rule 31,Court Rule,local_rule,MO,3,3,1,2023,20
 28 Mo. L.R. 121,28 mo. l.r. 121,Court Rule,local_rule,MO,2,2,1,1972,1972,false,unresolved
 290 (Mo. banc 1996). Rule 29.15,290 (mo. banc 1996). rule 29.15,Court Rule,state_rule,MO,2,2,1,2015,2015,false,unresolved
 298 (Mo. banc 1992). Rule 29.15,298 (mo. banc 1992). rule 29.15,Court Rule,state_rule,MO,2,2,1,2018,2021,false,unresolved
-3 Missouri Supreme Court Rule 27.26,3 missouri supreme court rule 27.26,Court Rule,state_rule,MO,2,2,1,1994,1998,false,unresolved
 3 Mo. R. 367,3 mo. r. 367,Court Rule,state_rule,MO,2,2,1,1846,1850,false,unresolved
 3 Mo. R. 369,3 mo. r. 369,Court Rule,state_rule,MO,2,1,1,1838,1838,false,unresolved
 3 Mo. R. 88,3 mo. r. 88,Court Rule,state_rule,MO,2,2,2,1848,1933,false,unresolved
@@ -813,7 +812,6 @@ W.D. Special Rule 31,w.d. special rule 31,Court Rule,local_rule,MO,3,3,1,2023,20
 433 (Mo.App.1992). Rule 24.10,433 (mo.app.1992). rule 24.10,Court Rule,state_rule,MO,2,2,1,1996,1996,false,unresolved
 44 Mo. R. 547,44 mo. r. 547,Court Rule,state_rule,MO,2,2,1,1875,1875,false,unresolved
 448-49 (Mo.App.1990) Rule 88.01,448-49 (mo.app.1990) rule 88.01,Court Rule,state_rule,MO,2,2,1,1991,1991,false,unresolved
-45 C.E.R. § 164.508,45 c.e.r. § 164.508,Court Rule,state_rule,MO,2,1,1,2009,2009,false,unresolved
 45 Mo. L.R. 476,45 mo. l.r. 476,Court Rule,local_rule,MO,2,1,1,1982,1982,false,unresolved
 45 Mo. L.R. 771,45 mo. l.r. 771,Court Rule,local_rule,MO,2,2,1,1983,1983,false,unresolved
 450 (Mo. banc 1994). Rule 74.01,450 (mo. banc 1994). rule 74.01,Court Rule,state_rule,MO,2,2,1,1996,2000,false,unresolved
@@ -862,7 +860,6 @@ W.D. Special Rule 31,w.d. special rule 31,Court Rule,local_rule,MO,3,3,1,2023,20
 740 (Mo.App.1991). Rule 74.06,740 (mo.app.1991). rule 74.06,Court Rule,state_rule,MO,2,2,1,2001,2001,false,unresolved
 "741 (Mo.App.1962), and Rule 37.18","741 (mo.app.1962), and rule 37.18",Court Rule,state_rule,MO,2,2,1,1975,1976,false,unresolved
 753 (Mo.App.1983). Rule 81.06,753 (mo.app.1983). rule 81.06,Court Rule,state_rule,MO,2,2,2,1985,1987,false,unresolved
-760 (Mo.1965)). Missouri Supreme Court Rule 78.07,760 (mo.1965)). missouri supreme court rule 78.07,Court Rule,state_rule,MO,2,2,1,2009,2009,false,unresolved
 781 (Mo.App.1993). Rule 84.04,781 (mo.app.1993). rule 84.04,Court Rule,state_rule,MO,2,2,1,1996,1998,false,unresolved
 8 C.S.R. § 10-5.015,8 c.s.r. § 10-5.015,Court Rule,state_rule,MO,2,1,1,2013,2013,true,exact
 8 C.S.R. § 10-5.10,8 c.s.r. § 10-5.10,Court Rule,state_rule,MO,2,2,1,2023,2024,false,unresolved
@@ -901,7 +898,6 @@ District of Missouri. Local Rule 33,district of missouri. local rule 33,Court Ru
 District of Missouri. Rule 13,district of missouri. rule 13,Court Rule,state_rule,MO,2,2,1,1983,1983,false,unresolved
 E.D Mo. L.R. 4.01,e.d mo. l.r. 4.01,Court Rule,local_rule,MO,2,1,1,2026,2026,true,exact
 E.D. Mo. L.R. 54-8.03,e.d. mo. l.r. 54-8.03,Court Rule,local_rule,MO,2,2,1,2001,2001,false,unresolved
-E.D. Mo. L.R. 8.02,e.d. mo. l.r. 8.02,Court Rule,local_rule,MO,2,2,1,2020,2021,true,exact
 E.D. Mo. Local R. 83-12.02,e.d. mo. local r. 83-12.02,Court Rule,local_rule,MO,2,2,1,2005,2005,false,unresolved
 E.D. Mo. Local Rule 2.17,e.d. mo. local rule 2.17,Court Rule,local_rule,MO,2,2,1,2024,2025,true,exact
 E.D. Mo. Local Rule 8.02,e.d. mo. local rule 8.02,Court Rule,local_rule,MO,2,2,1,2022,2023,true,exact
@@ -913,11 +909,8 @@ E.D. Mo. Rule 8,e.d. mo. rule 8,Court Rule,local_rule,MO,2,2,1,1962,1962,false,u
 E.D. Rule 395,e.d. rule 395,Court Rule,local_rule,MO,2,2,1,2014,2014,false,unresolved
 Fed.Civ. Rule 19,fed.civ. rule 19,Court Rule,state_rule,MO,2,2,1,1974,1974,false,unresolved
 Fed.Civ. Rules 19,fed.civ. rules 19,Court Rule,state_rule,MO,2,2,1,1974,1974,false,unresolved
-H.R. 700 § 36,h.r. 700 § 36,Court Rule,state_rule,MO,2,2,1,1987,1987,false,unresolved
-H.R. 700 § 84th,h.r. 700 § 84th,Court Rule,state_rule,MO,2,2,1,1987,1987,false,unresolved
 K.A.R. § 102-5-5,k.a.r. § 102-5-5,Court Rule,state_rule,MO,2,1,1,2013,2013,true,exact
 K.A.R. § 30-5-70,k.a.r. § 30-5-70,Court Rule,state_rule,MO,2,1,1,2020,2020,true,exact
-"L.Rev. 461, 464-469 (1993). Missouri Rule 75.01","l.rev. 461, 464-469 (1993). missouri rule 75.01",Court Rule,state_rule,MO,2,2,1,1997,1997,false,unresolved
 Missouri (Mo. Supreme Court Rule 6,missouri (mo. supreme court rule 6,Court Rule,state_rule,MO,2,2,1,1961,1961,false,unresolved
 Missouri Appellate Rule Local Rule 380,missouri appellate rule local rule 380,Court Rule,local_rule,MO,2,1,1,2025,2025,false,unresolved
 Missouri Civil Rule 54.06,missouri civil rule 54.06,Court Rule,state_rule,MO,2,1,1,1970,1970,true,exact
@@ -974,6 +967,7 @@ Missouri Rule 52.04,missouri rule 52.04,Court Rule,state_rule,MO,2,2,1,1973,1984
 Missouri Rule 52.09,missouri rule 52.09,Court Rule,state_rule,MO,2,1,1,2016,2016,true,exact
 Missouri Rule 54.13,missouri rule 54.13,Court Rule,state_rule,MO,2,1,1,2025,2025,true,exact
 Missouri Rule 55.05,missouri rule 55.05,Court Rule,state_rule,MO,2,2,1,1995,2012,true,exact
+Missouri Rule 55.28,missouri rule 55.28,Court Rule,state_rule,MO,2,1,1,1989,1989,true,exact
 Missouri Rule 57.09,missouri rule 57.09,Court Rule,state_rule,MO,2,2,1,1978,2005,true,exact
 Missouri Rule 68.01,missouri rule 68.01,Court Rule,state_rule,MO,2,1,1,2001,2001,true,exact
 Missouri Rule 73.01,missouri rule 73.01,Court Rule,state_rule,MO,2,2,1,1990,1999,true,exact
@@ -1064,14 +1058,13 @@ Missouri Rules of Criminal Procedure Rule 33.14,missouri rules of criminal proce
 Missouri Rules of Criminal Procedure. Rule 25.03,missouri rules of criminal procedure. rule 25.03,Court Rule,state_rule,MO,2,1,1,1984,1984,true,exact
 Missouri Rules of Criminal Procedure. Rule 29.15,missouri rules of criminal procedure. rule 29.15,Court Rule,state_rule,MO,2,1,1,1999,1999,true,exact
 Missouri Supreme Court Rule 1.08,missouri supreme court rule 1.08,Court Rule,state_rule,MO,2,2,1,1953,1960,false,unresolved
-Missouri Supreme Court Rule 103.06,missouri supreme court rule 103.06,Court Rule,state_rule,MO,2,1,1,2024,2024,true,exact
 Missouri Supreme Court Rule 116.02,missouri supreme court rule 116.02,Court Rule,state_rule,MO,2,1,1,2021,2021,true,exact
 Missouri Supreme Court Rule 12,missouri supreme court rule 12,Court Rule,state_rule,MO,2,2,1,1975,1975,true,container
 Missouri Supreme Court Rule 12.06,missouri supreme court rule 12.06,Court Rule,state_rule,MO,2,2,1,1998,1998,true,exact
 Missouri Supreme Court Rule 2-2.11,missouri supreme court rule 2-2.11,Court Rule,state_rule,MO,2,2,1,2016,2018,true,exact
 Missouri Supreme Court Rule 2.04,missouri supreme court rule 2.04,Court Rule,state_rule,MO,2,2,1,2006,2006,false,unresolved
 Missouri Supreme Court Rule 21.08,missouri supreme court rule 21.08,Court Rule,state_rule,MO,2,2,2,1966,1976,true,exact
-Missouri Supreme Court Rule 23.01,missouri supreme court rule 23.01,Court Rule,state_rule,MO,2,2,1,2006,2016,true,exact
+Missouri Supreme Court Rule 22.03,missouri supreme court rule 22.03,Court Rule,state_rule,MO,2,1,1,1999,2000,true,exact
 Missouri Supreme Court Rule 23.06,missouri supreme court rule 23.06,Court Rule,state_rule,MO,2,2,2,1975,1993,true,exact
 Missouri Supreme Court Rule 23.11,missouri supreme court rule 23.11,Court Rule,state_rule,MO,2,2,1,1988,1989,true,exact
 Missouri Supreme Court Rule 24.035.4,missouri supreme court rule 24.035.4,Court Rule,state_rule,MO,2,2,2,2021,2023,false,unresolved
@@ -1094,6 +1087,7 @@ Missouri Supreme Court Rule 4-1.1,missouri supreme court rule 4-1.1,Court Rule,s
 Missouri Supreme Court Rule 4-1.3,missouri supreme court rule 4-1.3,Court Rule,state_rule,MO,2,2,1,2018,2022,true,exact
 Missouri Supreme Court Rule 4-10.1,missouri supreme court rule 4-10.1,Court Rule,state_rule,MO,2,1,1,2000,2000,false,unresolved
 Missouri Supreme Court Rule 4-3.4,missouri supreme court rule 4-3.4,Court Rule,state_rule,MO,2,1,1,2021,2021,true,exact
+Missouri Supreme Court Rule 4-3.8,missouri supreme court rule 4-3.8,Court Rule,state_rule,MO,2,1,1,2017,2024,true,exact
 Missouri Supreme Court Rule 4.34,missouri supreme court rule 4.34,Court Rule,state_rule,MO,2,2,2,1981,1996,false,unresolved
 Missouri Supreme Court Rule 43.01,missouri supreme court rule 43.01,Court Rule,state_rule,MO,2,2,2,2020,2022,true,exact
 Missouri Supreme Court Rule 5.12,missouri supreme court rule 5.12,Court Rule,state_rule,MO,2,2,1,2024,2024,true,exact
@@ -1112,6 +1106,7 @@ Missouri Supreme Court Rule 74.32,missouri supreme court rule 74.32,Court Rule,s
 Missouri Supreme Court Rule 77.04,missouri supreme court rule 77.04,Court Rule,state_rule,MO,2,2,1,2003,2004,true,exact
 Missouri Supreme Court Rule 83,missouri supreme court rule 83,Court Rule,state_rule,MO,2,1,1,1980,1980,false,unresolved
 Missouri Supreme Court Rule 84.02,missouri supreme court rule 84.02,Court Rule,state_rule,MO,2,2,2,1971,1971,true,exact
+Missouri Supreme Court Rule 85.08,missouri supreme court rule 85.08,Court Rule,state_rule,MO,2,1,1,2022,2022,true,exact
 Missouri Supreme Court Rule 86,missouri supreme court rule 86,Court Rule,state_rule,MO,2,2,1,2010,2010,false,unresolved
 Missouri Supreme Court Rule 87.04,missouri supreme court rule 87.04,Court Rule,state_rule,MO,2,2,1,2006,2021,true,exact
 Missouri Supreme Court Rule 90.07,missouri supreme court rule 90.07,Court Rule,state_rule,MO,2,2,2,2006,2011,true,exact
@@ -1256,7 +1251,6 @@ Mo. Sup. Ct. R. 22.04,mo. sup. ct. r. 22.04,Court Rule,state_rule,MO,2,1,1,2004,
 Mo. Sup. Ct. R. 23.03,mo. sup. ct. r. 23.03,Court Rule,state_rule,MO,2,2,2,2016,2020,true,exact
 Mo. Sup. Ct. R. 23.05,mo. sup. ct. r. 23.05,Court Rule,state_rule,MO,2,2,1,2021,2021,true,exact
 Mo. Sup. Ct. R. 24.02,mo. sup. ct. r. 24.02,Court Rule,state_rule,MO,2,2,2,2017,2019,true,exact
-Mo. Sup. Ct. R. 29.07,mo. sup. ct. r. 29.07,Court Rule,state_rule,MO,2,2,2,2012,2018,true,exact
 Mo. Sup. Ct. R. 30.20,mo. sup. ct. r. 30.20,Court Rule,state_rule,MO,2,2,2,2002,2020,true,exact
 Mo. Sup. Ct. R. 33.01,mo. sup. ct. r. 33.01,Court Rule,state_rule,MO,2,2,1,2020,2020,true,exact
 Mo. Sup. Ct. R. 4,mo. sup. ct. r. 4,Court Rule,state_rule,MO,2,2,1,2010,2022,false,unresolved
@@ -1435,17 +1429,11 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 1 C.S.R. § 15-3.446,1 c.s.r. § 15-3.446,Court Rule,state_rule,MO,1,1,1,2013,2013,true,exact
 1 C.S.R. § 20-1.020,1 c.s.r. § 20-1.020,Court Rule,state_rule,MO,1,1,1,2022,2022,true,exact
 1 C.S.R. § 20-5.020,1 c.s.r. § 20-5.020,Court Rule,state_rule,MO,1,1,1,2022,2022,true,exact
-1 E.D. Mo. L.R. 3.04,1 e.d. mo. l.r. 3.04,Court Rule,local_rule,MO,1,1,1,2020,2020,false,unresolved
-1 E.D. Mo. L.R. 4.01,1 e.d. mo. l.r. 4.01,Court Rule,local_rule,MO,1,1,1,2021,2021,false,unresolved
 1 Missouri Court Rules (2013). Rule 29.15,1 missouri court rules (2013). rule 29.15,Court Rule,state_rule,MO,1,1,1,2022,2022,false,unresolved
 1 Missouri R. 279,1 missouri r. 279,Court Rule,state_rule,MO,1,1,1,1872,1872,false,unresolved
 1 Missouri R. 282,1 missouri r. 282,Court Rule,state_rule,MO,1,1,1,1798,1798,false,unresolved
 1 Missouri R. 315,1 missouri r. 315,Court Rule,state_rule,MO,1,1,1,1857,1857,false,unresolved
 1 Missouri Rule 27.050,1 missouri rule 27.050,Court Rule,state_rule,MO,1,1,1,2023,2023,false,unresolved
-1 Missouri Supreme Court Rule 24.035,1 missouri supreme court rule 24.035,Court Rule,state_rule,MO,1,1,1,2025,2025,false,unresolved
-1 Missouri Supreme Court Rule 55.27,1 missouri supreme court rule 55.27,Court Rule,state_rule,MO,1,1,1,2018,2018,false,unresolved
-1 Missouri Supreme Court Rule 81.04,1 missouri supreme court rule 81.04,Court Rule,state_rule,MO,1,1,1,1995,1995,false,unresolved
-1 Missouri Supreme Court Rule 81.12,1 missouri supreme court rule 81.12,Court Rule,state_rule,MO,1,1,1,2003,2003,false,unresolved
 1 Missouri Supreme Court Rule 91,1 missouri supreme court rule 91,Court Rule,state_rule,MO,1,1,1,2024,2024,false,unresolved
 "1 Missouri, R. 5","1 missouri, r. 5",Court Rule,state_rule,MO,1,1,1,1853,1853,false,unresolved
 1 Mo. & R. 464,1 mo. & r. 464,Court Rule,state_rule,MO,1,1,1,1866,1866,false,unresolved
@@ -1484,7 +1472,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 "10 Missouri Practice, Rule 93.01","10 missouri practice, rule 93.01",Court Rule,state_rule,MO,1,1,1,1992,1992,false,unresolved
 10 Missouri R. 473,10 missouri r. 473,Court Rule,state_rule,MO,1,1,1,1857,1857,false,unresolved
 10 Missouri R. 593,10 missouri r. 593,Court Rule,state_rule,MO,1,1,1,1854,1854,false,unresolved
-10 Missouri Supreme Court Rule 29.15,10 missouri supreme court rule 29.15,Court Rule,state_rule,MO,1,1,1,1995,1995,false,unresolved
 10 Mo. C.S. R. 10-6.165,10 mo. c.s. r. 10-6.165,Court Rule,state_rule,MO,1,1,1,2019,2019,false,unresolved
 10 Mo. L.R. 1,10 mo. l.r. 1,Court Rule,local_rule,MO,1,1,1,1960,1960,false,unresolved
 10 Mo. L.R. 147,10 mo. l.r. 147,Court Rule,local_rule,MO,1,1,1,1955,1955,false,unresolved
@@ -1533,7 +1520,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 11 Missouri R. 347,11 missouri r. 347,Court Rule,state_rule,MO,1,1,1,1855,1855,false,unresolved
 11 Missouri R. 379,11 missouri r. 379,Court Rule,state_rule,MO,1,1,1,1855,1855,false,unresolved
 11 Missouri R. 59,11 missouri r. 59,Court Rule,state_rule,MO,1,1,1,1855,1855,false,unresolved
-11 Missouri Rule 52.02,11 missouri rule 52.02,Court Rule,state_rule,MO,1,1,1,2016,2016,false,unresolved
 11 Mo. R. 116,11 mo. r. 116,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 11 Mo. R. 131,11 mo. r. 131,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 11 Mo. R. 133,11 mo. r. 133,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
@@ -1613,8 +1599,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 13 Mo. R. 330,13 mo. r. 330,Court Rule,state_rule,MO,1,1,1,1848,1848,false,unresolved
 13 Mo. R. 519,13 mo. r. 519,Court Rule,state_rule,MO,1,1,1,1859,1859,false,unresolved
 "13 Sm. & Marsh. R. 264, and 9 Mo. R. 286","13 sm. & marsh. r. 264, and 9 mo. r. 286",Court Rule,state_rule,MO,1,1,1,1853,1853,false,unresolved
-130 (Mo. App.1978). Missouri Supreme Court Rule 23.01,130 (mo. app.1978). missouri supreme court rule 23.01,Court Rule,state_rule,MO,1,1,1,1987,1987,false,unresolved
-130 (Mo.App.1978). Missouri Supreme Court Rule 23.01,130 (mo.app.1978). missouri supreme court rule 23.01,Court Rule,state_rule,MO,1,1,1,1987,1987,false,unresolved
 131 (Mo.App.1973). Rule 81.06,131 (mo.app.1973). rule 81.06,Court Rule,state_rule,MO,1,1,1,1984,1984,false,unresolved
 134 (Mo.App.1999). Rule 84.04,134 (mo.app.1999). rule 84.04,Court Rule,state_rule,MO,1,1,1,2001,2001,false,unresolved
 136 (Mo.App. 1985)). Rule 55.27,136 (mo.app. 1985)). rule 55.27,Court Rule,state_rule,MO,1,1,1,2019,2019,false,unresolved
@@ -1651,7 +1635,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 147 (Mo.App.2000). Rule 84.04,147 (mo.app.2000). rule 84.04,Court Rule,state_rule,MO,1,1,1,2001,2001,false,unresolved
 149 (Mo. banc 1998). Ervin's Rule 29.15,149 (mo. banc 1998). ervin's rule 29.15,Court Rule,state_rule,MO,1,1,1,2002,2002,false,unresolved
 149 (Mo.App.2000). Rule 84.04,149 (mo.app.2000). rule 84.04,Court Rule,state_rule,MO,1,1,1,2001,2001,false,unresolved
-15 (Mo. App.1983). Missouri Supreme Court Rule 23.08,15 (mo. app.1983). missouri supreme court rule 23.08,Court Rule,state_rule,MO,1,1,1,1985,1985,false,unresolved
 15 (Mo.App.1992). New Rule 74.05,15 (mo.app.1992). new rule 74.05,Court Rule,state_rule,MO,1,1,1,1993,1993,false,unresolved
 15 C.S.R. § 30-10.060,15 c.s.r. § 30-10.060,Court Rule,state_rule,MO,1,1,1,2020,2020,true,exact
 15 C.S.R. § 30-10.110,15 c.s.r. § 30-10.110,Court Rule,state_rule,MO,1,1,1,2020,2020,true,exact
@@ -1685,7 +1668,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 154 (Mo.App.1988). Rule 24.-02,154 (mo.app.1988). rule 24.-02,Court Rule,state_rule,MO,1,1,1,1993,1993,false,unresolved
 156 (Mo.App.1989). Rule 15,156 (mo.app.1989). rule 15,Court Rule,state_rule,MO,1,1,1,1989,1989,false,unresolved
 157 (Mo.App.1980). Rule 27.26,157 (mo.app.1980). rule 27.26,Court Rule,state_rule,MO,1,1,1,1982,1982,false,unresolved
-158-59 (Mo. App. 1977). Missouri Supreme Court Rule 29.07,158-59 (mo. app. 1977). missouri supreme court rule 29.07,Court Rule,state_rule,MO,1,1,1,2017,2017,false,unresolved
 "159 (Mo.App., E.D.1987). Rule 29.15","159 (mo.app., e.d.1987). rule 29.15",Court Rule,local_rule,MO,1,1,1,1989,1989,false,unresolved
 16 D. L.R. 67,16 d. l.r. 67,Court Rule,local_rule,MO,1,1,1,1931,1931,false,unresolved
 "16 Missouri Practice, Civil Rules Practice § 74.04:2","16 missouri practice, civil rules practice § 74.04:2",Court Rule,state_rule,MO,1,1,1,2017,2017,false,unresolved
@@ -1740,7 +1722,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 176 (Mo.App.1991). Rule 70.02,176 (mo.app.1991). rule 70.02,Court Rule,state_rule,MO,1,1,1,1993,1993,false,unresolved
 177 (Mo.App.1974) and Rule 84.14,177 (mo.app.1974) and rule 84.14,Court Rule,state_rule,MO,1,1,1,1980,1980,false,unresolved
 177 (Mo.App.1988). Rule 29.15,177 (mo.app.1988). rule 29.15,Court Rule,state_rule,MO,1,1,1,1989,1989,false,unresolved
-178 (Mo.App.1984). Missouri Rule 27.26,178 (mo.app.1984). missouri rule 27.26,Court Rule,state_rule,MO,1,1,1,1989,1989,false,unresolved
 178-79 (Mo.App.E.D.2006). Rule 70.20,178-79 (mo.app.e.d.2006). rule 70.20,Court Rule,local_rule,MO,1,1,1,2013,2013,false,unresolved
 "17A Missouri Practice, Civil Rules Practice § 87.04:1","17a missouri practice, civil rules practice § 87.04:1",Court Rule,state_rule,MO,1,1,1,2014,2014,false,unresolved
 "17A Mo. Prac., Civil Rules Practice § 86.03:2","17a mo. prac., civil rules practice § 86.03:2",Court Rule,state_rule,MO,1,1,1,2022,2022,false,unresolved
@@ -1776,7 +1757,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 19 Mo. R. 551,19 mo. r. 551,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 19 Mo. R. 660,19 mo. r. 660,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 19 Mo. R. 674,19 mo. r. 674,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
-19 R. C.L. 1084 § 371,19 r. c.l. 1084 § 371,Court Rule,state_rule,MO,1,1,1,1959,1959,false,unresolved
 "191 (Mo.App.1980), Rule 81.06","191 (mo.app.1980), rule 81.06",Court Rule,state_rule,MO,1,1,1,1983,1983,false,unresolved
 192 (Mo.App.1995). Rule 84.19,192 (mo.app.1995). rule 84.19,Court Rule,state_rule,MO,1,1,1,1996,1996,false,unresolved
 193 (Mo.App. W.D.1995). Rule 74.04,193 (mo.app. w.d.1995). rule 74.04,Court Rule,local_rule,MO,1,1,1,2002,2002,false,unresolved
@@ -1787,8 +1767,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 2 Missouri R. 29,2 missouri r. 29,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 2 Missouri R. 35,2 missouri r. 35,Court Rule,state_rule,MO,1,1,1,1844,1844,false,unresolved
 2 Missouri Rule 24.14,2 missouri rule 24.14,Court Rule,state_rule,MO,1,1,1,1976,1976,false,unresolved
-2 Missouri Supreme Court Rule 74.04,2 missouri supreme court rule 74.04,Court Rule,state_rule,MO,1,1,1,2020,2020,false,unresolved
-2 Missouri Supreme Court Rule 87.02,2 missouri supreme court rule 87.02,Court Rule,state_rule,MO,1,1,1,1996,1996,false,unresolved
 2 Mo. & R. 122,2 mo. & r. 122,Court Rule,state_rule,MO,1,1,1,1902,1902,false,unresolved
 2 Mo. L.R. 300,2 mo. l.r. 300,Court Rule,local_rule,MO,1,1,1,1945,1945,false,unresolved
 2 Mo. Local Government Law § 12.13,2 mo. local government law § 12.13,Court Rule,local_rule,MO,1,1,1,1987,1987,false,unresolved
@@ -1811,7 +1789,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 2 vol. Missouri R. 231,2 vol. missouri r. 231,Court Rule,state_rule,MO,1,1,1,1835,1835,false,unresolved
 2 vol. Mo. R. 231,2 vol. mo. r. 231,Court Rule,state_rule,MO,1,1,1,1834,1834,false,unresolved
 2 vol. Mo. R. 56,2 vol. mo. r. 56,Court Rule,state_rule,MO,1,1,1,1841,1841,false,unresolved
-20 (Missouri Rule 52.05,20 (missouri rule 52.05,Court Rule,state_rule,MO,1,1,1,1983,1983,false,unresolved
 20 (Mo.App.1975). Rule 24.02,20 (mo.app.1975). rule 24.02,Court Rule,state_rule,MO,1,1,1,2000,2000,false,unresolved
 20 C.S.R. § 4240-3.160,20 c.s.r. § 4240-3.160,Court Rule,state_rule,MO,1,1,1,2021,2021,true,exact
 20 Mo. L.R. 87,20 mo. l.r. 87,Court Rule,local_rule,MO,1,1,1,1958,1958,false,unresolved
@@ -1956,7 +1933,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 271 (Mo. banc 1984). Rule 55.08,271 (mo. banc 1984). rule 55.08,Court Rule,state_rule,MO,1,1,1,2009,2009,false,unresolved
 271 (Mo.App.1995). Rule 30.04,271 (mo.app.1995). rule 30.04,Court Rule,state_rule,MO,1,1,1,1996,1996,false,unresolved
 271 (Mo.App.W.D.1995). Supreme Court Rule 51.03,271 (mo.app.w.d.1995). supreme court rule 51.03,Court Rule,local_rule,MO,1,1,1,1998,1998,false,unresolved
-2723 (2d ed. 1983)). Missouri Rule 55.28,2723 (2d ed. 1983)). missouri rule 55.28,Court Rule,state_rule,MO,1,1,1,1989,1989,false,unresolved
 276 (Mo.App.1986). Rule 9,276 (mo.app.1986). rule 9,Court Rule,state_rule,MO,1,1,1,1987,1987,false,unresolved
 28 (Mo. banc 1988). Rule 52.13,28 (mo. banc 1988). rule 52.13,Court Rule,state_rule,MO,1,1,1,1996,1996,false,unresolved
 28 Mo. L.R. 281,28 mo. l.r. 281,Court Rule,local_rule,MO,1,1,1,1964,1964,false,unresolved
@@ -2006,13 +1982,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 3 Missouri R. 286,3 missouri r. 286,Court Rule,state_rule,MO,1,1,1,1854,1854,false,unresolved
 3 Missouri R. 315,3 missouri r. 315,Court Rule,state_rule,MO,1,1,1,1828,1828,false,unresolved
 3 Missouri R. 319,3 missouri r. 319,Court Rule,state_rule,MO,1,1,1,1859,1859,false,unresolved
-3 Missouri Supreme Court Rule 23.01,3 missouri supreme court rule 23.01,Court Rule,state_rule,MO,1,1,1,2022,2022,false,unresolved
-3 Missouri Supreme Court Rule 29.15,3 missouri supreme court rule 29.15,Court Rule,state_rule,MO,1,1,1,2021,2021,false,unresolved
-3 Missouri Supreme Court Rule 55.10,3 missouri supreme court rule 55.10,Court Rule,state_rule,MO,1,1,1,2024,2024,false,unresolved
-3 Missouri Supreme Court Rule 67.03,3 missouri supreme court rule 67.03,Court Rule,state_rule,MO,1,1,1,2019,2019,false,unresolved
-3 Missouri Supreme Court Rule 74.04,3 missouri supreme court rule 74.04,Court Rule,state_rule,MO,1,1,1,2020,2020,false,unresolved
-3 Missouri Supreme Court Rule 78.06,3 missouri supreme court rule 78.06,Court Rule,state_rule,MO,1,1,1,2020,2020,false,unresolved
-3 Missouri Supreme Court Rule 85.08,3 missouri supreme court rule 85.08,Court Rule,state_rule,MO,1,1,1,2022,2022,false,unresolved
 3 Mo. L.R. 252,3 mo. l.r. 252,Court Rule,local_rule,MO,1,1,1,1956,1956,false,unresolved
 3 Mo. L.R. 275,3 mo. l.r. 275,Court Rule,local_rule,MO,1,1,1,1948,1948,false,unresolved
 3 Mo. R. 117,3 mo. r. 117,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
@@ -2054,7 +2023,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 303 (Mo.App.1987). Rule 55.16,303 (mo.app.1987). rule 55.16,Court Rule,state_rule,MO,1,1,1,1994,1994,false,unresolved
 305 (Mo. App.1997). Rule 37,305 (mo. app.1997). rule 37,Court Rule,state_rule,MO,1,1,1,2004,2004,false,unresolved
 306 (Mo.App.2006). Rule 29.15,306 (mo.app.2006). rule 29.15,Court Rule,state_rule,MO,1,1,1,2008,2008,false,unresolved
-308 (1989). Missouri Supreme Court Rule 29.15,308 (1989). missouri supreme court rule 29.15,Court Rule,state_rule,MO,1,1,1,2006,2006,false,unresolved
 308 (Mo.App.1978) (citation omitted). Rule 84.04,308 (mo.app.1978) (citation omitted). rule 84.04,Court Rule,state_rule,MO,1,1,1,2007,2007,false,unresolved
 309 (Mo.1973). Rule 1006,309 (mo.1973). rule 1006,Court Rule,state_rule,MO,1,1,1,2001,2001,false,unresolved
 309 (Mo.App.1977) and Rule 30.06,309 (mo.app.1977) and rule 30.06,Court Rule,state_rule,MO,1,1,1,1981,1981,false,unresolved
@@ -2077,7 +2045,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 32 (Mo. banc 1976) and Rule 84.13,32 (mo. banc 1976) and rule 84.13,Court Rule,state_rule,MO,1,1,1,2004,2004,false,unresolved
 32 (Mo. banc 1976) and Rule 84.16,32 (mo. banc 1976) and rule 84.16,Court Rule,state_rule,MO,1,1,1,1985,1985,false,unresolved
 32 (Mo. banc 1976). Missouri Court Rule 73.01,32 (mo. banc 1976). missouri court rule 73.01,Court Rule,state_rule,MO,1,1,1,2015,2015,false,unresolved
-32 (Mo. banc 1976). Missouri Supreme Court Rule 4-1.7,32 (mo. banc 1976). missouri supreme court rule 4-1.7,Court Rule,state_rule,MO,1,1,1,2001,2001,false,unresolved
 32 (Mo. banc 1976). Rule 52.12,32 (mo. banc 1976). rule 52.12,Court Rule,state_rule,MO,1,1,1,2003,2003,false,unresolved
 32 (Mo. banc 1976). Rule 55.08,32 (mo. banc 1976). rule 55.08,Court Rule,state_rule,MO,1,1,1,1991,1991,false,unresolved
 32 (Mo. banc 1976). Rule 58.01,32 (mo. banc 1976). rule 58.01,Court Rule,state_rule,MO,1,1,1,1992,1992,false,unresolved
@@ -2254,10 +2221,7 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 4 E.D. Mo. Local R. 33,4 e.d. mo. local r. 33,Court Rule,local_rule,MO,1,1,1,1997,1997,false,unresolved
 4 Missouri R. 18,4 missouri r. 18,Court Rule,state_rule,MO,1,1,1,1849,1849,false,unresolved
 4 Missouri R. 474,4 missouri r. 474,Court Rule,state_rule,MO,1,1,1,1847,1847,false,unresolved
-4 Missouri Supreme Court Rule 103.06,4 missouri supreme court rule 103.06,Court Rule,state_rule,MO,1,1,1,2019,2019,false,unresolved
 4 Missouri Supreme Court Rule 130,4 missouri supreme court rule 130,Court Rule,state_rule,MO,1,1,1,2025,2025,false,unresolved
-4 Missouri Supreme Court Rule 4-3.8,4 missouri supreme court rule 4-3.8,Court Rule,state_rule,MO,1,1,1,2024,2024,false,unresolved
-4 Missouri Supreme Court Rule 84.14,4 missouri supreme court rule 84.14,Court Rule,state_rule,MO,1,1,1,2023,2023,false,unresolved
 4 Mo. L.R. 239,4 mo. l.r. 239,Court Rule,local_rule,MO,1,1,1,1944,1944,false,unresolved
 4 Mo. P.S.C. R. 631,4 mo. p.s.c. r. 631,Court Rule,state_rule,MO,1,1,1,1931,1931,false,unresolved
 4 Mo. R. 113,4 mo. r. 113,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
@@ -2473,10 +2437,8 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 499 (Mo.1963). Rule 84.04,499 (mo.1963). rule 84.04,Court Rule,state_rule,MO,1,1,1,1988,1988,false,unresolved
 499 (Mo.App. W.D.1999). Rules 61.01,499 (mo.app. w.d.1999). rules 61.01,Court Rule,local_rule,MO,1,1,1,2004,2004,false,unresolved
 5 C.S.R. § 20-300.110,5 c.s.r. § 20-300.110,Court Rule,state_rule,MO,1,1,1,2021,2021,true,exact
-5 E.D. Mo. L.R. 8.02,5 e.d. mo. l.r. 8.02,Court Rule,local_rule,MO,1,1,1,2022,2022,false,unresolved
 5 E.D. Mo. Local R. 33,5 e.d. mo. local r. 33,Court Rule,local_rule,MO,1,1,1,1997,1997,false,unresolved
 5 Missouri R. 489,5 missouri r. 489,Court Rule,state_rule,MO,1,1,1,1856,1856,false,unresolved
-5 Missouri Supreme Court Rule 94.03,5 missouri supreme court rule 94.03,Court Rule,state_rule,MO,1,1,1,1996,1996,false,unresolved
 5 Mo. L.R. 10,5 mo. l.r. 10,Court Rule,local_rule,MO,1,1,1,1949,1949,false,unresolved
 5 Mo. L.R. 114,5 mo. l.r. 114,Court Rule,local_rule,MO,1,1,1,1961,1961,false,unresolved
 5 Mo. R. 101,5 mo. r. 101,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
@@ -2491,7 +2453,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 5 Mo. R. 450,5 mo. r. 450,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 5 Mo. R. 489,5 mo. r. 489,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 5 Mo. R. 54,5 mo. r. 54,Court Rule,state_rule,MO,1,1,1,1846,1846,false,unresolved
-5 Mo. Sup. Ct. R. 29.07,5 mo. sup. ct. r. 29.07,Court Rule,state_rule,MO,1,1,1,1999,1999,false,unresolved
 5 vol. Mo. R. 471,5 vol. mo. r. 471,Court Rule,state_rule,MO,1,1,1,1845,1845,false,unresolved
 "50 (Mo. App. E.D. 1986), and Rule 24.04","50 (mo. app. e.d. 1986), and rule 24.04",Court Rule,local_rule,MO,1,1,1,2025,2025,false,unresolved
 50 (Mo.App. 1973). Rule 84.04,50 (mo.app. 1973). rule 84.04,Court Rule,state_rule,MO,1,1,1,1980,1980,false,unresolved
@@ -2581,7 +2542,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 568 (Mo.App. E.D.1998). Rule 55.33,568 (mo.app. e.d.1998). rule 55.33,Court Rule,local_rule,MO,1,1,1,2001,2001,false,unresolved
 568 (Mo.App.1979). Rule 73.01,568 (mo.app.1979). rule 73.01,Court Rule,state_rule,MO,1,1,1,1980,1980,false,unresolved
 568 (Mo.App.E.D.1998). Rule 55.33,568 (mo.app.e.d.1998). rule 55.33,Court Rule,local_rule,MO,1,1,1,2001,2001,false,unresolved
-57 (Mo. banc 1974). Missouri Supreme Court Rule 29.01,57 (mo. banc 1974). missouri supreme court rule 29.01,Court Rule,state_rule,MO,1,1,1,1982,1982,false,unresolved
 57 Mo. A. R. 528,57 mo. a. r. 528,Court Rule,state_rule,MO,1,1,1,1936,1936,false,unresolved
 570-71 (Mo.App.E.D.2012). Rule 81.12,570-71 (mo.app.e.d.2012). rule 81.12,Court Rule,local_rule,MO,1,1,1,2015,2015,false,unresolved
 571 (Mo. banc 1989). Affirmed. Rule 84.16,571 (mo. banc 1989). affirmed. rule 84.16,Court Rule,state_rule,MO,1,1,1,1995,1995,false,unresolved
@@ -2592,7 +2552,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 578 (Mo.1963). Rule 73.01,578 (mo.1963). rule 73.01,Court Rule,state_rule,MO,1,1,1,1980,1980,false,unresolved
 578 (Mo.App.S.D.1992). Rule 84.04,578 (mo.app.s.d.1992). rule 84.04,Court Rule,local_rule,MO,1,1,1,2000,2000,false,unresolved
 578-79 (Mo.App. S.D.1999). Rule 78.06,578-79 (mo.app. s.d.1999). rule 78.06,Court Rule,local_rule,MO,1,1,1,2009,2009,false,unresolved
-"579 (Mo.App., E.D.1985). Missouri Rule 30.04","579 (mo.app., e.d.1985). missouri rule 30.04",Court Rule,local_rule,MO,1,1,1,1990,1990,false,unresolved
 579 (Mo.App.1971). Rule 55.28,579 (mo.app.1971). rule 55.28,Court Rule,state_rule,MO,1,1,1,1978,1978,false,unresolved
 580 (Mo.1966). Rule 27.26,580 (mo.1966). rule 27.26,Court Rule,state_rule,MO,1,1,1,1984,1984,false,unresolved
 581 (Mo. 1989). Rule 29.15,581 (mo. 1989). rule 29.15,Court Rule,state_rule,MO,1,1,1,1999,1999,false,unresolved
@@ -2629,8 +2588,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 6 Missouri R. 364,6 missouri r. 364,Court Rule,state_rule,MO,1,1,1,1854,1854,false,unresolved
 6 Missouri R. 40-42,6 missouri r. 40-42,Court Rule,state_rule,MO,1,1,1,1860,1860,false,unresolved
 6 Missouri R. 64,6 missouri r. 64,Court Rule,state_rule,MO,1,1,1,1871,1871,false,unresolved
-6 Missouri Supreme Court Rule 22.03,6 missouri supreme court rule 22.03,Court Rule,state_rule,MO,1,1,1,1999,1999,false,unresolved
-6 Missouri Supreme Court Rule 84.14,6 missouri supreme court rule 84.14,Court Rule,state_rule,MO,1,1,1,2022,2022,false,unresolved
 6 Mo. L.R. 200,6 mo. l.r. 200,Court Rule,local_rule,MO,1,1,1,1976,1976,false,unresolved
 6 Mo. L.R. 357,6 mo. l.r. 357,Court Rule,local_rule,MO,1,1,1,1949,1949,false,unresolved
 6 Mo. R. 106,6 mo. r. 106,Court Rule,state_rule,MO,1,1,1,1845,1845,false,unresolved
@@ -2765,7 +2722,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 7 C.S.R. § 10-6.015,7 c.s.r. § 10-6.015,Court Rule,state_rule,MO,1,1,1,1985,1985,true,exact
 7 Missouri R. 162,7 missouri r. 162,Court Rule,state_rule,MO,1,1,1,1848,1848,false,unresolved
 7 Missouri R. 213,7 missouri r. 213,Court Rule,state_rule,MO,1,1,1,1856,1856,false,unresolved
-7 Missouri Rule 29.15,7 missouri rule 29.15,Court Rule,state_rule,MO,1,1,1,1997,1997,false,unresolved
 7 Mo. L.R. 203,7 mo. l.r. 203,Court Rule,local_rule,MO,1,1,1,1960,1960,false,unresolved
 7 Mo. L.R. 222,7 mo. l.r. 222,Court Rule,local_rule,MO,1,1,1,1949,1949,false,unresolved
 7 Mo. R. 114,7 mo. r. 114,Court Rule,state_rule,MO,1,1,1,1846,1846,false,unresolved
@@ -2832,7 +2788,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 726 (Mo.banc 1982). Rule 55.27,726 (mo.banc 1982). rule 55.27,Court Rule,state_rule,MO,1,1,1,1986,1986,false,unresolved
 727-28 (Mo.App.1991) Rule 84.04,727-28 (mo.app.1991) rule 84.04,Court Rule,state_rule,MO,1,1,1,2000,2000,false,unresolved
 73 (Mo.App. E.D.1983). Rule 70.02,73 (mo.app. e.d.1983). rule 70.02,Court Rule,local_rule,MO,1,1,1,2001,2001,false,unresolved
-73 B.R. 93 (Bankr.E.D.Mo.1987). Missouri Revised Statutes § 287.260,73 b.r. 93 (bankr.e.d.mo.1987). missouri revised statutes § 287.260,Court Rule,local_rule,MO,1,1,1,2005,2005,false,unresolved
 730 (Mo.App.1972). Rule 28.03,730 (mo.app.1972). rule 28.03,Court Rule,state_rule,MO,1,1,1,1979,1979,false,unresolved
 731 (Mo. banc 1998). Rule 24.02,731 (mo. banc 1998). rule 24.02,Court Rule,state_rule,MO,1,1,1,2006,2006,false,unresolved
 731 (Mo.App.1979). Rule 28.02,731 (mo.app.1979). rule 28.02,Court Rule,state_rule,MO,1,1,1,1990,1990,false,unresolved
@@ -2853,7 +2808,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 740 (Mo.App.1991). Rule 70,740 (mo.app.1991). rule 70,Court Rule,state_rule,MO,1,1,1,1996,1996,false,unresolved
 "740 (Mo.banc), 9 A. L.R. 4th","740 (mo.banc), 9 a. l.r. 4th",Court Rule,local_rule,MO,1,1,1,1987,1987,false,unresolved
 743 (Mo.App. E.D.1993). Rule 72.01,743 (mo.app. e.d.1993). rule 72.01,Court Rule,local_rule,MO,1,1,1,2004,2004,false,unresolved
-744 (8th Cir. 1998). E.D. Mo. L.R. 2.06,744 (8th cir. 1998). e.d. mo. l.r. 2.06,Court Rule,local_rule,MO,1,1,1,2020,2020,false,unresolved
 745 (Mo. banc 1997). Rule 55.03,745 (mo. banc 1997). rule 55.03,Court Rule,state_rule,MO,1,1,1,2004,2004,false,unresolved
 745 (Mo.App.1995). Rule 84.04,745 (mo.app.1995). rule 84.04,Court Rule,state_rule,MO,1,1,1,2006,2006,false,unresolved
 746 (Mo.App.2004). Rule 74.06,746 (mo.app.2004). rule 74.06,Court Rule,state_rule,MO,1,1,1,2013,2013,false,unresolved
@@ -2922,7 +2876,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 8 Missouri R. 606,8 missouri r. 606,Court Rule,state_rule,MO,1,1,1,1851,1851,false,unresolved
 8 Missouri R. 738,8 missouri r. 738,Court Rule,state_rule,MO,1,1,1,1857,1857,false,unresolved
 8 Missouri Rule 27.20,8 missouri rule 27.20,Court Rule,state_rule,MO,1,1,1,1966,1966,false,unresolved
-8 Missouri Rule 55.33,8 missouri rule 55.33,Court Rule,state_rule,MO,1,1,1,2019,2019,false,unresolved
 8 Mo. Ap. R. 458,8 mo. ap. r. 458,Court Rule,state_rule,MO,1,1,1,1884,1884,false,unresolved
 8 Mo. L.R. 188,8 mo. l.r. 188,Court Rule,local_rule,MO,1,1,1,1950,1950,false,unresolved
 8 Mo. R. 1,8 mo. r. 1,Court Rule,state_rule,MO,1,1,1,1845,1845,false,unresolved
@@ -2951,7 +2904,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 8 Mo. R. 8,8 mo. r. 8,Court Rule,state_rule,MO,1,1,1,1850,1850,false,unresolved
 8 Mo. R. 88,8 mo. r. 88,Court Rule,state_rule,MO,1,1,1,1848,1848,false,unresolved
 8 Mo. Sup. Court Rule 51.05,8 mo. sup. court rule 51.05,Court Rule,state_rule,MO,1,1,1,2010,2010,false,unresolved
-8 Mo. Sup. Ct. R. 29.15,8 mo. sup. ct. r. 29.15,Court Rule,state_rule,MO,1,1,1,1993,1993,false,unresolved
 80 (Mo.App.1972) and Rule 84.14,80 (mo.app.1972) and rule 84.14,Court Rule,state_rule,MO,1,1,1,1982,1982,false,unresolved
 802 (Mo. banc 1996)). Rule 81.05,802 (mo. banc 1996)). rule 81.05,Court Rule,state_rule,MO,1,1,1,2011,2011,false,unresolved
 802 (Mo.App.1975). Rule 55.33,802 (mo.app.1975). rule 55.33,Court Rule,state_rule,MO,1,1,1,2003,2003,false,unresolved
@@ -2971,7 +2923,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 822 (Mo.2000). Rule 29.15,822 (mo.2000). rule 29.15,Court Rule,state_rule,MO,1,1,1,2008,2008,false,unresolved
 "823 (Mo. banc 1985), the Rule 27.26","823 (mo. banc 1985), the rule 27.26",Court Rule,state_rule,MO,1,1,1,1995,1995,false,unresolved
 826 (Mo.App. E.D.1990). Rule 30.01,826 (mo.app. e.d.1990). rule 30.01,Court Rule,local_rule,MO,1,1,1,1998,1998,false,unresolved
-827 (Mo. banc 1979). Missouri Supreme Court Rule 52.05,827 (mo. banc 1979). missouri supreme court rule 52.05,Court Rule,state_rule,MO,1,1,1,2020,2020,false,unresolved
 827 (Mo.App. 1998). Section 19 C.S. R. 25-30.060,827 (mo.app. 1998). section 19 c.s. r. 25-30.060,Court Rule,state_rule,MO,1,1,1,2013,2013,false,unresolved
 827 (Mo.App. W.D.1998). Section 19 C.S. R. 25-30.060,827 (mo.app. w.d.1998). section 19 c.s. r. 25-30.060,Court Rule,local_rule,MO,1,1,1,2013,2013,false,unresolved
 827 (Mo.banc 1991) Rule 29.04,827 (mo.banc 1991) rule 29.04,Court Rule,state_rule,MO,1,1,1,1991,1991,false,unresolved
@@ -3151,8 +3102,6 @@ West Ann.Cal.Evid.Code § 785,west ann.cal.evid.code § 785,Court Rule,state_rul
 951 (Mo.App.S.D.1992). Rule 54.13,951 (mo.app.s.d.1992). rule 54.13,Court Rule,local_rule,MO,1,1,1,2014,2014,false,unresolved
 "952 (Mo.App.), 16 A. L.R. 4th","952 (mo.app.), 16 a. l.r. 4th",Court Rule,local_rule,MO,1,1,1,1985,1985,false,unresolved
 953 (Mo.App.1976). Supreme Court Rule 52.12,953 (mo.app.1976). supreme court rule 52.12,Court Rule,state_rule,MO,1,1,1,1984,1984,false,unresolved
-954 (8th Cir. 1981) (citation omitted). Missouri Supreme Court Rule 83.02,954 (8th cir. 1981) (citation omitted). missouri supreme court rule 83.02,Court Rule,local_rule,MO,1,1,1,2005,2005,false,unresolved
-954 (8th Cir.1981) (citation omitted). Missouri Supreme Court Rule 83.02,954 (8th cir.1981) (citation omitted). missouri supreme court rule 83.02,Court Rule,local_rule,MO,1,1,1,2005,2005,false,unresolved
 956 (Mo.App.1990). Rule 25.03,956 (mo.app.1990). rule 25.03,Court Rule,state_rule,MO,1,1,1,1993,1993,false,unresolved
 957 (Mo.App. S.D.1998). Rule 74.01,957 (mo.app. s.d.1998). rule 74.01,Court Rule,local_rule,MO,1,1,1,2000,2000,false,unresolved
 957 (Mo.App.1989). Rule 84.04,957 (mo.app.1989). rule 84.04,Court Rule,state_rule,MO,1,1,1,1991,1991,false,unresolved
@@ -3265,13 +3214,9 @@ E.D. Mo. Rule 365,e.d. mo. rule 365,Court Rule,local_rule,MO,1,1,1,2012,2012,fal
 E.D. Rule 370,e.d. rule 370,Court Rule,local_rule,MO,1,1,1,2015,2015,false,unresolved
 E.D. Rule 400,e.d. rule 400,Court Rule,local_rule,MO,1,1,1,2022,2022,false,unresolved
 E.D. Rule 400.15,e.d. rule 400.15,Court Rule,local_rule,MO,1,1,1,2022,2022,false,unresolved
-"ECF No. 10, Ex. 9. 2 Mo. Sup. Ct. R. 29.15","ecf no. 10, ex. 9. 2 mo. sup. ct. r. 29.15",Court Rule,state_rule,MO,1,1,1,2020,2020,false,unresolved
 ED. Mo. L.R. 45,ed. mo. l.r. 45,Court Rule,local_rule,MO,1,1,1,2021,2021,false,unresolved
 EM & V. 4 C.S.R. § 240-3.163,em & v. 4 c.s.r. § 240-3.163,Court Rule,state_rule,MO,1,1,1,2013,2013,false,unresolved
 FELA and Missouri Supreme Court Rule 4-4.2,fela and missouri supreme court rule 4-4.2,Court Rule,state_rule,MO,1,1,1,1994,1994,false,unresolved
-H.R. 700 § 4Í,h.r. 700 § 4í,Court Rule,state_rule,MO,1,1,1,1987,1987,false,unresolved
-II. Missouri Supreme Court Rule 67.-01,ii. missouri supreme court rule 67.-01,Court Rule,state_rule,MO,1,1,1,1984,1984,false,unresolved
-III. Supreme Court Rule 56.01,iii. supreme court rule 56.01,Court Rule,state_rule,MO,1,1,1,1989,1989,false,unresolved
 IRP. 4 C.S.R. § 240-20.093,irp. 4 c.s.r. § 240-20.093,Court Rule,state_rule,MO,1,1,1,2016,2016,false,unresolved
 "J.J. Mars. R. 139, and 3 Mon., R. 187","j.j. mars. r. 139, and 3 mon., r. 187",Court Rule,state_rule,MO,1,1,1,1846,1846,false,unresolved
 J.S. and D. R. 5,j.s. and d. r. 5,Court Rule,local_rule,MO,1,1,1,2010,2010,false,unresolved
@@ -3433,6 +3378,7 @@ Missouri Rule 28.07,missouri rule 28.07,Court Rule,state_rule,MO,1,1,1,1969,1969
 Missouri Rule 29.12,missouri rule 29.12,Court Rule,state_rule,MO,1,1,1,1982,1982,true,exact
 Missouri Rule 29.17,missouri rule 29.17,Court Rule,state_rule,MO,1,1,1,2025,2025,true,exact
 Missouri Rule 30.03,missouri rule 30.03,Court Rule,state_rule,MO,1,1,1,2021,2021,true,exact
+Missouri Rule 30.04,missouri rule 30.04,Court Rule,state_rule,MO,1,1,1,1990,1990,true,exact
 Missouri Rule 30.25,missouri rule 30.25,Court Rule,state_rule,MO,1,1,1,1989,1989,true,exact
 Missouri Rule 34.04,missouri rule 34.04,Court Rule,state_rule,MO,1,1,1,2010,2010,false,unresolved
 Missouri Rule 37.03,missouri rule 37.03,Court Rule,state_rule,MO,1,1,1,1969,1969,true,exact
@@ -3452,13 +3398,13 @@ Missouri Rule 43.01,missouri rule 43.01,Court Rule,state_rule,MO,1,1,1,1991,1991
 Missouri Rule 44.01,missouri rule 44.01,Court Rule,state_rule,MO,1,1,1,1976,1976,true,exact
 Missouri Rule 51.05,missouri rule 51.05,Court Rule,state_rule,MO,1,1,1,2018,2018,true,exact
 Missouri Rule 52.01,missouri rule 52.01,Court Rule,state_rule,MO,1,1,1,1970,1970,true,exact
+Missouri Rule 52.02,missouri rule 52.02,Court Rule,state_rule,MO,1,1,1,2016,2016,true,exact
 Missouri Rule 52.07,missouri rule 52.07,Court Rule,state_rule,MO,1,1,1,1987,1987,true,exact
 Missouri Rule 53.01,missouri rule 53.01,Court Rule,state_rule,MO,1,1,1,1992,1992,true,exact
 Missouri Rule 54,missouri rule 54,Court Rule,state_rule,MO,1,1,1,1989,1989,false,unresolved
 Missouri Rule 55.09,missouri rule 55.09,Court Rule,state_rule,MO,1,1,1,1976,1976,true,exact
 Missouri Rule 55.13,missouri rule 55.13,Court Rule,state_rule,MO,1,1,1,1995,1995,true,exact
 Missouri Rule 55.16,missouri rule 55.16,Court Rule,state_rule,MO,1,1,1,2015,2015,true,exact
-Missouri Rule 55.28,missouri rule 55.28,Court Rule,state_rule,MO,1,1,1,1989,1989,true,exact
 Missouri Rule 56.-01,missouri rule 56.-01,Court Rule,state_rule,MO,1,1,1,1993,1993,true,exact
 Missouri Rule 57.-03,missouri rule 57.-03,Court Rule,state_rule,MO,1,1,1,1986,1986,true,exact
 Missouri Rule 57.02,missouri rule 57.02,Court Rule,state_rule,MO,1,1,1,2001,2001,true,exact
@@ -3701,7 +3647,6 @@ Missouri Supreme Court Rule 2-2.2,missouri supreme court rule 2-2.2,Court Rule,s
 Missouri Supreme Court Rule 21.04,missouri supreme court rule 21.04,Court Rule,state_rule,MO,1,1,1,2022,2022,true,exact
 Missouri Supreme Court Rule 21.14,missouri supreme court rule 21.14,Court Rule,state_rule,MO,1,1,1,1964,1964,false,unresolved
 Missouri Supreme Court Rule 22.-10,missouri supreme court rule 22.-10,Court Rule,state_rule,MO,1,1,1,1979,1979,true,exact
-Missouri Supreme Court Rule 22.03,missouri supreme court rule 22.03,Court Rule,state_rule,MO,1,1,1,2000,2000,true,exact
 Missouri Supreme Court Rule 22.04,missouri supreme court rule 22.04,Court Rule,state_rule,MO,1,1,1,2021,2021,true,exact
 Missouri Supreme Court Rule 22.07,missouri supreme court rule 22.07,Court Rule,state_rule,MO,1,1,1,1984,1984,true,exact
 Missouri Supreme Court Rule 22.09,missouri supreme court rule 22.09,Court Rule,state_rule,MO,1,1,1,2024,2024,true,exact
@@ -3769,7 +3714,6 @@ Missouri Supreme Court Rule 4-1.15,missouri supreme court rule 4-1.15,Court Rule
 Missouri Supreme Court Rule 4-1.16,missouri supreme court rule 4-1.16,Court Rule,state_rule,MO,1,1,1,2023,2023,true,exact
 Missouri Supreme Court Rule 4-1.4,missouri supreme court rule 4-1.4,Court Rule,state_rule,MO,1,1,1,2022,2022,true,exact
 Missouri Supreme Court Rule 4-1:5,missouri supreme court rule 4-1:5,Court Rule,state_rule,MO,1,1,1,2000,2000,false,unresolved
-Missouri Supreme Court Rule 4-3.8,missouri supreme court rule 4-3.8,Court Rule,state_rule,MO,1,1,1,2017,2017,true,exact
 Missouri Supreme Court Rule 4-4.2.2,missouri supreme court rule 4-4.2.2,Court Rule,state_rule,MO,1,1,1,2023,2023,false,unresolved
 Missouri Supreme Court Rule 4-4.4,missouri supreme court rule 4-4.4,Court Rule,state_rule,MO,1,1,1,2021,2021,true,exact
 Missouri Supreme Court Rule 4-5.1,missouri supreme court rule 4-5.1,Court Rule,state_rule,MO,1,1,1,2021,2021,true,exact
@@ -3796,6 +3740,7 @@ Missouri Supreme Court Rule 52.10,missouri supreme court rule 52.10,Court Rule,s
 Missouri Supreme Court Rule 55.-15,missouri supreme court rule 55.-15,Court Rule,state_rule,MO,1,1,1,1984,1984,true,exact
 Missouri Supreme Court Rule 55.-32,missouri supreme court rule 55.-32,Court Rule,state_rule,MO,1,1,1,1985,1985,true,exact
 Missouri Supreme Court Rule 55.0S,missouri supreme court rule 55.0s,Court Rule,state_rule,MO,1,1,1,2010,2010,false,unresolved
+Missouri Supreme Court Rule 55.10,missouri supreme court rule 55.10,Court Rule,state_rule,MO,1,1,1,2024,2024,true,exact
 Missouri Supreme Court Rule 55.13,missouri supreme court rule 55.13,Court Rule,state_rule,MO,1,1,1,1992,1992,true,exact
 Missouri Supreme Court Rule 55.14,missouri supreme court rule 55.14,Court Rule,state_rule,MO,1,1,1,1989,1989,true,exact
 Missouri Supreme Court Rule 55.15,missouri supreme court rule 55.15,Court Rule,state_rule,MO,1,1,1,2025,2025,true,exact
@@ -3854,11 +3799,9 @@ Missouri Supreme Court Rule 84.07,missouri supreme court rule 84.07,Court Rule,s
 Missouri Supreme Court Rule 84.18,missouri supreme court rule 84.18,Court Rule,state_rule,MO,1,1,1,1994,1994,true,exact
 Missouri Supreme Court Rule 84.22,missouri supreme court rule 84.22,Court Rule,state_rule,MO,1,1,1,2016,2016,true,exact
 Missouri Supreme Court Rule 84.22.2,missouri supreme court rule 84.22.2,Court Rule,state_rule,MO,1,1,1,2020,2020,false,unresolved
-Missouri Supreme Court Rule 84.24,missouri supreme court rule 84.24,Court Rule,state_rule,MO,1,1,1,2014,2014,true,exact
 Missouri Supreme Court Rule 85,missouri supreme court rule 85,Court Rule,state_rule,MO,1,1,1,2023,2023,false,unresolved
 Missouri Supreme Court Rule 85. Rule 85.03,missouri supreme court rule 85. rule 85.03,Court Rule,state_rule,MO,1,1,1,2023,2023,false,unresolved
 Missouri Supreme Court Rule 85.03,missouri supreme court rule 85.03,Court Rule,state_rule,MO,1,1,1,1995,1995,true,exact
-Missouri Supreme Court Rule 85.08,missouri supreme court rule 85.08,Court Rule,state_rule,MO,1,1,1,2022,2022,true,exact
 Missouri Supreme Court Rule 85.14,missouri supreme court rule 85.14,Court Rule,state_rule,MO,1,1,1,1995,1995,true,exact
 Missouri Supreme Court Rule 86.06,missouri supreme court rule 86.06,Court Rule,state_rule,MO,1,1,1,2014,2014,true,exact
 Missouri Supreme Court Rule 87,missouri supreme court rule 87,Court Rule,state_rule,MO,1,1,1,2023,2023,false,unresolved
@@ -4499,6 +4442,7 @@ Mo.R.Civ. P. 84.02,mo.r.civ. p. 84.02,Court Rule,state_rule,MO,1,1,1,1988,1988,t
 Mo.R.Civ. P. 85.04,mo.r.civ. p. 85.04,Court Rule,state_rule,MO,1,1,1,1986,1986,true,exact
 Mo.R.Civ. P. 87.02,mo.r.civ. p. 87.02,Court Rule,state_rule,MO,1,1,1,1985,1985,true,exact
 Mo.R.Civ. P. 87.09,mo.r.civ. p. 87.09,Court Rule,state_rule,MO,1,1,1,1985,1985,true,exact
+Mo.R.Civ. P. 90.06,mo.r.civ. p. 90.06,Court Rule,state_rule,MO,1,1,1,1998,1998,true,exact
 Mo.R.Civ. P. 92,mo.r.civ. p. 92,Court Rule,state_rule,MO,1,1,1,1986,1986,true,container
 Mo.R.Civ. P. 96.08,mo.r.civ. p. 96.08,Court Rule,state_rule,MO,1,1,1,1984,1984,true,exact
 Mo.R.Civ. P. 99.01,mo.r.civ. p. 99.01,Court Rule,state_rule,MO,1,1,1,1985,1985,true,exact
@@ -4688,6 +4632,7 @@ R.S.Mo. and V.AM. R. 81.04,r.s.mo. and v.am. r. 81.04,Court Rule,state_rule,MO,1
 "R.S.Mo., and Rule 88.01","r.s.mo., and rule 88.01",Court Rule,state_rule,MO,1,1,1,2018,2018,false,unresolved
 "RSMO, Supreme Court Rule 88.01","rsmo, supreme court rule 88.01",Court Rule,state_rule,MO,1,1,1,2016,2016,false,unresolved
 Sup.Ct.Mo. Rules 25.-05,sup.ct.mo. rules 25.-05,Court Rule,state_rule,MO,1,1,1,1987,1987,false,unresolved
+Supreme Court Rule 56.01,supreme court rule 56.01,Court Rule,state_rule,MO,1,1,1,1989,1989,true,exact
 "Supreme Court Rules 4, 5, and 6. Mo. Sup. Ct. R. 5.07","supreme court rules 4, 5, and 6. mo. sup. ct. r. 5.07",Court Rule,state_rule,MO,1,1,1,2021,2021,false,unresolved
 "Supreme Court Rules of Civil Procedure, Y.A.M. R. 2","supreme court rules of civil procedure, y.a.m. r. 2",Court Rule,state_rule,MO,1,1,1,1968,1968,false,unresolved
 "Supreme Court Rules, V.A.M. R. 2","supreme court rules, v.a.m. r. 2",Court Rule,state_rule,MO,1,1,1,1974,1974,false,unresolved

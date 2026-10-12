@@ -1,12 +1,12 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-Miss. R. Civ. P. 56,miss. r. civ. p. 56,Court Rule,state_rule,MS,768,582,3,1990,2025,true,exact
+Miss. R. Civ. P. 56,miss. r. civ. p. 56,Court Rule,state_rule,MS,770,582,3,1990,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 56,mississippi rules of civil procedure rule 56,Court Rule,state_rule,MS,551,470,4,1983,2025,true,exact
-Miss. R. Evid. 404,miss. r. evid. 404,Court Rule,state_rule,MS,331,161,6,1990,2025,true,exact
-Miss. R. Evid. 403,miss. r. evid. 403,Court Rule,state_rule,MS,322,206,3,1989,2025,true,exact
+Miss. R. Evid. 404,miss. r. evid. 404,Court Rule,state_rule,MS,360,161,6,1988,2025,true,exact
+Miss. R. Evid. 403,miss. r. evid. 403,Court Rule,state_rule,MS,354,206,3,1987,2025,true,exact
+Miss. R. Evid. 803,miss. r. evid. 803,Court Rule,state_rule,MS,328,125,8,1986,2025,true,exact
 Miss. R. Civ. P. 12,miss. r. civ. p. 12,Court Rule,state_rule,MS,312,180,5,1993,2025,true,exact
+Miss. R. Evid. 702,miss. r. evid. 702,Court Rule,state_rule,MS,307,165,4,1987,2023,true,exact
 Mississippi Rules of Civil Procedure Rule 4,mississippi rules of civil procedure rule 4,Court Rule,state_rule,MS,296,195,7,1986,2025,true,exact
-Miss. R. Evid. 702,miss. r. evid. 702,Court Rule,state_rule,MS,284,165,4,1993,2023,true,exact
-Miss. R. Evid. 803,miss. r. evid. 803,Court Rule,state_rule,MS,281,125,8,1988,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 60,mississippi rules of civil procedure rule 60,Court Rule,state_rule,MS,274,197,3,1984,2025,true,exact
 Miss. R. Civ. P. 60,miss. r. civ. p. 60,Court Rule,state_rule,MS,256,123,3,1993,2025,true,exact
 Miss. R. Civ. P. 4,miss. r. civ. p. 4,Court Rule,state_rule,MS,250,112,8,1994,2026,true,exact
@@ -14,29 +14,30 @@ Mississippi Rules of Civil Procedure Rule 12,mississippi rules of civil procedur
 Mississippi Rules of Civil Procedure Rule 54,mississippi rules of civil procedure rule 54,Court Rule,state_rule,MS,211,171,4,1984,2025,true,exact
 Mississippi Rules of Appellate Procedure Rule 4,mississippi rules of appellate procedure rule 4,Court Rule,state_rule,MS,209,150,3,1994,2025,true,exact
 Miss. R. Civ. P. 15,miss. r. civ. p. 15,Court Rule,state_rule,MS,202,93,3,1994,2025,true,exact
-Miss. R. Civ. P. 54,miss. r. civ. p. 54,Court Rule,state_rule,MS,190,128,5,1995,2025,true,exact
+Miss. R. Evid. 401,miss. r. evid. 401,Court Rule,state_rule,MS,196,111,2,1987,2025,true,exact
+Miss. R. Civ. P. 54,miss. r. civ. p. 54,Court Rule,state_rule,MS,192,128,5,1995,2025,true,exact
+Miss. R. Evid. 801,miss. r. evid. 801,Court Rule,state_rule,MS,191,114,4,1986,2025,true,exact
+Miss. R. Evid. 103,miss. r. evid. 103,Court Rule,state_rule,MS,178,109,3,1987,2025,true,exact
 Miss. R. Civ. P. 41,miss. r. civ. p. 41,Court Rule,state_rule,MS,170,72,5,1996,2022,true,exact
-Miss. R. Evid. 801,miss. r. evid. 801,Court Rule,state_rule,MS,166,114,4,1990,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 41,mississippi rules of civil procedure rule 41,Court Rule,state_rule,MS,163,122,6,1984,2025,true,exact
-Miss. R. Evid. 401,miss. r. evid. 401,Court Rule,state_rule,MS,162,111,2,1991,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 15,mississippi rules of civil procedure rule 15,Court Rule,state_rule,MS,152,127,3,1983,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 59,mississippi rules of civil procedure rule 59,Court Rule,state_rule,MS,144,134,2,1985,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 11,mississippi rules of civil procedure rule 11,Court Rule,state_rule,MS,139,97,5,1983,2025,true,exact
-Miss. R. Evid. 103,miss. r. evid. 103,Court Rule,state_rule,MS,132,109,3,1987,2025,true,exact
+Miss. R. Evid. 804,miss. r. evid. 804,Court Rule,state_rule,MS,135,34,3,1989,2019,true,exact
 Miss. R. Civ. P. 26,miss. r. civ. p. 26,Court Rule,state_rule,MS,125,78,4,1990,2022,true,exact
 Miss. R. Civ. P. 24,miss. r. civ. p. 24,Court Rule,state_rule,MS,120,56,2,1992,2023,true,exact
-Miss. R. Evid. 804,miss. r. evid. 804,Court Rule,state_rule,MS,111,34,3,1990,2019,true,exact
-Miss. R. Evid. 502,miss. r. evid. 502,Court Rule,state_rule,MS,104,40,9,1994,2026,true,exact
+Miss. R. Evid. 502,miss. r. evid. 502,Court Rule,state_rule,MS,105,40,9,1992,2026,true,exact
+Miss. R. Evid. 609,miss. r. evid. 609,Court Rule,state_rule,MS,98,47,3,1987,2019,true,exact
 Mississippi Rules of Civil Procedure Rule 81,mississippi rules of civil procedure rule 81,Court Rule,state_rule,MS,97,78,2,1984,2025,true,exact
 Miss. R. Civ. P. 11,miss. r. civ. p. 11,Court Rule,state_rule,MS,96,63,4,1990,2022,true,exact
 Miss. R. Civ. P. 37,miss. r. civ. p. 37,Court Rule,state_rule,MS,95,47,4,1994,2022,true,exact
+Miss. R. Evid. 503,miss. r. evid. 503,Court Rule,state_rule,MS,93,32,4,1990,2023,true,exact
 Mississippi Rules of Appellate Procedure Rule 28,mississippi rules of appellate procedure rule 28,Court Rule,state_rule,MS,93,85,3,1992,2025,true,exact
-Miss. R. Evid. 503,miss. r. evid. 503,Court Rule,state_rule,MS,91,32,4,1990,2023,true,exact
 Mississippi Rules of Civil Procedure Rule 26,mississippi rules of civil procedure rule 26,Court Rule,state_rule,MS,87,69,2,1982,2025,true,exact
 Miss. R. Civ. P. 8,miss. r. civ. p. 8,Court Rule,state_rule,MS,84,50,4,1994,2022,true,exact
 Miss. R. Civ. P. 20,miss. r. civ. p. 20,Court Rule,state_rule,MS,82,40,4,1997,2024,true,exact
-Miss. R. Evid. 609,miss. r. evid. 609,Court Rule,state_rule,MS,78,47,3,1988,2019,true,exact
 Mississippi Rules of Civil Procedure Rule 8,mississippi rules of civil procedure rule 8,Court Rule,state_rule,MS,78,72,4,1986,2023,true,exact
+Miss. R. Evid. 901,miss. r. evid. 901,Court Rule,state_rule,MS,77,44,2,1989,2024,true,exact
 Miss. R. Civ. P. 55,miss. r. civ. p. 55,Court Rule,state_rule,MS,75,29,4,1997,2024,true,exact
 Mississippi Rules of Civil Procedure Rule 52,mississippi rules of civil procedure rule 52,Court Rule,state_rule,MS,74,57,2,1986,2024,true,exact
 Mississippi Rules of Civil Procedure Rule 24,mississippi rules of civil procedure rule 24,Court Rule,state_rule,MS,73,65,2,1985,2023,true,exact
@@ -45,67 +46,62 @@ Miss. R. Civ. P. 9,miss. r. civ. p. 9,Court Rule,state_rule,MS,71,48,4,1996,2026
 Miss.R.Civ.P. 56,miss.r.civ.p. 56,Court Rule,state_rule,MS,67,43,1,1983,1992,true,exact
 Mississippi Rules of Appellate Procedure Rule 2,mississippi rules of appellate procedure rule 2,Court Rule,state_rule,MS,65,55,2,1996,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 55,mississippi rules of civil procedure rule 55,Court Rule,state_rule,MS,65,49,4,1986,2022,true,exact
+Miss. R. Civ. P. 17,miss. r. civ. p. 17,Court Rule,state_rule,MS,64,35,5,1988,2025,true,exact
 Miss. R. Civ. P. 59,miss. r. civ. p. 59,Court Rule,state_rule,MS,64,51,3,1992,2023,true,exact
-Miss. R. Civ. P. 17,miss. r. civ. p. 17,Court Rule,state_rule,MS,63,35,5,1988,2025,true,exact
+Miss. R. Evid. 701,miss. r. evid. 701,Court Rule,state_rule,MS,64,34,2,1987,2022,true,exact
 Mississippi Rule 20,mississippi rule 20,Court Rule,state_rule,MS,63,16,8,2002,2007,true,exact
 Mississippi Rules of Appellate Procedure Rule 5,mississippi rules of appellate procedure rule 5,Court Rule,state_rule,MS,63,54,2,1999,2025,true,exact
-Miss. R. Evid. 901,miss. r. evid. 901,Court Rule,state_rule,MS,61,44,2,1992,2024,true,exact
 Mississippi Rules of Civil Procedure Rule 5,mississippi rules of civil procedure rule 5,Court Rule,state_rule,MS,61,39,2,1987,2022,true,exact
 Mississippi Rules of Appellate Procedure Rule 10,mississippi rules of appellate procedure rule 10,Court Rule,state_rule,MS,59,50,3,1991,2024,true,exact
 Mississippi Rules of Civil Procedure Rule 37,mississippi rules of civil procedure rule 37,Court Rule,state_rule,MS,59,50,2,1985,2025,true,exact
+Miss. R. App. P. 4,miss. r. app. p. 4,Court Rule,state_rule,MS,56,36,5,1992,2026,true,exact
 Miss. R. Civ. P. 57,miss. r. civ. p. 57,Court Rule,state_rule,MS,56,34,4,1995,2023,true,exact
 Mississippi Rules of Civil Procedure Rule 9,mississippi rules of civil procedure rule 9,Court Rule,state_rule,MS,55,43,4,1985,2025,true,exact
 Miss. R. Civ. P. 1,miss. r. civ. p. 1,Court Rule,state_rule,MS,54,35,1,1996,2019,true,exact
-Miss. R. Evid. 701,miss. r. evid. 701,Court Rule,state_rule,MS,54,34,2,1991,2022,true,exact
 Mississippi Rules of Appellate Procedure Rule 3,mississippi rules of appellate procedure rule 3,Court Rule,state_rule,MS,54,46,2,2000,2023,true,exact
-Miss. R. App. P. 4,miss. r. app. p. 4,Court Rule,state_rule,MS,53,36,5,1992,2026,true,exact
 Miss. R. Evid. 504,miss. r. evid. 504,Court Rule,state_rule,MS,53,23,8,1992,2022,true,exact
+Miss. R. Evid. 608,miss. r. evid. 608,Court Rule,state_rule,MS,52,16,2,1990,2020,true,exact
 Mississippi Rules of Civil Procedure Rule 6,mississippi rules of civil procedure rule 6,Court Rule,state_rule,MS,52,37,2,2002,2019,true,exact
 Miss. R. App. P. 22,miss. r. app. p. 22,Court Rule,state_rule,MS,51,29,3,2001,2024,true,exact
 Miss. R. Civ. P. 81,miss. r. civ. p. 81,Court Rule,state_rule,MS,50,32,2,1998,2024,true,exact
+Miss. R. Evid. 402,miss. r. evid. 402,Court Rule,state_rule,MS,50,39,3,1987,2025,true,exact
 Miss. R. Civ. P. 19,miss. r. civ. p. 19,Court Rule,state_rule,MS,49,32,2,1994,2025,true,exact
 Miss. R. Civ. P. 36,miss. r. civ. p. 36,Court Rule,state_rule,MS,49,22,4,1994,2021,true,exact
 Miss. R. Civ. P. 50,miss. r. civ. p. 50,Court Rule,state_rule,MS,49,39,3,1998,2024,true,exact
 Miss. R. App. P. 17,miss. r. app. p. 17,Court Rule,state_rule,MS,48,39,3,2003,2025,true,exact
 Mississippi Rules of Appellate Procedure Rule 22,mississippi rules of appellate procedure rule 22,Court Rule,state_rule,MS,48,41,3,1993,2022,true,exact
 Mississippi Rules of Civil Procedure Rule 20,mississippi rules of civil procedure rule 20,Court Rule,state_rule,MS,48,35,4,1997,2025,true,exact
-Miss.R. Evid. 803,miss.r. evid. 803,Court Rule,state_rule,MS,47,21,2,1986,1999,false,unresolved
-Miss.R. Evid. 103,miss.r. evid. 103,Court Rule,state_rule,MS,46,25,2,1987,1999,false,unresolved
 Miss.R.Civ. P. 12,miss.r.civ. p. 12,Court Rule,state_rule,MS,46,28,2,1985,2003,true,exact
 Mississippi Rules of Civil Procedure Rule 36,mississippi rules of civil procedure rule 36,Court Rule,state_rule,MS,46,35,4,1989,2024,true,exact
-Miss. R. Evid. 402,miss. r. evid. 402,Court Rule,state_rule,MS,45,39,3,1992,2025,true,exact
 Mississippi Rule 62,mississippi rule 62,Court Rule,state_rule,MS,45,9,3,2002,2020,true,exact
+Miss. R. Evid. 601,miss. r. evid. 601,Court Rule,state_rule,MS,44,20,2,1988,2020,true,exact
 Miss.R.Civ.P. 12,miss.r.civ.p. 12,Court Rule,state_rule,MS,44,34,1,1984,1992,true,exact
 Miss.R.Civ.P. 8,miss.r.civ.p. 8,Court Rule,state_rule,MS,44,29,1,1983,1999,true,exact
 Mississippi Rules of Civil Procedure Rule 57,mississippi rules of civil procedure rule 57,Court Rule,state_rule,MS,43,36,5,1983,2025,true,exact
 Mississippi Rules of Civil Procedure Rule 50,mississippi rules of civil procedure rule 50,Court Rule,state_rule,MS,42,39,2,1986,2022,true,exact
+Miss. R. Evid. 606,miss. r. evid. 606,Court Rule,state_rule,MS,40,21,3,1992,2023,true,exact
 Miss.R.Civ. P. 60,miss.r.civ. p. 60,Court Rule,state_rule,MS,40,23,1,1988,1998,true,exact
 Mississippi Rules of Appellate Procedure Rule 38,mississippi rules of appellate procedure rule 38,Court Rule,state_rule,MS,40,25,2,1995,2024,true,exact
 Miss. R. Civ. P. 25,miss. r. civ. p. 25,Court Rule,state_rule,MS,38,18,4,1994,2025,true,exact
-Miss. R. Evid. 601,miss. r. evid. 601,Court Rule,state_rule,MS,38,20,2,1992,2020,true,exact
+Miss. R. Evid. 611,miss. r. evid. 611,Court Rule,state_rule,MS,38,20,2,1987,2024,true,exact
+Miss. R. Evid. 703,miss. r. evid. 703,Court Rule,state_rule,MS,37,24,2,1992,2022,true,exact
 Miss. R.App. P. 17,miss. r.app. p. 17,Court Rule,state_rule,MS,37,30,2,2007,2014,true,exact
 Mississippi Rules of Civil Procedure Rule 17,mississippi rules of civil procedure rule 17,Court Rule,state_rule,MS,37,24,4,1984,2025,true,exact
 Miss. Unif. Cir. & Cty. R. 9.04,miss. unif. cir. & cty. r. 9.04,Court Rule,local_rule,MS,36,8,1,2007,2009,false,unresolved
 Mississippi Rules of Civil Procedure Rule 3,mississippi rules of civil procedure rule 3,Court Rule,state_rule,MS,36,34,3,1994,2020,true,exact
-Miss. R. Evid. 703,miss. r. evid. 703,Court Rule,state_rule,MS,34,24,2,1992,2022,true,exact
 Mississippi Rules of Civil Procedure Rule 82,mississippi rules of civil procedure rule 82,Court Rule,state_rule,MS,34,28,2,1989,2020,true,exact
 Miss. R. App. P. 28,miss. r. app. p. 28,Court Rule,state_rule,MS,33,30,1,2000,2025,true,exact
 Miss. R. Civ. P. 82,miss. r. civ. p. 82,Court Rule,state_rule,MS,33,28,2,1997,2025,true,exact
-Miss. R. Evid. 606,miss. r. evid. 606,Court Rule,state_rule,MS,32,21,3,1992,2023,true,exact
-Miss.R. Evid. 401,miss.r. evid. 401,Court Rule,state_rule,MS,32,23,1,1987,1998,false,unresolved
-Miss.R. Evid. 403,miss.r. evid. 403,Court Rule,state_rule,MS,32,24,2,1987,2002,false,unresolved
+Miss. R. Evid. 613,miss. r. evid. 613,Court Rule,state_rule,MS,32,13,1,1991,2018,true,exact
 Mississippi Supreme Court Rule 42,mississippi supreme court rule 42,Court Rule,state_rule,MS,31,28,3,1972,1992,false,unresolved
 Miss. R. Prof. Conduct 1.5,miss. r. prof. conduct 1.5,Court Rule,state_rule,MS,30,20,4,2004,2025,true,exact
 Miss. R. App. P. 46,miss. r. app. p. 46,Court Rule,state_rule,MS,29,6,1,2005,2015,true,exact
 Miss. R. Civ. P. 5,miss. r. civ. p. 5,Court Rule,state_rule,MS,28,16,3,1993,2018,true,exact
-Miss.R. Evid. 608,miss.r. evid. 608,Court Rule,state_rule,MS,28,10,1,1990,1999,false,unresolved
 Mississippi Rules of Civil Procedure Rule 19,mississippi rules of civil procedure rule 19,Court Rule,state_rule,MS,28,26,3,1992,2025,true,exact
-Miss. R. Evid. 611,miss. r. evid. 611,Court Rule,state_rule,MS,27,20,2,1994,2024,true,exact
 Miss. R. Civ. P. 52,miss. r. civ. p. 52,Court Rule,state_rule,MS,26,18,1,1994,2019,true,exact
-Miss. R. Evid. 613,miss. r. evid. 613,Court Rule,state_rule,MS,26,13,1,1995,2018,true,exact
+Miss. R. Evid. 412,miss. r. evid. 412,Court Rule,state_rule,MS,26,10,3,1991,2022,true,exact
 Miss. R. Civ. P. 6,miss. r. civ. p. 6,Court Rule,state_rule,MS,25,23,3,1997,2025,true,exact
-Miss.R. Evid. 404,miss.r. evid. 404,Court Rule,state_rule,MS,25,18,2,1988,2001,false,unresolved
-Miss.R. Evid. 801,miss.r. evid. 801,Court Rule,state_rule,MS,25,18,3,1986,2000,false,unresolved
+Miss. R. Evid. 615,miss. r. evid. 615,Court Rule,state_rule,MS,25,12,2,1989,2023,true,exact
 Miss.R.Civ. P. 15,miss.r.civ. p. 15,Court Rule,state_rule,MS,25,18,2,1987,2025,true,exact
 Miss.R.Civ.P. 15,miss.r.civ.p. 15,Court Rule,state_rule,MS,25,17,1,1983,1991,true,exact
 Miss.R.Civ.P. 55,miss.r.civ.p. 55,Court Rule,state_rule,MS,25,11,1,1984,1992,true,exact
@@ -113,13 +109,11 @@ Mississippi Supreme Court Rule 11,mississippi supreme court rule 11,Court Rule,s
 Miss. R. App. P. 10,miss. r. app. p. 10,Court Rule,state_rule,MS,24,18,1,1996,2025,true,exact
 Miss. R. App. P. 5,miss. r. app. p. 5,Court Rule,state_rule,MS,24,21,1,2001,2019,true,exact
 Miss. R. Civ. P. 3,miss. r. civ. p. 3,Court Rule,state_rule,MS,24,13,4,1997,2022,true,exact
-Miss. R. Evid. 608,miss. r. evid. 608,Court Rule,state_rule,MS,24,16,2,1994,2020,true,exact
-Miss.R. Evid. 804,miss.r. evid. 804,Court Rule,state_rule,MS,24,10,1,1989,2000,false,unresolved
 Miss.R.Civ.P. 50,miss.r.civ.p. 50,Court Rule,state_rule,MS,24,17,1,1983,1992,true,exact
 Mississippi Rules of Civil Procedure Rule 53,mississippi rules of civil procedure rule 53,Court Rule,state_rule,MS,24,13,2,1985,2019,true,exact
 Mississippi Supreme Court Rule 46,mississippi supreme court rule 46,Court Rule,state_rule,MS,24,21,3,1982,1995,false,unresolved
 Miss. R. Ev. 803,miss. r. ev. 803,Court Rule,state_rule,MS,23,2,1,2003,2006,false,unresolved
-Miss.R. Evid. 702,miss.r. evid. 702,Court Rule,state_rule,MS,23,16,1,1987,2004,false,unresolved
+Miss. R. Evid. 104,miss. r. evid. 104,Court Rule,state_rule,MS,23,20,1,1992,2022,true,exact
 Mississippi Rules of Civil Procedure Rule 65,mississippi rules of civil procedure rule 65,Court Rule,state_rule,MS,23,23,4,1987,2024,true,exact
 Miss. R. App. P. 2,miss. r. app. p. 2,Court Rule,state_rule,MS,22,18,2,1995,2023,true,exact
 Miss. R. Civ. P. 62,miss. r. civ. p. 62,Court Rule,state_rule,MS,22,17,3,1999,2015,true,exact
@@ -127,26 +121,24 @@ Miss.R.Civ. P. 26,miss.r.civ. p. 26,Court Rule,state_rule,MS,22,14,1,1987,1999,t
 Mississippi Rules of Appellate Procedure Rule 8,mississippi rules of appellate procedure rule 8,Court Rule,state_rule,MS,22,19,2,1999,2024,true,exact
 Miss. R. Civ. P. 30,miss. r. civ. p. 30,Court Rule,state_rule,MS,21,15,1,1997,2014,true,exact
 Miss. R. Civ. P. 65,miss. r. civ. p. 65,Court Rule,state_rule,MS,21,19,4,2008,2025,true,exact
-Miss. R. Evid. 412,miss. r. evid. 412,Court Rule,state_rule,MS,21,10,3,2003,2022,true,exact
+Miss. R. Evid. 201,miss. r. evid. 201,Court Rule,state_rule,MS,21,19,2,1995,2019,true,exact
 Miss. R.App. P. 5,miss. r.app. p. 5,Court Rule,state_rule,MS,21,17,1,2003,2016,true,exact
 Miss.R.Civ. P. 20,miss.r.civ. p. 20,Court Rule,state_rule,MS,21,3,2,1989,2008,true,exact
 Mississippi Rule 46,mississippi rule 46,Court Rule,state_rule,MS,21,1,1,2019,2019,true,exact
 Mississippi Rules of Civil Procedure Rule 22,mississippi rules of civil procedure rule 22,Court Rule,state_rule,MS,21,15,4,1985,2018,true,exact
-Miss. R. Evid. 104,miss. r. evid. 104,Court Rule,state_rule,MS,20,20,1,1995,2022,true,exact
-Miss.R. Evid. 609,miss.r. evid. 609,Court Rule,state_rule,MS,20,14,1,1987,2000,false,unresolved
+Miss. R. Evid. 704,miss. r. evid. 704,Court Rule,state_rule,MS,20,11,2,1987,2022,true,exact
 Miss.R.Civ.P. 59,miss.r.civ.p. 59,Court Rule,state_rule,MS,20,16,1,1984,1992,true,exact
 Miss.Sup.Ct. Rule 11,miss.sup.ct. rule 11,Court Rule,state_rule,MS,20,20,1,1968,1992,false,unresolved
 Mississippi Rules of Civil Procedure Rule 68,mississippi rules of civil procedure rule 68,Court Rule,state_rule,MS,20,7,3,1989,2015,true,exact
 Mississippi Rules of Criminal Procedure Rule 14.1,mississippi rules of criminal procedure rule 14.1,Court Rule,state_rule,MS,20,17,2,2017,2023,true,exact
 Miss. R. Civ. P. 10,miss. r. civ. p. 10,Court Rule,state_rule,MS,19,14,3,2003,2023,true,exact
-Miss. R. Evid. 201,miss. r. evid. 201,Court Rule,state_rule,MS,19,19,2,1996,2019,true,exact
-Miss. R. Evid. 615,miss. r. evid. 615,Court Rule,state_rule,MS,19,12,2,1991,2023,true,exact
 Miss. R.App. P. 22,miss. r.app. p. 22,Court Rule,state_rule,MS,19,10,2,2004,2015,true,exact
 Miss. R.App. P. 28,miss. r.app. p. 28,Court Rule,state_rule,MS,19,16,2,2001,2012,true,exact
 Miss.R.Civ.P. 81,miss.r.civ.p. 81,Court Rule,state_rule,MS,19,17,1,1983,1992,true,exact
 Miss. R.App. P. 10,miss. r.app. p. 10,Court Rule,state_rule,MS,18,14,1,1998,2014,true,exact
 Miss. R.App. P. 4,miss. r.app. p. 4,Court Rule,state_rule,MS,18,11,2,1996,2010,true,exact
 Miss. R.App. P. 46,miss. r.app. p. 46,Court Rule,state_rule,MS,18,3,2,2007,2012,true,exact
+Miss.R.Civ. P. 59,miss.r.civ. p. 59,Court Rule,state_rule,MS,18,14,1,1987,1996,true,exact
 Miss.Sup.Ct. R. 2,miss.sup.ct. r. 2,Court Rule,state_rule,MS,18,11,1,1990,1997,false,unresolved
 Mississippi Rules of Civil Procedure Rule 77,mississippi rules of civil procedure rule 77,Court Rule,state_rule,MS,18,10,2,1999,2016,true,exact
 Mississippi Supreme Court Rule 6,mississippi supreme court rule 6,Court Rule,state_rule,MS,18,16,1,1968,1988,false,unresolved
@@ -154,8 +146,7 @@ Miss. R. App. P. 27,miss. r. app. p. 27,Court Rule,state_rule,MS,17,13,4,2002,20
 Miss. R. Civ. P. 53,miss. r. civ. p. 53,Court Rule,state_rule,MS,17,10,1,2008,2019,true,exact
 Miss. R. Civ. P. 7,miss. r. civ. p. 7,Court Rule,state_rule,MS,17,14,1,2006,2023,true,exact
 Miss. R. Ev. 801,miss. r. ev. 801,Court Rule,state_rule,MS,17,5,2,2003,2025,false,unresolved
-Miss. R. Evid. 704,miss. r. evid. 704,Court Rule,state_rule,MS,17,11,2,1993,2022,true,exact
-Miss.R.Civ. P. 59,miss.r.civ. p. 59,Court Rule,state_rule,MS,17,14,1,1987,1996,true,exact
+Miss. R. Evid. 802,miss. r. evid. 802,Court Rule,state_rule,MS,17,13,2,1992,2025,true,exact
 Miss.R.Civ.P. 41,miss.r.civ.p. 41,Court Rule,state_rule,MS,17,11,1,1984,1995,true,exact
 Mississippi Rules of Appellate Procedure Rule 44,mississippi rules of appellate procedure rule 44,Court Rule,state_rule,MS,17,17,2,1997,2023,true,exact
 Mississippi Rules of Appellate Procedure Rule 46,mississippi rules of appellate procedure rule 46,Court Rule,state_rule,MS,17,11,3,2004,2021,true,exact
@@ -167,12 +158,11 @@ Miss. R. App. P. 40,miss. r. app. p. 40,Court Rule,state_rule,MS,16,15,4,2002,20
 Miss. R. App. P. 43,miss. r. app. p. 43,Court Rule,state_rule,MS,16,7,1,1996,2019,true,exact
 Miss. R. Evid. 102,miss. r. evid. 102,Court Rule,state_rule,MS,16,14,1,2007,2025,true,exact
 Miss. R. Evid. 602,miss. r. evid. 602,Court Rule,state_rule,MS,16,14,1,1992,2019,true,exact
-Miss. R. Evid. 802,miss. r. evid. 802,Court Rule,state_rule,MS,16,13,2,1995,2025,true,exact
-Miss.R. Evid. 901,miss.r. evid. 901,Court Rule,state_rule,MS,16,7,1,1989,1998,false,unresolved
 Miss.R.Civ. P. 41,miss.r.civ. p. 41,Court Rule,state_rule,MS,16,13,3,1989,2003,true,exact
 Miss.R.Civ. P. 55,miss.r.civ. p. 55,Court Rule,state_rule,MS,16,9,1,1987,2001,true,exact
 Mississippi Rules of Appellate Procedure Rule 17,mississippi rules of appellate procedure rule 17,Court Rule,state_rule,MS,16,15,4,1992,2021,true,exact
 Miss. R. Civ. P. 14,miss. r. civ. p. 14,Court Rule,state_rule,MS,15,7,2,1996,2000,true,exact
+Miss. R. Evid. 106,miss. r. evid. 106,Court Rule,state_rule,MS,15,8,1,1988,2010,true,exact
 Miss.R.Civ. P. 54,miss.r.civ. p. 54,Court Rule,state_rule,MS,15,13,1,1987,1998,true,exact
 Miss.R.Civ. P. 8,miss.r.civ. p. 8,Court Rule,state_rule,MS,15,11,3,1990,2002,true,exact
 Miss.R.Civ.P. 57,miss.r.civ.p. 57,Court Rule,state_rule,MS,15,10,1,1985,1991,true,exact
@@ -193,6 +183,8 @@ Mississippi Rules of Civil Procedure Rule 62,mississippi rules of civil procedur
 "Mississippi Rules of Civil Procedure, Rule 60","mississippi rules of civil procedure, rule 60",Court Rule,state_rule,MS,14,3,2,1994,2011,true,exact
 Mississippi Rules of Civil Procedure. Rule 4,mississippi rules of civil procedure. rule 4,Court Rule,state_rule,MS,14,6,3,1999,2017,true,exact
 Miss. R. App. P. 3,miss. r. app. p. 3,Court Rule,state_rule,MS,13,10,1,2000,2022,true,exact
+Miss. R. Evid. 105,miss. r. evid. 105,Court Rule,state_rule,MS,13,11,2,1996,2014,true,exact
+Miss. R. Evid. 607,miss. r. evid. 607,Court Rule,state_rule,MS,13,10,2,1995,2014,true,exact
 Miss. R.App. P. 43,miss. r.app. p. 43,Court Rule,state_rule,MS,13,5,1,1998,2010,true,exact
 Miss. R.App. P. 8,miss. r.app. p. 8,Court Rule,state_rule,MS,13,8,1,1990,2013,true,exact
 Miss.R.Civ.P. 24,miss.r.civ.p. 24,Court Rule,state_rule,MS,13,9,1,1985,1993,true,exact
@@ -202,6 +194,9 @@ Miss.Sup.Ct. Rule 42,miss.sup.ct. rule 42,Court Rule,state_rule,MS,13,13,2,1974,
 Mississippi Rule 4,mississippi rule 4,Court Rule,state_rule,MS,13,6,3,2005,2025,true,exact
 Miss. R. Civ. P. 32,miss. r. civ. p. 32,Court Rule,state_rule,MS,12,6,1,2004,2009,true,exact
 Miss. R. Civ. P. 45,miss. r. civ. p. 45,Court Rule,state_rule,MS,12,8,4,2004,2021,true,exact
+Miss. R. Evid. 406,miss. r. evid. 406,Court Rule,state_rule,MS,12,6,1,1993,2003,true,exact
+Miss. R. Evid. 408,miss. r. evid. 408,Court Rule,state_rule,MS,12,6,1,1996,2011,true,exact
+Miss. R. Evid. 616,miss. r. evid. 616,Court Rule,state_rule,MS,12,10,1,1995,2019,true,exact
 Miss. R.App. P. 2,miss. r.app. p. 2,Court Rule,state_rule,MS,12,12,1,1998,2013,true,exact
 Miss. R.Civ. P. 56,miss. r.civ. p. 56,Court Rule,state_rule,MS,12,8,1,1994,2008,true,exact
 Miss. Unif. Cir. & Cty. R. 9.06,miss. unif. cir. & cty. r. 9.06,Court Rule,local_rule,MS,12,7,1,2005,2010,false,unresolved
@@ -221,9 +216,7 @@ Mississippi Supreme Court Rule 4,mississippi supreme court rule 4,Court Rule,sta
 "North Mississippi, Inc., 27 B. R. 918","north mississippi, inc., 27 b. r. 918",Court Rule,state_rule,MS,12,11,10,1985,2004,false,unresolved
 Miss. R. App. P. 44,miss. r. app. p. 44,Court Rule,state_rule,MS,11,4,2,2006,2023,true,exact
 Miss. R. Civ. P. 40,miss. r. civ. p. 40,Court Rule,state_rule,MS,11,4,1,1993,2019,true,exact
-Miss. R. Evid. 105,miss. r. evid. 105,Court Rule,state_rule,MS,11,11,2,2002,2014,true,exact
-Miss. R. Evid. 607,miss. r. evid. 607,Court Rule,state_rule,MS,11,10,2,1996,2014,true,exact
-Miss.R. Evid. 611,miss.r. evid. 611,Court Rule,state_rule,MS,11,9,1,1987,1998,false,unresolved
+Miss. R. Evid. 705,miss. r. evid. 705,Court Rule,state_rule,MS,11,8,1,1988,2017,true,exact
 Miss.R.Civ. P. 24,miss.r.civ. p. 24,Court Rule,state_rule,MS,11,5,1,1988,1999,true,exact
 Miss.R.Civ.P. 13,miss.r.civ.p. 13,Court Rule,state_rule,MS,11,10,1,1985,1992,true,exact
 Mississippi Rules of Appellate Procedure Rule 15,mississippi rules of appellate procedure rule 15,Court Rule,state_rule,MS,11,9,2,1998,2011,true,exact
@@ -232,11 +225,8 @@ Miss. R. 26-000-001,miss. r. 26-000-001,Court Rule,state_rule,MS,10,2,1,2008,200
 Miss. R. App. P. 8,miss. r. app. p. 8,Court Rule,state_rule,MS,10,6,1,1997,2024,true,exact
 Miss. R. Civ. P. 47,miss. r. civ. p. 47,Court Rule,state_rule,MS,10,9,1,2000,2022,true,exact
 Miss. R. Civ. P. 61,miss. r. civ. p. 61,Court Rule,state_rule,MS,10,10,1,1998,2016,true,exact
-Miss. R. Evid. 106,miss. r. evid. 106,Court Rule,state_rule,MS,10,8,1,1993,2010,true,exact
-Miss. R. Evid. 406,miss. r. evid. 406,Court Rule,state_rule,MS,10,6,1,1993,2003,true,exact
-Miss. R. Evid. 616,miss. r. evid. 616,Court Rule,state_rule,MS,10,10,1,2000,2019,true,exact
 Miss. R.App. P. 36,miss. r.app. p. 36,Court Rule,state_rule,MS,10,4,1,1990,2010,true,exact
-Miss.R. Evid. 701,miss.r. evid. 701,Court Rule,state_rule,MS,10,10,1,1987,1998,false,unresolved
+Miss. R.Civ. P. 15,miss. r.civ. p. 15,Court Rule,state_rule,MS,10,5,1,1992,2003,true,exact
 Miss.R.Civ.P. 26,miss.r.civ.p. 26,Court Rule,state_rule,MS,10,9,1,1983,1991,true,exact
 Miss.R.Civ.P. 42,miss.r.civ.p. 42,Court Rule,state_rule,MS,10,9,1,1985,1992,true,exact
 Mississippi Rules of Appellate Procedure Rule 40,mississippi rules of appellate procedure rule 40,Court Rule,state_rule,MS,10,8,2,1993,2020,true,exact
@@ -253,7 +243,7 @@ Miss. R. Civ. P. 35,miss. r. civ. p. 35,Court Rule,state_rule,MS,9,9,1,2003,2017
 Miss. R. Civ. P. 49,miss. r. civ. p. 49,Court Rule,state_rule,MS,9,7,1,1996,2012,true,exact
 Miss. R. Civ. P. 58,miss. r. civ. p. 58,Court Rule,state_rule,MS,9,7,1,1999,2016,true,exact
 Miss. R. Civ. P. Rule 20,miss. r. civ. p. rule 20,Court Rule,state_rule,MS,9,6,2,2004,2006,true,exact
-Miss. R.Civ. P. 15,miss. r.civ. p. 15,Court Rule,state_rule,MS,9,5,1,1992,2003,true,exact
+Miss. R. Evid. 1006,miss. r. evid. 1006,Court Rule,state_rule,MS,9,4,1,1996,1999,true,exact
 Miss.R. Civ.P. 12,miss.r. civ.p. 12,Court Rule,state_rule,MS,9,7,1,1986,1990,true,exact
 Miss.R.Civ. P. 37,miss.r.civ. p. 37,Court Rule,state_rule,MS,9,6,1,1987,1995,true,exact
 Miss.R.Civ.P. 19,miss.r.civ.p. 19,Court Rule,state_rule,MS,9,8,1,1987,2011,true,exact
@@ -262,14 +252,12 @@ Mississippi Rule of Appellate Procedure Rule 4,mississippi rule of appellate pro
 Mississippi Rules of Civil Procedure Rule 34,mississippi rules of civil procedure rule 34,Court Rule,state_rule,MS,9,9,2,1994,2016,true,exact
 44 Miss. R. 762,44 miss. r. 762,Court Rule,state_rule,MS,8,4,1,1874,1874,false,unresolved
 Miss. R. Civ. P. 34,miss. r. civ. p. 34,Court Rule,state_rule,MS,8,5,1,2003,2017,true,exact
-Miss. R. Evid. 408,miss. r. evid. 408,Court Rule,state_rule,MS,8,6,1,1997,2011,true,exact
+Miss. R. Evid. 1103,miss. r. evid. 1103,Court Rule,state_rule,MS,8,6,3,1991,2019,true,exact
 Miss. R. Evid. 702. Rule 702,miss. r. evid. 702. rule 702,Court Rule,state_rule,MS,8,8,2,2006,2010,true,exact
-Miss. R. Evid. 705,miss. r. evid. 705,Court Rule,state_rule,MS,8,8,1,1995,2017,true,exact
 Miss. R. Prof'l Conduct 1.5,miss. r. prof'l conduct 1.5,Court Rule,state_rule,MS,8,5,2,2002,2009,true,exact
 Miss. R. Prof. Conduct 3.3,miss. r. prof. conduct 3.3,Court Rule,state_rule,MS,8,7,3,1998,2024,true,exact
 Miss. R.App. P. 27,miss. r.app. p. 27,Court Rule,state_rule,MS,8,5,1,2003,2010,true,exact
 Miss.R. Civ.P. 56,miss.r. civ.p. 56,Court Rule,state_rule,MS,8,5,1,1984,1991,true,exact
-Miss.R. Evid. 606,miss.r. evid. 606,Court Rule,state_rule,MS,8,4,1,1992,1998,false,unresolved
 Miss.R.Civ. P. 81,miss.r.civ. p. 81,Court Rule,state_rule,MS,8,4,1,1987,1992,true,exact
 Miss.R.Civ. P. 9,miss.r.civ. p. 9,Court Rule,state_rule,MS,8,7,2,1992,2001,true,exact
 Miss.R.Civ.P. 37,miss.r.civ.p. 37,Court Rule,state_rule,MS,8,7,1,1987,1993,true,exact
@@ -293,6 +281,7 @@ Mississippi Supreme Court Rule 8,mississippi supreme court rule 8,Court Rule,sta
 Miss. R. Civ. P. 51,miss. r. civ. p. 51,Court Rule,state_rule,MS,7,7,1,1996,2013,true,exact
 Miss. R. Civ. P. 83,miss. r. civ. p. 83,Court Rule,state_rule,MS,7,4,1,2006,2012,true,exact
 Miss. R. Evid. 1101,miss. r. evid. 1101,Court Rule,state_rule,MS,7,7,2,2005,2016,true,exact
+Miss. R. Evid. 411,miss. r. evid. 411,Court Rule,state_rule,MS,7,5,2,1992,2014,true,exact
 Miss. R. Evid. 617,miss. r. evid. 617,Court Rule,state_rule,MS,7,5,1,2006,2025,true,exact
 Miss. R.App. P. 20,miss. r.app. p. 20,Court Rule,state_rule,MS,7,5,4,2006,2014,true,exact
 Miss. R.App. P. 3,miss. r.app. p. 3,Court Rule,state_rule,MS,7,6,1,2002,2013,true,exact
@@ -325,10 +314,10 @@ Miss. R. Civ. P. 77,miss. r. civ. p. 77,Court Rule,state_rule,MS,6,4,1,2004,2006
 Miss. R. Civ. P. 78,miss. r. civ. p. 78,Court Rule,state_rule,MS,6,4,2,2017,2020,true,exact
 Miss. R. Civ. P. Rule 56,miss. r. civ. p. rule 56,Court Rule,state_rule,MS,6,2,1,2004,2006,true,exact
 Miss. R. Crim. P. 10.1,miss. r. crim. p. 10.1,Court Rule,state_rule,MS,6,2,1,2021,2021,true,exact
-Miss. R. Evid. 1006,miss. r. evid. 1006,Court Rule,state_rule,MS,6,4,1,1996,1999,true,exact
-Miss. R. Evid. 1103,miss. r. evid. 1103,Court Rule,state_rule,MS,6,6,3,2002,2019,true,exact
-Miss. R. Evid. 411,miss. r. evid. 411,Court Rule,state_rule,MS,6,5,2,2009,2014,true,exact
+Miss. R. Evid. 1003,miss. r. evid. 1003,Court Rule,state_rule,MS,6,2,1,1996,2014,true,exact
+Miss. R. Evid. 410,miss. r. evid. 410,Court Rule,state_rule,MS,6,2,1,1995,2002,true,exact
 Miss. R. Evid. 505,miss. r. evid. 505,Court Rule,state_rule,MS,6,2,1,2003,2005,true,exact
+Miss. R. Evid. 614,miss. r. evid. 614,Court Rule,state_rule,MS,6,2,1,1992,1998,true,exact
 Miss. R. Pro. Conduct 1.5,miss. r. pro. conduct 1.5,Court Rule,state_rule,MS,6,4,3,2021,2025,false,unresolved
 Miss. R. Prof'l Conduct 1.7,miss. r. prof'l conduct 1.7,Court Rule,state_rule,MS,6,2,1,2018,2018,true,exact
 Miss. R. Prof. Conduct 1.2,miss. r. prof. conduct 1.2,Court Rule,state_rule,MS,6,4,1,2000,2020,true,exact
@@ -339,9 +328,6 @@ Miss. R.Civ.P. 12,miss. r.civ.p. 12,Court Rule,state_rule,MS,6,3,2,1987,2012,tru
 Miss. Rule 11,miss. rule 11,Court Rule,state_rule,MS,6,6,1,1965,1968,true,exact
 Miss. Unif. Ch. R. 8.05,miss. unif. ch. r. 8.05,Court Rule,state_rule,MS,6,4,1,2007,2014,false,unresolved
 Miss.R. Civ.P. 57,miss.r. civ.p. 57,Court Rule,state_rule,MS,6,2,1,1988,1989,true,exact
-Miss.R. Evid. 601,miss.r. evid. 601,Court Rule,state_rule,MS,6,6,1,1988,2000,false,unresolved
-Miss.R. Evid. 613,miss.r. evid. 613,Court Rule,state_rule,MS,6,3,1,1991,1993,false,unresolved
-Miss.R. Evid. 615,miss.r. evid. 615,Court Rule,state_rule,MS,6,5,1,1989,1996,false,unresolved
 Miss.R.App. P. 4,miss.r.app. p. 4,Court Rule,state_rule,MS,6,6,1,1995,1998,true,exact
 Miss.R.Civ.P. 20,miss.r.civ.p. 20,Court Rule,state_rule,MS,6,6,1,1987,1992,true,exact
 Miss.R.Civ.P. 49,miss.r.civ.p. 49,Court Rule,state_rule,MS,6,5,1,1983,1992,true,exact
@@ -373,6 +359,10 @@ Miss. R. Civ. P. 13,miss. r. civ. p. 13,Court Rule,state_rule,MS,5,4,1,2011,2022
 Miss. R. Civ. P. 16,miss. r. civ. p. 16,Court Rule,state_rule,MS,5,5,1,1995,2012,true,exact
 Miss. R. Civ. P. 23,miss. r. civ. p. 23,Court Rule,state_rule,MS,5,5,2,1998,2005,false,unresolved
 Miss. R. Civ. P. 79,miss. r. civ. p. 79,Court Rule,state_rule,MS,5,3,1,1999,2016,true,exact
+Miss. R. Evid. 301,miss. r. evid. 301,Court Rule,state_rule,MS,5,4,1,1993,2022,true,exact
+Miss. R. Evid. 612,miss. r. evid. 612,Court Rule,state_rule,MS,5,2,1,1991,2014,true,exact
+Miss. R. Evid. 706,miss. r. evid. 706,Court Rule,state_rule,MS,5,4,1,1993,2010,true,exact
+Miss. R. Evid. 806,miss. r. evid. 806,Court Rule,state_rule,MS,5,4,1,1995,2005,true,exact
 Miss. R. Prof. Conduct 1.10,miss. r. prof. conduct 1.10,Court Rule,state_rule,MS,5,1,1,2023,2023,true,exact
 Miss. R. Prof. Conduct 1.7,miss. r. prof. conduct 1.7,Court Rule,state_rule,MS,5,3,2,2000,2025,true,exact
 Miss. R. Prof. Conduct 8.4,miss. r. prof. conduct 8.4,Court Rule,state_rule,MS,5,3,2,1998,2011,true,exact
@@ -380,8 +370,6 @@ Miss. R.Civ.P. 56,miss. r.civ.p. 56,Court Rule,state_rule,MS,5,4,1,1986,1991,tru
 Miss. Rule 6,miss. rule 6,Court Rule,state_rule,MS,5,4,1,1965,1967,true,exact
 Miss. Unif. Circ. & Cty. R. 9.06,miss. unif. circ. & cty. r. 9.06,Court Rule,state_rule,MS,5,4,1,2007,2017,false,unresolved
 Miss.R. Civ.P. 4,miss.r. civ.p. 4,Court Rule,state_rule,MS,5,3,1,1987,1990,true,exact
-Miss.R. Evid. 402,miss.r. evid. 402,Court Rule,state_rule,MS,5,3,1,1987,1992,false,unresolved
-Miss.R. Evid. 412,miss.r. evid. 412,Court Rule,state_rule,MS,5,5,2,1991,1999,false,unresolved
 Miss.R.App. P. 2,miss.r.app. p. 2,Court Rule,state_rule,MS,5,5,1,1995,1999,true,exact
 Miss.R.Civ. P. 17,miss.r.civ. p. 17,Court Rule,state_rule,MS,5,4,2,1990,1997,true,exact
 Miss.R.Civ. P. 57,miss.r.civ. p. 57,Court Rule,state_rule,MS,5,4,1,1989,1997,true,exact
@@ -421,11 +409,9 @@ Miss. R. App. P. 1,miss. r. app. p. 1,Court Rule,state_rule,MS,4,3,1,2008,2015,t
 Miss. R. Civ. P. Rule 41,miss. r. civ. p. rule 41,Court Rule,state_rule,MS,4,4,1,2005,2008,true,exact
 Miss. R. Civ. P. Rule 60,miss. r. civ. p. rule 60,Court Rule,state_rule,MS,4,4,2,2002,2019,true,exact
 Miss. R. Ev. 104,miss. r. ev. 104,Court Rule,state_rule,MS,4,2,1,2003,2006,false,unresolved
-Miss. R. Evid. 301,miss. r. evid. 301,Court Rule,state_rule,MS,4,4,1,1994,2022,true,exact
+Miss. R. Evid. 1002,miss. r. evid. 1002,Court Rule,state_rule,MS,4,2,1,1996,2025,true,exact
+Miss. R. Evid. 501,miss. r. evid. 501,Court Rule,state_rule,MS,4,3,2,1987,2007,true,exact
 Miss. R. Evid. 610,miss. r. evid. 610,Court Rule,state_rule,MS,4,2,1,1994,1997,true,exact
-Miss. R. Evid. 614,miss. r. evid. 614,Court Rule,state_rule,MS,4,2,1,1996,1998,true,exact
-Miss. R. Evid. 706,miss. r. evid. 706,Court Rule,state_rule,MS,4,4,1,2000,2010,true,exact
-Miss. R. Evid. 806,miss. r. evid. 806,Court Rule,state_rule,MS,4,4,1,1996,2005,true,exact
 Miss. R. Evid. 901. Rule 901,miss. r. evid. 901. rule 901,Court Rule,state_rule,MS,4,4,1,1997,1999,true,exact
 Miss. R. Pro. Conduct 4.2,miss. r. pro. conduct 4.2,Court Rule,state_rule,MS,4,2,2,2023,2025,false,unresolved
 Miss. R. Prof. Conduct 1.12,miss. r. prof. conduct 1.12,Court Rule,state_rule,MS,4,2,1,2005,2005,true,exact
@@ -450,9 +436,6 @@ Miss.R. Civ. P. 81,miss.r. civ. p. 81,Court Rule,state_rule,MS,4,2,1,1989,1990,t
 Miss.R. Civ.P. 15,miss.r. civ.p. 15,Court Rule,state_rule,MS,4,2,1,1985,1989,true,exact
 Miss.R. Civ.P. 60,miss.r. civ.p. 60,Court Rule,state_rule,MS,4,2,1,1987,1989,true,exact
 Miss.R. Civ.P. 81,miss.r. civ.p. 81,Court Rule,state_rule,MS,4,3,1,1987,1987,true,exact
-Miss.R. Evid. 1003,miss.r. evid. 1003,Court Rule,state_rule,MS,4,2,1,1996,1998,false,unresolved
-Miss.R. Evid. 408,miss.r. evid. 408,Court Rule,state_rule,MS,4,2,1,1996,1998,false,unresolved
-Miss.R. Evid. 410,miss.r. evid. 410,Court Rule,state_rule,MS,4,2,1,1999,2002,false,unresolved
 Miss.R.Civ. P. 10,miss.r.civ. p. 10,Court Rule,state_rule,MS,4,2,1,1997,1999,true,exact
 Miss.R.Civ. P. 4,miss.r.civ. p. 4,Court Rule,state_rule,MS,4,3,2,1997,2002,true,exact
 Miss.R.Civ. P. 40,miss.r.civ. p. 40,Court Rule,state_rule,MS,4,2,2,1988,1990,true,exact
@@ -535,7 +518,6 @@ Miss. R. Crim. P. 15.3,miss. r. crim. p. 15.3,Court Rule,state_rule,MS,3,3,2,201
 Miss. R. Ev. 103,miss. r. ev. 103,Court Rule,state_rule,MS,3,3,1,1994,2006,false,unresolved
 Miss. R. Ev. 403,miss. r. ev. 403,Court Rule,state_rule,MS,3,3,1,2003,2006,false,unresolved
 Miss. R. Evid. 101,miss. r. evid. 101,Court Rule,state_rule,MS,3,3,1,2014,2016,true,exact
-Miss. R. Evid. 501,miss. r. evid. 501,Court Rule,state_rule,MS,3,3,2,1988,2007,true,exact
 Miss. R. Pro. Conduct 1.2,miss. r. pro. conduct 1.2,Court Rule,state_rule,MS,3,2,1,2021,2021,false,unresolved
 Miss. R. Prof'l Conduct 1.4,miss. r. prof'l conduct 1.4,Court Rule,state_rule,MS,3,3,1,2002,2018,true,exact
 Miss. R. Prof'l Conduct 3.5,miss. r. prof'l conduct 3.5,Court Rule,state_rule,MS,3,2,1,2005,2017,true,exact
@@ -548,7 +530,6 @@ Miss. R.Civ.P. 8,miss. r.civ.p. 8,Court Rule,state_rule,MS,3,3,1,1987,1992,true,
 Miss. S.Ct. R. 4,miss. s.ct. r. 4,Court Rule,state_rule,MS,3,1,1,1993,1993,false,unresolved
 Miss. Unif. Ch. Ct. R. 8.05,miss. unif. ch. ct. r. 8.05,Court Rule,state_rule,MS,3,3,2,2011,2014,true,exact
 Miss. Unif. Cir. & Cty. R. 1.15,miss. unif. cir. & cty. r. 1.15,Court Rule,local_rule,MS,3,3,1,2008,2010,false,unresolved
-Miss.R. App. P. 4,miss.r. app. p. 4,Court Rule,state_rule,MS,3,1,1,2002,2002,false,unresolved
 Miss.R. Civ. P. 12,miss.r. civ. p. 12,Court Rule,state_rule,MS,3,3,2,1985,1990,true,exact
 Miss.R. Civ. P. 56,miss.r. civ. p. 56,Court Rule,state_rule,MS,3,3,1,1987,1991,true,exact
 Miss.R. Civ.P. 11,miss.r. civ.p. 11,Court Rule,state_rule,MS,3,1,1,1989,1989,true,exact
@@ -558,13 +539,6 @@ Miss.R. Civ.P. 50,miss.r. civ.p. 50,Court Rule,state_rule,MS,3,3,1,1987,1990,tru
 Miss.R. Civ.P. 6,miss.r. civ.p. 6,Court Rule,state_rule,MS,3,1,1,1988,1988,true,exact
 Miss.R. Civ.P. 69,miss.r. civ.p. 69,Court Rule,state_rule,MS,3,1,1,1984,1984,true,exact
 Miss.R. Civ.P. 8,miss.r. civ.p. 8,Court Rule,state_rule,MS,3,3,1,1989,1991,true,exact
-Miss.R. Evid. 1006,miss.r. evid. 1006,Court Rule,state_rule,MS,3,1,1,1996,1996,false,unresolved
-Miss.R. Evid. 104,miss.r. evid. 104,Court Rule,state_rule,MS,3,2,1,1992,1996,false,unresolved
-Miss.R. Evid. 106,miss.r. evid. 106,Court Rule,state_rule,MS,3,2,1,1988,1995,false,unresolved
-Miss.R. Evid. 612,miss.r. evid. 612,Court Rule,state_rule,MS,3,2,1,1991,1993,false,unresolved
-Miss.R. Evid. 703,miss.r. evid. 703,Court Rule,state_rule,MS,3,3,1,1992,1998,false,unresolved
-Miss.R. Evid. 704,miss.r. evid. 704,Court Rule,state_rule,MS,3,3,1,1987,1990,false,unresolved
-Miss.R. Evid. 705,miss.r. evid. 705,Court Rule,state_rule,MS,3,3,1,1988,1998,false,unresolved
 Miss.R.App. P. 38,miss.r.app. p. 38,Court Rule,state_rule,MS,3,2,1,1993,1996,true,exact
 Miss.R.App. P. 5,miss.r.app. p. 5,Court Rule,state_rule,MS,3,3,2,1990,1999,true,exact
 Miss.R.Civ. P. 1,miss.r.civ. p. 1,Court Rule,state_rule,MS,3,3,1,1988,1996,true,exact
@@ -741,17 +715,14 @@ Miss. R. Crim. P. 6.1,miss. r. crim. p. 6.1,Court Rule,state_rule,MS,2,1,1,2026,
 Miss. R. Crim. P. 8.2,miss. r. crim. p. 8.2,Court Rule,state_rule,MS,2,2,2,2024,2024,true,exact
 Miss. R. Crim. P. § 99-39-23,miss. r. crim. p. § 99-39-23,Court Rule,state_rule,MS,2,1,1,2019,2019,false,unresolved
 Miss. R. Ev. 404,miss. r. ev. 404,Court Rule,state_rule,MS,2,2,1,2003,2006,false,unresolved
-Miss. R. Evid. 1003,miss. r. evid. 1003,Court Rule,state_rule,MS,2,2,1,2014,2014,true,exact
 Miss. R. Evid. 103. Miss. R. Evid. 103,miss. r. evid. 103. miss. r. evid. 103,Court Rule,state_rule,MS,2,2,1,1994,1997,true,exact
 Miss. R. Evid. 401-404,miss. r. evid. 401-404,Court Rule,state_rule,MS,2,2,1,1999,2003,false,unresolved
 Miss. R. Evid. 402. Rule 403,miss. r. evid. 402. rule 403,Court Rule,state_rule,MS,2,2,1,2009,2010,true,exact
 Miss. R. Evid. 405,miss. r. evid. 405,Court Rule,state_rule,MS,2,2,1,1988,2024,true,exact
 Miss. R. Evid. 407,miss. r. evid. 407,Court Rule,state_rule,MS,2,2,1,1997,2002,true,exact
-Miss. R. Evid. 410,miss. r. evid. 410,Court Rule,state_rule,MS,2,2,1,1995,1997,true,exact
 Miss. R. Evid. 410. Miss. R. Evid. 803,miss. r. evid. 410. miss. r. evid. 803,Court Rule,state_rule,MS,2,2,1,1995,1997,true,exact
 Miss. R. Evid. 605,miss. r. evid. 605,Court Rule,state_rule,MS,2,2,1,2005,2005,true,exact
 Miss. R. Evid. 609. Mississippi Code § 97-23-19,miss. r. evid. 609. mississippi code § 97-23-19,Court Rule,state_rule,MS,2,2,1,2011,2014,true,exact
-Miss. R. Evid. 612,miss. r. evid. 612,Court Rule,state_rule,MS,2,2,1,2011,2014,true,exact
 Miss. R. Evid. 701. Rule 702,miss. r. evid. 701. rule 702,Court Rule,state_rule,MS,2,2,1,2016,2016,true,exact
 Miss. R. Evid. 703. Miss. R. Evid. 703,miss. r. evid. 703. miss. r. evid. 703,Court Rule,state_rule,MS,2,2,1,1996,1998,true,exact
 Miss. R. Evid. 802. Rule 801,miss. r. evid. 802. rule 801,Court Rule,state_rule,MS,2,2,1,1995,1998,true,exact
@@ -780,6 +751,8 @@ Miss. R.App. P. 41,miss. r.app. p. 41,Court Rule,state_rule,MS,2,2,2,2003,2011,t
 Miss. R.App. P. Rule 10,miss. r.app. p. rule 10,Court Rule,state_rule,MS,2,1,1,1997,1997,true,exact
 "Miss. R.App. P., Rule 10","miss. r.app. p., rule 10",Court Rule,state_rule,MS,2,1,1,2007,2007,true,exact
 Miss. R.Civ. P. 13,miss. r.civ. p. 13,Court Rule,state_rule,MS,2,1,1,1991,1991,true,exact
+Miss. R.Civ. P. 41,miss. r.civ. p. 41,Court Rule,state_rule,MS,2,1,1,1992,2002,true,exact
+Miss. R.Civ. P. 81,miss. r.civ. p. 81,Court Rule,state_rule,MS,2,1,1,1991,1991,true,exact
 Miss. R.Civ. P. 82,miss. r.civ. p. 82,Court Rule,state_rule,MS,2,1,1,1991,1991,true,exact
 Miss. R.Civ. P. Rule 12,miss. r.civ. p. rule 12,Court Rule,state_rule,MS,2,2,1,1996,1998,true,exact
 Miss. R.Civ.P. 19,miss. r.civ.p. 19,Court Rule,state_rule,MS,2,2,1,1993,1993,true,exact
@@ -840,15 +813,7 @@ Miss.R. Civ.P. 59,miss.r. civ.p. 59,Court Rule,state_rule,MS,2,2,1,1989,1989,tru
 Miss.R. Ev. 3,miss.r. ev. 3,Court Rule,state_rule,MS,2,2,1,1990,1992,false,unresolved
 Miss.R. Ev. 803,miss.r. ev. 803,Court Rule,state_rule,MS,2,2,2,1990,2000,false,unresolved
 Miss.R. Evid. 1001,miss.r. evid. 1001,Court Rule,state_rule,MS,2,2,1,1996,1998,false,unresolved
-Miss.R. Evid. 1002,miss.r. evid. 1002,Court Rule,state_rule,MS,2,2,1,1996,1997,false,unresolved
 Miss.R. Evid. 1005,miss.r. evid. 1005,Court Rule,state_rule,MS,2,2,1,1993,1998,false,unresolved
-Miss.R. Evid. 105,miss.r. evid. 105,Court Rule,state_rule,MS,2,2,1,1996,1998,false,unresolved
-Miss.R. Evid. 1103,miss.r. evid. 1103,Court Rule,state_rule,MS,2,1,1,1991,1991,false,unresolved
-Miss.R. Evid. 201,miss.r. evid. 201,Court Rule,state_rule,MS,2,2,1,1995,1995,false,unresolved
-Miss.R. Evid. 406,miss.r. evid. 406,Court Rule,state_rule,MS,2,2,1,2003,2003,false,unresolved
-Miss.R. Evid. 503,miss.r. evid. 503,Court Rule,state_rule,MS,2,2,1,1992,1996,false,unresolved
-Miss.R. Evid. 614,miss.r. evid. 614,Court Rule,state_rule,MS,2,1,1,1992,1992,false,unresolved
-Miss.R. Evid. 616,miss.r. evid. 616,Court Rule,state_rule,MS,2,2,1,1995,1995,false,unresolved
 Miss.R. of Evid. 804,miss.r. of evid. 804,Court Rule,state_rule,MS,2,1,1,1988,1988,false,unresolved
 Miss.R.App. P. 28,miss.r.app. p. 28,Court Rule,state_rule,MS,2,2,1,1996,1998,true,exact
 Miss.R.Civ. P. 13,miss.r.civ. p. 13,Court Rule,state_rule,MS,2,2,2,1991,1994,true,exact
@@ -1060,8 +1025,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 1116 (Miss. 1992) Rule 4,1116 (miss. 1992) rule 4,Court Rule,state_rule,MS,1,1,1,1994,1994,false,unresolved
 1117-18 (Miss. 1987). Rule 404,1117-18 (miss. 1987). rule 404,Court Rule,state_rule,MS,1,1,1,1987,1987,false,unresolved
 113 (Miss. 1999)). 5 Miss. R. Evid. 402. 6 Miss. R. Evid. 401,113 (miss. 1999)). 5 miss. r. evid. 402. 6 miss. r. evid. 401,Court Rule,state_rule,MS,1,1,1,2014,2014,false,unresolved
-113 (Miss. 1999)). Miss. R. Evid. 401,113 (miss. 1999)). miss. r. evid. 401,Court Rule,state_rule,MS,1,1,1,1998,1998,false,unresolved
-113 (Miss.1999)). Miss. R. Evid. 401,113 (miss.1999)). miss. r. evid. 401,Court Rule,state_rule,MS,1,1,1,2001,2001,false,unresolved
 1136-37 (Miss.1997). Rule 412,1136-37 (miss.1997). rule 412,Court Rule,state_rule,MS,1,1,1,2007,2007,false,unresolved
 1139 (Miss. 1995). Rule 2.05,1139 (miss. 1995). rule 2.05,Court Rule,state_rule,MS,1,1,1,2018,2018,false,unresolved
 1141 (Miss.1999) (citations omitted). Rule 403,1141 (miss.1999) (citations omitted). rule 403,Court Rule,state_rule,MS,1,1,1,2009,2009,false,unresolved
@@ -1079,8 +1042,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 12 Sm. & Marsh. (Miss.) R. 640,12 sm. & marsh. (miss.) r. 640,Court Rule,state_rule,MS,1,1,1,1857,1857,false,unresolved
 1207 (Miss. 1994). Rule 59,1207 (miss. 1994). rule 59,Court Rule,state_rule,MS,1,1,1,2005,2005,false,unresolved
 1207 (Miss.1994).) Rule 59,1207 (miss.1994).) rule 59,Court Rule,state_rule,MS,1,1,1,2006,2006,false,unresolved
-1214 (Miss. 1996). Miss. R. Civ. P. 56,1214 (miss. 1996). miss. r. civ. p. 56,Court Rule,state_rule,MS,1,1,1,1997,1997,false,unresolved
-1214 (Miss.1996). Miss. R. Civ. P. 56,1214 (miss.1996). miss. r. civ. p. 56,Court Rule,state_rule,MS,1,1,1,1999,1999,false,unresolved
 1217 (Miss. 1983). Rule 8.07,1217 (miss. 1983). rule 8.07,Court Rule,state_rule,MS,1,1,1,1984,1984,false,unresolved
 1217 (Miss. 1999). Rule 9.04,1217 (miss. 1999). rule 9.04,Court Rule,state_rule,MS,1,1,1,2018,2018,false,unresolved
 "1225 (Miss. 1983), and Rule 4","1225 (miss. 1983), and rule 4",Court Rule,state_rule,MS,1,1,1,1990,1990,false,unresolved
@@ -1186,10 +1147,7 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 207 (Miss.1987). Rule 37,207 (miss.1987). rule 37,Court Rule,state_rule,MS,1,1,1,2005,2005,false,unresolved
 21 Miss. R. Evid. 701,21 miss. r. evid. 701,Court Rule,state_rule,MS,1,1,1,2014,2014,true,exact
 21 Miss. R. Evid. 702,21 miss. r. evid. 702,Court Rule,state_rule,MS,1,1,1,2012,2012,true,exact
-215 (Miss. Ct. App. 1998). Miss. R. Evid. 106,215 (miss. ct. app. 1998). miss. r. evid. 106,Court Rule,state_rule,MS,1,1,1,2000,2000,false,unresolved
-215 (Miss.Ct. App.1998). Miss. R. Evid. 106,215 (miss.ct. app.1998). miss. r. evid. 106,Court Rule,state_rule,MS,1,1,1,2002,2002,false,unresolved
 "21B Fed. Frac. & Proc., Evid. § 5122","21b fed. frac. & proc., evid. § 5122",Court Rule,state_rule,MS,1,1,1,2013,2013,false,unresolved
-"21B Fed. Proc. & Proc., Evid. § 5122","21b fed. proc. & proc., evid. § 5122",Court Rule,state_rule,MS,1,1,1,2013,2013,false,unresolved
 220 (Miss.2000). Rule 41,220 (miss.2000). rule 41,Court Rule,state_rule,MS,1,1,1,2002,2002,false,unresolved
 221 (Miss. 1984)). Rule 60,221 (miss. 1984)). rule 60,Court Rule,state_rule,MS,1,1,1,2009,2009,false,unresolved
 221 (Miss.1984)). Rule 60,221 (miss.1984)). rule 60,Court Rule,state_rule,MS,1,1,1,2009,2009,false,unresolved
@@ -1354,8 +1312,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 31 Miss. R. 89,31 miss. r. 89,Court Rule,state_rule,MS,1,1,1,1857,1857,false,unresolved
 310-11 (Miss.1989)). Rule 77,310-11 (miss.1989)). rule 77,Court Rule,state_rule,MS,1,1,1,2007,2007,false,unresolved
 311 (Miss.2003). Rule 60,311 (miss.2003). rule 60,Court Rule,state_rule,MS,1,1,1,2013,2013,false,unresolved
-313 (Miss. 1998). Miss. R. Evid. 404,313 (miss. 1998). miss. r. evid. 404,Court Rule,state_rule,MS,1,1,1,1999,1999,false,unresolved
-313 (Miss. 1998). Miss.R. Evid. 404,313 (miss. 1998). miss.r. evid. 404,Court Rule,state_rule,MS,1,1,1,2001,2001,false,unresolved
 32 Miss. R. 1,32 miss. r. 1,Court Rule,state_rule,MS,1,1,1,1859,1859,false,unresolved
 32 Miss. R. 196,32 miss. r. 196,Court Rule,state_rule,MS,1,1,1,1859,1859,false,unresolved
 32 Miss. R. 212,32 miss. r. 212,Court Rule,state_rule,MS,1,1,1,1859,1859,false,unresolved
@@ -1375,7 +1331,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 33 Miss. R. 585-624,33 miss. r. 585-624,Court Rule,state_rule,MS,1,1,1,1860,1860,false,unresolved
 33 Miss. R. 95,33 miss. r. 95,Court Rule,state_rule,MS,1,1,1,1859,1859,false,unresolved
 334 (Miss.1978). Rule 703,334 (miss.1978). rule 703,Court Rule,state_rule,MS,1,1,1,2002,2002,false,unresolved
-337 (5th Cir.1980)). Miss.R. Evid. 1002,337 (5th cir.1980)). miss.r. evid. 1002,Court Rule,local_rule,MS,1,1,1,1998,1998,false,unresolved
 34 Miss. R. 227,34 miss. r. 227,Court Rule,state_rule,MS,1,1,1,1859,1859,false,unresolved
 34 Miss. R. 262,34 miss. r. 262,Court Rule,state_rule,MS,1,1,1,1858,1858,false,unresolved
 34 Miss. R. 289,34 miss. r. 289,Court Rule,state_rule,MS,1,1,1,1858,1858,false,unresolved
@@ -1441,7 +1396,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 4 Mississippi Rule of Evidence 403. Rule 403,4 mississippi rule of evidence 403. rule 403,Court Rule,state_rule,MS,1,1,1,2016,2016,true,exact
 4 S. & M. (Miss.) R. 133,4 s. & m. (miss.) r. 133,Court Rule,state_rule,MS,1,1,1,1851,1851,false,unresolved
 "4 WAYNE R. LAFAVE, JEROLD H. ISRAEL, & NANCY J. KING, CRIM. PROC § 19.2","4 wayne r. lafave, jerold h. israel, & nancy j. king, crim. proc § 19.2",Court Rule,state_rule,MS,1,1,1,2004,2004,false,unresolved
-4-1 (1984). Miss.R. Evid. 607,4-1 (1984). miss.r. evid. 607,Court Rule,state_rule,MS,1,1,1,1995,1995,false,unresolved
 40 Miss. R. 453,40 miss. r. 453,Court Rule,state_rule,MS,1,1,1,1869,1869,false,unresolved
 40 Miss. R. 472,40 miss. r. 472,Court Rule,state_rule,MS,1,1,1,1874,1874,false,unresolved
 407 (Miss. 1997). Rule 7.06,407 (miss. 1997). rule 7.06,Court Rule,state_rule,MS,1,1,1,1999,1999,false,unresolved
@@ -1540,20 +1494,16 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 7 Miss. R. Evid. 411,7 miss. r. evid. 411,Court Rule,state_rule,MS,1,1,1,2014,2014,true,exact
 7 Miss. R. Evid. 608,7 miss. r. evid. 608,Court Rule,state_rule,MS,1,1,1,2012,2012,true,exact
 7 Statutes Mississippi: Rule 68,7 statutes mississippi: rule 68,Court Rule,state_rule,MS,1,1,1,2015,2015,false,unresolved
-702 (5th Cir.1954). Miss.R.Civ. P. 59,702 (5th cir.1954). miss.r.civ. p. 59,Court Rule,local_rule,MS,1,1,1,1993,1993,false,unresolved
-702 (Miss.1990). Miss. R. Civ. P. 54,702 (miss.1990). miss. r. civ. p. 54,Court Rule,state_rule,MS,1,1,1,1999,1999,false,unresolved
 "71 (Miss. 1975), and Miss. R. Evid. 1103","71 (miss. 1975), and miss. r. evid. 1103",Court Rule,state_rule,MS,1,1,1,2002,2002,false,unresolved
 71 (Miss.1975) and Mississippi Supreme Court Rule 42,71 (miss.1975) and mississippi supreme court rule 42,Court Rule,state_rule,MS,1,1,1,1985,1985,false,unresolved
 "71 (Miss.1975), and Miss. R. Evid. 1103","71 (miss.1975), and miss. r. evid. 1103",Court Rule,state_rule,MS,1,1,1,2003,2003,false,unresolved
 716 (Miss. 1990). Rule 55,716 (miss. 1990). rule 55,Court Rule,state_rule,MS,1,1,1,1993,1993,false,unresolved
 716 (Miss. 1990). Rule 60,716 (miss. 1990). rule 60,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
 724 (Miss. 1991). Miss.Sup.Ct. R. 6,724 (miss. 1991). miss.sup.ct. r. 6,Court Rule,state_rule,MS,1,1,1,1993,1993,false,unresolved
-730 (Miss. 1989). Miss.R.Civ. P. 15,730 (miss. 1989). miss.r.civ. p. 15,Court Rule,state_rule,MS,1,1,1,1994,1994,false,unresolved
 731 (Miss. 1990). Rule 404,731 (miss. 1990). rule 404,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
 736 (Miss. 1974). Rule 54,736 (miss. 1974). rule 54,Court Rule,state_rule,MS,1,1,1,1996,1996,false,unresolved
 74 Miss. R. Evid. 403,74 miss. r. evid. 403,Court Rule,state_rule,MS,1,1,1,2006,2006,true,exact
 755 (Miss.1992)). Rule 404,755 (miss.1992)). rule 404,Court Rule,state_rule,MS,1,1,1,2013,2013,false,unresolved
-758 (Miss.1991). Miss. R. Evid. 404,758 (miss.1991). miss. r. evid. 404,Court Rule,state_rule,MS,1,1,1,2002,2002,false,unresolved
 767 (Miss. 1982) and Rule 1.5,767 (miss. 1982) and rule 1.5,Court Rule,state_rule,MS,1,1,1,2008,2008,false,unresolved
 767 (Miss. 1982). Rule 1.5,767 (miss. 1982). rule 1.5,Court Rule,state_rule,MS,1,1,1,2005,2005,false,unresolved
 767 (Miss.1982). Rule 1.5,767 (miss.1982). rule 1.5,Court Rule,state_rule,MS,1,1,1,2006,2006,false,unresolved
@@ -1586,7 +1536,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 832 (Miss. 1996). Rule 902,832 (miss. 1996). rule 902,Court Rule,state_rule,MS,1,1,1,2001,2001,false,unresolved
 832 (Miss.1995). Rule 902,832 (miss.1995). rule 902,Court Rule,state_rule,MS,1,1,1,2001,2001,false,unresolved
 84 Miss. R. 583,84 miss. r. 583,Court Rule,state_rule,MS,1,1,1,1860,1860,false,unresolved
-842 (Miss. 1967). Miss.R. Evid. 404,842 (miss. 1967). miss.r. evid. 404,Court Rule,state_rule,MS,1,1,1,1991,1991,false,unresolved
 849 (Miss. 1995). Rule 611,849 (miss. 1995). rule 611,Court Rule,state_rule,MS,1,1,1,1998,1998,false,unresolved
 849 (Miss.1995). Rule 611,849 (miss.1995). rule 611,Court Rule,state_rule,MS,1,1,1,1999,1999,false,unresolved
 851 (Miss. 1975). Mississippi Supreme Court Rule 42,851 (miss. 1975). mississippi supreme court rule 42,Court Rule,state_rule,MS,1,1,1,1979,1979,false,unresolved
@@ -1600,7 +1549,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 "88 Miss., R. 49","88 miss., r. 49",Court Rule,state_rule,MS,1,1,1,1861,1861,false,unresolved
 889 (Miss. 1987). Rule 4.06,889 (miss. 1987). rule 4.06,Court Rule,state_rule,MS,1,1,1,1987,1987,false,unresolved
 898 (Miss. 1991) Rule 59,898 (miss. 1991) rule 59,Court Rule,state_rule,MS,1,1,1,2006,2006,false,unresolved
-899 (Miss.1987). Miss. R. Civ. P. 54,899 (miss.1987). miss. r. civ. p. 54,Court Rule,state_rule,MS,1,1,1,2000,2000,false,unresolved
 9 (Miss.1996). Rule 13,9 (miss.1996). rule 13,Court Rule,state_rule,MS,1,1,1,2007,2007,false,unresolved
 9 (Miss.2007) Rule 403,9 (miss.2007) rule 403,Court Rule,state_rule,MS,1,1,1,2008,2008,false,unresolved
 9 Miss. R. 28,9 miss. r. 28,Court Rule,state_rule,MS,1,1,1,1855,1855,false,unresolved
@@ -1609,7 +1557,6 @@ Under Mississippi Rules of Civil Procedure Rule 6,under mississippi rules of civ
 9 Miss. R. Evid. 901,9 miss. r. evid. 901,Court Rule,state_rule,MS,1,1,1,1995,1995,true,exact
 903 (Miss.1998). Rule 401,903 (miss.1998). rule 401,Court Rule,state_rule,MS,1,1,1,2001,2001,false,unresolved
 904 (Miss.1991). Rule 60,904 (miss.1991). rule 60,Court Rule,state_rule,MS,1,1,1,2014,2014,false,unresolved
-908 (Miss. 1981). Cf. Miss.R.Civ. P. 81,908 (miss. 1981). cf. miss.r.civ. p. 81,Court Rule,state_rule,MS,1,1,1,1991,1991,false,unresolved
 912 (Miss.2006). Rule 702,912 (miss.2006). rule 702,Court Rule,state_rule,MS,1,1,1,2013,2013,false,unresolved
 92 (Miss. 1987). Rule 404,92 (miss. 1987). rule 404,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
 928 (¶ 31) (Miss.2006)). Rule 702,928 (¶ 31) (miss.2006)). rule 702,Court Rule,state_rule,MS,1,1,1,2012,2012,false,unresolved
@@ -1731,10 +1678,8 @@ Miss. R. Crim. P. 4.06.20,miss. r. crim. p. 4.06.20,Court Rule,state_rule,MS,1,1
 Miss. R. Crim. P. 4.4,miss. r. crim. p. 4.4,Court Rule,state_rule,MS,1,1,1,2018,2018,true,exact
 Miss. R. Crim. P. 6.2,miss. r. crim. p. 6.2,Court Rule,state_rule,MS,1,1,1,2021,2021,true,exact
 Miss. R. Crim. P. Rule 4.06,miss. r. crim. p. rule 4.06,Court Rule,state_rule,MS,1,1,1,2023,2023,false,unresolved
-Miss. R. Crv. P. 17,miss. r. crv. p. 17,Court Rule,state_rule,MS,1,1,1,2004,2004,false,unresolved
 Miss. R. Ev. 613,miss. r. ev. 613,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
 Miss. R. Evid. 1,miss. r. evid. 1,Court Rule,state_rule,MS,1,1,1,1998,1998,false,unresolved
-Miss. R. Evid. 1002,miss. r. evid. 1002,Court Rule,state_rule,MS,1,1,1,2025,2025,true,exact
 Miss. R. Evid. 101-102,miss. r. evid. 101-102,Court Rule,state_rule,MS,1,1,1,2007,2007,false,unresolved
 Miss. R. Evid. 101-102.11,miss. r. evid. 101-102.11,Court Rule,state_rule,MS,1,1,1,2005,2005,false,unresolved
 Miss. R. Evid. 101-105,miss. r. evid. 101-105,Court Rule,state_rule,MS,1,1,1,2022,2022,false,unresolved
@@ -1807,11 +1752,9 @@ Miss. R.Civ. P. 19,miss. r.civ. p. 19,Court Rule,state_rule,MS,1,1,1,1995,1995,t
 Miss. R.Civ. P. 3,miss. r.civ. p. 3,Court Rule,state_rule,MS,1,1,1,1997,1997,true,exact
 Miss. R.Civ. P. 30,miss. r.civ. p. 30,Court Rule,state_rule,MS,1,1,1,1987,1987,true,exact
 Miss. R.Civ. P. 32,miss. r.civ. p. 32,Court Rule,state_rule,MS,1,1,1,1995,1995,true,exact
-Miss. R.Civ. P. 41,miss. r.civ. p. 41,Court Rule,state_rule,MS,1,1,1,1992,1992,true,exact
 Miss. R.Civ. P. 51,miss. r.civ. p. 51,Court Rule,state_rule,MS,1,1,1,1992,1992,true,exact
 Miss. R.Civ. P. 58,miss. r.civ. p. 58,Court Rule,state_rule,MS,1,1,1,1992,1992,true,exact
 Miss. R.Civ. P. 65,miss. r.civ. p. 65,Court Rule,state_rule,MS,1,1,1,2004,2004,true,exact
-Miss. R.Civ. P. 81,miss. r.civ. p. 81,Court Rule,state_rule,MS,1,1,1,1991,1991,true,exact
 Miss. R.Civ. P. 9,miss. r.civ. p. 9,Court Rule,state_rule,MS,1,1,1,1992,1992,true,exact
 Miss. R.Civ.P. 15,miss. r.civ.p. 15,Court Rule,state_rule,MS,1,1,1,1992,1992,true,exact
 Miss. R.Civ.P. 26,miss. r.civ.p. 26,Court Rule,state_rule,MS,1,1,1,1992,1992,true,exact
@@ -1931,14 +1874,6 @@ Miss.R. Ev. 606,miss.r. ev. 606,Court Rule,state_rule,MS,1,1,1,1991,1991,false,u
 Miss.R. Ev. 611,miss.r. ev. 611,Court Rule,state_rule,MS,1,1,1,1987,1987,false,unresolved
 Miss.R. Ev. 801,miss.r. ev. 801,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
 Miss.R. Ev. 804,miss.r. ev. 804,Court Rule,state_rule,MS,1,1,1,1990,1990,false,unresolved
-Miss.R. Evid. 301,miss.r. evid. 301,Court Rule,state_rule,MS,1,1,1,1993,1993,false,unresolved
-Miss.R. Evid. 411,miss.r. evid. 411,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
-Miss.R. Evid. 501,miss.r. evid. 501,Court Rule,state_rule,MS,1,1,1,1987,1987,false,unresolved
-Miss.R. Evid. 502,miss.r. evid. 502,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
-Miss.R. Evid. 607,miss.r. evid. 607,Court Rule,state_rule,MS,1,1,1,1995,1995,false,unresolved
-Miss.R. Evid. 706,miss.r. evid. 706,Court Rule,state_rule,MS,1,1,1,1993,1993,false,unresolved
-Miss.R. Evid. 802,miss.r. evid. 802,Court Rule,state_rule,MS,1,1,1,1992,1992,false,unresolved
-Miss.R. Evid. 806,miss.r. evid. 806,Court Rule,state_rule,MS,1,1,1,1995,1995,false,unresolved
 Miss.R. of Evid. 601,miss.r. of evid. 601,Court Rule,state_rule,MS,1,1,1,1988,1988,false,unresolved
 Miss.R.App. P. 17,miss.r.app. p. 17,Court Rule,state_rule,MS,1,1,1,2013,2013,true,exact
 Miss.R.App. P. 22,miss.r.app. p. 22,Court Rule,state_rule,MS,1,1,1,2015,2015,true,exact

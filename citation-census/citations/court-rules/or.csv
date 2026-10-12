@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 Or. R. Civ. P. 4L,or. r. civ. p. 4l,Court Rule,state_rule,OR,31,31,3,1999,2026,false,unresolved
-Or. R. Civ. P. 4,or. r. civ. p. 4,Court Rule,state_rule,OR,29,26,5,2010,2026,true,exact
+Or. R. Civ. P. 4,or. r. civ. p. 4,Court Rule,state_rule,OR,30,26,5,1984,2026,true,exact
 Or. R. Civ. P. 7,or. r. civ. p. 7,Court Rule,state_rule,OR,26,13,2,2012,2025,true,exact
 Or. R. Civ. P. 7D,or. r. civ. p. 7d,Court Rule,state_rule,OR,13,6,2,2019,2022,false,unresolved
 44 Ore. L.R. 175,44 ore. l.r. 175,Court Rule,local_rule,OR,10,8,1,1972,1983,false,unresolved
@@ -53,6 +53,7 @@ Oregon Evidence Code Rule 201,oregon evidence code rule 201,Court Rule,state_rul
 "Oregon Evidence Code, Rule 412","oregon evidence code, rule 412",Court Rule,state_rule,OR,3,3,1,2000,2000,true,exact
 Oregon Evidence Rule 404,oregon evidence rule 404,Court Rule,state_rule,OR,3,3,1,1993,1995,false,unresolved
 Oregon Evidence Rule 609,oregon evidence rule 609,Court Rule,state_rule,OR,3,3,1,1988,1990,false,unresolved
+Oregon Rule 83,oregon rule 83,Court Rule,state_rule,OR,3,1,1,2024,2024,true,exact
 Oregon Rules of Civil Procedure Rule 1994,oregon rules of civil procedure rule 1994,Court Rule,state_rule,OR,3,3,1,2015,2015,false,unresolved
 Oregon Rules of Civil Procedure Rule 1995-1996,oregon rules of civil procedure rule 1995-1996,Court Rule,state_rule,OR,3,3,1,1997,1997,false,unresolved
 Oregon Rules of Civil Procedure Rule 59,oregon rules of civil procedure rule 59,Court Rule,state_rule,OR,3,3,2,2009,2022,true,exact
@@ -94,6 +95,7 @@ Or. R. Evid. 310,or. r. evid. 310,Court Rule,state_rule,OR,2,2,1,2013,2013,true,
 Or. R. Evid. 310 (O.R.S. § 40.130,or. r. evid. 310 (o.r.s. § 40.130,Court Rule,state_rule,OR,2,2,1,2013,2013,false,unresolved
 Or. R.App. P. 9.07,or. r.app. p. 9.07,Court Rule,state_rule,OR,2,2,1,2002,2004,true,exact
 Or. R.App. P. 9.10,or. r.app. p. 9.10,Court Rule,state_rule,OR,2,1,1,2002,2002,true,exact
+"Or. Rules of Prof. Conduct, Rule 3.7","or. rules of prof. conduct, rule 3.7",Court Rule,state_rule,OR,2,1,1,2005,2005,true,exact
 "Or., 335 B. R. 842","or., 335 b. r. 842",Court Rule,state_rule,OR,2,2,2,2007,2012,false,unresolved
 "Or., R. 72","or., r. 72",Court Rule,state_rule,OR,2,2,1,2009,2009,false,unresolved
 "Or., R. 78","or., r. 78",Court Rule,state_rule,OR,2,2,1,2009,2009,false,unresolved
@@ -118,7 +120,6 @@ Oregon Evidence Rule 412,oregon evidence rule 412,Court Rule,state_rule,OR,2,2,1
 Oregon R. 1140-1143,oregon r. 1140-1143,Court Rule,state_rule,OR,2,2,1,1963,1963,false,unresolved
 "Oregon R.R. Co., P. 523","oregon r.r. co., p. 523",Court Rule,state_rule,OR,2,2,1,1940,1941,false,unresolved
 Oregon Rule 4E,oregon rule 4e,Court Rule,state_rule,OR,2,1,1,2024,2024,false,unresolved
-Oregon Rule 83,oregon rule 83,Court Rule,state_rule,OR,2,1,1,2024,2024,true,exact
 Oregon Rules 5,oregon rules 5,Court Rule,state_rule,OR,2,2,1,2024,2024,true,exact
 Oregon Rules of Appellate Procedure Rule 4.66,oregon rules of appellate procedure rule 4.66,Court Rule,state_rule,OR,2,2,1,2025,2025,true,exact
 "Oregon Rules of Appellate Procedure, Rule 7.32","oregon rules of appellate procedure, rule 7.32",Court Rule,state_rule,OR,2,1,1,1981,1981,false,unresolved
@@ -153,12 +154,9 @@ Oregon Tax Court Rule 67,oregon tax court rule 67,Court Rule,state_rule,OR,2,1,1
 "1 Oregon Rules of Civil Procedure, Rule 67B","1 oregon rules of civil procedure, rule 67b",Court Rule,state_rule,OR,1,1,1,1997,1997,false,unresolved
 10 D. L.R. 37,10 d. l.r. 37,Court Rule,local_rule,OR,1,1,1,1931,1931,false,unresolved
 108 Tsx. Or. R. 199,108 tsx. or. r. 199,Court Rule,state_rule,OR,1,1,1,1940,1940,false,unresolved
-11 B.R. 48 (Bankr.W.D.Mo 1981). ORS 743.099,11 b.r. 48 (bankr.w.d.mo 1981). ors 743.099,Court Rule,local_rule,OR,1,1,1,1985,1985,false,unresolved
 11 Or. T. R. 440,11 or. t. r. 440,Court Rule,state_rule,OR,1,1,1,1991,1991,false,unresolved
 "11 Oregon, 406 (50 Am. R. 477","11 oregon, 406 (50 am. r. 477",Court Rule,state_rule,OR,1,1,1,1907,1907,false,unresolved
-"1127-1129 (5th Cir. 1990). 16 Or. Rules of Prof. Conduct, Rule 3.7","1127-1129 (5th cir. 1990). 16 or. rules of prof. conduct, rule 3.7",Court Rule,local_rule,OR,1,1,1,2005,2005,false,unresolved
 119 B.R. 786 (Bankr. D. Ore. 1990) § 1930,119 b.r. 786 (bankr. d. ore. 1990) § 1930,Court Rule,local_rule,OR,1,1,1,1998,1998,false,unresolved
-171 B.R. 799 (Bankr.E.D.Mich.1994). ORS 9.160,171 b.r. 799 (bankr.e.d.mich.1994). ors 9.160,Court Rule,local_rule,OR,1,1,1,1996,1996,false,unresolved
 19 Ore. L.R. 362,19 ore. l.r. 362,Court Rule,local_rule,OR,1,1,1,1945,1945,false,unresolved
 19 Oregon L.R. 363,19 oregon l.r. 363,Court Rule,local_rule,OR,1,1,1,1965,1965,false,unresolved
 2 D. L.R. 853,2 d. l.r. 853,Court Rule,local_rule,OR,1,1,1,1945,1945,false,unresolved
@@ -172,10 +170,8 @@ Oregon Tax Court Rule 67,oregon tax court rule 67,Court Rule,state_rule,OR,2,1,1
 "31 Or. L. Rev. (1952), 267. Rule 303","31 or. l. rev. (1952), 267. rule 303",Court Rule,state_rule,OR,1,1,1,1969,1969,false,unresolved
 31 Or. L.R. 330,31 or. l.r. 330,Court Rule,local_rule,OR,1,1,1,1970,1970,false,unresolved
 "34 Or. 266, 55 P. 967, 43 L.R.A. 634, 75 Am.St.Rep. 641. Revised Statutes § 2448","34 or. 266, 55 p. 967, 43 l.r.a. 634, 75 am.st.rep. 641. revised statutes § 2448",Court Rule,local_rule,OR,1,1,1,1936,1936,false,unresolved
-"4 B.R. 127, 131 (Bankr.D.Or.1980) (IRA’s). ORS 23.170","4 b.r. 127, 131 (bankr.d.or.1980) (ira’s). ors 23.170",Court Rule,local_rule,OR,1,1,1,1989,1989,false,unresolved
 4 D. L.R. 538,4 d. l.r. 538,Court Rule,local_rule,OR,1,1,1,1939,1939,false,unresolved
 4 Okl. Or. R. 587,4 okl. or. r. 587,Court Rule,state_rule,OR,1,1,1,1916,1916,false,unresolved
-"42 B.R. 380, 382 (D. Or. 1984). RCW 19.86.920","42 b.r. 380, 382 (d. or. 1984). rcw 19.86.920",Court Rule,local_rule,OR,1,1,1,2000,2000,false,unresolved
 49 Or. R. S36,49 or. r. s36,Court Rule,state_rule,OR,1,1,1,1940,1940,false,unresolved
 5 D. L.R. 545,5 d. l.r. 545,Court Rule,local_rule,OR,1,1,1,1917,1917,false,unresolved
 5 Or. Admin R. 340-253-0400,5 or. admin r. 340-253-0400,Court Rule,state_rule,OR,1,1,1,2018,2018,false,unresolved
@@ -198,10 +194,8 @@ Oregon Tax Court Rule 67,oregon tax court rule 67,Court Rule,state_rule,OR,2,1,1
 83 Tes. Or. R. 376,83 tes. or. r. 376,Court Rule,state_rule,OR,1,1,1,1923,1923,false,unresolved
 83 Tes. Or. R. 54,83 tes. or. r. 54,Court Rule,state_rule,OR,1,1,1,1923,1923,false,unresolved
 84 Oregon Law R. 433,84 oregon law r. 433,Court Rule,state_rule,OR,1,1,1,2006,2006,false,unresolved
-860 (Or. 1960). 59 Or. R. Civ. P. 12,860 (or. 1960). 59 or. r. civ. p. 12,Court Rule,state_rule,OR,1,1,1,2023,2023,false,unresolved
 88 Tes. Or. R. 1,88 tes. or. r. 1,Court Rule,state_rule,OR,1,1,1,1923,1923,false,unresolved
 9 Or. T. R. 76,9 or. t. r. 76,Court Rule,state_rule,OR,1,1,1,1983,1983,false,unresolved
-941 (Or. Ct. App. 1986). Oregon Rule 83,941 (or. ct. app. 1986). oregon rule 83,Court Rule,state_rule,OR,1,1,1,2024,2024,false,unresolved
 "Bankr.D. Oregon, 19 B. R. 149","bankr.d. oregon, 19 b. r. 149",Court Rule,local_rule,OR,1,1,1,1986,1986,false,unresolved
 "C.P.R., 30 Man. L.R. 401","c.p.r., 30 man. l.r. 401",Court Rule,local_rule,OR,1,1,1,1934,1934,false,unresolved
 Calif.Ann.Evid.Code § 912,calif.ann.evid.code § 912,Court Rule,state_rule,OR,1,1,1,1991,1991,true,exact
@@ -274,6 +268,7 @@ Or. R. App. P. 3.05,or. r. app. p. 3.05,Court Rule,state_rule,OR,1,1,1,2017,2017
 Or. R. App. P. 5.92,or. r. app. p. 5.92,Court Rule,state_rule,OR,1,1,1,2020,2020,true,exact
 Or. R. App. P. 7.40,or. r. app. p. 7.40,Court Rule,state_rule,OR,1,1,1,2024,2024,true,exact
 Or. R. Civ. P. 10,or. r. civ. p. 10,Court Rule,state_rule,OR,1,1,1,2018,2018,true,exact
+Or. R. Civ. P. 12,or. r. civ. p. 12,Court Rule,state_rule,OR,1,1,1,2023,2023,true,exact
 Or. R. Civ. P. 16,or. r. civ. p. 16,Court Rule,state_rule,OR,1,1,1,2011,2011,true,exact
 Or. R. Civ. P. 17,or. r. civ. p. 17,Court Rule,state_rule,OR,1,1,1,2014,2014,true,exact
 Or. R. Civ. P. 19,or. r. civ. p. 19,Court Rule,state_rule,OR,1,1,1,2023,2023,true,exact
@@ -309,7 +304,6 @@ Or. R.App. P. 4.30,or. r.app. p. 4.30,Court Rule,state_rule,OR,1,1,1,2003,2003,t
 Or. R.App. P. § 9.05,or. r.app. p. § 9.05,Court Rule,state_rule,OR,1,1,1,2006,2006,true,exact
 Or. R.Civ. P. 4L,or. r.civ. p. 4l,Court Rule,state_rule,OR,1,1,1,1995,1995,false,unresolved
 Or. Rule of Evidence § 504-2,or. rule of evidence § 504-2,Court Rule,state_rule,OR,1,1,1,2012,2012,false,unresolved
-"Or. Rules of Prof. Conduct, Rule 3.7","or. rules of prof. conduct, rule 3.7",Court Rule,state_rule,OR,1,1,1,2005,2005,true,exact
 Or. Unif. Tr. Ct. R. 3.120,or. unif. tr. ct. r. 3.120,Court Rule,state_rule,OR,1,1,1,2009,2009,true,exact
 "Or., 339 B. R. 215","or., 339 b. r. 215",Court Rule,state_rule,OR,1,1,1,2025,2025,false,unresolved
 "Or., P.U. R. 1927E","or., p.u. r. 1927e",Court Rule,state_rule,OR,1,1,1,1954,1954,false,unresolved

@@ -26,7 +26,7 @@ Utah Rules of Civil Procedure Rule 56,utah rules of civil procedure rule 56,Cour
 Utah Rules of Civil Procedure Rule 60,utah rules of civil procedure rule 60,Court Rule,state_rule,UT,164,143,5,1953,2026,true,exact
 Utah Rules of Appellate Procedure Rule 24,utah rules of appellate procedure rule 24,Court Rule,state_rule,UT,163,143,2,1985,2025,true,exact
 Utah R.Crim. P. 11,utah r.crim. p. 11,Court Rule,state_rule,UT,151,88,3,1984,2015,true,exact
-Utah R. Civ. P. 4,utah r. civ. p. 4,Court Rule,state_rule,UT,146,79,12,1997,2026,true,exact
+Utah R. Civ. P. 4,utah r. civ. p. 4,Court Rule,state_rule,UT,147,79,12,1997,2026,true,exact
 Utah R. Civ. P. 7,utah r. civ. p. 7,Court Rule,state_rule,UT,140,100,4,2002,2025,true,exact
 Utah R. Evid. 412,utah r. evid. 412,Court Rule,state_rule,UT,137,52,8,1997,2025,true,exact
 Utah R.Crim. P. 30,utah r.crim. p. 30,Court Rule,state_rule,UT,134,118,2,1985,2014,true,exact
@@ -34,8 +34,8 @@ Utah R. Civ. P. 37,utah r. civ. p. 37,Court Rule,state_rule,UT,128,73,4,1997,202
 Utah R. Civ. P. 8,utah r. civ. p. 8,Court Rule,state_rule,UT,121,104,5,1996,2025,true,exact
 Utah R. Civ. P. 11,utah r. civ. p. 11,Court Rule,state_rule,UT,120,71,3,1997,2025,true,exact
 Utah Rules of Civil Procedure Rule 65B,utah rules of civil procedure rule 65b,Court Rule,state_rule,UT,118,92,4,1955,2025,true,exact
+Utah Rules of Criminal Procedure Rule 11,utah rules of criminal procedure rule 11,Court Rule,state_rule,UT,116,74,3,1982,2024,true,exact
 D. Utah Civ. R. 83-1.3,d. utah civ. r. 83-1.3,Court Rule,local_rule,UT,115,115,2,2013,2025,false,unresolved
-Utah Rules of Criminal Procedure Rule 11,utah rules of criminal procedure rule 11,Court Rule,state_rule,UT,115,74,3,1982,2024,true,exact
 Utah R.App. P. 3,utah r.app. p. 3,Court Rule,state_rule,UT,114,100,2,1986,2014,true,exact
 Utah Rules of Civil Procedure Rule 59,utah rules of civil procedure rule 59,Court Rule,state_rule,UT,112,89,2,1953,2026,true,exact
 Utah Rules of Civil Procedure Rule 54,utah rules of civil procedure rule 54,Court Rule,state_rule,UT,110,92,3,1953,2025,true,exact
@@ -106,10 +106,10 @@ Utah R.Crim. P. 7,utah r.crim. p. 7,Court Rule,state_rule,UT,41,34,2,1986,2011,t
 Utah Rules of Criminal Procedure Rule 12,utah rules of criminal procedure rule 12,Court Rule,state_rule,UT,41,36,2,1983,2026,true,exact
 Utah R. Civ. P. 19,utah r. civ. p. 19,Court Rule,state_rule,UT,40,18,2,1997,2025,true,exact
 Utah R.Civ. P. 4,utah r.civ. p. 4,Court Rule,state_rule,UT,39,25,4,1982,1998,true,exact
+Utah R.Civ. P. 51,utah r.civ. p. 51,Court Rule,state_rule,UT,39,29,2,1983,1996,true,exact
 Utah R.Crim. P. 15.5,utah r.crim. p. 15.5,Court Rule,state_rule,UT,38,20,3,1989,2014,true,exact
 D. Utah Civ. R. 83-1.6,d. utah civ. r. 83-1.6,Court Rule,local_rule,UT,37,37,1,2024,2026,false,unresolved
 Utah R. Evid. 602,utah r. evid. 602,Court Rule,state_rule,UT,37,28,2,1989,2025,true,exact
-Utah R.Civ. P. 51,utah r.civ. p. 51,Court Rule,state_rule,UT,37,29,2,1983,1996,true,exact
 Utah R. Civ. P. 13,utah r. civ. p. 13,Court Rule,state_rule,UT,36,20,5,1988,2024,true,exact
 Utah R. Civ. P. 17,utah r. civ. p. 17,Court Rule,state_rule,UT,36,25,4,1999,2025,true,exact
 Utah R. Civ. P. 5,utah r. civ. p. 5,Court Rule,state_rule,UT,36,23,2,1999,2020,true,exact
@@ -167,6 +167,7 @@ Utah Rules of Civil Procedure Rule 72,utah rules of civil procedure rule 72,Cour
 Utah R. Crim. P. 29,utah r. crim. p. 29,Court Rule,state_rule,UT,23,12,1,2012,2024,true,exact
 Utah R. Evid. 106,utah r. evid. 106,Court Rule,state_rule,UT,23,11,3,1999,2025,true,exact
 Utah R. Evid. 802,utah r. evid. 802,Court Rule,state_rule,UT,23,21,2,1986,2025,true,exact
+Utah R.Civ. P. 69,utah r.civ. p. 69,Court Rule,state_rule,UT,23,11,3,1981,1996,true,container
 Utah R.Crim. P. 25,utah r.crim. p. 25,Court Rule,state_rule,UT,23,15,3,1991,2014,true,exact
 Utah Rules of Civil Procedure Rule 36,utah rules of civil procedure rule 36,Court Rule,state_rule,UT,23,16,2,1973,2017,true,exact
 Utah Rules of Criminal Procedure Rule 17,utah rules of criminal procedure rule 17,Court Rule,state_rule,UT,23,21,3,1983,2024,true,exact
@@ -176,7 +177,6 @@ Utah Code Jud. Conduct R. 2.11,utah code jud. conduct r. 2.11,Court Rule,state_r
 Utah R. App. P. 5,utah r. app. p. 5,Court Rule,state_rule,UT,22,20,2,2012,2024,true,exact
 Utah R. Civ. P. 68,utah r. civ. p. 68,Court Rule,state_rule,UT,22,16,4,1999,2025,true,exact
 Utah R. Evid. 104,utah r. evid. 104,Court Rule,state_rule,UT,22,19,2,1986,2025,true,exact
-Utah R.Civ. P. 69,utah r.civ. p. 69,Court Rule,state_rule,UT,22,11,3,1981,1996,true,container
 Utah Rules of Appellate Procedure Rule 23B,utah rules of appellate procedure rule 23b,Court Rule,state_rule,UT,22,20,2,1994,2025,true,exact
 Utah Rules of Criminal Procedure Rule 24,utah rules of criminal procedure rule 24,Court Rule,state_rule,UT,22,21,2,1984,2019,true,exact
 Utah R. Civ. P. 23.1,utah r. civ. p. 23.1,Court Rule,state_rule,UT,21,8,2,1998,2007,true,exact
@@ -190,6 +190,7 @@ Utah Rules of Civil Procedure Rule 61,utah rules of civil procedure rule 61,Cour
 Utah R. App. P. 48,utah r. app. p. 48,Court Rule,state_rule,UT,20,13,2,2005,2024,true,exact
 Utah R. Evid. 1002,utah r. evid. 1002,Court Rule,state_rule,UT,20,14,2,1987,2025,true,exact
 Utah R. Evid. 63,utah r. evid. 63,Court Rule,state_rule,UT,20,18,5,1976,2014,false,unresolved
+Utah R. Juv. P. 26,utah r. juv. p. 26,Court Rule,state_rule,UT,20,8,2,1998,2019,true,exact
 Utah R.Civ. P. 81,utah r.civ. p. 81,Court Rule,state_rule,UT,20,15,2,1986,1994,true,exact
 Utah Rules of Civil Procedure Rule 65A,utah rules of civil procedure rule 65a,Court Rule,state_rule,UT,20,15,3,1979,2008,true,exact
 Utah Rules of Criminal Procedure Rule 18,utah rules of criminal procedure rule 18,Court Rule,state_rule,UT,20,15,2,1988,2015,true,exact
@@ -207,7 +208,6 @@ Utah Rules of Civil Procedure Rule 50,utah rules of civil procedure rule 50,Cour
 Utah Rules of Civil Procedure Rule 75,utah rules of civil procedure rule 75,Court Rule,state_rule,UT,18,16,1,1952,1988,true,exact
 Utah Rules of Criminal Procedure Rule 9,utah rules of criminal procedure rule 9,Court Rule,state_rule,UT,18,14,3,1986,2025,true,exact
 Utah R. Civ. P. 64C,utah r. civ. p. 64c,Court Rule,state_rule,UT,17,7,2,2004,2019,true,exact
-Utah R. Juv. P. 26,utah r. juv. p. 26,Court Rule,state_rule,UT,17,8,2,1998,2019,true,exact
 Utah R.App. P. 53,utah r.app. p. 53,Court Rule,state_rule,UT,17,12,2,2005,2013,true,exact
 Utah Rules of Civil Procedure Rule 6,utah rules of civil procedure rule 6,Court Rule,state_rule,UT,17,17,2,1963,2023,true,exact
 Utah R. Crim. P. 18,utah r. crim. p. 18,Court Rule,state_rule,UT,16,9,1,1991,2025,true,exact
@@ -519,12 +519,10 @@ Utah Rules of Criminal Procedure Rule 8,utah rules of criminal procedure rule 8,
 "Utah Rules of Evidence, Rule 63","utah rules of evidence, rule 63",Court Rule,state_rule,UT,4,4,1,1977,1981,false,unresolved
 Utah Rules of Evidence. Rule 801,utah rules of evidence. rule 801,Court Rule,state_rule,UT,4,4,1,1989,2008,true,exact
 13 Utah R. Civ. P. 4,13 utah r. civ. p. 4,Court Rule,state_rule,UT,3,3,1,2022,2025,true,exact
-429 (Utah 1998). Cf. Utah R. Juv. P. 26,429 (utah 1998). cf. utah r. juv. p. 26,Court Rule,state_rule,UT,3,3,1,2015,2015,false,unresolved
 D. Utah Rule 103-l,d. utah rule 103-l,Court Rule,local_rule,UT,3,3,1,1994,1996,false,unresolved
 D.Utah Rule 103-1,d.utah rule 103-1,Court Rule,local_rule,UT,3,2,1,1993,1996,false,unresolved
 District of Utah Local Civil Rule 56-1,district of utah local civil rule 56-1,Court Rule,local_rule,UT,3,3,1,2020,2023,false,unresolved
 District of Utah Local Rule 2091-1,district of utah local rule 2091-1,Court Rule,local_rule,UT,3,3,1,2021,2021,false,unresolved
-S.J.R. § 2,s.j.r. § 2,Court Rule,state_rule,UT,3,1,1,2024,2024,false,unresolved
 "U.R. Co., 56 Utah, 94, 189 P. 599","u.r. co., 56 utah, 94, 189 p. 599",Court Rule,state_rule,UT,3,3,3,1925,1927,false,unresolved
 Utah Code of Jud. Conduct R. 2.11,utah code of jud. conduct r. 2.11,Court Rule,state_rule,UT,3,3,2,2013,2017,false,unresolved
 Utah Code of Judicial Conduct Rules 1.2,utah code of judicial conduct rules 1.2,Court Rule,state_rule,UT,3,1,1,2019,2019,false,unresolved
@@ -622,7 +620,6 @@ Utah. R.App. P. 24,utah. r.app. p. 24,Court Rule,state_rule,UT,3,1,1,2012,2012,t
 3 Utah L.R. 504,3 utah l.r. 504,Court Rule,local_rule,UT,2,1,1,1966,1966,false,unresolved
 346 (Utah 1985). Rule 16,346 (utah 1985). rule 16,Court Rule,state_rule,UT,2,2,1,1994,1994,false,unresolved
 400 (Utah 1989). Rule 702,400 (utah 1989). rule 702,Court Rule,state_rule,UT,2,2,1,1997,1997,false,unresolved
-42 C.E.R. § 483.10,42 c.e.r. § 483.10,Court Rule,state_rule,UT,2,1,1,2001,2001,false,unresolved
 541-42 (Utah Ct.App. 1997). Rule 1101,541-42 (utah ct.app. 1997). rule 1101,Court Rule,state_rule,UT,2,2,1,2002,2002,false,unresolved
 572 (Utah 1996). Rule 9,572 (utah 1996). rule 9,Court Rule,state_rule,UT,2,2,1,2000,2000,false,unresolved
 "6 WAYNE R. LAFAVE ET AL., CRIM. PROC. § 26.3","6 wayne r. lafave et al., crim. proc. § 26.3",Court Rule,state_rule,UT,2,2,1,2017,2017,false,unresolved
@@ -664,13 +661,11 @@ District of Utah Local Rule 67-1,district of utah local rule 67-1,Court Rule,loc
 District of Utah Rule 202,district of utah rule 202,Court Rule,state_rule,UT,2,2,1,1997,1997,false,unresolved
 District of Utah. UTAH R. APP. P. 41,district of utah. utah r. app. p. 41,Court Rule,state_rule,UT,2,2,1,2018,2018,false,unresolved
 Fed.Evid. § 103.3,fed.evid. § 103.3,Court Rule,state_rule,UT,2,2,1,1998,1998,false,unresolved
-H.J.R. § 2,h.j.r. § 2,Court Rule,state_rule,UT,2,1,1,2024,2024,false,unresolved
 Now Utah Rules of Civil Procedure Rule 59,now utah rules of civil procedure rule 59,Court Rule,state_rule,UT,2,2,1,1976,1976,false,unresolved
 "O.S.L.R.R. Co., 44. Utah, 160, 138 P. 398","o.s.l.r.r. co., 44. utah, 160, 138 p. 398",Court Rule,local_rule,UT,2,1,1,1925,1925,false,unresolved
 "O.S.L.R.R. Co., 55 Utah, 577, 188 P. 852","o.s.l.r.r. co., 55 utah, 577, 188 p. 852",Court Rule,local_rule,UT,2,2,1,1925,1926,false,unresolved
 OF FACT Utah R. Civ. P. 52,of fact utah r. civ. p. 52,Court Rule,state_rule,UT,2,2,1,1987,1987,false,unresolved
 "R. Co., 44 Utah, 366, 140 P. 137","r. co., 44 utah, 366, 140 p. 137",Court Rule,state_rule,UT,2,2,1,1927,1975,false,unresolved
-S.J.R. 1 § 1,s.j.r. 1 § 1,Court Rule,state_rule,UT,2,2,1,2013,2013,false,unresolved
 "S.P.R.R. Co., 170 P. 80","s.p.r.r. co., 170 p. 80",Court Rule,state_rule,UT,2,2,1,1926,1926,false,unresolved
 See Utah Rules of Civil Procedure Rule 59,see utah rules of civil procedure rule 59,Court Rule,state_rule,UT,2,2,1,1961,1961,true,exact
 See Utah Rules of Civil Procedure Rule 66,see utah rules of civil procedure rule 66,Court Rule,state_rule,UT,2,2,1,1960,1960,true,exact
@@ -875,7 +870,6 @@ Utah. R. Civ. P. 64,utah. r. civ. p. 64,Court Rule,state_rule,UT,2,1,1,2026,2026
 Utah: S.J. R. 15,utah: s.j. r. 15,Court Rule,state_rule,UT,2,2,1,1949,1949,false,unresolved
 "Utah: S.J.R. 15, H.J. R. 15","utah: s.j.r. 15, h.j. r. 15",Court Rule,state_rule,UT,2,2,1,1949,1949,false,unresolved
 Utah: Utah.R. Evid. 406,utah: utah.r. evid. 406,Court Rule,state_rule,UT,2,2,1,2003,2003,true,exact
-1 (1965). Cf. Utah R.Civ. P. 69,1 (1965). cf. utah r.civ. p. 69,Court Rule,state_rule,UT,1,1,1,1984,1984,false,unresolved
 1 Utah R. 129,1 utah r. 129,Court Rule,state_rule,UT,1,1,1,1880,1880,false,unresolved
 1 Utah R. 335,1 utah r. 335,Court Rule,state_rule,UT,1,1,1,1880,1880,false,unresolved
 1 Utah R. 347,1 utah r. 347,Court Rule,state_rule,UT,1,1,1,1880,1880,false,unresolved
@@ -906,7 +900,6 @@ Utah: Utah.R. Evid. 406,utah: utah.r. evid. 406,Court Rule,state_rule,UT,2,2,1,2
 11 Utah R. Evid. 504,11 utah r. evid. 504,Court Rule,state_rule,UT,1,1,1,2023,2023,true,exact
 11 Utah R.Crim. P. 19,11 utah r.crim. p. 19,Court Rule,state_rule,UT,1,1,1,1993,1993,true,exact
 1118 (Utah 1989) (citations omitted). Rule 401,1118 (utah 1989) (citations omitted). rule 401,Court Rule,state_rule,UT,1,1,1,1991,1991,false,unresolved
-1123-24 (Utah 1982). 4 N.M. R. Evid. 802,1123-24 (utah 1982). 4 n.m. r. evid. 802,Court Rule,state_rule,UT,1,1,1,1989,1989,false,unresolved
 1127 (Utah 1990). Rule 19,1127 (utah 1990). rule 19,Court Rule,state_rule,UT,1,1,1,1995,1995,false,unresolved
 113 B.R. 51 (Bankr.D.Utah 1990). 3. § 523,113 b.r. 51 (bankr.d.utah 1990). 3. § 523,Court Rule,local_rule,UT,1,1,1,1994,1994,false,unresolved
 1133 (Utah 1985). Rule 475-5b-2,1133 (utah 1985). rule 475-5b-2,Court Rule,state_rule,UT,1,1,1,1989,1989,false,unresolved
@@ -933,8 +926,6 @@ Utah: Utah.R. Evid. 406,utah: utah.r. evid. 406,Court Rule,state_rule,UT,2,2,1,2
 "13 Utah, 129 (57 Am. St. R. 713","13 utah, 129 (57 am. st. r. 713",Court Rule,state_rule,UT,1,1,1,1928,1928,false,unresolved
 1314 (Utah 1983). Rule 802,1314 (utah 1983). rule 802,Court Rule,state_rule,UT,1,1,1,1987,1987,false,unresolved
 1316 (Utah 1986). Rule 403,1316 (utah 1986). rule 403,Court Rule,state_rule,UT,1,1,1,1992,1992,false,unresolved
-1328 (Utah App. 1990). Utah R.Civ. P. 51,1328 (utah app. 1990). utah r.civ. p. 51,Court Rule,state_rule,UT,1,1,1,1991,1991,false,unresolved
-1328 (Utah App.1990). Utah R.Civ. P. 51,1328 (utah app.1990). utah r.civ. p. 51,Court Rule,state_rule,UT,1,1,1,1991,1991,false,unresolved
 133 Utah R. Crim. P. 9,133 utah r. crim. p. 9,Court Rule,state_rule,UT,1,1,1,2025,2025,true,exact
 1334 (Utah 1977). Rule 56,1334 (utah 1977). rule 56,Court Rule,state_rule,UT,1,1,1,1991,1991,false,unresolved
 1344 (Utah 1984) and Utah R.App. P. 24,1344 (utah 1984) and utah r.app. p. 24,Court Rule,state_rule,UT,1,1,1,1991,1991,true,exact
@@ -1050,14 +1041,12 @@ Utah: Utah.R. Evid. 406,utah: utah.r. evid. 406,Court Rule,state_rule,UT,2,2,1,2
 41 Utah R. Civ. P. 64E,41 utah r. civ. p. 64e,Court Rule,state_rule,UT,1,1,1,2024,2024,true,exact
 41 Utah R. Evid. 504,41 utah r. evid. 504,Court Rule,state_rule,UT,1,1,1,2023,2023,true,exact
 416 (Utah 1990). Rule 56,416 (utah 1990). rule 56,Court Rule,state_rule,UT,1,1,1,1990,1990,false,unresolved
-42 C.E.R. § 488.10,42 c.e.r. § 488.10,Court Rule,state_rule,UT,1,1,1,2001,2001,false,unresolved
 42 Utah R. Civ. P. 64B,42 utah r. civ. p. 64b,Court Rule,state_rule,UT,1,1,1,2024,2024,true,exact
 43 Utah R. Civ. P. 4,43 utah r. civ. p. 4,Court Rule,state_rule,UT,1,1,1,2023,2023,true,exact
 44 Utah R. Pro. Conduct 1.7,44 utah r. pro. conduct 1.7,Court Rule,state_rule,UT,1,1,1,2022,2022,false,unresolved
 440 (Utah 1983). Rule A71-07-l:5,440 (utah 1983). rule a71-07-l:5,Court Rule,state_rule,UT,1,1,1,1986,1986,false,unresolved
 441 (Utah 1979)). Rule 47,441 (utah 1979)). rule 47,Court Rule,state_rule,UT,1,1,1,2003,2003,false,unresolved
 445 (Utah App.1993). Rule 407,445 (utah app.1993). rule 407,Court Rule,state_rule,UT,1,1,1,1994,1994,false,unresolved
-45 C.E.R. § 1356.21,45 c.e.r. § 1356.21,Court Rule,state_rule,UT,1,1,1,2009,2009,false,unresolved
 451 (Utah 1988). Rule 18,451 (utah 1988). rule 18,Court Rule,state_rule,UT,1,1,1,1992,1992,false,unresolved
 46 Utah R. Civ. P. 64,46 utah r. civ. p. 64,Court Rule,state_rule,UT,1,1,1,2022,2022,true,exact
 460-61 (Utah 1994). 137 Rule 15.5,460-61 (utah 1994). 137 rule 15.5,Court Rule,state_rule,UT,1,1,1,2000,2000,false,unresolved
@@ -1079,7 +1068,6 @@ Utah: Utah.R. Evid. 406,utah: utah.r. evid. 406,Court Rule,state_rule,UT,2,2,1,2
 541 (Utah 1981). Rule 804,541 (utah 1981). rule 804,Court Rule,state_rule,UT,1,1,1,2016,2016,false,unresolved
 "55 B.R. 740, 742 (D.Utah 1985) § 365","55 b.r. 740, 742 (d.utah 1985) § 365",Court Rule,local_rule,UT,1,1,1,1993,1993,false,unresolved
 585 (Utah 1993). 110 Rule 412,585 (utah 1993). 110 rule 412,Court Rule,state_rule,UT,1,1,1,2002,2002,false,unresolved
-598 (Utah 1982). 22 W. Va. R. Evid. 401,598 (utah 1982). 22 w. va. r. evid. 401,Court Rule,state_rule,UT,1,1,1,2025,2025,false,unresolved
 6 (Bankr.D. Utah 1988) (Bankr. R. 7001,6 (bankr.d. utah 1988) (bankr. r. 7001,Court Rule,local_rule,UT,1,1,1,1989,1989,false,unresolved
 "6 Utah 259, 21 P. 993, 4 L.R.A. 726. 4 O.C.L.A. § 81-103","6 utah 259, 21 p. 993, 4 l.r.a. 726. 4 o.c.l.a. § 81-103",Court Rule,local_rule,UT,1,1,1,1945,1945,false,unresolved
 6 Utah R. Civ. P. 4,6 utah r. civ. p. 4,Court Rule,state_rule,UT,1,1,1,2023,2023,true,exact
@@ -1205,7 +1193,6 @@ District of Utah. Rule 9014,district of utah. rule 9014,Court Rule,state_rule,UT
 Fed. Evid. § 704:1,fed. evid. § 704:1,Court Rule,state_rule,UT,1,1,1,2015,2015,false,unresolved
 "G.R. Co., 44 Utah, 100, 138 P. 1185","g.r. co., 44 utah, 100, 138 p. 1185",Court Rule,state_rule,UT,1,1,1,1927,1927,false,unresolved
 I. Utah Rule of Criminal Procedure 38 17 Rule 38,i. utah rule of criminal procedure 38 17 rule 38,Court Rule,state_rule,UT,1,1,1,2009,2009,false,unresolved
-II. Utah Rule 510,ii. utah rule 510,Court Rule,state_rule,UT,1,1,1,2020,2020,false,unresolved
 IND. R. CRIM. P. 2.5,ind. r. crim. p. 2.5,Court Rule,state_rule,UT,1,1,1,2024,2024,true,exact
 IOS. Utah R. Evid. 404,ios. utah r. evid. 404,Court Rule,state_rule,UT,1,1,1,1999,1999,false,unresolved
 "L.A. & S.L.R. Co., 33 Utah, 147, 93 P. 271","l.a. & s.l.r. co., 33 utah, 147, 93 p. 271",Court Rule,local_rule,UT,1,1,1,1932,1932,false,unresolved
@@ -1217,11 +1204,8 @@ IOS. Utah R. Evid. 404,ios. utah r. evid. 404,Court Rule,state_rule,UT,1,1,1,199
 "L.A.S.L.R. R., 33 Utah, 147, 93 P. 271","l.a.s.l.r. r., 33 utah, 147, 93 p. 271",Court Rule,local_rule,UT,1,1,1,1936,1936,false,unresolved
 "L.R. Co., 48 Utah, 464, 160 P. 275","l.r. co., 48 utah, 464, 160 p. 275",Court Rule,local_rule,UT,1,1,1,1932,1932,false,unresolved
 "L.R. Co., 70 Utah, 552, 262 P. 100","l.r. co., 70 utah, 552, 262 p. 100",Court Rule,local_rule,UT,1,1,1,1933,1933,false,unresolved
-LR.C. § 1341,lr.c. § 1341,Court Rule,local_rule,UT,1,1,1,2008,2008,false,unresolved
 LR.C. § 1866,lr.c. § 1866,Court Rule,local_rule,UT,1,1,1,2008,2008,false,unresolved
-LR.C. § 338,lr.c. § 338,Court Rule,local_rule,UT,1,1,1,2008,2008,false,unresolved
 LR.C. § 3838,lr.c. § 3838,Court Rule,local_rule,UT,1,1,1,2008,2008,false,unresolved
-LR.C. § 7703,lr.c. § 7703,Court Rule,local_rule,UT,1,1,1,2000,2000,false,unresolved
 "N.W.R. Co., 33 Utah, 129, 136, 93 P. 185","n.w.r. co., 33 utah, 129, 136, 93 p. 185",Court Rule,state_rule,UT,1,1,1,1929,1929,false,unresolved
 "N.W.R. Co., 33 Utah, 129, 93 P. 185","n.w.r. co., 33 utah, 129, 93 p. 185",Court Rule,state_rule,UT,1,1,1,1925,1925,false,unresolved
 "N.W.R. Co., 36 Utah, 129, 93 P. 185","n.w.r. co., 36 utah, 129, 93 p. 185",Court Rule,state_rule,UT,1,1,1,1949,1949,false,unresolved
@@ -1273,8 +1257,6 @@ R.G.R. Co. (Utah) 203 P. 863,r.g.r. co. (utah) 203 p. 863,Court Rule,state_rule,
 "R.R., 25 Utah, 220, 70 P. 852","r.r., 25 utah, 220, 70 p. 852",Court Rule,state_rule,UT,1,1,1,1927,1927,false,unresolved
 R.Utah Ct.App. 4. Rule 4,r.utah ct.app. 4. rule 4,Court Rule,state_rule,UT,1,1,1,1989,1989,false,unresolved
 "S. Pac. R.R., P. 654","s. pac. r.r., p. 654",Court Rule,state_rule,UT,1,1,1,2015,2015,false,unresolved
-S.J.R. 13 § 1,s.j.r. 13 § 1,Court Rule,state_rule,UT,1,1,1,1999,1999,false,unresolved
-S.J.R. § 3,s.j.r. § 3,Court Rule,state_rule,UT,1,1,1,2024,2024,false,unresolved
 "S.L.C.R. Co., 34 Utah, 1, 95 P. 363","s.l.c.r. co., 34 utah, 1, 95 p. 363",Court Rule,state_rule,UT,1,1,1,1926,1926,false,unresolved
 S.L.R. Co. (Utah) 280 P. 1053,s.l.r. co. (utah) 280 p. 1053,Court Rule,local_rule,UT,1,1,1,1931,1931,false,unresolved
 S.L.R. Co. (Utah) 280 P. 1063,s.l.r. co. (utah) 280 p. 1063,Court Rule,local_rule,UT,1,1,1,1931,1931,false,unresolved
@@ -1426,7 +1408,6 @@ Utah R. Crim. P. 28,utah r. crim. p. 28,Court Rule,state_rule,UT,1,1,1,2020,2020
 Utah R. Crim. P. 29A,utah r. crim. p. 29a,Court Rule,state_rule,UT,1,1,1,2018,2018,true,exact
 Utah R. Crim. P. 47,utah r. crim. p. 47,Court Rule,state_rule,UT,1,1,1,2019,2019,false,unresolved
 Utah R. Crim. P. 81,utah r. crim. p. 81,Court Rule,state_rule,UT,1,1,1,2020,2020,false,unresolved
-Utah R. Crv. P. 4,utah r. crv. p. 4,Court Rule,state_rule,UT,1,1,1,2011,2011,false,unresolved
 Utah R. Ct. ADR 101. Rule 101,utah r. ct. adr 101. rule 101,Court Rule,state_rule,UT,1,1,1,2008,2008,false,unresolved
 Utah R. Evid. 1002. Rule 1006,utah r. evid. 1002. rule 1006,Court Rule,state_rule,UT,1,1,1,2013,2013,true,exact
 Utah R. Evid. 1003-1004,utah r. evid. 1003-1004,Court Rule,state_rule,UT,1,1,1,2009,2009,false,unresolved
@@ -1592,6 +1573,7 @@ Utah Rule 30,utah rule 30,Court Rule,state_rule,UT,1,1,1,2011,2011,true,exact
 Utah Rule 302,utah rule 302,Court Rule,state_rule,UT,1,1,1,1993,1993,true,exact
 Utah Rule 38,utah rule 38,Court Rule,state_rule,UT,1,1,1,1965,1965,true,exact
 Utah Rule 40,utah rule 40,Court Rule,state_rule,UT,1,1,1,2025,2025,true,exact
+Utah Rule 510,utah rule 510,Court Rule,state_rule,UT,1,1,1,2020,2020,true,exact
 Utah Rule 55,utah rule 55,Court Rule,state_rule,UT,1,1,1,1979,1979,true,exact
 Utah Rule 606,utah rule 606,Court Rule,state_rule,UT,1,1,1,2014,2014,true,exact
 Utah Rule 64,utah rule 64,Court Rule,state_rule,UT,1,1,1,2021,2021,true,exact
@@ -1725,7 +1707,6 @@ Utah Rules of Criminal Procedure Rule 6,utah rules of criminal procedure rule 6,
 Utah Rules of Criminal Procedure Rule 7B,utah rules of criminal procedure rule 7b,Court Rule,state_rule,UT,1,1,1,2025,2025,true,exact
 Utah Rules of Criminal Procedure Rule 7C,utah rules of criminal procedure rule 7c,Court Rule,state_rule,UT,1,1,1,2025,2025,true,exact
 Utah Rules of Criminal Procedure Rule T6,utah rules of criminal procedure rule t6,Court Rule,state_rule,UT,1,1,1,2009,2009,false,unresolved
-Utah Rules of Criminal Procedure Rule l1,utah rules of criminal procedure rule l1,Court Rule,state_rule,UT,1,1,1,2002,2002,false,unresolved
 Utah Rules of Criminal Procedure § 77-35-11,utah rules of criminal procedure § 77-35-11,Court Rule,state_rule,UT,1,1,1,1987,1987,false,unresolved
 Utah Rules of Criminal Procedure § 77-35-7,utah rules of criminal procedure § 77-35-7,Court Rule,state_rule,UT,1,1,1,1981,1981,false,unresolved
 Utah Rules of Criminal Procedure § 77-35-9,utah rules of criminal procedure § 77-35-9,Court Rule,state_rule,UT,1,1,1,1987,1987,false,unresolved

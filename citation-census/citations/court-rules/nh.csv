@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 N.H. R. Ev. 403,n.h. r. ev. 403,Court Rule,state_rule,NH,138,114,2,1986,2025,true,exact
-N.H. R. Ev. 404,n.h. r. ev. 404,Court Rule,state_rule,NH,129,83,1,1985,2025,true,exact
+N.H. R. Ev. 404,n.h. r. ev. 404,Court Rule,state_rule,NH,130,83,1,1985,2025,true,exact
 N.H. R. Ev. 401,n.h. r. ev. 401,Court Rule,state_rule,NH,117,100,2,1985,2025,true,exact
 N.H. R. Ev. 803,n.h. r. ev. 803,Court Rule,state_rule,NH,111,56,1,1988,2025,true,exact
 N.H. R. Ev. 801,n.h. r. ev. 801,Court Rule,state_rule,NH,96,71,1,1986,2025,true,exact
@@ -430,7 +430,6 @@ SUR Ct. R. 40,sur ct. r. 40,Court Rule,state_rule,NH,2,1,1,2011,2011,false,unres
 11 New Hampshire R. 102,11 new hampshire r. 102,Court Rule,state_rule,NH,1,1,1,1847,1847,false,unresolved
 11 New Hampshire R. 191,11 new hampshire r. 191,Court Rule,state_rule,NH,1,1,1,1852,1852,false,unresolved
 11 New Hampshire R. 82,11 new hampshire r. 82,Court Rule,state_rule,NH,1,1,1,1848,1848,false,unresolved
-1180 (1977). Cf. N.H. R. Ev. 404,1180 (1977). cf. n.h. r. ev. 404,Court Rule,state_rule,NH,1,1,1,1985,1985,false,unresolved
 12 N.H. R. 133,12 n.h. r. 133,Court Rule,state_rule,NH,1,1,1,1844,1844,false,unresolved
 12 N.H. R. 182,12 n.h. r. 182,Court Rule,state_rule,NH,1,1,1,1853,1853,false,unresolved
 12 N.H. R. 200,12 n.h. r. 200,Court Rule,state_rule,NH,1,1,1,1864,1864,false,unresolved

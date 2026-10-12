@@ -64,6 +64,7 @@ S.C. Rule 10,s.c. rule 10,Court Rule,state_rule,SC,7,3,2,1930,1979,true,exact
 S.C. Rule 27.26,s.c. rule 27.26,Court Rule,state_rule,SC,7,5,3,1957,1975,false,unresolved
 S.C. Rule 3.27,s.c. rule 3.27,Court Rule,state_rule,SC,7,6,2,1955,1961,false,unresolved
 S.C.R. Civ. P. 12,s.c.r. civ. p. 12,Court Rule,state_rule,SC,7,6,1,1986,1988,true,exact
+S.C.R. Civ. P. 8,s.c.r. civ. p. 8,Court Rule,state_rule,SC,7,2,1,1986,1987,true,exact
 S.C.R.Civ. P. 41,s.c.r.civ. p. 41,Court Rule,state_rule,SC,7,4,3,1987,1990,true,exact
 South Carolina Rules of Civil Procedure Rule 19,south carolina rules of civil procedure rule 19,Court Rule,state_rule,SC,7,7,3,1992,2025,false,unresolved
 South Carolina Rules of Civil Procedure Rule 37,south carolina rules of civil procedure rule 37,Court Rule,state_rule,SC,7,7,1,1987,2024,false,unresolved
@@ -82,7 +83,6 @@ S.C. R. 44,s.c. r. 44,Court Rule,state_rule,SC,6,6,2,1867,2024,false,unresolved
 S.C. R. Civ. P. 65,s.c. r. civ. p. 65,Court Rule,state_rule,SC,6,5,1,2020,2020,true,exact
 "S.C., Inc., 7 F.C.C. R. 1595","s.c., inc., 7 f.c.c. r. 1595",Court Rule,state_rule,SC,6,3,1,2007,2007,false,unresolved
 S.C.R. 1019 § 1,s.c.r. 1019 § 1,Court Rule,state_rule,SC,6,4,1,2016,2016,false,unresolved
-S.C.R. Civ. P. 8,s.c.r. civ. p. 8,Court Rule,state_rule,SC,6,2,1,1987,1987,true,exact
 "S.C.R., P. 101-103","s.c.r., p. 101-103",Court Rule,state_rule,SC,6,1,1,2015,2015,false,unresolved
 South Carolina R. 61-107.19,south carolina r. 61-107.19,Court Rule,state_rule,SC,6,2,1,2024,2024,false,unresolved
 South Carolina Rules of Civil Procedure Rule 17,south carolina rules of civil procedure rule 17,Court Rule,state_rule,SC,6,4,2,1989,2018,false,unresolved
@@ -107,6 +107,7 @@ S.C. R. 49-50,s.c. r. 49-50,Court Rule,state_rule,SC,5,1,1,2015,2015,false,unres
 S.C. R. Civ. P. 23,s.c. r. civ. p. 23,Court Rule,state_rule,SC,5,3,2,2012,2020,true,exact
 S.C. Rule 34,s.c. rule 34,Court Rule,state_rule,SC,5,2,1,1952,1968,true,exact
 S.C. Sup. Ct. R. 32,s.c. sup. ct. r. 32,Court Rule,state_rule,SC,5,3,2,1987,1990,false,unresolved
+S.C.R. Civ. P. 15,s.c.r. civ. p. 15,Court Rule,state_rule,SC,5,4,2,1988,2021,true,exact
 S.C.R. Civ. P. 60,s.c.r. civ. p. 60,Court Rule,state_rule,SC,5,4,2,1987,2013,true,exact
 S.C.R.Civ. P. 12,s.c.r.civ. p. 12,Court Rule,state_rule,SC,5,5,3,1986,1989,true,exact
 S.C.R.Civ. P. 3,s.c.r.civ. p. 3,Court Rule,state_rule,SC,5,3,1,1989,1999,true,exact
@@ -174,7 +175,6 @@ S.C.Ap.Ct. R. 227,s.c.ap.ct. r. 227,Court Rule,state_rule,SC,4,1,1,1993,1993,fal
 S.C.App.Ct. R. 407,s.c.app.ct. r. 407,Court Rule,state_rule,SC,4,3,2,1992,2014,true,exact
 S.C.C. Loc. R. 10,s.c.c. loc. r. 10,Court Rule,local_rule,SC,4,3,1,2005,2008,false,unresolved
 S.C.R. CIV. P. 50,s.c.r. civ. p. 50,Court Rule,state_rule,SC,4,3,1,1985,1989,true,exact
-S.C.R. Civ. P. 15,s.c.r. civ. p. 15,Court Rule,state_rule,SC,4,4,2,1988,1992,true,exact
 S.C.R. Civ. P. 24,s.c.r. civ. p. 24,Court Rule,state_rule,SC,4,2,1,1988,1989,true,exact
 S.C.R. Civ. P. 41,s.c.r. civ. p. 41,Court Rule,state_rule,SC,4,4,2,1987,1996,true,exact
 South Carolina Appellate Court Rule 203,south carolina appellate court rule 203,Court Rule,state_rule,SC,4,4,2,2007,2025,false,unresolved
@@ -365,7 +365,6 @@ Supreme Court of South Carolina. Local Civil Rule 83.I.02DSC,supreme court of so
 2 Sandf. S.C. R. 599,2 sandf. s.c. r. 599,Court Rule,state_rule,SC,2,2,2,1853,1870,false,unresolved
 2 Sanf. S.C. R. 681,2 sanf. s.c. r. 681,Court Rule,state_rule,SC,2,1,1,1851,1851,false,unresolved
 24 S.C. R. 650,24 s.c. r. 650,Court Rule,state_rule,SC,2,2,1,1995,1995,false,unresolved
-25 S.C. Jur. Rules of Civil Procedure § 50.2,25 s.c. jur. rules of civil procedure § 50.2,Court Rule,state_rule,SC,2,2,1,2015,2015,false,unresolved
 3 Barb. S.C. R. 14,3 barb. s.c. r. 14,Court Rule,state_rule,SC,2,2,1,1856,1856,false,unresolved
 3 Barb. S.C. R. 157,3 barb. s.c. r. 157,Court Rule,state_rule,SC,2,2,2,1859,1866,false,unresolved
 3 Barb. S.C. R. 20,3 barb. s.c. r. 20,Court Rule,state_rule,SC,2,2,2,1853,1854,false,unresolved
@@ -1126,7 +1125,6 @@ South Carolina: S.C.R. Evid. 406,south carolina: s.c.r. evid. 406,Court Rule,sta
 36 S.C. R. 188,36 s.c. r. 188,Court Rule,state_rule,SC,1,1,1,1938,1938,false,unresolved
 38 A.D. R. 734,38 a.d. r. 734,Court Rule,local_rule,SC,1,1,1,1950,1950,false,unresolved
 38 Can. S.C. R. 216,38 can. s.c. r. 216,Court Rule,state_rule,SC,1,1,1,1923,1923,false,unresolved
-380 (S.C. 1995). S.C. R. Civ. P. 15,380 (s.c. 1995). s.c. r. civ. p. 15,Court Rule,state_rule,SC,1,1,1,2021,2021,false,unresolved
 39 (S.C.S. C.S.S.S.H.J. R. 39,39 (s.c.s. c.s.s.s.h.j. r. 39,Court Rule,state_rule,SC,1,1,1,2017,2017,false,unresolved
 39 Can. S.C. R. 1,39 can. s.c. r. 1,Court Rule,state_rule,SC,1,1,1,1946,1946,false,unresolved
 39 S.C. R. 235,39 s.c. r. 235,Court Rule,state_rule,SC,1,1,1,1947,1947,false,unresolved
@@ -1276,7 +1274,6 @@ South Carolina: S.C.R. Evid. 406,south carolina: s.c.r. evid. 406,Court Rule,sta
 6 How. S.C. R. 383,6 how. s.c. r. 383,Court Rule,state_rule,SC,1,1,1,1849,1849,false,unresolved
 6 How. S.C. R. 44,6 how. s.c. r. 44,Court Rule,state_rule,SC,1,1,1,1855,1855,false,unresolved
 6 Pet. S.C. R. 498,6 pet. s.c. r. 498,Court Rule,state_rule,SC,1,1,1,1853,1853,false,unresolved
-"6 R. C.L., 727 § 132","6 r. c.l., 727 § 132",Court Rule,state_rule,SC,1,1,1,1925,1925,false,unresolved
 60 Can. S.C. R. 523,60 can. s.c. r. 523,Court Rule,state_rule,SC,1,1,1,1946,1946,false,unresolved
 60 S.C. R. 442,60 s.c. r. 442,Court Rule,state_rule,SC,1,1,1,1988,1988,false,unresolved
 61 S.C. R. 862,61 s.c. r. 862,Court Rule,state_rule,SC,1,1,1,1945,1945,false,unresolved
@@ -2288,7 +2285,6 @@ South Carolina Appellate Court Rules 3,south carolina appellate court rules 3,Co
 "South Carolina Appellate Court Rules, Rule 228","south carolina appellate court rules, rule 228",Court Rule,state_rule,SC,1,1,1,2006,2006,false,unresolved
 South Carolina Appellate Court Rules. Rule 601,south carolina appellate court rules. rule 601,Court Rule,state_rule,SC,1,1,1,2018,2018,false,unresolved
 South Carolina Appellate Rule 222,south carolina appellate rule 222,Court Rule,state_rule,SC,1,1,1,1992,1992,false,unresolved
-South Carolina Civil Procedure (2d ed. 1985). S.C.R. Civ. P. 8,south carolina civil procedure (2d ed. 1985). s.c.r. civ. p. 8,Court Rule,state_rule,SC,1,1,1,1986,1986,false,unresolved
 South Carolina Civil Procedure 340 (1985). Rule 37,south carolina civil procedure 340 (1985). rule 37,Court Rule,state_rule,SC,1,1,1,1987,1987,false,unresolved
 South Carolina Civil Procedure Rule 4,south carolina civil procedure rule 4,Court Rule,state_rule,SC,1,1,1,1996,1996,false,unresolved
 South Carolina Civil Rule 24,south carolina civil rule 24,Court Rule,state_rule,SC,1,1,1,2020,2020,false,unresolved

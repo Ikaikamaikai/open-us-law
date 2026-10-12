@@ -1,5 +1,5 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-D. Conn. L. Civ. R. 56,d. conn. l. civ. r. 56,Court Rule,local_rule,CT,638,319,3,2003,2026,true,exact
+D. Conn. L. Civ. R. 56,d. conn. l. civ. r. 56,Court Rule,local_rule,CT,641,319,3,2003,2026,true,exact
 D. Conn. L. Civ. R. 7,d. conn. l. civ. r. 7,Court Rule,local_rule,CT,346,267,3,2003,2026,true,exact
 D. Conn. L. Civ. R. 5,d. conn. l. civ. r. 5,Court Rule,local_rule,CT,198,182,2,2009,2026,true,exact
 Conn. Code Evid. § 4-5,conn. code evid. § 4-5,Court Rule,state_rule,CT,192,117,2,2002,2025,true,exact
@@ -31,8 +31,8 @@ Conn.Code Evid. § 8-6,conn.code evid. § 8-6,Court Rule,state_rule,CT,36,2,1,20
 Conn. Code Evid. § 7-1,conn. code evid. § 7-1,Court Rule,state_rule,CT,29,20,2,2001,2026,true,exact
 Conn. Code Evid. § 4-4,conn. code evid. § 4-4,Court Rule,state_rule,CT,28,16,3,2002,2020,true,exact
 Conn. Code Evid. § 6-10,conn. code evid. § 6-10,Court Rule,state_rule,CT,28,25,2,2004,2026,true,exact
+D. Conn. L. Civ. R. 83.13,d. conn. l. civ. r. 83.13,Court Rule,local_rule,CT,24,4,1,2004,2022,true,exact
 Conn. Code Evid. § 8-5,conn. code evid. § 8-5,Court Rule,state_rule,CT,23,20,2,2002,2025,true,exact
-D. Conn. L. Civ. R. 83.13,d. conn. l. civ. r. 83.13,Court Rule,local_rule,CT,23,4,1,2004,2022,true,exact
 Conn. Code Evid. § 8-10,conn. code evid. § 8-10,Court Rule,state_rule,CT,22,11,3,2010,2025,true,exact
 D. Conn. L. Civ. R. 41,d. conn. l. civ. r. 41,Court Rule,local_rule,CT,22,15,1,2015,2023,true,exact
 D. Conn. L. Civ. R. 54,d. conn. l. civ. r. 54,Court Rule,local_rule,CT,22,8,2,2005,2020,true,exact
@@ -532,7 +532,6 @@ D. Conn. R. Civ. P. 18,d. conn. r. civ. p. 18,Court Rule,local_rule,CT,3,3,1,200
 7 C.S.C. R. 871,7 c.s.c. r. 871,Court Rule,state_rule,CT,2,1,1,2000,2000,false,unresolved
 7 C.S.C. R. 894,7 c.s.c. r. 894,Court Rule,state_rule,CT,2,2,1,1994,1999,false,unresolved
 7 C.S.C. R. 992,7 c.s.c. r. 992,Court Rule,state_rule,CT,2,1,1,1997,1997,false,unresolved
-7 C.S.C.R. 1030 (Waterbury 1992). Connecticut General Statutes § 46b-84,7 c.s.c.r. 1030 (waterbury 1992). connecticut general statutes § 46b-84,Court Rule,state_rule,CT,2,2,1,1997,1997,false,unresolved
 7 Conn. R. 110,7 conn. r. 110,Court Rule,state_rule,CT,2,2,2,1853,1858,false,unresolved
 7 Conn. R. 132,7 conn. r. 132,Court Rule,state_rule,CT,2,2,2,1841,1850,false,unresolved
 7 Conn. R. 219,7 conn. r. 219,Court Rule,state_rule,CT,2,2,2,1839,1841,false,unresolved
@@ -721,8 +720,6 @@ District of Connecticut Local Rule 5,district of connecticut local rule 5,Court 
 1 Conn. R. 95,1 conn. r. 95,Court Rule,state_rule,CT,1,1,1,1836,1836,false,unresolved
 1 Ct. L.R. 207,1 ct. l.r. 207,Court Rule,local_rule,CT,1,1,1,1990,1990,false,unresolved
 1 Ct. L.R. 497,1 ct. l.r. 497,Court Rule,local_rule,CT,1,1,1,1990,1990,false,unresolved
-1 D. Conn. L. Civ. R. 56,1 d. conn. l. civ. r. 56,Court Rule,local_rule,CT,1,1,1,2014,2014,false,unresolved
-"10 B.R. 697, 700 (Bkrtcy.D.Conn.1981). Connecticut Gen.Stats. § 49-34","10 b.r. 697, 700 (bkrtcy.d.conn.1981). connecticut gen.stats. § 49-34",Court Rule,local_rule,CT,1,1,1,1983,1983,false,unresolved
 "10 CONN. L. RPTR. 84, 8 C.S.C. R. 1051","10 conn. l. rptr. 84, 8 c.s.c. r. 1051",Court Rule,state_rule,CT,1,1,1,1998,1998,false,unresolved
 10 Conn. Code. Evid. § 8-8,10 conn. code. evid. § 8-8,Court Rule,state_rule,CT,1,1,1,2016,2016,true,exact
 10 Conn. R. 100,10 conn. r. 100,Court Rule,state_rule,CT,1,1,1,1843,1843,false,unresolved
@@ -1095,7 +1092,6 @@ District of Connecticut Local Rule 5,district of connecticut local rule 5,Court 
 26 C.P.R. § 601.201,26 c.p.r. § 601.201,Court Rule,state_rule,CT,1,1,1,1987,1987,false,unresolved
 26 Conn. R. 20,26 conn. r. 20,Court Rule,state_rule,CT,1,1,1,1864,1864,false,unresolved
 26 Conn. R. 226,26 conn. r. 226,Court Rule,state_rule,CT,1,1,1,1875,1875,false,unresolved
-26 D. Conn. L. Civ. R. 83.13,26 d. conn. l. civ. r. 83.13,Court Rule,local_rule,CT,1,1,1,2014,2014,false,unresolved
 27 Conn. App. P. 809,27 conn. app. p. 809,Court Rule,state_rule,CT,1,1,1,1996,1996,false,unresolved
 27 Conn. Code Evid. § 8-6,27 conn. code evid. § 8-6,Court Rule,state_rule,CT,1,1,1,2010,2010,true,exact
 27 Conn. R. 479,27 conn. r. 479,Court Rule,state_rule,CT,1,1,1,1865,1865,false,unresolved
@@ -1277,7 +1273,6 @@ District of Connecticut Local Rule 5,district of connecticut local rule 5,Court 
 4 Conn. R. 80,4 conn. r. 80,Court Rule,state_rule,CT,1,1,1,1844,1844,false,unresolved
 4 Connecticut R. 17,4 connecticut r. 17,Court Rule,state_rule,CT,1,1,1,1837,1837,false,unresolved
 4 Connecticut R. 380,4 connecticut r. 380,Court Rule,state_rule,CT,1,1,1,1834,1834,false,unresolved
-4 D. Conn. L. Civ. R. 56,4 d. conn. l. civ. r. 56,Court Rule,local_rule,CT,1,1,1,2023,2023,false,unresolved
 4 D. Conn. Local Rule 56,4 d. conn. local rule 56,Court Rule,local_rule,CT,1,1,1,2021,2021,false,unresolved
 "447376 (June 3, 1991) (7 C.S.C. R. 721","447376 (june 3, 1991) (7 c.s.c. r. 721",Court Rule,state_rule,CT,1,1,1,2005,2005,false,unresolved
 "447376 (June 3,1992) (7 C.S.C. R. 721","447376 (june 3,1992) (7 c.s.c. r. 721",Court Rule,state_rule,CT,1,1,1,1994,1994,false,unresolved
@@ -1781,7 +1776,6 @@ District of Connecticut Local Rule 5,district of connecticut local rule 5,Court 
 9 Conn. R. 527,9 conn. r. 527,Court Rule,state_rule,CT,1,1,1,1837,1837,false,unresolved
 9 Conn. R. 545,9 conn. r. 545,Court Rule,state_rule,CT,1,1,1,1848,1848,false,unresolved
 9 Conn. R. 574,9 conn. r. 574,Court Rule,state_rule,CT,1,1,1,1824,1824,false,unresolved
-916 D. Conn. L. Civ. R. 56,916 d. conn. l. civ. r. 56,Court Rule,local_rule,CT,1,1,1,2020,2020,false,unresolved
 "920519272 (March 26, 1993) (8 C.S.C. R. 422","920519272 (march 26, 1993) (8 c.s.c. r. 422",Court Rule,state_rule,CT,1,1,1,2001,2001,false,unresolved
 "93432 (February 6, 1991) (6 C.S.C. R. 272","93432 (february 6, 1991) (6 c.s.c. r. 272",Court Rule,state_rule,CT,1,1,1,1994,1994,false,unresolved
 "98939 (October 7, 1992) (7 C.S.C. R. 1217","98939 (october 7, 1992) (7 c.s.c. r. 1217",Court Rule,state_rule,CT,1,1,1,2004,2004,false,unresolved
@@ -2071,6 +2065,7 @@ DISMISSED. I. District of Connecticut Local Rule 16,dismissed. i. district of co
 District of 15 Connecticut Local Civil Rule 7,district of 15 connecticut local civil rule 7,Court Rule,local_rule,CT,1,1,1,2010,2010,false,unresolved
 "District of Connecticut (West 1993), Rule 3","district of connecticut (west 1993), rule 3",Court Rule,state_rule,CT,1,1,1,1994,1994,false,unresolved
 District of Connecticut Local Civil Rule 37,district of connecticut local civil rule 37,Court Rule,local_rule,CT,1,1,1,2022,2022,true,exact
+District of Connecticut Local Civil Rule 56,district of connecticut local civil rule 56,Court Rule,local_rule,CT,1,1,1,2023,2023,true,exact
 District of Connecticut Local Civil Rule 7,district of connecticut local civil rule 7,Court Rule,local_rule,CT,1,1,1,2019,2019,true,exact
 District of Connecticut Local Civil Rule 83.1,district of connecticut local civil rule 83.1,Court Rule,local_rule,CT,1,1,1,2019,2019,true,exact
 District of Connecticut Local Rule 26,district of connecticut local rule 26,Court Rule,local_rule,CT,1,1,1,2009,2009,true,exact
@@ -2088,7 +2083,6 @@ District of Connecticut. 6 D.Conn.Civ. R. 6,district of connecticut. 6 d.conn.ci
 District of Connecticut. Rule 3,district of connecticut. rule 3,Court Rule,state_rule,CT,1,1,1,1991,1991,false,unresolved
 District of Connecticut. Rule 37,district of connecticut. rule 37,Court Rule,state_rule,CT,1,1,1,1998,1998,false,unresolved
 District of Connecticut.... 2. Rules 3.6,district of connecticut.... 2. rules 3.6,Court Rule,state_rule,CT,1,1,1,1990,1990,false,unresolved
-ECF No. 48-3. District of Connecticut Local Civil Rule 56,ecf no. 48-3. district of connecticut local civil rule 56,Court Rule,local_rule,CT,1,1,1,2023,2023,false,unresolved
 Fed. E. Crim. P. 17,fed. e. crim. p. 17,Court Rule,state_rule,CT,1,1,1,1974,1974,false,unresolved
 Fed. E. Evid. 801,fed. e. evid. 801,Court Rule,state_rule,CT,1,1,1,1981,1981,false,unresolved
 General Rules of Practice XVII. § 1,general rules of practice xvii. § 1,Court Rule,state_rule,CT,1,1,1,1895,1895,false,unresolved

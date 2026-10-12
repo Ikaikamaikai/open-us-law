@@ -54,10 +54,10 @@ Wash. Super. Ct. Civ. R. 8,wash. super. ct. civ. r. 8,Court Rule,state_rule,WA,9
 4 Wash. C.C. R. 148,4 wash. c.c. r. 148,Court Rule,state_rule,WA,8,4,4,1838,1843,false,unresolved
 4 Wash. C.C. R. 631,4 wash. c.c. r. 631,Court Rule,state_rule,WA,8,4,4,1838,1850,false,unresolved
 District of Washington Local Rules 7,district of washington local rules 7,Court Rule,local_rule,WA,8,8,1,2021,2026,false,unresolved
-H.R. Rep. 104-246 § 328,h.r. rep. 104-246 § 328,Court Rule,state_rule,WA,8,3,1,2001,2001,false,unresolved
 Wash. Super. Ct. Civ. R. 3,wash. super. ct. civ. r. 3,Court Rule,state_rule,WA,8,2,2,2023,2024,true,exact
 Washington (WA.R.Gen. Rule 22,washington (wa.r.gen. rule 22,Court Rule,state_rule,WA,8,2,1,2017,2018,false,unresolved
 "Washington, 11 S. & R. 411","washington, 11 s. & r. 411",Court Rule,state_rule,WA,8,8,7,1846,1916,false,unresolved
+Wash. R. Evid. 404,wash. r. evid. 404,Court Rule,state_rule,WA,7,3,3,1993,2025,true,exact
 "Washington County, Tennessee. (T. R. 1","washington county, tennessee. (t. r. 1",Court Rule,state_rule,WA,7,7,1,2015,2016,false,unresolved
 "Washington Mut., Inc., 408 B. R. 45","washington mut., inc., 408 b. r. 45",Court Rule,state_rule,WA,7,6,5,2014,2024,false,unresolved
 "Washington Mut., Inc., 461 B. R. 200","washington mut., inc., 461 b. r. 200",Court Rule,state_rule,WA,7,7,6,2011,2023,false,unresolved
@@ -103,7 +103,8 @@ Wash. Cr. R. 4.2,wash. cr. r. 4.2,Court Rule,state_rule,WA,5,3,1,2001,2001,false
 Wash. Gen. R. 15,wash. gen. r. 15,Court Rule,state_rule,WA,5,1,1,2012,2012,true,exact
 "Wash. Prac., Rules Practice § 5141","wash. prac., rules practice § 5141",Court Rule,state_rule,WA,5,5,2,1988,1993,false,unresolved
 "Wash. Prac., Rules Practice § 5305","wash. prac., rules practice § 5305",Court Rule,state_rule,WA,5,4,2,1984,2004,false,unresolved
-Wash. R. Evid. 404,wash. r. evid. 404,Court Rule,state_rule,WA,5,3,3,2010,2025,true,exact
+Wash. R. Evid. 609,wash. r. evid. 609,Court Rule,state_rule,WA,5,4,2,1990,2015,true,exact
+Wash. R. Evid. 803,wash. r. evid. 803,Court Rule,state_rule,WA,5,3,3,1978,2010,true,exact
 Wash. R. Evid. 804,wash. r. evid. 804,Court Rule,state_rule,WA,5,5,4,2001,2019,true,exact
 Wash. R.App. P. 16.16,wash. r.app. p. 16.16,Court Rule,state_rule,WA,5,4,1,2003,2008,true,exact
 Wash. R.App. P. 16.4,wash. r.app. p. 16.4,Court Rule,state_rule,WA,5,4,1,1997,2009,true,exact
@@ -174,7 +175,6 @@ Wash. Super. Ct. Civ. Rule 26,wash. super. ct. civ. rule 26,Court Rule,state_rul
 Wash. Super. Ct. Crim. R. 3.2,wash. super. ct. crim. r. 3.2,Court Rule,state_rule,WA,4,2,1,2009,2009,true,exact
 Wash. Superior Ct. Civ. R. 3,wash. superior ct. civ. r. 3,Court Rule,state_rule,WA,4,3,1,2022,2023,true,exact
 Wash.R. Evid. 403,wash.r. evid. 403,Court Rule,state_rule,WA,4,3,3,1991,2000,false,unresolved
-Wash.R. Evid. 609,wash.r. evid. 609,Court Rule,state_rule,WA,4,4,2,1990,1993,false,unresolved
 "Washington County, 28 Dist. R. 199","washington county, 28 dist. r. 199",Court Rule,local_rule,WA,4,3,3,1921,1930,false,unresolved
 "Washington Mut. Inc., 442 B. R. 314","washington mut. inc., 442 b. r. 314",Court Rule,state_rule,WA,4,3,3,2013,2018,false,unresolved
 "Washington, 11 Serg. & R. 411","washington, 11 serg. & r. 411",Court Rule,state_rule,WA,4,4,4,1873,1916,false,unresolved
@@ -214,7 +214,6 @@ Wash. Gen. R. 14.1,wash. gen. r. 14.1,Court Rule,state_rule,WA,3,3,2,2017,2025,t
 Wash. R. App. P. 16.4,wash. r. app. p. 16.4,Court Rule,state_rule,WA,3,3,2,2008,2013,true,exact
 Wash. R. App. P. 2.2,wash. r. app. p. 2.2,Court Rule,state_rule,WA,3,2,1,2023,2024,true,exact
 Wash. R. Evid. 702,wash. r. evid. 702,Court Rule,state_rule,WA,3,3,2,2007,2018,true,exact
-Wash. R. Evid. 803,wash. r. evid. 803,Court Rule,state_rule,WA,3,3,3,1978,2010,true,exact
 Wash. R. Prof. Conduct 1.16,wash. r. prof. conduct 1.16,Court Rule,state_rule,WA,3,2,1,2023,2024,true,exact
 Wash. R.Crim. P. 8.3,wash. r.crim. p. 8.3,Court Rule,state_rule,WA,3,3,2,1990,2005,false,unresolved
 Wash. Rule Evid. 1101,wash. rule evid. 1101,Court Rule,state_rule,WA,3,3,1,2024,2024,true,exact
@@ -585,8 +584,6 @@ Wash.Crim. R. 6.1,wash.crim. r. 6.1,Court Rule,state_rule,WA,2,2,1,1981,1981,tru
 Wash.Ct. R. 60,wash.ct. r. 60,Court Rule,state_rule,WA,2,2,1,1990,1990,false,unresolved
 Wash.Evid. R. 803,wash.evid. r. 803,Court Rule,state_rule,WA,2,2,1,1988,1997,true,exact
 Wash.Prof.Cond. R. 1.5,wash.prof.cond. r. 1.5,Court Rule,state_rule,WA,2,2,1,2003,2003,false,unresolved
-Wash.R. Evid. 404,wash.r. evid. 404,Court Rule,state_rule,WA,2,2,1,1993,1993,false,unresolved
-Wash.R. Evid. 803,wash.r. evid. 803,Court Rule,state_rule,WA,2,2,2,1986,1992,false,unresolved
 Wash.R.App. P. 13.1,wash.r.app. p. 13.1,Court Rule,state_rule,WA,2,2,1,1981,1981,true,exact
 Wash.R.App. P. 16.16,wash.r.app. p. 16.16,Court Rule,state_rule,WA,2,2,1,1988,1998,true,exact
 Wash.R.App. P. 16.3,wash.r.app. p. 16.3,Court Rule,state_rule,WA,2,2,1,1993,1996,true,exact
@@ -736,7 +733,6 @@ Washington and M.C. R. 6.508,washington and m.c. r. 6.508,Court Rule,state_rule,
 1 Washington V. R. 149,1 washington v. r. 149,Court Rule,state_rule,WA,1,1,1,1916,1916,false,unresolved
 1 Washington Va. R. 356,1 washington va. r. 356,Court Rule,state_rule,WA,1,1,1,1848,1848,false,unresolved
 10 District of Washington Local Rule 7,10 district of washington local rule 7,Court Rule,local_rule,WA,1,1,1,2021,2021,false,unresolved
-"109 B.R. 990, 997 (Bankr.D.Colo.1990). RCW § 62A.9A-315","109 b.r. 990, 997 (bankr.d.colo.1990). rcw § 62a.9a-315",Court Rule,local_rule,WA,1,1,1,2004,2004,false,unresolved
 11 W.D. Wash. Local Civ. R. 16,11 w.d. wash. local civ. r. 16,Court Rule,local_rule,WA,1,1,1,2021,2021,false,unresolved
 12 Geo. Wash. L.R. 119,12 geo. wash. l.r. 119,Court Rule,local_rule,WA,1,1,1,1953,1953,false,unresolved
 12 Wash. Sup. Ct. Civ. R. 4,12 wash. sup. ct. civ. r. 4,Court Rule,state_rule,WA,1,1,1,2021,2021,false,unresolved
@@ -901,7 +897,6 @@ Washington and M.C. R. 6.508,washington and m.c. r. 6.508,Court Rule,state_rule,
 47 Wash. Cty. R. 139,47 wash. cty. r. 139,Court Rule,state_rule,WA,1,1,1,1978,1978,false,unresolved
 47 Wash. L. R. 441,47 wash. l. r. 441,Court Rule,state_rule,WA,1,1,1,1974,1974,false,unresolved
 48 Wash. L.R. 635,48 wash. l.r. 635,Court Rule,local_rule,WA,1,1,1,1978,1978,false,unresolved
-484-85 (J. Cummins & R. Linscott ed. 1954). 12 RCW 5.60.060,484-85 (j. cummins & r. linscott ed. 1954). 12 rcw 5.60.060,Court Rule,state_rule,WA,1,1,1,1976,1976,false,unresolved
 49 Wash. L.R. 375,49 wash. l.r. 375,Court Rule,local_rule,WA,1,1,1,1979,1979,false,unresolved
 49 Wash. L.R. 392,49 wash. l.r. 392,Court Rule,local_rule,WA,1,1,1,1979,1979,false,unresolved
 49 Wash. R. 172,49 wash. r. 172,Court Rule,state_rule,WA,1,1,1,1971,1971,false,unresolved
@@ -998,12 +993,6 @@ FED. R. CIY. P. 55,fed. r. ciy. p. 55,Court Rule,state_rule,WA,1,1,1,2014,2014,f
 FED. R. CRJM. P. 17,fed. r. crjm. p. 17,Court Rule,state_rule,WA,1,1,1,2015,2015,false,unresolved
 FED. R. CRTM. P. 6,fed. r. crtm. p. 6,Court Rule,state_rule,WA,1,1,1,2015,2015,false,unresolved
 Fed. Evid. Rule 701,fed. evid. rule 701,Court Rule,state_rule,WA,1,1,1,2009,2009,false,unresolved
-H.R. 2093 § 2,h.r. 2093 § 2,Court Rule,state_rule,WA,1,1,1,2020,2020,false,unresolved
-H.R. 4472 § 504,h.r. 4472 § 504,Court Rule,state_rule,WA,1,1,1,2007,2007,false,unresolved
-H.R. Rep. No. 103-11 § 103d,h.r. rep. no. 103-11 § 103d,Court Rule,state_rule,WA,1,1,1,2000,2000,false,unresolved
-H.R. Rep. No. 103-11 § 5112,h.r. rep. no. 103-11 § 5112,Court Rule,state_rule,WA,1,1,1,2000,2000,false,unresolved
-H.R. Rep. No. 103-11 § 5116,h.r. rep. no. 103-11 § 5116,Court Rule,state_rule,WA,1,1,1,2000,2000,false,unresolved
-H.R. Rep. No. 110-259 § 1528,h.r. rep. no. 110-259 § 1528,Court Rule,state_rule,WA,1,1,1,2011,2011,false,unresolved
 HAW.CODE R. § 2-14.1-25,haw.code r. § 2-14.1-25,Court Rule,state_rule,WA,1,1,1,2007,2007,false,unresolved
 HHS. Superior Court Civil Rule 14,hhs. superior court civil rule 14,Court Rule,state_rule,WA,1,1,1,1985,1985,false,unresolved
 HIPAA. 45 C.P.R. § 160.306,hipaa. 45 c.p.r. § 160.306,Court Rule,state_rule,WA,1,1,1,2015,2015,false,unresolved
@@ -1223,7 +1212,6 @@ Wash. R. Evid. 401,wash. r. evid. 401,Court Rule,state_rule,WA,1,1,1,1992,1992,t
 Wash. R. Evid. 402,wash. r. evid. 402,Court Rule,state_rule,WA,1,1,1,2000,2000,true,exact
 Wash. R. Evid. 405,wash. r. evid. 405,Court Rule,state_rule,WA,1,1,1,2010,2010,true,exact
 Wash. R. Evid. 502,wash. r. evid. 502,Court Rule,state_rule,WA,1,1,1,2024,2024,true,exact
-Wash. R. Evid. 609,wash. r. evid. 609,Court Rule,state_rule,WA,1,1,1,2015,2015,true,exact
 Wash. R. P. 319,wash. r. p. 319,Court Rule,state_rule,WA,1,1,1,1881,1881,false,unresolved
 Wash. R. P. 400,wash. r. p. 400,Court Rule,state_rule,WA,1,1,1,1910,1910,false,unresolved
 Wash. R. P. 401,wash. r. p. 401,Court Rule,state_rule,WA,1,1,1,1910,1910,false,unresolved

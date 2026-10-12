@@ -118,6 +118,7 @@ Vermont Rules of Criminal Procedure Rule 41,vermont rules of criminal procedure 
 "Vermont, Inc., 45 B. R. 931","vermont, inc., 45 b. r. 931",Court Rule,state_rule,VT,5,5,4,1985,1986,false,unresolved
 Vt. R. App. P. 5.1,vt. r. app. p. 5.1,Court Rule,state_rule,VT,5,1,1,2020,2020,true,exact
 Vt. R. Civ. P. 11,vt. r. civ. p. 11,Court Rule,state_rule,VT,5,2,1,2024,2025,true,exact
+Vt. R. Civ. P. 80.1,vt. r. civ. p. 80.1,Court Rule,state_rule,VT,5,4,3,1988,2020,true,exact
 Vt. R. Evid. 702,vt. r. evid. 702,Court Rule,state_rule,VT,5,5,2,2000,2025,true,exact
 Vt. R. Evid. 801,vt. r. evid. 801,Court Rule,state_rule,VT,5,4,2,1985,2024,true,exact
 Vt. R. Evid. 803,vt. r. evid. 803,Court Rule,state_rule,VT,5,4,3,2006,2010,true,exact
@@ -163,7 +164,6 @@ Vt. R. Civ. P. 30,vt. r. civ. p. 30,Court Rule,state_rule,VT,4,2,1,2024,2025,tru
 Vt. R. Civ. P. 5,vt. r. civ. p. 5,Court Rule,state_rule,VT,4,4,1,2020,2025,true,exact
 Vt. R. Civ. P. 62,vt. r. civ. p. 62,Court Rule,state_rule,VT,4,3,2,2015,2024,true,exact
 Vt. R. Civ. P. 7,vt. r. civ. p. 7,Court Rule,state_rule,VT,4,4,1,2023,2025,true,exact
-Vt. R. Civ. P. 80.1,vt. r. civ. p. 80.1,Court Rule,state_rule,VT,4,4,3,2011,2020,true,exact
 Vt. R. Evid. 404,vt. r. evid. 404,Court Rule,state_rule,VT,4,3,3,2012,2020,true,exact
 Vt. R. Evid. 704,vt. r. evid. 704,Court Rule,state_rule,VT,4,4,2,1980,2022,true,exact
 Vt. R. Prob. P. 60,vt. r. prob. p. 60,Court Rule,state_rule,VT,4,1,1,2024,2024,true,exact
@@ -203,6 +203,7 @@ Vermont Civil Procedure Rule 17,vermont civil procedure rule 17,Court Rule,state
 Vermont Rule 13,vermont rule 13,Court Rule,state_rule,VT,3,3,2,1983,2022,true,exact
 Vermont Rule 23,vermont rule 23,Court Rule,state_rule,VT,3,3,1,2007,2007,true,exact
 Vermont Rule 3,vermont rule 3,Court Rule,state_rule,VT,3,1,1,1987,1987,true,exact
+Vermont Rule 4,vermont rule 4,Court Rule,state_rule,VT,3,2,2,1975,2009,true,exact
 Vermont Rules of Appellate Procedure Rule 21,vermont rules of appellate procedure rule 21,Court Rule,state_rule,VT,3,3,1,1973,2019,true,exact
 Vermont Rules of Appellate Procedure Rule 28,vermont rules of appellate procedure rule 28,Court Rule,state_rule,VT,3,3,1,2008,2025,true,exact
 Vermont Rules of Appellate Procedure Rule 39,vermont rules of appellate procedure rule 39,Court Rule,state_rule,VT,3,3,1,2011,2012,true,exact
@@ -369,7 +370,6 @@ Vermont Civil Rule 60,vermont civil rule 60,Court Rule,state_rule,VT,2,2,1,2014,
 "Vermont Inc., 45 B. R. 817","vermont inc., 45 b. r. 817",Court Rule,state_rule,VT,2,2,2,1989,1996,false,unresolved
 "Vermont Inv. L.P., 142 B. R. 571","vermont inv. l.p., 142 b. r. 571",Court Rule,state_rule,VT,2,2,2,2013,2014,false,unresolved
 Vermont Rule 1101,vermont rule 1101,Court Rule,state_rule,VT,2,2,1,2014,2014,true,exact
-Vermont Rule 4,vermont rule 4,Court Rule,state_rule,VT,2,2,2,1975,2009,true,exact
 Vermont Rule 42,vermont rule 42,Court Rule,state_rule,VT,2,1,1,2025,2025,true,exact
 Vermont Rule 60,vermont rule 60,Court Rule,state_rule,VT,2,1,1,1997,1997,true,exact
 Vermont Rule of Criminal Procedure 11. V.R.Cr. P. 11,vermont rule of criminal procedure 11. v.r.cr. p. 11,Court Rule,state_rule,VT,2,2,1,2014,2014,false,unresolved
@@ -549,7 +549,6 @@ Vt.R.Evid. Rule 801,vt.r.evid. rule 801,Court Rule,state_rule,VT,2,2,1,1985,1985
 11 Vt. R. 79,11 vt. r. 79,Court Rule,state_rule,VT,1,1,1,1843,1843,false,unresolved
 11 Vt. R. 9,11 vt. r. 9,Court Rule,state_rule,VT,1,1,1,1841,1841,false,unresolved
 11 Vt. R. 93,11 vt. r. 93,Court Rule,state_rule,VT,1,1,1,1843,1843,false,unresolved
-1141 (2017). Vermont Rule 5,1141 (2017). vermont rule 5,Court Rule,state_rule,VT,1,1,1,2017,2017,false,unresolved
 12 Code of Vt. Rules 12,12 code of vt. rules 12,Court Rule,state_rule,VT,1,1,1,2012,2012,false,unresolved
 "12 F.S.A App. I, Part IV, Rule 9","12 f.s.a app. i, part iv, rule 9",Court Rule,state_rule,VT,1,1,1,1989,1989,false,unresolved
 "12 V.S.A. App. I, Part IV, Rule 11","12 v.s.a. app. i, part iv, rule 11",Court Rule,state_rule,VT,1,1,1,1984,1984,false,unresolved
@@ -809,7 +808,6 @@ Vt.R.Evid. Rule 801,vt.r.evid. rule 801,Court Rule,state_rule,VT,2,2,1,1985,1985
 4 Vermont R. 612,4 vermont r. 612,Court Rule,state_rule,VT,1,1,1,1832,1832,false,unresolved
 4 Vermont R. 622,4 vermont r. 622,Court Rule,state_rule,VT,1,1,1,1824,1824,false,unresolved
 4 Vermont R. 82,4 vermont r. 82,Court Rule,state_rule,VT,1,1,1,1824,1824,false,unresolved
-4 Vermont Rule 15,4 vermont rule 15,Court Rule,state_rule,VT,1,1,1,2010,2010,false,unresolved
 4 Vt. R. 12,4 vt. r. 12,Court Rule,state_rule,VT,1,1,1,1834,1834,false,unresolved
 4 Vt. R. 137,4 vt. r. 137,Court Rule,state_rule,VT,1,1,1,1841,1841,false,unresolved
 4 Vt. R. 149,4 vt. r. 149,Court Rule,state_rule,VT,1,1,1,1842,1842,false,unresolved
@@ -838,7 +836,6 @@ Vt.R.Evid. Rule 801,vt.r.evid. rule 801,Court Rule,state_rule,VT,2,2,1,1985,1985
 4 Vt. R. 96,4 vt. r. 96,Court Rule,state_rule,VT,1,1,1,1843,1843,false,unresolved
 42 Vt. R. 121,42 vt. r. 121,Court Rule,state_rule,VT,1,1,1,1881,1881,false,unresolved
 "45 Vermont, 4 [12 Am. R. 187","45 vermont, 4 [12 am. r. 187",Court Rule,state_rule,VT,1,1,1,1939,1939,false,unresolved
-4523 (b) (1973). Vt. R. Civ. P. 80.1,4523 (b) (1973). vt. r. civ. p. 80.1,Court Rule,state_rule,VT,1,1,1,1988,1988,false,unresolved
 46 Vt. R. Civ. P. 54,46 vt. r. civ. p. 54,Court Rule,state_rule,VT,1,1,1,2026,2026,true,exact
 "48 Vermont, 444 (21 Am. R. 133","48 vermont, 444 (21 am. r. 133",Court Rule,state_rule,VT,1,1,1,1882,1882,false,unresolved
 48 Vt. R. 266,48 vt. r. 266,Court Rule,state_rule,VT,1,1,1,1877,1877,false,unresolved
@@ -855,7 +852,6 @@ Vt.R.Evid. Rule 801,vt.r.evid. rule 801,Court Rule,state_rule,VT,2,2,1,1985,1985
 5 Vermont R. 382,5 vermont r. 382,Court Rule,state_rule,VT,1,1,1,1826,1826,false,unresolved
 5 Vermont R. 441,5 vermont r. 441,Court Rule,state_rule,VT,1,1,1,1831,1831,false,unresolved
 5 Vermont R. 514,5 vermont r. 514,Court Rule,state_rule,VT,1,1,1,1831,1831,false,unresolved
-5 Vermont Rule 4,5 vermont rule 4,Court Rule,state_rule,VT,1,1,1,1975,1975,false,unresolved
 5 Vermont Supreme Court. Vt. R. App. P. 14,5 vermont supreme court. vt. r. app. p. 14,Court Rule,state_rule,VT,1,1,1,2010,2010,false,unresolved
 5 Vermont. R. 172,5 vermont. r. 172,Court Rule,state_rule,VT,1,1,1,1825,1825,false,unresolved
 5 Vt. R. 111,5 vt. r. 111,Court Rule,state_rule,VT,1,1,1,1836,1836,false,unresolved
@@ -1183,6 +1179,7 @@ Vermont R. R. 63,vermont r. r. 63,Court Rule,state_rule,VT,1,1,1,1878,1878,false
 Vermont R.Civ. P. 4,vermont r.civ. p. 4,Court Rule,state_rule,VT,1,1,1,1995,1995,true,exact
 Vermont Rule 1.14,vermont rule 1.14,Court Rule,state_rule,VT,1,1,1,2023,2023,true,exact
 Vermont Rule 10,vermont rule 10,Court Rule,state_rule,VT,1,1,1,2020,2020,true,exact
+Vermont Rule 15,vermont rule 15,Court Rule,state_rule,VT,1,1,1,2010,2010,true,exact
 Vermont Rule 19,vermont rule 19,Court Rule,state_rule,VT,1,1,1,2022,2022,true,exact
 Vermont Rule 24,vermont rule 24,Court Rule,state_rule,VT,1,1,1,2019,2019,true,exact
 Vermont Rule 30,vermont rule 30,Court Rule,state_rule,VT,1,1,1,2014,2014,true,exact
@@ -1190,6 +1187,7 @@ Vermont Rule 35,vermont rule 35,Court Rule,state_rule,VT,1,1,1,2018,2018,true,ex
 Vermont Rule 403,vermont rule 403,Court Rule,state_rule,VT,1,1,1,2012,2012,true,exact
 Vermont Rule 43,vermont rule 43,Court Rule,state_rule,VT,1,1,1,2015,2015,true,exact
 Vermont Rule 45,vermont rule 45,Court Rule,state_rule,VT,1,1,1,2018,2018,true,exact
+Vermont Rule 5,vermont rule 5,Court Rule,state_rule,VT,1,1,1,2017,2017,true,exact
 Vermont Rule 52,vermont rule 52,Court Rule,state_rule,VT,1,1,1,1974,1974,true,exact
 Vermont Rule 54,vermont rule 54,Court Rule,state_rule,VT,1,1,1,2019,2019,true,exact
 Vermont Rule 59,vermont rule 59,Court Rule,state_rule,VT,1,1,1,2009,2009,true,exact

@@ -531,6 +531,7 @@ N.C. R. Evid. 601,n.c. r. evid. 601,Court Rule,state_rule,NC,4,4,3,2010,2025,tru
 N.C. R. Evid. Rule 803,n.c. r. evid. rule 803,Court Rule,state_rule,NC,4,3,1,2018,2025,true,exact
 N.C. R. Pro. Conduct 8.4,n.c. r. pro. conduct 8.4,Court Rule,state_rule,NC,4,2,1,2022,2022,false,unresolved
 N.C. R. Prof. Cond. 1.16,n.c. r. prof. cond. 1.16,Court Rule,state_rule,NC,4,2,2,2022,2024,false,unresolved
+N.C. R. Prof. Conduct 3.5,n.c. r. prof. conduct 3.5,Court Rule,state_rule,NC,4,3,1,2017,2022,true,exact
 N.C. R. Prof. Conduct 3.7,n.c. r. prof. conduct 3.7,Court Rule,state_rule,NC,4,4,3,2022,2026,true,exact
 N.C. R. Prof. Conduct 8.4,n.c. r. prof. conduct 8.4,Court Rule,state_rule,NC,4,2,1,2017,2024,true,exact
 N.C. R.App. P. 1,n.c. r.app. p. 1,Court Rule,state_rule,NC,4,4,2,2004,2015,true,exact
@@ -637,7 +638,6 @@ N.C. R. Prof. Cond. 1.15-2,n.c. r. prof. cond. 1.15-2,Court Rule,state_rule,NC,3
 N.C. R. Prof. Cond. 1.6,n.c. r. prof. cond. 1.6,Court Rule,state_rule,NC,3,1,1,2024,2024,false,unresolved
 N.C. R. Prof. Cond. 8.4,n.c. r. prof. cond. 8.4,Court Rule,state_rule,NC,3,2,1,2018,2024,false,unresolved
 N.C. R. Prof. Conduct 1.7,n.c. r. prof. conduct 1.7,Court Rule,state_rule,NC,3,1,1,2022,2022,true,exact
-N.C. R. Prof. Conduct 3.5,n.c. r. prof. conduct 3.5,Court Rule,state_rule,NC,3,3,1,2017,2022,true,exact
 N.C. R.App. P. 25,n.c. r.app. p. 25,Court Rule,state_rule,NC,3,2,2,1999,2006,true,exact
 N.C. R.App. P. 31,n.c. r.app. p. 31,Court Rule,state_rule,NC,3,3,1,2003,2012,true,exact
 N.C. R.App. P. 3A,n.c. r.app. p. 3a,Court Rule,state_rule,NC,3,3,2,2007,2008,false,unresolved
@@ -925,7 +925,6 @@ District of North Carolina. Local Civil Rule 83.1,district of north carolina. lo
 E.D. N.C. R. 63.01,e.d. n.c. r. 63.01,Court Rule,local_rule,NC,2,2,1,1997,1997,false,unresolved
 E.D.N.C. Local Rule 101.1d,e.d.n.c. local rule 101.1d,Court Rule,local_rule,NC,2,1,1,2013,2013,false,unresolved
 General Statutes of North Carolina. N.C.R. App. P. 3.1,general statutes of north carolina. n.c.r. app. p. 3.1,Court Rule,state_rule,NC,2,2,1,2010,2014,false,unresolved
-H.R. 458 § 16,h.r. 458 § 16,Court Rule,state_rule,NC,2,1,1,1990,1990,false,unresolved
 M.J. 588 (N.C.M. R. 1979,m.j. 588 (n.c.m. r. 1979,Court Rule,state_rule,NC,2,1,1,1981,1981,false,unresolved
 ME. R. CIV. P. § 403,me. r. civ. p. § 403,Court Rule,state_rule,NC,2,2,1,2021,2021,false,unresolved
 N.C R. App. P. 9,n.c r. app. p. 9,Court Rule,state_rule,NC,2,2,1,2021,2021,true,exact
@@ -1230,7 +1229,6 @@ North Carolina: N.C.R. Evid. 406,north carolina: n.c.r. evid. 406,Court Rule,sta
 PWC. N.C. R. App. P. 21,pwc. n.c. r. app. p. 21,Court Rule,state_rule,NC,2,2,1,2025,2025,false,unresolved
 R. 1. 1 Dev. & Batt. N.C. Eq. R. 324,r. 1. 1 dev. & batt. n.c. eq. r. 324,Court Rule,state_rule,NC,2,2,1,1849,1849,false,unresolved
 R. N.C. Rule 10,r. n.c. rule 10,Court Rule,state_rule,NC,2,2,1,1999,2012,true,exact
-"R.R., 192 N.C. 280, 283, 135 S.E. 26, 27 (1926). G.S. § 47-27","r.r., 192 n.c. 280, 283, 135 s.e. 26, 27 (1926). g.s. § 47-27",Court Rule,state_rule,NC,2,2,1,1994,1994,false,unresolved
 S. Regan. N.C. R. App. P. 38,s. regan. n.c. r. app. p. 38,Court Rule,state_rule,NC,2,2,1,2022,2022,false,unresolved
 SeeN.C. R.App. P. 7,seen.c. r.app. p. 7,Court Rule,state_rule,NC,2,1,1,2015,2015,false,unresolved
 "Superior Court. G.S. 7-149, Rule 12","superior court. g.s. 7-149, rule 12",Court Rule,state_rule,NC,2,2,1,1949,1949,false,unresolved
@@ -1286,7 +1284,6 @@ V. Civil Procedure Rule 4 North Carolina Civil Procedure Rule 4,v. civil procedu
 1186 (N.C.M. R. 2,1186 (n.c.m. r. 2,Court Rule,state_rule,NC,1,1,1,1977,1977,false,unresolved
 "119 N.C., 959. Rule 3","119 n.c., 959. rule 3",Court Rule,state_rule,NC,1,1,1,1899,1899,false,unresolved
 12 North Carolina's Rule 3,12 north carolina's rule 3,Court Rule,state_rule,NC,1,1,1,1988,1988,false,unresolved
-"122 N.C. 206, 30 S.E. 319, 41 L.R.A. 240. G.S. § 62-37","122 n.c. 206, 30 s.e. 319, 41 l.r.a. 240. g.s. § 62-37",Court Rule,local_rule,NC,1,1,1,1961,1961,false,unresolved
 1268 (N.C.M. R. 9,1268 (n.c.m. r. 9,Court Rule,state_rule,NC,1,1,1,1982,1982,false,unresolved
 "128 N.C., 645, Rule 39","128 n.c., 645, rule 39",Court Rule,state_rule,NC,1,1,1,1903,1903,false,unresolved
 1295-99 (11th Cir.1999). North Carolina Rule 90,1295-99 (11th cir.1999). north carolina rule 90,Court Rule,local_rule,NC,1,1,1,2012,2012,false,unresolved
@@ -1297,7 +1294,6 @@ V. Civil Procedure Rule 4 North Carolina Civil Procedure Rule 4,v. civil procedu
 "131 N.C., 831, and Rule 30","131 n.c., 831, and rule 30",Court Rule,state_rule,NC,1,1,1,1903,1903,false,unresolved
 1314 (N.C. M. R. 31,1314 (n.c. m. r. 31,Court Rule,state_rule,NC,1,1,1,1981,1981,false,unresolved
 14 N.C. L.R. 197,14 n.c. l.r. 197,Court Rule,local_rule,NC,1,1,1,1952,1952,false,unresolved
-141 (N.C. 1982). Ark. R. Civ. P. 4,141 (n.c. 1982). ark. r. civ. p. 4,Court Rule,state_rule,NC,1,1,1,2021,2021,false,unresolved
 15 E.C. Law R. 88,15 e.c. law r. 88,Court Rule,state_rule,NC,1,1,1,1836,1836,false,unresolved
 15 N.C. L.R. 154,15 n.c. l.r. 154,Court Rule,local_rule,NC,1,1,1,1962,1962,false,unresolved
 15 N.C. L.R. 203,15 n.c. l.r. 203,Court Rule,local_rule,NC,1,1,1,1962,1962,false,unresolved
@@ -1498,7 +1494,6 @@ V. Civil Procedure Rule 4 North Carolina Civil Procedure Rule 4,v. civil procedu
 66 N.C. R. 601,66 n.c. r. 601,Court Rule,state_rule,NC,1,1,1,1872,1872,false,unresolved
 660 (1984). N.C.R. Civ. P. 15,660 (1984). n.c.r. civ. p. 15,Court Rule,state_rule,NC,1,1,1,1995,1995,true,exact
 661 (1981). N.C.R. App. P. 2,661 (1981). n.c.r. app. p. 2,Court Rule,state_rule,NC,1,1,1,1994,1994,true,exact
-666 (1989). N.C. R. Prof. Conduct 3.5,666 (1989). n.c. r. prof. conduct 3.5,Court Rule,state_rule,NC,1,1,1,2017,2017,false,unresolved
 67 N.C. L.R. 257,67 n.c. l.r. 257,Court Rule,local_rule,NC,1,1,1,1998,1998,false,unresolved
 67 N.C. L.R. 795,67 n.c. l.r. 795,Court Rule,local_rule,NC,1,1,1,1990,1990,false,unresolved
 67 N.C. R. 101,67 n.c. r. 101,Court Rule,state_rule,NC,1,1,1,1874,1874,false,unresolved

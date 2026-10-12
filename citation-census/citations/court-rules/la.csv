@@ -271,7 +271,6 @@ Supreme Court Rule XLII § 6,supreme court rule xlii § 6,Court Rule,state_rule,
 19 La. L.R. 777,19 la. l.r. 777,Court Rule,local_rule,LA,2,2,1,1980,1982,false,unresolved
 2 Louisiana R. 634,2 louisiana r. 634,Court Rule,state_rule,LA,2,2,1,1856,1856,false,unresolved
 2 Supreme Court Rule XIX § 31,2 supreme court rule xix § 31,Court Rule,state_rule,LA,2,2,1,2017,2023,false,unresolved
-20 R. C.L. § 116,20 r. c.l. § 116,Court Rule,state_rule,LA,2,1,1,1935,1935,false,unresolved
 21 La. Ann. R. 309,21 la. ann. r. 309,Court Rule,state_rule,LA,2,2,1,1878,1878,false,unresolved
 216 (La.1982). Rule 1.5,216 (la.1982). rule 1.5,Court Rule,state_rule,LA,2,2,1,1989,1991,false,unresolved
 22 La. L.R. 214,22 la. l.r. 214,Court Rule,local_rule,LA,2,2,1,1968,1968,false,unresolved
@@ -504,6 +503,7 @@ Louisiana District Court Uniform Rule 14.0,louisiana district court uniform rule
 Louisiana R. 97,louisiana r. 97,Court Rule,state_rule,LA,2,2,2,1822,1867,false,unresolved
 Louisiana Rule 1.10,louisiana rule 1.10,Court Rule,state_rule,LA,2,2,1,2018,2020,true,exact
 Louisiana Rule 3.8,louisiana rule 3.8,Court Rule,state_rule,LA,2,2,1,2016,2016,true,exact
+Louisiana Rule 4.4,louisiana rule 4.4,Court Rule,state_rule,LA,2,1,1,2023,2023,true,exact
 "Louisiana Rules of Court, Local Rule 13.02","louisiana rules of court, local rule 13.02",Court Rule,local_rule,LA,2,2,1,1991,1991,false,unresolved
 Louisiana Supreme Court Rule 30,louisiana supreme court rule 30,Court Rule,state_rule,LA,2,2,2,2003,2009,false,unresolved
 Louisiana Supreme Court Rule 44,louisiana supreme court rule 44,Court Rule,state_rule,LA,2,1,1,2016,2016,false,unresolved
@@ -782,7 +782,6 @@ W.D. La. Local Rule 41.3,w.d. la. local rule 41.3,Court Rule,local_rule,LA,2,2,1
 41 La. L.R. 387,41 la. l.r. 387,Court Rule,local_rule,LA,1,1,1,1983,1983,false,unresolved
 41 La. L.R. 827,41 la. l.r. 827,Court Rule,local_rule,LA,1,1,1,1984,1984,false,unresolved
 41 La. L.R. 857,41 la. l.r. 857,Court Rule,local_rule,LA,1,1,1,1982,1982,false,unresolved
-42 C.E.R. § 482.12,42 c.e.r. § 482.12,Court Rule,state_rule,LA,1,1,1,2020,2020,false,unresolved
 43 La. L.R. 1061,43 la. l.r. 1061,Court Rule,local_rule,LA,1,1,1,1985,1985,false,unresolved
 43 La. L.R. 1455,43 la. l.r. 1455,Court Rule,local_rule,LA,1,1,1,2006,2006,false,unresolved
 43 La. L.R. 1561,43 la. l.r. 1561,Court Rule,local_rule,LA,1,1,1,1984,1984,false,unresolved
@@ -867,7 +866,6 @@ W.D. La. Local Rule 41.3,w.d. la. local rule 41.3,Court Rule,local_rule,LA,2,2,1
 805 (La.App. 3d Cir.1991). Rule 11,805 (la.app. 3d cir.1991). rule 11,Court Rule,local_rule,LA,1,1,1,1994,1994,false,unresolved
 809 (La.1992). Rule 23,809 (la.1992). rule 23,Court Rule,state_rule,LA,1,1,1,2011,2011,false,unresolved
 81 La. L.R. 1037,81 la. l.r. 1037,Court Rule,local_rule,LA,1,1,1,2022,2022,false,unresolved
-812-13 (5th Cir. 1976)). Louisiana Rule 4.4,812-13 (5th cir. 1976)). louisiana rule 4.4,Court Rule,local_rule,LA,1,1,1,2023,2023,false,unresolved
 898 (La.App. 2 Cir.1990). Rule 11,898 (la.app. 2 cir.1990). rule 11,Court Rule,local_rule,LA,1,1,1,1991,1991,false,unresolved
 9 La. Ann. R. 317,9 la. ann. r. 317,Court Rule,state_rule,LA,1,1,1,1856,1856,false,unresolved
 9 La. R. 473,9 la. r. 473,Court Rule,state_rule,LA,1,1,1,1867,1867,false,unresolved
@@ -1543,7 +1541,6 @@ Louisiana Revised Statutes (“L.R.S.”) § 42:1169,louisiana revised statutes 
 Louisiana Rule 1-3,louisiana rule 1-3,Court Rule,state_rule,LA,1,1,1,1999,1999,true,exact
 Louisiana Rule 1.9,louisiana rule 1.9,Court Rule,state_rule,LA,1,1,1,2020,2020,true,exact
 Louisiana Rule 17,louisiana rule 17,Court Rule,state_rule,LA,1,1,1,1948,1948,false,unresolved
-Louisiana Rule 4.4,louisiana rule 4.4,Court Rule,state_rule,LA,1,1,1,2023,2023,true,exact
 Louisiana Rule § 13:3714,louisiana rule § 13:3714,Court Rule,state_rule,LA,1,1,1,2000,2000,false,unresolved
 Louisiana Rules 1.9,louisiana rules 1.9,Court Rule,state_rule,LA,1,1,1,2020,2020,true,exact
 Louisiana Rules 31,louisiana rules 31,Court Rule,state_rule,LA,1,1,1,1998,1998,false,unresolved
