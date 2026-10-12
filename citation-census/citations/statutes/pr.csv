@@ -156,6 +156,7 @@ R.C. 927,r.c. 927,Statute,state_statute,PR,16,3,1,2006,2010,false,unresolved
 12 L.P.R.A. § 1121,12 l.p.r.a. § 1121,Statute,state_statute,PR,11,9,4,1974,2010,false,unresolved
 19 L.P.R.A. § 2004,19 l.p.r.a. § 2004,Statute,state_statute,PR,11,3,1,2010,2014,false,unresolved
 19 L.P.R.A. § 451,19 l.p.r.a. § 451,Statute,state_statute,PR,11,4,2,2010,2015,true,exact
+23 LPRA § 9011,23 lpra § 9011,Statute,state_statute,PR,11,5,1,2023,2025,true,exact
 3 L.P.R.A. § 1451,3 l.p.r.a. § 1451,Statute,state_statute,PR,11,7,3,2003,2009,false,unresolved
 3 L.P.R.A. § 2164,3 l.p.r.a. § 2164,Statute,state_statute,PR,11,9,3,1999,2011,false,unresolved
 3 LPRA § 10011,3 lpra § 10011,Statute,state_statute,PR,11,1,1,2024,2024,true,exact
@@ -176,7 +177,6 @@ R.C. 927,r.c. 927,Statute,state_statute,PR,16,3,1,2006,2010,false,unresolved
 13 L.P.R.A. § 3022,13 l.p.r.a. § 3022,Statute,state_statute,PR,10,10,2,1958,2001,false,unresolved
 13 L.P.R.A. § 551,13 l.p.r.a. § 551,Statute,state_statute,PR,10,8,2,1960,1976,false,unresolved
 22 L.P.R.A. § 144,22 l.p.r.a. § 144,Statute,state_statute,PR,10,4,1,1986,2023,true,exact
-23 LPRA § 9011,23 lpra § 9011,Statute,state_statute,PR,10,5,1,2023,2025,true,exact
 26 L.P.R.A. § 2716a,26 l.p.r.a. § 2716a,Statute,state_statute,PR,10,6,4,1984,2024,true,exact
 26 L.P.R.A. § 4001,26 l.p.r.a. § 4001,Statute,state_statute,PR,10,8,3,1970,2020,true,exact
 29 L.P.R.A. § 183,29 l.p.r.a. § 183,Statute,state_statute,PR,10,8,2,1958,2011,false,unresolved
@@ -202,6 +202,7 @@ R.C. 927,r.c. 927,Statute,state_statute,PR,16,3,1,2006,2010,false,unresolved
 4 L.P.R.A. § 62,4 l.p.r.a. § 62,Statute,state_statute,PR,10,9,1,1956,1972,false,unresolved
 4 LPRA § 1503,4 lpra § 1503,Statute,state_statute,PR,10,6,1,2023,2026,true,exact
 "L.P.A.U., 3 L.P.R.A. § 2175","l.p.a.u., 3 l.p.r.a. § 2175",Statute,state_statute,PR,10,10,2,1999,2010,false,unresolved
+10 L.P.R.A. § 278b-1,10 l.p.r.a. § 278b-1,Statute,state_statute,PR,9,4,2,1981,1996,true,exact
 11 L.P.R.A. § 1-42,11 l.p.r.a. § 1-42,Statute,state_statute,PR,9,9,3,1969,2012,false,unresolved
 11 L.P.R.A. § 26,11 l.p.r.a. § 26,Statute,state_statute,PR,9,8,3,1963,1980,true,exact
 13 L.P.R.A. § 30263,13 l.p.r.a. § 30263,Statute,state_statute,PR,9,1,1,2016,2016,true,exact
@@ -316,6 +317,7 @@ IAC I201401367,iac i201401367,Statute,state_statute,PR,9,9,1,2025,2025,false,unr
 1 L.P.R.A. § 8,1 l.p.r.a. § 8,Statute,state_statute,PR,7,6,3,1962,1988,false,unresolved
 10 L.P.R.A. § 259,10 l.p.r.a. § 259,Statute,state_statute,PR,7,7,2,1974,2016,true,exact
 10 L.P.R.A. § 263,10 l.p.r.a. § 263,Statute,state_statute,PR,7,4,2,1991,2003,true,exact
+10 L.P.R.A. § 278a-1,10 l.p.r.a. § 278a-1,Statute,state_statute,PR,7,2,1,1991,2020,true,exact
 10 L.P.R.A. § 278d,10 l.p.r.a. § 278d,Statute,state_statute,PR,7,6,2,1970,2025,true,exact
 10 L.P.R.A. § 851,10 l.p.r.a. § 851,Statute,state_statute,PR,7,3,2,1978,2011,true,exact
 11 L.P.R.A. § 203,11 l.p.r.a. § 203,Statute,state_statute,PR,7,5,3,2000,2015,true,exact
@@ -481,8 +483,6 @@ L.P.R.A. § 1130,l.p.r.a. § 1130,Statute,state_statute,PR,6,1,1,2013,2013,false
 10 L.P.R.A. § 191,10 l.p.r.a. § 191,Statute,state_statute,PR,5,5,2,1963,1991,false,unresolved
 10 L.P.R.A. § 260,10 l.p.r.a. § 260,Statute,state_statute,PR,5,4,2,1984,2021,true,exact
 10 L.P.R.A. § 268,10 l.p.r.a. § 268,Statute,state_statute,PR,5,5,3,2004,2021,true,exact
-10 L.P.R.A. § 278a-1,10 l.p.r.a. § 278a-1,Statute,state_statute,PR,5,2,1,1997,2020,true,exact
-10 L.P.R.A. § 278b-l,10 l.p.r.a. § 278b-l,Statute,state_statute,PR,5,3,2,1981,1993,false,unresolved
 10 L.P.R.A. § 874,10 l.p.r.a. § 874,Statute,state_statute,PR,5,1,1,2011,2011,false,unresolved
 12 L.P.R.A. § 1139,12 l.p.r.a. § 1139,Statute,state_statute,PR,5,4,3,1985,2010,false,unresolved
 12 L.P.R.A. § 1395e,12 l.p.r.a. § 1395e,Statute,state_statute,PR,5,1,1,2001,2001,false,unresolved
@@ -629,7 +629,6 @@ Title 26 L.P.R.A. § 2003,title 26 l.p.r.a. § 2003,Statute,state_statute,PR,5,3
 10 L.P.R.A. § 194,10 l.p.r.a. § 194,Statute,state_statute,PR,4,2,2,1964,1991,false,unresolved
 10 L.P.R.A. § 261,10 l.p.r.a. § 261,Statute,state_statute,PR,4,1,1,2006,2006,true,exact
 10 L.P.R.A. § 264,10 l.p.r.a. § 264,Statute,state_statute,PR,4,1,1,2002,2002,true,exact
-10 L.P.R.A. § 278b-1,10 l.p.r.a. § 278b-1,Statute,state_statute,PR,4,4,2,1984,1996,true,exact
 10 L.P.R.A. § 279a,10 l.p.r.a. § 279a,Statute,state_statute,PR,4,3,2,1999,2025,true,exact
 10 L.P.R.A. § 34,10 l.p.r.a. § 34,Statute,state_statute,PR,4,3,2,1962,1989,false,unresolved
 10 L.P.R.A. § 716,10 l.p.r.a. § 716,Statute,state_statute,PR,4,1,1,1988,1988,true,exact
@@ -1360,7 +1359,6 @@ Title 32 L.P.R.A. § 310,title 32 l.p.r.a. § 310,Statute,state_statute,PR,3,1,1
 10 L.P.R.A. § 2401,10 l.p.r.a. § 2401,Statute,state_statute,PR,2,2,2,2007,2015,false,unresolved
 10 L.P.R.A. § 271,10 l.p.r.a. § 271,Statute,state_statute,PR,2,2,2,2006,2007,true,exact
 10 L.P.R.A. § 276,10 l.p.r.a. § 276,Statute,state_statute,PR,2,2,1,1991,2005,false,unresolved
-10 L.P.R.A. § 278a-l,10 l.p.r.a. § 278a-l,Statute,state_statute,PR,2,1,1,1991,1991,false,unresolved
 10 L.P.R.A. § 278c,10 l.p.r.a. § 278c,Statute,state_statute,PR,2,2,2,1982,1997,true,exact
 10 L.P.R.A. § 279b,10 l.p.r.a. § 279b,Statute,state_statute,PR,2,1,1,1999,1999,true,exact
 10 L.P.R.A. § 31-41,10 l.p.r.a. § 31-41,Statute,state_statute,PR,2,2,2,1961,2002,false,unresolved
@@ -1478,7 +1476,6 @@ Title 32 L.P.R.A. § 310,title 32 l.p.r.a. § 310,Statute,state_statute,PR,3,1,1
 15 LPRA § 565,15 lpra § 565,Statute,state_statute,PR,2,1,1,2024,2024,false,unresolved
 15 LPRA § 982a,15 lpra § 982a,Statute,state_statute,PR,2,2,1,2023,2024,true,exact
 "152 DPR 140, 155 (2000). 51 31 LPRA § 3025","152 dpr 140, 155 (2000). 51 31 lpra § 3025",Statute,state_statute,PR,2,2,1,2024,2024,false,unresolved
-16 C.J. 257 § 423,16 c.j. 257 § 423,Statute,state_statute,PR,2,2,2,1922,1943,false,unresolved
 16 L.P.R.A. § 1047,16 l.p.r.a. § 1047,Statute,state_statute,PR,2,2,1,1960,1960,false,unresolved
 16 L.P.R.A. § 13,16 l.p.r.a. § 13,Statute,state_statute,PR,2,2,1,1967,1968,false,unresolved
 16 L.P.R.A. § 173,16 l.p.r.a. § 173,Statute,state_statute,PR,2,2,1,1972,1972,false,unresolved
@@ -2112,8 +2109,6 @@ Title 32 L.P.R.A. § 310,title 32 l.p.r.a. § 310,Statute,state_statute,PR,3,1,1
 32 LPRA § 3201,32 lpra § 3201,Statute,state_statute,PR,2,2,1,2025,2025,false,unresolved
 32 LPRA § 3344,32 lpra § 3344,Statute,state_statute,PR,2,1,1,2006,2006,false,unresolved
 32 LPRA § 3351,32 lpra § 3351,Statute,state_statute,PR,2,2,1,2024,2024,false,unresolved
-33 C.J. 247 § 158,33 c.j. 247 § 158,Statute,state_statute,PR,2,2,1,1944,1968,false,unresolved
-33 C.J. 247 § 161,33 c.j. 247 § 161,Statute,state_statute,PR,2,2,1,1944,1968,false,unresolved
 33 L.P.R.A. § 1053,33 l.p.r.a. § 1053,Statute,state_statute,PR,2,1,1,1974,1974,false,unresolved
 33 L.P.R.A. § 11,33 l.p.r.a. § 11,Statute,state_statute,PR,2,2,1,1966,1972,false,unresolved
 33 L.P.R.A. § 1241,33 l.p.r.a. § 1241,Statute,state_statute,PR,2,2,1,1960,1963,false,unresolved
@@ -2168,7 +2163,6 @@ Title 32 L.P.R.A. § 310,title 32 l.p.r.a. § 310,Statute,state_statute,PR,3,1,1
 33 LPRA § 5083,33 lpra § 5083,Statute,state_statute,PR,2,1,1,2024,2024,true,exact
 33 LPRA § 5191,33 lpra § 5191,Statute,state_statute,PR,2,2,1,2024,2024,true,exact
 33 LPRA § 5272,33 lpra § 5272,Statute,state_statute,PR,2,2,1,2023,2024,true,exact
-34 C.J. 760 § 1173,34 c.j. 760 § 1173,Statute,state_statute,PR,2,2,2,1939,1942,false,unresolved
 34 L.P.R.A. 1957 Cum. Suppl. § 2003,34 l.p.r.a. 1957 cum. suppl. § 2003,Statute,state_statute,PR,2,1,1,1958,1958,false,unresolved
 34 L.P.R.A. § 1028,34 l.p.r.a. § 1028,Statute,state_statute,PR,2,2,1,1964,1964,false,unresolved
 34 L.P.R.A. § 1076,34 l.p.r.a. § 1076,Statute,state_statute,PR,2,1,1,1960,1960,false,unresolved
@@ -2233,6 +2227,7 @@ Title 32 L.P.R.A. § 310,title 32 l.p.r.a. § 310,Statute,state_statute,PR,3,1,1
 5 L.P.R.A. § 912,5 l.p.r.a. § 912,Statute,state_statute,PR,2,1,1,1961,1961,false,unresolved
 5 L.P.R.A. § 918,5 l.p.r.a. § 918,Statute,state_statute,PR,2,2,1,1961,1961,false,unresolved
 5 L.P.R.A. § 925,5 l.p.r.a. § 925,Statute,state_statute,PR,2,2,2,1961,1968,false,unresolved
+5 V.I.C. § 75,5 v.i.c. § 75,Statute,state_statute,PR,2,1,1,1966,1966,true,exact
 7 L.P.R.A. § 1318,7 l.p.r.a. § 1318,Statute,state_statute,PR,2,1,1,2001,2001,false,unresolved
 7 L.P.R.A. § 202,7 l.p.r.a. § 202,Statute,state_statute,PR,2,1,1,1987,1987,true,exact
 7 L.P.R.A. § 3163,7 l.p.r.a. § 3163,Statute,state_statute,PR,2,1,1,2023,2023,false,unresolved
@@ -2426,7 +2421,6 @@ Title 31 L.P.R.A. § 5141,title 31 l.p.r.a. § 5141,Statute,state_statute,PR,2,1
 UCA 200,uca 200,Statute,state_statute,PR,2,2,1,2024,2025,false,unresolved
 WIS. STAT. § 29.304,wis. stat. § 29.304,Statute,state_statute,PR,2,2,2,2005,2024,true,exact
 WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,2024,true,exact
-1 C.J. 1398 § 128,1 c.j. 1398 § 128,Statute,state_statute,PR,1,1,1,1931,1931,false,unresolved
 "1 COD. PEN PR art. 93, 33 LPRA § 5142","1 cod. pen pr art. 93, 33 lpra § 5142",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 1 L.P.R.A. Art. II § 11,1 l.p.r.a. art. ii § 11,Statute,state_statute,PR,1,1,1,2005,2005,false,unresolved
 1 L.P.R.A. Art. II § 12,1 l.p.r.a. art. ii § 12,Statute,state_statute,PR,1,1,1,2009,2009,false,unresolved
@@ -2575,7 +2569,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 110 DPR 869 (1981). 7. 31 LPRA § 1285,110 dpr 869 (1981). 7. 31 lpra § 1285,Statute,state_statute,PR,1,1,1,1995,1995,false,unresolved
 111 DPR 427 (1981). 30 31 LPRA § 1921a,111 dpr 427 (1981). 30 31 lpra § 1921a,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 "1113 (l), 1163. 28 4 L.P.R.A. § 1163","1113 (l), 1163. 28 4 l.p.r.a. § 1163",Statute,state_statute,PR,1,1,1,2010,2010,false,unresolved
-113 DPR 210 (1982). 13 LPRA § 30021,113 dpr 210 (1982). 13 lpra § 30021,Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
 "114 DPR 64, 69 (1983). 71 31 LPRA § 3472","114 dpr 64, 69 (1983). 71 31 lpra § 3472",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 115 D.P. P. 232,115 d.p. p. 232,Statute,state_statute,PR,1,1,1,1999,1999,false,unresolved
 "116 DPR 261, 266 (1985). 22 31 LPRA § 7531","116 dpr 261, 266 (1985). 22 31 lpra § 7531",Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
@@ -2590,7 +2583,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 118 DPR 733 (1987). 12 32 LPRA § 2838,118 dpr 733 (1987). 12 32 lpra § 2838,Statute,state_statute,PR,1,1,1,2023,2023,false,unresolved
 118 DPR 733 (1987). 13 32 LPRA § 2821,118 dpr 733 (1987). 13 32 lpra § 2821,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 118 DPR 733 (1987). 13 32 LPRA § 2838,118 dpr 733 (1987). 13 32 lpra § 2838,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
-12 C.J. 638 § 231,12 c.j. 638 § 231,Statute,state_statute,PR,1,1,1,1918,1918,false,unresolved
 12 L.P.R.A § 1152,12 l.p.r.a § 1152,Statute,state_statute,PR,1,1,1,2007,2007,true,exact
 12 L.P.R.A. § 1101,12 l.p.r.a. § 1101,Statute,state_statute,PR,1,1,1,1987,1987,false,unresolved
 12 L.P.R.A. § 1121-1140a,12 l.p.r.a. § 1121-1140a,Statute,state_statute,PR,1,1,1,2009,2009,false,unresolved
@@ -2621,7 +2613,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 12 L.P.R.A. § 8002a,12 l.p.r.a. § 8002a,Statute,state_statute,PR,1,1,1,2011,2011,false,unresolved
 12 L.P.R.A. § 8004a,12 l.p.r.a. § 8004a,Statute,state_statute,PR,1,1,1,2015,2015,true,exact
 12 L.P.R.A. § 8004i,12 l.p.r.a. § 8004i,Statute,state_statute,PR,1,1,1,2015,2015,true,exact
-12 R.O.L. 1028 § 15,12 r.o.l. 1028 § 15,Statute,state_statute,PR,1,1,1,1920,1920,false,unresolved
 1205 (b) (1). 4 3 L.P.R.A. § 2191,1205 (b) (1). 4 3 l.p.r.a. § 2191,Statute,state_statute,PR,1,1,1,2009,2009,false,unresolved
 "1206 (1930), 31 L.P.R.A. § 3371","1206 (1930), 31 l.p.r.a. § 3371",Statute,state_statute,PR,1,1,1,2006,2006,false,unresolved
 "1207 (1930), 31 L.P.R.A. § 3372","1207 (1930), 31 l.p.r.a. § 3372",Statute,state_statute,PR,1,1,1,2006,2006,false,unresolved
@@ -2783,6 +2774,7 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 13 L.P.R.A. § 9521,13 l.p.r.a. § 9521,Statute,state_statute,PR,1,1,1,2007,2007,false,unresolved
 13 L.P.R.A. § 9745,13 l.p.r.a. § 9745,Statute,state_statute,PR,1,1,1,2006,2006,false,unresolved
 13 LPRA § 10851,13 lpra § 10851,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
+13 LPRA § 30021,13 lpra § 30021,Statute,state_statute,PR,1,1,1,2025,2025,true,exact
 13 LPRA § 33002,13 lpra § 33002,Statute,state_statute,PR,1,1,1,2023,2023,true,exact
 13 LPRA § 33005,13 lpra § 33005,Statute,state_statute,PR,1,1,1,2023,2023,true,exact
 13 LPRA § 45,13 lpra § 45,Statute,state_statute,PR,1,1,1,2025,2025,true,exact
@@ -2899,7 +2891,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 "155 DPR 548, 553 (2001). 46 21 LPRA § 4001","155 dpr 548, 553 (2001). 46 21 lpra § 4001",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 "157 DPR 203, 211 (2002). 38 21 LPRA § 4002","157 dpr 203, 211 (2002). 38 21 lpra § 4002",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 "159 DPR 401, 413 (2003). 24 3 LPRA § 1857a","159 dpr 401, 413 (2003). 24 3 lpra § 1857a",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
-"16 C.J., Criminal Law § 428","16 c.j., criminal law § 428",Statute,state_statute,PR,1,1,1,1919,1919,false,unresolved
 16 L.P.R.A. (Supp.) 1968 § 844,16 l.p.r.a. (supp.) 1968 § 844,Statute,state_statute,PR,1,1,1,1970,1970,false,unresolved
 16 L.P.R.A. § 1,16 l.p.r.a. § 1,Statute,state_statute,PR,1,1,1,1960,1960,false,unresolved
 16 L.P.R.A. § 1001,16 l.p.r.a. § 1001,Statute,state_statute,PR,1,1,1,1960,1960,false,unresolved
@@ -3016,7 +3007,7 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 18 L.P.R.A. § 264,18 l.p.r.a. § 264,Statute,state_statute,PR,1,1,1,1962,1962,false,unresolved
 18 L.P.R.A. § 272,18 l.p.r.a. § 272,Statute,state_statute,PR,1,1,1,1962,1962,false,unresolved
 18 L.P.R.A. § 274,18 l.p.r.a. § 274,Statute,state_statute,PR,1,1,1,1995,1995,true,exact
-18 L.P.R.A. § 274e-l,18 l.p.r.a. § 274e-l,Statute,state_statute,PR,1,1,1,2005,2005,false,unresolved
+18 L.P.R.A. § 274e-1,18 l.p.r.a. § 274e-1,Statute,state_statute,PR,1,1,1,2005,2005,true,exact
 18 L.P.R.A. § 291,18 l.p.r.a. § 291,Statute,state_statute,PR,1,1,1,1970,1970,false,unresolved
 18 L.P.R.A. § 31,18 l.p.r.a. § 31,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 18 L.P.R.A. § 310,18 l.p.r.a. § 310,Statute,state_statute,PR,1,1,1,2007,2007,false,unresolved
@@ -3321,7 +3312,7 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 22 L.P.R.A § 1054jj,22 l.p.r.a § 1054jj,Statute,state_statute,PR,1,1,1,2025,2025,true,exact
 22 L.P.R.A. § 141,22 l.p.r.a. § 141,Statute,state_statute,PR,1,1,1,2008,2008,false,unresolved
 22 L.P.R.A. § 141-68,22 l.p.r.a. § 141-68,Statute,state_statute,PR,1,1,1,1984,1984,false,unresolved
-22 L.P.R.A. § 143a-l,22 l.p.r.a. § 143a-l,Statute,state_statute,PR,1,1,1,2008,2008,false,unresolved
+22 L.P.R.A. § 143a-1,22 l.p.r.a. § 143a-1,Statute,state_statute,PR,1,1,1,2008,2008,true,exact
 22 L.P.R.A. § 149,22 l.p.r.a. § 149,Statute,state_statute,PR,1,1,1,2008,2008,true,exact
 22 L.P.R.A. § 161,22 l.p.r.a. § 161,Statute,state_statute,PR,1,1,1,2008,2008,true,exact
 22 L.P.R.A. § 197,22 l.p.r.a. § 197,Statute,state_statute,PR,1,1,1,1964,1964,true,exact
@@ -3644,8 +3635,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 26 LPRA § 321a,26 lpra § 321a,Statute,state_statute,PR,1,1,1,2024,2024,true,exact
 26 LPRA § 4108,26 lpra § 4108,Statute,state_statute,PR,1,1,1,2023,2023,true,exact
 26 LPRA § 4109,26 lpra § 4109,Statute,state_statute,PR,1,1,1,2023,2023,true,exact
-27 C.J. 572 § 111,27 c.j. 572 § 111,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
-27 C.J. 572 § 112,27 c.j. 572 § 112,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
 27 L.P.E.A. § 227,27 l.p.e.a. § 227,Statute,state_statute,PR,1,1,1,1961,1961,false,unresolved
 27 L.P.R.A. § 1101,27 l.p.r.a. § 1101,Statute,state_statute,PR,1,1,1,1987,1987,false,unresolved
 27 L.P.R.A. § 1201,27 l.p.r.a. § 1201,Statute,state_statute,PR,1,1,1,1966,1966,false,unresolved
@@ -4201,7 +4190,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 30 LPRA § 6283,30 lpra § 6283,Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
 "302 (5th ed. 1943). Section 824 of the Civil Code, 81 L.P.R.A. § 2521","302 (5th ed. 1943). section 824 of the civil code, 81 l.p.r.a. § 2521",Statute,state_statute,PR,1,1,1,1970,1970,false,unresolved
 3022 (b)(4). 5 13 L.P.R.A. § 3204,3022 (b)(4). 5 13 l.p.r.a. § 3204,Statute,state_statute,PR,1,1,1,2001,2001,false,unresolved
-31 C.J. 28 § 1109,31 c.j. 28 § 1109,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
 "31 C.J. 387, 388 § 47","31 c.j. 387, 388 § 47",Statute,state_statute,PR,1,1,1,1944,1944,false,unresolved
 31 D.P. P. 1,31 d.p. p. 1,Statute,state_statute,PR,1,1,1,1927,1927,false,unresolved
 31 L. P.R.A. § 2994,31 l. p.r.a. § 2994,Statute,state_statute,PR,1,1,1,2005,2005,true,exact
@@ -5232,8 +5220,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 33 LPRA § 5416.4,33 lpra § 5416.4,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 33 LPRA § 9802,33 lpra § 9802,Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
 33 LRPA § 4013,33 lrpa § 4013,Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
-34 C.J. 511 § 235,34 c.j. 511 § 235,Statute,state_statute,PR,1,1,1,1943,1943,false,unresolved
-34 C.J. 511 § 576,34 c.j. 511 § 576,Statute,state_statute,PR,1,1,1,1943,1943,false,unresolved
 34 D.P. P. 36,34 d.p. p. 36,Statute,state_statute,PR,1,1,1,1930,1930,false,unresolved
 34 L.P.K.A. § 1722,34 l.p.k.a. § 1722,Statute,state_statute,PR,1,1,1,1964,1964,false,unresolved
 34 L.P.K.A. § 58,34 l.p.k.a. § 58,Statute,state_statute,PR,1,1,1,1965,1965,false,unresolved
@@ -5464,27 +5450,20 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 "411 US 778, 786 (1973). 16 34 LPRA § 1029","411 us 778, 786 (1973). 16 34 lpra § 1029",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 4131 LPRA § 7284,4131 lpra § 7284,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 429 L.P.R.A. § 283,429 l.p.r.a. § 283,Statute,state_statute,PR,1,1,1,1996,1996,false,unresolved
-43 AM JUR PROOF OF FACTS 3d 473 § 17,43 am jur proof of facts 3d 473 § 17,Statute,state_statute,PR,1,1,1,2003,2003,false,unresolved
-"43 AM JUR PROOF OF FACTS 3d 473, 489-90 § 7","43 am jur proof of facts 3d 473, 489-90 § 7",Statute,state_statute,PR,1,1,1,2003,2003,false,unresolved
-43 C.J. § 220,43 c.j. § 220,Statute,state_statute,PR,1,1,1,1948,1948,false,unresolved
 43 CCH S. Ct. Bull. P. 3333,43 cch s. ct. bull. p. 3333,Statute,state_statute,PR,1,1,1,1983,1983,false,unresolved
 43 CCH S. Ct. Bull. P. 3394,43 cch s. ct. bull. p. 3394,Statute,state_statute,PR,1,1,1,1983,1983,false,unresolved
 4331 LPRA § 10647,4331 lpra § 10647,Statute,state_statute,PR,1,1,1,2021,2021,false,unresolved
 44 CCH S. Ct. Bull. P. 3351,44 cch s. ct. bull. p. 3351,Statute,state_statute,PR,1,1,1,1984,1984,false,unresolved
 44 D.P. P. 883,44 d.p. p. 883,Statute,state_statute,PR,1,1,1,1943,1943,false,unresolved
 442 (b) and 25 L.P.R.A. § 451,442 (b) and 25 l.p.r.a. § 451,Statute,state_statute,PR,1,1,1,1972,1972,false,unresolved
-45 C.J. § 220,45 c.j. § 220,Statute,state_statute,PR,1,1,1,1948,1948,false,unresolved
 4531 LPRA § 4826,4531 lpra § 4826,Statute,state_statute,PR,1,1,1,2021,2021,false,unresolved
 46 Rev. Der. Inmob. 93 (1970)). 47 31 L.P.R.A. § 3647,46 rev. der. inmob. 93 (1970)). 47 31 l.p.r.a. § 3647,Statute,state_statute,PR,1,1,1,2010,2010,false,unresolved
 "474 US 344, 348 (1986). 15 31 LPRA § 1921","474 us 344, 348 (1986). 15 31 lpra § 1921",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 48 U.S O. § 733a,48 u.s o. § 733a,Statute,state_statute,PR,1,1,1,1948,1948,true,exact
 48 U.S.O.A. § 832,48 u.s.o.a. § 832,Statute,state_statute,PR,1,1,1,1948,1948,false,unresolved
 4831 LPRA § 10648,4831 lpra § 10648,Statute,state_statute,PR,1,1,1,2021,2021,false,unresolved
-49 C.J. 848 § 1253,49 c.j. 848 § 1253,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
 "5 (a) (10), 15 LPRA § 198k","5 (a) (10), 15 lpra § 198k",Statute,state_statute,PR,1,1,1,2023,2023,false,unresolved
 "5 (a), 13 L.P.R.A. § 887","5 (a), 13 l.p.r.a. § 887",Statute,state_statute,PR,1,1,1,1955,1955,false,unresolved
-5 C.J. 748 § 235,5 c.j. 748 § 235,Statute,state_statute,PR,1,1,1,1946,1946,false,unresolved
-5 C.J. 797 § 346,5 c.j. 797 § 346,Statute,state_statute,PR,1,1,1,1946,1946,false,unresolved
 5 Cyc. of Fed. Proc. § 15.520,5 cyc. of fed. proc. § 15.520,Statute,state_statute,PR,1,1,1,1958,1958,false,unresolved
 5 L.P.R.A. § 1101,5 l.p.r.a. § 1101,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 5 L.P.R.A. § 1111,5 l.p.r.a. § 1111,Statute,state_statute,PR,1,1,1,2013,2013,false,unresolved
@@ -5530,22 +5509,17 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 5 LPRA § 4446,5 lpra § 4446,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 5 LPRA § 4667,5 lpra § 4667,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 5 U.L.A. § 9,5 u.l.a. § 9,Statute,state_statute,PR,1,1,1,1965,1965,false,unresolved
-5 V.I.C. § 75,5 v.i.c. § 75,Statute,state_statute,PR,1,1,1,1966,1966,true,exact
 "5-1121 (a), 9 L.P.R.A. § 1151","5-1121 (a), 9 l.p.r.a. § 1151",Statute,state_statute,PR,1,1,1,1969,1969,false,unresolved
 "5-804 (c), 9 L.P.R.A. § 1044","5-804 (c), 9 l.p.r.a. § 1044",Statute,state_statute,PR,1,1,1,1963,1963,false,unresolved
 50 TJ.S.C. § 925,50 tj.s.c. § 925,Statute,state_statute,PR,1,1,1,1943,1943,false,unresolved
 5034 (a). 44 33 LPRA § 5034,5034 (a). 44 33 lpra § 5034,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 "514 (1) (b), 8 L. P.R.A. § 514","514 (1) (b), 8 l. p.r.a. § 514",Statute,state_statute,PR,1,1,1,2000,2000,false,unresolved
-52 C.J. 1179 § 48,52 c.j. 1179 § 48,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
-52 C.J. 250 § 1837,52 c.j. 250 § 1837,Statute,state_statute,PR,1,1,1,1943,1943,false,unresolved
 5431 LPRA § 461,5431 lpra § 461,Statute,state_statute,PR,1,1,1,2021,2021,false,unresolved
 551A (1). 56 32 LPRA § 2280a,551a (1). 56 32 lpra § 2280a,Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
 "6 (d) I, 29 L.P.R.A. § 245e","6 (d) i, 29 l.p.r.a. § 245e",Statute,state_statute,PR,1,1,1,1968,1968,false,unresolved
-6 C.J. § 402,6 c.j. § 402,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
 6 L.P.R.A. § 1-19,6 l.p.r.a. § 1-19,Statute,state_statute,PR,1,1,1,1961,1961,false,unresolved
 6 L.P.R.A. § 882,6 l.p.r.a. § 882,Statute,state_statute,PR,1,1,1,1963,1963,false,unresolved
 "6 Section 98 of the Code of Civil Procedure, 32 L.P.R.A.. § 462","6 section 98 of the code of civil procedure, 32 l.p.r.a.. § 462",Statute,state_statute,PR,1,1,1,1961,1961,false,unresolved
-60 C.J. 62 § 42,60 c.j. 62 § 42,Statute,state_statute,PR,1,1,1,1942,1942,false,unresolved
 60 D.P. P. 798,60 d.p. p. 798,Statute,state_statute,PR,1,1,1,1944,1944,false,unresolved
 "6002 (a), 13 LPRA § 8022","6002 (a), 13 lpra § 8022",Statute,state_statute,PR,1,1,1,2009,2009,false,unresolved
 607 (2012). 2 33 LPRA § 4737,607 (2012). 2 33 lpra § 4737,Statute,state_statute,PR,1,1,1,2015,2015,false,unresolved
@@ -5554,7 +5528,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 "63 Art. 1389, 31 LPRA § 10323","63 art. 1389, 31 lpra § 10323",Statute,state_statute,PR,1,1,1,2023,2023,false,unresolved
 "63 DPR 285, 290 (1944). 19 31 LPRA § 11523","63 dpr 285, 290 (1944). 19 31 lpra § 11523",Statute,state_statute,PR,1,1,1,2023,2023,false,unresolved
 "64 Art. 1253, 31 LPRA § 9821","64 art. 1253, 31 lpra § 9821",Statute,state_statute,PR,1,1,1,2023,2023,false,unresolved
-64 C.J. 157 § 178,64 c.j. 157 § 178,Statute,state_statute,PR,1,1,1,1950,1950,false,unresolved
 "65 (k), 28 L.P.R.A. § 463","65 (k), 28 l.p.r.a. § 463",Statute,state_statute,PR,1,1,1,1963,1963,false,unresolved
 "66 (August 17, 1989), 17 L.P.R.A. § 1001","66 (august 17, 1989), 17 l.p.r.a. § 1001",Statute,state_statute,PR,1,1,1,1999,1999,false,unresolved
 66 P.S. § 1158,66 p.s. § 1158,Statute,state_statute,PR,1,1,1,1968,1968,false,unresolved
@@ -5596,7 +5569,6 @@ WIS. STAT. § 350.05,wis. stat. § 350.05,Statute,state_statute,PR,2,2,2,2005,20
 7 LPRA § 2010,7 lpra § 2010,Statute,state_statute,PR,1,1,1,2023,2023,true,exact
 7 LPRA § 3081,7 lpra § 3081,Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
 7 LPRA § 3099,7 lpra § 3099,Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
-71 C.J. § 312,71 c.j. § 312,Statute,state_statute,PR,1,1,1,1944,1944,false,unresolved
 72 P.S. § 9010,72 p.s. § 9010,Statute,state_statute,PR,1,1,1,2007,2007,false,unresolved
 "75 DPR 712, 732 (1953). 48 30 LPRA § 6292","75 dpr 712, 732 (1953). 48 30 lpra § 6292",Statute,state_statute,PR,1,1,1,2025,2025,false,unresolved
 "77 DPR 701, 708 (1954). 37 21 LPRA § 4001","77 dpr 701, 708 (1954). 37 21 lpra § 4001",Statute,state_statute,PR,1,1,1,2024,2024,false,unresolved
@@ -6467,7 +6439,6 @@ P.R. Stat. Ann. tit. 29 § 146,p.r. stat. ann. tit. 29 § 146,Statute,state_stat
 P.R. Stat. Ann. tit. 29 § 185,p.r. stat. ann. tit. 29 § 185,Statute,state_statute,PR,1,1,1,2012,2012,false,unresolved
 P.R. Stat. Ann. tit. 29 § 501-07,p.r. stat. ann. tit. 29 § 501-07,Statute,state_statute,PR,1,1,1,2013,2013,false,unresolved
 P.R. Stat. tit. 29 § 185,p.r. stat. tit. 29 § 185,Statute,state_statute,PR,1,1,1,1999,1999,false,unresolved
-"P.R., 877 F. Supp. 961, 971 (D.V.I. 1994). V.I. Code Ann. tit 28 § 258","p.r., 877 f. supp. 961, 971 (d.v.i. 1994). v.i. code ann. tit 28 § 258",Statute,state_statute,PR,1,1,1,2013,2013,false,unresolved
 "P.R.Civ.Code Art. 1161, 31 L.P.R.A. § 3245","p.r.civ.code art. 1161, 31 l.p.r.a. § 3245",Statute,state_statute,PR,1,1,1,1992,1992,false,unresolved
 "P.R.Civil Code, 31 L.P.R.A. § 5141","p.r.civil code, 31 l.p.r.a. § 5141",Statute,state_statute,PR,1,1,1,1995,1995,false,unresolved
 P.R.W.A.C.A. (11 L.P.R.A. § 32,p.r.w.a.c.a. (11 l.p.r.a. § 32,Statute,state_statute,PR,1,1,1,1998,1998,false,unresolved
@@ -6661,8 +6632,6 @@ UNIDOS § 12.1,unidos § 12.1,Statute,state_statute,PR,1,1,1,2024,2024,false,unr
 UNIDOS § 6.10,unidos § 6.10,Statute,state_statute,PR,1,1,1,1999,1999,false,unresolved
 UNIDOS § 6.2,unidos § 6.2,Statute,state_statute,PR,1,1,1,1999,1999,false,unresolved
 UNIDOS § 6.7,unidos § 6.7,Statute,state_statute,PR,1,1,1,1999,1999,false,unresolved
-V. 23 LPRA § 9011,v. 23 lpra § 9011,Statute,state_statute,PR,1,1,1,2023,2023,false,unresolved
-V. 5 V.I.C. § 75,v. 5 v.i.c. § 75,Statute,state_statute,PR,1,1,1,1966,1966,false,unresolved
 "V.T.C.A., Civil Practice & Remedies Code § 15.094","v.t.c.a., civil practice & remedies code § 15.094",Statute,state_statute,PR,1,1,1,2003,2003,true,exact
 "Vehicle Law, 9 L.P.R.A. § 511","vehicle law, 9 l.p.r.a. § 511",Statute,state_statute,PR,1,1,1,1990,1990,false,unresolved
 "Vehicle Law, 9 L.P.R.A. § 512","vehicle law, 9 l.p.r.a. § 512",Statute,state_statute,PR,1,1,1,1990,1990,false,unresolved

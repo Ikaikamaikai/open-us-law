@@ -1,20 +1,20 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 A.S.C.A. § 1.0409,a.s.c.a. § 1.0409,Statute,state_statute,AS,161,61,1,1986,2005,true,exact
 A.S.C.A. § 43.0302,a.s.c.a. § 43.0302,Statute,state_statute,AS,94,71,2,1987,2023,true,exact
-A.S.C.A. § 37.0103,a.s.c.a. § 37.0103,Statute,state_statute,AS,76,29,1,1987,2005,true,exact
+A.S.C.A. § 37.0103,a.s.c.a. § 37.0103,Statute,state_statute,AS,77,29,1,1987,2005,true,exact
 A.S.C.A. § 37.0101,a.s.c.a. § 37.0101,Statute,state_statute,AS,73,44,1,1988,2004,true,exact
 A.S.C.A. § 43.0802,a.s.c.a. § 43.0802,Statute,state_statute,AS,67,44,1,1987,2005,true,exact
-A.S.C.A. § 43.0120,a.s.c.a. § 43.0120,Statute,state_statute,AS,58,24,1,1988,2005,true,exact
+A.S.C.A. § 43.0120,a.s.c.a. § 43.0120,Statute,state_statute,AS,59,24,1,1988,2005,true,exact
+A.S.C.A. § 13.1022,a.s.c.a. § 13.1022,Statute,state_statute,AS,48,22,1,1988,2004,true,exact
 A.S.C.A. § 1.0403,a.s.c.a. § 1.0403,Statute,state_statute,AS,47,20,1,1991,2004,true,exact
-A.S.C.A. § 13.1022,a.s.c.a. § 13.1022,Statute,state_statute,AS,47,22,1,1988,2004,true,exact
-A.S.C.A. § 43.1204,a.s.c.a. § 43.1204,Statute,state_statute,AS,46,12,1,1988,2005,true,exact
+A.S.C.A. § 43.1204,a.s.c.a. § 43.1204,Statute,state_statute,AS,47,12,1,1988,2005,true,exact
 A.S.C.A. § 3.0208,a.s.c.a. § 3.0208,Statute,state_statute,AS,45,31,1,1987,2005,true,exact
 A.S.C.A. § 1.0407,a.s.c.a. § 1.0407,Statute,state_statute,AS,37,19,1,1989,2004,true,exact
-A.S.C.A. § 37.0201,a.s.c.a. § 37.0201,Statute,state_statute,AS,36,27,1,1988,2004,true,exact
+A.S.C.A. § 37.0201,a.s.c.a. § 37.0201,Statute,state_statute,AS,37,27,1,1988,2004,true,exact
 A.S.C.A. § 37.0221,a.s.c.a. § 37.0221,Statute,state_statute,AS,36,18,1,1991,2004,true,exact
 A.S.C.A. § 46.2206,a.s.c.a. § 46.2206,Statute,state_statute,AS,35,10,1,1987,2002,true,exact
 A.S.C.A. § 43.5001,a.s.c.a. § 43.5001,Statute,state_statute,AS,34,11,1,1987,2000,true,exact
-A.S.C.A. § 43.0801,a.s.c.a. § 43.0801,Statute,state_statute,AS,32,30,1,1988,2004,true,exact
+A.S.C.A. § 43.0801,a.s.c.a. § 43.0801,Statute,state_statute,AS,33,30,1,1988,2004,true,exact
 A.S.C.A. § 1.0404,a.s.c.a. § 1.0404,Statute,state_statute,AS,31,13,1,1990,2004,true,exact
 A.S.C.A. § 1.0412,a.s.c.a. § 1.0412,Statute,state_statute,AS,30,9,1,1988,2004,true,exact
 A.S.C.A. § 43.1205,a.s.c.a. § 43.1205,Statute,state_statute,AS,30,19,1,1988,2005,true,exact
@@ -27,47 +27,48 @@ A.S.C.A. § 1.0405,a.s.c.a. § 1.0405,Statute,state_statute,AS,27,16,1,1991,2004
 A.S.C.A. § 3.0242,a.s.c.a. § 3.0242,Statute,state_statute,AS,27,19,1,1987,2005,true,exact
 A.S.C.A. § 4.1040,a.s.c.a. § 4.1040,Statute,state_statute,AS,27,15,1,1989,2002,true,exact
 A.S.C.A. § 43.1203,a.s.c.a. § 43.1203,Statute,state_statute,AS,27,15,1,1987,2005,true,exact
-A.S.C.A. § 37.0204,a.s.c.a. § 37.0204,Statute,state_statute,AS,25,18,1,1988,2003,true,exact
+A.S.C.A. § 37.0204,a.s.c.a. § 37.0204,Statute,state_statute,AS,26,18,1,1988,2003,true,exact
 A.S.C.A. § 1.0401,a.s.c.a. § 1.0401,Statute,state_statute,AS,24,17,1,1987,2004,true,exact
 A.S.C.A. § 43.0126,a.s.c.a. § 43.0126,Statute,state_statute,AS,24,6,1,1988,2004,true,exact
+A.S.C.A. § 11.0403,a.s.c.a. § 11.0403,Statute,state_statute,AS,22,10,1,1989,2005,true,exact
 A.S.C.A. § 37.0102,a.s.c.a. § 37.0102,Statute,state_statute,AS,22,17,1,1988,2003,true,exact
+A.S.C.A. § 46.0805,a.s.c.a. § 46.0805,Statute,state_statute,AS,22,9,1,1988,2002,true,exact
 A.S.C.A. § 6.0903,a.s.c.a. § 6.0903,Statute,state_statute,AS,22,8,1,1988,2005,true,exact
-A.S.C.A. § 11.0403,a.s.c.a. § 11.0403,Statute,state_statute,AS,21,10,1,1989,2005,true,exact
-A.S.C.A. § 46.0805,a.s.c.a. § 46.0805,Statute,state_statute,AS,21,9,1,1992,2002,true,exact
-A.S.C.A. § 3.0103,a.s.c.a. § 3.0103,Statute,state_statute,AS,20,5,1,1991,2005,true,exact
+A.S.C.A. § 27.1510,a.s.c.a. § 27.1510,Statute,state_statute,AS,21,8,1,1987,2004,true,exact
+A.S.C.A. § 3.0103,a.s.c.a. § 3.0103,Statute,state_statute,AS,21,5,1,1990,2005,true,exact
+A.S.C.A. § 27.0531,a.s.c.a. § 27.0531,Statute,state_statute,AS,20,3,1,1997,1998,true,exact
 A.S.C.A. § 46.2402,a.s.c.a. § 46.2402,Statute,state_statute,AS,20,11,1,1988,2004,true,exact
-A.S.C.A. § 27.0531,a.s.c.a. § 27.0531,Statute,state_statute,AS,19,3,1,1997,1998,true,exact
-A.S.C.A. § 27.1510,a.s.c.a. § 27.1510,Statute,state_statute,AS,19,8,1,1987,2004,true,exact
 A.S.C.A. § 28.1501,a.s.c.a. § 28.1501,Statute,state_statute,AS,19,17,1,1988,2005,true,exact
+A.S.C.A. § 29.1577,a.s.c.a. § 29.1577,Statute,state_statute,AS,19,4,1,1994,2004,true,exact
 A.S.C.A. § 3.0232,a.s.c.a. § 3.0232,Statute,state_statute,AS,19,3,1,1996,2003,true,exact
 A.S.C.A. § 43.1309,a.s.c.a. § 43.1309,Statute,state_statute,AS,19,12,1,1989,2004,true,exact
 A.S.C.A. § 43.5101,a.s.c.a. § 43.5101,Statute,state_statute,AS,19,14,1,1990,2004,true,exact
-A.S.C.A. § 29.1577,a.s.c.a. § 29.1577,Statute,state_statute,AS,18,4,1,1994,2004,true,exact
+A.S.C.A. § 45.0103,a.s.c.a. § 45.0103,Statute,state_statute,AS,19,12,1,1988,2002,true,exact
 A.S.C.A. § 32.0652,a.s.c.a. § 32.0652,Statute,state_statute,AS,18,15,1,1986,2004,true,exact
 A.S.C.A. § 37.2001,a.s.c.a. § 37.2001,Statute,state_statute,AS,18,6,1,1995,2004,true,exact
 A.S.C.A. § 41.0408,a.s.c.a. § 41.0408,Statute,state_statute,AS,18,8,1,1989,2002,true,exact
-A.S.C.A. § 45.0103,a.s.c.a. § 45.0103,Statute,state_statute,AS,18,12,1,1988,2002,true,exact
 A.S.C.A. § 13.1006,a.s.c.a. § 13.1006,Statute,state_statute,AS,17,15,1,1996,2004,true,exact
 A.S.C.A. § 22.2003,a.s.c.a. § 22.2003,Statute,state_statute,AS,17,12,1,1987,1995,true,exact
 A.S.C.A. § 4.1001,a.s.c.a. § 4.1001,Statute,state_statute,AS,17,13,1,1989,2004,true,exact
 A.S.C.A. § 4.1044,a.s.c.a. § 4.1044,Statute,state_statute,AS,17,11,1,1992,2001,true,exact
+A.S.C.A. § 45.0402,a.s.c.a. § 45.0402,Statute,state_statute,AS,17,14,1,1988,1995,true,exact
 A.S.C.A. § 46.3107,a.s.c.a. § 46.3107,Statute,state_statute,AS,17,2,1,1997,2002,true,exact
 A.S.C.A. § 6.0902,a.s.c.a. § 6.0902,Statute,state_statute,AS,17,6,1,1992,2005,true,exact
 A.S.C.A. § 1.0414,a.s.c.a. § 1.0414,Statute,state_statute,AS,16,11,1,1987,2004,true,exact
 A.S.C.A. § 28.1503,a.s.c.a. § 28.1503,Statute,state_statute,AS,16,8,1,1988,2003,true,exact
-A.S.C.A. § 45.0402,a.s.c.a. § 45.0402,Statute,state_statute,AS,16,14,1,1988,1995,true,exact
 A.S.C.A. § 1.0201,a.s.c.a. § 1.0201,Statute,state_statute,AS,15,14,1,1987,2005,true,exact
 A.S.C.A. § 43.0304,a.s.c.a. § 43.0304,Statute,state_statute,AS,15,13,1,1987,2005,true,exact
+A.S.C.A. § 37.0120,a.s.c.a. § 37.0120,Statute,state_statute,AS,14,13,1,1988,2002,true,exact
 A.S.C.A. § 37.0211,a.s.c.a. § 37.0211,Statute,state_statute,AS,14,9,1,1992,2003,true,exact
 A.S.C.A. § 37.2020,a.s.c.a. § 37.2020,Statute,state_statute,AS,14,3,1,1989,2000,true,exact
 A.S.C.A. § 4.1041,a.s.c.a. § 4.1041,Statute,state_statute,AS,14,9,1,1994,2002,true,exact
 A.S.C.A. § 41.0205,a.s.c.a. § 41.0205,Statute,state_statute,AS,14,5,1,1993,2000,true,exact
 A.S.C.A. § 43.0504,a.s.c.a. § 43.0504,Statute,state_statute,AS,14,7,1,1989,2005,true,exact
-A.S.C.A. § 37.0120,a.s.c.a. § 37.0120,Statute,state_statute,AS,13,13,1,1988,2002,true,exact
 A.S.C.A. § 42.0206,a.s.c.a. § 42.0206,Statute,state_statute,AS,13,7,1,1986,2003,true,exact
 A.S.C.A. § 43.0803,a.s.c.a. § 43.0803,Statute,state_statute,AS,13,11,1,1990,2002,true,exact
 A.S.C.A. § 43.1401,a.s.c.a. § 43.1401,Statute,state_statute,AS,13,10,1,1990,2004,true,exact
 A.S.C.A. § 46.2204,a.s.c.a. § 46.2204,Statute,state_statute,AS,13,4,1,1990,2002,true,exact
+A.S.C.A. § 46.3522,a.s.c.a. § 46.3522,Statute,state_statute,AS,13,6,1,1990,2004,true,exact
 A.S.C.A. § 2.1016,a.s.c.a. § 2.1016,Statute,state_statute,AS,12,3,1,1986,2004,true,exact
 A.S.C.A. § 22.2001,a.s.c.a. § 22.2001,Statute,state_statute,AS,12,11,1,1987,1995,true,exact
 A.S.C.A. § 29.0302,a.s.c.a. § 29.0302,Statute,state_statute,AS,12,1,1,2000,2000,true,exact
@@ -75,7 +76,6 @@ A.S.C.A. § 30.0131,a.s.c.a. § 30.0131,Statute,state_statute,AS,12,4,1,1989,199
 A.S.C.A. § 30.0310,a.s.c.a. § 30.0310,Statute,state_statute,AS,12,2,1,2005,2005,true,exact
 A.S.C.A. § 43.0201,a.s.c.a. § 43.0201,Statute,state_statute,AS,12,12,1,1990,2004,true,exact
 A.S.C.A. § 43.1211,a.s.c.a. § 43.1211,Statute,state_statute,AS,12,8,1,1987,2005,true,exact
-A.S.C.A. § 46.3522,a.s.c.a. § 46.3522,Statute,state_statute,AS,12,6,1,1990,2004,true,exact
 A.S.A.C. § 4.0802,a.s.a.c. § 4.0802,Statute,state_statute,AS,11,2,1,1992,1998,true,exact
 A.S.C.A. § 22.0223,a.s.c.a. § 22.0223,Statute,state_statute,AS,11,5,1,1988,1997,true,exact
 A.S.C.A. § 22.0707,a.s.c.a. § 22.0707,Statute,state_statute,AS,11,9,2,1994,2005,true,exact
@@ -91,6 +91,7 @@ A.S.C.A. § 3.0309,a.s.c.a. § 3.0309,Statute,state_statute,AS,10,7,1,1989,2003,
 A.S.C.A. § 4.1009,a.s.c.a. § 4.1009,Statute,state_statute,AS,10,5,1,1995,2000,true,exact
 A.S.C.A. § 43.1101,a.s.c.a. § 43.1101,Statute,state_statute,AS,10,10,1,1990,2005,true,exact
 A.S.C.A. § 46.0501,a.s.c.a. § 46.0501,Statute,state_statute,AS,10,6,1,1988,1996,true,exact
+A.S.C.A. § 10.0601,a.s.c.a. § 10.0601,Statute,state_statute,AS,9,2,1,1995,2000,true,exact
 A.S.C.A. § 11.0533,a.s.c.a. § 11.0533,Statute,state_statute,AS,9,1,1,2002,2002,true,exact
 A.S.C.A. § 13.1001,a.s.c.a. § 13.1001,Statute,state_statute,AS,9,9,1,1995,2002,true,exact
 A.S.C.A. § 22.0803,a.s.c.a. § 22.0803,Statute,state_statute,AS,9,2,1,1994,1994,true,exact
@@ -101,13 +102,13 @@ A.S.C.A. § 40.0202,a.s.c.a. § 40.0202,Statute,state_statute,AS,9,7,1,1988,2004
 A.S.C.A. § 41.0206,a.s.c.a. § 41.0206,Statute,state_statute,AS,9,5,1,1995,2000,true,exact
 A.S.C.A. § 43.1201,a.s.c.a. § 43.1201,Statute,state_statute,AS,9,9,1,1988,2005,true,exact
 A.S.C.A. § 45.0102,a.s.c.a. § 45.0102,Statute,state_statute,AS,9,7,1,1987,1995,true,exact
+A.S.C.A. § 46.1902,a.s.c.a. § 46.1902,Statute,state_statute,AS,9,5,1,1988,2002,true,exact
 A.S.C.A. § 46.2205,a.s.c.a. § 46.2205,Statute,state_statute,AS,9,4,1,1990,1996,true,exact
 A.S.C.A. § 46.2301,a.s.c.a. § 46.2301,Statute,state_statute,AS,9,7,1,1996,2004,true,exact
 A.S.C.A. § 46.3521,a.s.c.a. § 46.3521,Statute,state_statute,AS,9,5,1,1988,2005,true,exact
 A.S.C.A. § 6.0212,a.s.c.a. § 6.0212,Statute,state_statute,AS,9,5,1,1988,1994,true,exact
 A.S.A.C. § 4.0903,a.s.a.c. § 4.0903,Statute,state_statute,AS,8,2,1,1992,1997,true,exact
 A.S.C.A. § 1.0202,a.s.c.a. § 1.0202,Statute,state_statute,AS,8,8,1,1991,2005,true,exact
-A.S.C.A. § 10.0601,a.s.c.a. § 10.0601,Statute,state_statute,AS,8,2,1,1995,2000,true,exact
 A.S.C.A. § 11.0401,a.s.c.a. § 11.0401,Statute,state_statute,AS,8,7,1,1987,2003,true,exact
 A.S.C.A. § 22.0701,a.s.c.a. § 22.0701,Statute,state_statute,AS,8,7,1,1992,2004,true,exact
 A.S.C.A. § 22.0706,a.s.c.a. § 22.0706,Statute,state_statute,AS,8,6,1,1987,1994,true,exact
@@ -121,7 +122,6 @@ A.S.C.A. § 42.0202,a.s.c.a. § 42.0202,Statute,state_statute,AS,8,7,1,1986,2002
 A.S.C.A. § 43.0210,a.s.c.a. § 43.0210,Statute,state_statute,AS,8,4,1,1994,2000,false,unresolved
 A.S.C.A. § 43.5002,a.s.c.a. § 43.5002,Statute,state_statute,AS,8,7,1,1989,2005,true,exact
 A.S.C.A. § 45.0401,a.s.c.a. § 45.0401,Statute,state_statute,AS,8,5,1,1988,1995,true,exact
-A.S.C.A. § 46.1902,a.s.c.a. § 46.1902,Statute,state_statute,AS,8,5,1,1988,2002,true,exact
 A.S.C.A. § 46.2304,a.s.c.a. § 46.2304,Statute,state_statute,AS,8,4,1,1988,1996,true,exact
 A.S.C.A. § 46.3111,a.s.c.a. § 46.3111,Statute,state_statute,AS,8,4,1,1987,2004,true,exact
 A.S.C.A. § 46.3520,a.s.c.a. § 46.3520,Statute,state_statute,AS,8,8,1,1988,2000,true,exact
@@ -131,6 +131,7 @@ A.S.C.A. § 1.0411,a.s.c.a. § 1.0411,Statute,state_statute,AS,7,6,1,1988,2004,t
 A.S.C.A. § 2.0601,a.s.c.a. § 2.0601,Statute,state_statute,AS,7,2,1,1995,2000,true,exact
 A.S.C.A. § 22.0406,a.s.c.a. § 22.0406,Statute,state_statute,AS,7,6,1,1992,2004,true,exact
 A.S.C.A. § 3.0221,a.s.c.a. § 3.0221,Statute,state_statute,AS,7,5,1,1993,2003,true,exact
+A.S.C.A. § 32.0520,a.s.c.a. § 32.0520,Statute,state_statute,AS,7,6,1,1988,2004,true,exact
 A.S.C.A. § 32.0651,a.s.c.a. § 32.0651,Statute,state_statute,AS,7,5,1,1991,2004,true,exact
 A.S.C.A. § 37.1501,a.s.c.a. § 37.1501,Statute,state_statute,AS,7,7,1,1991,2002,true,exact
 A.S.C.A. § 37.1502,a.s.c.a. § 37.1502,Statute,state_statute,AS,7,6,1,1990,2004,true,exact
@@ -156,7 +157,6 @@ A.S.C.A. § 22.1001,a.s.c.a. § 22.1001,Statute,state_statute,AS,6,2,1,1987,1997
 A.S.C.A. § 22.2018,a.s.c.a. § 22.2018,Statute,state_statute,AS,6,5,1,1987,1993,true,exact
 A.S.C.A. § 24.0506,a.s.c.a. § 24.0506,Statute,state_statute,AS,6,3,1,1990,1997,true,exact
 A.S.C.A. § 28.0111,a.s.c.a. § 28.0111,Statute,state_statute,AS,6,2,1,1995,1996,true,exact
-A.S.C.A. § 32.0520,a.s.c.a. § 32.0520,Statute,state_statute,AS,6,6,1,1988,1996,true,exact
 A.S.C.A. § 37.0230,a.s.c.a. § 37.0230,Statute,state_statute,AS,6,4,1,1995,2002,true,exact
 A.S.C.A. § 37.1501-.1506,a.s.c.a. § 37.1501-.1506,Statute,state_statute,AS,6,6,1,1999,2005,false,unresolved
 A.S.C.A. § 4.0131,a.s.c.a. § 4.0131,Statute,state_statute,AS,6,4,1,1992,2004,true,exact
@@ -167,6 +167,7 @@ A.S.C.A. § 43.0502,a.s.c.a. § 43.0502,Statute,state_statute,AS,6,4,1,1988,2005
 A.S.C.A. § 43.1102,a.s.c.a. § 43.1102,Statute,state_statute,AS,6,6,1,1988,2004,true,exact
 A.S.C.A. § 43.1209,a.s.c.a. § 43.1209,Statute,state_statute,AS,6,3,1,1998,2005,true,exact
 A.S.C.A. § 43.13010,a.s.c.a. § 43.13010,Statute,state_statute,AS,6,5,1,1998,2004,false,unresolved
+A.S.C.A. § 46.1504,a.s.c.a. § 46.1504,Statute,state_statute,AS,6,1,1,1987,1993,true,exact
 A.S.C.A. § 46.2403,a.s.c.a. § 46.2403,Statute,state_statute,AS,6,6,1,1987,2004,true,exact
 A.S.C.A. § 46.3504,a.s.c.a. § 46.3504,Statute,state_statute,AS,6,1,1,2005,2005,true,exact
 A.S.C.A. § 46.3604,a.s.c.a. § 46.3604,Statute,state_statute,AS,6,5,1,1997,2002,true,exact
@@ -175,7 +176,6 @@ A.S.C.A. § 46.4104,a.s.c.a. § 46.4104,Statute,state_statute,AS,6,3,1,1994,2004
 A.S.C.A. § 6.0301,a.s.c.a. § 6.0301,Statute,state_statute,AS,6,2,1,1988,1998,true,exact
 A.S.C.A. § 6.1102,a.s.c.a. § 6.1102,Statute,state_statute,AS,6,2,1,1994,2000,true,exact
 A.S.C.A. § 8,a.s.c.a. § 8,Statute,state_statute,AS,6,5,1,1987,1988,false,unresolved
-46 A.S.C.A. § 46.1504,46 a.s.c.a. § 46.1504,Statute,state_statute,AS,5,1,1,1987,1987,false,unresolved
 A.S.A.C. § 10.0282,a.s.a.c. § 10.0282,Statute,state_statute,AS,5,3,1,1998,2002,true,exact
 A.S.A.C. § 10.0292,a.s.a.c. § 10.0292,Statute,state_statute,AS,5,1,1,1997,1997,true,exact
 A.S.A.C. § 5.0103,a.s.a.c. § 5.0103,Statute,state_statute,AS,5,2,1,1995,1996,true,exact
@@ -195,10 +195,12 @@ A.S.C.A. § 37.2050,a.s.c.a. § 37.2050,Statute,state_statute,AS,5,4,1,1990,2003
 A.S.C.A. § 4.0301,a.s.c.a. § 4.0301,Statute,state_statute,AS,5,4,1,1992,2002,true,exact
 A.S.C.A. § 4.0401,a.s.c.a. § 4.0401,Statute,state_statute,AS,5,2,1,1993,1995,true,exact
 A.S.C.A. § 4.1020,a.s.c.a. § 4.1020,Statute,state_statute,AS,5,3,1,1992,1997,true,exact
+A.S.C.A. § 40.0102,a.s.c.a. § 40.0102,Statute,state_statute,AS,5,2,1,1987,1993,true,exact
 A.S.C.A. § 40.0334,a.s.c.a. § 40.0334,Statute,state_statute,AS,5,3,1,1988,1995,true,exact
 A.S.C.A. § 43.0127,a.s.c.a. § 43.0127,Statute,state_statute,AS,5,3,1,1992,2004,true,exact
 A.S.C.A. § 43.1010,a.s.c.a. § 43.1010,Statute,state_statute,AS,5,2,1,1997,2001,true,exact
 A.S.C.A. § 43.1405,a.s.c.a. § 43.1405,Statute,state_statute,AS,5,3,1,1995,1996,true,exact
+A.S.C.A. § 43.1528,a.s.c.a. § 43.1528,Statute,state_statute,AS,5,3,1,1987,1989,true,exact
 A.S.C.A. § 43.1701,a.s.c.a. § 43.1701,Statute,state_statute,AS,5,5,1,1989,1995,true,exact
 A.S.C.A. § 43.1812,a.s.c.a. § 43.1812,Statute,state_statute,AS,5,2,1,1992,2001,true,exact
 A.S.C.A. § 43.5201,a.s.c.a. § 43.5201,Statute,state_statute,AS,5,4,1,1987,2000,true,exact
@@ -236,7 +238,6 @@ A.S.C.A. § 32.0668,a.s.c.a. § 32.0668,Statute,state_statute,AS,4,2,1,1991,1991
 A.S.C.A. § 32.0672,a.s.c.a. § 32.0672,Statute,state_statute,AS,4,2,1,1991,1991,true,exact
 A.S.C.A. § 37.1103,a.s.c.a. § 37.1103,Statute,state_statute,AS,4,2,1,1986,1999,true,exact
 A.S.C.A. § 4.1025,a.s.c.a. § 4.1025,Statute,state_statute,AS,4,3,1,1995,2001,true,exact
-A.S.C.A. § 40.0102,a.s.c.a. § 40.0102,Statute,state_statute,AS,4,2,1,1987,1990,true,exact
 A.S.C.A. § 40.0103,a.s.c.a. § 40.0103,Statute,state_statute,AS,4,4,1,1988,1997,true,exact
 A.S.C.A. § 40.0106,a.s.c.a. § 40.0106,Statute,state_statute,AS,4,4,1,1988,2002,true,exact
 A.S.C.A. § 41.0209,a.s.c.a. § 41.0209,Statute,state_statute,AS,4,2,1,1992,1993,true,exact
@@ -247,11 +248,12 @@ A.S.C.A. § 42.0205,a.s.c.a. § 42.0205,Statute,state_statute,AS,4,4,1,1986,1989
 A.S.C.A. § 43.0501-.0504,a.s.c.a. § 43.0501-.0504,Statute,state_statute,AS,4,3,1,2005,2005,false,unresolved
 A.S.C.A. § 43.1303,a.s.c.a. § 43.1303,Statute,state_statute,AS,4,3,1,1998,2004,true,exact
 A.S.C.A. § 43.1501,a.s.c.a. § 43.1501,Statute,state_statute,AS,4,4,1,1987,1995,true,exact
-A.S.C.A. § 43.1528,a.s.c.a. § 43.1528,Statute,state_statute,AS,4,3,1,1987,1989,true,exact
 A.S.C.A. § 43.1702,a.s.c.a. § 43.1702,Statute,state_statute,AS,4,3,1,1989,2004,true,exact
 A.S.C.A. § 43.5202,a.s.c.a. § 43.5202,Statute,state_statute,AS,4,2,1,1998,2000,true,exact
 A.S.C.A. § 45.0204,a.s.c.a. § 45.0204,Statute,state_statute,AS,4,2,1,1997,2002,true,exact
+A.S.C.A. § 45.0424,a.s.c.a. § 45.0424,Statute,state_statute,AS,4,3,1,1995,1995,true,exact
 A.S.C.A. § 45.2001,a.s.c.a. § 45.2001,Statute,state_statute,AS,4,2,1,2002,2004,true,exact
+A.S.C.A. § 46.1303,a.s.c.a. § 46.1303,Statute,state_statute,AS,4,3,1,1990,2004,true,exact
 A.S.C.A. § 46.1305,a.s.c.a. § 46.1305,Statute,state_statute,AS,4,3,1,1990,2003,true,exact
 A.S.C.A. § 46.2303,a.s.c.a. § 46.2303,Statute,state_statute,AS,4,2,1,1997,1997,true,exact
 A.S.C.A. § 46.2405,a.s.c.a. § 46.2405,Statute,state_statute,AS,4,3,1,1989,1990,true,exact
@@ -296,6 +298,7 @@ A.S.C.A. § 22.0222,a.s.c.a. § 22.0222,Statute,state_statute,AS,3,2,1,1988,1997
 A.S.C.A. § 22.0601,a.s.c.a. § 22.0601,Statute,state_statute,AS,3,3,2,1994,2005,true,exact
 A.S.C.A. § 25.0501,a.s.c.a. § 25.0501,Statute,state_statute,AS,3,2,1,1988,2003,true,exact
 A.S.C.A. § 26.0340,a.s.c.a. § 26.0340,Statute,state_statute,AS,3,2,1,1994,1999,true,exact
+A.S.C.A. § 27.1002,a.s.c.a. § 27.1002,Statute,state_statute,AS,3,2,1,2001,2002,true,exact
 A.S.C.A. § 29.1505,a.s.c.a. § 29.1505,Statute,state_statute,AS,3,1,1,1990,1990,true,exact
 A.S.C.A. § 29.1570,a.s.c.a. § 29.1570,Statute,state_statute,AS,3,1,1,2000,2000,true,exact
 A.S.C.A. § 3.0205,a.s.c.a. § 3.0205,Statute,state_statute,AS,3,1,1,1990,1990,true,exact
@@ -307,6 +310,7 @@ A.S.C.A. § 30208,a.s.c.a. § 30208,Statute,state_statute,AS,3,1,1,1995,1995,fal
 A.S.C.A. § 31.1001,a.s.c.a. § 31.1001,Statute,state_statute,AS,3,1,1,1991,1991,true,exact
 A.S.C.A. § 32.0501,a.s.c.a. § 32.0501,Statute,state_statute,AS,3,3,1,1991,1992,true,exact
 A.S.C.A. § 32.0661,a.s.c.a. § 32.0661,Statute,state_statute,AS,3,3,1,1991,1996,true,exact
+A.S.C.A. § 32.0666,a.s.c.a. § 32.0666,Statute,state_statute,AS,3,2,1,1991,2001,true,exact
 A.S.C.A. § 37.0222,a.s.c.a. § 37.0222,Statute,state_statute,AS,3,3,1,1993,1996,true,exact
 A.S.C.A. § 37.1110,a.s.c.a. § 37.1110,Statute,state_statute,AS,3,1,1,1998,1998,true,exact
 A.S.C.A. § 37.1503,a.s.c.a. § 37.1503,Statute,state_statute,AS,3,3,1,1990,2004,true,exact
@@ -336,11 +340,10 @@ A.S.C.A. § 43.1304,a.s.c.a. § 43.1304,Statute,state_statute,AS,3,3,1,1993,2004
 A.S.C.A. § 43.1305,a.s.c.a. § 43.1305,Statute,state_statute,AS,3,3,1,1992,1997,true,exact
 A.S.C.A. § 43.1806,a.s.c.a. § 43.1806,Statute,state_statute,AS,3,2,1,1987,1989,true,exact
 A.S.C.A. § 45.0101,a.s.c.a. § 45.0101,Statute,state_statute,AS,3,3,1,1992,1997,true,exact
-A.S.C.A. § 45.0424,a.s.c.a. § 45.0424,Statute,state_statute,AS,3,3,1,1995,1995,true,exact
+A.S.C.A. § 45.1501,a.s.c.a. § 45.1501,Statute,state_statute,AS,3,1,1,2004,2004,true,exact
 A.S.C.A. § 45.1601,a.s.c.a. § 45.1601,Statute,state_statute,AS,3,2,1,2004,2004,true,exact
 A.S.C.A. § 46.0502,a.s.c.a. § 46.0502,Statute,state_statute,AS,3,3,1,1993,2003,true,exact
 A.S.C.A. § 46.1001,a.s.c.a. § 46.1001,Statute,state_statute,AS,3,3,1,1993,2003,true,exact
-A.S.C.A. § 46.1303,a.s.c.a. § 46.1303,Statute,state_statute,AS,3,3,1,1990,2003,true,exact
 A.S.C.A. § 46.1901,a.s.c.a. § 46.1901,Statute,state_statute,AS,3,3,1,1996,2002,true,exact
 A.S.C.A. § 46.2102,a.s.c.a. § 46.2102,Statute,state_statute,AS,3,3,1,2002,2004,true,exact
 A.S.C.A. § 46.2401,a.s.c.a. § 46.2401,Statute,state_statute,AS,3,1,1,1996,1996,true,exact
@@ -371,7 +374,6 @@ SITA § 6601,sita § 6601,Statute,state_statute,AS,3,1,1,2002,2002,false,unresol
 "2 NORRIS, SEAMEN § 30:43","2 norris, seamen § 30:43",Statute,state_statute,AS,2,1,1,1995,1995,false,unresolved
 "2 NORRIS, SEAMEN § 30:6","2 norris, seamen § 30:6",Statute,state_statute,AS,2,1,1,1995,1995,false,unresolved
 21 A.S.C. § 2555,21 a.s.c. § 2555,Statute,state_statute,AS,2,2,1,2002,2002,false,unresolved
-26 Fed. Proc. L. Ed. § 59:35,26 fed. proc. l. ed. § 59:35,Statute,state_statute,AS,2,2,1,1996,1996,false,unresolved
 27 A.S.C. § 204,27 a.s.c. § 204,Statute,state_statute,AS,2,1,1,1975,1975,false,unresolved
 27 A.S.C. § 401,27 a.s.c. § 401,Statute,state_statute,AS,2,2,1,1975,1997,false,unresolved
 27 A.S.C. § 402,27 a.s.c. § 402,Statute,state_statute,AS,2,2,1,1997,1997,false,unresolved
@@ -418,6 +420,7 @@ A.S.C.A. § 12.0206,a.s.c.a. § 12.0206,Statute,state_statute,AS,2,1,1,1998,1998
 A.S.C.A. § 13.1024,a.s.c.a. § 13.1024,Statute,state_statute,AS,2,2,1,1996,2002,false,unresolved
 A.S.C.A. § 13.1033,a.s.c.a. § 13.1033,Statute,state_statute,AS,2,2,1,1995,1995,true,exact
 A.S.C.A. § 1501,a.s.c.a. § 1501,Statute,state_statute,AS,2,2,1,1987,1996,false,unresolved
+A.S.C.A. § 18.0102,a.s.c.a. § 18.0102,Statute,state_statute,AS,2,1,1,1997,1997,true,exact
 A.S.C.A. § 2.0202,a.s.c.a. § 2.0202,Statute,state_statute,AS,2,2,1,2002,2005,true,exact
 A.S.C.A. § 2.1006,a.s.c.a. § 2.1006,Statute,state_statute,AS,2,2,1,1986,2004,true,exact
 A.S.C.A. § 22.0401,a.s.c.a. § 22.0401,Statute,state_statute,AS,2,2,1,1992,1994,true,exact
@@ -433,7 +436,6 @@ A.S.C.A. § 27.0212,a.s.c.a. § 27.0212,Statute,state_statute,AS,2,2,1,1991,1997
 A.S.C.A. § 27.0219,a.s.c.a. § 27.0219,Statute,state_statute,AS,2,2,1,1991,2002,true,exact
 A.S.C.A. § 27.0532,a.s.c.a. § 27.0532,Statute,state_statute,AS,2,2,1,2000,2002,true,exact
 A.S.C.A. § 27.1001,a.s.c.a. § 27.1001,Statute,state_statute,AS,2,1,1,1996,1996,true,exact
-A.S.C.A. § 27.1002,a.s.c.a. § 27.1002,Statute,state_statute,AS,2,2,1,2001,2002,true,exact
 A.S.C.A. § 27.1530,a.s.c.a. § 27.1530,Statute,state_statute,AS,2,2,1,1994,1995,true,exact
 A.S.C.A. § 28.0101,a.s.c.a. § 28.0101,Statute,state_statute,AS,2,2,1,1986,1996,true,exact
 A.S.C.A. § 28.0103,a.s.c.a. § 28.0103,Statute,state_statute,AS,2,2,1,1995,1996,true,exact
@@ -454,13 +456,13 @@ A.S.C.A. § 31.1503,a.s.c.a. § 31.1503,Statute,state_statute,AS,2,1,1,1988,1988
 A.S.C.A. § 31.1508,a.s.c.a. § 31.1508,Statute,state_statute,AS,2,1,1,1988,1988,true,exact
 A.S.C.A. § 32.0323,a.s.c.a. § 32.0323,Statute,state_statute,AS,2,1,1,1991,1991,true,exact
 A.S.C.A. § 32.0333,a.s.c.a. § 32.0333,Statute,state_statute,AS,2,1,1,1991,1991,true,exact
+A.S.C.A. § 32.0554,a.s.c.a. § 32.0554,Statute,state_statute,AS,2,1,1,1991,1991,true,exact
 A.S.C.A. § 32.0605,a.s.c.a. § 32.0605,Statute,state_statute,AS,2,2,1,1991,1996,true,exact
 A.S.C.A. § 32.0609,a.s.c.a. § 32.0609,Statute,state_statute,AS,2,1,1,1991,1991,true,exact
 A.S.C.A. § 32.0628,a.s.c.a. § 32.0628,Statute,state_statute,AS,2,2,1,1990,1993,true,exact
 A.S.C.A. § 32.0636,a.s.c.a. § 32.0636,Statute,state_statute,AS,2,2,1,1988,1993,true,exact
 A.S.C.A. § 32.0653,a.s.c.a. § 32.0653,Statute,state_statute,AS,2,2,1,1991,1993,true,exact
 A.S.C.A. § 32.0654,a.s.c.a. § 32.0654,Statute,state_statute,AS,2,2,1,1993,2004,true,exact
-A.S.C.A. § 32.0666,a.s.c.a. § 32.0666,Statute,state_statute,AS,2,2,1,1991,2001,true,exact
 A.S.C.A. § 3612,a.s.c.a. § 3612,Statute,state_statute,AS,2,1,1,1987,1987,false,unresolved
 A.S.C.A. § 37.0102-03,a.s.c.a. § 37.0102-03,Statute,state_statute,AS,2,2,1,1989,2000,false,unresolved
 A.S.C.A. § 37.0112,a.s.c.a. § 37.0112,Statute,state_statute,AS,2,1,1,1989,1989,true,exact
@@ -511,7 +513,6 @@ A.S.C.A. § 43.5051,a.s.c.a. § 43.5051,Statute,state_statute,AS,2,1,1,2001,2001
 A.S.C.A. § 45.0130,a.s.c.a. § 45.0130,Statute,state_statute,AS,2,1,1,2002,2002,true,exact
 A.S.C.A. § 45.0142,a.s.c.a. § 45.0142,Statute,state_statute,AS,2,1,1,1997,1997,true,exact
 A.S.C.A. § 45.0403,a.s.c.a. § 45.0403,Statute,state_statute,AS,2,2,1,1988,1995,true,exact
-A.S.C.A. § 45.1501,a.s.c.a. § 45.1501,Statute,state_statute,AS,2,1,1,2004,2004,true,exact
 A.S.C.A. § 45.1505,a.s.c.a. § 45.1505,Statute,state_statute,AS,2,1,1,2004,2004,true,exact
 A.S.C.A. § 46.0601,a.s.c.a. § 46.0601,Statute,state_statute,AS,2,1,1,2003,2003,true,exact
 A.S.C.A. § 46.0801-.0807,a.s.c.a. § 46.0801-.0807,Statute,state_statute,AS,2,2,1,1997,2002,false,unresolved
@@ -524,6 +525,7 @@ A.S.C.A. § 46.2208,a.s.c.a. § 46.2208,Statute,state_statute,AS,2,1,1,2002,2002
 A.S.C.A. § 46.2209-.2215,a.s.c.a. § 46.2209-.2215,Statute,state_statute,AS,2,1,1,2002,2002,false,unresolved
 A.S.C.A. § 46.2213,a.s.c.a. § 46.2213,Statute,state_statute,AS,2,1,1,2002,2002,true,exact
 A.S.C.A. § 46.3202,a.s.c.a. § 46.3202,Statute,state_statute,AS,2,2,1,1993,2004,true,exact
+A.S.C.A. § 46.3311,a.s.c.a. § 46.3311,Statute,state_statute,AS,2,1,1,2002,2002,true,exact
 A.S.C.A. § 46.3401,a.s.c.a. § 46.3401,Statute,state_statute,AS,2,2,1,2002,2004,true,exact
 A.S.C.A. § 46.3404,a.s.c.a. § 46.3404,Statute,state_statute,AS,2,1,1,2002,2002,true,exact
 A.S.C.A. § 46.3612,a.s.c.a. § 46.3612,Statute,state_statute,AS,2,2,1,1987,2002,true,exact
@@ -564,12 +566,7 @@ P.L. No. 21-8 § 1,p.l. no. 21-8 § 1,Statute,state_statute,AS,2,1,1,2002,2002,f
 SITA § 6611,sita § 6611,Statute,state_statute,AS,2,1,1,2002,2002,false,unresolved
 SOP § 4.1.2,sop § 4.1.2,Statute,state_statute,AS,2,1,1,1992,1992,false,unresolved
 1 A.S.C. § 804,1 a.s.c. § 804,Statute,state_statute,AS,1,1,1,1975,1975,false,unresolved
-1 A.S.C.A. § 27.1510,1 a.s.c.a. § 27.1510,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
-1 A.S.C.A. § 37.0204,1 a.s.c.a. § 37.0204,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
-10 A.S.C.A. § 18.0102,10 a.s.c.a. § 18.0102,Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
-106 (1986). A.S.C.A. § 32.0554,106 (1986). a.s.c.a. § 32.0554,Statute,state_statute,AS,1,1,1,1991,1991,false,unresolved
 1066 (2d Cir. 1985). T.C.R.C. P. 12,1066 (2d cir. 1985). t.c.r.c. p. 12,Statute,state_statute,AS,1,1,1,1994,1994,false,unresolved
-11 (A.S.C.A. § 45.0103,11 (a.s.c.a. § 45.0103,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
 11 A.S.C § 702,11 a.s.c § 702,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
 11 A.S.C. § 1002,11 a.s.c. § 1002,Statute,state_statute,AS,1,1,1,1992,1992,false,unresolved
 11 A.S.C. § 2001,11 a.s.c. § 2001,Statute,state_statute,AS,1,1,1,1975,1975,false,unresolved
@@ -580,62 +577,24 @@ SOP § 4.1.2,sop § 4.1.2,Statute,state_statute,AS,2,1,1,1992,1992,false,unresol
 11 A.S.C. § 6671,11 a.s.c. § 6671,Statute,state_statute,AS,1,1,1,1973,1973,false,unresolved
 11 A.S.C. § 801,11 a.s.c. § 801,Statute,state_statute,AS,1,1,1,1975,1975,false,unresolved
 12 (A.S.C.A. § 44.2001,12 (a.s.c.a. § 44.2001,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-13 A.S.C.A. § 29.1577,13 a.s.c.a. § 29.1577,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-135 (Trial Div. 1987). A.S.C.A. § 27.1510,135 (trial div. 1987). a.s.c.a. § 27.1510,Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
 14 A.S.C.A. § 202,14 a.s.c.a. § 202,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
-142 (Trial Div. 1988). A.S.C.A. § 40.0335,142 (trial div. 1988). a.s.c.a. § 40.0335,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
-1437 (9th Cir. 1996). A.S.C.A. § 46.1303,1437 (9th cir. 1996). a.s.c.a. § 46.1303,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
-16 Am. JUR. 2d Trusts § 27,16 am. jur. 2d trusts § 27,Statute,state_statute,AS,1,1,1,2003,2003,false,unresolved
 17 A.S.C. § 701-03,17 a.s.c. § 701-03,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
 18 A.S.C. § 1281-82,18 a.s.c. § 1281-82,Statute,state_statute,AS,1,1,1,1989,1989,false,unresolved
-18 AM. JUR. 2D Corporations § 348,18 am. jur. 2d corporations § 348,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-18 AM. JUR. 2D Corporations § 411,18 am. jur. 2d corporations § 411,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-18 AM. JUR. 2d Corporations § 98-149,18 am. jur. 2d corporations § 98-149,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-19 Am. JUR. 2d Corporations § 2627,19 am. jur. 2d corporations § 2627,Statute,state_statute,AS,1,1,1,1996,1996,false,unresolved
-19 Am. JUR. 2d Corporations § 2828,19 am. jur. 2d corporations § 2828,Statute,state_statute,AS,1,1,1,1996,1996,false,unresolved
-19 Am. JUR. 2d Corporations § 2830,19 am. jur. 2d corporations § 2830,Statute,state_statute,AS,1,1,1,1996,1996,false,unresolved
-19 Am. JUR. 2d Corporations § 2906,19 am. jur. 2d corporations § 2906,Statute,state_statute,AS,1,1,1,1996,1996,false,unresolved
 "2 NORRIS, SEAMEN § 26:71","2 norris, seamen § 26:71",Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
 "2 NORRIS, SEAMEN § 27:12","2 norris, seamen § 27:12",Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
 "2 NORRIS, SEAMEN § 30:33","2 norris, seamen § 30:33",Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
 21 A.S.C. § 2553,21 a.s.c. § 2553,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-21 Am. JUR. 2d Criminal Law § 516,21 am. jur. 2d criminal law § 516,Statute,state_statute,AS,1,1,1,1996,1996,false,unresolved
-223 U.S. 185 (1922). Cf. A.S.C.A. § 45.1501,223 u.s. 185 (1922). cf. a.s.c.a. § 45.1501,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
 27 A.S.C. § 1201,27 a.s.c. § 1201,Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
 27 A.S.C. § 201,27 a.s.c. § 201,Statute,state_statute,AS,1,1,1,1975,1975,false,unresolved
 27 A.S.C. § 403,27 a.s.c. § 403,Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
 27 A.S.C. § 406,27 a.s.c. § 406,Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
 27 A.S.C.A. § 601,27 a.s.c.a. § 601,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
-286 (1965). A.S.C.A. § 27.0531,286 (1965). a.s.c.a. § 27.0531,Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
 29 LT.S.C.A. § 141,29 lt.s.c.a. § 141,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-29A Am. JUR. 2d Evidence § 1472,29a am. jur. 2d evidence § 1472,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
-29A Am. JUR. 2d Evidence § 753,29a am. jur. 2d evidence § 753,Statute,state_statute,AS,1,1,1,2004,2004,false,unresolved
-3 (A.S.C.A. § 46.3311,3 (a.s.c.a. § 46.3311,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-4 (Trial Div. 1986). A.S.C.A. § 45.0402,4 (trial div. 1986). a.s.c.a. § 45.0402,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
 "401-406 (1973), A.S.C. § 12.0201","401-406 (1973), a.s.c. § 12.0201",Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
 "401-406 (1973), A.S.C. § 12.0204","401-406 (1973), a.s.c. § 12.0204",Statute,state_statute,AS,1,1,1,1997,1997,false,unresolved
-43 A.S.C.A. § 43.0801,43 a.s.c.a. § 43.0801,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-43 AM. JUR. 2d Insurance § 1008,43 am. jur. 2d insurance § 1008,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-43 AM. JUR. 2d Insurance § 1056,43 am. jur. 2d insurance § 1056,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-43 AM. JUR. 2d Insurance § 973,43 am. jur. 2d insurance § 973,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-43 Am. JUR. 2d Insurance § 1056,43 am. jur. 2d insurance § 1056,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-"447 U.S. 102, 108 (1980)). A.S.C.A. § 13.1022","447 u.s. 102, 108 (1980)). a.s.c.a. § 13.1022",Statute,state_statute,AS,1,1,1,2000,2000,false,unresolved
-46 A.S.C.A. § 46.0805,46 a.s.c.a. § 46.0805,Statute,state_statute,AS,1,1,1,1988,1988,false,unresolved
-46 A.S.C.A. § 46.1902,46 a.s.c.a. § 46.1902,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-46 AM. JUR. 2D Insurance § 1008,46 am. jur. 2d insurance § 1008,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
 5 A.S.C. § 3,5 a.s.c. § 3,Statute,state_statute,AS,1,1,1,1975,1975,false,unresolved
 5 A.S.C. § 801,5 a.s.c. § 801,Statute,state_statute,AS,1,1,1,1975,1975,false,unresolved
-50 (1980). A.S.C.A. § 37.0103,50 (1980). a.s.c.a. § 37.0103,Statute,state_statute,AS,1,1,1,1990,1990,false,unresolved
 "50 A.S.C.A., App. § 971","50 a.s.c.a., app. § 971",Statute,state_statute,AS,1,1,1,1947,1947,false,unresolved
-523 U.S. 371 (1998). A.S.C.A. § 27.1002,523 u.s. 371 (1998). a.s.c.a. § 27.1002,Statute,state_statute,AS,1,1,1,2001,2001,false,unresolved
-58-60 (1970). A.S.C.A. § 43.0120,58-60 (1970). a.s.c.a. § 43.0120,Statute,state_statute,AS,1,1,1,1991,1991,false,unresolved
-6 (A.S.C.A. § 46.3522,6 (a.s.c.a. § 46.3522,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-7 A.S.C.A. § 32.0666,7 a.s.c.a. § 32.0666,Statute,state_statute,AS,1,1,1,2001,2001,false,unresolved
-7 A.S.C.A. § 43.1204,7 a.s.c.a. § 43.1204,Statute,state_statute,AS,1,1,1,1990,1990,false,unresolved
-73 AM. JUR. 2d Statutes § 249,73 am. jur. 2d statutes § 249,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-76 AM. JUR. 2D Trusts § 250,76 am. jur. 2d trusts § 250,Statute,state_statute,AS,1,1,1,2003,2003,false,unresolved
-8 (A.S.C.A. § 46.4502,8 (a.s.c.a. § 46.4502,Statute,state_statute,AS,1,1,1,2002,2002,false,unresolved
-899 (2d Cir. 1981). A.S.C.A. § 3.0103,899 (2d cir. 1981). a.s.c.a. § 3.0103,Statute,state_statute,AS,1,1,1,1990,1990,false,unresolved
 9 A.S.C. § 261,9 a.s.c. § 261,Statute,state_statute,AS,1,1,1,2000,2000,false,unresolved
 9 A.S.C. § 377,9 a.s.c. § 377,Statute,state_statute,AS,1,1,1,1990,1990,false,unresolved
 926 A.S. Code. § 933,926 a.s. code. § 933,Statute,state_statute,AS,1,1,1,1947,1947,false,unresolved
@@ -788,7 +747,6 @@ A.S.C.A. § 15.0104,a.s.c.a. § 15.0104,Statute,state_statute,AS,1,1,1,1989,1989
 A.S.C.A. § 16.2003-.2004,a.s.c.a. § 16.2003-.2004,Statute,state_statute,AS,1,1,1,1998,1998,false,unresolved
 A.S.C.A. § 16.2011,a.s.c.a. § 16.2011,Statute,state_statute,AS,1,1,1,1998,1998,true,exact
 A.S.C.A. § 18.0101,a.s.c.a. § 18.0101,Statute,state_statute,AS,1,1,1,1997,1997,true,exact
-A.S.C.A. § 18.0102,a.s.c.a. § 18.0102,Statute,state_statute,AS,1,1,1,1997,1997,true,exact
 A.S.C.A. § 18.0213,a.s.c.a. § 18.0213,Statute,state_statute,AS,1,1,1,1998,1998,true,exact
 A.S.C.A. § 2.0302,a.s.c.a. § 2.0302,Statute,state_statute,AS,1,1,1,1994,1994,true,exact
 A.S.C.A. § 2.0501,a.s.c.a. § 2.0501,Statute,state_statute,AS,1,1,1,1995,1995,true,exact
@@ -884,7 +842,6 @@ A.S.C.A. § 32.0345,a.s.c.a. § 32.0345,Statute,state_statute,AS,1,1,1,2001,2001
 A.S.C.A. § 32.0501.et,a.s.c.a. § 32.0501.et,Statute,state_statute,AS,1,1,1,1991,1991,false,unresolved
 A.S.C.A. § 32.0502,a.s.c.a. § 32.0502,Statute,state_statute,AS,1,1,1,1990,1990,true,exact
 A.S.C.A. § 32.0522,a.s.c.a. § 32.0522,Statute,state_statute,AS,1,1,1,1991,1991,true,exact
-A.S.C.A. § 32.0554,a.s.c.a. § 32.0554,Statute,state_statute,AS,1,1,1,1991,1991,true,exact
 A.S.C.A. § 32.0613,a.s.c.a. § 32.0613,Statute,state_statute,AS,1,1,1,1990,1990,true,exact
 A.S.C.A. § 32.0638,a.s.c.a. § 32.0638,Statute,state_statute,AS,1,1,1,1990,1990,true,exact
 A.S.C.A. § 32.0640,a.s.c.a. § 32.0640,Statute,state_statute,AS,1,1,1,2004,2004,true,exact
@@ -942,6 +899,7 @@ A.S.C.A. § 40.0301,a.s.c.a. § 40.0301,Statute,state_statute,AS,1,1,1,1999,1999
 A.S.C.A. § 40.0302,a.s.c.a. § 40.0302,Statute,state_statute,AS,1,1,1,2002,2002,true,exact
 A.S.C.A. § 40.0323,a.s.c.a. § 40.0323,Statute,state_statute,AS,1,1,1,1998,1998,true,exact
 A.S.C.A. § 40.0332,a.s.c.a. § 40.0332,Statute,state_statute,AS,1,1,1,1997,1997,true,exact
+A.S.C.A. § 40.0335,a.s.c.a. § 40.0335,Statute,state_statute,AS,1,1,1,1995,1995,true,exact
 A.S.C.A. § 40.0342,a.s.c.a. § 40.0342,Statute,state_statute,AS,1,1,1,1999,1999,true,exact
 A.S.C.A. § 41.01,a.s.c.a. § 41.01,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
 A.S.C.A. § 41.0103,a.s.c.a. § 41.0103,Statute,state_statute,AS,1,1,1,1990,1990,false,unresolved
@@ -1052,7 +1010,6 @@ A.S.C.A. § 46.1221,a.s.c.a. § 46.1221,Statute,state_statute,AS,1,1,1,1987,1987
 A.S.C.A. § 46.1301-.1302,a.s.c.a. § 46.1301-.1302,Statute,state_statute,AS,1,1,1,1991,1991,false,unresolved
 A.S.C.A. § 46.1501,a.s.c.a. § 46.1501,Statute,state_statute,AS,1,1,1,2005,2005,true,exact
 A.S.C.A. § 46.1502,a.s.c.a. § 46.1502,Statute,state_statute,AS,1,1,1,2005,2005,true,exact
-A.S.C.A. § 46.1504,a.s.c.a. § 46.1504,Statute,state_statute,AS,1,1,1,1993,1993,true,exact
 A.S.C.A. § 46.1907,a.s.c.a. § 46.1907,Statute,state_statute,AS,1,1,1,2004,2004,true,exact
 A.S.C.A. § 46.2103,a.s.c.a. § 46.2103,Statute,state_statute,AS,1,1,1,1990,1990,true,exact
 A.S.C.A. § 46.2201,a.s.c.a. § 46.2201,Statute,state_statute,AS,1,1,1,1990,1990,true,exact
@@ -1069,7 +1026,6 @@ A.S.C.A. § 46.3102,a.s.c.a. § 46.3102,Statute,state_statute,AS,1,1,1,1996,1996
 A.S.C.A. § 46.3102-3104,a.s.c.a. § 46.3102-3104,Statute,state_statute,AS,1,1,1,1996,1996,false,unresolved
 A.S.C.A. § 46.3104,a.s.c.a. § 46.3104,Statute,state_statute,AS,1,1,1,1996,1996,true,exact
 A.S.C.A. § 46.3203,a.s.c.a. § 46.3203,Statute,state_statute,AS,1,1,1,2002,2002,true,exact
-A.S.C.A. § 46.3311,a.s.c.a. § 46.3311,Statute,state_statute,AS,1,1,1,2002,2002,true,exact
 A.S.C.A. § 46.3523,a.s.c.a. § 46.3523,Statute,state_statute,AS,1,1,1,1990,1990,true,exact
 A.S.C.A. § 46.3532,a.s.c.a. § 46.3532,Statute,state_statute,AS,1,1,1,1998,1998,true,exact
 A.S.C.A. § 46.3533,a.s.c.a. § 46.3533,Statute,state_statute,AS,1,1,1,1992,1992,true,exact
@@ -1085,6 +1041,7 @@ A.S.C.A. § 46.4207,a.s.c.a. § 46.4207,Statute,state_statute,AS,1,1,1,1996,1996
 A.S.C.A. § 46.4220,a.s.c.a. § 46.4220,Statute,state_statute,AS,1,1,1,2002,2002,true,exact
 A.S.C.A. § 46.4221,a.s.c.a. § 46.4221,Statute,state_statute,AS,1,1,1,2003,2003,true,exact
 A.S.C.A. § 46.4301-4302,a.s.c.a. § 46.4301-4302,Statute,state_statute,AS,1,1,1,1995,1995,false,unresolved
+A.S.C.A. § 46.4502,a.s.c.a. § 46.4502,Statute,state_statute,AS,1,1,1,2002,2002,true,exact
 A.S.C.A. § 46.4606-07,a.s.c.a. § 46.4606-07,Statute,state_statute,AS,1,1,1,1999,1999,false,unresolved
 A.S.C.A. § 46.4616,a.s.c.a. § 46.4616,Statute,state_statute,AS,1,1,1,1988,1988,true,exact
 A.S.C.A. § 46.4627,a.s.c.a. § 46.4627,Statute,state_statute,AS,1,1,1,1996,1996,true,exact

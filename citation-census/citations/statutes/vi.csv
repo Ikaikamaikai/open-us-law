@@ -1,18 +1,18 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 4 V.I.C. § 32,4 v.i.c. § 32,Statute,state_statute,VI,304,237,5,1968,2026,true,exact
-4 V.I.C. § 76,4 v.i.c. § 76,Statute,state_statute,VI,176,105,5,1977,2025,true,exact
+4 V.I.C. § 76,4 v.i.c. § 76,Statute,state_statute,VI,177,105,5,1977,2025,true,exact
 16 V.I.C. § 109,16 v.i.c. § 109,Statute,state_statute,VI,171,59,4,1950,2025,true,exact
 14 V.I.C. § 297,14 v.i.c. § 297,Statute,state_statute,VI,170,92,4,1972,2019,true,exact
-14 V.I.C. § 2251,14 v.i.c. § 2251,Statute,state_statute,VI,152,73,4,1977,2016,true,exact
+14 V.I.C. § 2251,14 v.i.c. § 2251,Statute,state_statute,VI,153,73,4,1977,2016,true,exact
 14 V.I.C. § 298,14 v.i.c. § 298,Statute,state_statute,VI,121,33,4,1938,2021,true,exact
-V.I. Code Ann. tit. 4 § 32,v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,104,103,4,1986,2017,true,exact
-V.I. Code Ann. tit. 1 § 4,v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,102,85,7,1980,2015,true,exact
+V.I. Code Ann. tit. 4 § 32,v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,106,103,4,1986,2017,true,exact
+V.I. Code Ann. tit. 1 § 4,v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,104,85,7,1980,2015,true,exact
 14 V.I.C. § 4,14 v.i.c. § 4,Statute,state_statute,VI,92,9,3,1979,2017,true,exact
 33 V.I.C. § 3408,33 v.i.c. § 3408,Statute,state_statute,VI,85,57,4,1973,2024,true,exact
-V.I. Code Ann. tit. 4 § 33,v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,80,72,4,1993,2021,true,exact
+V.I. Code Ann. tit. 4 § 33,v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,82,72,4,1993,2021,true,exact
 27 V.I.C. § 166i,27 v.i.c. § 166i,Statute,state_statute,VI,79,23,4,1983,2026,true,exact
+V.I. Code Ann. tit. 14 § 2253,v.i. code ann. tit. 14 § 2253,Statute,state_statute,VI,70,30,4,1980,2016,true,exact
 14 V.I.C. § 921,14 v.i.c. § 921,Statute,state_statute,VI,69,49,4,1950,2023,true,exact
-V.I. Code Ann. tit. 14 § 2253,v.i. code ann. tit. 14 § 2253,Statute,state_statute,VI,63,30,4,1980,2016,true,exact
 23 V.I.C. § 470,23 v.i.c. § 470,Statute,state_statute,VI,62,20,4,1995,2016,true,exact
 1 V.I.C. § 42,1 v.i.c. § 42,Statute,state_statute,VI,60,54,3,1969,2025,true,exact
 16 V.I.C. § 110,16 v.i.c. § 110,Statute,state_statute,VI,59,25,4,1963,2025,true,exact
@@ -36,10 +36,10 @@ V.I. Code Ann. tit. 14 § 1510,v.i. code ann. tit. 14 § 1510,Statute,state_stat
 V.I. Code Ann. tit. 14 § 922,v.i. code ann. tit. 14 § 922,Statute,state_statute,VI,43,25,4,1990,2017,true,exact
 14 V.I.C. § 622,14 v.i.c. § 622,Statute,state_statute,VI,41,22,5,1923,2018,true,exact
 5 V.I.C. § 771,5 v.i.c. § 771,Statute,state_statute,VI,41,30,4,1972,2016,true,exact
-27 V.I.C. § 166d,27 v.i.c. § 166d,Statute,state_statute,VI,39,17,4,1981,2025,true,exact
+27 V.I.C. § 166d,27 v.i.c. § 166d,Statute,state_statute,VI,40,17,4,1981,2025,true,exact
 3 V.I.C. § 274,3 v.i.c. § 274,Statute,state_statute,VI,39,3,3,1997,2016,true,exact
 24 V.I.C. § 70,24 v.i.c. § 70,Statute,state_statute,VI,38,14,4,1965,2017,true,exact
-V.I. CODE Ann. tit. 4 § 32,v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,37,37,2,2008,2017,true,exact
+V.I. CODE Ann. tit. 4 § 32,v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,38,37,2,2008,2017,true,exact
 V.I. Code Ann. tit. 24 § 76,v.i. code ann. tit. 24 § 76,Statute,state_statute,VI,36,12,3,1990,2020,true,exact
 4 V.I.C. § 21,4 v.i.c. § 21,Statute,state_statute,VI,35,27,4,2006,2025,true,exact
 Title 16 V.I.C. § 109,title 16 v.i.c. § 109,Statute,state_statute,VI,35,8,3,1973,2025,true,exact
@@ -49,24 +49,24 @@ V.I. Code Ann. tit. 4 § 76,v.i. code ann. tit. 4 § 76,Statute,state_statute,VI
 5 V.I.C. § 956,5 v.i.c. § 956,Statute,state_statute,VI,34,24,3,2000,2016,true,exact
 14 V.I.C. § 606,14 v.i.c. § 606,Statute,state_statute,VI,33,6,3,2008,2017,true,exact
 30 V.I.C. § 105,30 v.i.c. § 105,Statute,state_statute,VI,33,14,4,1972,2024,true,exact
+1 V.I.C. § 41,1 v.i.c. § 41,Statute,state_statute,VI,32,20,5,1969,2023,true,exact
 4 V.I.C. § 2,4 v.i.c. § 2,Statute,state_statute,VI,32,30,5,1963,2024,true,exact
-1 V.I.C. § 41,1 v.i.c. § 41,Statute,state_statute,VI,31,20,5,1969,2023,true,exact
 16 V.I.C. § 345,16 v.i.c. § 345,Statute,state_statute,VI,31,16,3,1966,2017,true,exact
 28 V.I.C. § 11,28 v.i.c. § 11,Statute,state_statute,VI,31,19,4,1938,2025,true,exact
 3 V.I.C. § 881,3 v.i.c. § 881,Statute,state_statute,VI,31,7,3,1989,2017,true,exact
 4 V.I.C. § 284,4 v.i.c. § 284,Statute,state_statute,VI,31,25,5,1967,2016,true,exact
+V.I. Code Ann. tit. 5 § 541,v.i. code ann. tit. 5 § 541,Statute,state_statute,VI,31,20,4,1982,2021,true,exact
 14 V.I.C. § 291,14 v.i.c. § 291,Statute,state_statute,VI,30,21,4,1968,2017,true,exact
 16 V.I.C. § 462,16 v.i.c. § 462,Statute,state_statute,VI,30,6,3,1979,2025,true,exact
 4 V.I.C. § 443,4 v.i.c. § 443,Statute,state_statute,VI,30,12,2,2012,2025,true,exact
-V.I. Code Ann. tit. 5 § 541,v.i. code ann. tit. 5 § 541,Statute,state_statute,VI,30,20,4,1982,2021,true,exact
 14 V.I.C. § 292,14 v.i.c. § 292,Statute,state_statute,VI,29,21,4,1968,2015,true,exact
 28 V.I.C § 292,28 v.i.c § 292,Statute,state_statute,VI,29,1,1,2013,2013,true,exact
 4 V.I.C. § 83,4 v.i.c. § 83,Statute,state_statute,VI,29,14,3,1978,2024,true,exact
+V.I. CODE Ann. tit. 4 § 33,v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,28,24,3,2004,2017,true,exact
 14 V.I.C. § 581,14 v.i.c. § 581,Statute,state_statute,VI,27,11,4,1945,2016,true,exact
 16 V.I.C. § 342,16 v.i.c. § 342,Statute,state_statute,VI,27,15,4,1965,2023,true,exact
 4 V.I.C. § 243,4 v.i.c. § 243,Statute,state_statute,VI,27,19,3,1977,2017,true,exact
 Title 5 V.I.C. § 3504a,title 5 v.i.c. § 3504a,Statute,state_statute,VI,27,6,2,1998,2015,true,exact
-V.I. CODE Ann. tit. 4 § 33,v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,27,24,3,2004,2017,true,exact
 V.I. Code Ann. tit. 14 § 298,v.i. code ann. tit. 14 § 298,Statute,state_statute,VI,27,10,4,1993,2020,true,exact
 11A V.I.C. § 9,11a v.i.c. § 9,Statute,state_statute,VI,26,6,2,1975,1983,false,unresolved
 18 V.I.C. § 4,18 v.i.c. § 4,Statute,state_statute,VI,26,10,4,1992,2017,true,exact
@@ -76,15 +76,16 @@ V.I. Code Ann. tit. 14 § 921,v.i. code ann. tit. 14 § 921,Statute,state_statut
 4 V.I.C. § 176,4 v.i.c. § 176,Statute,state_statute,VI,25,9,4,1972,1995,true,exact
 14 V.I.C. § 607,14 v.i.c. § 607,Statute,state_statute,VI,24,8,4,2009,2025,true,exact
 4 V.I.C. § 112,4 v.i.c. § 112,Statute,state_statute,VI,24,14,3,1977,2025,true,exact
+27 V.I.C. § 301,27 v.i.c. § 301,Statute,state_statute,VI,23,6,5,1964,2016,true,exact
 28 V.I.C. § 124,28 v.i.c. § 124,Statute,state_statute,VI,23,13,3,1958,2025,true,exact
 3 V.I.C. § 733,3 v.i.c. § 733,Statute,state_statute,VI,23,3,2,2012,2025,true,exact
 4 V.I. Code § 32,4 v.i. code § 32,Statute,state_statute,VI,23,6,1,1993,2007,true,exact
+V.I. Code Ann. tit. 5 § 4903,v.i. code ann. tit. 5 § 4903,Statute,state_statute,VI,23,15,4,1990,2025,true,exact
 28 V.I.C. § 7,28 v.i.c. § 7,Statute,state_statute,VI,22,15,2,1958,2020,true,exact
 3 V.I.C. § 1203,3 v.i.c. § 1203,Statute,state_statute,VI,22,1,1,2004,2004,true,exact
 5 V.I.C. § 740,5 v.i.c. § 740,Statute,state_statute,VI,22,14,3,2010,2025,true,exact
-V.I. Code Ann. tit. 5 § 4903,v.i. code ann. tit. 5 § 4903,Statute,state_statute,VI,22,15,4,1990,2025,true,exact
+V.I. Code Ann. tit. 14 § 11,v.i. code ann. tit. 14 § 11,Statute,state_statute,VI,22,10,3,1979,2017,true,exact
 14 V.I.C. § 299,14 v.i.c. § 299,Statute,state_statute,VI,21,19,4,1968,2016,true,exact
-27 V.I.C. § 301,27 v.i.c. § 301,Statute,state_statute,VI,21,6,5,1964,2016,true,exact
 4 V.I. Code § 76,4 v.i. code § 76,Statute,state_statute,VI,21,11,3,1992,2016,true,exact
 4 V.I.C. § 172,4 v.i.c. § 172,Statute,state_statute,VI,21,17,5,1967,2018,true,exact
 4 V.I.C. § 74,4 v.i.c. § 74,Statute,state_statute,VI,21,17,4,1963,1992,true,exact
@@ -93,7 +94,10 @@ V.I. CODE Ann. tit. 14 § 2253,v.i. code ann. tit. 14 § 2253,Statute,state_stat
 14 V.I.C. § 2,14 v.i.c. § 2,Statute,state_statute,VI,20,16,4,1925,2023,true,exact
 16 V.I.C. § 98,16 v.i.c. § 98,Statute,state_statute,VI,20,1,1,1987,1987,true,exact
 2 V.I.C. § 29,2 v.i.c. § 29,Statute,state_statute,VI,20,1,1,2004,2004,true,exact
+5 V.I.C. § 426,5 v.i.c. § 426,Statute,state_statute,VI,20,12,3,1975,2024,true,exact
 5 V.I.C. § 911,5 v.i.c. § 911,Statute,state_statute,VI,20,9,1,2009,2016,true,exact
+V.I. CODE ANN. tit. 33 § 1102,v.i. code ann. tit. 33 § 1102,Statute,state_statute,VI,20,1,1,2003,2003,true,exact
+V.I. Code Ann. tit. 14 § 1052,v.i. code ann. tit. 14 § 1052,Statute,state_statute,VI,20,8,4,1979,2025,true,exact
 V.I. Code Ann. tit. 5 § 31,v.i. code ann. tit. 5 § 31,Statute,state_statute,VI,20,16,5,1990,2020,true,exact
 16 V.I.C. § 99,16 v.i.c. § 99,Statute,state_statute,VI,19,9,3,1987,2015,true,exact
 20 V.I.C. § 335,20 v.i.c. § 335,Statute,state_statute,VI,19,4,4,1969,2015,true,exact
@@ -101,12 +105,9 @@ V.I. Code Ann. tit. 5 § 31,v.i. code ann. tit. 5 § 31,Statute,state_statute,VI
 3 V.I.C. § 521,3 v.i.c. § 521,Statute,state_statute,VI,19,8,3,1974,2017,true,exact
 30 V.I.C. § 103,30 v.i.c. § 103,Statute,state_statute,VI,19,14,4,1983,2024,true,exact
 5 V.I.C. § 2501,5 v.i.c. § 2501,Statute,state_statute,VI,19,10,4,1966,2013,true,exact
-5 V.I.C. § 426,5 v.i.c. § 426,Statute,state_statute,VI,19,12,3,1975,2024,true,exact
 Title 1 V.I.C. § 4,title 1 v.i.c. § 4,Statute,state_statute,VI,19,18,4,1973,2011,true,exact
 Title 27 V.I. Code Ann. § 304,title 27 v.i. code ann. § 304,Statute,state_statute,VI,19,1,1,2005,2005,true,exact
 Title 33 V.I.C. § 3080,title 33 v.i.c. § 3080,Statute,state_statute,VI,19,1,1,2011,2011,true,exact
-V.I. Code Ann. tit. 14 § 1052,v.i. code ann. tit. 14 § 1052,Statute,state_statute,VI,19,8,4,1979,2025,true,exact
-V.I. Code Ann. tit. 14 § 11,v.i. code ann. tit. 14 § 11,Statute,state_statute,VI,19,10,3,1979,2017,true,exact
 1 V.I.C. § 171,1 v.i.c. § 171,Statute,state_statute,VI,18,11,3,1955,2024,true,exact
 15 V.I.C. § 235,15 v.i.c. § 235,Statute,state_statute,VI,18,7,4,1960,2025,true,exact
 19 V.I. CODE Ann. § 614a,19 v.i. code ann. § 614a,Statute,state_statute,VI,18,1,1,2004,2004,true,exact
@@ -119,7 +120,6 @@ V.I. Code Ann. tit. 14 § 11,v.i. code ann. tit. 14 § 11,Statute,state_statute,
 5 V.I.C. § 1,5 v.i.c. § 1,Statute,state_statute,VI,18,15,4,1923,2023,true,exact
 5 V.I.C. § 885,5 v.i.c. § 885,Statute,state_statute,VI,18,8,2,2008,2012,true,exact
 Title 33 V.I.C. § 2305,title 33 v.i.c. § 2305,Statute,state_statute,VI,18,4,2,1977,2016,true,exact
-V.I. CODE ANN. tit. 33 § 1102,v.i. code ann. tit. 33 § 1102,Statute,state_statute,VI,18,1,1,2003,2003,true,exact
 V.I. Code Ann. tit. 14 § 2251,v.i. code ann. tit. 14 § 2251,Statute,state_statute,VI,18,11,4,1985,2016,true,exact
 14 V.I.C. § 293,14 v.i.c. § 293,Statute,state_statute,VI,17,7,4,1972,2013,true,exact
 15 V.I.C. § 395,15 v.i.c. § 395,Statute,state_statute,VI,17,10,3,1955,2015,true,exact
@@ -143,14 +143,15 @@ V.I. Code Ann. tit. 5 § 2509,v.i. code ann. tit. 5 § 2509,Statute,state_statut
 28 V.I.C. § 781,28 v.i.c. § 781,Statute,state_statute,VI,16,13,3,1977,2024,true,exact
 28 V.I.C. § 901,28 v.i.c. § 901,Statute,state_statute,VI,16,11,4,1974,2025,true,exact
 5 V.I.C. § 1304,5 v.i.c. § 1304,Statute,state_statute,VI,16,10,2,2010,2024,true,exact
+V.I. Code Ann. tit. 14 § 297,v.i. code ann. tit. 14 § 297,Statute,state_statute,VI,16,12,4,1979,2017,true,exact
 1 V.I.C. § 45,1 v.i.c. § 45,Statute,state_statute,VI,15,12,2,1978,2023,true,exact
 23 V.I.C. § 455,23 v.i.c. § 455,Statute,state_statute,VI,15,11,3,1995,2017,true,exact
 28 V.I.C. § 846,28 v.i.c. § 846,Statute,state_statute,VI,15,9,3,1959,1981,true,exact
 5 V.I.C. § 1311,5 v.i.c. § 1311,Statute,state_statute,VI,15,6,2,2013,2016,true,exact
 5 V.I.C. § 3735,5 v.i.c. § 3735,Statute,state_statute,VI,15,2,1,2013,2015,true,exact
 Title 14 V.I.C. § 922,title 14 v.i.c. § 922,Statute,state_statute,VI,15,12,4,1966,2017,true,exact
-V.I. Code Ann. tit. 14 § 297,v.i. code ann. tit. 14 § 297,Statute,state_statute,VI,15,12,4,1979,2017,true,exact
 V.I. Code Ann. tit. 19 § 723,v.i. code ann. tit. 19 § 723,Statute,state_statute,VI,15,3,3,1982,2013,true,exact
+V.I. Code Ann. tit. 5 § 1421,v.i. code ann. tit. 5 § 1421,Statute,state_statute,VI,15,7,4,1992,2012,true,exact
 13 V.I.C. § 100,13 v.i.c. § 100,Statute,state_statute,VI,14,3,2,2001,2004,true,exact
 14 V.I.C. § 503,14 v.i.c. § 503,Statute,state_statute,VI,14,8,2,1995,2014,true,exact
 16 V.I.C. § 181,16 v.i.c. § 181,Statute,state_statute,VI,14,4,1,1977,2015,true,exact
@@ -161,8 +162,9 @@ V.I. Code Ann. tit. 19 § 723,v.i. code ann. tit. 19 § 723,Statute,state_statut
 5 V.I.C. § 812,5 v.i.c. § 812,Statute,state_statute,VI,14,3,3,1996,2015,true,exact
 Title 31 V.I. CODE Ann. § 231a,title 31 v.i. code ann. § 231a,Statute,state_statute,VI,14,1,1,2006,2006,true,exact
 V.I. CODE ANN. tit. 4 § 33,v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,14,14,1,1997,2009,true,exact
+V.I. Code Ann. tit. 14 § 295,v.i. code ann. tit. 14 § 295,Statute,state_statute,VI,14,10,3,1979,2013,true,exact
+V.I. Code Ann. tit. 14 § 61,v.i. code ann. tit. 14 § 61,Statute,state_statute,VI,14,7,2,1978,2010,true,exact
 V.I. Code Ann. tit. 33 § 3409,v.i. code ann. tit. 33 § 3409,Statute,state_statute,VI,14,10,3,1979,2022,true,exact
-V.I. Code Ann. tit. 5 § 1421,v.i. code ann. tit. 5 § 1421,Statute,state_statute,VI,14,7,4,1992,2012,true,exact
 14 V.I.C. § 12,14 v.i.c. § 12,Statute,state_statute,VI,13,9,3,1981,2017,true,exact
 14 V.I.C. § 2221,14 v.i.c. § 2221,Statute,state_statute,VI,13,5,2,1969,2015,true,exact
 15 V.I.C. § 236,15 v.i.c. § 236,Statute,state_statute,VI,13,6,3,1980,2017,true,exact
@@ -172,9 +174,8 @@ V.I. Code Ann. tit. 5 § 1421,v.i. code ann. tit. 5 § 1421,Statute,state_statut
 4 V.I.C. § 125,4 v.i.c. § 125,Statute,state_statute,VI,13,7,2,2009,2017,true,exact
 5 V.I.C. § 2502,5 v.i.c. § 2502,Statute,state_statute,VI,13,9,3,1978,2018,true,exact
 5 V.I.C. § 3541,5 v.i.c. § 3541,Statute,state_statute,VI,13,7,3,1928,2016,true,exact
-V.I. Code Ann. tit. 14 § 295,v.i. code ann. tit. 14 § 295,Statute,state_statute,VI,13,10,3,1979,2013,true,exact
-V.I. Code Ann. tit. 14 § 61,v.i. code ann. tit. 14 § 61,Statute,state_statute,VI,13,7,2,1978,2010,true,exact
 V.I. Code Ann. tit. 24 § 70,v.i. code ann. tit. 24 § 70,Statute,state_statute,VI,13,2,1,2010,2012,true,exact
+V.I. Code Ann. tit. 5 § 1301,v.i. code ann. tit. 5 § 1301,Statute,state_statute,VI,13,6,3,1978,2010,true,exact
 11A V.I.C. § 2-401,11a v.i.c. § 2-401,Statute,state_statute,VI,12,5,4,1969,2017,true,exact
 14 V.I.C. § 13,14 v.i.c. § 13,Statute,state_statute,VI,12,5,1,2013,2017,true,exact
 14 V.I.C. § 1700a,14 v.i.c. § 1700a,Statute,state_statute,VI,12,5,2,2009,2015,true,exact
@@ -189,7 +190,9 @@ V.I. Code Ann. tit. 24 § 70,v.i. code ann. tit. 24 § 70,Statute,state_statute,
 5 V.I.C. § 3636,5 v.i.c. § 3636,Statute,state_statute,VI,12,4,1,2013,2013,true,exact
 5 V.I.C. § 3733,5 v.i.c. § 3733,Statute,state_statute,VI,12,2,2,2015,2017,true,exact
 5 V.I.C. § 815,5 v.i.c. § 815,Statute,state_statute,VI,12,3,2,2007,2016,true,exact
+Title 16 V.I.C. § 99,title 16 v.i.c. § 99,Statute,state_statute,VI,12,1,1,2009,2009,true,exact
 Title 4 V.I.C. § 76,title 4 v.i.c. § 76,Statute,state_statute,VI,12,9,3,1977,2022,true,exact
+V.I. CODE ANN. tit. 4 § 32,v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,12,11,3,2008,2026,true,exact
 V.I. CODE Ann. tit. 14 § 2251,v.i. code ann. tit. 14 § 2251,Statute,state_statute,VI,12,5,2,2010,2015,true,exact
 V.I. Code Ann. tit. 14 § 1083,v.i. code ann. tit. 14 § 1083,Statute,state_statute,VI,12,8,4,1982,2013,true,exact
 V.I. Code Ann. tit. 14 § 62,v.i. code ann. tit. 14 § 62,Statute,state_statute,VI,12,3,1,1978,1978,true,exact
@@ -205,9 +208,8 @@ V.I. Code Ann. tit. 5 § 426,v.i. code ann. tit. 5 § 426,Statute,state_statute,
 4 V.I.C. § 244,4 v.i.c. § 244,Statute,state_statute,VI,11,10,3,1977,2017,true,exact
 4 V.I.C. § 82,4 v.i.c. § 82,Statute,state_statute,VI,11,5,2,1978,2025,true,exact
 5 V.I.C. § 425,5 v.i.c. § 425,Statute,state_statute,VI,11,7,2,1981,2016,true,exact
-Title 16 V.I.C. § 99,title 16 v.i.c. § 99,Statute,state_statute,VI,11,1,1,2009,2009,true,exact
-V.I. CODE ANN. tit. 4 § 32,v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,11,11,3,2008,2026,true,exact
 V.I. CODE Ann. tit. 5 § 31,v.i. code ann. tit. 5 § 31,Statute,state_statute,VI,11,7,2,1993,2015,true,exact
+V.I. Code Ann. tit. 23 § 451,v.i. code ann. tit. 23 § 451,Statute,state_statute,VI,11,9,4,1991,2013,true,exact
 V.I. Code Ann. tit. 23 § 470,v.i. code ann. tit. 23 § 470,Statute,state_statute,VI,11,4,3,1997,2001,true,exact
 V.I. Code Ann. tit. 24 § 383,v.i. code ann. tit. 24 § 383,Statute,state_statute,VI,11,7,3,1992,2017,true,exact
 V.I. Code Ann. tit. 3 § 702,v.i. code ann. tit. 3 § 702,Statute,state_statute,VI,11,3,2,1994,1999,true,exact
@@ -233,7 +235,9 @@ Title 5 V.I. CODE ANN. § 3504a,title 5 v.i. code ann. § 3504a,Statute,state_st
 Title 5 V.I.C. § 112,title 5 v.i.c. § 112,Statute,state_statute,VI,10,2,2,1995,2015,true,exact
 V.I. CODE ANN. tit. 14 § 403,v.i. code ann. tit. 14 § 403,Statute,state_statute,VI,10,1,1,2022,2022,true,exact
 V.I. CODE Ann. tit. 14 § 922,v.i. code ann. tit. 14 § 922,Statute,state_statute,VI,10,9,3,2007,2012,true,exact
-V.I. Code Ann. tit. 23 § 451,v.i. code ann. tit. 23 § 451,Statute,state_statute,VI,10,9,4,1991,2013,true,exact
+V.I. Code Ann. tit. 14 § 1700,v.i. code ann. tit. 14 § 1700,Statute,state_statute,VI,10,7,3,1992,2014,true,exact
+V.I. Code Ann. tit. 14 § 1861,v.i. code ann. tit. 14 § 1861,Statute,state_statute,VI,10,7,4,1979,2013,true,exact
+V.I. Code Ann. tit. 14 § 1862,v.i. code ann. tit. 14 § 1862,Statute,state_statute,VI,10,9,3,1979,2016,true,exact
 V.I. Code Ann. tit. 33 § 3401,v.i. code ann. tit. 33 § 3401,Statute,state_statute,VI,10,9,3,1979,2021,true,exact
 V.I. Code Ann. tit. 5 § 1451,v.i. code ann. tit. 5 § 1451,Statute,state_statute,VI,10,7,4,1988,2005,true,exact
 1 V.I.C. § 41-52,1 v.i.c. § 41-52,Statute,state_statute,VI,9,9,2,2013,2017,false,unresolved
@@ -249,6 +253,7 @@ V.I. Code Ann. tit. 5 § 1451,v.i. code ann. tit. 5 § 1451,Statute,state_statut
 19 V.I.C. § 1563,19 v.i.c. § 1563,Statute,state_statute,VI,9,1,1,2010,2010,true,exact
 20 V.I.C. § 492,20 v.i.c. § 492,Statute,state_statute,VI,9,7,4,1955,2015,true,exact
 24 V.I.C. § 250,24 v.i.c. § 250,Statute,state_statute,VI,9,8,4,2001,2025,true,exact
+24 V.I.C. § 362,24 v.i.c. § 362,Statute,state_statute,VI,9,8,4,1994,2024,true,exact
 28 V.I.C. § 122,28 v.i.c. § 122,Statute,state_statute,VI,9,5,3,1955,2002,true,exact
 28 V.I.C. § 331,28 v.i.c. § 331,Statute,state_statute,VI,9,8,4,1970,2020,true,exact
 29 V.I.C. § 920,29 v.i.c. § 920,Statute,state_statute,VI,9,1,1,2000,2000,true,exact
@@ -259,13 +264,10 @@ V.I. Code Ann. tit. 5 § 1451,v.i. code ann. tit. 5 § 1451,Statute,state_statut
 5 V.I.C.. § 3734,5 v.i.c.. § 3734,Statute,state_statute,VI,9,1,1,2013,2013,true,exact
 Superior Court. 4 V.I.C. § 32,superior court. 4 v.i.c. § 32,Statute,state_statute,VI,9,9,1,2012,2017,true,exact
 V.I. CODE Ann. tit. 1 § 4,v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,9,8,2,2004,2012,true,exact
-V.I. Code Ann. tit. 14 § 1700,v.i. code ann. tit. 14 § 1700,Statute,state_statute,VI,9,7,3,1992,2014,true,exact
-V.I. Code Ann. tit. 14 § 1862,v.i. code ann. tit. 14 § 1862,Statute,state_statute,VI,9,9,3,1979,2016,true,exact
 V.I. Code Ann. tit. 14 § 331,v.i. code ann. tit. 14 § 331,Statute,state_statute,VI,9,7,3,1990,2016,true,exact
 V.I. Code Ann. tit. 14 § 43,v.i. code ann. tit. 14 § 43,Statute,state_statute,VI,9,5,2,1991,2016,true,exact
 V.I. Code Ann. tit. 14 § 606,v.i. code ann. tit. 14 § 606,Statute,state_statute,VI,9,2,1,2008,2010,true,exact
 V.I. Code Ann. tit. 33 § 3408,v.i. code ann. tit. 33 § 3408,Statute,state_statute,VI,9,7,3,1980,2022,true,exact
-V.I. Code Ann. tit. 5 § 1301,v.i. code ann. tit. 5 § 1301,Statute,state_statute,VI,9,6,3,1980,2010,true,exact
 V.I. Code Ann. tit. 5 § 2512,v.i. code ann. tit. 5 § 2512,Statute,state_statute,VI,9,3,2,1994,1994,true,exact
 V.I.S.Ct. I.O. P. 9.4,v.i.s.ct. i.o. p. 9.4,Statute,state_statute,VI,9,6,1,2012,2014,true,exact
 1 V.I.C. § 44,1 v.i.c. § 44,Statute,state_statute,VI,8,7,4,1973,2016,true,exact
@@ -280,7 +282,6 @@ V.I.S.Ct. I.O. P. 9.4,v.i.s.ct. i.o. p. 9.4,Statute,state_statute,VI,9,6,1,2012,
 19 V.I.C. § 244,19 v.i.c. § 244,Statute,state_statute,VI,8,5,3,2001,2026,true,exact
 20 V.I.C. § 544,20 v.i.c. § 544,Statute,state_statute,VI,8,5,2,1977,2012,true,exact
 23 V.I.C. § 457,23 v.i.c. § 457,Statute,state_statute,VI,8,6,2,2008,2013,true,exact
-24 V.I.C. § 362,24 v.i.c. § 362,Statute,state_statute,VI,8,8,4,1994,2024,true,exact
 24 V.I.C. § 379,24 v.i.c. § 379,Statute,state_statute,VI,8,5,2,1986,2013,true,exact
 27 V.I.C. § 61,27 v.i.c. § 61,Statute,state_statute,VI,8,1,1,2010,2010,true,exact
 28 V.I.C. § 834,28 v.i.c. § 834,Statute,state_statute,VI,8,6,3,1976,1986,true,exact
@@ -296,16 +297,18 @@ V.I.S.Ct. I.O. P. 9.4,v.i.s.ct. i.o. p. 9.4,Statute,state_statute,VI,9,6,1,2012,
 9 V.I.C. § 652,9 v.i.c. § 652,Statute,state_statute,VI,8,2,1,2023,2023,true,exact
 Title 11A V.I.C. § 9,title 11a v.i.c. § 9,Statute,state_statute,VI,8,2,1,1977,1982,false,unresolved
 Title 14 V.I.C. § 612,title 14 v.i.c. § 612,Statute,state_statute,VI,8,2,1,2016,2016,true,exact
+Title 16 V.I.C. § 110,title 16 v.i.c. § 110,Statute,state_statute,VI,8,6,3,1977,2009,true,exact
 Title 18 V.I.C. § 301,title 18 v.i.c. § 301,Statute,state_statute,VI,8,1,1,2016,2016,true,exact
 Title 5 V.I. Code Ann. § 1421,title 5 v.i. code ann. § 1421,Statute,state_statute,VI,8,1,1,2005,2005,true,exact
 V.I. CODE Ann. tit. 14 § 297,v.i. code ann. tit. 14 § 297,Statute,state_statute,VI,8,5,3,2008,2015,true,exact
 V.I. Code Ann. tit. 12 § 914,v.i. code ann. tit. 12 § 914,Statute,state_statute,VI,8,4,2,1991,1996,true,exact
-V.I. Code Ann. tit. 14 § 1861,v.i. code ann. tit. 14 § 1861,Statute,state_statute,VI,8,7,4,1979,2013,true,exact
 V.I. Code Ann. tit. 14 § 706,v.i. code ann. tit. 14 § 706,Statute,state_statute,VI,8,2,2,1988,2014,true,exact
 V.I. Code Ann. tit. 16 § 345,v.i. code ann. tit. 16 § 345,Statute,state_statute,VI,8,2,1,1994,1994,true,exact
+V.I. Code Ann. tit. 20 § 493,v.i. code ann. tit. 20 § 493,Statute,state_statute,VI,8,2,2,1978,2012,true,exact
 V.I. Code Ann. tit. 20 § 712,v.i. code ann. tit. 20 § 712,Statute,state_statute,VI,8,1,1,2021,2021,true,exact
 V.I. Code Ann. tit. 22 § 237,v.i. code ann. tit. 22 § 237,Statute,state_statute,VI,8,4,2,2001,2021,true,exact
 V.I. Code Ann. tit. 28 § 241,v.i. code ann. tit. 28 § 241,Statute,state_statute,VI,8,6,3,1997,2009,true,exact
+V.I. Code Ann. tit. 33 § 1692,v.i. code ann. tit. 33 § 1692,Statute,state_statute,VI,8,7,2,2009,2024,true,exact
 V.I. Code Ann. tit. 5 § 2508,v.i. code ann. tit. 5 § 2508,Statute,state_statute,VI,8,5,2,1990,2010,true,exact
 V.I. Code tit. 14 § 1701,v.i. code tit. 14 § 1701,Statute,state_statute,VI,8,2,1,2006,2007,true,exact
 1 V.I. Code Ann. § 4,1 v.i. code ann. § 4,Statute,state_statute,VI,7,7,2,2001,2011,true,exact
@@ -320,6 +323,7 @@ V.I. Code tit. 14 § 1701,v.i. code tit. 14 § 1701,Statute,state_statute,VI,8,2
 20 V.I.C. § 541,20 v.i.c. § 541,Statute,state_statute,VI,7,4,2,1955,1982,true,exact
 24 V.I.C. § 457,24 v.i.c. § 457,Statute,state_statute,VI,7,5,2,1995,2017,true,exact
 26 V.I. Code § 22,26 v.i. code § 22,Statute,state_statute,VI,7,1,1,2013,2013,true,exact
+27 V.I.C. § 166a,27 v.i.c. § 166a,Statute,state_statute,VI,7,2,2,2004,2015,true,exact
 28 V.I.C § 281,28 v.i.c § 281,Statute,state_statute,VI,7,1,1,2013,2013,true,exact
 28 V.I.C. § 836,28 v.i.c. § 836,Statute,state_statute,VI,7,5,2,1961,2002,true,exact
 29 V.I.C. § 271,29 v.i.c. § 271,Statute,state_statute,VI,7,1,1,1970,1970,false,unresolved
@@ -341,15 +345,13 @@ V.I. Code tit. 14 § 1701,v.i. code tit. 14 § 1701,Statute,state_statute,VI,8,2
 5 V.I.C. § 887,5 v.i.c. § 887,Statute,state_statute,VI,7,2,1,2010,2012,true,exact
 CODE ANN tit 4 § 32,code ann tit 4 § 32,Statute,state_statute,VI,7,7,1,2023,2024,false,unresolved
 Superior Court. V.I. Code Ann. tit. 4 § 32,superior court. v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,7,7,2,2008,2017,false,unresolved
-Title 16 V.I.C. § 110,title 16 v.i.c. § 110,Statute,state_statute,VI,7,6,3,1977,2009,true,exact
 Title 28 V.I. Code Ann. § 421,title 28 v.i. code ann. § 421,Statute,state_statute,VI,7,1,1,2006,2006,true,exact
 Title 30 V.I.C. § 34,title 30 v.i.c. § 34,Statute,state_statute,VI,7,3,2,2002,2012,true,exact
 V.I. CODE ANN. tit. 1 § 4,v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,7,7,4,2004,2011,true,exact
 V.I. Code Ann. tit. 14 § 1708,v.i. code ann. tit. 14 § 1708,Statute,state_statute,VI,7,6,3,1993,2013,true,exact
 V.I. Code Ann. tit. 14 § 291,v.i. code ann. tit. 14 § 291,Statute,state_statute,VI,7,6,3,1993,2015,true,exact
-V.I. Code Ann. tit. 20 § 493,v.i. code ann. tit. 20 § 493,Statute,state_statute,VI,7,2,2,1978,2012,true,exact
 V.I. Code Ann. tit. 3 § 530,v.i. code ann. tit. 3 § 530,Statute,state_statute,VI,7,2,2,2000,2007,true,exact
-V.I. Code Ann. tit. 33 § 1692,v.i. code ann. tit. 33 § 1692,Statute,state_statute,VI,7,7,2,2023,2024,true,exact
+V.I. Code Ann. tit. 33 § 3416,v.i. code ann. tit. 33 § 3416,Statute,state_statute,VI,7,5,2,1994,2012,true,exact
 V.I. Code Ann. tit. 4 § 39,v.i. code ann. tit. 4 § 39,Statute,state_statute,VI,7,6,2,1978,1997,true,exact
 V.I. Code Ann. tit. 5 § 1422,v.i. code ann. tit. 5 § 1422,Statute,state_statute,VI,7,4,3,1999,2010,true,exact
 V.I. Code Ann. tit. 5 § 1423,v.i. code ann. tit. 5 § 1423,Statute,state_statute,VI,7,5,3,1994,2010,true,exact
@@ -374,7 +376,6 @@ V.I.R.APP. P. 22,v.i.r.app. p. 22,Statute,state_statute,VI,7,2,1,2024,2025,true,
 24 V.I.C. § 273,24 v.i.c. § 273,Statute,state_statute,VI,6,3,2,1958,2017,true,exact
 24 V.I.C. § 375,24 v.i.c. § 375,Statute,state_statute,VI,6,1,1,2006,2006,true,exact
 26 V.I.C. § 22,26 v.i.c. § 22,Statute,state_statute,VI,6,2,1,1999,2013,true,exact
-27 V.I.C. § 166a,27 v.i.c. § 166a,Statute,state_statute,VI,6,2,2,2004,2015,true,exact
 28 V.I.C. § 256,28 v.i.c. § 256,Statute,state_statute,VI,6,2,2,1987,2010,true,exact
 28 V.I.C. § 41,28 v.i.c. § 41,Statute,state_statute,VI,6,6,2,1995,2024,true,exact
 28 V.I.C. § 751,28 v.i.c. § 751,Statute,state_statute,VI,6,5,2,1968,2008,true,exact
@@ -422,7 +423,6 @@ V.I. Code Ann. tit. 28 § 11,v.i. code ann. tit. 28 § 11,Statute,state_statute,
 V.I. Code Ann. tit. 28 § 42,v.i. code ann. tit. 28 § 42,Statute,state_statute,VI,6,3,3,1997,2008,true,exact
 V.I. Code Ann. tit. 28 § 421,v.i. code ann. tit. 28 § 421,Statute,state_statute,VI,6,2,2,1990,1999,true,exact
 V.I. Code Ann. tit. 29 § 543,v.i. code ann. tit. 29 § 543,Statute,state_statute,VI,6,3,3,1997,2018,true,exact
-V.I. Code Ann. tit. 33 § 3416,v.i. code ann. tit. 33 § 3416,Statute,state_statute,VI,6,5,2,1994,2010,true,exact
 V.I. Code Ann. tit. 4 § 112,v.i. code ann. tit. 4 § 112,Statute,state_statute,VI,6,4,3,1996,2025,true,exact
 V.I. Code Ann. tit. 4 § 2,v.i. code ann. tit. 4 § 2,Statute,state_statute,VI,6,6,2,2007,2018,true,exact
 V.I. Code Ann. tit. 5 § 3637,v.i. code ann. tit. 5 § 3637,Statute,state_statute,VI,6,3,2,1982,2013,true,exact
@@ -480,12 +480,14 @@ V.I. Stat. Ann. tit. 28 § 281,v.i. stat. ann. tit. 28 § 281,Statute,state_stat
 4 V.I.C. § 78,4 v.i.c. § 78,Statute,state_statute,VI,5,5,2,1982,2012,true,exact
 5 V.I. Code § 1361,5 v.i. code § 1361,Statute,state_statute,VI,5,1,1,1993,1993,true,exact
 5 V.I.C. § 1302,5 v.i.c. § 1302,Statute,state_statute,VI,5,4,2,2014,2025,true,exact
+5 V.I.C. § 252,5 v.i.c. § 252,Statute,state_statute,VI,5,1,1,1978,1978,true,exact
 5 V.I.C. § 2527,5 v.i.c. § 2527,Statute,state_statute,VI,5,3,1,1995,2011,true,exact
 5 V.I.C. § 498,5 v.i.c. § 498,Statute,state_statute,VI,5,3,1,1979,2026,true,exact
 5 V.I.C. § 530,5 v.i.c. § 530,Statute,state_statute,VI,5,2,1,1996,2000,true,exact
 Title 12 V.I.C. § 201,title 12 v.i.c. § 201,Statute,state_statute,VI,5,1,1,2008,2008,true,exact
 Title 14 V.I.C. § 921,title 14 v.i.c. § 921,Statute,state_statute,VI,5,5,3,1966,2009,true,exact
 Title 16 V.I. Code Ann. § 145,title 16 v.i. code ann. § 145,Statute,state_statute,VI,5,1,1,2007,2007,true,exact
+Title 16 V.I.C. § 342,title 16 v.i.c. § 342,Statute,state_statute,VI,5,4,2,1965,1987,true,exact
 Title 2 V.I.C. § 26,title 2 v.i.c. § 26,Statute,state_statute,VI,5,1,1,1995,1995,true,exact
 Title 23 V.I.C. § 470,title 23 v.i.c. § 470,Statute,state_statute,VI,5,1,1,1995,1995,true,exact
 Title 30 V.I.C. § 35,title 30 v.i.c. § 35,Statute,state_statute,VI,5,1,1,2012,2012,true,exact
@@ -506,8 +508,11 @@ V.I. Code Ann. tit. 14 § 582a,v.i. code ann. tit. 14 § 582a,Statute,state_stat
 V.I. Code Ann. tit. 22 § 1256,v.i. code ann. tit. 22 § 1256,Statute,state_statute,VI,5,3,1,2021,2021,true,exact
 V.I. Code Ann. tit. 28 § 458,v.i. code ann. tit. 28 § 458,Statute,state_statute,VI,5,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 3 § 706,v.i. code ann. tit. 3 § 706,Statute,state_statute,VI,5,3,2,1994,1999,true,exact
+V.I. Code Ann. tit. 3 § 715,v.i. code ann. tit. 3 § 715,Statute,state_statute,VI,5,1,1,1994,1998,true,exact
+V.I. Code Ann. tit. 33 § 2305,v.i. code ann. tit. 33 § 2305,Statute,state_statute,VI,5,1,1,1978,2025,true,exact
 V.I. Code Ann. tit. 4 § 123,v.i. code ann. tit. 4 § 123,Statute,state_statute,VI,5,4,2,2011,2017,true,exact
 V.I. Code Ann. tit. 5 § 1325,v.i. code ann. tit. 5 § 1325,Statute,state_statute,VI,5,3,2,2000,2010,true,exact
+V.I. Code Ann. tit. 5 § 3504a,v.i. code ann. tit. 5 § 3504a,Statute,state_statute,VI,5,4,3,1994,2008,true,exact
 V.I. Code Ann. tit. 5 § 4503,v.i. code ann. tit. 5 § 4503,Statute,state_statute,VI,5,5,3,1980,2003,true,exact
 V.I. Code Ann. tit. 5 § 76,v.i. code ann. tit. 5 § 76,Statute,state_statute,VI,5,5,4,1995,2010,true,exact
 "V.I. Code Ann. tit. 5, App. V, Rule 11","v.i. code ann. tit. 5, app. v, rule 11",Statute,state_statute,VI,5,2,1,1991,1992,false,unresolved
@@ -515,7 +520,6 @@ V.I. Code § 39,v.i. code § 39,Statute,state_statute,VI,5,2,1,2004,2004,false,u
 V.I. Code. Ann. tit. 27 § 301,v.i. code. ann. tit. 27 § 301,Statute,state_statute,VI,5,2,1,1997,1997,false,unresolved
 V.I. Code. Ann. tit. 4 § 32,v.i. code. ann. tit. 4 § 32,Statute,state_statute,VI,5,5,1,2009,2013,false,unresolved
 11A V.I.C. § 2-318,11a v.i.c. § 2-318,Statute,state_statute,VI,4,2,2,1970,2017,true,exact
-14 V.I. Code Ann. tit. 14 § 2253,14 v.i. code ann. tit. 14 § 2253,Statute,state_statute,VI,4,1,1,2012,2012,false,unresolved
 14 V.I. Code Ann. § 2251,14 v.i. code ann. § 2251,Statute,state_statute,VI,4,3,2,2001,2006,true,exact
 14 V.I. Code Ann. § 61,14 v.i. code ann. § 61,Statute,state_statute,VI,4,1,1,2003,2003,true,exact
 14 V.I. Code § 923,14 v.i. code § 923,Statute,state_statute,VI,4,3,1,1971,2017,true,exact
@@ -537,6 +541,7 @@ V.I. Code. Ann. tit. 4 § 32,v.i. code. ann. tit. 4 § 32,Statute,state_statute,
 16 Y.I.C. § 109,16 y.i.c. § 109,Statute,state_statute,VI,4,3,2,1974,2016,true,exact
 18 V.I. Code § 301,18 v.i. code § 301,Statute,state_statute,VI,4,1,1,1964,1964,true,exact
 18 V.I.C. § 492,18 v.i.c. § 492,Statute,state_statute,VI,4,3,3,1986,2014,true,exact
+18 V.I.C. § 53,18 v.i.c. § 53,Statute,state_statute,VI,4,1,1,2014,2014,true,exact
 18 V.I.C. § 665,18 v.i.c. § 665,Statute,state_statute,VI,4,1,1,2000,2000,true,exact
 19 V.I.C. § 1552,19 v.i.c. § 1552,Statute,state_statute,VI,4,2,1,2010,2010,true,exact
 19 V.I.C. § 593,19 v.i.c. § 593,Statute,state_statute,VI,4,1,1,2012,2012,true,exact
@@ -563,7 +568,6 @@ V.I. Code. Ann. tit. 4 § 32,v.i. code. ann. tit. 4 § 32,Statute,state_statute,
 5 V.I. § 541,5 v.i. § 541,Statute,state_statute,VI,4,2,1,1999,1999,true,exact
 5 V.I.C. § 1269,5 v.i.c. § 1269,Statute,state_statute,VI,4,3,3,1977,2018,true,exact
 5 V.I.C. § 1325,5 v.i.c. § 1325,Statute,state_statute,VI,4,4,1,1982,2017,true,exact
-5 V.I.C. § 252,5 v.i.c. § 252,Statute,state_statute,VI,4,1,1,1978,1978,true,exact
 5 V.I.C. § 2531,5 v.i.c. § 2531,Statute,state_statute,VI,4,4,2,1986,2013,true,exact
 5 V.I.C. § 2542,5 v.i.c. § 2542,Statute,state_statute,VI,4,2,1,2014,2014,true,exact
 5 V.I.C. § 257,5 v.i.c. § 257,Statute,state_statute,VI,4,4,2,1958,2011,true,exact
@@ -573,17 +577,16 @@ V.I. Code. Ann. tit. 4 § 32,v.i. code. ann. tit. 4 § 32,Statute,state_statute,
 5 V.I.C. § 3901,5 v.i.c. § 3901,Statute,state_statute,VI,4,4,2,1966,2014,true,exact
 5 V.I.C. § 40,5 v.i.c. § 40,Statute,state_statute,VI,4,3,3,1978,2016,true,exact
 5 V.I.C. § 485,5 v.i.c. § 485,Statute,state_statute,VI,4,2,1,1978,2011,true,exact
+5 V.I.C. § 554,5 v.i.c. § 554,Statute,state_statute,VI,4,1,1,1996,2011,true,exact
 5 V.I.C. § 696,5 v.i.c. § 696,Statute,state_statute,VI,4,3,1,2025,2025,true,exact
 5 V.I.C. § 698,5 v.i.c. § 698,Statute,state_statute,VI,4,3,1,2025,2025,true,exact
 5 V.I.C. § 931,5 v.i.c. § 931,Statute,state_statute,VI,4,4,3,2009,2012,true,exact
 9 V.I.C. § 181,9 v.i.c. § 181,Statute,state_statute,VI,4,3,1,1984,1992,true,exact
 9 V.I.C. § 658,9 v.i.c. § 658,Statute,state_statute,VI,4,3,2,2012,2023,true,exact
-AGENCY § 245,agency § 245,Statute,state_statute,VI,4,3,2,1984,2014,false,unresolved
 Title 14 V.I. CODE Ann. § 2251,title 14 v.i. code ann. § 2251,Statute,state_statute,VI,4,1,1,2006,2006,true,exact
 Title 14 V.I. CODE Ann. § 922,title 14 v.i. code ann. § 922,Statute,state_statute,VI,4,1,1,2006,2006,true,exact
 Title 14 V.I.C. § 19,title 14 v.i.c. § 19,Statute,state_statute,VI,4,2,2,2011,2013,true,exact
 Title 14 V.I.C. § 604,title 14 v.i.c. § 604,Statute,state_statute,VI,4,2,1,2016,2016,true,exact
-Title 16 V.I.C. § 342,title 16 v.i.c. § 342,Statute,state_statute,VI,4,4,2,1965,1987,true,exact
 Title 24 V.I.C. § 272,title 24 v.i.c. § 272,Statute,state_statute,VI,4,1,1,2017,2017,true,exact
 Title 24 V.I.C. § 273,title 24 v.i.c. § 273,Statute,state_statute,VI,4,1,1,2017,2017,true,exact
 Title 24 V.I.C. § 362,title 24 v.i.c. § 362,Statute,state_statute,VI,4,1,1,2011,2011,true,exact
@@ -594,6 +597,7 @@ Title 30 V.I.C. § 120,title 30 v.i.c. § 120,Statute,state_statute,VI,4,1,1,201
 Title 30 V.I.C. § 33,title 30 v.i.c. § 33,Statute,state_statute,VI,4,2,2,2002,2012,true,exact
 Title 5 V.I.C. § 1261,title 5 v.i.c. § 1261,Statute,state_statute,VI,4,3,2,1977,2006,true,exact
 Title 5 V.I.C. § 4911,title 5 v.i.c. § 4911,Statute,state_statute,VI,4,2,2,1995,2015,true,exact
+Title 5 V.I.C. § 80,title 5 v.i.c. § 80,Statute,state_statute,VI,4,3,2,1995,2007,true,exact
 V.I. CODE ANN. tit. 24 § 76,v.i. code ann. tit. 24 § 76,Statute,state_statute,VI,4,4,3,1999,2025,true,exact
 V.I. CODE ANN. tit. 33 § 681,v.i. code ann. tit. 33 § 681,Statute,state_statute,VI,4,1,1,2003,2003,true,exact
 V.I. CODE Ann. tit. 12 § 913,v.i. code ann. tit. 12 § 913,Statute,state_statute,VI,4,1,1,2005,2005,true,exact
@@ -621,6 +625,7 @@ V.I. Code Ann. tit. 14 § 625,v.i. code ann. tit. 14 § 625,Statute,state_statut
 V.I. Code Ann. tit. 14 § 926,v.i. code ann. tit. 14 § 926,Statute,state_statute,VI,4,4,1,1993,2016,true,exact
 V.I. Code Ann. tit. 15 § 395,v.i. code ann. tit. 15 § 395,Statute,state_statute,VI,4,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 15 § 87,v.i. code ann. tit. 15 § 87,Statute,state_statute,VI,4,1,1,2000,2000,true,exact
+V.I. Code Ann. tit. 16 § 109,v.i. code ann. tit. 16 § 109,Statute,state_statute,VI,4,2,2,1978,2016,true,exact
 V.I. Code Ann. tit. 16 § 354,v.i. code ann. tit. 16 § 354,Statute,state_statute,VI,4,3,1,1992,1997,true,exact
 V.I. Code Ann. tit. 19 § 604,v.i. code ann. tit. 19 § 604,Statute,state_statute,VI,4,4,4,1988,2011,true,exact
 V.I. Code Ann. tit. 19 § 607,v.i. code ann. tit. 19 § 607,Statute,state_statute,VI,4,2,2,1995,2011,true,exact
@@ -631,6 +636,7 @@ V.I. Code Ann. tit. 24 § 76-79,v.i. code ann. tit. 24 § 76-79,Statute,state_st
 V.I. Code Ann. tit. 27 § 166,v.i. code ann. tit. 27 § 166,Statute,state_statute,VI,4,2,1,1990,1994,true,exact
 V.I. Code Ann. tit. 27 § 166i,v.i. code ann. tit. 27 § 166i,Statute,state_statute,VI,4,2,1,1990,2023,true,exact
 V.I. Code Ann. tit. 28 § 331,v.i. code ann. tit. 28 § 331,Statute,state_statute,VI,4,1,1,2011,2011,true,exact
+V.I. Code Ann. tit. 28 § 7,v.i. code ann. tit. 28 § 7,Statute,state_statute,VI,4,2,2,1978,1999,true,exact
 V.I. Code Ann. tit. 28 § 752,v.i. code ann. tit. 28 § 752,Statute,state_statute,VI,4,1,1,2009,2009,true,exact
 V.I. Code Ann. tit. 28 § 782,v.i. code ann. tit. 28 § 782,Statute,state_statute,VI,4,3,2,2008,2008,true,exact
 V.I. Code Ann. tit. 29 § 191,v.i. code ann. tit. 29 § 191,Statute,state_statute,VI,4,2,1,1981,1981,true,exact
@@ -638,8 +644,10 @@ V.I. Code Ann. tit. 30 § 105,v.i. code ann. tit. 30 § 105,Statute,state_statut
 V.I. Code Ann. tit. 31 § 239,v.i. code ann. tit. 31 § 239,Statute,state_statute,VI,4,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 4 § 284,v.i. code ann. tit. 4 § 284,Statute,state_statute,VI,4,2,2,1988,1999,true,exact
 V.I. Code Ann. tit. 5 § 112,v.i. code ann. tit. 5 § 112,Statute,state_statute,VI,4,2,2,1998,2008,true,exact
-V.I. Code Ann. tit. 5 § 3504a,v.i. code ann. tit. 5 § 3504a,Statute,state_statute,VI,4,4,3,1997,2008,true,exact
+V.I. Code Ann. tit. 5 § 1261,v.i. code ann. tit. 5 § 1261,Statute,state_statute,VI,4,3,2,1990,1999,true,exact
+V.I. Code Ann. tit. 5 § 3711,v.i. code ann. tit. 5 § 3711,Statute,state_statute,VI,4,2,2,1996,2014,true,exact
 V.I. Code Ann. tit. 5 § 473,v.i. code ann. tit. 5 § 473,Statute,state_statute,VI,4,2,1,2014,2016,true,exact
+V.I. Code Ann. tit. 5 § 77,v.i. code ann. tit. 5 § 77,Statute,state_statute,VI,4,3,3,2010,2017,true,exact
 V.I. Code Ann. tit. 5 § 812,v.i. code ann. tit. 5 § 812,Statute,state_statute,VI,4,4,3,1995,2015,true,exact
 V.I. Code Ann. tit. 5 § 911,v.i. code ann. tit. 5 § 911,Statute,state_statute,VI,4,3,1,2009,2015,true,exact
 V.I. Code Ann. tit. 5. § 4903,v.i. code ann. tit. 5. § 4903,Statute,state_statute,VI,4,4,2,2008,2020,false,unresolved
@@ -662,7 +670,6 @@ V.ILR. CRIM. P. 32.1,v.ilr. crim. p. 32.1,Statute,state_statute,VI,4,1,1,2026,20
 14 V.I. CODE ANN. § 331,14 v.i. code ann. § 331,Statute,state_statute,VI,3,1,1,2004,2004,true,exact
 14 V.I. CODE Ann. § 921,14 v.i. code ann. § 921,Statute,state_statute,VI,3,1,1,2005,2005,true,exact
 14 V.I. CODE Ann. § 922,14 v.i. code ann. § 922,Statute,state_statute,VI,3,1,1,2005,2005,true,exact
-14 V.I. Code Ann. tit. 14 § 11,14 v.i. code ann. tit. 14 § 11,Statute,state_statute,VI,3,1,1,2012,2012,false,unresolved
 14 V.I. Code Ann. § 2253,14 v.i. code ann. § 2253,Statute,state_statute,VI,3,3,2,2001,2008,true,exact
 14 V.I. Code Ann. § 923,14 v.i. code ann. § 923,Statute,state_statute,VI,3,1,1,2004,2004,true,exact
 14 V.I. Code § 921,14 v.i. code § 921,Statute,state_statute,VI,3,1,1,1971,1971,true,exact
@@ -689,10 +696,8 @@ V.ILR. CRIM. P. 32.1,v.ilr. crim. p. 32.1,Statute,state_statute,VI,4,1,1,2026,20
 18 V.I.C. § 501,18 v.i.c. § 501,Statute,state_statute,VI,3,2,2,2014,2014,true,exact
 18 V.I.C. § 523,18 v.i.c. § 523,Statute,state_statute,VI,3,3,3,1987,2014,true,exact
 18 V.I.C. § 524,18 v.i.c. § 524,Statute,state_statute,VI,3,3,2,2010,2017,true,exact
-18 V.I.C. § 53,18 v.i.c. § 53,Statute,state_statute,VI,3,1,1,2014,2014,true,exact
 19 V.I.C. § 2602,19 v.i.c. § 2602,Statute,state_statute,VI,3,1,1,2017,2017,true,exact
 19 V.I.C. § 409,19 v.i.c. § 409,Statute,state_statute,VI,3,1,1,2015,2015,true,exact
-1A V.I. Code Ann. tit. 5 § 1301,1a v.i. code ann. tit. 5 § 1301,Statute,state_statute,VI,3,1,1,1978,1978,false,unresolved
 20 V.I.C. § 215,20 v.i.c. § 215,Statute,state_statute,VI,3,1,1,2009,2009,true,exact
 20 V.I.C. § 493a,20 v.i.c. § 493a,Statute,state_statute,VI,3,3,1,1989,2017,true,exact
 22 V.I. Code Ann. § 751,22 v.i. code ann. § 751,Statute,state_statute,VI,3,1,1,2004,2004,true,exact
@@ -708,7 +713,6 @@ V.ILR. CRIM. P. 32.1,v.ilr. crim. p. 32.1,Statute,state_statute,VI,4,1,1,2026,20
 28 V.I.C. § 174,28 v.i.c. § 174,Statute,state_statute,VI,3,1,1,2016,2016,true,exact
 28 V.I.C. § 251,28 v.i.c. § 251,Statute,state_statute,VI,3,1,1,1987,1987,true,exact
 28 V.I.C. § 793,28 v.i.c. § 793,Statute,state_statute,VI,3,1,1,2024,2024,true,exact
-29 AM. JUR. 2d Evidence § 177,29 am. jur. 2d evidence § 177,Statute,state_statute,VI,3,2,2,2007,2008,false,unresolved
 29 V.I.C. § 221,29 v.i.c. § 221,Statute,state_statute,VI,3,3,2,1968,2014,true,exact
 29 V.I.C. § 36,29 v.i.c. § 36,Statute,state_statute,VI,3,1,1,1994,1994,true,exact
 29 V.I.C. § 919,29 v.i.c. § 919,Statute,state_statute,VI,3,3,2,2000,2016,true,exact
@@ -733,7 +737,6 @@ V.ILR. CRIM. P. 32.1,v.ilr. crim. p. 32.1,Statute,state_statute,VI,4,1,1,2026,20
 5 V.I. CODE ANN. § 1262,5 v.i. code ann. § 1262,Statute,state_statute,VI,3,2,1,2002,2002,true,exact
 5 V.I. CODE Ann. § 1301,5 v.i. code ann. § 1301,Statute,state_statute,VI,3,1,1,2005,2005,true,exact
 5 V.I. CODE Ann. § 3801,5 v.i. code ann. § 3801,Statute,state_statute,VI,3,1,1,2005,2005,true,exact
-5 V.I. Code Ann. tit. 5 § 740,5 v.i. code ann. tit. 5 § 740,Statute,state_statute,VI,3,3,1,2019,2019,false,unresolved
 5 V.I. Code Ann. § 1303,5 v.i. code ann. § 1303,Statute,state_statute,VI,3,2,1,2000,2001,true,exact
 5 V.I. Code Ann. § 3711,5 v.i. code ann. § 3711,Statute,state_statute,VI,3,2,2,2003,2011,true,exact
 5 V.I. Code § 541,5 v.i. code § 541,Statute,state_statute,VI,3,2,2,1969,2024,true,exact
@@ -749,7 +752,6 @@ V.ILR. CRIM. P. 32.1,v.ilr. crim. p. 32.1,Statute,state_statute,VI,4,1,1,2026,20
 5 V.I.C. § 493,5 v.i.c. § 493,Statute,state_statute,VI,3,3,2,2008,2026,true,exact
 5 V.I.C. § 551,5 v.i.c. § 551,Statute,state_statute,VI,3,1,1,1996,1996,true,exact
 5 V.I.C. § 553,5 v.i.c. § 553,Statute,state_statute,VI,3,2,1,1996,2004,true,exact
-5 V.I.C. § 554,5 v.i.c. § 554,Statute,state_statute,VI,3,1,1,1996,1996,true,exact
 5 V.I.C. § 558,5 v.i.c. § 558,Statute,state_statute,VI,3,1,1,1996,1996,true,exact
 5 V.I.C. § 71,5 v.i.c. § 71,Statute,state_statute,VI,3,1,1,1967,1967,true,exact
 5 V.I.C. § 731,5 v.i.c. § 731,Statute,state_statute,VI,3,2,1,2013,2014,true,exact
@@ -770,6 +772,7 @@ Title 14 V.I.C. § 551,title 14 v.i.c. § 551,Statute,state_statute,VI,3,3,2,200
 Title 14 V.I.C. § 622,title 14 v.i.c. § 622,Statute,state_statute,VI,3,3,3,1975,2007,true,exact
 Title 14 V.I.C. § 924,title 14 v.i.c. § 924,Statute,state_statute,VI,3,2,2,2004,2009,true,exact
 Title 15 V.I.C. § 84,title 15 v.i.c. § 84,Statute,state_statute,VI,3,3,2,1979,2006,true,exact
+Title 16 V.I.C. § 354,title 16 v.i.c. § 354,Statute,state_statute,VI,3,1,1,1995,1995,true,exact
 Title 16 V.I.C. § 68,title 16 v.i.c. § 68,Statute,state_statute,VI,3,1,1,1998,1998,true,exact
 Title 16 V.I.C. § 91,title 16 v.i.c. § 91,Statute,state_statute,VI,3,1,1,2009,2009,true,exact
 Title 18 V.I.C. § 303,title 18 v.i.c. § 303,Statute,state_statute,VI,3,1,1,2016,2016,true,exact
@@ -781,11 +784,11 @@ Title 28 V.I. Code Ann. § 414,title 28 v.i. code ann. § 414,Statute,state_stat
 Title 28 V.I.C. § 421,title 28 v.i.c. § 421,Statute,state_statute,VI,3,1,1,2006,2006,true,exact
 "Title 29, V.I.C. § 87","title 29, v.i.c. § 87",Statute,state_statute,VI,3,1,1,2001,2001,true,exact
 Title 3 V.I.C. § 733,title 3 v.i.c. § 733,Statute,state_statute,VI,3,1,1,2011,2011,true,exact
+Title 30 V.I.C. § 23,title 30 v.i.c. § 23,Statute,state_statute,VI,3,1,1,2012,2012,true,exact
 Title 30 V.I.C. § 8,title 30 v.i.c. § 8,Statute,state_statute,VI,3,2,2,2002,2012,true,exact
 Title 4 V.I.C. § 21,title 4 v.i.c. § 21,Statute,state_statute,VI,3,2,1,2006,2007,true,exact
 Title 5 V.I. CODE ANN. § 3637,title 5 v.i. code ann. § 3637,Statute,state_statute,VI,3,1,1,2007,2007,true,exact
 Title 5 V.I.C. § 1421,title 5 v.i.c. § 1421,Statute,state_statute,VI,3,1,1,2009,2009,true,exact
-Title 5 V.I.C. § 80,title 5 v.i.c. § 80,Statute,state_statute,VI,3,3,2,1995,2007,true,exact
 V.I. CODE ANN. tit. 16 § 109,v.i. code ann. tit. 16 § 109,Statute,state_statute,VI,3,2,1,2008,2011,true,exact
 V.I. CODE ANN. tit. 23 § 451,v.i. code ann. tit. 23 § 451,Statute,state_statute,VI,3,2,2,2009,2012,true,exact
 V.I. CODE ANN. tit. 23 § 453,v.i. code ann. tit. 23 § 453,Statute,state_statute,VI,3,1,1,2004,2004,true,exact
@@ -818,6 +821,8 @@ V.I. Code Ann. tit. 13 § 344,v.i. code ann. tit. 13 § 344,Statute,state_statut
 V.I. Code Ann. tit. 14 § 17,v.i. code ann. tit. 14 § 17,Statute,state_statute,VI,3,3,1,2019,2019,true,exact
 V.I. Code Ann. tit. 14 § 1701,v.i. code ann. tit. 14 § 1701,Statute,state_statute,VI,3,3,1,1980,2010,true,exact
 V.I. Code Ann. tit. 14 § 1702,v.i. code ann. tit. 14 § 1702,Statute,state_statute,VI,3,3,2,1993,1999,true,exact
+V.I. Code Ann. tit. 14 § 1703,v.i. code ann. tit. 14 § 1703,Statute,state_statute,VI,3,1,1,1993,1993,true,exact
+V.I. Code Ann. tit. 14 § 1863,v.i. code ann. tit. 14 § 1863,Statute,state_statute,VI,3,2,2,2008,2013,true,exact
 V.I. Code Ann. tit. 14 § 2254,v.i. code ann. tit. 14 § 2254,Statute,state_statute,VI,3,2,2,1980,1994,true,exact
 V.I. Code Ann. tit. 14 § 299,v.i. code ann. tit. 14 § 299,Statute,state_statute,VI,3,2,1,2012,2012,true,exact
 V.I. Code Ann. tit. 14 § 3,v.i. code ann. tit. 14 § 3,Statute,state_statute,VI,3,3,2,1980,2016,true,exact
@@ -844,6 +849,7 @@ V.I. Code Ann. tit. 27 § 306,v.i. code ann. tit. 27 § 306,Statute,state_statut
 V.I. Code Ann. tit. 28 § 124,v.i. code ann. tit. 28 § 124,Statute,state_statute,VI,3,2,2,1988,1998,true,exact
 V.I. Code Ann. tit. 28 § 242,v.i. code ann. tit. 28 § 242,Statute,state_statute,VI,3,3,1,2001,2009,true,exact
 V.I. Code Ann. tit. 28 § 372,v.i. code ann. tit. 28 § 372,Statute,state_statute,VI,3,1,1,1999,1999,true,exact
+V.I. Code Ann. tit. 28 § 41,v.i. code ann. tit. 28 § 41,Statute,state_statute,VI,3,1,1,1998,2008,true,exact
 V.I. Code Ann. tit. 28 § 411,v.i. code ann. tit. 28 § 411,Statute,state_statute,VI,3,2,2,1990,1996,true,exact
 V.I. Code Ann. tit. 28 § 422,v.i. code ann. tit. 28 § 422,Statute,state_statute,VI,3,1,1,1990,1990,true,exact
 V.I. Code Ann. tit. 28 § 451,v.i. code ann. tit. 28 § 451,Statute,state_statute,VI,3,1,1,2009,2009,true,exact
@@ -853,7 +859,7 @@ V.I. Code Ann. tit. 3 § 451a,v.i. code ann. tit. 3 § 451a,Statute,state_statut
 V.I. Code Ann. tit. 3 § 521,v.i. code ann. tit. 3 § 521,Statute,state_statute,VI,3,2,2,1984,2007,true,exact
 V.I. Code Ann. tit. 3 § 701,v.i. code ann. tit. 3 § 701,Statute,state_statute,VI,3,3,1,1994,2008,true,exact
 V.I. Code Ann. tit. 3 § 705,v.i. code ann. tit. 3 § 705,Statute,state_statute,VI,3,1,1,1998,1998,true,exact
-V.I. Code Ann. tit. 3 § 715,v.i. code ann. tit. 3 § 715,Statute,state_statute,VI,3,1,1,1994,1994,true,exact
+V.I. Code Ann. tit. 3 § 881,v.i. code ann. tit. 3 § 881,Statute,state_statute,VI,3,2,1,2012,2025,true,exact
 V.I. Code Ann. tit. 30 § 103,v.i. code ann. tit. 30 § 103,Statute,state_statute,VI,3,3,2,2008,2012,true,exact
 V.I. Code Ann. tit. 31 § 205,v.i. code ann. tit. 31 § 205,Statute,state_statute,VI,3,1,1,2007,2007,true,exact
 V.I. Code Ann. tit. 31 § 235,v.i. code ann. tit. 31 § 235,Statute,state_statute,VI,3,2,1,1999,1999,true,exact
@@ -864,12 +870,14 @@ V.I. Code Ann. tit. 33 § 3413,v.i. code ann. tit. 33 § 3413,Statute,state_stat
 V.I. Code Ann. tit. 4 § 176,v.i. code ann. tit. 4 § 176,Statute,state_statute,VI,3,2,2,1990,2000,true,exact
 V.I. Code Ann. tit. 4 § 23A,v.i. code ann. tit. 4 § 23a,Statute,state_statute,VI,3,3,1,2015,2021,false,unresolved
 V.I. Code Ann. tit. 4 § 72,v.i. code ann. tit. 4 § 72,Statute,state_statute,VI,3,3,3,1999,2012,true,exact
-V.I. Code Ann. tit. 5 § 1261,v.i. code ann. tit. 5 § 1261,Statute,state_statute,VI,3,3,2,1990,1999,true,exact
 V.I. Code Ann. tit. 5 § 1272,v.i. code ann. tit. 5 § 1272,Statute,state_statute,VI,3,2,1,1990,1995,true,exact
+V.I. Code Ann. tit. 5 § 1303,v.i. code ann. tit. 5 § 1303,Statute,state_statute,VI,3,2,1,2000,2024,true,exact
+V.I. Code Ann. tit. 5 § 1309,v.i. code ann. tit. 5 § 1309,Statute,state_statute,VI,3,2,1,1978,1980,true,exact
 V.I. Code Ann. tit. 5 § 1361,v.i. code ann. tit. 5 § 1361,Statute,state_statute,VI,3,3,2,1999,2007,true,exact
-V.I. Code Ann. tit. 5 § 3711,v.i. code ann. tit. 5 § 3711,Statute,state_statute,VI,3,2,2,1996,2006,true,exact
 V.I. Code Ann. tit. 5 § 3863,v.i. code ann. tit. 5 § 3863,Statute,state_statute,VI,3,1,1,2012,2012,true,exact
-V.I. Code Ann. tit. 5 § 77,v.i. code ann. tit. 5 § 77,Statute,state_statute,VI,3,3,3,2010,2017,true,exact
+V.I. Code Ann. tit. 5 § 4501,v.i. code ann. tit. 5 § 4501,Statute,state_statute,VI,3,2,1,1978,1980,true,exact
+V.I. Code Ann. tit. 5 § 547,v.i. code ann. tit. 5 § 547,Statute,state_statute,VI,3,2,1,2016,2018,true,exact
+V.I. Code Ann. tit. 5 § 740,v.i. code ann. tit. 5 § 740,Statute,state_statute,VI,3,3,1,2019,2019,true,exact
 V.I. Code Ann. tit. 5 § 80,v.i. code ann. tit. 5 § 80,Statute,state_statute,VI,3,2,1,2009,2022,true,exact
 "V.I. Code Ann. tit. 5, App. V Rule 17","v.i. code ann. tit. 5, app. v rule 17",Statute,state_statute,VI,3,1,1,1990,1990,false,unresolved
 "V.I. Code Ann., Tit. 19 § 198","v.i. code ann., tit. 19 § 198",Statute,state_statute,VI,3,3,1,1997,1997,true,exact
@@ -904,7 +912,6 @@ Y.I. Code Ann. tit. 4 § 32,y.i. code ann. tit. 4 § 32,Statute,state_statute,VI
 14 V.I. CODE ANN. § 291,14 v.i. code ann. § 291,Statute,state_statute,VI,2,2,1,2005,2006,true,exact
 14 V.I. CODE Ann. § 11,14 v.i. code ann. § 11,Statute,state_statute,VI,2,1,1,2004,2004,true,exact
 14 V.I. CODE Ann. § 2253,14 v.i. code ann. § 2253,Statute,state_statute,VI,2,1,1,2005,2005,true,exact
-14 V.I. Code Ann. tit. 14 § 1861,14 v.i. code ann. tit. 14 § 1861,Statute,state_statute,VI,2,1,1,2012,2012,false,unresolved
 14 V.I. Code Ann. § 1083,14 v.i. code ann. § 1083,Statute,state_statute,VI,2,1,1,2003,2003,true,exact
 14 V.I. Code Ann. § 11,14 v.i. code ann. § 11,Statute,state_statute,VI,2,1,1,2001,2001,true,exact
 14 V.I. Code Ann. § 1721,14 v.i. code ann. § 1721,Statute,state_statute,VI,2,2,1,2005,2005,true,exact
@@ -924,6 +931,7 @@ Y.I. Code Ann. tit. 4 § 32,y.i. code ann. tit. 4 § 32,Statute,state_statute,VI
 15 V.I.C. § 1095,15 v.i.c. § 1095,Statute,state_statute,VI,2,2,1,1990,2014,true,exact
 15 V.I.C. § 1111,15 v.i.c. § 1111,Statute,state_statute,VI,2,2,1,2002,2014,true,exact
 15 V.I.C. § 233,15 v.i.c. § 233,Statute,state_statute,VI,2,2,1,2014,2025,true,exact
+15 V.I.C. § 314,15 v.i.c. § 314,Statute,state_statute,VI,2,1,1,1976,1989,true,exact
 15 V.I.C. § 492,15 v.i.c. § 492,Statute,state_statute,VI,2,2,1,1988,1988,true,exact
 15 V.I.C. § 564,15 v.i.c. § 564,Statute,state_statute,VI,2,2,1,1987,2012,true,exact
 15 V.I.C. § 569,15 v.i.c. § 569,Statute,state_statute,VI,2,2,1,1986,1987,true,exact
@@ -1021,7 +1029,6 @@ Y.I. Code Ann. tit. 4 § 32,y.i. code ann. tit. 4 § 32,Statute,state_statute,VI
 29 Y.I.C. § 271,29 y.i.c. § 271,Statute,state_statute,VI,2,1,1,1970,1970,false,unresolved
 3 V.I. CODE ANN. § 556,3 v.i. code ann. § 556,Statute,state_statute,VI,2,2,1,2002,2002,true,exact
 3 V.I. CODE ANN. § 557,3 v.i. code ann. § 557,Statute,state_statute,VI,2,2,1,2002,2002,true,exact
-3 V.I. Code Ann. tit. 16 § 109,3 v.i. code ann. tit. 16 § 109,Statute,state_statute,VI,2,1,1,1978,1978,false,unresolved
 3 V.I.C. § 1361,3 v.i.c. § 1361,Statute,state_statute,VI,2,1,1,1986,1986,false,unresolved
 3 V.I.C. § 271,3 v.i.c. § 271,Statute,state_statute,VI,2,1,1,2015,2015,true,exact
 3 V.I.C. § 272,3 v.i.c. § 272,Statute,state_statute,VI,2,2,1,2015,2017,true,exact
@@ -1042,7 +1049,6 @@ Y.I. Code Ann. tit. 4 § 32,y.i. code ann. tit. 4 § 32,Statute,state_statute,VI
 33 V.I.C. § 4-5,33 v.i.c. § 4-5,Statute,state_statute,VI,2,1,1,2015,2015,false,unresolved
 4 V.I. CODE ANN. § 76,4 v.i. code ann. § 76,Statute,state_statute,VI,2,2,1,2006,2007,true,exact
 4 V.I. CODE § 76,4 v.i. code § 76,Statute,state_statute,VI,2,2,1,2004,2007,true,exact
-4 V.I. Code Ann. tit. 5 § 547,4 v.i. code ann. tit. 5 § 547,Statute,state_statute,VI,2,2,1,2018,2018,false,unresolved
 4 V.I. Code § 172,4 v.i. code § 172,Statute,state_statute,VI,2,1,1,1971,1971,true,exact
 4 V.I. Code § 23,4 v.i. code § 23,Statute,state_statute,VI,2,2,1,1995,1995,true,exact
 4 V.I. Code § 243,4 v.i. code § 243,Statute,state_statute,VI,2,2,1,2013,2013,true,exact
@@ -1060,11 +1066,8 @@ Y.I. Code Ann. tit. 4 § 32,y.i. code ann. tit. 4 § 32,Statute,state_statute,VI
 4 V.I.C. § 88,4 v.i.c. § 88,Statute,state_statute,VI,2,2,1,1979,2024,true,exact
 4 V.L.C. § 123,4 v.l.c. § 123,Statute,state_statute,VI,2,2,1,2025,2025,false,unresolved
 4 Y.I.C. § 74,4 y.i.c. § 74,Statute,state_statute,VI,2,2,1,1966,1967,true,exact
-4A V.I. Code Ann. tit. 28 § 7,4a v.i. code ann. tit. 28 § 7,Statute,state_statute,VI,2,1,1,1978,1978,false,unresolved
 5 V.I C § 77,5 v.i c § 77,Statute,state_statute,VI,2,1,1,2024,2024,true,exact
 5 V.I. CODE Ann. § 31,5 v.i. code ann. § 31,Statute,state_statute,VI,2,1,1,2002,2002,true,exact
-5 V.I. Code Ann. tit. 33 § 2305,5 v.i. code ann. tit. 33 § 2305,Statute,state_statute,VI,2,1,1,1978,1978,false,unresolved
-5 V.I. Code Ann. tit. 5 § 855,5 v.i. code ann. tit. 5 § 855,Statute,state_statute,VI,2,2,1,1995,1995,false,unresolved
 5 V.I. Code Ann. § 541,5 v.i. code ann. § 541,Statute,state_statute,VI,2,2,1,2003,2004,true,exact
 5 V.I. Code Ann. § 852,5 v.i. code ann. § 852,Statute,state_statute,VI,2,1,1,2025,2025,true,exact
 5 V.I. Code § 31,5 v.i. code § 31,Statute,state_statute,VI,2,2,2,2004,2022,true,exact
@@ -1109,7 +1112,6 @@ Y.I. Code Ann. tit. 4 § 32,y.i. code ann. tit. 4 § 32,Statute,state_statute,VI
 5 V.L.C. § 31,5 v.l.c. § 31,Statute,state_statute,VI,2,2,1,2024,2025,false,unresolved
 5 VLC. § 1301,5 vlc. § 1301,Statute,state_statute,VI,2,1,1,2024,2024,false,unresolved
 5 Y.I.C. § 35,5 y.i.c. § 35,Statute,state_statute,VI,2,1,1,1978,1978,true,exact
-7 V.I. 21 (3rd Cir. 1969). 16 V.I.C. § 106,7 v.i. 21 (3rd cir. 1969). 16 v.i.c. § 106,Statute,state_statute,VI,2,2,1,1978,1985,false,unresolved
 76 AND 5 V.I.C. § 77,76 and 5 v.i.c. § 77,Statute,state_statute,VI,2,1,1,2010,2010,false,unresolved
 8 V.I.C. § 13,8 v.i.c. § 13,Statute,state_statute,VI,2,1,1,1995,1995,true,exact
 9 V.I.C. § 187,9 v.i.c. § 187,Statute,state_statute,VI,2,2,1,2025,2025,true,exact
@@ -1136,7 +1138,6 @@ Title 14 V.I.C. § 299,title 14 v.i.c. § 299,Statute,state_statute,VI,2,2,2,198
 Title 14 V.I.C. § 4,title 14 v.i.c. § 4,Statute,state_statute,VI,2,2,1,2010,2010,true,exact
 Title 14 V.I.C. § 834,title 14 v.i.c. § 834,Statute,state_statute,VI,2,2,2,2002,2005,true,exact
 Title 15 V.I.C. § 1261-67,title 15 v.i.c. § 1261-67,Statute,state_statute,VI,2,1,1,2015,2015,false,unresolved
-Title 16 V.I.C. § 354,title 16 v.i.c. § 354,Statute,state_statute,VI,2,1,1,1995,1995,true,exact
 Title 16 V.I.C. § 367,title 16 v.i.c. § 367,Statute,state_statute,VI,2,1,1,2016,2016,true,exact
 Title 16 Y.I.C. § 109,title 16 y.i.c. § 109,Statute,state_statute,VI,2,2,2,1977,2016,false,unresolved
 Title 19 V.I. CODE ANN. § 722,title 19 v.i. code ann. § 722,Statute,state_statute,VI,2,2,2,2007,2008,true,exact
@@ -1158,10 +1159,10 @@ Title 30 V.I.C. § 1,title 30 v.i.c. § 1,Statute,state_statute,VI,2,1,1,2012,20
 Title 30 V.I.C. § 105,title 30 v.i.c. § 105,Statute,state_statute,VI,2,1,1,2012,2012,true,exact
 Title 30 V.I.C. § 16,title 30 v.i.c. § 16,Statute,state_statute,VI,2,2,2,2002,2012,true,exact
 Title 30 V.I.C. § 18,title 30 v.i.c. § 18,Statute,state_statute,VI,2,1,1,2002,2002,true,exact
-Title 30 V.I.C. § 23,title 30 v.i.c. § 23,Statute,state_statute,VI,2,1,1,2012,2012,true,exact
 Title 4 V.I. CODE Ann. § 76,title 4 v.i. code ann. § 76,Statute,state_statute,VI,2,2,1,2007,2007,true,exact
 Title 4 V.I. Code § 76,title 4 v.i. code § 76,Statute,state_statute,VI,2,1,1,2005,2005,true,exact
 Title 4 V.I.C. § 443,title 4 v.i.c. § 443,Statute,state_statute,VI,2,2,1,2024,2025,true,exact
+Title 4 V.I.C. § 472,title 4 v.i.c. § 472,Statute,state_statute,VI,2,1,1,1997,1997,true,exact
 Title 5 V.I. Code Ann. § 1422,title 5 v.i. code ann. § 1422,Statute,state_statute,VI,2,1,1,2005,2005,true,exact
 Title 5 V.I.C. § 115,title 5 v.i.c. § 115,Statute,state_statute,VI,2,1,1,2015,2015,true,exact
 Title 5 V.I.C. § 1361,title 5 v.i.c. § 1361,Statute,state_statute,VI,2,1,1,2009,2009,true,exact
@@ -1173,6 +1174,7 @@ V.I. Bar. 4 V.I.C. § 32,v.i. bar. 4 v.i.c. § 32,Statute,state_statute,VI,2,2,1
 V.I. CODE ANN. Tit. 14 § 922,v.i. code ann. tit. 14 § 922,Statute,state_statute,VI,2,1,1,2002,2002,true,exact
 V.I. CODE ANN. Title 9 § 39,v.i. code ann. title 9 § 39,Statute,state_statute,VI,2,1,1,2010,2010,true,exact
 V.I. CODE ANN. tit. 13 § 100,v.i. code ann. tit. 13 § 100,Statute,state_statute,VI,2,1,1,2009,2009,true,exact
+V.I. CODE ANN. tit. 14 § 1700,v.i. code ann. tit. 14 § 1700,Statute,state_statute,VI,2,1,1,1997,2009,true,exact
 V.I. CODE ANN. tit. 14 § 295,v.i. code ann. tit. 14 § 295,Statute,state_statute,VI,2,1,1,2017,2017,true,exact
 V.I. CODE ANN. tit. 14 § 505,v.i. code ann. tit. 14 § 505,Statute,state_statute,VI,2,1,1,1999,1999,true,exact
 V.I. CODE ANN. tit. 14 § 604,v.i. code ann. tit. 14 § 604,Statute,state_statute,VI,2,1,1,2010,2010,true,exact
@@ -1186,12 +1188,15 @@ V.I. CODE ANN. tit. 3 § 65,v.i. code ann. tit. 3 § 65,Statute,state_statute,VI
 V.I. CODE ANN. tit. 30 § 103,v.i. code ann. tit. 30 § 103,Statute,state_statute,VI,2,1,1,2024,2024,true,exact
 V.I. CODE ANN. tit. 30 § 105,v.i. code ann. tit. 30 § 105,Statute,state_statute,VI,2,1,1,2024,2024,true,exact
 V.I. CODE ANN. tit. 33 § 3401,v.i. code ann. tit. 33 § 3401,Statute,state_statute,VI,2,2,1,2011,2011,true,exact
+V.I. CODE ANN. tit. 4 § 83,v.i. code ann. tit. 4 § 83,Statute,state_statute,VI,2,1,1,2004,2010,true,exact
 V.I. CODE ANN. tit. 5 § 3721,v.i. code ann. tit. 5 § 3721,Statute,state_statute,VI,2,1,1,1994,1994,true,exact
 V.I. CODE ANN. tit. 5 § 4902,v.i. code ann. tit. 5 § 4902,Statute,state_statute,VI,2,1,1,2005,2005,true,exact
+V.I. CODE ANN. tit. 5 § 541,v.i. code ann. tit. 5 § 541,Statute,state_statute,VI,2,1,1,1995,2015,true,exact
 V.I. CODE ANN. tit. 5 § 932,v.i. code ann. tit. 5 § 932,Statute,state_statute,VI,2,1,1,2011,2011,true,exact
 "V.I. CODE ANN., tit. 24 § 263","v.i. code ann., tit. 24 § 263",Statute,state_statute,VI,2,2,2,1995,2003,true,exact
 "V.I. CODE ANN., tit. 5 § 31","v.i. code ann., tit. 5 § 31",Statute,state_statute,VI,2,2,1,2018,2018,true,exact
 V.I. CODE Ann. tit 14 § 4,v.i. code ann. tit 14 § 4,Statute,state_statute,VI,2,1,1,2009,2009,true,exact
+V.I. CODE Ann. tit. 11 § 951,v.i. code ann. tit. 11 § 951,Statute,state_statute,VI,2,1,1,2007,2012,true,exact
 V.I. CODE Ann. tit. 12A § 108,v.i. code ann. tit. 12a § 108,Statute,state_statute,VI,2,1,1,2014,2014,true,exact
 V.I. CODE Ann. tit. 14 § 12,v.i. code ann. tit. 14 § 12,Statute,state_statute,VI,2,1,1,2010,2010,true,exact
 V.I. CODE Ann. tit. 14 § 1701,v.i. code ann. tit. 14 § 1701,Statute,state_statute,VI,2,2,2,2005,2009,true,exact
@@ -1228,6 +1233,7 @@ V.I. Code Ann. Tit. 5 § 4903,v.i. code ann. tit. 5 § 4903,Statute,state_statut
 V.I. Code Ann. tit 1 § 4,v.i. code ann. tit 1 § 4,Statute,state_statute,VI,2,2,2,2002,2015,true,exact
 V.I. Code Ann. tit 14 § 834,v.i. code ann. tit 14 § 834,Statute,state_statute,VI,2,1,1,1994,1994,true,exact
 V.I. Code Ann. tit 24 § 251-85,v.i. code ann. tit 24 § 251-85,Statute,state_statute,VI,2,2,1,1994,1995,false,unresolved
+V.I. Code Ann. tit 4 § 33,v.i. code ann. tit 4 § 33,Statute,state_statute,VI,2,1,1,2009,2014,true,exact
 V.I. Code Ann. tit 5 § 489,v.i. code ann. tit 5 § 489,Statute,state_statute,VI,2,1,1,1996,1996,true,exact
 V.I. Code Ann. tit. 1 § 42,v.i. code ann. tit. 1 § 42,Statute,state_statute,VI,2,2,2,1996,2013,true,exact
 V.I. Code Ann. tit. 1 § 6,v.i. code ann. tit. 1 § 6,Statute,state_statute,VI,2,2,2,1994,2018,true,exact
@@ -1254,10 +1260,8 @@ V.I. Code Ann. tit. 14 § 13,v.i. code ann. tit. 14 § 13,Statute,state_statute,
 V.I. Code Ann. tit. 14 § 1382,v.i. code ann. tit. 14 § 1382,Statute,state_statute,VI,2,2,1,1979,1993,true,exact
 V.I. Code Ann. tit. 14 § 1662,v.i. code ann. tit. 14 § 1662,Statute,state_statute,VI,2,2,2,1995,1996,true,exact
 V.I. Code Ann. tit. 14 § 1699,v.i. code ann. tit. 14 § 1699,Statute,state_statute,VI,2,2,2,2017,2020,true,exact
-V.I. Code Ann. tit. 14 § 1703,v.i. code ann. tit. 14 § 1703,Statute,state_statute,VI,2,1,1,1993,1993,true,exact
 V.I. Code Ann. tit. 14 § 1722,v.i. code ann. tit. 14 § 1722,Statute,state_statute,VI,2,1,1,2013,2013,true,exact
 V.I. Code Ann. tit. 14 § 1741,v.i. code ann. tit. 14 § 1741,Statute,state_statute,VI,2,1,1,1980,1980,true,exact
-V.I. Code Ann. tit. 14 § 1863,v.i. code ann. tit. 14 § 1863,Statute,state_statute,VI,2,2,2,2008,2013,true,exact
 V.I. Code Ann. tit. 14 § 1864,v.i. code ann. tit. 14 § 1864,Statute,state_statute,VI,2,2,1,1979,1979,true,exact
 V.I. Code Ann. tit. 14 § 2,v.i. code ann. tit. 14 § 2,Statute,state_statute,VI,2,2,2,1991,2012,true,exact
 V.I. Code Ann. tit. 14 § 2071,v.i. code ann. tit. 14 § 2071,Statute,state_statute,VI,2,1,1,2010,2010,true,exact
@@ -1271,7 +1275,7 @@ V.I. Code Ann. tit. 14. § 291-92,v.i. code ann. tit. 14. § 291-92,Statute,stat
 V.I. Code Ann. tit. 14. § 298-99,v.i. code ann. tit. 14. § 298-99,Statute,state_statute,VI,2,1,1,2012,2012,false,unresolved
 V.I. Code Ann. tit. 15 § 428,v.i. code ann. tit. 15 § 428,Statute,state_statute,VI,2,2,2,2009,2025,true,exact
 V.I. Code Ann. tit. 15 § 601,v.i. code ann. tit. 15 § 601,Statute,state_statute,VI,2,2,1,2013,2015,true,exact
-V.I. Code Ann. tit. 16 § 109,v.i. code ann. tit. 16 § 109,Statute,state_statute,VI,2,2,2,1999,2016,true,exact
+V.I. Code Ann. tit. 15 § 824,v.i. code ann. tit. 15 § 824,Statute,state_statute,VI,2,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 16 § 110,v.i. code ann. tit. 16 § 110,Statute,state_statute,VI,2,1,1,1995,1995,true,exact
 V.I. Code Ann. tit. 16 § 221,v.i. code ann. tit. 16 § 221,Statute,state_statute,VI,2,2,1,1997,1997,true,exact
 V.I. Code Ann. tit. 16 § 303,v.i. code ann. tit. 16 § 303,Statute,state_statute,VI,2,2,2,1995,2004,false,unresolved
@@ -1284,6 +1288,7 @@ V.I. Code Ann. tit. 19 § 1201,v.i. code ann. tit. 19 § 1201,Statute,state_stat
 V.I. Code Ann. tit. 19 § 240,v.i. code ann. tit. 19 § 240,Statute,state_statute,VI,2,1,1,2021,2021,true,exact
 V.I. Code Ann. tit. 19 § 243,v.i. code ann. tit. 19 § 243,Statute,state_statute,VI,2,1,1,2021,2021,true,exact
 V.I. Code Ann. tit. 19 § 614a,v.i. code ann. tit. 19 § 614a,Statute,state_statute,VI,2,2,2,1988,1992,true,exact
+V.I. Code Ann. tit. 20 § 1,v.i. code ann. tit. 20 § 1,Statute,state_statute,VI,2,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 20 § 466,v.i. code ann. tit. 20 § 466,Statute,state_statute,VI,2,2,1,2012,2012,true,exact
 V.I. Code Ann. tit. 20 § 494,v.i. code ann. tit. 20 § 494,Statute,state_statute,VI,2,2,1,1994,2001,true,exact
 V.I. Code Ann. tit. 20 § 504,v.i. code ann. tit. 20 § 504,Statute,state_statute,VI,2,1,1,1990,1990,true,exact
@@ -1299,11 +1304,9 @@ V.I. Code Ann. tit. 24 § 374,v.i. code ann. tit. 24 § 374,Statute,state_statut
 V.I. Code Ann. tit. 24 § 79,v.i. code ann. tit. 24 § 79,Statute,state_statute,VI,2,2,2,1990,2010,true,exact
 V.I. Code Ann. tit. 28 § 244,v.i. code ann. tit. 28 § 244,Statute,state_statute,VI,2,2,2,2000,2006,true,exact
 V.I. Code Ann. tit. 28 § 292,v.i. code ann. tit. 28 § 292,Statute,state_statute,VI,2,2,1,1982,1982,true,exact
-V.I. Code Ann. tit. 28 § 41,v.i. code ann. tit. 28 § 41,Statute,state_statute,VI,2,1,1,2008,2008,true,exact
 V.I. Code Ann. tit. 28 § 456,v.i. code ann. tit. 28 § 456,Statute,state_statute,VI,2,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 457,v.i. code ann. tit. 28 § 457,Statute,state_statute,VI,2,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 533,v.i. code ann. tit. 28 § 533,Statute,state_statute,VI,2,2,2,2008,2009,true,exact
-V.I. Code Ann. tit. 28 § 7,v.i. code ann. tit. 28 § 7,Statute,state_statute,VI,2,2,2,1989,1999,true,exact
 V.I. Code Ann. tit. 28 § 789,v.i. code ann. tit. 28 § 789,Statute,state_statute,VI,2,2,2,2007,2010,true,exact
 V.I. Code Ann. tit. 29 § 236,v.i. code ann. tit. 29 § 236,Statute,state_statute,VI,2,1,1,1990,1990,true,exact
 V.I. Code Ann. tit. 3 § 114,v.i. code ann. tit. 3 § 114,Statute,state_statute,VI,2,2,2,2010,2023,true,exact
@@ -1311,13 +1314,13 @@ V.I. Code Ann. tit. 3 § 115,v.i. code ann. tit. 3 § 115,Statute,state_statute,
 V.I. Code Ann. tit. 3 § 451,v.i. code ann. tit. 3 § 451,Statute,state_statute,VI,2,1,1,2007,2007,true,exact
 V.I. Code Ann. tit. 3 § 718,v.i. code ann. tit. 3 § 718,Statute,state_statute,VI,2,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 3 § 777,v.i. code ann. tit. 3 § 777,Statute,state_statute,VI,2,1,1,2008,2008,true,exact
-V.I. Code Ann. tit. 3 § 881,v.i. code ann. tit. 3 § 881,Statute,state_statute,VI,2,2,1,2025,2025,true,exact
+V.I. Code Ann. tit. 30 § 111,v.i. code ann. tit. 30 § 111,Statute,state_statute,VI,2,1,1,2025,2025,true,exact
 V.I. Code Ann. tit. 30 § 2,v.i. code ann. tit. 30 § 2,Statute,state_statute,VI,2,2,2,1989,1996,true,exact
 V.I. Code Ann. tit. 30 § 20,v.i. code ann. tit. 30 § 20,Statute,state_statute,VI,2,2,2,1989,1996,true,exact
 V.I. Code Ann. tit. 31 § 232,v.i. code ann. tit. 31 § 232,Statute,state_statute,VI,2,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 31 § 236,v.i. code ann. tit. 31 § 236,Statute,state_statute,VI,2,1,1,1999,1999,true,exact
-V.I. Code Ann. tit. 33 § 2305,v.i. code ann. tit. 33 § 2305,Statute,state_statute,VI,2,1,1,2025,2025,true,exact
 V.I. Code Ann. tit. 33 § 42,v.i. code ann. tit. 33 § 42,Statute,state_statute,VI,2,1,1,1991,1991,true,exact
+V.I. Code Ann. tit. 33 § 942,v.i. code ann. tit. 33 § 942,Statute,state_statute,VI,2,1,1,1990,2019,true,exact
 V.I. Code Ann. tit. 33 § 943,v.i. code ann. tit. 33 § 943,Statute,state_statute,VI,2,1,1,2019,2019,true,exact
 V.I. Code Ann. tit. 4 § 172,v.i. code ann. tit. 4 § 172,Statute,state_statute,VI,2,2,2,1990,1995,true,exact
 V.I. Code Ann. tit. 4 § 21,v.i. code ann. tit. 4 § 21,Statute,state_statute,VI,2,2,2,2009,2010,true,exact
@@ -1328,17 +1331,15 @@ V.I. Code Ann. tit. 4 § 34,v.i. code ann. tit. 4 § 34,Statute,state_statute,VI
 V.I. Code Ann. tit. 4 § 441,v.i. code ann. tit. 4 § 441,Statute,state_statute,VI,2,2,1,1997,1997,true,exact
 V.I. Code Ann. tit. 4 § 657,v.i. code ann. tit. 4 § 657,Statute,state_statute,VI,2,1,1,2009,2009,false,unresolved
 V.I. Code Ann. tit. 4 § 75,v.i. code ann. tit. 4 § 75,Statute,state_statute,VI,2,2,2,1993,2008,true,exact
-V.I. Code Ann. tit. 5 § 1303,v.i. code ann. tit. 5 § 1303,Statute,state_statute,VI,2,2,1,2000,2008,true,exact
-V.I. Code Ann. tit. 5 § 1309,v.i. code ann. tit. 5 § 1309,Statute,state_statute,VI,2,2,1,1980,1980,true,exact
 V.I. Code Ann. tit. 5 § 1421-23,v.i. code ann. tit. 5 § 1421-23,Statute,state_statute,VI,2,2,2,1997,2010,false,unresolved
 V.I. Code Ann. tit. 5 § 2501,v.i. code ann. tit. 5 § 2501,Statute,state_statute,VI,2,1,1,1990,1990,true,exact
 V.I. Code Ann. tit. 5 § 2502,v.i. code ann. tit. 5 § 2502,Statute,state_statute,VI,2,2,2,1990,2018,true,exact
 V.I. Code Ann. tit. 5 § 2510,v.i. code ann. tit. 5 § 2510,Statute,state_statute,VI,2,2,1,1994,1994,true,exact
 V.I. Code Ann. tit. 5 § 256,v.i. code ann. tit. 5 § 256,Statute,state_statute,VI,2,1,1,2015,2015,true,exact
 V.I. Code Ann. tit. 5 § 3563,v.i. code ann. tit. 5 § 3563,Statute,state_statute,VI,2,1,1,1980,1980,true,exact
+V.I. Code Ann. tit. 5 § 36,v.i. code ann. tit. 5 § 36,Statute,state_statute,VI,2,1,1,1994,2000,true,exact
 V.I. Code Ann. tit. 5 § 3674,v.i. code ann. tit. 5 § 3674,Statute,state_statute,VI,2,1,1,1996,1996,true,exact
 V.I. Code Ann. tit. 5 § 3721,v.i. code ann. tit. 5 § 3721,Statute,state_statute,VI,2,1,1,1995,1995,true,exact
-V.I. Code Ann. tit. 5 § 4501,v.i. code ann. tit. 5 § 4501,Statute,state_statute,VI,2,2,1,1980,1980,true,exact
 V.I. Code Ann. tit. 5 § 4571,v.i. code ann. tit. 5 § 4571,Statute,state_statute,VI,2,1,1,1995,1995,true,exact
 V.I. Code Ann. tit. 5 § 4601,v.i. code ann. tit. 5 § 4601,Statute,state_statute,VI,2,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 5 § 471,v.i. code ann. tit. 5 § 471,Statute,state_statute,VI,2,2,2,1995,1996,true,exact
@@ -1347,6 +1348,7 @@ V.I. Code Ann. tit. 5 § 484,v.i. code ann. tit. 5 § 484,Statute,state_statute,
 V.I. Code Ann. tit. 5 § 4911,v.i. code ann. tit. 5 § 4911,Statute,state_statute,VI,2,2,1,2005,2011,true,exact
 V.I. Code Ann. tit. 5 § 496,v.i. code ann. tit. 5 § 496,Statute,state_statute,VI,2,2,2,2015,2016,true,exact
 V.I. Code Ann. tit. 5 § 545,v.i. code ann. tit. 5 § 545,Statute,state_statute,VI,2,1,1,1993,1993,true,exact
+V.I. Code Ann. tit. 5 § 855,v.i. code ann. tit. 5 § 855,Statute,state_statute,VI,2,2,1,1995,1995,true,exact
 V.I. Code Ann. tit. I § 4,v.i. code ann. tit. i § 4,Statute,state_statute,VI,2,1,1,1993,1993,false,unresolved
 V.I. Code Ann. tit. V App. V R. 51,v.i. code ann. tit. v app. v r. 51,Statute,state_statute,VI,2,2,1,1988,1988,false,unresolved
 V.I. Code Ann. tit. XIV § 1083,v.i. code ann. tit. xiv § 1083,Statute,state_statute,VI,2,2,1,1980,1980,false,unresolved
@@ -1402,19 +1404,9 @@ VI. CODE Ann. tit. 4 § 32,vi. code ann. tit. 4 § 32,Statute,state_statute,VI,2
 VLC. § 182,vlc. § 182,Statute,state_statute,VI,2,2,1,2025,2025,false,unresolved
 Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statute,VI,2,1,1,2008,2008,false,unresolved
 0F TRUSTS § 330,0f trusts § 330,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
-1 AM. JUR. § 3,1 am. jur. § 3,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 1 CODE ANN tit 4 § 32,1 code ann tit 4 § 32,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 1 V.I. C. § 4,1 v.i. c. § 4,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 1 V.I. CODE Ann. § 4,1 v.i. code ann. § 4,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
-1 V.I. Code Ann. tit. 1 § 4,1 v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,1,1,1,1996,1996,false,unresolved
-1 V.I. Code Ann. tit. 1 § 44,1 v.i. code ann. tit. 1 § 44,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-1 V.I. Code Ann. tit. 1 § 45,1 v.i. code ann. tit. 1 § 45,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-1 V.I. Code Ann. tit. 14 § 1700,1 v.i. code ann. tit. 14 § 1700,Statute,state_statute,VI,1,1,1,1993,1993,false,unresolved
-1 V.I. Code Ann. tit. 14 § 2253,1 v.i. code ann. tit. 14 § 2253,Statute,state_statute,VI,1,1,1,1992,1992,false,unresolved
-1 V.I. Code Ann. tit. 14 § 61,1 v.i. code ann. tit. 14 § 61,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-1 V.I. Code Ann. tit. 20 § 1,1 v.i. code ann. tit. 20 § 1,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
-1 V.I. Code Ann. tit. 30 § 111,1 v.i. code ann. tit. 30 § 111,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-1 V.I. Code Ann. tit. 5 § 3504a,1 v.i. code ann. tit. 5 § 3504a,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
 1 V.I. Code § 3,1 v.i. code § 3,Statute,state_statute,VI,1,1,1,1962,1962,true,exact
 "1 V.I. Code, tit. 14 § 1701","1 v.i. code, tit. 14 § 1701",Statute,state_statute,VI,1,1,1,1967,1967,false,unresolved
 1 V.I.C. § 200,1 v.i.c. § 200,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
@@ -1431,9 +1423,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 10 OKL. St. ANN. § 7505-1.1,10 okl. st. ann. § 7505-1.1,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 "10 V.I. 6 (D.C.V.I. 1973), 33 V.I.C. § 3409","10 v.i. 6 (d.c.v.i. 1973), 33 v.i.c. § 3409",Statute,state_statute,VI,1,1,1,1977,1977,false,unresolved
 "10 V.I. 6 (D.C.V.I. 1973), 33 V.I.C. § 3410","10 v.i. 6 (d.c.v.i. 1973), 33 v.i.c. § 3410",Statute,state_statute,VI,1,1,1,1977,1977,false,unresolved
-10 V.I. Code Ann. tit. 5 § 251,10 v.i. code ann. tit. 5 § 251,Statute,state_statute,VI,1,1,1,1998,1998,false,unresolved
-10 V.I. Code Ann. tit. 5 § 2533,10 v.i. code ann. tit. 5 § 2533,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
-10 V.I. Code Ann. tit. 5 § 77,10 v.i. code ann. tit. 5 § 77,Statute,state_statute,VI,1,1,1,2017,2017,false,unresolved
 10 V.I. Code Ann. tit. I § 4,10 v.i. code ann. tit. i § 4,Statute,state_statute,VI,1,1,1,1993,1993,true,exact
 10 V.I. § 421,10 v.i. § 421,Statute,state_statute,VI,1,1,1,1980,1980,false,unresolved
 10 V.I.C. § 121-26,10 v.i.c. § 121-26,Statute,state_statute,VI,1,1,1,2017,2017,false,unresolved
@@ -1442,9 +1431,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 10 V.I.C. § 74,10 v.i.c. § 74,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 10 VLC. § 122,10 vlc. § 122,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 10 Y.I.C. § 7,10 y.i.c. § 7,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
-1001-1010 (2006). V.I. Code Ann. tit. 3 § 881,1001-1010 (2006). v.i. code ann. tit. 3 § 881,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-103 V.I. CODE ANN. tit. 4 § 32,103 v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
-"109 S. Ct. 1294, 103 L. Ed. 2d 559 (1989). 27 V.I.C. § 301","109 s. ct. 1294, 103 l. ed. 2d 559 (1989). 27 v.i.c. § 301",Statute,state_statute,VI,1,1,1,2015,2015,false,unresolved
 1098 (D.Virgin Islands 1986) § 350,1098 (d.virgin islands 1986) § 350,Statute,state_statute,VI,1,1,1,1989,1989,false,unresolved
 11 V.I. Code § 404,11 v.i. code § 404,Statute,state_statute,VI,1,1,1,1965,1965,false,unresolved
 11 V.I. § 954,11 v.i. § 954,Statute,state_statute,VI,1,1,1,1986,1986,true,exact
@@ -1453,8 +1439,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 11 V.I.C. § 3-109,11 v.i.c. § 3-109,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
 11 VJ.C. § 953,11 vj.c. § 953,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 11 VJ.C. § 954,11 vj.c. § 954,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-1137 (3d Cir. 1973). 14 V.I.C. § 2251,1137 (3d cir. 1973). 14 v.i.c. § 2251,Statute,state_statute,VI,1,1,1,1983,1983,false,unresolved
-1137 (3d Cir. 1973). 14 V.I.C. § 2253,1137 (3d cir. 1973). 14 v.i.c. § 2253,Statute,state_statute,VI,1,1,1,1983,1983,false,unresolved
 118 V 1 CODE ANN tit 5 § 1302,118 v 1 code ann tit 5 § 1302,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 11A V. I.C. 2-608,11a v. i.c. 2-608,Statute,state_statute,VI,1,1,1,1973,1973,true,exact
 11A V.I.C. § 1-101,11a v.i.c. § 1-101,Statute,state_statute,VI,1,1,1,2002,2002,true,exact
@@ -1480,7 +1464,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 11A V.I.C. § 9-504,11a v.i.c. § 9-504,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 11A V.I.C. § 9-610,11a v.i.c. § 9-610,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
 11A V.I.C. § 9-627,11a v.i.c. § 9-627,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
-12 V.I. Code Ann. tit. 4 § 32,12 v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
 12 V.I.C. § 191,12 v.i.c. § 191,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 12 V.I.C. § 319,12 v.i.c. § 319,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 12 V.I.C. § 32,12 v.i.c. § 32,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
@@ -1497,18 +1480,13 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 12 VIC § 403,12 vic § 403,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 12 VLC. § 913,12 vlc. § 913,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 12 VLR. § 910-1,12 vlr. § 910-1,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-121 (2d Cir. 1967). Cf. 14 V.I.C. § 61,121 (2d cir. 1967). cf. 14 v.i.c. § 61,Statute,state_statute,VI,1,1,1,1986,1986,false,unresolved
-125 (2d Cir. 1999) (citation omitted). 24 V.I.C. § 362,125 (2d cir. 1999) (citation omitted). 24 v.i.c. § 362,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 12A V.I.C. § 106,12a v.i.c. § 106,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 12A V.I.C. § 107,12a v.i.c. § 107,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
 12A V.I.C. § 2,12a v.i.c. § 2,Statute,state_statute,VI,1,1,1,1981,1981,true,exact
 12A V.I.C. § 252,12a v.i.c. § 252,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 13 V. I.C. 401-405,13 v. i.c. 401-405,Statute,state_statute,VI,1,1,1,1970,1970,false,unresolved
-"13 V.I. 163, 167 (D.V.I. 1976). 11 V.I.C. § 951","13 v.i. 163, 167 (d.v.i. 1976). 11 v.i.c. § 951",Statute,state_statute,VI,1,1,1,1988,1988,false,unresolved
-13 V.I. 376 (3d Cir. 1976). Title 33 V.I. Code § 2305,13 v.i. 376 (3d cir. 1976). title 33 v.i. code § 2305,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 "13 V.I. 582, 435 F.Supp. 995 (D.V.I. 1977). 26 33 V.IC. § 3408","13 v.i. 582, 435 f.supp. 995 (d.v.i. 1977). 26 33 v.ic. § 3408",Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 "13 V.I. 582, 435 F.Supp. 995 (D.V.I. 1977). 26 33 V.IC. § 3413","13 v.i. 582, 435 f.supp. 995 (d.v.i. 1977). 26 33 v.ic. § 3413",Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-13 V.I. Code Ann. tit. 5 § 4903,13 v.i. code ann. tit. 5 § 4903,Statute,state_statute,VI,1,1,1,2018,2018,false,unresolved
 13 V.I.C § 193-95,13 v.i.c § 193-95,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
 13 V.I.C. § 1202,13 v.i.c. § 1202,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 13 V.I.C. § 2003,13 v.i.c. § 2003,Statute,state_statute,VI,1,1,1,1998,1998,true,exact
@@ -1520,7 +1498,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 13 V.I.C. § 52,13 v.i.c. § 52,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 13 V.I.C. § 6,13 v.i.c. § 6,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 "132 (3rd Cir. 1976), 16 V.I.C. § 109","132 (3rd cir. 1976), 16 v.i.c. § 109",Statute,state_statute,VI,1,1,1,1996,1996,false,unresolved
-1369 (3d Cir. 1973). V.I. Code Ann. tit. 5 § 1261,1369 (3d cir. 1973). v.i. code ann. tit. 5 § 1261,Statute,state_statute,VI,1,1,1,1999,1999,false,unresolved
 14 V.I. CODE ANN. § 13,14 v.i. code ann. § 13,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 14 V.I. CODE ANN. § 1862,14 v.i. code ann. § 1862,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
 14 V.I. CODE ANN. § 2253,14 v.i. code ann. § 2253,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
@@ -1528,15 +1505,10 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 14 V.I. CODE ANN. § 297,14 v.i. code ann. § 297,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 14 V.I. CODE ANN. § 298,14 v.i. code ann. § 298,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 14 V.I. CODE ANN. § 607,14 v.i. code ann. § 607,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
-14 V.I. CODE Ann. tit. 28 § 451,14 v.i. code ann. tit. 28 § 451,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
 14 V.I. CODE Ann. § 1052,14 v.i. code ann. § 1052,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
 14 V.I. CODE Ann. § 1861,14 v.i. code ann. § 1861,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
 14 V.I. CODE Ann. § 295,14 v.i. code ann. § 295,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
 14 V.I. CODE Ann. § 600,14 v.i. code ann. § 600,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
-14 V.I. Code Ann. tit. 14 § 1862,14 v.i. code ann. tit. 14 § 1862,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-14 V.I. Code Ann. tit. 14 § 1863,14 v.i. code ann. tit. 14 § 1863,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-14 V.I. Code Ann. tit. 14 § 295,14 v.i. code ann. tit. 14 § 295,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-14 V.I. Code Ann. tit. 5 § 1421,14 v.i. code ann. tit. 5 § 1421,Statute,state_statute,VI,1,1,1,1992,1992,false,unresolved
 14 V.I. Code Ann. tit. § 11,14 v.i. code ann. tit. § 11,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 14 V.I. Code Ann. § 1051,14 v.i. code ann. § 1051,Statute,state_statute,VI,1,1,1,2001,2001,true,exact
 14 V.I. Code Ann. § 1081,14 v.i. code ann. § 1081,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
@@ -1621,9 +1593,7 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 14 Y.I.C. § 4,14 y.i.c. § 4,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 14 Y.I.C. § 606,14 y.i.c. § 606,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 14 Y.I.C. § 844,14 y.i.c. § 844,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
-148 (1937). 1 V.I.C. § 4,148 (1937). 1 v.i.c. § 4,Statute,state_statute,VI,1,1,1,1985,1985,false,unresolved
 15 V.I. C. § 240,15 v.i. c. § 240,Statute,state_statute,VI,1,1,1,1963,1963,true,exact
-15 V.I. CODE ANN. tit. 33 § 1102,15 v.i. code ann. tit. 33 § 1102,Statute,state_statute,VI,1,1,1,2003,2003,false,unresolved
 15 V.I. CODE ANN. § 84,15 v.i. code ann. § 84,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
 15 V.I. CODE Ann. § 13,15 v.i. code ann. § 13,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
 15 V.I. Code Ann. § 235,15 v.i. code ann. § 235,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
@@ -1642,7 +1612,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 15 V.I.C. § 232,15 v.i.c. § 232,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 15 V.I.C. § 267,15 v.i.c. § 267,Statute,state_statute,VI,1,1,1,2015,2015,false,unresolved
 15 V.I.C. § 313,15 v.i.c. § 313,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
-15 V.I.C. § 314,15 v.i.c. § 314,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 15 V.I.C. § 354,15 v.i.c. § 354,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 15 V.I.C. § 396,15 v.i.c. § 396,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 15 V.I.C. § 397,15 v.i.c. § 397,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
@@ -1721,7 +1690,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 17 V.I.C. § 332,17 v.i.c. § 332,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 17 V.I.C. § 41,17 v.i.c. § 41,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 18 V.I. 317 (D.V.I. 1981) (5 V.I.C. § 1451,18 v.i. 317 (d.v.i. 1981) (5 v.i.c. § 1451,Statute,state_statute,VI,1,1,1,1982,1982,false,unresolved
-"18 V.I. 60, 66 (D.V.I. 1980). 5 V.I.C. § 4903","18 v.i. 60, 66 (d.v.i. 1980). 5 v.i.c. § 4903",Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 18 V.I. Code § 108,18 v.i. code § 108,Statute,state_statute,VI,1,1,1,1964,1964,true,exact
 18 V.I. Code § 302,18 v.i. code § 302,Statute,state_statute,VI,1,1,1,1964,1964,true,exact
 18 V.I. Code § 303,18 v.i. code § 303,Statute,state_statute,VI,1,1,1,1964,1964,true,exact
@@ -1763,7 +1731,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 18 VIC. § 41,18 vic. § 41,Statute,state_statute,VI,1,1,1,2024,2024,true,exact
 18 VIC. § 48,18 vic. § 48,Statute,state_statute,VI,1,1,1,2024,2024,true,exact
 18 Y.I.C. § 411,18 y.i.c. § 411,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
-182 V.I. Code Ann. tit. 20 § 493,182 v.i. code ann. tit. 20 § 493,Statute,state_statute,VI,1,1,1,1997,1997,false,unresolved
 185 VIC. § 31,185 vic. § 31,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 "19 V.I. 383, 387 (Terr. Ct. 1983) (citations omitted). 22 V.I.C. § 53","19 v.i. 383, 387 (terr. ct. 1983) (citations omitted). 22 v.i.c. § 53",Statute,state_statute,VI,1,1,1,1987,1987,false,unresolved
 19 V.I. CODE § 614a,19 v.i. code § 614a,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
@@ -1787,22 +1754,12 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 19 V.I.C. § 627,19 v.i.c. § 627,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 19 V.I.C. § 7,19 v.i.c. § 7,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 19 V.L.C. § 240,19 v.l.c. § 240,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-196 (1973). Title 30 V.I.C. § 23,196 (1973). title 30 v.i.c. § 23,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-1A V.I. Code Ann. tit. 5 § 1305,1a v.i. code ann. tit. 5 § 1305,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-1A V.I. Code Ann. tit. 5 § 1309,1a v.i. code ann. tit. 5 § 1309,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-1A V.I. Code Ann. tit. 5 § 4501,1a v.i. code ann. tit. 5 § 4501,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-"1A V.I. Code Ann., tit 5 § 3541","1a v.i. code ann., tit 5 § 3541",Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
 1A V.I. Code tit. 5 § 4501-09,1a v.i. code tit. 5 § 4501-09,Statute,state_statute,VI,1,1,1,1981,1981,false,unresolved
-2 Am. JUR. 2d § 2,2 am. jur. 2d § 2,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
-2 V.I. CODE Ann. tit. 4 § 33,2 v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,1,1,1,2008,2008,false,unresolved
-2 V.I. Code Ann. tit. 3 § 912,2 v.i. code ann. tit. 3 § 912,Statute,state_statute,VI,1,1,1,1998,1998,false,unresolved
-2 V.I. Code Ann. tit. 4 § 33,2 v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
 "2 V.I. Code Ann. tit. 5, App. V. § 16.5","2 v.i. code ann. tit. 5, app. v. § 16.5",Statute,state_statute,VI,1,1,1,1992,1992,false,unresolved
 2 V.I.C. § 101,2 v.i.c. § 101,Statute,state_statute,VI,1,1,1,1996,1996,true,exact
 2 V.I.C. § 103,2 v.i.c. § 103,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 2 V.I.C. § 252,2 v.i.c. § 252,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 "2 WRIGHT, Federal Practice and Procedure: Criminal 2d § 482","2 wright, federal practice and procedure: criminal 2d § 482",Statute,state_statute,VI,1,1,1,1983,1983,false,unresolved
-20 V.I. CODE ANN. tit. 33 § 1102,20 v.i. code ann. tit. 33 § 1102,Statute,state_statute,VI,1,1,1,2003,2003,false,unresolved
 20 V.I.C. § 198,20 v.i.c. § 198,Statute,state_statute,VI,1,1,1,1989,1989,false,unresolved
 20 V.I.C. § 2,20 v.i.c. § 2,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 20 V.I.C. § 218,20 v.i.c. § 218,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
@@ -1824,10 +1781,7 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 20 Y.I.C. § 493,20 y.i.c. § 493,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 20 Y.I.C. § 704,20 y.i.c. § 704,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 203-12 VLC. § 906,203-12 vlc. § 906,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-21 ALR 3d 845 § 3,21 alr 3d 845 § 3,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-21 ALR 3d 845 § 5-7,21 alr 3d 845 § 5-7,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 21 Chapter 10 Title 4 of the Code of Law [14 V.I.C. § 1081,21 chapter 10 title 4 of the code of law [14 v.i.c. § 1081,Statute,state_statute,VI,1,1,1,1931,1931,false,unresolved
-21 V.I. 161 (1984). Tit. 9 V.I.C. § 182,21 v.i. 161 (1984). tit. 9 v.i.c. § 182,Statute,state_statute,VI,1,1,1,1992,1992,false,unresolved
 21 V.I. Code Ann. § 913,21 v.i. code ann. § 913,Statute,state_statute,VI,1,1,1,2000,2000,false,unresolved
 21 V.I.C. § 101,21 v.i.c. § 101,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 219 (6th Cir. 1996). V.I. Code Ann. tit. 11. § 1001,219 (6th cir. 1996). v.i. code ann. tit. 11. § 1001,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
@@ -1838,7 +1792,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 22 V.I.C. § 218,22 v.i.c. § 218,Statute,state_statute,VI,1,1,1,1980,1980,true,exact
 22 V.I.C. § 827,22 v.i.c. § 827,Statute,state_statute,VI,1,1,1,1983,1983,true,exact
 227 VLC. § 166i,227 vlc. § 166i,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
-23 (1998). 30 V.I.C. § 2,23 (1998). 30 v.i.c. § 2,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
 23 V.I. Code Ann. § 481,23 v.i. code ann. § 481,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 23 V.I. § 451,23 v.i. § 451,Statute,state_statute,VI,1,1,1,1998,1998,true,exact
 23 V.I.C. § 14,23 v.i.c. § 14,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
@@ -1849,7 +1802,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 23 V.I.C. § 472,23 v.i.c. § 472,Statute,state_statute,VI,1,1,1,1992,1992,true,exact
 23 V.I.C. § 473,23 v.i.c. § 473,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 231 F.Supp. 368 (D.V.I.1964) 2 18 V.I. Code 1-856,231 f.supp. 368 (d.v.i.1964) 2 18 v.i. code 1-856,Statute,state_statute,VI,1,1,1,1964,1964,false,unresolved
-24 V.I. CODE Ann. tit. 24 § 471,24 v.i. code ann. tit. 24 § 471,Statute,state_statute,VI,1,1,1,2004,2004,false,unresolved
 24 V.I. Code Ann. § 62,24 v.i. code ann. § 62,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 24 V.I. Code Ann. § 74a,24 v.i. code ann. § 74a,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 24 V.I. Code Ann. § 79,24 v.i. code ann. § 79,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
@@ -1881,7 +1833,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 24 Y.I.C. § 361,24 y.i.c. § 361,Statute,state_statute,VI,1,1,1,1986,1986,true,exact
 24 Y.I.C. § 77,24 y.i.c. § 77,Statute,state_statute,VI,1,1,1,1988,1988,true,exact
 2412 VLC. § 910,2412 vlc. § 910,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-"26 V.I. 83, 85 (Terr. Ct. 1991)). 5 V.I.C. § 1261","26 v.i. 83, 85 (terr. ct. 1991)). 5 v.i.c. § 1261",Statute,state_statute,VI,1,1,1,2015,2015,false,unresolved
 26 V.I. CODE § 21,26 v.i. code § 21,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 26 V.I. Code § 71,26 v.i. code § 71,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 26 V.I.C. § 1-135,26 v.i.c. § 1-135,Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
@@ -1927,7 +1878,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 27 VLC. § 166i,27 vlc. § 166i,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 27 Y.I.C. § 407,27 y.i.c. § 407,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
 27 Y.I.C. § 72,27 y.i.c. § 72,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
-28 (1982). V.I. Code Ann. tit. 4 § 32,28 (1982). v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
 28 V J.C. § 845,28 v j.c. § 845,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 28 V. I.C. 831-846,28 v. i.c. 831-846,Statute,state_statute,VI,1,1,1,1977,1977,false,unresolved
 28 V.I. C. § 11,28 v.i. c. § 11,Statute,state_statute,VI,1,1,1,1970,1970,true,exact
@@ -2002,15 +1952,9 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 29 VLC. § 542,29 vlc. § 542,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 29 VLC. § 543,29 vlc. § 543,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 29 Y.I.C. § 303,29 y.i.c. § 303,Statute,state_statute,VI,1,1,1,1978,1978,true,exact
-29A AM. JUR. 2d Evidence § 1375,29a am. jur. 2d evidence § 1375,Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
 3 V.I. CODE ANN. § 57o,3 v.i. code ann. § 57o,Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
-3 V.I. CODE Ann. tit. 5 § 3504a,3 v.i. code ann. tit. 5 § 3504a,Statute,state_statute,VI,1,1,1,2015,2015,false,unresolved
 3 V.I. CODE Ann. § 584a,3 v.i. code ann. § 584a,Statute,state_statute,VI,1,1,1,2002,2002,true,exact
 3 V.I. CODE Ann. § 772,3 v.i. code ann. § 772,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
-3 V.I. Code Ann. tit. 14 § 1703,3 v.i. code ann. tit. 14 § 1703,Statute,state_statute,VI,1,1,1,1993,1993,false,unresolved
-3 V.I. Code Ann. tit. 14 § 2253,3 v.i. code ann. tit. 14 § 2253,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-3 V.I. Code Ann. tit. 15 § 824,3 v.i. code ann. tit. 15 § 824,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
-3 V.I. Code Ann. tit. 28 § 41,3 v.i. code ann. tit. 28 § 41,Statute,state_statute,VI,1,1,1,1998,1998,false,unresolved
 3 V.I. Code Ann. § 113,3 v.i. code ann. § 113,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 3 V.I. Code tit. 3 § 1102,3 v.i. code tit. 3 § 1102,Statute,state_statute,VI,1,1,1,2008,2008,false,unresolved
 3 V.I. Code § 114,3 v.i. code § 114,Statute,state_statute,VI,1,1,1,1967,1967,true,exact
@@ -2057,8 +2001,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 3 Y.I.C. § 677,3 y.i.c. § 677,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
 3 Y.I.C. § 681,3 y.i.c. § 681,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
 3 Y.I.C. § 690,3 y.i.c. § 690,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
-"30 V.I. 230, 256 (D.V.I. App. Div. 1994). V.I. CODE Ann. tit. 11 § 951","30 v.i. 230, 256 (d.v.i. app. div. 1994). v.i. code ann. tit. 11 § 951",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-30 V.I. 36 (Terr. Ct. 1994). 27 V.I.C. § 166d,30 v.i. 36 (terr. ct. 1994). 27 v.i.c. § 166d,Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
 30 V.I.C. § 112,30 v.i.c. § 112,Statute,state_statute,VI,1,1,1,2024,2024,true,exact
 30 V.I.C. § 125,30 v.i.c. § 125,Statute,state_statute,VI,1,1,1,1986,1986,true,exact
 30 V.I.C. § 150,30 v.i.c. § 150,Statute,state_statute,VI,1,1,1,2016,2016,false,unresolved
@@ -2073,7 +2015,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 31 V.I.C. § 1,31 v.i.c. § 1,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 31 V.I.C. § 29,31 v.i.c. § 29,Statute,state_statute,VI,1,1,1,2000,2000,false,unresolved
 31 V.I.C. § 4,31 v.i.c. § 4,Statute,state_statute,VI,1,1,1,1998,1998,true,exact
-"32 V.I. 120, 127 (Terr. Ct. 1995). V.I. Code Ann. tit. 1 § 4","32 v.i. 120, 127 (terr. ct. 1995). v.i. code ann. tit. 1 § 4",Statute,state_statute,VI,1,1,1,1999,1999,false,unresolved
 32 V.I.C. § 1,32 v.i.c. § 1,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
 32 V.I.C. § 245,32 v.i.c. § 245,Statute,state_statute,VI,1,1,1,1985,1985,true,exact
 32 V.I.C. § 362,32 v.i.c. § 362,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
@@ -2089,8 +2030,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 33 V.I. ADC § 42b,33 v.i. adc § 42b,Statute,state_statute,VI,1,1,1,2020,2020,true,exact
 33 V.I. ADC § 42c,33 v.i. adc § 42c,Statute,state_statute,VI,1,1,1,2020,2020,true,exact
 33 V.I. CODE Ann. § 3409,33 v.i. code ann. § 3409,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
-33 V.I. Code Ann. tit. 33 § 1692,33 v.i. code ann. tit. 33 § 1692,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
-33 V.I. Code Ann. tit. 33 § 942,33 v.i. code ann. tit. 33 § 942,Statute,state_statute,VI,1,1,1,1990,1990,false,unresolved
 33 V.I. Code Ann. § 2402,33 v.i. code ann. § 2402,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 33 V.I. Code Ann. § 3408,33 v.i. code ann. § 3408,Statute,state_statute,VI,1,1,1,1980,1980,true,exact
 33 V.I. Code § 3401,33 v.i. code § 3401,Statute,state_statute,VI,1,1,1,1993,1993,true,exact
@@ -2113,7 +2052,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 33 V.I.C. § 51,33 v.i.c. § 51,Statute,state_statute,VI,1,1,1,1983,1983,true,exact
 33 V.I.C. § 746,33 v.i.c. § 746,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 33 Y.I.C. § 2251,33 y.i.c. § 2251,Statute,state_statute,VI,1,1,1,1980,1980,false,unresolved
-34 (1998). 30 V.I.C. § 35,34 (1998). 30 v.i.c. § 35,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
 34 V.I. C. § 157,34 v.i. c. § 157,Statute,state_statute,VI,1,1,1,1988,1988,true,exact
 34 V.I. Code Ann. § 203,34 v.i. code ann. § 203,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 34 V.I.C. § 12,34 v.i.c. § 12,Statute,state_statute,VI,1,1,1,1981,1981,true,exact
@@ -2121,28 +2059,18 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 34 V.I.C. § 205,34 v.i.c. § 205,Statute,state_statute,VI,1,1,1,2002,2002,true,exact
 34 V.I.C. § 460,34 v.i.c. § 460,Statute,state_statute,VI,1,1,1,1993,1993,true,exact
 "340 U.S. 361, 364 (1950). V.I. Code Ann. tit. 22 § 248-249g","340 u.s. 361, 364 (1950). v.i. code ann. tit. 22 § 248-249g",Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
-3401-3416 (1996). 27 V.I.C. § 166,3401-3416 (1996). 27 v.i.c. § 166,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
 3401-3416 (1996). 27 V.I.C. § 1661,3401-3416 (1996). 27 v.i.c. § 1661,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
 3429 VLC. § 541,3429 vlc. § 541,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-"349 F.Supp. 78, 82, 9 V.I. 172, (D.V.I. 1978). Title 16 V.I.C. § 99","349 f.supp. 78, 82, 9 v.i. 172, (d.v.i. 1978). title 16 v.i.c. § 99",Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
 3622 VLC. § 1671,3622 vlc. § 1671,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
-3674 (1967). 14 V.I.C. § 443,3674 (1967). 14 v.i.c. § 443,Statute,state_statute,VI,1,1,1,1996,1996,false,unresolved
 38 V.I.C. § 2582,38 v.i.c. § 2582,Statute,state_statute,VI,1,1,1,1979,1979,false,unresolved
 38 V.I.C. § 3409,38 v.i.c. § 3409,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 38 V.I.C. § 3410,38 v.i.c. § 3410,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 3d LGOVL § 6,3d lgovl § 6,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-4 (1995). 15 V.I.C. § 161,4 (1995). 15 v.i.c. § 161,Statute,state_statute,VI,1,1,1,1999,1999,false,unresolved
 "4 V.I. 261, 274 (D.C.V.I. 1961). 4. 28 V.I.C. § 789","4 v.i. 261, 274 (d.c.v.i. 1961). 4. 28 v.i.c. § 789",Statute,state_statute,VI,1,1,1,1967,1967,false,unresolved
 "4 V.I. 589, 231 F.Supp. 368 (D.V.I. 1964). 18 V.I. Code § 1-856","4 v.i. 589, 231 f.supp. 368 (d.v.i. 1964). 18 v.i. code § 1-856",Statute,state_statute,VI,1,1,1,1964,1964,false,unresolved
-4 V.I. CODE ANN. tit. 14 § 1700,4 v.i. code ann. tit. 14 § 1700,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
-4 V.I. CODE ANN. tit. 4 § 83,4 v.i. code ann. tit. 4 § 83,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
-4 V.I. CODE Ann. tit. 4 § 32,4 v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,1,1,1,2008,2008,false,unresolved
 4 V.I. CODE Ann. § 284,4 v.i. code ann. § 284,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 4 V.I. CODE Ann. § 285,4 v.i. code ann. § 285,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 4 V.I. CODE Ann. § 287,4 v.i. code ann. § 287,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
-4 V.I. Code Ann. tit 4 § 33,4 v.i. code ann. tit 4 § 33,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
-4 V.I. Code Ann. tit. 33 § 122,4 v.i. code ann. tit. 33 § 122,Statute,state_statute,VI,1,1,1,1997,1997,false,unresolved
-4 V.I. Code Ann. tit. 5 § 1301,4 v.i. code ann. tit. 5 § 1301,Statute,state_statute,VI,1,1,1,1980,1980,false,unresolved
 4 V.I. Code Ann. § 1613,4 v.i. code ann. § 1613,Statute,state_statute,VI,1,1,1,2000,2000,false,unresolved
 4 V.I. Code Ann. § 33.6,4 v.i. code ann. § 33.6,Statute,state_statute,VI,1,1,1,2003,2003,false,unresolved
 4 V.I. Code § 284,4 v.i. code § 284,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
@@ -2179,17 +2107,12 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 4 Y.I.C. § 174,4 y.i.c. § 174,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
 4 Y.I.C. § 32,4 y.i.c. § 32,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 41 F.Supp. 86 (D.Mass. 1941) § 42,41 f.supp. 86 (d.mass. 1941) § 42,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-"41 V.I. 115, 119 (Terr. Ct. 1999). V.I. Code Ann. tit. 33 § 3416","41 v.i. 115, 119 (terr. ct. 1999). v.i. code ann. tit. 33 § 3416",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-"41 V.I. 394, 396 (D.V.I. 1999). 4 V.I.C. § 76","41 v.i. 394, 396 (d.v.i. 1999). 4 v.i.c. § 76",Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
 412 VLC. § 803,412 vlc. § 803,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-426 (1997). 5 V.I.C. § 426,426 (1997). 5 v.i.c. § 426,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 43 POF 2d § 10,43 pof 2d § 10,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 "431 U.S. 816, 844, 97 S.Ct. 2094, 2110, 53 L.Ed. 2d 14 (1977). § 2512","431 u.s. 816, 844, 97 s.ct. 2094, 2110, 53 l.ed. 2d 14 (1977). § 2512",Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 435 VIC. § 1423,435 vic. § 1423,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-4903 (1997). 5 V.I.C. § 4903,4903 (1997). 5 v.i.c. § 4903,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 493 U.S. 917 (1989). V.I. Code Arm. tit. 5 § 2509,493 u.s. 917 (1989). v.i. code arm. tit. 5 § 2509,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
 495 (1960). Title 16 V.I.C. § 319,495 (1960). title 16 v.i.c. § 319,Statute,state_statute,VI,1,1,1,1979,1979,false,unresolved
-495 (1960). Title 16 V.I.C. § 342,495 (1960). title 16 v.i.c. § 342,Statute,state_statute,VI,1,1,1,1979,1979,false,unresolved
 495 (1960). Title 16 V.I.C. § 50-52,495 (1960). title 16 v.i.c. § 50-52,Statute,state_statute,VI,1,1,1,1979,1979,false,unresolved
 5 V. I.C. 492-498,5 v. i.c. 492-498,Statute,state_statute,VI,1,1,1,2017,2017,false,unresolved
 5 V.E.C. § 3711,5 v.e.c. § 3711,Statute,state_statute,VI,1,1,1,2026,2026,false,unresolved
@@ -2207,12 +2130,6 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 5 V.I. CODE Ann. § 48,5 v.i. code ann. § 48,Statute,state_statute,VI,1,1,1,2005,2005,false,unresolved
 5 V.I. Code Ann. 334-35,5 v.i. code ann. 334-35,Statute,state_statute,VI,1,1,1,1971,1971,false,unresolved
 5 V.I. Code Ann. Ch. 331 § 3801,5 v.i. code ann. ch. 331 § 3801,Statute,state_statute,VI,1,1,1,2005,2005,false,unresolved
-5 V.I. Code Ann. tit. 14 § 2253,5 v.i. code ann. tit. 14 § 2253,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-5 V.I. Code Ann. tit. 14 § 297,5 v.i. code ann. tit. 14 § 297,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
-5 V.I. Code Ann. tit. 15 § 801,5 v.i. code ann. tit. 15 § 801,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
-5 V.I. Code Ann. tit. 15 § 821,5 v.i. code ann. tit. 15 § 821,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
-5 V.I. Code Ann. tit. 5 § 1303,5 v.i. code ann. tit. 5 § 1303,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
-5 V.I. Code Ann. tit. 5 § 3711,5 v.i. code ann. tit. 5 § 3711,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
 5 V.I. Code Ann. § 1301,5 v.i. code ann. § 1301,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 5 V.I. Code Ann. § 1325,5 v.i. code ann. § 1325,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 5 V.I. Code Ann. § 1421,5 v.i. code ann. § 1421,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
@@ -2338,49 +2255,25 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 5022 VIC § 1725,5022 vic § 1725,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 535 VAVIC. § 111,535 vavic. § 111,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 55 VLC. § 4903,55 vlc. § 4903,Statute,state_statute,VI,1,1,1,2023,2023,false,unresolved
-551-558 (1997). V.I. Code ANN. tit. 5 § 553,551-558 (1997). v.i. code ann. tit. 5 § 553,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
-553 (1997). 5 V.I.C. § 554,553 (1997). 5 v.i.c. § 554,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 576 (3d Cir. 1967). R.O.A. § 7,576 (3d cir. 1967). r.o.a. § 7,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 582a (1) and 16 V.I.C. § 97,582a (1) and 16 v.i.c. § 97,Statute,state_statute,VI,1,1,1,2000,2000,false,unresolved
-595 (L.D.N.J. 1975). Title 21 V.I.C. § 101,595 (l.d.n.j. 1975). title 21 v.i.c. § 101,Statute,state_statute,VI,1,1,1,1989,1989,false,unresolved
-599 (1968). Title 16 V.I.C. § 110,599 (1968). title 16 v.i.c. § 110,Statute,state_statute,VI,1,1,1,1977,1977,false,unresolved
 6 Cf. 16 V.I.C. § 101,6 cf. 16 v.i.c. § 101,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 6 V.I. 558 (Mun. Ct. St. Croix 1967). 3 Title 5 V.I.C. § 1361,6 v.i. 558 (mun. ct. st. croix 1967). 3 title 5 v.i.c. § 1361,Statute,state_statute,VI,1,1,1,1991,1991,false,unresolved
-6 V.I. Code Ann. tit. 24 § 6,6 v.i. code ann. tit. 24 § 6,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-6 V.I. Code Ann. tit. 33 § 2305,6 v.i. code ann. tit. 33 § 2305,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-6 V.I. Code Ann. tit. 4 § 33,6 v.i. code ann. tit. 4 § 33,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
 6 V.I.C. § 21-26,6 v.i.c. § 21-26,Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
 6 V.I.C. § 63,6 v.i.c. § 63,Statute,state_statute,VI,1,1,1,1979,1979,true,exact
-63C AM. JUR. 2d Property § 35,63c am. jur. 2d property § 35,Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
-642 (3d Cir. 1963). Title 5 V.I.C. § 4901,642 (3d cir. 1963). title 5 v.i.c. § 4901,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 659 (3d Cir. 1989) 8 29 VLC. § 541,659 (3d cir. 1989) 8 29 vlc. § 541,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 692 (3 Cir. 1962). 5 24 V.I. Code § 70,692 (3 cir. 1962). 5 24 v.i. code § 70,Statute,state_statute,VI,1,1,1,1965,1965,false,unresolved
 7 G.C.A. § 22104,7 g.c.a. § 22104,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
-7 V.I. CODE Ann. tit. 33 § 3408,7 v.i. code ann. tit. 33 § 3408,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
-7 V.I. CODE Ann. tit. 33 § 3414,7 v.i. code ann. tit. 33 § 3414,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
-7 V.I. Code Ann. tit. 1 § 41,7 v.i. code ann. tit. 1 § 41,Statute,state_statute,VI,1,1,1,2005,2005,false,unresolved
-7 V.I. Code Ann. tit. 28 § 475,7 v.i. code ann. tit. 28 § 475,Statute,state_statute,VI,1,1,1,1989,1989,false,unresolved
 7100 VI V.I. Code Ann. tit. 22 § 1261,7100 vi v.i. code ann. tit. 22 § 1261,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
-725-26 (3d Cir. 1982). V.I. Code ANN. tit. 5 § 4905,725-26 (3d cir. 1982). v.i. code ann. tit. 5 § 4905,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 750 III. Comp. Stat. § 5/503,750 iii. comp. stat. § 5/503,Statute,state_statute,VI,1,1,1,2016,2016,false,unresolved
-758 So. 2d 1175. 27 V.I.C. § 166a,758 so. 2d 1175. 27 v.i.c. § 166a,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
-76 (Supp. 1979). 5 V.I.C. § 76,76 (supp. 1979). 5 v.i.c. § 76,Statute,state_statute,VI,1,1,1,1980,1980,false,unresolved
-76 AM. JUR. 2D Trusts § 18,76 am. jur. 2d trusts § 18,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
-766-766B (1979). 22 V.I. CODE ANN. tit. 5 § 541,766-766b (1979). 22 v.i. code ann. tit. 5 § 541,Statute,state_statute,VI,1,1,1,2015,2015,false,unresolved
 "772 F. Supp. 1538, 1541 (D.V.I. APP. 1991) (citations omitted). 6 6 V.I. Code Ann. tit. 14 § 43","772 f. supp. 1538, 1541 (d.v.i. app. 1991) (citations omitted). 6 6 v.i. code ann. tit. 14 § 43",Statute,state_statute,VI,1,1,1,1996,1996,false,unresolved
-79 Am. JUR. PROOF OF FACTS 3d 269 § 13,79 am. jur. proof of facts 3d 269 § 13,Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
-790 (3d Cir. 1966)). 27 V.I.C. § 301,790 (3d cir. 1966)). 27 v.i.c. § 301,Statute,state_statute,VI,1,1,1,1995,1995,false,unresolved
 8 V.I. 27. 7 17 V.I.C. § 172,8 v.i. 27. 7 17 v.i.c. § 172,Statute,state_statute,VI,1,1,1,1970,1970,false,unresolved
-8 V.I. Code Ann. tit. 23 § 451,8 v.i. code ann. tit. 23 § 451,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 8 V.I.C. § 17,8 v.i.c. § 17,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 8 V.I.C. § 2,8 v.i.c. § 2,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 82 CJ.S. Statutes § 377,82 cj.s. statutes § 377,Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
 "83 S. Ct. 227, 9 L. Ed. 2d 222 (1962)). 47 28 VEC. § 179","83 s. ct. 227, 9 l. ed. 2d 222 (1962)). 47 28 vec. § 179",Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 84 V.I.C. § 104,84 v.i.c. § 104,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
-881 (1995). 18 V.I.C. § 53,881 (1995). 18 v.i.c. § 53,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
 891 (3d Cir. 1926). 5 V.I. Code tit. 14 § 922,891 (3d cir. 1926). 5 v.i. code tit. 14 § 922,Statute,state_statute,VI,1,1,1,1979,1979,false,unresolved
-9 V.I. Code Ann. tit. 14 § 1052,9 v.i. code ann. tit. 14 § 1052,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
-9 V.I. Code Ann. tit. 5 § 36,9 v.i. code ann. tit. 5 § 36,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
 9 V.I.C § 631,9 v.i.c § 631,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 9 V.I.C § 932,9 v.i.c § 932,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 9 V.I.C. § 34,9 v.i.c. § 34,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
@@ -2388,9 +2281,7 @@ Y.I. Code Ann. tit. 14 § 606,y.i. code ann. tit. 14 § 606,Statute,state_statut
 9 V.I.C. § 635,9 v.i.c. § 635,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 9 V.I.C. § 636,9 v.i.c. § 636,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 9 V.I.C. § 671,9 v.i.c. § 671,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
-90 (1932). 5 V.I.C. § 252,90 (1932). 5 v.i.c. § 252,Statute,state_statute,VI,1,1,1,1978,1978,false,unresolved
 "922 (a), and V.I. Code Ann. tit. 14 § 331","922 (a), and v.i. code ann. tit. 14 § 331",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-96-1588 (7th Cir. 1997). V.I. Code Ann. tit. 3 § 715,96-1588 (7th cir. 1997). v.i. code ann. tit. 3 § 715,Statute,state_statute,VI,1,1,1,1998,1998,false,unresolved
 "9A FED. Proc., L. Ed. § 22:1467","9a fed. proc., l. ed. § 22:1467",Statute,state_statute,VI,1,1,1,2015,2015,false,unresolved
 A. 14 V.I. Code Ann. § 3,a. 14 v.i. code ann. § 3,Statute,state_statute,VI,1,1,1,2004,2004,false,unresolved
 A. 14 V.I.C. § 298,a. 14 v.i.c. § 298,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
@@ -2401,7 +2292,6 @@ A. V.I. Code Ann. tit. 5 § 3637,a. v.i. code ann. tit. 5 § 3637,Statute,state_
 A.C.A § 9-9-506,a.c.a § 9-9-506,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 ACTS 5 V.I.C. § 31,acts 5 v.i.c. § 31,Statute,state_statute,VI,1,1,1,1985,1985,true,exact
 AFFIRMED. V.I. Code Ann. tit. 33 § 43,affirmed. v.i. code ann. tit. 33 § 43,Statute,state_statute,VI,1,1,1,1989,1989,false,unresolved
-AGENCY § 49,agency § 49,Statute,state_statute,VI,1,1,1,2006,2006,false,unresolved
 ALASKA STAT. § 34.35.430,alaska stat. § 34.35.430,Statute,state_statute,VI,1,1,1,2023,2023,true,exact
 ALASKA Stat. § 25.20.060,alaska stat. § 25.20.060,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 AND Frvi.e 5 VLC. § 4981,and frvi.e 5 vlc. § 4981,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
@@ -2481,20 +2371,15 @@ District Court. 4 V.I.C. § 76,district court. 4 v.i.c. § 76,Statute,state_stat
 District Court.... Title 33 V.I.C. § 3203,district court.... title 33 v.i.c. § 3203,Statute,state_statute,VI,1,1,1,1995,1995,false,unresolved
 District of St. Thomas-St. John. V.I. Code Ann. tit. 19 § 243,district of st. thomas-st. john. v.i. code ann. tit. 19 § 243,Statute,state_statute,VI,1,1,1,2021,2021,false,unresolved
 E. 14 V.I.C. § 104,e. 14 v.i.c. § 104,Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
-"F. Supp. 2d 663, 671, 40 V.I. 241 (D.V.I. App. 1998). V.I. Code Ann. tit. 5 § 541","f. supp. 2d 663, 671, 40 v.i. 241 (d.v.i. app. 1998). v.i. code ann. tit. 5 § 541",Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
 FAA § 74a,faa § 74a,Statute,state_statute,VI,1,1,1,2005,2005,false,unresolved
 "FED. PROC., L. Ed. § 62:506","fed. proc., l. ed. § 62:506",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 FEES 5 V.I.C. § 541,fees 5 v.i.c. § 541,Statute,state_statute,VI,1,1,1,1985,1985,true,exact
 FLA. Stat. § 68.07,fla. stat. § 68.07,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 "Fed. PROC., L. Ed. § 62:509","fed. proc., l. ed. § 62:509",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-Fed. Proc. § 35.12,fed. proc. § 35.12,Statute,state_statute,VI,1,1,1,1983,1983,false,unresolved
-"Fed. Proc., L. Ed. § 62:498","fed. proc., l. ed. § 62:498",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-"Fed. Proc., L. Ed. § 62:508","fed. proc., l. ed. § 62:508",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 GA. CODE ANN. § 15-19-14,ga. code ann. § 15-19-14,Statute,state_statute,VI,1,1,1,2023,2023,true,exact
 GCE § 50,gce § 50,Statute,state_statute,VI,1,1,1,2025,2025,false,unresolved
 GRANTED. V.I. Code Ann. tit. 4 § 32,granted. v.i. code ann. tit. 4 § 32,Statute,state_statute,VI,1,1,1,2008,2008,false,unresolved
 HAW. REV. STAT. ANN. § 507-81,haw. rev. stat. ann. § 507-81,Statute,state_statute,VI,1,1,1,2023,2023,true,exact
-I. 5 V.I.C. § 1451,i. 5 v.i.c. § 1451,Statute,state_statute,VI,1,1,1,1992,1992,false,unresolved
 "I. tit. VIII, ch. IX § 215","i. tit. viii, ch. ix § 215",Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 I.C. § 365,i.c. § 365,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 I.C. § 379,i.c. § 379,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
@@ -2507,7 +2392,6 @@ IDAHO CODE § 32-705,idaho code § 32-705,Statute,state_statute,VI,1,1,1,1981,19
 II.C. V.I. Code Ann. tit. 1 § 4,ii.c. v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
 III. 5 V.I.C. § 3720,iii. 5 v.i.c. § 3720,Statute,state_statute,VI,1,1,1,1984,1984,true,exact
 "III. CONST, art. 1 § 9","iii. const, art. 1 § 9",Statute,state_statute,VI,1,1,1,2009,2009,true,exact
-III. Title 5 V.I.C. § 31,iii. title 5 v.i.c. § 31,Statute,state_statute,VI,1,1,1,1999,1999,false,unresolved
 III. § 1451,iii. § 1451,Statute,state_statute,VI,1,1,1,1992,1992,false,unresolved
 IND. ANN. STAT. § 9-1706a,ind. ann. stat. § 9-1706a,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 IND. CODE Ann. § 35-48-4-15,ind. code ann. § 35-48-4-15,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
@@ -2525,7 +2409,6 @@ L. 2006. 12A V.I.C. § 110,l. 2006. 12a v.i.c. § 110,Statute,state_statute,VI,1
 L. PROD. Liab. § 32:30,l. prod. liab. § 32:30,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 L. PROD. Liab. § 32:39,l. prod. liab. § 32:39,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 LA. STAT. ANN. § 9:5001,la. stat. ann. § 9:5001,Statute,state_statute,VI,1,1,1,2023,2023,true,exact
-LAW OF TRUSTS § 152,law of trusts § 152,Statute,state_statute,VI,1,1,1,2001,2001,false,unresolved
 LAW § 22.04,law § 22.04,Statute,state_statute,VI,1,1,1,1982,1982,false,unresolved
 LAW § 71:43,law § 71:43,Statute,state_statute,VI,1,1,1,1982,1982,false,unresolved
 LAW § 72.11,law § 72.11,Statute,state_statute,VI,1,1,1,2003,2003,false,unresolved
@@ -2543,8 +2426,6 @@ NPCA. V.I. CODE Ann. tit. 19 § 2045,npca. v.i. code ann. tit. 19 § 2045,Statut
 O.R.S. § 107.135,o.r.s. § 107.135,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 OF FACTS 3d 493 § 27,of facts 3d 493 § 27,Statute,state_statute,VI,1,1,1,2013,2013,false,unresolved
 OF LAW 1. V.I. Code Ann. Tit. 1 § 4,of law 1. v.i. code ann. tit. 1 § 4,Statute,state_statute,VI,1,1,1,2001,2001,false,unresolved
-OF LAWS § 32,of laws § 32,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
-OF LAWS § 7,of laws § 7,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
 OF THE UNITED STATES § 835,of the united states § 835,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 OHIO Rev. Code Ann. § 1345.01,ohio rev. code ann. § 1345.01,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
 OKLA. STAT. tit. 5 § 6,okla. stat. tit. 5 § 6,Statute,state_statute,VI,1,1,1,2023,2023,false,unresolved
@@ -2633,6 +2514,7 @@ Tit. 33 V.I.C. § 2305,tit. 33 v.i.c. § 2305,Statute,state_statute,VI,1,1,1,199
 Tit. 33 V.I.C. § 3409,tit. 33 v.i.c. § 3409,Statute,state_statute,VI,1,1,1,1992,1992,true,exact
 Tit. 4 V.I.C. § 76,tit. 4 v.i.c. § 76,Statute,state_statute,VI,1,1,1,1990,1990,true,exact
 Tit. 4 V.I.C. § 83,tit. 4 v.i.c. § 83,Statute,state_statute,VI,1,1,1,1990,1990,true,exact
+Tit. 9 V.I.C. § 182,tit. 9 v.i.c. § 182,Statute,state_statute,VI,1,1,1,1992,1992,true,exact
 Title 1 V.I. CODE Ann. § 4,title 1 v.i. code ann. § 4,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 Title 1 V.I.C. § 44,title 1 v.i.c. § 44,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 "Title 1, V.I.Code Ann. § 4","title 1, v.i.code ann. § 4",Statute,state_statute,VI,1,1,1,2006,2006,false,unresolved
@@ -2716,6 +2598,7 @@ Title 20 V.I.C. § 497a,title 20 v.i.c. § 497a,Statute,state_statute,VI,1,1,1,1
 Title 20 V.I.C. § 541,title 20 v.i.c. § 541,Statute,state_statute,VI,1,1,1,1977,1977,true,exact
 Title 20 V.I.C. § 703,title 20 v.i.c. § 703,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
 Title 20 V.I.C. § 800,title 20 v.i.c. § 800,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
+Title 21 V.I.C. § 101,title 21 v.i.c. § 101,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 Title 23 V.I.C. § 453,title 23 v.i.c. § 453,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 Title 23 V.I.C. § 454,title 23 v.i.c. § 454,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 Title 23 V.I.C. § 460,title 23 v.i.c. § 460,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
@@ -2781,6 +2664,7 @@ Title 3. 3 V.I.C. § 701,title 3. 3 v.i.c. § 701,Statute,state_statute,VI,1,1,1
 Title 30 V.I.C. § 122,title 30 v.i.c. § 122,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 Title 30 V.I.C. § 29,title 30 v.i.c. § 29,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 Title 31 V.I. CODE Ann. § 23,title 31 v.i. code ann. § 23,Statute,state_statute,VI,1,1,1,2006,2006,false,unresolved
+Title 33 V.I. Code § 2305,title 33 v.i. code § 2305,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 Title 33 V.I.C § 25,title 33 v.i.c § 25,Statute,state_statute,VI,1,1,1,1979,1979,true,exact
 Title 33 V.I.C. § 1,title 33 v.i.c. § 1,Statute,state_statute,VI,1,1,1,1983,1983,true,exact
 Title 33 V.I.C. § 2413,title 33 v.i.c. § 2413,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
@@ -2796,7 +2680,6 @@ Title 4 V.I.C. § 123,title 4 v.i.c. § 123,Statute,state_statute,VI,1,1,1,2025,
 Title 4 V.I.C. § 244,title 4 v.i.c. § 244,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 Title 4 V.I.C. § 281,title 4 v.i.c. § 281,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 Title 4 V.I.C. § 281-82,title 4 v.i.c. § 281-82,Statute,state_statute,VI,1,1,1,2004,2004,false,unresolved
-Title 4 V.I.C. § 472,title 4 v.i.c. § 472,Statute,state_statute,VI,1,1,1,1997,1997,true,exact
 Title 4 V.I.C. § 71,title 4 v.i.c. § 71,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 Title 4 V.I.C. § 74,title 4 v.i.c. § 74,Statute,state_statute,VI,1,1,1,1978,1978,true,exact
 Title 5 V.I. CODE Ann. § 1301,title 5 v.i. code ann. § 1301,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
@@ -2822,6 +2705,7 @@ Title 5 V.I.C. § 427,title 5 v.i.c. § 427,Statute,state_statute,VI,1,1,1,1998,
 Title 5 V.I.C. § 4611,title 5 v.i.c. § 4611,Statute,state_statute,VI,1,1,1,1979,1979,true,exact
 Title 5 V.I.C. § 4612,title 5 v.i.c. § 4612,Statute,state_statute,VI,1,1,1,1979,1979,true,exact
 Title 5 V.I.C. § 4617,title 5 v.i.c. § 4617,Statute,state_statute,VI,1,1,1,1979,1979,true,exact
+Title 5 V.I.C. § 4901,title 5 v.i.c. § 4901,Statute,state_statute,VI,1,1,1,1978,1978,true,exact
 Title 5 V.I.C. § 4904,title 5 v.i.c. § 4904,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 Title 5 V.I.C. § 5,title 5 v.i.c. § 5,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 Title 5 V.ILC. § 541,title 5 v.ilc. § 541,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
@@ -2851,7 +2735,6 @@ V.I. CODE ANN. tit. 13 § 285,v.i. code ann. tit. 13 § 285,Statute,state_statut
 V.I. CODE ANN. tit. 14 § 1091,v.i. code ann. tit. 14 § 1091,Statute,state_statute,VI,1,1,1,2001,2001,true,exact
 V.I. CODE ANN. tit. 14 § 1094,v.i. code ann. tit. 14 § 1094,Statute,state_statute,VI,1,1,1,2001,2001,true,exact
 V.I. CODE ANN. tit. 14 § 14,v.i. code ann. tit. 14 § 14,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
-V.I. CODE ANN. tit. 14 § 1700,v.i. code ann. tit. 14 § 1700,Statute,state_statute,VI,1,1,1,1997,1997,true,exact
 V.I. CODE ANN. tit. 14 § 1708,v.i. code ann. tit. 14 § 1708,Statute,state_statute,VI,1,1,1,2002,2002,true,exact
 V.I. CODE ANN. tit. 14 § 2101,v.i. code ann. tit. 14 § 2101,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. CODE ANN. tit. 14 § 2251,v.i. code ann. tit. 14 § 2251,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
@@ -2898,7 +2781,6 @@ V.I. CODE ANN. tit. 4 § 2,v.i. code ann. tit. 4 § 2,Statute,state_statute,VI,1
 V.I. CODE ANN. tit. 4 § 4911,v.i. code ann. tit. 4 § 4911,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 V.I. CODE ANN. tit. 4 § 53,v.i. code ann. tit. 4 § 53,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 V.I. CODE ANN. tit. 4 § 657,v.i. code ann. tit. 4 § 657,Statute,state_statute,VI,1,1,1,2008,2008,false,unresolved
-V.I. CODE ANN. tit. 4 § 83,v.i. code ann. tit. 4 § 83,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 V.I. CODE ANN. tit. 5 § 1261,v.i. code ann. tit. 5 § 1261,Statute,state_statute,VI,1,1,1,1984,1984,true,exact
 V.I. CODE ANN. tit. 5 § 1272,v.i. code ann. tit. 5 § 1272,Statute,state_statute,VI,1,1,1,1984,1984,true,exact
 V.I. CODE ANN. tit. 5 § 1301,v.i. code ann. tit. 5 § 1301,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
@@ -2910,7 +2792,6 @@ V.I. CODE ANN. tit. 5 § 4206,v.i. code ann. tit. 5 § 4206,Statute,state_statut
 V.I. CODE ANN. tit. 5 § 426,v.i. code ann. tit. 5 § 426,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. CODE ANN. tit. 5 § 496,v.i. code ann. tit. 5 § 496,Statute,state_statute,VI,1,1,1,2026,2026,true,exact
 V.I. CODE ANN. tit. 5 § 500,v.i. code ann. tit. 5 § 500,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
-V.I. CODE ANN. tit. 5 § 541,v.i. code ann. tit. 5 § 541,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 V.I. CODE ANN. tit. 5 § 711-956,v.i. code ann. tit. 5 § 711-956,Statute,state_statute,VI,1,1,1,2001,2001,false,unresolved
 V.I. CODE ANN. tit. 5 § 77,v.i. code ann. tit. 5 § 77,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 V.I. CODE ANN. tit. 5 § 771,v.i. code ann. tit. 5 § 771,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
@@ -2937,7 +2818,6 @@ V.I. CODE Ann. tit 4 § 33,v.i. code ann. tit 4 § 33,Statute,state_statute,VI,1
 V.I. CODE Ann. tit. 1 § 171,v.i. code ann. tit. 1 § 171,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. CODE Ann. tit. 1 § 45,v.i. code ann. tit. 1 § 45,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. CODE Ann. tit. 10 § 122,v.i. code ann. tit. 10 § 122,Statute,state_statute,VI,1,1,1,1992,1992,true,exact
-V.I. CODE Ann. tit. 11 § 951,v.i. code ann. tit. 11 § 951,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 V.I. CODE Ann. tit. 11A § 1-101,v.i. code ann. tit. 11a § 1-101,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 V.I. CODE Ann. tit. 11A § 2-313,v.i. code ann. tit. 11a § 2-313,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 V.I. CODE Ann. tit. 11A § 2A-101,v.i. code ann. tit. 11a § 2a-101,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
@@ -2990,6 +2870,7 @@ V.I. CODE Ann. tit. 24 § 292,v.i. code ann. tit. 24 § 292,Statute,state_statut
 V.I. CODE Ann. tit. 24 § 301,v.i. code ann. tit. 24 § 301,Statute,state_statute,VI,1,1,1,2001,2001,true,exact
 V.I. CODE Ann. tit. 24 § 361,v.i. code ann. tit. 24 § 361,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 V.I. CODE Ann. tit. 24 § 383,v.i. code ann. tit. 24 § 383,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
+V.I. CODE Ann. tit. 24 § 471,v.i. code ann. tit. 24 § 471,Statute,state_statute,VI,1,1,1,2004,2004,true,exact
 V.I. CODE Ann. tit. 24 § 61,v.i. code ann. tit. 24 § 61,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
 V.I. CODE Ann. tit. 24 § 71-76,v.i. code ann. tit. 24 § 71-76,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
 V.I. CODE Ann. tit. 24 § 76,v.i. code ann. tit. 24 § 76,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
@@ -2998,6 +2879,7 @@ V.I. CODE Ann. tit. 28 § 241,v.i. code ann. tit. 28 § 241,Statute,state_statut
 V.I. CODE Ann. tit. 28 § 281,v.i. code ann. tit. 28 § 281,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
 V.I. CODE Ann. tit. 28 § 292,v.i. code ann. tit. 28 § 292,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
 V.I. CODE Ann. tit. 28 § 41,v.i. code ann. tit. 28 § 41,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
+V.I. CODE Ann. tit. 28 § 451,v.i. code ann. tit. 28 § 451,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 V.I. CODE Ann. tit. 28 § 751,v.i. code ann. tit. 28 § 751,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 V.I. CODE Ann. tit. 28 § 752,v.i. code ann. tit. 28 § 752,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. CODE Ann. tit. 28 § 783,v.i. code ann. tit. 28 § 783,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
@@ -3014,6 +2896,8 @@ V.I. CODE Ann. tit. 30 § 103,v.i. code ann. tit. 30 § 103,Statute,state_statut
 V.I. CODE Ann. tit. 30 § 104,v.i. code ann. tit. 30 § 104,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. CODE Ann. tit. 30 § 105,v.i. code ann. tit. 30 § 105,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 V.I. CODE Ann. tit. 33 § 2305,v.i. code ann. tit. 33 § 2305,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
+V.I. CODE Ann. tit. 33 § 3408,v.i. code ann. tit. 33 § 3408,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
+V.I. CODE Ann. tit. 33 § 3414,v.i. code ann. tit. 33 § 3414,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 V.I. CODE Ann. tit. 33 § 43,v.i. code ann. tit. 33 § 43,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 V.I. CODE Ann. tit. 4 § 10,v.i. code ann. tit. 4 § 10,Statute,state_statute,VI,1,1,1,2007,2007,false,unresolved
 V.I. CODE Ann. tit. 4 § 23A,v.i. code ann. tit. 4 § 23a,Statute,state_statute,VI,1,1,1,2011,2011,false,unresolved
@@ -3032,6 +2916,7 @@ V.I. CODE Ann. tit. 5 § 2549,v.i. code ann. tit. 5 § 2549,Statute,state_statut
 V.I. CODE Ann. tit. 5 § 2554,v.i. code ann. tit. 5 § 2554,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. CODE Ann. tit. 5 § 3,v.i. code ann. tit. 5 § 3,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
 V.I. CODE Ann. tit. 5 § 32c,v.i. code ann. tit. 5 § 32c,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
+V.I. CODE Ann. tit. 5 § 3504a,v.i. code ann. tit. 5 § 3504a,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
 V.I. CODE Ann. tit. 5 § 3601,v.i. code ann. tit. 5 § 3601,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 V.I. CODE Ann. tit. 5 § 3637,v.i. code ann. tit. 5 § 3637,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
 V.I. CODE Ann. tit. 5 § 471,v.i. code ann. tit. 5 § 471,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
@@ -3061,6 +2946,8 @@ V.I. Code ANN. tit. 4 § 172,v.i. code ann. tit. 4 § 172,Statute,state_statute,
 V.I. Code ANN. tit. 5 § 1261,v.i. code ann. tit. 5 § 1261,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
 V.I. Code ANN. tit. 5 § 1272,v.i. code ann. tit. 5 § 1272,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
 V.I. Code ANN. tit. 5 § 32,v.i. code ann. tit. 5 § 32,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
+V.I. Code ANN. tit. 5 § 4905,v.i. code ann. tit. 5 § 4905,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
+V.I. Code ANN. tit. 5 § 553,v.i. code ann. tit. 5 § 553,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. Code AnN. tit. 14 § 1662,v.i. code ann. tit. 14 § 1662,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann tit. 11 § 951,v.i. code ann tit. 11 § 951,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann tit. 14 § 291,v.i. code ann tit. 14 § 291,Statute,state_statute,VI,1,1,1,1992,1992,true,exact
@@ -3104,9 +2991,9 @@ V.I. Code Ann. tit 15 § 13,v.i. code ann. tit 15 § 13,Statute,state_statute,VI
 V.I. Code Ann. tit 19. § 23,v.i. code ann. tit 19. § 23,Statute,state_statute,VI,1,1,1,1999,1999,false,unresolved
 V.I. Code Ann. tit 24 § 284,v.i. code ann. tit 24 § 284,Statute,state_statute,VI,1,1,1,2022,2022,true,exact
 V.I. Code Ann. tit 28 § 130,v.i. code ann. tit 28 § 130,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
+V.I. Code Ann. tit 28 § 258,v.i. code ann. tit 28 § 258,Statute,state_statute,VI,1,1,1,2013,2013,true,exact
 V.I. Code Ann. tit 4 § 24,v.i. code ann. tit 4 § 24,Statute,state_statute,VI,1,1,1,2008,2008,true,exact
 V.I. Code Ann. tit 4 § 31,v.i. code ann. tit 4 § 31,Statute,state_statute,VI,1,1,1,2017,2017,true,exact
-V.I. Code Ann. tit 4 § 33,v.i. code ann. tit 4 § 33,Statute,state_statute,VI,1,1,1,2014,2014,true,exact
 V.I. Code Ann. tit 4 § 33-40,v.i. code ann. tit 4 § 33-40,Statute,state_statute,VI,1,1,1,2008,2008,false,unresolved
 V.I. Code Ann. tit 4 § 72b,v.i. code ann. tit 4 § 72b,Statute,state_statute,VI,1,1,1,1999,1999,true,exact
 V.I. Code Ann. tit 4 § 76,v.i. code ann. tit 4 § 76,Statute,state_statute,VI,1,1,1,2015,2015,true,exact
@@ -3115,6 +3002,9 @@ V.I. Code Ann. tit. 1 § 171,v.i. code ann. tit. 1 § 171,Statute,state_statute,
 V.I. Code Ann. tit. 1 § 181,v.i. code ann. tit. 1 § 181,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. Code Ann. tit. 1 § 185,v.i. code ann. tit. 1 § 185,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. Code Ann. tit. 1 § 23A,v.i. code ann. tit. 1 § 23a,Statute,state_statute,VI,1,1,1,1989,1989,false,unresolved
+V.I. Code Ann. tit. 1 § 41,v.i. code ann. tit. 1 § 41,Statute,state_statute,VI,1,1,1,2005,2005,true,exact
+V.I. Code Ann. tit. 1 § 44,v.i. code ann. tit. 1 § 44,Statute,state_statute,VI,1,1,1,1978,1978,true,exact
+V.I. Code Ann. tit. 1 § 45,v.i. code ann. tit. 1 § 45,Statute,state_statute,VI,1,1,1,1978,1978,true,exact
 V.I. Code Ann. tit. 1 § 52,v.i. code ann. tit. 1 § 52,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 1 § 912,v.i. code ann. tit. 1 § 912,Statute,state_statute,VI,1,1,1,1995,1995,false,unresolved
 V.I. Code Ann. tit. 10 § 10-11,v.i. code ann. tit. 10 § 10-11,Statute,state_statute,VI,1,1,1,2009,2009,false,unresolved
@@ -3189,8 +3079,9 @@ V.I. Code Ann. tit. 15 § 161,v.i. code ann. tit. 15 § 161,Statute,state_statut
 V.I. Code Ann. tit. 15 § 3,v.i. code ann. tit. 15 § 3,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 15 § 429,v.i. code ann. tit. 15 § 429,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 15 § 492,v.i. code ann. tit. 15 § 492,Statute,state_statute,VI,1,1,1,1993,1993,true,exact
+V.I. Code Ann. tit. 15 § 801,v.i. code ann. tit. 15 § 801,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
+V.I. Code Ann. tit. 15 § 821,v.i. code ann. tit. 15 § 821,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 15 § 823,v.i. code ann. tit. 15 § 823,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
-V.I. Code Ann. tit. 15 § 824,v.i. code ann. tit. 15 § 824,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 16 § 117,v.i. code ann. tit. 16 § 117,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
 V.I. Code Ann. tit. 16 § 341,v.i. code ann. tit. 16 § 341,Statute,state_statute,VI,1,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 16 § 461,v.i. code ann. tit. 16 § 461,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
@@ -3220,7 +3111,6 @@ V.I. Code Ann. tit. 2 § 111,v.i. code ann. tit. 2 § 111,Statute,state_statute,
 V.I. Code Ann. tit. 2 § 251,v.i. code ann. tit. 2 § 251,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. Code Ann. tit. 2 § 253,v.i. code ann. tit. 2 § 253,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. Code Ann. tit. 2 § 255,v.i. code ann. tit. 2 § 255,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
-V.I. Code Ann. tit. 20 § 1,v.i. code ann. tit. 20 § 1,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 20 § 215,v.i. code ann. tit. 20 § 215,Statute,state_statute,VI,1,1,1,2009,2009,true,exact
 V.I. Code Ann. tit. 20 § 301,v.i. code ann. tit. 20 § 301,Statute,state_statute,VI,1,1,1,1990,1990,false,unresolved
 V.I. Code Ann. tit. 20 § 492,v.i. code ann. tit. 20 § 492,Statute,state_statute,VI,1,1,1,2006,2006,true,exact
@@ -3259,6 +3149,7 @@ V.I. Code Ann. tit. 24 § 371,v.i. code ann. tit. 24 § 371,Statute,state_statut
 V.I. Code Ann. tit. 24 § 375,v.i. code ann. tit. 24 § 375,Statute,state_statute,VI,1,1,1,1986,1986,true,exact
 V.I. Code Ann. tit. 24 § 376,v.i. code ann. tit. 24 § 376,Statute,state_statute,VI,1,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 24 § 453,v.i. code ann. tit. 24 § 453,Statute,state_statute,VI,1,1,1,1976,1976,true,exact
+V.I. Code Ann. tit. 24 § 6,v.i. code ann. tit. 24 § 6,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. Code Ann. tit. 24 § 61-79,v.i. code ann. tit. 24 § 61-79,Statute,state_statute,VI,1,1,1,1995,1995,false,unresolved
 V.I. Code Ann. tit. 24 § 65,v.i. code ann. tit. 24 § 65,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 24 § 77-78,v.i. code ann. tit. 24 § 77-78,Statute,state_statute,VI,1,1,1,1990,1990,false,unresolved
@@ -3297,6 +3188,7 @@ V.I. Code Ann. tit. 28 § 466,v.i. code ann. tit. 28 § 466,Statute,state_statut
 V.I. Code Ann. tit. 28 § 468,v.i. code ann. tit. 28 § 468,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 471,v.i. code ann. tit. 28 § 471,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 473,v.i. code ann. tit. 28 § 473,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
+V.I. Code Ann. tit. 28 § 475,v.i. code ann. tit. 28 § 475,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 476,v.i. code ann. tit. 28 § 476,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 477,v.i. code ann. tit. 28 § 477,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 28 § 531,v.i. code ann. tit. 28 § 531,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
@@ -3332,9 +3224,9 @@ V.I. Code Ann. tit. 3 § 723,v.i. code ann. tit. 3 § 723,Statute,state_statute,
 V.I. Code Ann. tit. 3 § 724,v.i. code ann. tit. 3 § 724,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 3 § 730,v.i. code ann. tit. 3 § 730,Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 V.I. Code Ann. tit. 3 § 911,v.i. code ann. tit. 3 § 911,Statute,state_statute,VI,1,1,1,2022,2022,true,exact
+V.I. Code Ann. tit. 3 § 912,v.i. code ann. tit. 3 § 912,Statute,state_statute,VI,1,1,1,1998,1998,true,exact
 "V.I. Code Ann. tit. 3, ch. 8 § 115","v.i. code ann. tit. 3, ch. 8 § 115",Statute,state_statute,VI,1,1,1,1993,1993,false,unresolved
 V.I. Code Ann. tit. 30 § 104,v.i. code ann. tit. 30 § 104,Statute,state_statute,VI,1,1,1,1995,1995,true,exact
-V.I. Code Ann. tit. 30 § 111,v.i. code ann. tit. 30 § 111,Statute,state_statute,VI,1,1,1,2025,2025,true,exact
 V.I. Code Ann. tit. 30 § 116,v.i. code ann. tit. 30 § 116,Statute,state_statute,VI,1,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 30 § 33,v.i. code ann. tit. 30 § 33,Statute,state_statute,VI,1,1,1,1989,1989,true,exact
 V.I. Code Ann. tit. 30 § 34,v.i. code ann. tit. 30 § 34,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
@@ -3345,6 +3237,7 @@ V.I. Code Ann. tit. 32 § 243,v.i. code ann. tit. 32 § 243,Statute,state_statut
 V.I. Code Ann. tit. 33 § 1-4001,v.i. code ann. tit. 33 § 1-4001,Statute,state_statute,VI,1,1,1,1986,1986,false,unresolved
 V.I. Code Ann. tit. 33 § 1161,v.i. code ann. tit. 33 § 1161,Statute,state_statute,VI,1,1,1,2020,2020,true,exact
 V.I. Code Ann. tit. 33 § 1163,v.i. code ann. tit. 33 § 1163,Statute,state_statute,VI,1,1,1,2020,2020,true,exact
+V.I. Code Ann. tit. 33 § 122,v.i. code ann. tit. 33 § 122,Statute,state_statute,VI,1,1,1,1997,1997,true,exact
 V.I. Code Ann. tit. 33 § 1524,v.i. code ann. tit. 33 § 1524,Statute,state_statute,VI,1,1,1,2020,2020,true,exact
 V.I. Code Ann. tit. 33 § 1692.18,v.i. code ann. tit. 33 § 1692.18,Statute,state_statute,VI,1,1,1,2023,2023,false,unresolved
 V.I. Code Ann. tit. 33 § 1731-85,v.i. code ann. tit. 33 § 1731-85,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
@@ -3357,7 +3250,6 @@ V.I. Code Ann. tit. 33 § 3415,v.i. code ann. tit. 33 § 3415,Statute,state_stat
 V.I. Code Ann. tit. 33 § 3417,v.i. code ann. tit. 33 § 3417,Statute,state_statute,VI,1,1,1,2018,2018,true,exact
 V.I. Code Ann. tit. 33 § 525-32,v.i. code ann. tit. 33 § 525-32,Statute,state_statute,VI,1,1,1,1994,1994,false,unresolved
 V.I. Code Ann. tit. 33 § 581,v.i. code ann. tit. 33 § 581,Statute,state_statute,VI,1,1,1,1993,1993,true,exact
-V.I. Code Ann. tit. 33 § 942,v.i. code ann. tit. 33 § 942,Statute,state_statute,VI,1,1,1,2019,2019,true,exact
 V.I. Code Ann. tit. 34 § 202,v.i. code ann. tit. 34 § 202,Statute,state_statute,VI,1,1,1,2002,2002,true,exact
 V.I. Code Ann. tit. 34 § 203,v.i. code ann. tit. 34 § 203,Statute,state_statute,VI,1,1,1,2012,2012,true,exact
 V.I. Code Ann. tit. 34 § 3410,v.i. code ann. tit. 34 § 3410,Statute,state_statute,VI,1,1,1,1998,1998,false,unresolved
@@ -3388,9 +3280,12 @@ V.I. Code Ann. tit. 5 App. V Rule 6,v.i. code ann. tit. 5 app. v rule 6,Statute,
 V.I. Code Ann. tit. 5 § 1268,v.i. code ann. tit. 5 § 1268,Statute,state_statute,VI,1,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 5 § 1269,v.i. code ann. tit. 5 § 1269,Statute,state_statute,VI,1,1,1,1999,1999,true,exact
 V.I. Code Ann. tit. 5 § 1301.4,v.i. code ann. tit. 5 § 1301.4,Statute,state_statute,VI,1,1,1,1980,1980,false,unresolved
+V.I. Code Ann. tit. 5 § 1305,v.i. code ann. tit. 5 § 1305,Statute,state_statute,VI,1,1,1,1978,1978,true,exact
 V.I. Code Ann. tit. 5 § 1314,v.i. code ann. tit. 5 § 1314,Statute,state_statute,VI,1,1,1,2021,2021,true,exact
 V.I. Code Ann. tit. 5 § 2,v.i. code ann. tit. 5 § 2,Statute,state_statute,VI,1,1,1,1990,1990,false,unresolved
+V.I. Code Ann. tit. 5 § 251,v.i. code ann. tit. 5 § 251,Statute,state_statute,VI,1,1,1,1998,1998,true,exact
 V.I. Code Ann. tit. 5 § 251-73,v.i. code ann. tit. 5 § 251-73,Statute,state_statute,VI,1,1,1,1998,1998,false,unresolved
+V.I. Code Ann. tit. 5 § 2533,v.i. code ann. tit. 5 § 2533,Statute,state_statute,VI,1,1,1,2007,2007,true,exact
 V.I. Code Ann. tit. 5 § 2536,v.i. code ann. tit. 5 § 2536,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. Code Ann. tit. 5 § 2544,v.i. code ann. tit. 5 § 2544,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 V.I. Code Ann. tit. 5 § 2550,v.i. code ann. tit. 5 § 2550,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
@@ -3398,7 +3293,6 @@ V.I. Code Ann. tit. 5 § 2574,v.i. code ann. tit. 5 § 2574,Statute,state_statut
 V.I. Code Ann. tit. 5 § 321,v.i. code ann. tit. 5 § 321,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 V.I. Code Ann. tit. 5 § 3524,v.i. code ann. tit. 5 § 3524,Statute,state_statute,VI,1,1,1,2021,2021,true,exact
 V.I. Code Ann. tit. 5 § 3541,v.i. code ann. tit. 5 § 3541,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
-V.I. Code Ann. tit. 5 § 36,v.i. code ann. tit. 5 § 36,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 5 § 3601,v.i. code ann. tit. 5 § 3601,Statute,state_statute,VI,1,1,1,2003,2003,true,exact
 V.I. Code Ann. tit. 5 § 3672,v.i. code ann. tit. 5 § 3672,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
 V.I. Code Ann. tit. 5 § 3721.2,v.i. code ann. tit. 5 § 3721.2,Statute,state_statute,VI,1,1,1,1995,1995,false,unresolved
@@ -3415,7 +3309,6 @@ V.I. Code Ann. tit. 5 § 497,v.i. code ann. tit. 5 § 497,Statute,state_statute,
 V.I. Code Ann. tit. 5 § 5,v.i. code ann. tit. 5 § 5,Statute,state_statute,VI,1,1,1,2021,2021,true,exact
 V.I. Code Ann. tit. 5 § 533,v.i. code ann. tit. 5 § 533,Statute,state_statute,VI,1,1,1,1997,1997,false,unresolved
 V.I. Code Ann. tit. 5 § 546,v.i. code ann. tit. 5 § 546,Statute,state_statute,VI,1,1,1,2000,2000,true,exact
-V.I. Code Ann. tit. 5 § 547,v.i. code ann. tit. 5 § 547,Statute,state_statute,VI,1,1,1,2016,2016,true,exact
 V.I. Code Ann. tit. 5 § 551,v.i. code ann. tit. 5 § 551,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. Code Ann. tit. 5 § 558,v.i. code ann. tit. 5 § 558,Statute,state_statute,VI,1,1,1,2011,2011,true,exact
 V.I. Code Ann. tit. 5 § 68,v.i. code ann. tit. 5 § 68,Statute,state_statute,VI,1,1,1,1995,1995,false,unresolved
@@ -3452,6 +3345,7 @@ V.I. Code Ann. § 79,v.i. code ann. § 79,Statute,state_statute,VI,1,1,1,2004,20
 "V.I. Code Ann., Tit. 27 § 166","v.i. code ann., tit. 27 § 166",Statute,state_statute,VI,1,1,1,2023,2023,true,exact
 "V.I. Code Ann., Tit. 33 § 3408","v.i. code ann., tit. 33 § 3408",Statute,state_statute,VI,1,1,1,2023,2023,true,exact
 "V.I. Code Ann., Tit. 33 § 3416","v.i. code ann., tit. 33 § 3416",Statute,state_statute,VI,1,1,1,2023,2023,true,exact
+"V.I. Code Ann., tit 5 § 3541","v.i. code ann., tit 5 § 3541",Statute,state_statute,VI,1,1,1,1994,1994,true,exact
 "V.I. Code Ann., tit. 10 § 64","v.i. code ann., tit. 10 § 64",Statute,state_statute,VI,1,1,1,1996,1996,true,exact
 "V.I. Code Ann., tit. 11 § 1501","v.i. code ann., tit. 11 § 1501",Statute,state_statute,VI,1,1,1,1996,1996,true,exact
 "V.I. Code Ann., tit. 11 § 1518","v.i. code ann., tit. 11 § 1518",Statute,state_statute,VI,1,1,1,1996,1996,true,exact
@@ -3566,7 +3460,6 @@ V.I. Sess.Laws No. 5045 § 1,v.i. sess.laws no. 5045 § 1,Statute,state_statute,
 V.I. Stat. Ann. tit. 1 § 4,v.i. stat. ann. tit. 1 § 4,Statute,state_statute,VI,1,1,1,1993,1993,false,unresolved
 V.I. Stat. Ann. tit. 17 § 60,v.i. stat. ann. tit. 17 § 60,Statute,state_statute,VI,1,1,1,1993,1993,false,unresolved
 V.I. Stat. Ann. tit. 17 § 61,v.i. stat. ann. tit. 17 § 61,Statute,state_statute,VI,1,1,1,1993,1993,false,unresolved
-"V.I. Tele. Corp.. 15 V.I. 214, 232 (V.I. Terr. Ct. 1978)). 5 V.I.C. § 31","v.i. tele. corp.. 15 v.i. 214, 232 (v.i. terr. ct. 1978)). 5 v.i.c. § 31",Statute,state_statute,VI,1,1,1,2017,2017,false,unresolved
 V.I. § 4501,v.i. § 4501,Statute,state_statute,VI,1,1,1,1975,1975,true,exact
 V.I. § 541,v.i. § 541,Statute,state_statute,VI,1,1,1,1999,1999,false,unresolved
 V.I. § 86,v.i. § 86,Statute,state_statute,VI,1,1,1,1945,1945,false,unresolved
@@ -3634,7 +3527,6 @@ V.LLC. § 42,v.llc. § 42,Statute,state_statute,VI,1,1,1,2025,2025,false,unresol
 VI. CODE Ann. tit. 1 § 5,vi. code ann. tit. 1 § 5,Statute,state_statute,VI,1,1,1,2014,2014,false,unresolved
 VI. CODE Ann. tit. 30 § 1-45a,vi. code ann. tit. 30 § 1-45a,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 VI. CODE Ann. tit. 5 § 4101,vi. code ann. tit. 5 § 4101,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
-"VI., 19 V.I. 180, 181 (D.V.I. 1982). 5 V.I.C. § 1421","vi., 19 v.i. 180, 181 (d.v.i. 1982). 5 v.i.c. § 1421",Statute,state_statute,VI,1,1,1,2016,2016,false,unresolved
 VIC. § 42,vic. § 42,Statute,state_statute,VI,1,1,1,2024,2024,false,unresolved
 VICLA. 28 V.I.C. § 276,vicla. 28 v.i.c. § 276,Statute,state_statute,VI,1,1,1,2010,2010,true,exact
 "VICRA, V.I. Code Ann. tit. 10 § 61","vicra, v.i. code ann. tit. 10 § 61",Statute,state_statute,VI,1,1,1,2012,2012,true,exact
@@ -3659,7 +3551,6 @@ WCA. V.I. CODE Ann. tit. 24 § 263,wca. v.i. code ann. tit. 24 § 263,Statute,st
 "WDA, V.I. Code Ann. tit. 24 § 76","wda, v.i. code ann. tit. 24 § 76",Statute,state_statute,VI,1,1,1,2020,2020,true,exact
 WDA. V.I. Code Ann. tit. 24 § 76-79,wda. v.i. code ann. tit. 24 § 76-79,Statute,state_statute,VI,1,1,1,2012,2012,false,unresolved
 WHO COMPLY WITH § 166a,who comply with § 166a,Statute,state_statute,VI,1,1,1,2004,2004,false,unresolved
-"WRIGHT & MILLER, 6 FED. PRAC. & PROC. Civ. § 1476","wright & miller, 6 fed. prac. & proc. civ. § 1476",Statute,state_statute,VI,1,1,1,2026,2026,false,unresolved
 WRIGHT AND MILLER. § 522,wright and miller. § 522,Statute,state_statute,VI,1,1,1,2002,2002,false,unresolved
 Y.I. CODE Ann. tit. 14 § 11,y.i. code ann. tit. 14 § 11,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved
 Y.I. CODE Ann. tit. 14 § 922,y.i. code ann. tit. 14 § 922,Statute,state_statute,VI,1,1,1,2010,2010,false,unresolved

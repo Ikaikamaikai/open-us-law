@@ -1,81 +1,87 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
+Alaska Stat. § 09.10.070,alaska stat. § 09.10.070,Statute,state_statute,AK,111,63,8,1979,2026,true,exact
+Alaska Stat. § 09.10.140,alaska stat. § 09.10.140,Statute,state_statute,AK,85,63,5,1970,2026,true,exact
 ICWA § 1912,icwa § 1912,Statute,state_statute,AK,79,32,10,1987,2025,false,unresolved
 Alaska Stat. § 11.41.270,alaska stat. § 11.41.270,Statute,state_statute,AK,73,73,4,2003,2022,true,exact
-90 Alaska Stat. § 09.10.070,90 alaska stat. § 09.10.070,Statute,state_statute,AK,63,63,1,2025,2025,false,unresolved
-94 Alaska Stat. § 09.10.140,94 alaska stat. § 09.10.140,Statute,state_statute,AK,63,63,1,2025,2025,false,unresolved
-Alaska Stat. § 12.63.010,alaska stat. § 12.63.010,Statute,state_statute,AK,58,43,22,1995,2021,true,exact
+Alaska Stat. § 12.63.010,alaska stat. § 12.63.010,Statute,state_statute,AK,59,43,22,1995,2021,true,exact
+Alaska Stat. § 11.81.900,alaska stat. § 11.81.900,Statute,state_statute,AK,47,38,18,1986,2026,true,exact
+Alaska Stat. § 45.50.471,alaska stat. § 45.50.471,Statute,state_statute,AK,47,31,17,1999,2026,true,exact
 ICWA § 1915,icwa § 1915,Statute,state_statute,AK,46,10,4,1986,2021,false,unresolved
-Alaska Stat. § 11.81.900,alaska stat. § 11.81.900,Statute,state_statute,AK,43,38,18,1986,2026,true,exact
 UCCJA § 2,uccja § 2,Statute,state_statute,AK,43,26,15,1979,2022,false,unresolved
-Alaska Stat. § 45.50.471,alaska stat. § 45.50.471,Statute,state_statute,AK,41,31,17,1999,2026,true,exact
-Alaska Stat. § 09.50.250,alaska stat. § 09.50.250,Statute,state_statute,AK,37,25,15,1977,2025,true,exact
-Alaska Stat. § 12.72.010,alaska stat. § 12.72.010,Statute,state_statute,AK,33,20,8,2009,2025,true,exact
+Alaska Stat. § 09.50.250,alaska stat. § 09.50.250,Statute,state_statute,AK,40,25,15,1975,2025,true,exact
+Alaska Stat. § 12.72.010,alaska stat. § 12.72.010,Statute,state_statute,AK,34,20,8,2009,2025,true,exact
+Alaska Stat. § 12.72.020,alaska stat. § 12.72.020,Statute,state_statute,AK,33,19,10,2004,2024,true,exact
 Alaska Stat. § 18.65.087,alaska stat. § 18.65.087,Statute,state_statute,AK,33,27,15,1995,2021,true,exact
-Alaska Stat. § 12.72.020,alaska stat. § 12.72.020,Statute,state_statute,AK,31,19,10,2004,2024,true,exact
+Alaska Stat. § 28.35.030,alaska stat. § 28.35.030,Statute,state_statute,AK,31,20,12,1984,2022,true,exact
+Alaska Stat. § 09.17.020,alaska stat. § 09.17.020,Statute,state_statute,AK,30,19,11,1991,2026,true,exact
 Alaska Stat. § 12.55.125,alaska stat. § 12.55.125,Statute,state_statute,AK,30,28,16,1984,2026,true,exact
-Alaska Stat. § 28.35.030,alaska stat. § 28.35.030,Statute,state_statute,AK,30,20,12,1984,2022,true,exact
 Alaska Stat. § 15.13.400,alaska stat. § 15.13.400,Statute,state_statute,AK,29,8,2,2003,2024,true,exact
 SCC § 15.10.140,scc § 15.10.140,Statute,state_statute,AK,27,1,1,2007,2007,false,unresolved
-Alaska Stat. § 09.10.070,alaska stat. § 09.10.070,Statute,state_statute,AK,26,23,8,1979,2026,true,exact
+Alaska Stat. § 04.11.360,alaska stat. § 04.11.360,Statute,state_statute,AK,26,8,2,1983,2018,true,exact
 Alaska Stat. § 11.41.436,alaska stat. § 11.41.436,Statute,state_statute,AK,26,20,8,1992,2024,true,exact
-Alaska Stat. § 09.17.020,alaska stat. § 09.17.020,Statute,state_statute,AK,24,19,11,1991,2018,true,exact
+Alaska Stat. § 47.10.080,alaska stat. § 47.10.080,Statute,state_statute,AK,26,16,12,1974,2025,true,exact
 Alaska Stat. § 09.17.080,alaska stat. § 09.17.080,Statute,state_statute,AK,24,19,10,1992,2025,true,exact
-Alaska Stat. § 04.11.360,alaska stat. § 04.11.360,Statute,state_statute,AK,23,8,2,1983,2018,true,exact
+Alaska Stat. § 09.55.580,alaska stat. § 09.55.580,Statute,state_statute,AK,24,16,8,1983,2024,true,exact
 Alaska Stat. § 11.41.434,alaska stat. § 11.41.434,Statute,state_statute,AK,22,19,7,1990,2019,true,exact
 Alaska Stat. § 09.05.015,alaska stat. § 09.05.015,Statute,state_statute,AK,21,9,5,1981,2024,true,exact
+Alaska Stat. § 12.63.020,alaska stat. § 12.63.020,Statute,state_statute,AK,21,13,8,2001,2017,true,exact
+Alaska Stat. § 15.13.040,alaska stat. § 15.13.040,Statute,state_statute,AK,21,5,3,1976,2024,true,exact
+Alaska Stat. § 45.50.531,alaska stat. § 45.50.531,Statute,state_statute,AK,21,14,11,1997,2026,true,exact
 Alaska Stat. § 18.80.240,alaska stat. § 18.80.240,Statute,state_statute,AK,20,6,2,1996,2000,true,exact
-Alaska Stat. § 09.55.580,alaska stat. § 09.55.580,Statute,state_statute,AK,19,16,8,1983,2024,true,exact
-Alaska Stat. § 12.63.020,alaska stat. § 12.63.020,Statute,state_statute,AK,19,13,8,2001,2017,true,exact
-Alaska Stat. § 15.13.040,alaska stat. § 15.13.040,Statute,state_statute,AK,19,5,3,1976,2024,true,exact
 Alaska Stat. 15.13.070,alaska stat. 15.13.070,Statute,state_statute,AK,18,1,1,2016,2016,true,exact
+Alaska Stat. § 15.13.074,alaska stat. § 15.13.074,Statute,state_statute,AK,18,8,3,2003,2019,true,exact
+Alaska Stat. § 11.61.200,alaska stat. § 11.61.200,Statute,state_statute,AK,17,8,4,1989,2025,true,exact
+Alaska Stat. § 12.63.100,alaska stat. § 12.63.100,Statute,state_statute,AK,17,12,5,1999,2015,true,exact
 Alaska Stat. § 15.13.070,alaska stat. § 15.13.070,Statute,state_statute,AK,17,5,3,1998,2019,true,exact
-Alaska Stat. § 15.13.074,alaska stat. § 15.13.074,Statute,state_statute,AK,17,8,3,2003,2019,true,exact
 Alaska Stat. § 23.30.265,alaska stat. § 23.30.265,Statute,state_statute,AK,17,14,10,1978,2022,false,unresolved
-Alaska Stat. § 45.50.531,alaska stat. § 45.50.531,Statute,state_statute,AK,17,14,11,1997,2026,true,exact
 AMC § 09.28.023,amc § 09.28.023,Statute,state_statute,AK,16,3,1,1988,1988,false,unresolved
+Alaska Stat. § 09.50.253,alaska stat. § 09.50.253,Statute,state_statute,AK,16,4,2,2014,2024,true,exact
 Alaska Stat. § 11.41.410,alaska stat. § 11.41.410,Statute,state_statute,AK,16,13,6,1981,2026,true,exact
-Alaska Stat. § 47.10.080,alaska stat. § 47.10.080,Statute,state_statute,AK,16,16,12,1974,2025,true,exact
-Alaska Stat. § 11.61.200,alaska stat. § 11.61.200,Statute,state_statute,AK,15,8,4,1989,2021,true,exact
-Alaska Stat. § 12.63.100,alaska stat. § 12.63.100,Statute,state_statute,AK,15,12,5,1999,2015,true,exact
 Alaska Stat. § 18.65.700,alaska stat. § 18.65.700,Statute,state_statute,AK,15,14,6,1995,2025,true,exact
 GAABC § 21-7,gaabc § 21-7,Statute,state_statute,AK,15,2,1,2002,2002,false,unresolved
 Alaska IRA § 1,alaska ira § 1,Statute,state_statute,AK,14,1,1,2024,2024,false,unresolved
 Alaska Stat. 15.13.072,alaska stat. 15.13.072,Statute,state_statute,AK,14,1,1,2016,2016,true,exact
-Alaska Stat. § 09.50.253,alaska stat. § 09.50.253,Statute,state_statute,AK,14,4,2,2014,2024,true,exact
 Alaska Stat. § 15.13.135,alaska stat. § 15.13.135,Statute,state_statute,AK,14,4,1,2003,2006,true,exact
+Alaska Stat. § 18.80.220,alaska stat. § 18.80.220,Statute,state_statute,AK,14,12,5,1979,2023,true,exact
 Alaska Stat. § 46.03.750,alaska stat. § 46.03.750,Statute,state_statute,AK,14,2,1,1984,1984,true,exact
 KPC § 20.16.170,kpc § 20.16.170,Statute,state_statute,AK,14,2,1,1981,1981,false,unresolved
 SLA § 1,sla § 1,Statute,state_statute,AK,14,4,1,1972,1976,false,unresolved
 UPC § 3-803,upc § 3-803,Statute,state_statute,AK,14,6,6,1996,2023,false,unresolved
+Alaska Stat. § 09.10.053,alaska stat. § 09.10.053,Statute,state_statute,AK,13,12,4,2006,2025,true,exact
 Alaska Stat. § 09.10.055,alaska stat. § 09.10.055,Statute,state_statute,AK,13,5,4,1972,2001,true,exact
 Alaska Stat. § 11.46.660,alaska stat. § 11.46.660,Statute,state_statute,AK,13,3,2,1992,2004,true,exact
 Alaska Stat. § 16.05.940,alaska stat. § 16.05.940,Statute,state_statute,AK,13,10,3,1988,2025,true,exact
-Alaska Stat. § 18.80.220,alaska stat. § 18.80.220,Statute,state_statute,AK,13,12,5,1979,2013,true,exact
 Alaska Stat. § 25.24.150,alaska stat. § 25.24.150,Statute,state_statute,AK,13,9,6,1995,2022,true,exact
-Alaska Stat. § 09.10.053,alaska stat. § 09.10.053,Statute,state_statute,AK,12,12,4,2006,2025,true,exact
+Alaska Stat. § 11.41.200,alaska stat. § 11.41.200,Statute,state_statute,AK,12,7,4,1987,2025,true,exact
+Alaska Stat. § 15.13.090,alaska stat. § 15.13.090,Statute,state_statute,AK,12,3,1,2006,2024,true,exact
+Alaska Stat. § 16.05.255,alaska stat. § 16.05.255,Statute,state_statute,AK,12,6,4,2005,2023,true,exact
+Alaska Stat. § 22.05.010,alaska stat. § 22.05.010,Statute,state_statute,AK,12,7,2,2009,2024,true,exact
 Alaska Stat. § 23.30.190,alaska stat. § 23.30.190,Statute,state_statute,AK,12,6,5,1995,2020,true,exact
 Alaska Stat. § 43.23.045,alaska stat. § 43.23.045,Statute,state_statute,AK,12,3,2,1985,1994,true,exact
+Alaska Stat. § 47.10.142,alaska stat. § 47.10.142,Statute,state_statute,AK,12,4,3,1994,2023,true,exact
 Alaska Statutes § 22.05.010,alaska statutes § 22.05.010,Statute,state_statute,AK,12,12,1,2022,2025,true,exact
 Alaska Statutes § 22.07.020,alaska statutes § 22.07.020,Statute,state_statute,AK,12,12,1,2022,2025,true,exact
 Alaska Statutes § 22.07.030,alaska statutes § 22.07.030,Statute,state_statute,AK,12,12,1,2022,2025,true,exact
 AMC § 9.28.020,amc § 9.28.020,Statute,state_statute,AK,11,4,1,1985,2004,false,unresolved
-Alaska Stat. § 11.41.200,alaska stat. § 11.41.200,Statute,state_statute,AK,11,7,4,1987,2025,true,exact
+Alaska Stat. § 06.60.340,alaska stat. § 06.60.340,Statute,state_statute,AK,11,1,1,2025,2025,true,exact
+Alaska Stat. § 11.41.120,alaska stat. § 11.41.120,Statute,state_statute,AK,11,8,6,1983,2019,true,exact
 Alaska Stat. § 12.45.045,alaska stat. § 12.45.045,Statute,state_statute,AK,11,11,7,1988,2017,true,exact
 Alaska Stat. § 12.55.155,alaska stat. § 12.55.155,Statute,state_statute,AK,11,10,6,1982,2023,true,exact
-Alaska Stat. § 15.13.090,alaska stat. § 15.13.090,Statute,state_statute,AK,11,3,1,2006,2024,true,exact
+Alaska Stat. § 17.37.010,alaska stat. § 17.37.010,Statute,state_statute,AK,11,10,5,2005,2018,true,exact
+Alaska Stat. § 22.07.020,alaska stat. § 22.07.020,Statute,state_statute,AK,11,6,1,2023,2024,true,exact
 Alaska Stat. § 22.07.030,alaska stat. § 22.07.030,Statute,state_statute,AK,11,6,1,2023,2024,true,exact
 Alaska Stat. § 34.03.100,alaska stat. § 34.03.100,Statute,state_statute,AK,11,5,2,2007,2022,true,exact
+Alaska Statute § 09.10.070,alaska statute § 09.10.070,Statute,state_statute,AK,11,2,1,2022,2025,true,exact
 FLA. STAT. § 390.01114,fla. stat. § 390.01114,Statute,state_statute,AK,11,2,1,2007,2016,true,exact
 UVC § 11-604,uvc § 11-604,Statute,state_statute,AK,11,5,3,1965,2019,false,unresolved
 ANILCA § 803,anilca § 803,Statute,state_statute,AK,10,7,3,1987,1995,false,unresolved
 Alaska Stat. Ann. § 12.55.125,alaska stat. ann. § 12.55.125,Statute,state_statute,AK,10,8,4,1999,2024,true,exact
-Alaska Stat. § 09.10.140,alaska stat. § 09.10.140,Statute,state_statute,AK,10,7,5,1970,2025,true,exact
-Alaska Stat. § 11.41.120,alaska stat. § 11.41.120,Statute,state_statute,AK,10,8,6,1987,2019,true,exact
+Alaska Stat. § 09.55.540,alaska stat. § 09.55.540,Statute,state_statute,AK,10,6,4,1980,2023,true,exact
 Alaska Stat. § 11.46.310,alaska stat. § 11.46.310,Statute,state_statute,AK,10,9,8,1987,2019,true,exact
 Alaska Stat. § 11.56.840,alaska stat. § 11.56.840,Statute,state_statute,AK,10,10,6,2005,2016,true,exact
 Alaska Stat. § 11.61.127,alaska stat. § 11.61.127,Statute,state_statute,AK,10,10,6,2001,2024,true,exact
+Alaska Stat. § 12.40.110,alaska stat. § 12.40.110,Statute,state_statute,AK,10,5,3,1990,2013,true,exact
 Alaska Stat. § 12.45.020,alaska stat. § 12.45.020,Statute,state_statute,AK,10,10,3,1977,2024,true,exact
-Alaska Stat. § 17.37.010,alaska stat. § 17.37.010,Statute,state_statute,AK,10,10,5,2005,2018,true,exact
 Alaska Stat. § 34.20.160,alaska stat. § 34.20.160,Statute,state_statute,AK,10,1,1,1991,1991,true,exact
 LAWS § 34-23A-7,laws § 34-23a-7,Statute,state_statute,AK,10,2,1,2007,2016,false,unresolved
 UVCA § 15-101,uvca § 15-101,Statute,state_statute,AK,10,2,1,1981,1981,false,unresolved
@@ -87,10 +93,10 @@ Alaska Stat. § 11.41.445,alaska stat. § 11.41.445,Statute,state_statute,AK,9,7
 Alaska Stat. § 11.41.455,alaska stat. § 11.41.455,Statute,state_statute,AK,9,8,4,1994,2019,true,exact
 Alaska Stat. § 11.56.835,alaska stat. § 11.56.835,Statute,state_statute,AK,9,7,5,2005,2010,true,exact
 Alaska Stat. § 12.35.015,alaska stat. § 12.35.015,Statute,state_statute,AK,9,6,4,2000,2019,true,exact
-Alaska Stat. § 16.05.255,alaska stat. § 16.05.255,Statute,state_statute,AK,9,6,4,2005,2023,true,exact
 Alaska Stat. § 23.30.205,alaska stat. § 23.30.205,Statute,state_statute,AK,9,5,2,1997,2018,true,exact
 Alaska Stat. § 23.40.200,alaska stat. § 23.40.200,Statute,state_statute,AK,9,5,4,1974,1998,true,exact
 Alaska Stat. § 28.20.440,alaska stat. § 28.20.440,Statute,state_statute,AK,9,9,5,1989,2024,true,exact
+Alaska Stat. § 28.20.445,alaska stat. § 28.20.445,Statute,state_statute,AK,9,8,6,1989,2022,true,exact
 Alaska Stat. § 28.35.031,alaska stat. § 28.35.031,Statute,state_statute,AK,9,7,5,1979,2000,true,exact
 Alaska Stat. § 29.89.050,alaska stat. § 29.89.050,Statute,state_statute,AK,9,7,1,1989,1994,false,unresolved
 Alaska Statute § 21.96.100,alaska statute § 21.96.100,Statute,state_statute,AK,9,2,1,2014,2016,true,exact
@@ -101,15 +107,16 @@ Municipal Code (AMC) § 09.28.020,municipal code (amc) § 09.28.020,Statute,stat
 SPMC § 2.30.010,spmc § 2.30.010,Statute,state_statute,AK,9,1,1,1998,1998,false,unresolved
 AMC § 25.30.080,amc § 25.30.080,Statute,state_statute,AK,8,1,1,1985,1985,false,unresolved
 AMC § 6.10.050,amc § 6.10.050,Statute,state_statute,AK,8,2,1,2001,2001,false,unresolved
+Alaska Stat. § 09.30.070,alaska stat. § 09.30.070,Statute,state_statute,AK,8,7,3,2002,2022,true,exact
 Alaska Stat. § 10.06.960,alaska stat. § 10.06.960,Statute,state_statute,AK,8,4,1,1996,2008,true,exact
 Alaska Stat. § 11.41.300,alaska stat. § 11.41.300,Statute,state_statute,AK,8,7,6,1995,2019,true,exact
 Alaska Stat. § 11.61.220,alaska stat. § 11.61.220,Statute,state_statute,AK,8,7,2,2015,2017,true,exact
 Alaska Stat. § 12.25.150,alaska stat. § 12.25.150,Statute,state_statute,AK,8,8,5,1987,2019,true,exact
-Alaska Stat. § 12.40.110,alaska stat. § 12.40.110,Statute,state_statute,AK,8,5,3,1990,2013,true,exact
+Alaska Stat. § 21.36.125,alaska stat. § 21.36.125,Statute,state_statute,AK,8,6,4,1998,2025,true,exact
 Alaska Stat. § 22.30.011,alaska stat. § 22.30.011,Statute,state_statute,AK,8,2,1,2007,2007,true,exact
-Alaska Stat. § 28.20.445,alaska stat. § 28.20.445,Statute,state_statute,AK,8,8,6,1989,2022,true,exact
 Alaska Stat. § 43.56.010,alaska stat. § 43.56.010,Statute,state_statute,AK,8,3,1,2009,2009,true,exact
 Alaska Stat. § 45.50.561,alaska stat. § 45.50.561,Statute,state_statute,AK,8,7,5,2014,2026,true,exact
+Alaska Stat. § 46.03.822,alaska stat. § 46.03.822,Statute,state_statute,AK,8,6,2,1994,2002,true,exact
 Alaska Statute § 22.35.030,alaska statute § 22.35.030,Statute,state_statute,AK,8,8,1,2025,2025,true,exact
 Alaska Statutes § 15.13.400,alaska statutes § 15.13.400,Statute,state_statute,AK,8,2,1,2003,2003,true,exact
 LAW § 14.4,law § 14.4,Statute,state_statute,AK,8,7,5,2001,2021,false,unresolved
@@ -122,23 +129,30 @@ ACLA § 66-18-18,acla § 66-18-18,Statute,state_statute,AK,7,1,1,2003,2003,false
 ARCP 90.2,arcp 90.2,Statute,state_statute,AK,7,3,2,1998,2021,false,unresolved
 Alaska Alaska Stat. § 09.17.020,alaska alaska stat. § 09.17.020,Statute,state_statute,AK,7,4,2,2004,2014,true,exact
 Alaska R.Admin. P. 12,alaska r.admin. p. 12,Statute,state_statute,AK,7,5,1,1986,1995,false,unresolved
+Alaska Stat. Ann. § 09.17.020,alaska stat. ann. § 09.17.020,Statute,state_statute,AK,7,6,3,1991,2021,true,exact
 Alaska Stat. Ann. § 11.81.900,alaska stat. ann. § 11.81.900,Statute,state_statute,AK,7,7,6,2013,2025,true,exact
+Alaska Stat. § 05.45.200,alaska stat. § 05.45.200,Statute,state_statute,AK,7,2,2,1996,2024,true,exact
 Alaska Stat. § 09.10.050,alaska stat. § 09.10.050,Statute,state_statute,AK,7,7,3,1985,2010,true,exact
-Alaska Stat. § 09.30.070,alaska stat. § 09.30.070,Statute,state_statute,AK,7,7,3,2002,2014,true,exact
 Alaska Stat. § 11.41.110,alaska stat. § 11.41.110,Statute,state_statute,AK,7,7,7,1982,2023,true,exact
 Alaska Stat. § 11.41.510,alaska stat. § 11.41.510,Statute,state_statute,AK,7,4,4,2000,2018,true,exact
 Alaska Stat. § 11.46.130,alaska stat. § 11.46.130,Statute,state_statute,AK,7,6,3,1993,2003,true,exact
 Alaska Stat. § 11.46.300,alaska stat. § 11.46.300,Statute,state_statute,AK,7,6,6,2016,2024,true,exact
 Alaska Stat. § 11.56.610,alaska stat. § 11.56.610,Statute,state_statute,AK,7,5,4,1995,2019,true,exact
 Alaska Stat. § 11.56.800,alaska stat. § 11.56.800,Statute,state_statute,AK,7,6,2,2000,2012,true,exact
+Alaska Stat. § 12.47.010,alaska stat. § 12.47.010,Statute,state_statute,AK,7,6,4,1999,2020,true,exact
 Alaska Stat. § 12.47.030,alaska stat. § 12.47.030,Statute,state_statute,AK,7,7,5,1986,2006,true,exact
+Alaska Stat. § 12.55.015,alaska stat. § 12.55.015,Statute,state_statute,AK,7,5,2,2010,2018,true,exact
+Alaska Stat. § 12.73.010,alaska stat. § 12.73.010,Statute,state_statute,AK,7,6,1,2016,2016,true,exact
 Alaska Stat. § 14.17.410,alaska stat. § 14.17.410,Statute,state_statute,AK,7,1,1,2003,2003,true,exact
 Alaska Stat. § 14.40.040,alaska stat. § 14.40.040,Statute,state_statute,AK,7,4,2,1972,1982,true,exact
-Alaska Stat. § 22.05.010,alaska stat. § 22.05.010,Statute,state_statute,AK,7,7,2,2009,2024,true,exact
+Alaska Stat. § 15.13.067,alaska stat. § 15.13.067,Statute,state_statute,AK,7,3,1,2003,2006,true,exact
+Alaska Stat. § 18.66.990,alaska stat. § 18.66.990,Statute,state_statute,AK,7,4,3,2000,2018,true,exact
+Alaska Stat. § 22.10.020,alaska stat. § 22.10.020,Statute,state_statute,AK,7,6,3,1989,2025,true,exact
 Alaska Stat. § 23.30.055,alaska stat. § 23.30.055,Statute,state_statute,AK,7,5,4,1977,1992,true,exact
 Alaska Stat. § 25.23.180,alaska stat. § 25.23.180,Statute,state_statute,AK,7,6,4,1997,2007,true,exact
 Alaska Stat. § 28.35.032,alaska stat. § 28.35.032,Statute,state_statute,AK,7,7,4,1980,2020,true,exact
-Alaska Stat. § 46.03.822,alaska stat. § 46.03.822,Statute,state_statute,AK,7,6,2,1994,2002,true,exact
+Alaska Stat. § 33.20.010,alaska stat. § 33.20.010,Statute,state_statute,AK,7,5,2,2002,2010,true,exact
+Alaska Statute § 23.05.140,alaska statute § 23.05.140,Statute,state_statute,AK,7,3,1,2024,2025,true,exact
 CODE § 6-1.1-24-3,code § 6-1.1-24-3,Statute,state_statute,AK,7,3,2,2014,2015,false,unresolved
 Cal.Civ.Code § 2924b,cal.civ.code § 2924b,Statute,state_statute,AK,7,3,2,1986,2006,true,exact
 Cal.Civ.Code § 4600.5,cal.civ.code § 4600.5,Statute,state_statute,AK,7,5,4,1982,1993,false,unresolved
@@ -149,50 +163,42 @@ KGB § 45.11.020,kgb § 45.11.020,Statute,state_statute,AK,7,1,1,2013,2013,false
 KMC § 9.04.010,kmc § 9.04.010,Statute,state_statute,AK,7,1,1,1981,1981,false,unresolved
 "MD.CODE ANN., HEALTH-GEN. § 20-103","md.code ann., health-gen. § 20-103",Statute,state_statute,AK,7,1,1,2007,2007,false,unresolved
 MINN. STAT. § 144.343,minn. stat. § 144.343,Statute,state_statute,AK,7,1,1,2016,2016,true,exact
-OF TRUSTS § 331,of trusts § 331,Statute,state_statute,AK,7,5,3,1991,2015,false,unresolved
 "SLA 1978, ch. 166 § 25","sla 1978, ch. 166 § 25",Statute,state_statute,AK,7,7,1,2006,2025,false,unresolved
 U.P.C. § 3-801,u.p.c. § 3-801,Statute,state_statute,AK,7,4,2,2000,2013,false,unresolved
 11 AAC § 505.-744,11 aac § 505.-744,Statute,state_statute,AK,6,1,1,1978,1978,false,unresolved
+ALASKA CONST. art. I § 5,alaska const. art. i § 5,Statute,state_statute,AK,6,1,1,2007,2022,true,exact
 AMC § 2.30.100,amc § 2.30.100,Statute,state_statute,AK,6,2,1,2001,2001,false,unresolved
 Alaska Stat. 11.45.350,alaska stat. 11.45.350,Statute,state_statute,AK,6,3,1,2005,2005,false,unresolved
-Alaska Stat. Ann. § 09.17.020,alaska stat. ann. § 09.17.020,Statute,state_statute,AK,6,6,3,1991,2021,true,exact
 Alaska Stat. Ann. § 18.85.100,alaska stat. ann. § 18.85.100,Statute,state_statute,AK,6,6,1,1979,1994,true,exact
 Alaska Stat. Ann. § 28.35.032,alaska stat. ann. § 28.35.032,Statute,state_statute,AK,6,6,5,2014,2015,true,exact
-Alaska Stat. § 06.60.340,alaska stat. § 06.60.340,Statute,state_statute,AK,6,1,1,2025,2025,true,exact
 Alaska Stat. § 08.54.520,alaska stat. § 08.54.520,Statute,state_statute,AK,6,1,1,1996,1996,false,unresolved
 Alaska Stat. § 09.17.060,alaska stat. § 09.17.060,Statute,state_statute,AK,6,6,4,1992,2025,true,exact
-Alaska Stat. § 09.55.540,alaska stat. § 09.55.540,Statute,state_statute,AK,6,6,4,1980,2014,true,exact
+Alaska Stat. § 09.17.070,alaska stat. § 09.17.070,Statute,state_statute,AK,6,3,3,2001,2023,true,exact
 Alaska Stat. § 09.65.120,alaska stat. § 09.65.120,Statute,state_statute,AK,6,6,5,1977,1986,false,unresolved
 Alaska Stat. § 09.65.155,alaska stat. § 09.65.155,Statute,state_statute,AK,6,6,2,2000,2021,true,exact
+Alaska Stat. § 11.41.230,alaska stat. § 11.41.230,Statute,state_statute,AK,6,5,3,1993,2024,true,exact
 Alaska Stat. § 11.46.190,alaska stat. § 11.46.190,Statute,state_statute,AK,6,3,2,1993,1996,true,exact
 Alaska Stat. § 11.46.330,alaska stat. § 11.46.330,Statute,state_statute,AK,6,3,1,2005,2005,true,exact
 Alaska Stat. § 11.71.030,alaska stat. § 11.71.030,Statute,state_statute,AK,6,6,3,1990,2016,true,exact
 Alaska Stat. § 11.71.040,alaska stat. § 11.71.040,Statute,state_statute,AK,6,3,2,1992,2019,true,exact
 Alaska Stat. § 11.71.090,alaska stat. § 11.71.090,Statute,state_statute,AK,6,6,2,2005,2007,true,exact
 Alaska Stat. § 11.81.430,alaska stat. § 11.81.430,Statute,state_statute,AK,6,6,4,1996,2025,true,exact
-Alaska Stat. § 12.47.010,alaska stat. § 12.47.010,Statute,state_statute,AK,6,6,4,1999,2020,true,exact
 Alaska Stat. § 12.47.020,alaska stat. § 12.47.020,Statute,state_statute,AK,6,6,3,1988,2024,true,exact
-Alaska Stat. § 12.55.015,alaska stat. § 12.55.015,Statute,state_statute,AK,6,5,2,2010,2018,true,exact
-Alaska Stat. § 12.73.010,alaska stat. § 12.73.010,Statute,state_statute,AK,6,6,1,2016,2016,true,exact
-Alaska Stat. § 15.13.067,alaska stat. § 15.13.067,Statute,state_statute,AK,6,3,1,2003,2006,true,exact
+Alaska Stat. § 13.36.079,alaska stat. § 13.36.079,Statute,state_statute,AK,6,1,1,2024,2024,true,exact
 Alaska Stat. § 15.25.010,alaska stat. § 15.25.010,Statute,state_statute,AK,6,4,2,1999,2008,true,exact
 Alaska Stat. § 15.25.030,alaska stat. § 15.25.030,Statute,state_statute,AK,6,2,1,2008,2008,true,exact
+Alaska Stat. § 15.56.012,alaska stat. § 15.56.012,Statute,state_statute,AK,6,3,2,2003,2005,true,exact
 Alaska Stat. § 18.31.200,alaska stat. § 18.31.200,Statute,state_statute,AK,6,4,2,2001,2002,true,exact
-Alaska Stat. § 18.66.990,alaska stat. § 18.66.990,Statute,state_statute,AK,6,4,3,2000,2018,true,exact
-Alaska Stat. § 21.36.125,alaska stat. § 21.36.125,Statute,state_statute,AK,6,6,4,1998,2025,true,exact
-Alaska Stat. § 22.07.020,alaska stat. § 22.07.020,Statute,state_statute,AK,6,6,1,2023,2024,true,exact
-Alaska Stat. § 22.10.020,alaska stat. § 22.10.020,Statute,state_statute,AK,6,6,3,1989,2025,true,exact
+Alaska Stat. § 18.65.530,alaska stat. § 18.65.530,Statute,state_statute,AK,6,2,1,2022,2026,true,exact
 Alaska Stat. § 23.10.037,alaska stat. § 23.10.037,Statute,state_statute,AK,6,6,5,1972,1986,true,exact
 Alaska Stat. § 23.30.145,alaska stat. § 23.30.145,Statute,state_statute,AK,6,5,3,1986,2005,true,exact
 Alaska Stat. § 25.20.065,alaska stat. § 25.20.065,Statute,state_statute,AK,6,6,4,2000,2006,true,exact
-Alaska Stat. § 33.20.010,alaska stat. § 33.20.010,Statute,state_statute,AK,6,5,2,2002,2010,true,exact
 Alaska Stat. § 38.05.077,alaska stat. § 38.05.077,Statute,state_statute,AK,6,2,1,1990,1990,false,unresolved
 Alaska Stat. § 43.56.210,alaska stat. § 43.56.210,Statute,state_statute,AK,6,3,1,2009,2009,true,exact
 Alaska Stat. § 46.14.990,alaska stat. § 46.14.990,Statute,state_statute,AK,6,6,3,2001,2010,true,exact
 Alaska Stat. § 47.10.070,alaska stat. § 47.10.070,Statute,state_statute,AK,6,5,2,1971,2002,true,exact
 Alaska Statute § 13.36.035,alaska statute § 13.36.035,Statute,state_statute,AK,6,1,1,2021,2021,true,exact
 Alaska Statute § 15.13.040,alaska statute § 15.13.040,Statute,state_statute,AK,6,2,2,2022,2024,true,exact
-Alaska Statute § 23.05.140,alaska statute § 23.05.140,Statute,state_statute,AK,6,3,1,2024,2025,true,exact
 F.G.C. § 2.516,f.g.c. § 2.516,Statute,state_statute,AK,6,1,1,1981,1981,false,unresolved
 ICWA § 102,icwa § 102,Statute,state_statute,AK,6,4,1,1995,1997,false,unresolved
 KPBC § 17.10.090,kpbc § 17.10.090,Statute,state_statute,AK,6,1,1,2002,2002,false,unresolved
@@ -203,20 +209,21 @@ NSBC § 2.20.150,nsbc § 2.20.150,Statute,state_statute,AK,6,2,1,2003,2003,false
 TEX. OCC. CODE ANN. § 164.052,tex. occ. code ann. § 164.052,Statute,state_statute,AK,6,5,4,2007,2019,true,exact
 UIFSA § 303,uifsa § 303,Statute,state_statute,AK,6,4,4,1999,2009,false,unresolved
 8 AAC § 45.080,8 aac § 45.080,Statute,state_statute,AK,5,1,1,1974,1974,true,exact
-ALASKA CONST. art. I § 5,alaska const. art. i § 5,Statute,state_statute,AK,5,1,1,2007,2007,true,exact
 ALASKA CONST. art. IX § 7,alaska const. art. ix § 7,Statute,state_statute,AK,5,1,1,2003,2003,true,exact
 "ALASKA CONST., art. XI § 4","alaska const., art. xi § 4",Statute,state_statute,AK,5,1,1,2005,2005,true,exact
 "ALASKA CONST., art. XI § 7","alaska const., art. xi § 7",Statute,state_statute,AK,5,1,1,2005,2005,true,exact
 AMC § 25.20.-060,amc § 25.20.-060,Statute,state_statute,AK,5,1,1,1985,1985,false,unresolved
 Alaska Stat. Ann. § 11.41.100,alaska stat. ann. § 11.41.100,Statute,state_statute,AK,5,5,2,2012,2018,true,exact
 Alaska Stat. Ann. § 11.41.455,alaska stat. ann. § 11.41.455,Statute,state_statute,AK,5,3,2,1982,2024,true,exact
+Alaska Stat. Ann. § 47.30.915,alaska stat. ann. § 47.30.915,Statute,state_statute,AK,5,1,1,2023,2023,true,exact
+Alaska Stat. § 05.45.020,alaska stat. § 05.45.020,Statute,state_statute,AK,5,1,1,2021,2024,true,exact
 Alaska Stat. § 09.17.900,alaska stat. § 09.17.900,Statute,state_statute,AK,5,5,5,1990,2013,true,exact
 Alaska Stat. § 09.25.150,alaska stat. § 09.25.150,Statute,state_statute,AK,5,5,3,1972,1990,false,unresolved
 Alaska Stat. § 09.65.090,alaska stat. § 09.65.090,Statute,state_statute,AK,5,5,4,1989,2002,true,exact
 Alaska Stat. § 11.41.115,alaska stat. § 11.41.115,Statute,state_statute,AK,5,5,4,1982,1986,true,exact
 Alaska Stat. § 11.41.220,alaska stat. § 11.41.220,Statute,state_statute,AK,5,4,2,1997,2024,true,exact
-Alaska Stat. § 11.41.230,alaska stat. § 11.41.230,Statute,state_statute,AK,5,5,3,1993,2014,true,exact
 Alaska Stat. § 11.46.350,alaska stat. § 11.46.350,Statute,state_statute,AK,5,5,2,1987,2005,true,exact
+Alaska Stat. § 12.10.040,alaska stat. § 12.10.040,Statute,state_statute,AK,5,4,2,2004,2023,true,exact
 Alaska Stat. § 12.30.020,alaska stat. § 12.30.020,Statute,state_statute,AK,5,4,3,1972,2015,false,unresolved
 Alaska Stat. § 12.30.040,alaska stat. § 12.30.040,Statute,state_statute,AK,5,2,2,1982,2018,true,exact
 Alaska Stat. § 12.55.035,alaska stat. § 12.55.035,Statute,state_statute,AK,5,5,3,1990,2008,true,exact
@@ -225,11 +232,14 @@ Alaska Stat. § 12.72,alaska stat. § 12.72,Statute,state_statute,AK,5,4,3,2009,
 Alaska Stat. § 13.11.305,alaska stat. § 13.11.305,Statute,state_statute,AK,5,5,4,1980,1986,false,unresolved
 Alaska Stat. § 15.05.010,alaska stat. § 15.05.010,Statute,state_statute,AK,5,5,3,1995,2017,true,exact
 Alaska Stat. § 15.13.050,alaska stat. § 15.13.050,Statute,state_statute,AK,5,3,1,2006,2024,true,exact
-Alaska Stat. § 15.56.012,alaska stat. § 15.56.012,Statute,state_statute,AK,5,3,2,2003,2005,true,exact
 Alaska Stat. § 16.10.180,alaska stat. § 16.10.180,Statute,state_statute,AK,5,2,1,1974,1974,true,exact
 Alaska Stat. § 18.80.200,alaska stat. § 18.80.200,Statute,state_statute,AK,5,4,3,2000,2021,true,exact
 Alaska Stat. § 18.80.270,alaska stat. § 18.80.270,Statute,state_statute,AK,5,4,1,1999,2000,true,exact
 Alaska Stat. § 18.80.300,alaska stat. § 18.80.300,Statute,state_statute,AK,5,3,2,1984,2002,true,exact
+Alaska Stat. § 21.36.495,alaska stat. § 21.36.495,Statute,state_statute,AK,5,2,2,2018,2025,true,exact
+Alaska Stat. § 21.42.110,alaska stat. § 21.42.110,Statute,state_statute,AK,5,3,3,1988,2024,true,exact
+Alaska Stat. § 23.05.140,alaska stat. § 23.05.140,Statute,state_statute,AK,5,4,3,1992,2023,true,exact
+Alaska Stat. § 23.10.060,alaska stat. § 23.10.060,Statute,state_statute,AK,5,2,2,1985,2018,true,exact
 Alaska Stat. § 23.30.080,alaska stat. § 23.30.080,Statute,state_statute,AK,5,1,1,1977,1977,true,exact
 Alaska Stat. § 23.30.230,alaska stat. § 23.30.230,Statute,state_statute,AK,5,3,2,1977,1990,true,exact
 Alaska Stat. § 23.40.110,alaska stat. § 23.40.110,Statute,state_statute,AK,5,5,4,1997,2016,true,exact
@@ -237,9 +247,11 @@ Alaska Stat. § 25.23.130,alaska stat. § 25.23.130,Statute,state_statute,AK,5,4
 Alaska Stat. § 28.15.165,alaska stat. § 28.15.165,Statute,state_statute,AK,5,3,2,1996,1999,true,exact
 Alaska Stat. § 28.22.101,alaska stat. § 28.22.101,Statute,state_statute,AK,5,5,2,2007,2009,true,exact
 Alaska Stat. § 28.35.035,alaska stat. § 28.35.035,Statute,state_statute,AK,5,5,4,1987,2020,true,exact
+Alaska Stat. § 29.45.130,alaska stat. § 29.45.130,Statute,state_statute,AK,5,2,1,2022,2024,true,exact
 Alaska Stat. § 34.03.060,alaska stat. § 34.03.060,Statute,state_statute,AK,5,4,2,1985,1990,true,exact
 Alaska Stat. § 42.40.010,alaska stat. § 42.40.010,Statute,state_statute,AK,5,4,3,1993,2020,true,exact
 Alaska Stat. § 44.41.035,alaska stat. § 44.41.035,Statute,state_statute,AK,5,5,4,2003,2014,true,exact
+Alaska Stat. § 45.02.316,alaska stat. § 45.02.316,Statute,state_statute,AK,5,4,3,1987,2023,true,exact
 Alaska Stat. § 45.50.501,alaska stat. § 45.50.501,Statute,state_statute,AK,5,5,3,1999,2025,true,exact
 Alaska Stat. § 46.03.760,alaska stat. § 46.03.760,Statute,state_statute,AK,5,3,2,2010,2023,true,exact
 Alaska Statute § 09.10.170,alaska statute § 09.10.170,Statute,state_statute,AK,5,1,1,2025,2025,true,exact
@@ -249,7 +261,6 @@ Cal.Civil Code § 5152,cal.civil code § 5152,Statute,state_statute,AK,5,4,4,198
 KPB § 5.18.130,kpb § 5.18.130,Statute,state_statute,AK,5,1,1,1995,1995,false,unresolved
 LAND. & TEN. § 13.1,land. & ten. § 13.1,Statute,state_statute,AK,5,2,1,2020,2023,false,unresolved
 MPC § 250.1,mpc § 250.1,Statute,state_statute,AK,5,3,3,2006,2025,false,unresolved
-OF TRUSTS § 37,of trusts § 37,Statute,state_statute,AK,5,3,3,2015,2024,false,unresolved
 "S.L.A.1959, ch. 193 § 40","s.l.a.1959, ch. 193 § 40",Statute,state_statute,AK,5,1,1,1963,1963,false,unresolved
 "SLA 1978, ch. 166 § 3","sla 1978, ch. 166 § 3",Statute,state_statute,AK,5,4,1,2002,2025,false,unresolved
 "SLA 1980, ch. 131 § 3","sla 1980, ch. 131 § 3",Statute,state_statute,AK,5,2,1,2002,2022,false,unresolved
@@ -293,12 +304,15 @@ Alaska Stat. Ann. § 11.71.090,alaska stat. ann. § 11.71.090,Statute,state_stat
 Alaska Stat. Ann. § 12.30.050,alaska stat. ann. § 12.30.050,Statute,state_statute,AK,4,2,1,2011,2011,true,exact
 Alaska Stat. Ann. § 18.16.010,alaska stat. ann. § 18.16.010,Statute,state_statute,AK,4,2,1,1997,1997,true,exact
 Alaska Stat. Ann. § 18.66.130,alaska stat. ann. § 18.66.130,Statute,state_statute,AK,4,4,1,2013,2013,true,exact
+Alaska Stat. Ann. § 23.10.055,alaska stat. ann. § 23.10.055,Statute,state_statute,AK,4,2,2,2019,2021,true,exact
 Alaska Stat. Ann. § 45.50.471,alaska stat. ann. § 45.50.471,Statute,state_statute,AK,4,4,4,2020,2023,true,exact
 Alaska Stat. § 05.25.040,alaska stat. § 05.25.040,Statute,state_statute,AK,4,2,1,1984,1984,true,exact
+Alaska Stat. § 05.25.100,alaska stat. § 05.25.100,Statute,state_statute,AK,4,2,1,1984,1984,true,exact
 Alaska Stat. § 09.16.010,alaska stat. § 09.16.010,Statute,state_statute,AK,4,4,3,1985,1994,false,unresolved
 Alaska Stat. § 09.17.040,alaska stat. § 09.17.040,Statute,state_statute,AK,4,4,2,1994,2010,true,exact
 Alaska Stat. § 09.25.300,alaska stat. § 09.25.300,Statute,state_statute,AK,4,4,3,2005,2013,true,exact
 Alaska Stat. § 09.38.010,alaska stat. § 09.38.010,Statute,state_statute,AK,4,4,4,2001,2014,true,exact
+Alaska Stat. § 09.45.170,alaska stat. § 09.45.170,Statute,state_statute,AK,4,1,1,2025,2025,true,exact
 Alaska Stat. § 09.55.549,alaska stat. § 09.55.549,Statute,state_statute,AK,4,4,2,2010,2018,true,exact
 Alaska Stat. § 09.55.556,alaska stat. § 09.55.556,Statute,state_statute,AK,4,4,4,1994,2019,true,exact
 Alaska Stat. § 09.55.650,alaska stat. § 09.55.650,Statute,state_statute,AK,4,2,1,2011,2011,true,exact
@@ -307,13 +321,13 @@ Alaska Stat. § 11.15.060,alaska stat. § 11.15.060,Statute,state_statute,AK,4,4
 Alaska Stat. § 11.16.110,alaska stat. § 11.16.110,Statute,state_statute,AK,4,2,1,2007,2007,true,exact
 Alaska Stat. § 11.31.100,alaska stat. § 11.31.100,Statute,state_statute,AK,4,4,3,1989,2015,true,exact
 Alaska Stat. § 11.41.130,alaska stat. § 11.41.130,Statute,state_statute,AK,4,4,2,2004,2008,true,exact
+Alaska Stat. § 11.41.210,alaska stat. § 11.41.210,Statute,state_statute,AK,4,2,1,2005,2023,true,exact
 Alaska Stat. § 11.41.440,alaska stat. § 11.41.440,Statute,state_statute,AK,4,4,3,2005,2013,true,exact
 Alaska Stat. § 11.41.500,alaska stat. § 11.41.500,Statute,state_statute,AK,4,4,4,1984,2019,true,exact
 Alaska Stat. § 11.46.100,alaska stat. § 11.46.100,Statute,state_statute,AK,4,4,2,1993,1996,true,exact
 Alaska Stat. § 11.51.100,alaska stat. § 11.51.100,Statute,state_statute,AK,4,4,2,1999,2022,true,exact
 Alaska Stat. § 11.61.120,alaska stat. § 11.61.120,Statute,state_statute,AK,4,4,3,1993,2020,true,exact
 Alaska Stat. § 11.61.140,alaska stat. § 11.61.140,Statute,state_statute,AK,4,4,4,1983,2023,true,exact
-Alaska Stat. § 12.10.040,alaska stat. § 12.10.040,Statute,state_statute,AK,4,4,2,2004,2023,true,exact
 Alaska Stat. § 12.25.030,alaska stat. § 12.25.030,Statute,state_statute,AK,4,4,2,2007,2026,true,exact
 Alaska Stat. § 12.45.047,alaska stat. § 12.45.047,Statute,state_statute,AK,4,4,3,1987,1988,false,unresolved
 Alaska Stat. § 12.47.050,alaska stat. § 12.47.050,Statute,state_statute,AK,4,4,2,1988,2006,true,exact
@@ -321,13 +335,13 @@ Alaska Stat. § 12.47.110,alaska stat. § 12.47.110,Statute,state_statute,AK,4,3
 Alaska Stat. § 12.55.045,alaska stat. § 12.55.045,Statute,state_statute,AK,4,2,1,2018,2018,true,exact
 Alaska Stat. § 12.55.127,alaska stat. § 12.55.127,Statute,state_statute,AK,4,4,2,2015,2015,true,exact
 Alaska Stat. § 12.55.148,alaska stat. § 12.55.148,Statute,state_statute,AK,4,3,1,2003,2003,true,exact
-Alaska Stat. § 13.36.079,alaska stat. § 13.36.079,Statute,state_statute,AK,4,1,1,2024,2024,true,exact
 Alaska Stat. § 15.13.110,alaska stat. § 15.13.110,Statute,state_statute,AK,4,2,1,2006,2006,true,exact
 Alaska Stat. § 15.45.140,alaska stat. § 15.45.140,Statute,state_statute,AK,4,2,1,2002,2002,true,exact
 Alaska Stat. § 15.45.180,alaska stat. § 15.45.180,Statute,state_statute,AK,4,4,2,1994,1998,true,exact
 Alaska Stat. § 15.56.016,alaska stat. § 15.56.016,Statute,state_statute,AK,4,2,1,2003,2003,true,exact
 Alaska Stat. § 16.05.258,alaska stat. § 16.05.258,Statute,state_statute,AK,4,2,1,1991,1991,true,exact
 Alaska Stat. § 17.37.080,alaska stat. § 17.37.080,Statute,state_statute,AK,4,4,1,2005,2007,true,exact
+Alaska Stat. § 17.38.010,alaska stat. § 17.38.010,Statute,state_statute,AK,4,1,1,2016,2023,true,exact
 Alaska Stat. § 18.12.100,alaska stat. § 18.12.100,Statute,state_statute,AK,4,2,1,1996,1996,false,unresolved
 Alaska Stat. § 18.35.300,alaska stat. § 18.35.300,Statute,state_statute,AK,4,3,1,1990,1990,true,exact
 Alaska Stat. § 18.70.075,alaska stat. § 18.70.075,Statute,state_statute,AK,4,4,1,2003,2003,true,exact
@@ -335,31 +349,31 @@ Alaska Stat. § 18.80.230,alaska stat. § 18.80.230,Statute,state_statute,AK,4,4
 Alaska Stat. § 18.85.100,alaska stat. § 18.85.100,Statute,state_statute,AK,4,4,2,2008,2012,true,exact
 Alaska Stat. § 2,alaska stat. § 2,Statute,state_statute,AK,4,3,1,2010,2010,false,unresolved
 Alaska Stat. § 20.20.010,alaska stat. § 20.20.010,Statute,state_statute,AK,4,2,1,1981,1981,false,unresolved
-Alaska Stat. § 21.42.110,alaska stat. § 21.42.110,Statute,state_statute,AK,4,3,3,1988,2024,true,exact
 Alaska Stat. § 22.30.070,alaska stat. § 22.30.070,Statute,state_statute,AK,4,2,1,2007,2007,true,exact
-Alaska Stat. § 23.05.140,alaska stat. § 23.05.140,Statute,state_statute,AK,4,4,3,1992,2023,true,exact
-Alaska Stat. § 23.10.060,alaska stat. § 23.10.060,Statute,state_statute,AK,4,2,2,1985,2018,true,exact
 Alaska Stat. § 23.20.525,alaska stat. § 23.20.525,Statute,state_statute,AK,4,4,3,1966,2019,true,exact
 Alaska Stat. § 23.30.015,alaska stat. § 23.30.015,Statute,state_statute,AK,4,4,3,1981,2013,true,exact
 Alaska Stat. § 25.05.013,alaska stat. § 25.05.013,Statute,state_statute,AK,4,4,2,2006,2012,true,exact
 Alaska Stat. § 25.25.010,alaska stat. § 25.25.010,Statute,state_statute,AK,4,4,3,1983,1997,false,unresolved
+Alaska Stat. § 28.35.033,alaska stat. § 28.35.033,Statute,state_statute,AK,4,3,2,1980,2011,true,exact
 Alaska Stat. § 29.35.260,alaska stat. § 29.35.260,Statute,state_statute,AK,4,1,1,2003,2003,true,exact
-Alaska Stat. § 29.45.130,alaska stat. § 29.45.130,Statute,state_statute,AK,4,2,1,2022,2024,true,exact
 Alaska Stat. § 29.89.010,alaska stat. § 29.89.010,Statute,state_statute,AK,4,4,1,1989,1990,false,unresolved
 Alaska Stat. § 32.11.340,alaska stat. § 32.11.340,Statute,state_statute,AK,4,2,1,1996,1996,true,exact
+Alaska Stat. § 33.16.100,alaska stat. § 33.16.100,Statute,state_statute,AK,4,2,1,2010,2010,true,exact
 Alaska Stat. § 34.20.100,alaska stat. § 34.20.100,Statute,state_statute,AK,4,4,3,1987,2025,true,exact
 Alaska Stat. § 34.40.010,alaska stat. § 34.40.010,Statute,state_statute,AK,4,4,1,1996,2003,true,exact
 Alaska Stat. § 37.13.145,alaska stat. § 37.13.145,Statute,state_statute,AK,4,2,1,1994,1994,true,exact
+Alaska Stat. § 39.25.160,alaska stat. § 39.25.160,Statute,state_statute,AK,4,3,2,1973,2022,true,exact
 Alaska Stat. § 44.23.020,alaska stat. § 44.23.020,Statute,state_statute,AK,4,4,3,1976,2008,true,exact
+Alaska Stat. § 44.62.310,alaska stat. § 44.62.310,Statute,state_statute,AK,4,3,2,1978,2026,true,exact
+Alaska Stat. § 44.62.560,alaska stat. § 44.62.560,Statute,state_statute,AK,4,2,1,2004,2024,true,exact
 Alaska Stat. § 44.80.010,alaska stat. § 44.80.010,Statute,state_statute,AK,4,2,1,1982,1982,true,exact
 Alaska Stat. § 44.88.070,alaska stat. § 44.88.070,Statute,state_statute,AK,4,2,2,2024,2024,true,exact
-Alaska Stat. § 45.02.316,alaska stat. § 45.02.316,Statute,state_statute,AK,4,4,3,1987,1998,true,exact
 Alaska Stat. § 45.05.786,alaska stat. § 45.05.786,Statute,state_statute,AK,4,2,1,1983,1983,false,unresolved
 Alaska Stat. § 45.55.160,alaska stat. § 45.55.160,Statute,state_statute,AK,4,2,2,2012,2022,true,exact
 Alaska Stat. § 47.07.020,alaska stat. § 47.07.020,Statute,state_statute,AK,4,2,2,1992,1992,true,exact
 Alaska Stat. § 47.10.010,alaska stat. § 47.10.010,Statute,state_statute,AK,4,4,2,1976,1989,true,exact
 Alaska Stat. § 47.10.088,alaska stat. § 47.10.088,Statute,state_statute,AK,4,4,2,2016,2023,true,exact
-Alaska Stat. § 47.10.142,alaska stat. § 47.10.142,Statute,state_statute,AK,4,4,3,1994,2018,true,exact
+Alaska Stat. § 47.17.020,alaska stat. § 47.17.020,Statute,state_statute,AK,4,1,1,2023,2024,true,exact
 Alaska Stat. § 47.30.837,alaska stat. § 47.30.837,Statute,state_statute,AK,4,1,1,2024,2024,true,exact
 Alaska Stat. § 9.10.140,alaska stat. § 9.10.140,Statute,state_statute,AK,4,4,3,1994,1999,false,unresolved
 Alaska Statute § 11.41.220,alaska statute § 11.41.220,Statute,state_statute,AK,4,3,1,2004,2022,true,exact
@@ -381,8 +395,6 @@ FGCO § 2-120,fgco § 2-120,Statute,state_statute,AK,4,2,1,2018,2018,false,unres
 FNSB Code 18.96.240,fnsb code 18.96.240,Statute,state_statute,AK,4,1,1,2023,2023,false,unresolved
 "FSSLA 2019, ch. 4 § 115","fssla 2019, ch. 4 § 115",Statute,state_statute,AK,4,3,1,2023,2026,false,unresolved
 GSC § 01.1002,gsc § 01.1002,Statute,state_statute,AK,4,1,1,1983,1983,false,unresolved
-H.B. 114 § 12,h.b. 114 § 12,Statute,state_statute,AK,4,2,1,2006,2006,false,unresolved
-H.B. 114 § 6,h.b. 114 § 6,Statute,state_statute,AK,4,2,1,2006,2006,false,unresolved
 ICWA § 1918,icwa § 1918,Statute,state_statute,AK,4,1,1,2011,2011,false,unresolved
 INDIAN LAW § 7.05,indian law § 7.05,Statute,state_statute,AK,4,3,2,2011,2024,false,unresolved
 LAW § 4,law § 4,Statute,state_statute,AK,4,4,4,1978,2023,false,unresolved
@@ -392,7 +404,6 @@ MD. CODE ANN. FAM. L. § 5-527.1,md. code ann. fam. l. § 5-527.1,Statute,state_
 ME. STAT. tit. 21-A § 723-A,me. stat. tit. 21-a § 723-a,Statute,state_statute,AK,4,2,1,2022,2022,true,exact
 MSB Code § 03.28.080,msb code § 03.28.080,Statute,state_statute,AK,4,1,1,2002,2002,false,unresolved
 NEB.REV. STAT. § 71-6901,neb.rev. stat. § 71-6901,Statute,state_statute,AK,4,1,1,2007,2007,false,unresolved
-OF TRUSTS § 411,of trusts § 411,Statute,state_statute,AK,4,3,3,1991,2009,false,unresolved
 Or.Rev.Stat. § 109.730,or.rev.stat. § 109.730,Statute,state_statute,AK,4,4,1,1979,2001,true,exact
 Or.Rev.Stat. § 137.540,or.rev.stat. § 137.540,Statute,state_statute,AK,4,3,3,1980,1999,true,exact
 Ore.Rev.Stat. § 105.160,ore.rev.stat. § 105.160,Statute,state_statute,AK,4,2,1,1974,1974,false,unresolved
@@ -408,7 +419,6 @@ U.P.C. § 2-802,u.p.c. § 2-802,Statute,state_statute,AK,4,3,2,2012,2018,false,u
 U.P.C. § 3-802,u.p.c. § 3-802,Statute,state_statute,AK,4,4,2,1995,2013,false,unresolved
 WASH. ADMIN. CODE § 434-262-012,wash. admin. code § 434-262-012,Statute,state_statute,AK,4,2,1,2022,2022,false,unresolved
 2 ALM § 46.01,2 alm § 46.01,Statute,state_statute,AK,3,1,1,1988,1988,false,unresolved
-39 Alaska Stat. § 09.10.070,39 alaska stat. § 09.10.070,Statute,state_statute,AK,3,3,1,2023,2025,false,unresolved
 A. ICWA § 1915,a. icwa § 1915,Statute,state_statute,AK,3,3,1,2014,2014,false,unresolved
 A.A.C. 34.200,a.a.c. 34.200,Statute,state_statute,AK,3,1,1,1981,1981,false,unresolved
 A.A.C. 81.120,a.a.c. 81.120,Statute,state_statute,AK,3,1,1,1981,1981,false,unresolved
@@ -444,30 +454,31 @@ Alaska Stat. Ann. § 11.71.030,alaska stat. ann. § 11.71.030,Statute,state_stat
 Alaska Stat. Ann. § 12.47.040,alaska stat. ann. § 12.47.040,Statute,state_statute,AK,3,3,2,2023,2025,true,exact
 Alaska Stat. Ann. § 18.12.080,alaska stat. ann. § 18.12.080,Statute,state_statute,AK,3,3,1,1997,1997,false,unresolved
 Alaska Stat. Ann. § 21.96.100,alaska stat. ann. § 21.96.100,Statute,state_statute,AK,3,3,1,2015,2015,true,exact
-Alaska Stat. Ann. § 23.10.055,alaska stat. ann. § 23.10.055,Statute,state_statute,AK,3,2,2,2019,2021,true,exact
 Alaska Stat. Ann. § 28.35.033,alaska stat. ann. § 28.35.033,Statute,state_statute,AK,3,3,1,2014,2014,true,exact
+Alaska Stat. Ann. § 34.03.100,alaska stat. ann. § 34.03.100,Statute,state_statute,AK,3,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 34.03.310,alaska stat. ann. § 34.03.310,Statute,state_statute,AK,3,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 38.40.020,alaska stat. ann. § 38.40.020,Statute,state_statute,AK,3,3,2,1978,1982,false,unresolved
 Alaska Stat. Ann. § 38.40.050,alaska stat. ann. § 38.40.050,Statute,state_statute,AK,3,3,2,1978,1982,false,unresolved
 Alaska Stat. Ann. § 45.50.531,alaska stat. ann. § 45.50.531,Statute,state_statute,AK,3,3,3,2015,2021,true,exact
 Alaska Stat. Ann. § 45.50.577,alaska stat. ann. § 45.50.577,Statute,state_statute,AK,3,3,3,2015,2022,true,exact
-Alaska Stat. Ann. § 47.30.915,alaska stat. ann. § 47.30.915,Statute,state_statute,AK,3,1,1,2023,2023,true,exact
+Alaska Stat. Ann. § 47.30.755,alaska stat. ann. § 47.30.755,Statute,state_statute,AK,3,1,1,2023,2023,true,exact
 Alaska Stat. § 01.10.090,alaska stat. § 01.10.090,Statute,state_statute,AK,3,1,1,1991,1991,true,exact
 Alaska Stat. § 02.15.090,alaska stat. § 02.15.090,Statute,state_statute,AK,3,3,2,2003,2004,true,exact
 Alaska Stat. § 04.21.020,alaska stat. § 04.21.020,Statute,state_statute,AK,3,3,2,1996,2000,true,exact
-Alaska Stat. § 05.25.100,alaska stat. § 05.25.100,Statute,state_statute,AK,3,2,1,1984,1984,true,exact
+Alaska Stat. § 05.45.010,alaska stat. § 05.45.010,Statute,state_statute,AK,3,1,1,1996,2024,true,exact
 Alaska Stat. § 05.45.040,alaska stat. § 05.45.040,Statute,state_statute,AK,3,3,1,2016,2016,true,exact
 Alaska Stat. § 09.10.030,alaska stat. § 09.10.030,Statute,state_statute,AK,3,3,3,1993,2016,true,exact
+Alaska Stat. § 09.10.120,alaska stat. § 09.10.120,Statute,state_statute,AK,3,2,1,1995,2003,true,exact
 Alaska Stat. § 09.10.240,alaska stat. § 09.10.240,Statute,state_statute,AK,3,3,2,1965,1986,true,exact
 Alaska Stat. § 09.15.010,alaska stat. § 09.15.010,Statute,state_statute,AK,3,3,2,2001,2025,true,exact
 Alaska Stat. § 09.16.040,alaska stat. § 09.16.040,Statute,state_statute,AK,3,3,2,1989,2011,false,unresolved
-Alaska Stat. § 09.17.070,alaska stat. § 09.17.070,Statute,state_statute,AK,3,3,3,2010,2023,true,exact
 Alaska Stat. § 09.25.010,alaska stat. § 09.25.010,Statute,state_statute,AK,3,3,3,1998,2015,true,exact
 Alaska Stat. § 09.25.150-.220,alaska stat. § 09.25.150-.220,Statute,state_statute,AK,3,3,2,1986,1986,false,unresolved
 Alaska Stat. § 09.25.220,alaska stat. § 09.25.220,Statute,state_statute,AK,3,3,2,1983,1990,false,unresolved
+Alaska Stat. § 09.35.250,alaska stat. § 09.35.250,Statute,state_statute,AK,3,2,2,1993,2025,true,exact
 Alaska Stat. § 09.38.030,alaska stat. § 09.38.030,Statute,state_statute,AK,3,3,2,1997,2006,true,exact
 Alaska Stat. § 09.43.010,alaska stat. § 09.43.010,Statute,state_statute,AK,3,3,3,1972,1985,true,exact
-Alaska Stat. § 09.45.170,alaska stat. § 09.45.170,Statute,state_statute,AK,3,1,1,2025,2025,true,exact
+Alaska Stat. § 09.45.010,alaska stat. § 09.45.010,Statute,state_statute,AK,3,2,2,1994,2019,true,exact
 Alaska Stat. § 09.45.255,alaska stat. § 09.45.255,Statute,state_statute,AK,3,3,3,2011,2023,true,exact
 Alaska Stat. § 09.55.210,alaska stat. § 09.55.210,Statute,state_statute,AK,3,3,2,1981,1986,false,unresolved
 Alaska Stat. § 09.55.548,alaska stat. § 09.55.548,Statute,state_statute,AK,3,3,3,1980,2013,true,exact
@@ -507,10 +518,12 @@ Alaska Stat. § 18.50.160,alaska stat. § 18.50.160,Statute,state_statute,AK,3,3
 Alaska Stat. § 18.55.996,alaska stat. § 18.55.996,Statute,state_statute,AK,3,2,2,1979,2006,true,exact
 Alaska Stat. § 18.66.100,alaska stat. § 18.66.100,Statute,state_statute,AK,3,3,1,2005,2019,true,exact
 Alaska Stat. § 18.85.120,alaska stat. § 18.85.120,Statute,state_statute,AK,3,1,1,1984,1984,true,exact
+Alaska Stat. § 18.85.170,alaska stat. § 18.85.170,Statute,state_statute,AK,3,2,2,2004,2016,true,exact
+Alaska Stat. § 21.07.030,alaska stat. § 21.07.030,Statute,state_statute,AK,3,1,1,2025,2025,true,exact
 Alaska Stat. § 21.36.220,alaska stat. § 21.36.220,Statute,state_statute,AK,3,2,1,1995,2004,true,exact
-Alaska Stat. § 21.36.495,alaska stat. § 21.36.495,Statute,state_statute,AK,3,2,2,2018,2025,true,exact
 Alaska Stat. § 21.78.010,alaska stat. § 21.78.010,Statute,state_statute,AK,3,2,1,2023,2025,true,exact
 Alaska Stat. § 21.89.020,alaska stat. § 21.89.020,Statute,state_statute,AK,3,2,2,2003,2025,false,unresolved
+Alaska Stat. § 21.96.018,alaska stat. § 21.96.018,Statute,state_statute,AK,3,1,1,2024,2024,true,exact
 Alaska Stat. § 22.10.040,alaska stat. § 22.10.040,Statute,state_statute,AK,3,3,2,1965,1996,true,exact
 Alaska Stat. § 22.15.010,alaska stat. § 22.15.010,Statute,state_statute,AK,3,3,2,2003,2022,true,exact
 Alaska Stat. § 22.15.060,alaska stat. § 22.15.060,Statute,state_statute,AK,3,3,1,1970,1970,true,exact
@@ -523,19 +536,17 @@ Alaska Stat. § 23.30.395,alaska stat. § 23.30.395,Statute,state_statute,AK,3,2
 Alaska Stat. § 25.24.160,alaska stat. § 25.24.160,Statute,state_statute,AK,3,3,2,1994,2000,true,exact
 Alaska Stat. § 25.27.225,alaska stat. § 25.27.225,Statute,state_statute,AK,3,2,2,1997,2024,true,exact
 Alaska Stat. § 28.05.048,alaska stat. § 28.05.048,Statute,state_statute,AK,3,3,1,2008,2013,true,exact
-Alaska Stat. § 28.35.033,alaska stat. § 28.35.033,Statute,state_statute,AK,3,3,2,1980,2011,true,exact
 Alaska Stat. § 32.05.070,alaska stat. § 32.05.070,Statute,state_statute,AK,3,3,2,1995,1996,false,unresolved
 Alaska Stat. § 33.16.010,alaska stat. § 33.16.010,Statute,state_statute,AK,3,3,1,1993,2010,true,exact
-Alaska Stat. § 33.16.100,alaska stat. § 33.16.100,Statute,state_statute,AK,3,2,1,2010,2010,true,exact
 Alaska Stat. § 33.30.035,alaska stat. § 33.30.035,Statute,state_statute,AK,3,3,1,2008,2013,true,exact
 Alaska Stat. § 34.03.310,alaska stat. § 34.03.310,Statute,state_statute,AK,3,3,3,1988,1998,true,exact
+Alaska Stat. § 34.35.430,alaska stat. § 34.35.430,Statute,state_statute,AK,3,2,2,1982,2000,true,exact
 Alaska Stat. § 34.40.110,alaska stat. § 34.40.110,Statute,state_statute,AK,3,2,1,1999,1999,true,exact
 Alaska Stat. § 36.05.010,alaska stat. § 36.05.010,Statute,state_statute,AK,3,3,2,2005,2012,true,exact
 Alaska Stat. § 38.05.020,alaska stat. § 38.05.020,Statute,state_statute,AK,3,3,1,1997,2000,true,exact
 Alaska Stat. § 38.05.137,alaska stat. § 38.05.137,Statute,state_statute,AK,3,3,1,1997,2000,true,exact
 Alaska Stat. § 39.25.150,alaska stat. § 39.25.150,Statute,state_statute,AK,3,3,3,2000,2022,true,exact
-Alaska Stat. § 39.25.160,alaska stat. § 39.25.160,Statute,state_statute,AK,3,3,2,1973,2022,true,exact
-Alaska Stat. § 44.62.310,alaska stat. § 44.62.310,Statute,state_statute,AK,3,3,2,1978,2003,true,exact
+Alaska Stat. § 39.25.178,alaska stat. § 39.25.178,Statute,state_statute,AK,3,1,1,2022,2022,true,exact
 Alaska Stat. § 45.08.202,alaska stat. § 45.08.202,Statute,state_statute,AK,3,1,1,2025,2025,true,exact
 Alaska Stat. § 45.45.010,alaska stat. § 45.45.010,Statute,state_statute,AK,3,3,2,1984,1998,true,exact
 Alaska Stat. § 45.45.305,alaska stat. § 45.45.305,Statute,state_statute,AK,3,1,1,2021,2021,true,exact
@@ -544,6 +555,7 @@ Alaska Stat. § 45.50.562,alaska stat. § 45.50.562,Statute,state_statute,AK,3,3
 Alaska Stat. § 45.50.577,alaska stat. § 45.50.577,Statute,state_statute,AK,3,2,2,2007,2016,true,exact
 Alaska Stat. § 45.55.220,alaska stat. § 45.55.220,Statute,state_statute,AK,3,3,1,1973,1979,false,unresolved
 Alaska Stat. § 46.15.080,alaska stat. § 46.15.080,Statute,state_statute,AK,3,3,2,1985,1996,true,exact
+Alaska Stat. § 47.10.086,alaska stat. § 47.10.086,Statute,state_statute,AK,3,2,1,2003,2023,true,exact
 Alaska Stat. § 47.30.915,alaska stat. § 47.30.915,Statute,state_statute,AK,3,3,2,1988,2001,true,exact
 Alaska Stat. § 47.32.090,alaska stat. § 47.32.090,Statute,state_statute,AK,3,3,1,2011,2011,true,exact
 Alaska Stat. § 9.60.010,alaska stat. § 9.60.010,Statute,state_statute,AK,3,3,2,1990,1993,false,unresolved
@@ -557,6 +569,8 @@ Alaska Statute § 18.80.220,alaska statute § 18.80.220,Statute,state_statute,AK
 Alaska Statute § 21.42.110,alaska statute § 21.42.110,Statute,state_statute,AK,3,2,2,2004,2008,true,exact
 Alaska Statute § 45.50.577,alaska statute § 45.50.577,Statute,state_statute,AK,3,3,2,2007,2019,true,exact
 Alaska Statutes § 06.20.260,alaska statutes § 06.20.260,Statute,state_statute,AK,3,2,2,1971,1972,true,exact
+Alaska Statutes § 11.41.436,alaska statutes § 11.41.436,Statute,state_statute,AK,3,1,1,2019,2019,true,exact
+Alaska Statutes § 18.66.100,alaska statutes § 18.66.100,Statute,state_statute,AK,3,2,2,2012,2023,true,exact
 "Alaska, 1962, ch. 101 § 12.05","alaska, 1962, ch. 101 § 12.05",Statute,state_statute,AK,3,3,1,1965,1966,false,unresolved
 "Alaska, Alaska Stat. Ann. § 09.55.280","alaska, alaska stat. ann. § 09.55.280",Statute,state_statute,AK,3,3,1,2017,2017,false,unresolved
 "Alaska, Alaska Stat. § 12.55.060","alaska, alaska stat. § 12.55.060",Statute,state_statute,AK,3,3,2,1966,1972,false,unresolved
@@ -632,7 +646,6 @@ SLA ch. 79 § 1,sla ch. 79 § 1,Statute,state_statute,AK,3,3,1,1991,1991,false,u
 SMCRA § 506,smcra § 506,Statute,state_statute,AK,3,3,2,1988,1992,false,unresolved
 TENN.CODE ANN. § 4-1-404,tenn.code ann. § 4-1-404,Statute,state_statute,AK,3,1,1,2007,2007,false,unresolved
 TEX. FAM.CODE ANN. § 33.001,tex. fam.code ann. § 33.001,Statute,state_statute,AK,3,1,1,2007,2007,true,exact
-THE LAW OF TRUSTS § 492,the law of trusts § 492,Statute,state_statute,AK,3,1,1,2003,2003,false,unresolved
 U.P.C. § 6-101,u.p.c. § 6-101,Statute,state_statute,AK,3,3,2,1999,2012,false,unresolved
 UCC § 1.203,ucc § 1.203,Statute,state_statute,AK,3,3,2,1977,1983,false,unresolved
 UIFSA § 610,uifsa § 610,Statute,state_statute,AK,3,2,2,2005,2014,false,unresolved
@@ -645,12 +658,10 @@ W. VA.CODE § 9,w. va.code § 9,Statute,state_statute,AK,3,1,1,2007,2007,false,u
 WYO. STAT. ANN. § 35-6-118,wyo. stat. ann. § 35-6-118,Statute,state_statute,AK,3,3,2,2000,2016,true,exact
 WYO. STAT. ANN. § 8-6-101,wyo. stat. ann. § 8-6-101,Statute,state_statute,AK,3,1,1,2007,2007,true,exact
 1 ALM § 30.05,1 alm § 30.05,Statute,state_statute,AK,2,1,1,1988,1988,false,unresolved
-105 (1931). Alaska Stat. § 09.55.580,105 (1931). alaska stat. § 09.55.580,Statute,state_statute,AK,2,1,1,1988,1988,false,unresolved
 1063-64 (Alaska 1973). 68 Ch. 91 § 17,1063-64 (alaska 1973). 68 ch. 91 § 17,Statute,state_statute,AK,2,2,1,2024,2024,false,unresolved
 11 AAC § 203.02,11 aac § 203.02,Statute,state_statute,AK,2,2,1,1976,1976,false,unresolved
 11 Alaska Stat. § 11.15.060,11 alaska stat. § 11.15.060,Statute,state_statute,AK,2,2,1,1972,1972,false,unresolved
 116 SLA § 1,116 sla § 1,Statute,state_statute,AK,2,2,1,1972,1972,false,unresolved
-12 Alaska Stat § 21.36.125,12 alaska stat § 21.36.125,Statute,state_statute,AK,2,2,1,2019,2019,false,unresolved
 13 A.A.C. § 104.31,13 a.a.c. § 104.31,Statute,state_statute,AK,2,2,1,1976,1976,false,unresolved
 13 A.A.C. § 96,13 a.a.c. § 96,Statute,state_statute,AK,2,2,1,1976,1976,false,unresolved
 13 AAC § 02.400,13 aac § 02.400,Statute,state_statute,AK,2,1,1,1977,1977,true,exact
@@ -660,7 +671,6 @@ WYO. STAT. ANN. § 8-6-101,wyo. stat. ann. § 8-6-101,Statute,state_statute,AK,3
 13 Alaska Adm.Code § 104.24,13 alaska adm.code § 104.24,Statute,state_statute,AK,2,2,1,1967,1967,false,unresolved
 13 Alaska Adm.Code § 85,13 alaska adm.code § 85,Statute,state_statute,AK,2,2,1,1967,1967,false,unresolved
 "13 H.B. 309, ch. 9 § 1","13 h.b. 309, ch. 9 § 1",Statute,state_statute,AK,2,1,1,2021,2021,false,unresolved
-146 (Alaska 1972). RCW 2.28.150,146 (alaska 1972). rcw 2.28.150,Statute,state_statute,AK,2,2,1,1973,1973,false,unresolved
 17 AAC § 15.130,17 aac § 15.130,Statute,state_statute,AK,2,1,1,1976,1976,true,exact
 "17 SLA 1978, ch. 166 § 10","17 sla 1978, ch. 166 § 10",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "17 SLA 1978, ch. 166 § 12","17 sla 1978, ch. 166 § 12",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
@@ -672,41 +682,18 @@ WYO. STAT. ANN. § 8-6-101,wyo. stat. ann. § 8-6-101,Statute,state_statute,AK,3
 2 AMC § 91,2 amc § 91,Statute,state_statute,AK,2,2,1,2018,2018,false,unresolved
 "20 SLA 1978, ch. 166 § 12","20 sla 1978, ch. 166 § 12",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "20 SLA 2003, ch. 62 § 1-2","20 sla 2003, ch. 62 § 1-2",Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-211 (Alaska 1999). 63 KRS 514.100,211 (alaska 1999). 63 krs 514.100,Statute,state_statute,AK,2,2,1,2019,2019,false,unresolved
 218 (FIN) § 7,218 (fin) § 7,Statute,state_statute,AK,2,1,1,2020,2020,false,unresolved
-22 Alaska Stat. § 47.10.142,22 alaska stat. § 47.10.142,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 "22 SLA 1978, ch. 166 § 12","22 sla 1978, ch. 166 § 12",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "22 SLA 2003, ch. 62 § 4","22 sla 2003, ch. 62 § 4",Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 "22 SLA 2005, ch. 20 § 1","22 sla 2005, ch. 20 § 1",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "225 SLA 2016, ch. 36 § 123","225 sla 2016, ch. 36 § 123",Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-23 Alaska Stat. § 47.10.142,23 alaska stat. § 47.10.142,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 "23 SLA 1978, ch. 166 § 12","23 sla 1978, ch. 166 § 12",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
-24 Alaska Stat. § 47.10.142,24 alaska stat. § 47.10.142,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-25 Alaska Stat. § 47.10.142,25 alaska stat. § 47.10.142,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 "25 ch. 184 SLA 1959, A.C.L.A. § 52A-2-42","25 ch. 184 sla 1959, a.c.l.a. § 52a-2-42",Statute,state_statute,AK,2,2,1,1979,1979,false,unresolved
-26 Alaska Stat. § 47.10.080,26 alaska stat. § 47.10.080,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 26 ch. 101 SLA 1962 § 1,26 ch. 101 sla 1962 § 1,Statute,state_statute,AK,2,2,1,1974,1974,false,unresolved
 26 ch. 101 SLA 1962 § 2,26 ch. 101 sla 1962 § 2,Statute,state_statute,AK,2,2,1,1974,1974,false,unresolved
-27 Alaska Stat. § 22.07.020,27 alaska stat. § 22.07.020,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-27 Alaska Stat. § 47.10.080,27 alaska stat. § 47.10.080,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-28 Alaska Stat. § 22.05.010,28 alaska stat. § 22.05.010,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-28 Alaska Stat. § 47.10.080,28 alaska stat. § 47.10.080,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-29 AM. JUR. 2D Evidence § 244,29 am. jur. 2d evidence § 244,Statute,state_statute,AK,2,2,2,2007,2017,false,unresolved
-29 Alaska Stat. § 47.10.080,29 alaska stat. § 47.10.080,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-29 CER. § 825.114,29 cer. § 825.114,Statute,state_statute,AK,2,1,1,2004,2004,false,unresolved
-29A AM. JUR. 2D Evidence § 769,29a am. jur. 2d evidence § 769,Statute,state_statute,AK,2,1,1,2023,2023,false,unresolved
 3 Alaska Admin Code 28.815,3 alaska admin code 28.815,Statute,state_statute,AK,2,2,1,1999,1999,true,exact
 3 Alaska Comp.Laws Ann. § 61-7-3,3 alaska comp.laws ann. § 61-7-3,Statute,state_statute,AK,2,1,1,1959,1959,false,unresolved
-3 Alaska Stat. § 12.63.100,3 alaska stat. § 12.63.100,Statute,state_statute,AK,2,2,1,2001,2001,false,unresolved
-31 Alaska Stat. § 47.10.084,31 alaska stat. § 47.10.084,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 "31 SLA 1978, ch. 166 § 3","31 sla 1978, ch. 166 § 3",Statute,state_statute,AK,2,2,1,2025,2025,false,unresolved
-32 Alaska Stat. § 22.07.020,32 alaska stat. § 22.07.020,Statute,state_statute,AK,2,2,1,2024,2024,false,unresolved
-33 Alaska Stat. § 22.05.010,33 alaska stat. § 22.05.010,Statute,state_statute,AK,2,2,1,2024,2024,false,unresolved
-33 Alaska Stat. § 47.10.086,33 alaska stat. § 47.10.086,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-33 TJ.S.C. § 901,33 tj.s.c. § 901,Statute,state_statute,AK,2,2,1,1967,1994,false,unresolved
-33 TJ.S.C. § 950,33 tj.s.c. § 950,Statute,state_statute,AK,2,2,1,1967,1994,false,unresolved
-34 Alaska Stat. § 47.10.080,34 alaska stat. § 47.10.080,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
-35 Alaska Stat. § 09.10.070,35 alaska stat. § 09.10.070,Statute,state_statute,AK,2,2,1,2025,2026,false,unresolved
 35 UNIF. PROB. CODE § 3-720,35 unif. prob. code § 3-720,Statute,state_statute,AK,2,2,1,2025,2025,false,unresolved
 "40 SLA 2005, ch. 2 § 1","40 sla 2005, ch. 2 § 1",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "41 SLA 2005, ch. 2 § 9-14","41 sla 2005, ch. 2 § 9-14",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
@@ -717,26 +704,17 @@ WYO. STAT. ANN. § 8-6-101,wyo. stat. ann. § 8-6-101,Statute,state_statute,AK,3
 426 (Alaska 1976). Alaska Stat. 09.16.010,426 (alaska 1976). alaska stat. 09.16.010,Statute,state_statute,AK,2,2,1,1983,1983,false,unresolved
 "43 SLA 2005, ch. 2 § 21","43 sla 2005, ch. 2 § 21",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "44 SLA 2005, ch. 2 § 21","44 sla 2005, ch. 2 § 21",Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
-47 CAL. Fam. Code § 6389,47 cal. fam. code § 6389,Statute,state_statute,AK,2,2,1,2024,2024,false,unresolved
-"48 ALR 3d 13, 88 § 28","48 alr 3d 13, 88 § 28",Statute,state_statute,AK,2,2,1,1990,1990,false,unresolved
-49 C.J. § 34,49 c.j. § 34,Statute,state_statute,AK,2,2,2,1931,1984,false,unresolved
 5 AMC § 09.28.010.A,5 amc § 09.28.010.a,Statute,state_statute,AK,2,2,1,2018,2018,false,unresolved
 "5 Alaska Adm.Code, ch. 1 § 102.11","5 alaska adm.code, ch. 1 § 102.11",Statute,state_statute,AK,2,2,1,1969,1969,false,unresolved
 5 SLA 1964 and Ch. 68 § 4,5 sla 1964 and ch. 68 § 4,Statute,state_statute,AK,2,2,1,1972,1972,false,unresolved
 "5 SLA 2016, ch. 36 § 185","5 sla 2016, ch. 36 § 185",Statute,state_statute,AK,2,2,1,2024,2024,false,unresolved
-"50 ALR 2d 78, 97 § 6","50 alr 2d 78, 97 § 6",Statute,state_statute,AK,2,2,1,1990,1990,false,unresolved
-6 Alaska Stat. § 11.81.600,6 alaska stat. § 11.81.600,Statute,state_statute,AK,2,2,1,2022,2022,false,unresolved
 "6 SLA 2007, ch. 24 § 20","6 sla 2007, ch. 24 § 20",Statute,state_statute,AK,2,2,1,2018,2024,false,unresolved
 "6 SLA 2016, ch. 36 § 185","6 sla 2016, ch. 36 § 185",Statute,state_statute,AK,2,2,1,2019,2020,false,unresolved
-63C AM. JUR. 2D Property § 1,63c am. jur. 2d property § 1,Statute,state_statute,AK,2,2,1,2019,2019,false,unresolved
 7 AAC § 30.040,7 aac § 30.040,Statute,state_statute,AK,2,2,1,1980,1980,false,unresolved
-74 Alaska Statute § 09.10.070,74 alaska statute § 09.10.070,Statute,state_statute,AK,2,2,1,2023,2023,false,unresolved
 76 SLA 1973 § 5,76 sla 1973 § 5,Statute,state_statute,AK,2,1,1,1992,1992,false,unresolved
 775 (1999). ICWA § 1903,775 (1999). icwa § 1903,Statute,state_statute,AK,2,2,1,2001,2001,false,unresolved
 79 SLA § 48,79 sla § 48,Statute,state_statute,AK,2,1,1,1992,1992,false,unresolved
 8 Alaska Adm.Code § 436,8 alaska adm.code § 436,Statute,state_statute,AK,2,2,1,1968,1970,false,unresolved
-8 Alaska Stat. Ann. § 18.80.260,8 alaska stat. ann. § 18.80.260,Statute,state_statute,AK,2,2,1,2017,2017,false,unresolved
-82 CJS Statutes § 316,82 cjs statutes § 316,Statute,state_statute,AK,2,2,1,1984,1984,false,unresolved
 97 SLA § 1,97 sla § 1,Statute,state_statute,AK,2,2,1,1972,1972,false,unresolved
 A. R.S. § 15-102,a. r.s. § 15-102,Statute,state_statute,AK,2,2,2,1973,1975,true,exact
 A.A.C. 30.040,a.a.c. 30.040,Statute,state_statute,AK,2,2,1,1981,1981,false,unresolved
@@ -867,7 +845,9 @@ Alaska Stat § 10.20.051,alaska stat § 10.20.051,Statute,state_statute,AK,2,2,1
 Alaska Stat § 100,alaska stat § 100,Statute,state_statute,AK,2,2,1,2008,2008,false,unresolved
 Alaska Stat § 11.31.110,alaska stat § 11.31.110,Statute,state_statute,AK,2,1,1,1982,1982,true,exact
 Alaska Stat § 17.12.110,alaska stat § 17.12.110,Statute,state_statute,AK,2,2,1,1977,1977,false,unresolved
+Alaska Stat § 21.36.125,alaska stat § 21.36.125,Statute,state_statute,AK,2,2,1,2019,2019,true,exact
 Alaska Stat § 28.05.048,alaska stat § 28.05.048,Statute,state_statute,AK,2,2,1,2008,2008,true,exact
+Alaska Stat § 28.35.030,alaska stat § 28.35.030,Statute,state_statute,AK,2,1,1,2022,2025,true,exact
 Alaska Stat § 33.30.035,alaska stat § 33.30.035,Statute,state_statute,AK,2,2,1,2008,2008,true,exact
 Alaska Stat § 55,alaska stat § 55,Statute,state_statute,AK,2,2,1,1999,1999,false,unresolved
 Alaska Stat. (supp. 1983) § 47.10.070,alaska stat. (supp. 1983) § 47.10.070,Statute,state_statute,AK,2,2,1,1984,1984,false,unresolved
@@ -878,6 +858,7 @@ Alaska Stat. 09.55.580,alaska stat. 09.55.580,Statute,state_statute,AK,2,2,2,198
 Alaska Stat. 09.65.202,alaska stat. 09.65.202,Statute,state_statute,AK,2,2,1,2013,2013,true,exact
 Alaska Stat. 11.15.295,alaska stat. 11.15.295,Statute,state_statute,AK,2,2,1,1980,1980,false,unresolved
 Alaska Stat. 11.41.120,alaska stat. 11.41.120,Statute,state_statute,AK,2,2,2,1988,1995,true,exact
+Alaska Stat. 11.46.330,alaska stat. 11.46.330,Statute,state_statute,AK,2,1,1,2005,2005,true,exact
 Alaska Stat. 11.81.900,alaska stat. 11.81.900,Statute,state_statute,AK,2,2,2,1997,2001,true,exact
 Alaska Stat. 12.72.010,alaska stat. 12.72.010,Statute,state_statute,AK,2,2,1,2019,2019,true,exact
 Alaska Stat. 14.40.170,alaska stat. 14.40.170,Statute,state_statute,AK,2,1,1,1972,1972,true,exact
@@ -912,6 +893,7 @@ Alaska Stat. Ann. § 11.56.200,alaska stat. ann. § 11.56.200,Statute,state_stat
 Alaska Stat. Ann. § 11.61.123,alaska stat. ann. § 11.61.123,Statute,state_statute,AK,2,2,1,2014,2014,true,exact
 Alaska Stat. Ann. § 11.61.125,alaska stat. ann. § 11.61.125,Statute,state_statute,AK,2,2,1,1987,1987,true,exact
 Alaska Stat. Ann. § 11.66.300,alaska stat. ann. § 11.66.300,Statute,state_statute,AK,2,2,1,1997,1997,true,exact
+Alaska Stat. Ann. § 11.81.370,alaska stat. ann. § 11.81.370,Statute,state_statute,AK,2,1,1,1985,1985,true,exact
 Alaska Stat. Ann. § 12.25.030,alaska stat. ann. § 12.25.030,Statute,state_statute,AK,2,2,1,2001,2001,true,exact
 Alaska Stat. Ann. § 12.25.100,alaska stat. ann. § 12.25.100,Statute,state_statute,AK,2,2,1,1980,1980,true,exact
 Alaska Stat. Ann. § 12.25.150,alaska stat. ann. § 12.25.150,Statute,state_statute,AK,2,1,1,2019,2019,true,exact
@@ -932,6 +914,7 @@ Alaska Stat. Ann. § 17.37.080,alaska stat. ann. § 17.37.080,Statute,state_stat
 Alaska Stat. Ann. § 17.38.020,alaska stat. ann. § 17.38.020,Statute,state_statute,AK,2,2,1,2017,2017,true,exact
 Alaska Stat. Ann. § 18.16.050,alaska stat. ann. § 18.16.050,Statute,state_statute,AK,2,2,1,2000,2000,true,exact
 Alaska Stat. Ann. § 18.65.700,alaska stat. ann. § 18.65.700,Statute,state_statute,AK,2,2,1,2023,2023,true,exact
+Alaska Stat. Ann. § 18.80.260,alaska stat. ann. § 18.80.260,Statute,state_statute,AK,2,2,1,2017,2017,true,exact
 Alaska Stat. Ann. § 25.05.301,alaska stat. ann. § 25.05.301,Statute,state_statute,AK,2,2,1,2021,2021,true,exact
 Alaska Stat. Ann. § 25.20.065,alaska stat. ann. § 25.20.065,Statute,state_statute,AK,2,2,1,2000,2000,true,exact
 Alaska Stat. Ann. § 28.35.031,alaska stat. ann. § 28.35.031,Statute,state_statute,AK,2,2,2,2014,2015,true,exact
@@ -939,7 +922,6 @@ Alaska Stat. Ann. § 29.45.030,alaska stat. ann. § 29.45.030,Statute,state_stat
 Alaska Stat. Ann. § 29.89.050,alaska stat. ann. § 29.89.050,Statute,state_statute,AK,2,2,1,1991,1991,false,unresolved
 Alaska Stat. Ann. § 30.20.010,alaska stat. ann. § 30.20.010,Statute,state_statute,AK,2,2,1,1978,1978,false,unresolved
 Alaska Stat. Ann. § 33.30.100,alaska stat. ann. § 33.30.100,Statute,state_statute,AK,2,2,1,1983,1983,false,unresolved
-Alaska Stat. Ann. § 34.03.100,alaska stat. ann. § 34.03.100,Statute,state_statute,AK,2,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 34.03.160,alaska stat. ann. § 34.03.160,Statute,state_statute,AK,2,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 36.30.100,alaska stat. ann. § 36.30.100,Statute,state_statute,AK,2,2,1,1996,1996,true,exact
 Alaska Stat. Ann. § 38.40.090,alaska stat. ann. § 38.40.090,Statute,state_statute,AK,2,1,1,1978,1978,false,unresolved
@@ -951,36 +933,35 @@ Alaska Stat. Ann. § 47.10.080,alaska stat. ann. § 47.10.080,Statute,state_stat
 Alaska Stat. Ann. § 47.10.140,alaska stat. ann. § 47.10.140,Statute,state_statute,AK,2,2,1,1984,1984,false,unresolved
 Alaska Stat. Ann. § 47.12.100,alaska stat. ann. § 47.12.100,Statute,state_statute,AK,2,2,1,2018,2018,true,exact
 Alaska Stat. Ann. § 47.30.700,alaska stat. ann. § 47.30.700,Statute,state_statute,AK,2,2,1,1993,1993,true,exact
-Alaska Stat. Ann. § 47.30.755,alaska stat. ann. § 47.30.755,Statute,state_statute,AK,2,1,1,2023,2023,true,exact
 Alaska Stat. art. IV § 10,alaska stat. art. iv § 10,Statute,state_statute,AK,2,2,1,2007,2007,false,unresolved
 Alaska Stat. tit. 9 § 09.45.290,alaska stat. tit. 9 § 09.45.290,Statute,state_statute,AK,2,2,1,2004,2004,false,unresolved
+Alaska Stat. § 01.10.010,alaska stat. § 01.10.010,Statute,state_statute,AK,2,1,1,1999,2016,true,exact
 Alaska Stat. § 02.35.110,alaska stat. § 02.35.110,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
 Alaska Stat. § 04.11.040,alaska stat. § 04.11.040,Statute,state_statute,AK,2,2,1,1992,1992,true,exact
 Alaska Stat. § 04.11.280,alaska stat. § 04.11.280,Statute,state_statute,AK,2,2,1,1992,1992,true,exact
 Alaska Stat. § 04.11.290,alaska stat. § 04.11.290,Statute,state_statute,AK,2,2,1,1992,1992,true,exact
 Alaska Stat. § 05.15.150,alaska stat. § 05.15.150,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
-Alaska Stat. § 05.45.200,alaska stat. § 05.45.200,Statute,state_statute,AK,2,2,2,1996,2003,true,exact
+Alaska Stat. § 05.25.050,alaska stat. § 05.25.050,Statute,state_statute,AK,2,1,1,1984,1984,true,exact
+Alaska Stat. § 05.45.100,alaska stat. § 05.45.100,Statute,state_statute,AK,2,1,1,2024,2024,true,exact
 Alaska Stat. § 06.05.175,alaska stat. § 06.05.175,Statute,state_statute,AK,2,2,1,1993,1993,false,unresolved
 Alaska Stat. § 08.02.040,alaska stat. § 08.02.040,Statute,state_statute,AK,2,2,1,2010,2010,false,unresolved
 Alaska Stat. § 08.08.010-.100,alaska stat. § 08.08.010-.100,Statute,state_statute,AK,2,2,1,1989,1989,true,multiple
 Alaska Stat. § 08.08.040,alaska stat. § 08.08.040,Statute,state_statute,AK,2,1,1,2010,2010,true,exact
 Alaska Stat. § 08.18.011,alaska stat. § 08.18.011,Statute,state_statute,AK,2,2,1,1987,1987,true,exact
+Alaska Stat. § 08.18.161,alaska stat. § 08.18.161,Statute,state_statute,AK,2,1,1,1987,1987,true,exact
 Alaska Stat. § 08.64.215,alaska stat. § 08.64.215,Statute,state_statute,AK,2,2,1,1978,1978,false,unresolved
 Alaska Stat. § 08.72.273,alaska stat. § 08.72.273,Statute,state_statute,AK,2,2,1,2001,2001,true,exact
 Alaska Stat. § 08.86.200,alaska stat. § 08.86.200,Statute,state_statute,AK,2,2,1,1995,1995,true,exact
-Alaska Stat. § 09.10.120,alaska stat. § 09.10.120,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
 Alaska Stat. § 09.16.060,alaska stat. § 09.16.060,Statute,state_statute,AK,2,2,2,1985,1989,false,unresolved
 Alaska Stat. § 09.20.050,alaska stat. § 09.20.050,Statute,state_statute,AK,2,2,1,1994,1994,true,exact
 Alaska Stat. § 09.30.065,alaska stat. § 09.30.065,Statute,state_statute,AK,2,1,1,1995,1995,true,exact
 Alaska Stat. § 09.35.010,alaska stat. § 09.35.010,Statute,state_statute,AK,2,1,1,2025,2025,true,exact
 Alaska Stat. § 09.35.087,alaska stat. § 09.35.087,Statute,state_statute,AK,2,2,1,1983,1983,false,unresolved
 Alaska Stat. § 09.35.130,alaska stat. § 09.35.130,Statute,state_statute,AK,2,2,1,1996,1996,true,exact
-Alaska Stat. § 09.35.250,alaska stat. § 09.35.250,Statute,state_statute,AK,2,2,2,1993,2004,true,exact
 Alaska Stat. § 09.38.055,alaska stat. § 09.38.055,Statute,state_statute,AK,2,2,1,1985,1985,true,exact
 Alaska Stat. § 09.39.017,alaska stat. § 09.39.017,Statute,state_statute,AK,2,2,2,2018,2025,false,unresolved
 Alaska Stat. § 09.40.230,alaska stat. § 09.40.230,Statute,state_statute,AK,2,2,1,1996,1996,true,exact
 Alaska Stat. § 09.43.550,alaska stat. § 09.43.550,Statute,state_statute,AK,2,2,1,2010,2010,true,exact
-Alaska Stat. § 09.45.010,alaska stat. § 09.45.010,Statute,state_statute,AK,2,2,2,1994,2012,true,exact
 Alaska Stat. § 09.45.052,alaska stat. § 09.45.052,Statute,state_statute,AK,2,2,2,2012,2025,true,exact
 Alaska Stat. § 09.45.640,alaska stat. § 09.45.640,Statute,state_statute,AK,2,2,1,1987,1987,true,exact
 Alaska Stat. § 09.45.790,alaska stat. § 09.45.790,Statute,state_statute,AK,2,1,1,1988,1988,false,unresolved
@@ -990,6 +971,7 @@ Alaska Stat. § 09.55.300,alaska stat. § 09.55.300,Statute,state_statute,AK,2,2
 Alaska Stat. § 09.55.535,alaska stat. § 09.55.535,Statute,state_statute,AK,2,2,2,1996,2010,true,exact
 Alaska Stat. § 09.55.536,alaska stat. § 09.55.536,Statute,state_statute,AK,2,2,1,2008,2008,true,exact
 Alaska Stat. § 09.55.547,alaska stat. § 09.55.547,Statute,state_statute,AK,2,2,1,2010,2010,true,exact
+Alaska Stat. § 09.55.570,alaska stat. § 09.55.570,Statute,state_statute,AK,2,1,1,2024,2025,true,exact
 Alaska Stat. § 09.55.585,alaska stat. § 09.55.585,Statute,state_statute,AK,2,1,1,2019,2019,true,exact
 Alaska Stat. § 09.80.010-,alaska stat. § 09.80.010-,Statute,state_statute,AK,2,2,1,2016,2016,false,unresolved
 Alaska Stat. § 0917.080,alaska stat. § 0917.080,Statute,state_statute,AK,2,2,1,1998,1998,false,unresolved
@@ -1006,7 +988,6 @@ Alaska Stat. § 11.16.100,alaska stat. § 11.16.100,Statute,state_statute,AK,2,2
 Alaska Stat. § 11.20.080,alaska stat. § 11.20.080,Statute,state_statute,AK,2,1,1,2005,2005,false,unresolved
 Alaska Stat. § 11.31.120,alaska stat. § 11.31.120,Statute,state_statute,AK,2,2,1,2014,2014,true,exact
 Alaska Stat. § 11.41.150,alaska stat. § 11.41.150,Statute,state_statute,AK,2,2,2,2010,2013,true,exact
-Alaska Stat. § 11.41.210,alaska stat. § 11.41.210,Statute,state_statute,AK,2,2,1,2005,2005,true,exact
 Alaska Stat. § 11.46.110,alaska stat. § 11.46.110,Statute,state_statute,AK,2,2,1,1985,1985,true,exact
 Alaska Stat. § 11.46.280,alaska stat. § 11.46.280,Statute,state_statute,AK,2,2,2,2008,2020,true,exact
 Alaska Stat. § 11.46.400-420,alaska stat. § 11.46.400-420,Statute,state_statute,AK,2,1,1,2016,2016,false,unresolved
@@ -1034,6 +1015,7 @@ Alaska Stat. § 11.81.250,alaska stat. § 11.81.250,Statute,state_statute,AK,2,2
 Alaska Stat. § 11.81.335,alaska stat. § 11.81.335,Statute,state_statute,AK,2,2,2,1993,2000,true,exact
 Alaska Stat. § 11.81.340,alaska stat. § 11.81.340,Statute,state_statute,AK,2,2,1,1999,1999,true,exact
 Alaska Stat. § 11.81.450,alaska stat. § 11.81.450,Statute,state_statute,AK,2,2,1,1980,1980,true,exact
+Alaska Stat. § 11.81.600,alaska stat. § 11.81.600,Statute,state_statute,AK,2,2,1,2022,2022,true,exact
 Alaska Stat. § 11.81.600-.610,alaska stat. § 11.81.600-.610,Statute,state_statute,AK,2,2,1,1999,2001,true,multiple
 Alaska Stat. § 11.81.610,alaska stat. § 11.81.610,Statute,state_statute,AK,2,2,2,2021,2025,true,exact
 Alaska Stat. § 11.81.620,alaska stat. § 11.81.620,Statute,state_statute,AK,2,2,1,2001,2001,true,exact
@@ -1079,12 +1061,15 @@ Alaska Stat. § 14.45.120,alaska stat. § 14.45.120,Statute,state_statute,AK,2,2
 Alaska Stat. § 15-05.010,alaska stat. § 15-05.010,Statute,state_statute,AK,2,2,1,2005,2005,false,unresolved
 Alaska Stat. § 15.05.030,alaska stat. § 15.05.030,Statute,state_statute,AK,2,2,2,1979,1999,true,exact
 Alaska Stat. § 15.07.050,alaska stat. § 15.07.050,Statute,state_statute,AK,2,2,1,2008,2008,true,exact
+Alaska Stat. § 15.07.195,alaska stat. § 15.07.195,Statute,state_statute,AK,2,1,1,2023,2023,true,exact
+Alaska Stat. § 15.10.105,alaska stat. § 15.10.105,Statute,state_statute,AK,2,1,1,2022,2023,true,exact
 Alaska Stat. § 15.13.010,alaska stat. § 15.13.010,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
 Alaska Stat. § 15.13.068,alaska stat. § 15.13.068,Statute,state_statute,AK,2,2,2,2022,2025,true,exact
 Alaska Stat. § 15.13.072,alaska stat. § 15.13.072,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
 Alaska Stat. § 15.13.078,alaska stat. § 15.13.078,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
 Alaska Stat. § 15.13.082,alaska stat. § 15.13.082,Statute,state_statute,AK,2,2,1,2006,2006,true,exact
 Alaska Stat. § 15.13.112,alaska stat. § 15.13.112,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
+Alaska Stat. § 15.13.116,alaska stat. § 15.13.116,Statute,state_statute,AK,2,1,1,2003,2003,true,exact
 Alaska Stat. § 15.15.030,alaska stat. § 15.15.030,Statute,state_statute,AK,2,2,2,2006,2019,true,exact
 Alaska Stat. § 15.15.225,alaska stat. § 15.15.225,Statute,state_statute,AK,2,2,1,2008,2008,true,exact
 Alaska Stat. § 15.25.014,alaska stat. § 15.25.014,Statute,state_statute,AK,2,2,1,2008,2008,true,exact
@@ -1101,6 +1086,7 @@ Alaska Stat. § 16.30.010,alaska stat. § 16.30.010,Statute,state_statute,AK,2,2
 Alaska Stat. § 16.43.140,alaska stat. § 16.43.140,Statute,state_statute,AK,2,1,1,1992,1992,true,exact
 Alaska Stat. § 16.43.150,alaska stat. § 16.43.150,Statute,state_statute,AK,2,2,2,2011,2022,true,exact
 Alaska Stat. § 16.43.970,alaska stat. § 16.43.970,Statute,state_statute,AK,2,1,1,1990,1990,true,exact
+Alaska Stat. § 17.30.080,alaska stat. § 17.30.080,Statute,state_statute,AK,2,1,1,2024,2024,true,exact
 Alaska Stat. § 17.30.100,alaska stat. § 17.30.100,Statute,state_statute,AK,2,2,1,2018,2018,true,exact
 Alaska Stat. § 17.30.100-.130,alaska stat. § 17.30.100-.130,Statute,state_statute,AK,2,2,1,1997,1997,true,multiple
 Alaska Stat. § 17.30.116,alaska stat. § 17.30.116,Statute,state_statute,AK,2,2,2,1996,1998,true,exact
@@ -1112,13 +1098,10 @@ Alaska Stat. § 18.16.010,alaska stat. § 18.16.010,Statute,state_statute,AK,2,2
 Alaska Stat. § 18.16.060,alaska stat. § 18.16.060,Statute,state_statute,AK,2,2,1,2006,2006,true,exact
 Alaska Stat. § 18.50.290,alaska stat. § 18.50.290,Statute,state_statute,AK,2,1,1,2024,2024,true,exact
 Alaska Stat. § 18.55.995-998,alaska stat. § 18.55.995-998,Statute,state_statute,AK,2,2,1,1982,1982,false,unresolved
-Alaska Stat. § 18.65.530,alaska stat. § 18.65.530,Statute,state_statute,AK,2,2,1,2022,2026,true,exact
 Alaska Stat. § 18.80.210,alaska stat. § 18.80.210,Statute,state_statute,AK,2,2,1,1999,1999,true,exact
 Alaska Stat. § 18.80.260,alaska stat. § 18.80.260,Statute,state_statute,AK,2,1,1,2002,2002,true,exact
-Alaska Stat. § 18.85.170,alaska stat. § 18.85.170,Statute,state_statute,AK,2,2,2,2004,2015,true,exact
 Alaska Stat. § 19.30.400,alaska stat. § 19.30.400,Statute,state_statute,AK,2,1,1,2014,2014,true,exact
 Alaska Stat. § 19.40.010,alaska stat. § 19.40.010,Statute,state_statute,AK,2,2,1,1973,1973,true,exact
-Alaska Stat. § 21.07.030,alaska stat. § 21.07.030,Statute,state_statute,AK,2,1,1,2025,2025,true,exact
 Alaska Stat. § 21.09.270,alaska stat. § 21.09.270,Statute,state_statute,AK,2,2,2,1984,1999,true,exact
 Alaska Stat. § 21.36.096,alaska stat. § 21.36.096,Statute,state_statute,AK,2,1,1,2023,2023,true,exact
 Alaska Stat. § 21.36.210,alaska stat. § 21.36.210,Statute,state_statute,AK,2,2,1,1995,2004,true,exact
@@ -1135,6 +1118,8 @@ Alaska Stat. § 22.10.030,alaska stat. § 22.10.030,Statute,state_statute,AK,2,2
 Alaska Stat. § 22.15.020,alaska stat. § 22.15.020,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
 Alaska Stat. § 22.15.030,alaska stat. § 22.15.030,Statute,state_statute,AK,2,2,1,2022,2022,true,exact
 Alaska Stat. § 22.20.022,alaska stat. § 22.20.022,Statute,state_statute,AK,2,2,2,1988,2017,true,exact
+Alaska Stat. § 23.10.065,alaska stat. § 23.10.065,Statute,state_statute,AK,2,1,1,2003,2023,true,exact
+Alaska Stat. § 23.10.670,alaska stat. § 23.10.670,Statute,state_statute,AK,2,1,1,2008,2008,true,exact
 Alaska Stat. § 23.20.526,alaska stat. § 23.20.526,Statute,state_statute,AK,2,2,2,2013,2018,true,exact
 Alaska Stat. § 23.25.020,alaska stat. § 23.25.020,Statute,state_statute,AK,2,1,1,1977,1977,true,exact
 Alaska Stat. § 23.30,alaska stat. § 23.30,Statute,state_statute,AK,2,2,1,2004,2004,false,unresolved
@@ -1181,7 +1166,7 @@ Alaska Stat. § 33.30.050,alaska stat. § 33.30.050,Statute,state_statute,AK,2,2
 Alaska Stat. § 33.36.010,alaska stat. § 33.36.010,Statute,state_statute,AK,2,2,1,2006,2006,true,exact
 Alaska Stat. § 33.36.040,alaska stat. § 33.36.040,Statute,state_statute,AK,2,2,1,2006,2006,true,exact
 Alaska Stat. § 335,alaska stat. § 335,Statute,state_statute,AK,2,2,1,2014,2014,false,unresolved
-Alaska Stat. § 34.35.430,alaska stat. § 34.35.430,Statute,state_statute,AK,2,2,2,1982,2000,true,exact
+Alaska Stat. § 34.20.070,alaska stat. § 34.20.070,Statute,state_statute,AK,2,1,1,2025,2025,true,exact
 Alaska Stat. § 34.60.150,alaska stat. § 34.60.150,Statute,state_statute,AK,2,2,1,1986,1986,true,exact
 Alaska Stat. § 34.70.060,alaska stat. § 34.70.060,Statute,state_statute,AK,2,2,1,2002,2002,true,exact
 Alaska Stat. § 36.05.900,alaska stat. § 36.05.900,Statute,state_statute,AK,2,2,1,2012,2012,true,exact
@@ -1196,8 +1181,9 @@ Alaska Stat. § 38.35.130,alaska stat. § 38.35.130,Statute,state_statute,AK,2,2
 Alaska Stat. § 38.50.020,alaska stat. § 38.50.020,Statute,state_statute,AK,2,2,1,1990,1990,true,exact
 Alaska Stat. § 386.05.010,alaska stat. § 386.05.010,Statute,state_statute,AK,2,2,1,1998,1998,false,unresolved
 Alaska Stat. § 39.05.010,alaska stat. § 39.05.010,Statute,state_statute,AK,2,2,1,1976,1976,false,unresolved
+Alaska Stat. § 39.25.010,alaska stat. § 39.25.010,Statute,state_statute,AK,2,1,1,2022,2022,true,exact
 Alaska Stat. § 39.25.020,alaska stat. § 39.25.020,Statute,state_statute,AK,2,1,1,1972,1972,true,exact
-Alaska Stat. § 39.25.178,alaska stat. § 39.25.178,Statute,state_statute,AK,2,1,1,2022,2022,true,exact
+Alaska Stat. § 39.25.120,alaska stat. § 39.25.120,Statute,state_statute,AK,2,1,1,2022,2022,true,exact
 Alaska Stat. § 39.90.120,alaska stat. § 39.90.120,Statute,state_statute,AK,2,2,1,2005,2005,true,exact
 Alaska Stat. § 40.25.120,alaska stat. § 40.25.120,Statute,state_statute,AK,2,2,1,2012,2012,true,exact
 Alaska Stat. § 42.20.100,alaska stat. § 42.20.100,Statute,state_statute,AK,2,2,1,1967,1967,false,unresolved
@@ -1212,18 +1198,20 @@ Alaska Stat. § 43.50.105,alaska stat. § 43.50.105,Statute,state_statute,AK,2,1
 Alaska Stat. § 44.12.300-.380,alaska stat. § 44.12.300-.380,Statute,state_statute,AK,2,2,1,2002,2002,true,multiple
 Alaska Stat. § 44.15.010,alaska stat. § 44.15.010,Statute,state_statute,AK,2,2,1,1982,1982,false,unresolved
 Alaska Stat. § 44.42.050,alaska stat. § 44.42.050,Statute,state_statute,AK,2,2,1,2011,2011,true,exact
-Alaska Stat. § 44.62.560,alaska stat. § 44.62.560,Statute,state_statute,AK,2,2,1,2004,2004,true,exact
+Alaska Stat. § 44.62.460,alaska stat. § 44.62.460,Statute,state_statute,AK,2,1,1,2024,2024,true,exact
 Alaska Stat. § 44.62.570,alaska stat. § 44.62.570,Statute,state_statute,AK,2,2,1,2004,2004,true,exact
 Alaska Stat. § 44.621310,alaska stat. § 44.621310,Statute,state_statute,AK,2,2,1,2003,2003,false,unresolved
 Alaska Stat. § 44.77.010,alaska stat. § 44.77.010,Statute,state_statute,AK,2,2,1,2004,2004,true,exact
 Alaska Stat. § 44.88.020,alaska stat. § 44.88.020,Statute,state_statute,AK,2,2,2,2024,2024,true,exact
 Alaska Stat. § 45-55.220,alaska stat. § 45-55.220,Statute,state_statute,AK,2,2,1,1985,1985,false,unresolved
 Alaska Stat. § 45.02.107,alaska stat. § 45.02.107,Statute,state_statute,AK,2,2,2,1996,2025,true,exact
+Alaska Stat. § 45.02.719,alaska stat. § 45.02.719,Statute,state_statute,AK,2,1,1,2017,2022,true,exact
 Alaska Stat. § 45.03.118,alaska stat. § 45.03.118,Statute,state_statute,AK,2,1,1,2025,2025,true,exact
 Alaska Stat. § 45.09.503,alaska stat. § 45.09.503,Statute,state_statute,AK,2,2,1,1983,1983,false,unresolved
 Alaska Stat. § 45.10.220,alaska stat. § 45.10.220,Statute,state_statute,AK,2,2,1,1975,1975,true,exact
 Alaska Stat. § 45.35.010,alaska stat. § 45.35.010,Statute,state_statute,AK,2,2,2,2005,2009,true,exact
 Alaska Stat. § 45.50.010,alaska stat. § 45.50.010,Statute,state_statute,AK,2,2,1,2010,2010,true,exact
+Alaska Stat. § 45.50.481,alaska stat. § 45.50.481,Statute,state_statute,AK,2,1,1,2022,2024,true,exact
 Alaska Stat. § 45.50.537,alaska stat. § 45.50.537,Statute,state_statute,AK,2,2,2,2022,2025,true,exact
 Alaska Stat. § 45.50.568,alaska stat. § 45.50.568,Statute,state_statute,AK,2,2,1,1988,1988,true,exact
 Alaska Stat. § 45.57.010-.120,alaska stat. § 45.57.010-.120,Statute,state_statute,AK,2,2,1,1978,1978,true,multiple
@@ -1235,11 +1223,13 @@ Alaska Stat. § 46.03.900,alaska stat. § 46.03.900,Statute,state_statute,AK,2,2
 Alaska Stat. § 47.05.070,alaska stat. § 47.05.070,Statute,state_statute,AK,2,2,2,1998,2008,true,exact
 Alaska Stat. § 47.05.075,alaska stat. § 47.05.075,Statute,state_statute,AK,2,1,1,2008,2008,true,exact
 Alaska Stat. § 47.10.020,alaska stat. § 47.10.020,Statute,state_statute,AK,2,2,1,2023,2023,true,exact
+Alaska Stat. § 47.10.084,alaska stat. § 47.10.084,Statute,state_statute,AK,2,2,1,2023,2023,true,exact
 Alaska Stat. § 47.10.090,alaska stat. § 47.10.090,Statute,state_statute,AK,2,2,1,1980,1980,true,exact
 Alaska Stat. § 47.10.320,alaska stat. § 47.10.320,Statute,state_statute,AK,2,2,1,1989,1989,true,exact
 Alaska Stat. § 47.12.030,alaska stat. § 47.12.030,Statute,state_statute,AK,2,2,1,2005,2005,true,exact
 Alaska Stat. § 47.12.100,alaska stat. § 47.12.100,Statute,state_statute,AK,2,2,1,1998,1998,true,exact
 Alaska Stat. § 47.17.030,alaska stat. § 47.17.030,Statute,state_statute,AK,2,2,1,2023,2023,true,exact
+Alaska Stat. § 47.17.068,alaska stat. § 47.17.068,Statute,state_statute,AK,2,1,1,2023,2024,true,exact
 Alaska Stat. § 575,alaska stat. § 575,Statute,state_statute,AK,2,2,1,2014,2014,false,unresolved
 Alaska Stat. § 600,alaska stat. § 600,Statute,state_statute,AK,2,2,1,2014,2014,false,unresolved
 Alaska Stat. § 9.35.035,alaska stat. § 9.35.035,Statute,state_statute,AK,2,2,1,1980,1980,false,unresolved
@@ -1257,6 +1247,7 @@ Alaska Statute § 08.18.151,alaska statute § 08.18.151,Statute,state_statute,AK
 Alaska Statute § 09.05.015,alaska statute § 09.05.015,Statute,state_statute,AK,2,2,1,2024,2025,true,exact
 Alaska Statute § 09.20.185,alaska statute § 09.20.185,Statute,state_statute,AK,2,2,2,2013,2015,true,exact
 Alaska Statute § 09.30.070,alaska statute § 09.30.070,Statute,state_statute,AK,2,2,2,2005,2022,true,exact
+Alaska Statute § 09.45.170,alaska statute § 09.45.170,Statute,state_statute,AK,2,1,1,2025,2025,true,exact
 Alaska Statute § 09.50.253,alaska statute § 09.50.253,Statute,state_statute,AK,2,2,1,2022,2024,true,exact
 Alaska Statute § 09.65.155,alaska statute § 09.65.155,Statute,state_statute,AK,2,1,1,2011,2011,true,exact
 Alaska Statute § 11.41.230,alaska statute § 11.41.230,Statute,state_statute,AK,2,1,1,2026,2026,true,exact
@@ -1272,6 +1263,7 @@ Alaska Statute § 32.11.010,alaska statute § 32.11.010,Statute,state_statute,AK
 Alaska Statute § 34.20.070,alaska statute § 34.20.070,Statute,state_statute,AK,2,2,2,1978,2019,true,exact
 Alaska Statute § 43.23.005-.015,alaska statute § 43.23.005-.015,Statute,state_statute,AK,2,2,1,1989,1989,true,multiple
 Alaska Statute § 45.50.542,alaska statute § 45.50.542,Statute,state_statute,AK,2,1,1,2026,2026,true,exact
+Alaska Statute § 46.03.750,alaska statute § 46.03.750,Statute,state_statute,AK,2,1,1,1984,1984,true,exact
 Alaska Statute § 47.10.142,alaska statute § 47.10.142,Statute,state_statute,AK,2,1,1,2014,2014,true,exact
 "Alaska Statutes Annotated, 1962, Title 11 § 11.15.010","alaska statutes annotated, 1962, title 11 § 11.15.010",Statute,state_statute,AK,2,1,1,1972,1972,false,unresolved
 Alaska Statutes § 09.30.010,alaska statutes § 09.30.010,Statute,state_statute,AK,2,1,1,1984,1984,true,exact
@@ -1280,12 +1272,10 @@ Alaska Statutes § 09.55.650,alaska statutes § 09.55.650,Statute,state_statute,
 Alaska Statutes § 10.05.162,alaska statutes § 10.05.162,Statute,state_statute,AK,2,2,1,1966,1966,false,unresolved
 Alaska Statutes § 10.06.015,alaska statutes § 10.06.015,Statute,state_statute,AK,2,1,1,1999,1999,true,exact
 Alaska Statutes § 11.41.220,alaska statutes § 11.41.220,Statute,state_statute,AK,2,2,1,2007,2007,true,exact
-Alaska Statutes § 11.41.436,alaska statutes § 11.41.436,Statute,state_statute,AK,2,1,1,2019,2019,true,exact
 Alaska Statutes § 12.25.070,alaska statutes § 12.25.070,Statute,state_statute,AK,2,2,2,1981,2022,true,exact
 Alaska Statutes § 13.11.045,alaska statutes § 13.11.045,Statute,state_statute,AK,2,2,1,1977,1977,false,unresolved
 Alaska Statutes § 13.12.101,alaska statutes § 13.12.101,Statute,state_statute,AK,2,2,1,1997,1997,true,exact
 Alaska Statutes § 15.13.070,alaska statutes § 15.13.070,Statute,state_statute,AK,2,2,1,2003,2003,true,exact
-Alaska Statutes § 18.66.100,alaska statutes § 18.66.100,Statute,state_statute,AK,2,2,2,2012,2023,true,exact
 Alaska Statutes § 22.30.070,alaska statutes § 22.30.070,Statute,state_statute,AK,2,2,1,1973,1973,true,exact
 Alaska Statutes § 25.23.060,alaska statutes § 25.23.060,Statute,state_statute,AK,2,2,1,1986,1986,true,exact
 Alaska Statutes § 29.28,alaska statutes § 29.28,Statute,state_statute,AK,2,2,1,1976,1976,false,unresolved
@@ -1364,6 +1354,7 @@ Ann.Alaska Codes § 1024,ann.alaska codes § 1024,Statute,state_statute,AK,2,2,1
 "Ann.Alaska Codes, Pt. II, ch. 28 § 256","ann.alaska codes, pt. ii, ch. 28 § 256",Statute,state_statute,AK,2,1,1,1986,1986,false,unresolved
 C. Alaska Stat. § 09.65.070,c. alaska stat. § 09.65.070,Statute,state_statute,AK,2,2,1,2007,2007,false,unresolved
 CAL. CIV. PROC. CODE § 580d,cal. civ. proc. code § 580d,Statute,state_statute,AK,2,2,2,2016,2018,true,exact
+CAL. Fam. Code § 6389,cal. fam. code § 6389,Statute,state_statute,AK,2,2,1,2024,2024,true,exact
 CBJ Code § 53.50.090,cbj code § 53.50.090,Statute,state_statute,AK,2,2,1,1985,1985,false,unresolved
 CBJ § 49.10.600,cbj § 49.10.600,Statute,state_statute,AK,2,1,1,2017,2017,false,unresolved
 CBJ § 49.10.620,cbj § 49.10.620,Statute,state_statute,AK,2,1,1,2017,2017,false,unresolved
@@ -1435,8 +1426,6 @@ FSA § V,fsa § v,Statute,state_statute,AK,2,1,1,1992,1992,false,unresolved
 G.C. § 11582,g.c. § 11582,Statute,state_statute,AK,2,2,1,1964,1966,false,unresolved
 GA. CODE ANN. § 15-11-680,ga. code ann. § 15-11-680,Statute,state_statute,AK,2,1,1,2016,2016,true,exact
 GA. CODE ANN. § 15-11-682,ga. code ann. § 15-11-682,Statute,state_statute,AK,2,1,1,2016,2016,true,exact
-H.B. 114 § 13,h.b. 114 § 13,Statute,state_statute,AK,2,2,1,2006,2006,false,unresolved
-H.B. § 9,h.b. § 9,Statute,state_statute,AK,2,2,2,2022,2025,false,unresolved
 HCS CSSB 3 (Finance) § 11,hcs cssb 3 (finance) § 11,Statute,state_statute,AK,2,2,1,2002,2002,false,unresolved
 ICWA § 190,icwa § 190,Statute,state_statute,AK,2,2,1,2005,2005,false,unresolved
 ICWA § 1914,icwa § 1914,Statute,state_statute,AK,2,2,2,2006,2023,false,unresolved
@@ -1482,7 +1471,6 @@ OF CONTS. § 164,of conts. § 164,Statute,state_statute,AK,2,1,1,2025,2025,false
 OF CONTS. § 167,of conts. § 167,Statute,state_statute,AK,2,1,1,2025,2025,false,unresolved
 OF CONTS. § 204,of conts. § 204,Statute,state_statute,AK,2,1,1,2025,2025,false,unresolved
 OF CONTS. § 208,of conts. § 208,Statute,state_statute,AK,2,2,1,2025,2025,false,unresolved
-OF TRUSTS § 41,of trusts § 41,Statute,state_statute,AK,2,2,2,2006,2015,false,unresolved
 OHIO REV. CODE ANN. § 2919.121,ohio rev. code ann. § 2919.121,Statute,state_statute,AK,2,2,1,2016,2019,true,exact
 OKLA. STAT. ANN. tit. 63 § 1-740.2,okla. stat. ann. tit. 63 § 1-740.2,Statute,state_statute,AK,2,1,1,2007,2007,false,unresolved
 OLA § 27-1-161,ola § 27-1-161,Statute,state_statute,AK,2,1,1,1971,1971,false,unresolved
@@ -1502,7 +1490,6 @@ Penal Code (MPC) § 5.01,penal code (mpc) § 5.01,Statute,state_statute,AK,2,2,2
 R.C. 10541,r.c. 10541,Statute,state_statute,AK,2,2,1,1982,1982,false,unresolved
 REAA. Alaska Stat. § 14.08.041,reaa. alaska stat. § 14.08.041,Statute,state_statute,AK,2,2,1,1998,1998,false,unresolved
 RURESA § 3,ruresa § 3,Statute,state_statute,AK,2,2,2,1990,1997,false,unresolved
-S.B. § 1,s.b. § 1,Statute,state_statute,AK,2,1,1,2009,2009,false,unresolved
 "S.L.A. 1955, ch. 196 § 8","s.l.a. 1955, ch. 196 § 8",Statute,state_statute,AK,2,1,1,1966,1966,false,unresolved
 "S.L.A. 1960, ch. 83 § 4.91","s.l.a. 1960, ch. 83 § 4.91",Statute,state_statute,AK,2,1,1,1963,1963,false,unresolved
 "S.L.A. 1962, ch. 101 § 31.02","s.l.a. 1962, ch. 101 § 31.02",Statute,state_statute,AK,2,2,1,1963,1965,false,unresolved
@@ -1623,12 +1610,8 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 1 ALM § 14.05,1 alm § 14.05,Statute,state_statute,AK,1,1,1,1988,1988,false,unresolved
 "1 Alaska Compiled Laws, Annotated § 26-1-5","1 alaska compiled laws, annotated § 26-1-5",Statute,state_statute,AK,1,1,1,1951,1951,false,unresolved
 1 Alaska Stat. Ann. § 38.40.030,1 alaska stat. ann. § 38.40.030,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
-1 Alaska Stat. § 08.18.161,1 alaska stat. § 08.18.161,Statute,state_statute,AK,1,1,1,1987,1987,false,unresolved
-1 Alaska Stat. § 09.17.070,1 alaska stat. § 09.17.070,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
 1 Alaska Stat. § 16.05.536,1 alaska stat. § 16.05.536,Statute,state_statute,AK,1,1,1,1970,1970,false,unresolved
-1 Alaska Stat. § 25.27.190,1 alaska stat. § 25.27.190,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 1 Alaska Stat. § 43.75.060,1 alaska stat. § 43.75.060,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
-1 Alaska Statute § 46.03.750,1 alaska statute § 46.03.750,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 1 II. AMC § 21.55.010,1 ii. amc § 21.55.010,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 "1 SLA 2007, ch. 24 § 32","1 sla 2007, ch. 24 § 32",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "1 SLA 2016, ch. 36 § 151","1 sla 2016, ch. 36 § 151",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
@@ -1638,13 +1621,6 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 1 [A.C.L.A. § 52A-l-32,1 [a.c.l.a. § 52a-l-32,Statute,state_statute,AK,1,1,1,1961,1961,false,unresolved
 10 (Alaska App. 1991). 9 Ch. 80 § 6,10 (alaska app. 1991). 9 ch. 80 § 6,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
 10 ACO 97-51 § 7,10 aco 97-51 § 7,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
-10 Alaska Stat. § 04.11.360,10 alaska stat. § 04.11.360,Statute,state_statute,AK,1,1,1,1993,1993,false,unresolved
-10 Alaska Stat. § 09.55.580,10 alaska stat. § 09.55.580,Statute,state_statute,AK,1,1,1,1998,1998,false,unresolved
-10 Alaska Stat. § 12.63.020,10 alaska stat. § 12.63.020,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
-10 Alaska Stat. § 16.05.255,10 alaska stat. § 16.05.255,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-10 Alaska Stat. § 18.65.530,10 alaska stat. § 18.65.530,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-10 Alaska Stat. § 21.36.125,10 alaska stat. § 21.36.125,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-10 Alaska Statute § 23.05.140,10 alaska statute § 23.05.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "10 FSSLA 2019, ch. 4 § 16","10 fssla 2019, ch. 4 § 16",Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 "10 SLA 1980, ch. 12 § 1","10 sla 1980, ch. 12 § 1",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "10 SLA 1984, ch. 66 § 1","10 sla 1984, ch. 66 § 1",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
@@ -1653,9 +1629,6 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "10 SLA 2016, ch. 36 § 71","10 sla 2016, ch. 36 § 71",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "10 SLA 2022, ch. 8 § 103-04","10 sla 2022, ch. 8 § 103-04",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 1011 (Alaska 1967) (Article VII § 10,1011 (alaska 1967) (article vii § 10,Statute,state_statute,AK,1,1,1,2000,2000,false,unresolved
-102 Alaska Stat. § 17.30.080,102 alaska stat. § 17.30.080,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-103 Alaska Stat. § 17.30.080,103 alaska stat. § 17.30.080,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-107 Alaska Stat. § 18.65.530,107 alaska stat. § 18.65.530,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 11 AAC § 302.15,11 aac § 302.15,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 11 AAC § 505.74,11 aac § 505.74,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
 11 AAC § 505.743,11 aac § 505.743,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
@@ -1670,7 +1643,6 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 11 Alaska Adm.Oode § 203.02,11 alaska adm.oode § 203.02,Statute,state_statute,AK,1,1,1,1967,1967,false,unresolved
 11 Alaska Adm.Oode § 302.15,11 alaska adm.oode § 302.15,Statute,state_statute,AK,1,1,1,1967,1967,false,unresolved
 11 Alaska Adm.Oode § 302.18,11 alaska adm.oode § 302.18,Statute,state_statute,AK,1,1,1,1967,1967,false,unresolved
-11 Alaska Stat. § 09.50.250,11 alaska stat. § 09.50.250,Statute,state_statute,AK,1,1,1,1975,1975,false,unresolved
 11 C.S.S.B. 218 § 7,11 c.s.s.b. 218 § 7,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 "11 SLA 1998, ch. 136 § 1","11 sla 1998, ch. 136 § 1",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "11 SLA 2016, ch. 36 § 185","11 sla 2016, ch. 36 § 185",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
@@ -1678,19 +1650,9 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "11 SLA 2016, ch. 36 § 190","11 sla 2016, ch. 36 § 190",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 "11 SLA 2016, ch. 36 § 88-90","11 sla 2016, ch. 36 § 88-90",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 "11 SLA 2019, ch. 11 § 6","11 sla 2019, ch. 11 § 6",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-110 F.Supp. 713 (U.S.D.C.Alaska). Kansas Statutes Annotated § 40-256,110 f.supp. 713 (u.s.d.c.alaska). kansas statutes annotated § 40-256,Statute,state_statute,AK,1,1,1,1972,1972,false,unresolved
-113 Alaska Stat. § 45.50.531,113 alaska stat. § 45.50.531,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-114 Alaska Stat. § 47.17.020,114 alaska stat. § 47.17.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-115 Alaska Stat. § 47.17.068,115 alaska stat. § 47.17.068,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-116 Alaska Stat. § 45.50.531,116 alaska stat. § 45.50.531,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-116 Alaska Stat. § 47.17.020,116 alaska stat. § 47.17.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 1162 [P.L. 280 § 2,1162 [p.l. 280 § 2,Statute,state_statute,AK,1,1,1,1999,1999,false,unresolved
 1176 (1956 & 2000 updates). 19. Alaska Stat. § 28.35.030,1176 (1956 & 2000 updates). 19. alaska stat. § 28.35.030,Statute,state_statute,AK,1,1,1,2005,2005,false,unresolved
-118 Alaska Stat. § 09.17.020,118 alaska stat. § 09.17.020,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 118 SLA 1972 § 2,118 sla 1972 § 2,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
-119 Alaska Stat. § 47.14.112,119 alaska stat. § 47.14.112,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-1193 (Alaska 1989). 88 Alaska Stat. § 44.62.310,1193 (alaska 1989). 88 alaska stat. § 44.62.310,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-12 Alaska Stat. § 11.61.200,12 alaska stat. § 11.61.200,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "12 FSSLA 2019, ch. 4 § 11-13","12 fssla 2019, ch. 4 § 11-13",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 12 I.R.C. § 42,12 i.r.c. § 42,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 "12 SLA 1959, ch. 94 § 2","12 sla 1959, ch. 94 § 2",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
@@ -1700,15 +1662,8 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "12 SLA 2016, ch. 36 § 2717","12 sla 2016, ch. 36 § 2717",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "12 SLA 2016, ch. 36 § 5","12 sla 2016, ch. 36 § 5",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 12 U.S.O.A. § 92,12 u.s.o.a. § 92,Statute,state_statute,AK,1,1,1,1969,1969,true,exact
-121 S.Ct. 2351. 3 Alaska Stat. § 15.13.067,121 s.ct. 2351. 3 alaska stat. § 15.13.067,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
-122 Alaska Stat. Ann. § 34.03.010,122 alaska stat. ann. § 34.03.010,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
-122 Alaska Stat. § 09.17.020,122 alaska stat. § 09.17.020,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-123 Alaska Stat. Ann. § 34.03.100,123 alaska stat. ann. § 34.03.100,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
-123 Alaska Stat. § 13.36.079,123 alaska stat. § 13.36.079,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 1231 (Alaska 1993). 73 California Civil Code of Procedure § 410.42,1231 (alaska 1993). 73 california civil code of procedure § 410.42,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-124 Alaska Stat. § 13.36.079,124 alaska stat. § 13.36.079,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 1249 (Alaska 1992) (citations 28 omitted). 156 Alaska Stat. § 39.25.160,1249 (alaska 1992) (citations 28 omitted). 156 alaska stat. § 39.25.160,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-126 Alaska Stat. § 45.03.301,126 alaska stat. § 45.03.301,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 1272 (Alaska 1992) (Alaska Stat. § 09.15.010,1272 (alaska 1992) (alaska stat. § 09.15.010,Statute,state_statute,AK,1,1,1,1999,1999,false,unresolved
 128 SLA 1992 § 3,128 sla 1992 § 3,Statute,state_statute,AK,1,1,1,1999,1999,false,unresolved
 13 AAC § 02.403,13 aac § 02.403,Statute,state_statute,AK,1,1,1,1977,1977,false,unresolved
@@ -1722,69 +1677,34 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 13 Alaska Adm.Code § 343,13 alaska adm.code § 343,Statute,state_statute,AK,1,1,1,1964,1964,false,unresolved
 13 Alaska Adm.Code § 88,13 alaska adm.code § 88,Statute,state_statute,AK,1,1,1,1965,1965,false,unresolved
 13 Alaska Adm.Code § 97,13 alaska adm.code § 97,Statute,state_statute,AK,1,1,1,1966,1966,false,unresolved
-13 Alaska Stat. Ann. § 23.10.055,13 alaska stat. ann. § 23.10.055,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
-13 Alaska Stat. § 12.47.010,13 alaska stat. § 12.47.010,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
 13 Alaska Stat. § 13.26.145,13 alaska stat. § 13.26.145,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
 13 Alaska Stat. § 13.36.079,13 alaska stat. § 13.36.079,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
-13 Alaska Stat. § 15.13.090,13 alaska stat. § 15.13.090,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "13 FSSLA 2019, ch. 4 § 138","13 fssla 2019, ch. 4 § 138",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 "13 FSSLA 2019, ch. 4 § 150","13 fssla 2019, ch. 4 § 150",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 "13 FSSLA 2019, ch. 4 § 68","13 fssla 2019, ch. 4 § 68",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 "13 SLA 1996, ch. 71 § 1","13 sla 1996, ch. 71 § 1",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "13 SLA 1996, ch. 71 § 11","13 sla 1996, ch. 71 § 11",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "13 SLA 2017, ch. 13 § 30","13 sla 2017, ch. 13 § 30",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-131 Alaska Stat. § 44.62.460,131 alaska stat. § 44.62.460,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-132 Alaska Stat. § 44.62.560,132 alaska stat. § 44.62.560,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-134 Alaska Statute § 01.10.080,134 alaska statute § 01.10.080,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 135 (Alaska App. 1981). Article 1 § 7,135 (alaska app. 1981). article 1 § 7,Statute,state_statute,AK,1,1,1,1985,1985,false,unresolved
 135 (Alaska App.1981). Article 1 § 7,135 (alaska app.1981). article 1 § 7,Statute,state_statute,AK,1,1,1,1985,1985,false,unresolved
-135 Alaska Stat. § 09.55.570,135 alaska stat. § 09.55.570,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-136 Alaska Stat. § 10.50.265,136 alaska stat. § 10.50.265,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-137 Alaska Stat. § 39.25.010,137 alaska stat. § 39.25.010,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 1371 (Alaska 1993). 2 Ch. 90 § 2,1371 (alaska 1993). 2 ch. 90 § 2,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
-138 Alaska Stat. § 45.50.471,138 alaska stat. § 45.50.471,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-139 Alaska Stat. § 39.25.090,139 alaska stat. § 39.25.090,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-14 Alaska Stat. § 05.25.100,14 alaska stat. § 05.25.100,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
-14 Alaska Stat. § 11.81.900,14 alaska stat. § 11.81.900,Statute,state_statute,AK,1,1,1,1993,1993,false,unresolved
-14 Alaska Stat. § 28.35.033,14 alaska stat. § 28.35.033,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
-14 Alaska Stat. § 46.03.822,14 alaska stat. § 46.03.822,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
-14 Alaska Statute § 09.10.070,14 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "14 FSSLA 2019, ch. 4 § 115","14 fssla 2019, ch. 4 § 115",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 "14 SLA 2008, ch. 75 § 22","14 sla 2008, ch. 75 § 22",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-140 Alaska Stat. § 39.25.120,140 alaska stat. § 39.25.120,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-140 Alaska Stat. § 45.02.313,140 alaska stat. § 45.02.313,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-141 Alaska Stat. § 39.25.120,141 alaska stat. § 39.25.120,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-142 Alaska Stat. § 39.25.160,142 alaska stat. § 39.25.160,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-142 Alaska Stat. § 44.62.460,142 alaska stat. § 44.62.460,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "143 (ch. I, art. VII § 1","143 (ch. i, art. vii § 1",Statute,state_statute,AK,1,1,1,1980,1980,false,unresolved
-143 Alaska Stat. § 39.25.178,143 alaska stat. § 39.25.178,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-144 Alaska Stat. § 44.62.560,144 alaska stat. § 44.62.560,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-144 Alaska Stat. § 45.02.316,144 alaska stat. § 45.02.316,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 149 FSSLA 2005. 5 Article XII § 7,149 fssla 2005. 5 article xii § 7,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-15 Alaska Stat. § 09.10.070,15 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-15 Alaska Stat. § 12.72.020,15 alaska stat. § 12.72.020,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 "15 FSSLA 2019, ch. 4 § 142","15 fssla 2019, ch. 4 § 142",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 "15 SLA 2002, ch. 60 § 55","15 sla 2002, ch. 60 § 55",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "15 SLA 2002, ch. 60 § 6","15 sla 2002, ch. 60 § 6",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "15 SLA 2016, ch. 36 § 148","15 sla 2016, ch. 36 § 148",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-15 U. S.O. § 1671-77,15 u. s.o. § 1671-77,Statute,state_statute,AK,1,1,1,1973,1973,false,unresolved
 151 [A.C.L.A. § 52A-1-31,151 [a.c.l.a. § 52a-1-31,Statute,state_statute,AK,1,1,1,1961,1961,false,unresolved
-153 Alaska Stat. § 39.25.010,153 alaska stat. § 39.25.010,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-16 Alaska Stat. § 09.10.070,16 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 16 ICWA § 1912,16 icwa § 1912,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 164 (Alaska 1999) § 1823,164 (alaska 1999) § 1823,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
 17 (Alaska Stat. § 21-12.055,17 (alaska stat. § 21-12.055,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
 17 ACLA § 50-5-3,17 acla § 50-5-3,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-17 Alaska Stat. § 09.10.070,17 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-17 Alaska Stat. § 18.66.990,17 alaska stat. § 18.66.990,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-17 Alaska Stat. § 23.05.140,17 alaska stat. § 23.05.140,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
-17 Alaska Statute § 09.10.070,17 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "17 SLA 2007, ch. 24 § 20","17 sla 2007, ch. 24 § 20",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "17 SLA 2016, ch. 36 § 113","17 sla 2016, ch. 36 § 113",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "17 SLA 2017, ch. 13 § 30","17 sla 2017, ch. 13 § 30",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 17 UCCJEA § 202,17 uccjea § 202,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-178 Alaska Stat. § 09.17.020,178 alaska stat. § 09.17.020,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-18 Alaska Stat. § 09.10.120,18 alaska stat. § 09.10.120,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
 18 Alaska Stat. § 18.65.530,18 alaska stat. § 18.65.530,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 18 ICWA § 1911,18 icwa § 1911,Statute,state_statute,AK,1,1,1,2011,2011,false,unresolved
 18 PA. CONS. STAT. ANN. § 3206,18 pa. cons. stat. ann. § 3206,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
@@ -1793,17 +1713,12 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "18 SLA 2001, ch. 63 § 14","18 sla 2001, ch. 63 § 14",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "18 SLA 2002, ch. 93 § 1","18 sla 2002, ch. 93 § 1",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "18 SLA 2015, ch. 20 § 2","18 sla 2015, ch. 20 § 2",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-18 TJ.S.C.A. § 3651,18 tj.s.c.a. § 3651,Statute,state_statute,AK,1,1,1,1975,1975,false,unresolved
 18 V.S.C. § 3583,18 v.s.c. § 3583,Statute,state_statute,AK,1,1,1,1996,1996,false,unresolved
-182 Alaska Stat. § 16.05.255,182 alaska stat. § 16.05.255,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 19 (...continued) LAW OF WILLS § 15.2,19 (...continued) law of wills § 15.2,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 19 (Opp.). 67 Alaska Stat. § 18.65.450,19 (opp.). 67 alaska stat. § 18.65.450,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 19 AAC § 10.190,19 aac § 10.190,Statute,state_statute,AK,1,1,1,1974,1974,false,unresolved
 19 AAC § 15.010,19 aac § 15.010,Statute,state_statute,AK,1,1,1,1974,1974,false,unresolved
 19 AAG § 10.010,19 aag § 10.010,Statute,state_statute,AK,1,1,1,1974,1974,false,unresolved
-19 Alaska Stat. § 09.10.140,19 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-19 Alaska Stat. § 22.07.020,19 alaska stat. § 22.07.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-19 CER. § 171.13,19 cer. § 171.13,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
 "19 SLA 1980, ch. 129 § 10","19 sla 1980, ch. 129 § 10",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "19 SLA 1997, ch. 37 § 2","19 sla 1997, ch. 37 § 2",Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 "19 SLA 2016, ch. 36 § 71","19 sla 2016, ch. 36 § 71",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
@@ -1811,15 +1726,7 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 2 Alaska Alaska Stat. § 11.61.200,2 alaska alaska stat. § 11.61.200,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 "2 Alaska Comp. L. Ann., 1949 § 43-3-1","2 alaska comp. l. ann., 1949 § 43-3-1",Statute,state_statute,AK,1,1,1,1958,1958,false,unresolved
 2 Alaska Comp.Laws Ann. § 43-3-4,2 alaska comp.laws ann. § 43-3-4,Statute,state_statute,AK,1,1,1,1957,1957,false,unresolved
-2 Alaska Stat. § 08.45.020,2 alaska stat. § 08.45.020,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
-2 Alaska Stat. § 11.41.120,2 alaska stat. § 11.41.120,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
-2 Alaska Stat. § 11.61.200,2 alaska stat. § 11.61.200,Statute,state_statute,AK,1,1,1,1993,1993,false,unresolved
-2 Alaska Stat. § 11.81.900,2 alaska stat. § 11.81.900,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
-2 Alaska Stat. § 12.55.015,2 alaska stat. § 12.55.015,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-2 Alaska Stat. § 17.37.010,2 alaska stat. § 17.37.010,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-2 Alaska Stat. § 17.38.010,2 alaska stat. § 17.38.010,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 2 Alaska Stat. § 9.10.050,2 alaska stat. § 9.10.050,Statute,state_statute,AK,1,1,1,1987,1987,false,unresolved
-2 Alaska Statutes § 18.66.100,2 alaska statutes § 18.66.100,Statute,state_statute,AK,1,1,1,2012,2012,false,unresolved
 "2 SLA 2015, ch. 20 § 1-3","2 sla 2015, ch. 20 § 1-3",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "2 SLA 2016, ch. 36 § 113","2 sla 2016, ch. 36 § 113",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "2 SLA 2016, ch. 36 § 148","2 sla 2016, ch. 36 § 148",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
@@ -1829,53 +1736,30 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "2 SLA 2016, ch. 36 § 79","2 sla 2016, ch. 36 § 79",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 2 TT.S.C. § 431,2 tt.s.c. § 431,Statute,state_statute,AK,1,1,1,1975,1975,false,unresolved
 2 TT.S.C. § 454,2 tt.s.c. § 454,Statute,state_statute,AK,1,1,1,1975,1975,false,unresolved
-20 AM. JUR. 2D Courts § 90,20 am. jur. 2d courts § 90,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-20 Alaska Stat. Ann. § 47.30.915,20 alaska stat. ann. § 47.30.915,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-20 Alaska Stat. § 09.10.070,20 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-20 Alaska Stat. § 12.40.110,20 alaska stat. § 12.40.110,Statute,state_statute,AK,1,1,1,1990,1990,false,unresolved
-20 Alaska Stat. § 22.05.010,20 alaska stat. § 22.05.010,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "20 SLA 1980, ch. 129 § 13","20 sla 1980, ch. 129 § 13",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "20 SLA 2019, ch. 11 § 6","20 sla 2019, ch. 11 § 6",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 20 UCCJEA § 202,20 uccjea § 202,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-206 Alaska Stat. § 45.50.471,206 alaska stat. § 45.50.471,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-207 Alaska Stat. § 45.50.471,207 alaska stat. § 45.50.471,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-21 AM. JUR. 2D Criminal Law § 1,21 am. jur. 2d criminal law § 1,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-21 Alaska Statute § 09.38.055,21 alaska statute § 09.38.055,Statute,state_statute,AK,1,1,1,2008,2008,false,unresolved
 21 OKLA. ST. ANN. § 711,21 okla. st. ann. § 711,Statute,state_statute,AK,1,1,1,2006,2006,true,exact
 "21 SLA 1978, ch. 166 § 12","21 sla 1978, ch. 166 § 12",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "21 SLA 1982, ch. 117 § 18","21 sla 1982, ch. 117 § 18",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 21 U.SR.C. § 844,21 u.sr.c. § 844,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 "213 F. 2d 635. 2 Alaska Comp. L. Ann., 1949 § 19-1-1","213 f. 2d 635. 2 alaska comp. l. ann., 1949 § 19-1-1",Statute,state_statute,AK,1,1,1,1959,1959,false,unresolved
 218 SLA 1970 § 5,218 sla 1970 § 5,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
-22 (1994). Cf. Alaska Stat. § 01.10.010,22 (1994). cf. alaska stat. § 01.10.010,Statute,state_statute,AK,1,1,1,1999,1999,false,unresolved
-22 Alaska Stat. Ann. § 47.30.915,22 alaska stat. ann. § 47.30.915,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "22 SLA 2000, ch. 44 § 5","22 sla 2000, ch. 44 § 5",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 22 UCCJEA § 202,22 uccjea § 202,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-23 Alaska Stat. § 09.10.070,23 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-23 Alaska Stat. § 09.17.070,23 alaska stat. § 09.17.070,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 23 Alaska Stat. § 12.55.050,23 alaska stat. § 12.55.050,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
 23 I.R.C. § 152,23 i.r.c. § 152,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
-236 Alaska Stat. § 45.50.471,236 alaska stat. § 45.50.471,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-24 Alaska Stat. § 09.10.140,24 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 24 ICWA § 1911,24 icwa § 1911,Statute,state_statute,AK,1,1,1,2011,2011,false,unresolved
 "24 SLA 1960, ch. 81 § 9","24 sla 1960, ch. 81 § 9",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "24 SLA 1996, ch. 64 § 33","24 sla 1996, ch. 64 § 33",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-241 Alaska Stat. § 11.81.370,241 alaska stat. § 11.81.370,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-247 Alaska Stat. § 45.50.531,247 alaska stat. § 45.50.531,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 25 AL.R.Ath 787 § 15,25 al.r.ath 787 § 15,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
 25 AL.R.Ath 787 § 4,25 al.r.ath 787 § 4,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
-25 Alaska Stat. § 09.10.140,25 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "25 FSSLA 2019, ch. 4 § 138","25 fssla 2019, ch. 4 § 138",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "25 FSSLA 2019, ch. 4 § 53","25 fssla 2019, ch. 4 § 53",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "25 FSSLA 2019, ch. 4 § 75","25 fssla 2019, ch. 4 § 75",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 25 IJ.S.C. § 1911,25 ij.s.c. § 1911,Statute,state_statute,AK,1,1,1,1987,1987,false,unresolved
 25 U.S.O.A. § 461,25 u.s.o.a. § 461,Statute,state_statute,AK,1,1,1,1961,1961,true,exact
 25 U.S.O.A. § 479,25 u.s.o.a. § 479,Statute,state_statute,AK,1,1,1,1961,1961,true,exact
-252 Alaska Stat. § 09.55.580,252 alaska stat. § 09.55.580,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-256-36 (West 1971). Alaska Stat. § 34.35.430,256-36 (west 1971). alaska stat. § 34.35.430,Statute,state_statute,AK,1,1,1,1982,1982,false,unresolved
-26 Alaska Stat. Ann. § 47.30.755,26 alaska stat. ann. § 47.30.755,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-26 Alaska Stat. § 05.25.050,26 alaska stat. § 05.25.050,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
-26 Alaska Stat. § 05.45.010,26 alaska stat. § 05.45.010,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "26 FSSLA 2019, ch. 4 § 2752","26 fssla 2019, ch. 4 § 2752",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "26 FSSLA 2019, ch. 4 § 51-52","26 fssla 2019, ch. 4 § 51-52",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "26 FSSLA 2019, ch. 4 § 9","26 fssla 2019, ch. 4 § 9",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
@@ -1885,16 +1769,12 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 26 U.S.G. § 151,26 u.s.g. § 151,Statute,state_statute,AK,1,1,1,1975,1975,true,exact
 26 UNIF.PROBATE CODE § 2-502.B,26 unif.probate code § 2-502.b,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 27 ACLA § 39-6-1,27 acla § 39-6-1,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-27 Alaska Stat. § 05.45.020,27 alaska stat. § 05.45.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 27 Art. VIII § 1,27 art. viii § 1,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 "27 SLA 1985, ch. 88 § 2","27 sla 1985, ch. 88 § 2",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "27 SLA 1986, ch. 80 § 1","27 sla 1986, ch. 80 § 1",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "27 SLA 2005, ch. 2 § 1","27 sla 2005, ch. 2 § 1",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "27 SLA 2006, ch. 68 § 3","27 sla 2006, ch. 68 § 3",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "28 (Jan. 18, 1994). 35 SLA 1994, ch. 46 § 1","28 (jan. 18, 1994). 35 sla 1994, ch. 46 § 1",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-28 Alaska Stat. § 05.45.200,28 alaska stat. § 05.45.200,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-28 Alaska Stat. § 09.10.053,28 alaska stat. § 09.10.053,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-28 Alaska Stat. § 09.10.140,28 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 28 Art. VIII § 2,28 art. viii § 2,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 28 MODEL PENAL CODE § 4.05,28 model penal code § 4.05,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "28 SLA 1980, ch. 131 § 3","28 sla 1980, ch. 131 § 3",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
@@ -1904,23 +1784,14 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "28 SLA 2016, ch. 36 § 190","28 sla 2016, ch. 36 § 190",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 28 TT.S.C. § 2255,28 tt.s.c. § 2255,Statute,state_statute,AK,1,1,1,1971,1971,false,unresolved
 28 U.S.O.A. § 81A,28 u.s.o.a. § 81a,Statute,state_statute,AK,1,1,1,1960,1960,true,exact
-29 Alaska Stat. § 05.45.100,29 alaska stat. § 05.45.100,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-29 Alaska Stat. § 09.10.070,29 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-29 Alaska Stat. § 09.50.250,29 alaska stat. § 09.50.250,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-29 Alaska Statute § 09.10.070,29 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 29 Art. VIII § 3,29 art. viii § 3,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 29 CER. § 09.110,29 cer. § 09.110,Statute,state_statute,AK,1,1,1,2000,2000,false,unresolved
-29 CER. § 1910.119,29 cer. § 1910.119,Statute,state_statute,AK,1,1,1,2000,2000,false,unresolved
-29 CER. § 531.30,29 cer. § 531.30,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
-29 CER. § 531.36,29 cer. § 531.36,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
 29 CFER. § 825.302,29 cfer. § 825.302,Statute,state_statute,AK,1,1,1,2004,2004,false,unresolved
 "29 FSSLA 2019, ch. 4 § 138","29 fssla 2019, ch. 4 § 138",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 "29 SLA 1986, ch. 80 § 2","29 sla 1986, ch. 80 § 2",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "29 SLA 1996, ch. 59 § 46","29 sla 1996, ch. 59 § 46",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "29 SLA 2016, ch. 36 § 123","29 sla 2016, ch. 36 § 123",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 29 U.S.O.A. § 402,29 u.s.o.a. § 402,Statute,state_statute,AK,1,1,1,1965,1965,true,exact
-"294 U.S. 189, 195 (1935). Cf. Alaska Stat. § 17.30.114","294 u.s. 189, 195 (1935). cf. alaska stat. § 17.30.114",Statute,state_statute,AK,1,1,1,1999,1999,false,unresolved
-296 (9th Cir. 1990). 48 Alaska Stat. § 09.45.010,296 (9th cir. 1990). 48 alaska stat. § 09.45.010,Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 2d C.S.H.B. 101 § 12,2d c.s.h.b. 101 § 12,Statute,state_statute,AK,1,1,1,1981,1981,false,unresolved
 "3 (1) Alaska, Alaska Stat. § 9.16.010","3 (1) alaska, alaska stat. § 9.16.010",Statute,state_statute,AK,1,1,1,1988,1988,false,unresolved
 3 Alaska Adm.Oode § 3592,3 alaska adm.oode § 3592,Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
@@ -1929,9 +1800,7 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 3 Alaska Compiled Laws Annotated (Cumulative Supplement) § 55-9-79,3 alaska compiled laws annotated (cumulative supplement) § 55-9-79,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 3 Alaska Compiled Laws Annotated § 2500,3 alaska compiled laws annotated § 2500,Statute,state_statute,AK,1,1,1,1951,1951,false,unresolved
 3 Alaska Compiled Laws Annotated § 61-1-2,3 alaska compiled laws annotated § 61-1-2,Statute,state_statute,AK,1,1,1,1951,1951,false,unresolved
-3 Alaska Stat § 09.65.090,3 alaska stat § 09.65.090,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
 "3 Alaska, AS § 39","3 alaska, as § 39",Statute,state_statute,AK,1,1,1,2008,2008,false,unresolved
-3 CAL. PROB. CODE § 6111,3 cal. prob. code § 6111,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 3 Compiled Laws of Alaska 1949 § 55-9-79,3 compiled laws of alaska 1949 § 55-9-79,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 3 S.B. 313 § 1,3 s.b. 313 § 1,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 3 SCOTT ON TRUSTS § 402,3 scott on trusts § 402,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
@@ -1941,7 +1810,6 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "3 SLA 2016, ch. 36 § 190","3 sla 2016, ch. 36 § 190",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "3 SLA 2016, ch. 36 § 2","3 sla 2016, ch. 36 § 2",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "3 SLA 2016, ch. 36 § 2717","3 sla 2016, ch. 36 § 2717",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-30 Alaska Stat. § 05.45.020,30 alaska stat. § 05.45.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 30 Art. VIII § 4,30 art. viii § 4,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 "30 FSSLA 2019, ch. 4 § 115","30 fssla 2019, ch. 4 § 115",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 30 I.R.C. § 42,30 i.r.c. § 42,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
@@ -1949,10 +1817,6 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "30 SLA 1967, ch. 48 § 1","30 sla 1967, ch. 48 § 1",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 "30 SLA 1998, ch. 108 § 2","30 sla 1998, ch. 108 § 2",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 30 WYO. STAT. ANN. § 14-3-202,30 wyo. stat. ann. § 14-3-202,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
-31 Alaska Stat. § 05.45.200,31 alaska stat. § 05.45.200,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-31 Alaska Stat. § 09.10.070,31 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-31 Alaska Stat. § 21.09.180,31 alaska stat. § 21.09.180,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
-31 Alaska Stat. § 21.09.190,31 alaska stat. § 21.09.190,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 31 Art. VIII § 8,31 art. viii § 8,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 "31 FSSLA 2019, ch. 4 § 142","31 fssla 2019, ch. 4 § 142",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 31 MODEL PENAL CODE § 4.05,31 model penal code § 4.05,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
@@ -1961,9 +1825,6 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "31 SLA 2001, ch. 92 § 37","31 sla 2001, ch. 92 § 37",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "31 SLA 2008, ch. 75 § 19","31 sla 2008, ch. 75 § 19",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 31 [A.C.L.A. § 52A-1-31,31 [a.c.l.a. § 52a-1-31,Statute,state_statute,AK,1,1,1,1961,1961,false,unresolved
-32 Alaska Stat. § 05.45.200,32 alaska stat. § 05.45.200,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-32 Alaska Stat. § 09.50.253,32 alaska stat. § 09.50.253,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-32 Alaska Stat. § 12.63.010,32 alaska stat. § 12.63.010,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 32 Art. VIII § 11,32 art. viii § 11,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 32 CAUSES OF ACTION 2d 385 § 33,32 causes of action 2d 385 § 33,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 32 La.Rev.Stat. § 11-501,32 la.rev.stat. § 11-501,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
@@ -1971,15 +1832,8 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "32 SLA 1983, ch. 78 § 4","32 sla 1983, ch. 78 § 4",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "32 SLA 2002, ch. 23 § 3","32 sla 2002, ch. 23 § 3",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "32 SLA 2008, ch. 75 § 20-21","32 sla 2008, ch. 75 § 20-21",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-33 Alaska Stat. Ann. § 09.17.020,33 alaska stat. ann. § 09.17.020,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-33 Alaska Stat. § 05.45.010,33 alaska stat. § 05.45.010,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-33 Alaska Stat. § 09.10.070,33 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 33 Alaska Stat. § 112.63.010,33 alaska stat. § 112.63.010,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 33 Art. VIII § 13,33 art. viii § 13,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
-34 Alaska Stat. § 05.45.020,34 alaska stat. § 05.45.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-34 Alaska Stat. § 09.50.250,34 alaska stat. § 09.50.250,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
-34 Alaska Stat. § 45.02.714,34 alaska stat. § 45.02.714,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-34 Alaska Statute § 09.10.070,34 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 34 Art. VIII § 14,34 art. viii § 14,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 34 CER. § 300.660-.662,34 cer. § 300.660-.662,Statute,state_statute,AK,1,1,1,2011,2011,false,unresolved
 34 CER. § 800.504,34 cer. § 800.504,Statute,state_statute,AK,1,1,1,2011,2011,false,unresolved
@@ -1987,45 +1841,27 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "34 SLA 1991, ch. 79 § 2","34 sla 1991, ch. 79 § 2",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "34 SLA 2016, ch. 36 § 148","34 sla 2016, ch. 36 § 148",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 35 Alaska Compiled Laws Ann. § 35-4-15,35 alaska compiled laws ann. § 35-4-15,Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
-35 Alaska Stat. § 05.45.200,35 alaska stat. § 05.45.200,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-35 Alaska Stat. § 45.02.715,35 alaska stat. § 45.02.715,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 35 Art. VIII § 17,35 art. viii § 17,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 35 E.R.D. 39 § 90,35 e.r.d. 39 § 90,Statute,state_statute,AK,1,1,1,1966,1966,false,unresolved
 35 PA. STAT. AND CONS. STAT. ANN. § 52A01,35 pa. stat. and cons. stat. ann. § 52a01,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 "35 SLA 1991, ch. 79 § 3","35 sla 1991, ch. 79 § 3",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-36 Alaska Stat. § 45.02.719,36 alaska stat. § 45.02.719,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-36 Alaska Statute § 09.10.070,36 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "36 SLA 2004, ch. 17 § 3","36 sla 2004, ch. 17 § 3",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "36 SLA 2004, ch. 17 § 6","36 sla 2004, ch. 17 § 6",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-37 Alaska Stat. § 05.45.020,37 alaska stat. § 05.45.020,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-37 Alaska Statute § 09.10.070,37 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 37 C.S.H.B. 4 § 45,37 c.s.h.b. 4 § 45,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 37 MOORE § 59.13,37 moore § 59.13,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 "37 SLA 1998, ch. 81 § 3","37 sla 1998, ch. 81 § 3",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "37 SLA 1998, ch. 81 § 4","37 sla 1998, ch. 81 § 4",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "37 SLA 2002, ch. 90 § 4","37 sla 2002, ch. 90 § 4",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 38 (...continued) STAT. ANN. § 132:33,38 (...continued) stat. ann. § 132:33,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-38 AM. JUR. 2D GIFTS § 18,38 am. jur. 2d gifts § 18,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 38 Alaska Code Jud. Conduct 3,38 alaska code jud. conduct 3,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
-38 Alaska Stat. § 05.45.100,38 alaska stat. § 05.45.100,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-38 Alaska Stat. § 09.10.070,38 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-38 OR. REV. STAT. ANN. § 109.119,38 or. rev. stat. ann. § 109.119,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 4 Alaska Adm.Code § 75,4 alaska adm.code § 75,Statute,state_statute,AK,1,1,1,1966,1966,false,unresolved
 4 Alaska R.Admin. P. 12,4 alaska r.admin. p. 12,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
-4 Alaska Stat. 12.55.155,4 alaska stat. 12.55.155,Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
-4 Alaska Stat. § 09.30.070,4 alaska stat. § 09.30.070,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-4 Alaska Stat. § 11.41.210,4 alaska stat. § 11.41.210,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 4 Alaska Stat. § 28.22.100,4 alaska stat. § 28.22.100,Statute,state_statute,AK,1,1,1,1989,1989,false,unresolved
 "4 E.g., Alaska Stat. § 15.13.074","4 e.g., alaska stat. § 15.13.074",Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 "4 SLA 1985, ch. 41 § 1","4 sla 1985, ch. 41 § 1",Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 "4 SLA 2016, ch. 36 § 151","4 sla 2016, ch. 36 § 151",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "4 SLA 2016, ch. 36 § 76","4 sla 2016, ch. 36 § 76",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "4 SLA 2016, ch. 36 § 79","4 sla 2016, ch. 36 § 79",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-4 TJ.S.C.A. § 105,4 tj.s.c.a. § 105,Statute,state_statute,AK,1,1,1,1964,1964,false,unresolved
-4 TJ.S.C.A. § 110,4 tj.s.c.a. § 110,Statute,state_statute,AK,1,1,1,1964,1964,false,unresolved
-40 Alaska Stat. § 05.45.200,40 alaska stat. § 05.45.200,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-40 Alaska Stat. § 28.20.445,40 alaska stat. § 28.20.445,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-40 Alaska Statute § 09.10.070,40 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "40 SLA 1998, ch. 81 § 4","40 sla 1998, ch. 81 § 4",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 40-716 (b)(1)). 5 Alaska (Alaska Stats. § 28.35.030,40-716 (b)(1)). 5 alaska (alaska stats. § 28.35.030,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 40: COLO. REV. STAT. § 12-37.5-101,40: colo. rev. stat. § 12-37.5-101,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
@@ -2036,57 +1872,30 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 410 (Comp. Laws Alaska 1913 § 2063,410 (comp. laws alaska 1913 § 2063,Statute,state_statute,AK,1,1,1,1936,1936,false,unresolved
 410 (Comp. Laws Alaska 1913 § 2065,410 (comp. laws alaska 1913 § 2065,Statute,state_statute,AK,1,1,1,1936,1936,false,unresolved
 410 (Comp. Laws Alaska 1913 § 2519,410 (comp. laws alaska 1913 § 2519,Statute,state_statute,AK,1,1,1,1936,1936,false,unresolved
-42 Alaska Stat. § 09.10.070,42 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 42 CBJ § 49.15.440,42 cbj § 49.15.440,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
-42 CER. § 433.316,42 cer. § 433.316,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 42 CPS MANUAL § 2.5.1,42 cps manual § 2.5.1,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 42 T.S.C. § 1983,42 t.s.c. § 1983,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
-42 TJ.S.C. § 1973,42 tj.s.c. § 1973,Statute,state_statute,AK,1,1,1,1974,1974,false,unresolved
 42 TT.S.C. § 105,42 tt.s.c. § 105,Statute,state_statute,AK,1,1,1,1967,1967,false,unresolved
 42 TT.S.C. § 1441,42 tt.s.c. § 1441,Statute,state_statute,AK,1,1,1,1967,1967,false,unresolved
-43 Alaska Stat. 09.10.053,43 alaska stat. 09.10.053,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-43 Alaska Stat. § 09.10.140,43 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-43 Alaska Stat. § 39.25.080,43 alaska stat. § 39.25.080,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 43 Alaska Statutes § 43.70.010,43 alaska statutes § 43.70.010,Statute,state_statute,AK,1,1,1,2005,2005,false,unresolved
 43 CJAR. § 257.16,43 cjar. § 257.16,Statute,state_statute,AK,1,1,1,1966,1966,false,unresolved
 43 F.S.C. § 1311,43 f.s.c. § 1311,Statute,state_statute,AK,1,1,1,1973,1973,false,unresolved
 "43 SLA 1998, ch. 81 § 3","43 sla 1998, ch. 81 § 3",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "43 SLA 1998, ch. 81 § 4","43 sla 1998, ch. 81 § 4",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "43 SLA 2008, ch. 75 § 6-7","43 sla 2008, ch. 75 § 6-7",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-43 TJ.S. C.A. § 932,43 tj.s. c.a. § 932,Statute,state_statute,AK,1,1,1,1985,1985,false,unresolved
 43 U.S.O.A. § 1602,43 u.s.o.a. § 1602,Statute,state_statute,AK,1,1,1,1974,1974,true,exact
 43 U.S.O.A. § 1606,43 u.s.o.a. § 1606,Statute,state_statute,AK,1,1,1,1974,1974,true,exact
-44 Alaska Stat. § 09.10.140,44 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-44 Alaska Stat. § 18.65.530,44 alaska stat. § 18.65.530,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-44 OR. REV. STAT. § 124.125,44 or. rev. stat. § 124.125,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-44 TJ.S.C. § 1505,44 tj.s.c. § 1505,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 "444 (Alaska 1970). 46 SLA 1985, ch. 88 § 2","444 (alaska 1970). 46 sla 1985, ch. 88 § 2",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-45 Alaska Stat. § 09.10.070,45 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-45 Alaska Stat. § 09.55.540,45 alaska stat. § 09.55.540,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 45 CBR § 309.70,45 cbr § 309.70,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-45 CER. § 84.3,45 cer. § 84.3,Statute,state_statute,AK,1,1,1,2000,2000,false,unresolved
-45 OR. REV. STAT. § 124.075,45 or. rev. stat. § 124.075,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 45 TT.S.C. § 55,45 tt.s.c. § 55,Statute,state_statute,AK,1,1,1,1972,1972,false,unresolved
 457-58 (Alaska 1996). 87 Ch. 79 § 48,457-58 (alaska 1996). 87 ch. 79 § 48,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
-46 Alaska Stat. § 09.10.140,46 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-46 Alaska Stat. § 09.55.540,46 alaska stat. § 09.55.540,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 46 Alaska Stat. § 46.03.822,46 alaska stat. § 46.03.822,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
 46 WASH. REV. CODE § 74.34.200,46 wash. rev. code § 74.34.200,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
-"461 U.S. 30, 56 (1983). 129 Alaska Stat. § 09.17.020","461 u.s. 30, 56 (1983). 129 alaska stat. § 09.17.020",Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-47 Alaska Stat. § 09.55.540,47 alaska stat. § 09.55.540,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-47 Alaska Stat. § 45.50.471,47 alaska stat. § 45.50.471,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-47 CAL. CIV. CODE § 2860,47 cal. civ. code § 2860,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 476 (IRA § 16,476 (ira § 16,Statute,state_statute,AK,1,1,1,1996,1996,false,unresolved
-48 Alaska Stat. § 09.10.070,48 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-48 Alaska Stat. § 09.50.253,48 alaska stat. § 09.50.253,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-48 Alaska Stat. § 33.20.010,48 alaska stat. § 33.20.010,Statute,state_statute,AK,1,1,1,2010,2010,false,unresolved
 48 UCC § 2-207,48 ucc § 2-207,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
 48 WASH. REV. CODE § 74.34.050,48 wash. rev. code § 74.34.050,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 485 (Alaska 1985). 15 Ch. 63 § 8,485 (alaska 1985). 15 ch. 63 § 8,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
-49 Alaska Stat. § 09.10.140,49 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 49 C.F.F. § 396.2,49 c.f.f. § 396.2,Statute,state_statute,AK,1,1,1,1981,1981,false,unresolved
-49 C.J. § 40,49 c.j. § 40,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
-49 CAL. WELF. & INST. CODE § 15657.5,49 cal. welf. & inst. code § 15657.5,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 49 HIPAA § 264,49 hipaa § 264,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 49 TJ.S.C.A. § 20,49 tj.s.c.a. § 20,Statute,state_statute,AK,1,1,1,1965,1965,false,unresolved
 "498 U.S. 52, 65 (1990). 62 Ch. 102 § 35","498 u.s. 52, 65 (1990). 62 ch. 102 § 35",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
@@ -2099,85 +1908,32 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 5 Alaska Adm.Code § 87.060,5 alaska adm.code § 87.060,Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
 5 Alaska Adm.Code § 87.065,5 alaska adm.code § 87.065,Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
 "5 Alaska Adm.Code, ch. 1 § 115.21","5 alaska adm.code, ch. 1 § 115.21",Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
-5 Alaska Stat. 12.55.125,5 alaska stat. 12.55.125,Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
-5 Alaska Stat. 25.20.050,5 alaska stat. 25.20.050,Statute,state_statute,AK,1,1,1,1977,1977,false,unresolved
 5 Alaska Stat. § 12.30.020,5 alaska stat. § 12.30.020,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
-5 Alaska Stat. § 12.40.110,5 alaska stat. § 12.40.110,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
 "5 E.g., Alaska Stat. § 15.13.070","5 e.g., alaska stat. § 15.13.070",Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 "5 SLA 1959, ch. 184 § 25","5 sla 1959, ch. 184 § 25",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "5 SLA 2016, ch. 36 § 68","5 sla 2016, ch. 36 § 68",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-50 Alaska Stat. § 09.10.070,50 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-50 Alaska Stat. § 09.55.570,50 alaska stat. § 09.55.570,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-50 Alaska Stat. § 21.42.110,50 alaska stat. § 21.42.110,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 50 ICWA § 1903,50 icwa § 1903,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
-52 Alaska Stat. § 09.10.070,52 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-52 Alaska Stat. § 09.10.140,52 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-53 Alaska Stat. § 09.10.140,53 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-53 Alaska Stat. § 11.81.900,53 alaska stat. § 11.81.900,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "53 SLA 2019, ch. 4 § 59","53 sla 2019, ch. 4 § 59",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "534 (Alas. 1972), Alaska Stat. § 23.30.055","534 (alas. 1972), alaska stat. § 23.30.055",Statute,state_statute,AK,1,1,1,1977,1977,false,unresolved
-534 (Alaska 1980). 1 V.I.C. § 41,534 (alaska 1980). 1 v.i.c. § 41,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 "538 (Alaska App. 1993). 15 FSSLA 2019, ch. 4 § 35","538 (alaska app. 1993). 15 fssla 2019, ch. 4 § 35",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-54 Alaska Stat. § 09.55.580,54 alaska stat. § 09.55.580,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-55 Alaska Stat. § 15.13.040,55 alaska stat. § 15.13.040,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-"56 AM. JUR. 2D Municipal Corporations, Etc. § 526","56 am. jur. 2d municipal corporations, etc. § 526",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-56 Alaska Stat. § 12.72.020,56 alaska stat. § 12.72.020,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "56 E.g., Alaska Stat. § 11.41.120","56 e.g., alaska stat. § 11.41.120",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 56 La.Rev.Stat. § 507,56 la.rev.stat. § 507,Statute,state_statute,AK,1,1,1,1976,1976,true,exact
 56 La.Rev.Stat. § 508,56 la.rev.stat. § 508,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 "56 SLA 1995, ch. 79 § 9","56 sla 1995, ch. 79 § 9",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-57 Alaska Stat § 28.35.030,57 alaska stat § 28.35.030,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-57 Alaska Stat. § 09.10.140,57 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-58 Alaska Stat. § 18.80.220,58 alaska stat. § 18.80.220,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-58 Alaska Statute § 45.02.315,58 alaska statute § 45.02.315,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
 "58 SLA 1995, ch. 79 § 9","58 sla 1995, ch. 79 § 9",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 59 Alaska Code Jud. Conduct 3,59 alaska code jud. conduct 3,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
-59 Alaska Stat. § 23.10.060,59 alaska stat. § 23.10.060,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-59 Alaska Stat. § 33.16.100,59 alaska stat. § 33.16.100,Statute,state_statute,AK,1,1,1,2010,2010,false,unresolved
 6 Alaska Adm.Code § 2000-07,6 alaska adm.code § 2000-07,Statute,state_statute,AK,1,1,1,1971,1971,false,unresolved
 "6 Alaska Adm.Oode, ch. 1 § 115.21","6 alaska adm.oode, ch. 1 § 115.21",Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
-6 Alaska Stat. § 04.11.360,6 alaska stat. § 04.11.360,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
-6 Alaska Stat. § 15.13.074,6 alaska stat. § 15.13.074,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
-6 Alaska Stat. § 23.10.670,6 alaska stat. § 23.10.670,Statute,state_statute,AK,1,1,1,2008,2008,false,unresolved
-6 Alaska Stat. § 28.35.030,6 alaska stat. § 28.35.030,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
-6 Alaska Stat. § 29.45.130,6 alaska stat. § 29.45.130,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-6 Alaska Stat. § 45.50.471,6 alaska stat. § 45.50.471,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
-6 Alaska Stat. § 45.50.531,6 alaska stat. § 45.50.531,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-6 Alaska Statute § 11.41.110,6 alaska statute § 11.41.110,Statute,state_statute,AK,1,1,1,1994,1994,false,unresolved
-6 Alaska Statutes § 11.41.436,6 alaska statutes § 11.41.436,Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 "6 SLA 2016, ch. 36 § 79","6 sla 2016, ch. 36 § 79",Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-60 Alaska Stat. 11.46.330,60 alaska stat. 11.46.330,Statute,state_statute,AK,1,1,1,2005,2005,false,unresolved
-60 Alaska Stat. § 08.68.277,60 alaska stat. § 08.68.277,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 60 HIPAA § 264,60 hipaa § 264,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-61 Alaska Stat. § 09.10.140,61 alaska stat. § 09.10.140,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-61 Alaska Stat. § 12.62.180,61 alaska stat. § 12.62.180,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 61 Article III § 25,61 article iii § 25,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-62 Alaska Stat. § 21.07.030,62 alaska stat. § 21.07.030,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-64 Alaska Stat. § 06.60.340,64 alaska stat. § 06.60.340,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-64 Alaska Stat. § 15.13.040,64 alaska stat. § 15.13.040,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-64 Alaska Stat. § 17.38.010,64 alaska stat. § 17.38.010,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-65 Alaska Stat. § 06.60.340,65 alaska stat. § 06.60.340,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-65 Alaska Stat. § 09.55.540,65 alaska stat. § 09.55.540,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-66 Alaska Stat. § 06.60.340,66 alaska stat. § 06.60.340,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-66 Alaska Stat. § 09.10.070,66 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
-66 Alaska Stat. § 21.36.495,66 alaska stat. § 21.36.495,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-66 Alaska Stat. § 22.10.020,66 alaska stat. § 22.10.020,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "66 SLA 1985, ch. 88 § 2","66 sla 1985, ch. 88 § 2",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-67 Alaska Stat. § 06.60.340,67 alaska stat. § 06.60.340,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-68 Alaska Stat. § 23.30.008,68 alaska stat. § 23.30.008,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 7 AAC § 36.010-.900,7 aac § 36.010-.900,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 7 AAC § 36.010-900,7 aac § 36.010-900,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 7 Alaska Adm. Code 30.060,7 alaska adm. code 30.060,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 7 Alaska Adm.Code § 5002,7 alaska adm.code § 5002,Statute,state_statute,AK,1,1,1,1963,1963,false,unresolved
-7 Alaska Stat. Ann. § 45.03.309,7 alaska stat. ann. § 45.03.309,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-7 Alaska Stat. § 04.11.360,7 alaska stat. § 04.11.360,Statute,state_statute,AK,1,1,1,1993,1993,false,unresolved
-7 Alaska Stat. § 12.73.010,7 alaska stat. § 12.73.010,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-7 Alaska Stat. § 15.13.116,7 alaska stat. § 15.13.116,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
-7 Alaska Stat. § 18.85.170,7 alaska stat. § 18.85.170,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 7 Alaska Stat.Ann. § 45.45.20,7 alaska stat.ann. § 45.45.20,Statute,state_statute,AK,1,1,1,1986,1986,false,unresolved
 7 CBJ § 49.15.310,7 cbj § 49.15.310,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
-7 CER. § 271.1,7 cer. § 271.1,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
-7 CER. § 271.4,7 cer. § 271.4,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 "7 SLA 1982, ch. 143 § 22","7 sla 1982, ch. 143 § 22",Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 "7 SLA 1995, ch. 79 § 2787","7 sla 1995, ch. 79 § 2787",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "7 SLA 1995, ch. 79 § 30","7 sla 1995, ch. 79 § 30",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
@@ -2188,36 +1944,18 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 "7 SLA 2015, ch. 20 § 2","7 sla 2015, ch. 20 § 2",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "7 SLA 2015, ch. 20 § 2595","7 sla 2015, ch. 20 § 2595",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 "7 SLA 2015, ch. 20 § 6","7 sla 2015, ch. 20 § 6",Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-71 Alaska Stat. § 06.60.340,71 alaska stat. § 06.60.340,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-73 AM. JUR. 2D Statutes § 140,73 am. jur. 2d statutes § 140,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-73 AM. JUR. 2D Statutes § 96,73 am. jur. 2d statutes § 96,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-75 Alaska Stat. § 09.17.020,75 alaska stat. § 09.17.020,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
-75 Alaska Stat. § 09.17.070,75 alaska stat. § 09.17.070,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-75 Alaska Stat. § 23.10.065,75 alaska stat. § 23.10.065,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 75 PA. CONS. STAT. § 1719,75 pa. cons. stat. § 1719,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 75 PA. CONS. STAT. § 1720,75 pa. cons. stat. § 1720,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
-755 (Alaska 1993). Idaho Code § 18-8002A,755 (alaska 1993). idaho code § 18-8002a,Statute,state_statute,AK,1,1,1,2010,2010,false,unresolved
 755 ALA.CODE § 43-2-61,755 ala.code § 43-2-61,Statute,state_statute,AK,1,1,1,2012,2012,false,unresolved
-76 Alaska Stat. § 09.17.020,76 alaska stat. § 09.17.020,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
-76 Alaska Stat. § 11.41.230,76 alaska stat. § 11.41.230,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 76 SLA 1973 § 3,76 sla 1973 § 3,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
-77 Alaska Stat. § 11.41.210,77 alaska stat. § 11.41.210,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-77 Alaska Stat. § 11.81.900,77 alaska stat. § 11.81.900,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-77 Alaska Stat. § 21.96.018,77 alaska stat. § 21.96.018,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 "779 (Alaska 1977). 30 SLA 2013, ch. 51 § 1","779 (alaska 1977). 30 sla 2013, ch. 51 § 1",Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
-78 Alaska Stat. § 09.45.170,78 alaska stat. § 09.45.170,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-78 Alaska Stat. § 17.38.010,78 alaska stat. § 17.38.010,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-78 Alaska Stat. § 21.96.018,78 alaska stat. § 21.96.018,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 79 SLA 1988 § 33,79 sla 1988 § 33,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
-8 (Alaska 1988). 76 Alaska Statute § 09.45.170,8 (alaska 1988). 76 alaska statute § 09.45.170,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 8 (D.Alaska 1992). § 2516,8 (d.alaska 1992). § 2516,Statute,state_statute,AK,1,1,1,2002,2002,false,unresolved
 8 AAO § 46.120,8 aao § 46.120,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 8 ACO 97-51 § 4,8 aco 97-51 § 4,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
 8 Alaska Adm.Code § 409-07,8 alaska adm.code § 409-07,Statute,state_statute,AK,1,1,1,1969,1969,false,unresolved
 8 Alaska Adm.Code § 426,8 alaska adm.code § 426,Statute,state_statute,AK,1,1,1,1966,1966,false,unresolved
 8 Alaska Adm.Code § 432,8 alaska adm.code § 432,Statute,state_statute,AK,1,1,1,1968,1968,false,unresolved
-8 Alaska Stat. § 12.63.020,8 alaska stat. § 12.63.020,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
-8 Alaska Stat. § 12.72.010,8 alaska stat. § 12.72.010,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 8 CBJ § 49.10.510,8 cbj § 49.10.510,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 "8 E.g., Alaska Stat. § 15.13.125","8 e.g., alaska stat. § 15.13.125",Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 8 I.R.C. § 42,8 i.r.c. § 42,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
@@ -2229,42 +1967,21 @@ YII § 7.2,yii § 7.2,Statute,state_statute,AK,2,2,2,1961,1962,false,unresolved
 8 U.S.O. § 1429,8 u.s.o. § 1429,Statute,state_statute,AK,1,1,1,1967,1967,true,exact
 8 U.S.O. § 1446,8 u.s.o. § 1446,Statute,state_statute,AK,1,1,1,1967,1967,true,exact
 8 U.S.O. § 1447,8 u.s.o. § 1447,Statute,state_statute,AK,1,1,1,1967,1967,true,exact
-802 (9th Cir. 1994). 51 Alaska Stat. § 09.10.070,802 (9th cir. 1994). 51 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-81 Alaska Stat. § 09.45.180,81 alaska stat. § 09.45.180,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-82 Alaska Stat. § 21.36.495,82 alaska stat. § 21.36.495,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-82 Alaska Statute § 09.10.070,82 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 822 (Alaska 1974). 8 AAO § 45.120,822 (alaska 1974). 8 aao § 45.120,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
-83 Alaska Stat. § 18.65.530,83 alaska stat. § 18.65.530,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 84 OKLA. ST. ANN. § 231,84 okla. st. ann. § 231,Statute,state_statute,AK,1,1,1,2006,2006,true,exact
 "84 SLA 1992, ch. 71 § 1","84 sla 1992, ch. 71 § 1",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "84-08 (Mar. 13, 1984) 4 Alaska Stat. § 44.62.310","84-08 (mar. 13, 1984) 4 alaska stat. § 44.62.310",Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
-85 Alaska Stat. § 34.20.070,85 alaska stat. § 34.20.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-855 (Alaska 1977). Neb. Rev. Stat. § 43-276,855 (alaska 1977). neb. rev. stat. § 43-276,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
-86 Alaska Stat. § 09.35.250,86 alaska stat. § 09.35.250,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-888 (Alaska 1996). Cal.Civ.Proc. Code § 704.720,888 (alaska 1996). cal.civ.proc. code § 704.720,Statute,state_statute,AK,1,1,1,2010,2010,false,unresolved
-89 Alaska Stat. § 15.10.105,89 alaska stat. § 15.10.105,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 9 ACO 97-51 § 5,9 aco 97-51 § 5,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
-9 Alaska Stat. Ann. § 34.77.070,9 alaska stat. ann. § 34.77.070,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-9 Alaska Stat. § 11.41.200,9 alaska stat. § 11.41.200,Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
-9 Alaska Stat. § 16.05.255,9 alaska stat. § 16.05.255,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
-9 Alaska Stat. § 21.36.125,9 alaska stat. § 21.36.125,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 9 Alaska Statute § 09.10.070,9 alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 9 CBJ § 49.10.600,9 cbj § 49.10.600,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 "9 SLA 2016, ch. 36 § 114","9 sla 2016, ch. 36 § 114",Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 "9 SLA 2016, ch. 36 § 185","9 sla 2016, ch. 36 § 185",Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 91 Alaska IRA § 2,91 alaska ira § 2,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
-91 Alaska Stat. § 47.17.020,91 alaska stat. § 47.17.020,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 911 (Alaska 1973). 10 Ch. 119 § 1,911 (alaska 1973). 10 ch. 119 § 1,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
-914 (9th Cir. 1999). 17 Alaska Stat. § 09.10.070,914 (9th cir. 1999). 17 alaska stat. § 09.10.070,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-92 Alaska Stat. § 47.17.068,92 alaska stat. § 47.17.068,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 927-28 (Alaska 1994)). 38 Cf. Ky. Rev. Stat. Ann. § 453.150,927-28 (alaska 1994)). 38 cf. ky. rev. stat. ann. § 453.150,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-93 Alaska Stat. § 47.17.020,93 alaska stat. § 47.17.020,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-94 Alaska Stat. § 15.07.195,94 alaska stat. § 15.07.195,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-"94 S. Ct. 2997, 41 L. Ed. 2d 789 (1974). Alaska Stat. § 15.56.012","94 s. ct. 2997, 41 l. ed. 2d 789 (1974). alaska stat. § 15.56.012",Statute,state_statute,AK,1,1,1,2005,2005,false,unresolved
 94 SLA 1959 Art. IV § 1,94 sla 1959 art. iv § 1,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 94 SLA 1959 § 23,94 sla 1959 § 23,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 95 ALR. Fep. 636 § 6,95 alr. fep. 636 § 6,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
-96 Alaska Stat. § 45.50.481,96 alaska stat. § 45.50.481,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 997 (Alaska 1978). Cf. I.R.C. P. 43,997 (alaska 1978). cf. i.r.c. p. 43,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 A. UCC § 2-207,a. ucc § 2-207,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
 A.A.C. 02.130,a.a.c. 02.130,Statute,state_statute,AK,1,1,1,1972,1972,false,unresolved
@@ -2636,7 +2353,6 @@ Alaska R.Child. P. 17,alaska r.child. p. 17,Statute,state_statute,AK,1,1,1,1983,
 Alaska R.Cim. P. 53,alaska r.cim. p. 53,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 Alaska R.Civil P. 56,alaska r.civil p. 56,Statute,state_statute,AK,1,1,1,1996,1996,true,exact
 Alaska R.Clv. P. 51,alaska r.clv. p. 51,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
-Alaska R.Crv. P. 82,alaska r.crv. p. 82,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
 Alaska R.Oiv. P. 61,alaska r.oiv. p. 61,Statute,state_statute,AK,1,1,1,1974,1974,false,unresolved
 Alaska R.Orim. P. 30,alaska r.orim. p. 30,Statute,state_statute,AK,1,1,1,1973,1973,false,unresolved
 Alaska R.Prob. P. 7,alaska r.prob. p. 7,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
@@ -2665,6 +2381,7 @@ Alaska Stat Ann § 12.63.020,alaska stat ann § 12.63.020,Statute,state_statute,
 Alaska Stat Ann § 47.10.089,alaska stat ann § 47.10.089,Statute,state_statute,AK,1,1,1,2010,2010,true,exact
 Alaska Stat § 09.25.120,alaska stat § 09.25.120,Statute,state_statute,AK,1,1,1,1997,1997,false,unresolved
 Alaska Stat § 09.38.017,alaska stat § 09.38.017,Statute,state_statute,AK,1,1,1,2011,2011,true,exact
+Alaska Stat § 09.65.090,alaska stat § 09.65.090,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 Alaska Stat § 11.15.120,alaska stat § 11.15.120,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 Alaska Stat § 11.31.100,alaska stat § 11.31.100,Statute,state_statute,AK,1,1,1,2004,2004,true,exact
 Alaska Stat § 11.41.460,alaska stat § 11.41.460,Statute,state_statute,AK,1,1,1,1992,1992,true,exact
@@ -2687,7 +2404,6 @@ Alaska Stat § 23.30.220,alaska stat § 23.30.220,Statute,state_statute,AK,1,1,1
 Alaska Stat § 26-2018,alaska stat § 26-2018,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 Alaska Stat § 26-2020,alaska stat § 26-2020,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 Alaska Stat § 265,alaska stat § 265,Statute,state_statute,AK,1,1,1,1996,1996,false,unresolved
-Alaska Stat § 28.35.030,alaska stat § 28.35.030,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat § 3131,alaska stat § 3131,Statute,state_statute,AK,1,1,1,2012,2012,false,unresolved
 Alaska Stat § 34.20.070,alaska stat § 34.20.070,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
 Alaska Stat § 34.20.135,alaska stat § 34.20.135,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
@@ -2703,6 +2419,7 @@ Alaska Stat § 794.011,alaska stat § 794.011,Statute,state_statute,AK,1,1,1,198
 Alaska Stat § 794.05,alaska stat § 794.05,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 "Alaska Stat. (1962, 1985 Supp.) § 18.67.010","alaska stat. (1962, 1985 supp.) § 18.67.010",Statute,state_statute,AK,1,1,1,1986,1986,false,unresolved
 Alaska Stat. 01.10.060,alaska stat. 01.10.060,Statute,state_statute,AK,1,1,1,1993,1993,true,exact
+Alaska Stat. 09.10.053,alaska stat. 09.10.053,Statute,state_statute,AK,1,1,1,2026,2026,true,exact
 Alaska Stat. 09.10.070,alaska stat. 09.10.070,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 Alaska Stat. 09.10.55,alaska stat. 09.10.55,Statute,state_statute,AK,1,1,1,2007,2007,false,unresolved
 Alaska Stat. 09.17.070,alaska stat. 09.17.070,Statute,state_statute,AK,1,1,1,2005,2005,true,exact
@@ -2710,7 +2427,6 @@ Alaska Stat. 10.06.678,alaska stat. 10.06.678,Statute,state_statute,AK,1,1,1,201
 Alaska Stat. 11.05.040,alaska stat. 11.05.040,Statute,state_statute,AK,1,1,1,1986,1986,false,unresolved
 Alaska Stat. 11.40.210-230,alaska stat. 11.40.210-230,Statute,state_statute,AK,1,1,1,1976,1976,false,unresolved
 Alaska Stat. 11.41.270,alaska stat. 11.41.270,Statute,state_statute,AK,1,1,1,2018,2018,true,exact
-Alaska Stat. 11.46.330,alaska stat. 11.46.330,Statute,state_statute,AK,1,1,1,2005,2005,true,exact
 Alaska Stat. 11.46.380,alaska stat. 11.46.380,Statute,state_statute,AK,1,1,1,2005,2005,false,unresolved
 Alaska Stat. 11.61.-200,alaska stat. 11.61.-200,Statute,state_statute,AK,1,1,1,1991,1991,true,exact
 Alaska Stat. 11.61.120,alaska stat. 11.61.120,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
@@ -2718,12 +2434,15 @@ Alaska Stat. 11.61.127,alaska stat. 11.61.127,Statute,state_statute,AK,1,1,1,200
 Alaska Stat. 11.61.160,alaska stat. 11.61.160,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 Alaska Stat. 12.25.180,alaska stat. 12.25.180,Statute,state_statute,AK,1,1,1,1992,1992,true,exact
 Alaska Stat. 12.40.010,alaska stat. 12.40.010,Statute,state_statute,AK,1,1,1,1978,1978,true,exact
+Alaska Stat. 12.55.125,alaska stat. 12.55.125,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
+Alaska Stat. 12.55.155,alaska stat. 12.55.155,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 Alaska Stat. 13.36.350,alaska stat. 13.36.350,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 Alaska Stat. 13A-13-6,alaska stat. 13a-13-6,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 Alaska Stat. 16.05.940,alaska stat. 16.05.940,Statute,state_statute,AK,1,1,1,1996,1996,true,exact
 Alaska Stat. 18.85.100,alaska stat. 18.85.100,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
 Alaska Stat. 19.60.070,alaska stat. 19.60.070,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 Alaska Stat. 1962 § 9.16.020,alaska stat. 1962 § 9.16.020,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
+Alaska Stat. 25.20.050,alaska stat. 25.20.050,Statute,state_statute,AK,1,1,1,1977,1977,true,exact
 Alaska Stat. 2523.005,alaska stat. 2523.005,Statute,state_statute,AK,1,1,1,1999,1999,false,unresolved
 Alaska Stat. 2525.250,alaska stat. 2525.250,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
 Alaska Stat. 28.35.030,alaska stat. 28.35.030,Statute,state_statute,AK,1,1,1,2005,2005,true,exact
@@ -2766,7 +2485,6 @@ Alaska Stat. Ann. § 11.56.810,alaska stat. ann. § 11.56.810,Statute,state_stat
 Alaska Stat. Ann. § 11.61.190,alaska stat. ann. § 11.61.190,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
 Alaska Stat. Ann. § 11.61.195,alaska stat. ann. § 11.61.195,Statute,state_statute,AK,1,1,1,1995,1995,true,exact
 Alaska Stat. Ann. § 11.61.220,alaska stat. ann. § 11.61.220,Statute,state_statute,AK,1,1,1,1995,1995,true,exact
-Alaska Stat. Ann. § 11.81.370,alaska stat. ann. § 11.81.370,Statute,state_statute,AK,1,1,1,1985,1985,true,exact
 Alaska Stat. Ann. § 12.30.006,alaska stat. ann. § 12.30.006,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. Ann. § 12.30.011,alaska stat. ann. § 12.30.011,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 Alaska Stat. Ann. § 12.40.110,alaska stat. ann. § 12.40.110,Statute,state_statute,AK,1,1,1,2017,2017,true,exact
@@ -2798,15 +2516,18 @@ Alaska Stat. Ann. § 23.10.380.29,alaska stat. ann. § 23.10.380.29,Statute,stat
 Alaska Stat. Ann. § 24.65.200,alaska stat. ann. § 24.65.200,Statute,state_statute,AK,1,1,1,2018,2018,true,exact
 Alaska Stat. Ann. § 28.35.029,alaska stat. ann. § 28.35.029,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. Ann. § 28.35.082,alaska stat. ann. § 28.35.082,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
+Alaska Stat. Ann. § 34.03.010,alaska stat. ann. § 34.03.010,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 34.03.210,alaska stat. ann. § 34.03.210,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 34.03.290,alaska stat. ann. § 34.03.290,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
 Alaska Stat. Ann. § 34.03.330,alaska stat. ann. § 34.03.330,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
+Alaska Stat. Ann. § 34.77.070,alaska stat. ann. § 34.77.070,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. Ann. § 38.05.137,alaska stat. ann. § 38.05.137,Statute,state_statute,AK,1,1,1,1992,1992,true,exact
 Alaska Stat. Ann. § 38.40.010,alaska stat. ann. § 38.40.010,Statute,state_statute,AK,1,1,1,1978,1978,false,unresolved
 Alaska Stat. Ann. § 39.30.095,alaska stat. ann. § 39.30.095,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 Alaska Stat. Ann. § 42.20.110,alaska stat. ann. § 42.20.110,Statute,state_statute,AK,1,1,1,1979,1979,true,exact
 Alaska Stat. Ann. § 45.02.314,alaska stat. ann. § 45.02.314,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. Ann. § 45.02.317,alaska stat. ann. § 45.02.317,Statute,state_statute,AK,1,1,1,2017,2017,true,exact
+Alaska Stat. Ann. § 45.03.309,alaska stat. ann. § 45.03.309,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. Ann. § 45.50.535,alaska stat. ann. § 45.50.535,Statute,state_statute,AK,1,1,1,2008,2008,true,exact
 Alaska Stat. Ann. § 47.10.142,alaska stat. ann. § 47.10.142,Statute,state_statute,AK,1,1,1,2014,2014,true,exact
 Alaska Stat. Ann. § 47.17.040,alaska stat. ann. § 47.17.040,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
@@ -2817,15 +2538,11 @@ Alaska Stat. Ann. § 60,alaska stat. ann. § 60,Statute,state_statute,AK,1,1,1,2
 Alaska Stat. Del. C. § 21.78.010,alaska stat. del. c. § 21.78.010,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. Del. C. § 5902,alaska stat. del. c. § 5902,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 Alaska Stat. § 01.05.006,alaska stat. § 01.05.006,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
-Alaska Stat. § 01.10.010,alaska stat. § 01.10.010,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 Alaska Stat. § 02.30.030,alaska stat. § 02.30.030,Statute,state_statute,AK,1,1,1,1989,1989,true,exact
 Alaska Stat. § 03.05.076,alaska stat. § 03.05.076,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 04.11.470,alaska stat. § 04.11.470,Statute,state_statute,AK,1,1,1,1993,1993,true,exact
-Alaska Stat. § 05.25.050,alaska stat. § 05.25.050,Statute,state_statute,AK,1,1,1,1984,1984,true,exact
 Alaska Stat. § 05.25.055,alaska stat. § 05.25.055,Statute,state_statute,AK,1,1,1,2014,2014,true,exact
 Alaska Stat. § 05.25.090,alaska stat. § 05.25.090,Statute,state_statute,AK,1,1,1,2014,2014,true,exact
-Alaska Stat. § 05.45.010,alaska stat. § 05.45.010,Statute,state_statute,AK,1,1,1,1996,1996,true,exact
-Alaska Stat. § 05.45.020,alaska stat. § 05.45.020,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
 Alaska Stat. § 05.45.120,alaska stat. § 05.45.120,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
 Alaska Stat. § 06.05.415,alaska stat. § 06.05.415,Statute,state_statute,AK,1,1,1,1972,1972,false,unresolved
 Alaska Stat. § 06.30.115,alaska stat. § 06.30.115,Statute,state_statute,AK,1,1,1,1975,1975,false,unresolved
@@ -2834,8 +2551,9 @@ Alaska Stat. § 06.60.010,alaska stat. § 06.60.010,Statute,state_statute,AK,1,1
 Alaska Stat. § 06.60.012,alaska stat. § 06.60.012,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 06.60.013,alaska stat. § 06.60.013,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 08.08.030,alaska stat. § 08.08.030,Statute,state_statute,AK,1,1,1,2010,2010,true,exact
-Alaska Stat. § 08.18.161,alaska stat. § 08.18.161,Statute,state_statute,AK,1,1,1,1987,1987,true,exact
 Alaska Stat. § 08.29.100,alaska stat. § 08.29.100,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
+Alaska Stat. § 08.45.020,alaska stat. § 08.45.020,Statute,state_statute,AK,1,1,1,1995,1995,true,exact
+Alaska Stat. § 08.68.277,alaska stat. § 08.68.277,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 Alaska Stat. § 08.76.590,alaska stat. § 08.76.590,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 Alaska Stat. § 08.80.158,alaska stat. § 08.80.158,Statute,state_statute,AK,1,1,1,1999,1999,true,exact
 Alaska Stat. § 08.80.480,alaska stat. § 08.80.480,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
@@ -2877,6 +2595,7 @@ Alaska Stat. § 09.43.540,alaska stat. § 09.43.540,Statute,state_statute,AK,1,1
 Alaska Stat. § 09.43.595,alaska stat. § 09.43.595,Statute,state_statute,AK,1,1,1,2011,2011,true,exact
 Alaska Stat. § 09.45.070,alaska stat. § 09.45.070,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
 Alaska Stat. § 09.45.167,alaska stat. § 09.45.167,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
+Alaska Stat. § 09.45.180,alaska stat. § 09.45.180,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 09.45.200,alaska stat. § 09.45.200,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
 Alaska Stat. § 09.45.630,alaska stat. § 09.45.630,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
 Alaska Stat. § 09.45.690,alaska stat. § 09.45.690,Statute,state_statute,AK,1,1,1,1985,1985,true,exact
@@ -2907,6 +2626,7 @@ Alaska Stat. § 10.06.628,alaska stat. § 10.06.628,Statute,state_statute,AK,1,1
 Alaska Stat. § 10.06.679,alaska stat. § 10.06.679,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 Alaska Stat. § 10.25.010,alaska stat. § 10.25.010,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 Alaska Stat. § 10.50.260,alaska stat. § 10.50.260,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
+Alaska Stat. § 10.50.265,alaska stat. § 10.50.265,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 100,alaska stat. § 100,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 Alaska Stat. § 11.-71.010,alaska stat. § 11.-71.010,Statute,state_statute,AK,1,1,1,1988,1988,true,exact
 Alaska Stat. § 11.05.070,alaska stat. § 11.05.070,Statute,state_statute,AK,1,1,1,1972,1972,false,unresolved
@@ -2952,6 +2672,7 @@ Alaska Stat. § 11.76.105,alaska stat. § 11.76.105,Statute,state_statute,AK,1,1
 Alaska Stat. § 11.81.300,alaska stat. § 11.81.300,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 Alaska Stat. § 11.81.320,alaska stat. § 11.81.320,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 Alaska Stat. § 11.81.330,alaska stat. § 11.81.330,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
+Alaska Stat. § 11.81.370,alaska stat. § 11.81.370,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. § 11.81.400,alaska stat. § 11.81.400,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
 Alaska Stat. § 1102,alaska stat. § 1102,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 Alaska Stat. § 11:46:285,alaska stat. § 11:46:285,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
@@ -2978,6 +2699,7 @@ Alaska Stat. § 12.55.110,alaska stat. § 12.55.110,Statute,state_statute,AK,1,1
 Alaska Stat. § 12.61.020,alaska stat. § 12.61.020,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 Alaska Stat. § 12.61.100,alaska stat. § 12.61.100,Statute,state_statute,AK,1,1,1,2013,2013,true,exact
 Alaska Stat. § 12.61.140,alaska stat. § 12.61.140,Statute,state_statute,AK,1,1,1,2006,2006,true,exact
+Alaska Stat. § 12.62.180,alaska stat. § 12.62.180,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 12.63.010.37,alaska stat. § 12.63.010.37,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 Alaska Stat. § 12.63.010.7,alaska stat. § 12.63.010.7,Statute,state_statute,AK,1,1,1,2021,2021,false,unresolved
 Alaska Stat. § 12.73,alaska stat. § 12.73,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
@@ -3008,9 +2730,6 @@ Alaska Stat. § 14.40.802,alaska stat. § 14.40.802,Statute,state_statute,AK,1,1
 Alaska Stat. § 14.42.280,alaska stat. § 14.42.280,Statute,state_statute,AK,1,1,1,2003,2003,true,exact
 Alaska Stat. § 14.57.050,alaska stat. § 14.57.050,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 Alaska Stat. § 15-25-010,alaska stat. § 15-25-010,Statute,state_statute,AK,1,1,1,2004,2004,false,unresolved
-Alaska Stat. § 15.07.195,alaska stat. § 15.07.195,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
-Alaska Stat. § 15.10.105,alaska stat. § 15.10.105,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
-Alaska Stat. § 15.13.116,alaska stat. § 15.13.116,Statute,state_statute,AK,1,1,1,2003,2003,true,exact
 Alaska Stat. § 15.13.125,alaska stat. § 15.13.125,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 Alaska Stat. § 15.13.167,alaska stat. § 15.13.167,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
 Alaska Stat. § 15.20.010,alaska stat. § 15.20.010,Statute,state_statute,AK,1,1,1,1969,1969,true,exact
@@ -3048,8 +2767,8 @@ Alaska Stat. § 17.12.010,alaska stat. § 17.12.010,Statute,state_statute,AK,1,1
 Alaska Stat. § 17.12.110,alaska stat. § 17.12.110,Statute,state_statute,AK,1,1,1,1980,1980,false,unresolved
 Alaska Stat. § 17.20.013,alaska stat. § 17.20.013,Statute,state_statute,AK,1,1,1,2010,2010,true,exact
 Alaska Stat. § 17.30.010,alaska stat. § 17.30.010,Statute,state_statute,AK,1,1,1,1988,1988,false,unresolved
+Alaska Stat. § 17.30.114,alaska stat. § 17.30.114,Statute,state_statute,AK,1,1,1,1999,1999,true,exact
 Alaska Stat. § 17.30.900,alaska stat. § 17.30.900,Statute,state_statute,AK,1,1,1,1988,1988,true,exact
-Alaska Stat. § 17.38.010,alaska stat. § 17.38.010,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 Alaska Stat. § 17.38.020,alaska stat. § 17.38.020,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 Alaska Stat. § 18.-70.090,alaska stat. § 18.-70.090,Statute,state_statute,AK,1,1,1,1982,1982,true,exact
 Alaska Stat. § 18.-90.010,alaska stat. § 18.-90.010,Statute,state_statute,AK,1,1,1,1974,1974,false,unresolved
@@ -3075,6 +2794,8 @@ Alaska Stat. § 19.65.-010,alaska stat. § 19.65.-010,Statute,state_statute,AK,1
 Alaska Stat. § 20-20-010,alaska stat. § 20-20-010,Statute,state_statute,AK,1,1,1,1993,1993,false,unresolved
 Alaska Stat. § 20.05.171,alaska stat. § 20.05.171,Statute,state_statute,AK,1,1,1,2019,2019,false,unresolved
 Alaska Stat. § 21.07.050,alaska stat. § 21.07.050,Statute,state_statute,AK,1,1,1,2017,2017,true,exact
+Alaska Stat. § 21.09.180,alaska stat. § 21.09.180,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
+Alaska Stat. § 21.09.190,alaska stat. § 21.09.190,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
 Alaska Stat. § 21.36.010,alaska stat. § 21.36.010,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 21.36.100,alaska stat. § 21.36.100,Statute,state_statute,AK,1,1,1,1997,1997,true,exact
 Alaska Stat. § 21.36.120,alaska stat. § 21.36.120,Statute,state_statute,AK,1,1,1,1997,1997,true,exact
@@ -3105,7 +2826,6 @@ Alaska Stat. § 21.79.990,alaska stat. § 21.79.990,Statute,state_statute,AK,1,1
 Alaska Stat. § 21.80.150,alaska stat. § 21.80.150,Statute,state_statute,AK,1,1,1,2004,2004,true,exact
 Alaska Stat. § 21.84.480,alaska stat. § 21.84.480,Statute,state_statute,AK,1,1,1,1997,1997,false,unresolved
 Alaska Stat. § 21.89.100,alaska stat. § 21.89.100,Statute,state_statute,AK,1,1,1,2007,2007,false,unresolved
-Alaska Stat. § 21.96.018,alaska stat. § 21.96.018,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 Alaska Stat. § 21.96.100,alaska stat. § 21.96.100,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 21.97.900,alaska stat. § 21.97.900,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
 Alaska Stat. § 22.-20.022,alaska stat. § 22.-20.022,Statute,state_statute,AK,1,1,1,1992,1992,true,exact
@@ -3116,15 +2836,14 @@ Alaska Stat. § 22.15.070,alaska stat. § 22.15.070,Statute,state_statute,AK,1,1
 Alaska Stat. § 22.15.170,alaska stat. § 22.15.170,Statute,state_statute,AK,1,1,1,2010,2010,true,exact
 Alaska Stat. § 23.10.050-150,alaska stat. § 23.10.050-150,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
 Alaska Stat. § 23.10.055,alaska stat. § 23.10.055,Statute,state_statute,AK,1,1,1,2018,2018,true,exact
-Alaska Stat. § 23.10.065,alaska stat. § 23.10.065,Statute,state_statute,AK,1,1,1,2003,2003,true,exact
 Alaska Stat. § 23.10.110,alaska stat. § 23.10.110,Statute,state_statute,AK,1,1,1,2007,2007,true,exact
 Alaska Stat. § 23.10.130,alaska stat. § 23.10.130,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 23.10.600,alaska stat. § 23.10.600,Statute,state_statute,AK,1,1,1,2008,2008,true,exact
-Alaska Stat. § 23.10.670,alaska stat. § 23.10.670,Statute,state_statute,AK,1,1,1,2008,2008,true,exact
 Alaska Stat. § 23.20.390,alaska stat. § 23.20.390,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 23.25.030,alaska stat. § 23.25.030,Statute,state_statute,AK,1,1,1,1992,1992,true,exact
 Alaska Stat. § 23.30.-105,alaska stat. § 23.30.-105,Statute,state_statute,AK,1,1,1,1980,1980,true,exact
 Alaska Stat. § 23.30.-265,alaska stat. § 23.30.-265,Statute,state_statute,AK,1,1,1,1982,1982,false,unresolved
+Alaska Stat. § 23.30.008,alaska stat. § 23.30.008,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 23.30.011,alaska stat. § 23.30.011,Statute,state_statute,AK,1,1,1,1993,1993,true,exact
 Alaska Stat. § 23.30.030,alaska stat. § 23.30.030,Statute,state_statute,AK,1,1,1,1985,1985,true,exact
 Alaska Stat. § 23.30.085,alaska stat. § 23.30.085,Statute,state_statute,AK,1,1,1,1990,1990,true,exact
@@ -3159,6 +2878,7 @@ Alaska Stat. § 25.25.201,alaska stat. § 25.25.201,Statute,state_statute,AK,1,1
 Alaska Stat. § 25.25.205,alaska stat. § 25.25.205,Statute,state_statute,AK,1,1,1,1997,1997,true,exact
 Alaska Stat. § 25.27.010,alaska stat. § 25.27.010,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 Alaska Stat. § 25.27.020,alaska stat. § 25.27.020,Statute,state_statute,AK,1,1,1,1997,1997,true,exact
+Alaska Stat. § 25.27.190,alaska stat. § 25.27.190,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 Alaska Stat. § 25.28.140,alaska stat. § 25.28.140,Statute,state_statute,AK,1,1,1,1998,1998,false,unresolved
 Alaska Stat. § 25.30.300,alaska stat. § 25.30.300,Statute,state_statute,AK,1,1,1,2017,2017,true,exact
 Alaska Stat. § 26.05.010,alaska stat. § 26.05.010,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
@@ -3218,7 +2938,6 @@ Alaska Stat. § 34.08.720,alaska stat. § 34.08.720,Statute,state_statute,AK,1,1
 Alaska Stat. § 34.15.050,alaska stat. § 34.15.050,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
 Alaska Stat. § 34.15.130,alaska stat. § 34.15.130,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 Alaska Stat. § 34.20.-100,alaska stat. § 34.20.-100,Statute,state_statute,AK,1,1,1,1993,1993,true,exact
-Alaska Stat. § 34.20.070,alaska stat. § 34.20.070,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 34.20.070.3,alaska stat. § 34.20.070.3,Statute,state_statute,AK,1,1,1,2024,2024,false,unresolved
 Alaska Stat. § 34.20.080,alaska stat. § 34.20.080,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 34.35.070,alaska stat. § 34.35.070,Statute,state_statute,AK,1,1,1,1981,1981,true,exact
@@ -3239,6 +2958,8 @@ Alaska Stat. § 36.30.627,alaska stat. § 36.30.627,Statute,state_statute,AK,1,1
 Alaska Stat. § 37.13.140,alaska stat. § 37.13.140,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
 Alaska Stat. § 38.05.095,alaska stat. § 38.05.095,Statute,state_statute,AK,1,1,1,2011,2011,true,exact
 Alaska Stat. § 39.05.045,alaska stat. § 39.05.045,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
+Alaska Stat. § 39.25.080,alaska stat. § 39.25.080,Statute,state_statute,AK,1,1,1,2021,2021,true,exact
+Alaska Stat. § 39.25.090,alaska stat. § 39.25.090,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. § 39.50.010,alaska stat. § 39.50.010,Statute,state_statute,AK,1,1,1,1979,1979,true,exact
 Alaska Stat. § 39.52.170,alaska stat. § 39.52.170,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. § 39.90.100,alaska stat. § 39.90.100,Statute,state_statute,AK,1,1,1,1992,1992,true,exact
@@ -3274,13 +2995,16 @@ Alaska Stat. § 45,alaska stat. § 45,Statute,state_statute,AK,1,1,1,2015,2015,f
 Alaska Stat. § 45.01.203,alaska stat. § 45.01.203,Statute,state_statute,AK,1,1,1,1993,1993,false,unresolved
 Alaska Stat. § 45.02.102,alaska stat. § 45.02.102,Statute,state_statute,AK,1,1,1,2026,2026,true,exact
 Alaska Stat. § 45.02.202,alaska stat. § 45.02.202,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
+Alaska Stat. § 45.02.313,alaska stat. § 45.02.313,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 45.02.314,alaska stat. § 45.02.314,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. § 45.02.607,alaska stat. § 45.02.607,Statute,state_statute,AK,1,1,1,1983,1983,true,exact
-Alaska Stat. § 45.02.719,alaska stat. § 45.02.719,Statute,state_statute,AK,1,1,1,2017,2017,true,exact
+Alaska Stat. § 45.02.714,alaska stat. § 45.02.714,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
+Alaska Stat. § 45.02.715,alaska stat. § 45.02.715,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. § 45.02.725,alaska stat. § 45.02.725,Statute,state_statute,AK,1,1,1,2018,2018,true,exact
 Alaska Stat. § 45.03.104,alaska stat. § 45.03.104,Statute,state_statute,AK,1,1,1,1993,1993,true,exact
 Alaska Stat. § 45.03.106,alaska stat. § 45.03.106,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Stat. § 45.03.205,alaska stat. § 45.03.205,Statute,state_statute,AK,1,1,1,2012,2012,true,exact
+Alaska Stat. § 45.03.301,alaska stat. § 45.03.301,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 45.05.174,alaska stat. § 45.05.174,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 Alaska Stat. § 45.10.020,alaska stat. § 45.10.020,Statute,state_statute,AK,1,1,1,1982,1982,true,exact
 Alaska Stat. § 45.29.102,alaska stat. § 45.29.102,Statute,state_statute,AK,1,1,1,2017,2017,true,exact
@@ -3289,7 +3013,6 @@ Alaska Stat. § 45.35,alaska stat. § 45.35,Statute,state_statute,AK,1,1,1,2009,
 Alaska Stat. § 45.35.099,alaska stat. § 45.35.099,Statute,state_statute,AK,1,1,1,2005,2005,true,exact
 Alaska Stat. § 45.45.101,alaska stat. § 45.45.101,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
 Alaska Stat. § 45.45.300,alaska stat. § 45.45.300,Statute,state_statute,AK,1,1,1,1986,1986,true,exact
-Alaska Stat. § 45.50.481,alaska stat. § 45.50.481,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 Alaska Stat. § 45.50.5321,alaska stat. § 45.50.5321,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
 Alaska Stat. § 45.50.535,alaska stat. § 45.50.535,Statute,state_statute,AK,1,1,1,2005,2005,true,exact
 Alaska Stat. § 45.50.571,alaska stat. § 45.50.571,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
@@ -3321,8 +3044,8 @@ Alaska Stat. § 46.40.030,alaska stat. § 46.40.030,Statute,state_statute,AK,1,1
 Alaska Stat. § 46.40.110-.180,alaska stat. § 46.40.110-.180,Statute,state_statute,AK,1,1,1,1984,1984,false,unresolved
 Alaska Stat. § 46.5.080,alaska stat. § 46.5.080,Statute,state_statute,AK,1,1,1,1985,1985,false,unresolved
 Alaska Stat. § 47.10.011,alaska stat. § 47.10.011,Statute,state_statute,AK,1,1,1,2018,2018,true,exact
-Alaska Stat. § 47.10.086,alaska stat. § 47.10.086,Statute,state_statute,AK,1,1,1,2003,2003,true,exact
 Alaska Stat. § 47.12.140,alaska stat. § 47.12.140,Statute,state_statute,AK,1,1,1,2003,2003,true,exact
+Alaska Stat. § 47.14.112,alaska stat. § 47.14.112,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 47.17.290,alaska stat. § 47.17.290,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Stat. § 47.30.470,alaska stat. § 47.30.470,Statute,state_statute,AK,1,1,1,1968,1968,true,exact
 Alaska Stat. § 47.30.710,alaska stat. § 47.30.710,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
@@ -3365,15 +3088,16 @@ Alaska Statute (“AS”) § 09.17.080.20,alaska statute (“as”) § 09.17.080
 Alaska Statute (“AS”) § 14.18.100,alaska statute (“as”) § 14.18.100,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 Alaska Statute (“AS”) § 21.89.020,alaska statute (“as”) § 21.89.020,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved
 Alaska Statute (“AS”) § 46.03.822,alaska statute (“as”) § 46.03.822,Statute,state_statute,AK,1,1,1,2005,2005,false,unresolved
-Alaska Statute § 09.10.070,alaska statute § 09.10.070,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
+Alaska Statute § 01.10.080,alaska statute § 01.10.080,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Statute § 09.17.080,alaska statute § 09.17.080,Statute,state_statute,AK,1,1,1,2000,2000,true,exact
 Alaska Statute § 09.20.185.2,alaska statute § 09.20.185.2,Statute,state_statute,AK,1,1,1,2013,2013,false,unresolved
-Alaska Statute § 09.45.170,alaska statute § 09.45.170,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
+Alaska Statute § 09.38.055,alaska statute § 09.38.055,Statute,state_statute,AK,1,1,1,2008,2008,true,exact
 Alaska Statute § 09.55.540,alaska statute § 09.55.540,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 Alaska Statute § 09.55.540.139,alaska statute § 09.55.540.139,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 Alaska Statute § 09.55.570,alaska statute § 09.55.570,Statute,state_statute,AK,1,1,1,2024,2024,true,exact
 Alaska Statute § 09.55.580,alaska statute § 09.55.580,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Statute § 11.31.120.15,alaska statute § 11.31.120.15,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
+Alaska Statute § 11.41.110,alaska statute § 11.41.110,Statute,state_statute,AK,1,1,1,1994,1994,true,exact
 Alaska Statute § 11.46.180,alaska statute § 11.46.180,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
 Alaska Statute § 11.56.230.14,alaska statute § 11.56.230.14,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 Alaska Statute § 11.56.610,alaska statute § 11.56.610,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
@@ -3415,12 +3139,12 @@ Alaska Statute § 43.75.060,alaska statute § 43.75.060,Statute,state_statute,AK
 Alaska Statute § 44.41.035,alaska statute § 44.41.035,Statute,state_statute,AK,1,1,1,2020,2020,true,exact
 Alaska Statute § 45.02.209,alaska statute § 45.02.209,Statute,state_statute,AK,1,1,1,2020,2020,true,exact
 Alaska Statute § 45.02.314,alaska statute § 45.02.314,Statute,state_statute,AK,1,1,1,2013,2013,true,exact
+Alaska Statute § 45.02.315,alaska statute § 45.02.315,Statute,state_statute,AK,1,1,1,2013,2013,true,exact
 Alaska Statute § 45.02.714,alaska statute § 45.02.714,Statute,state_statute,AK,1,1,1,2013,2013,true,exact
 Alaska Statute § 45.45.900,alaska statute § 45.45.900,Statute,state_statute,AK,1,1,1,2008,2008,true,exact
 Alaska Statute § 45.50.471,alaska statute § 45.50.471,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 Alaska Statute § 45.50.471.8,alaska statute § 45.50.471.8,Statute,state_statute,AK,1,1,1,2026,2026,false,unresolved
 Alaska Statute § 45.56.430,alaska statute § 45.56.430,Statute,state_statute,AK,1,1,1,2025,2025,true,exact
-Alaska Statute § 46.03.750,alaska statute § 46.03.750,Statute,state_statute,AK,1,1,1,1984,1984,true,exact
 Alaska Statute § 9.55.570,alaska statute § 9.55.570,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 Alaska Statutes (“AS”) § 09.45.164,alaska statutes (“as”) § 09.45.164,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 Alaska Statutes (“AS”) § 09.45.167,alaska statutes (“as”) § 09.45.167,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
@@ -3593,7 +3317,6 @@ Alaska's § 404,alaska's § 404,Statute,state_statute,AK,1,1,1,2007,2007,false,u
 "Alaska, 1957, ch. 126 § 151","alaska, 1957, ch. 126 § 151",Statute,state_statute,AK,1,1,1,1966,1966,false,unresolved
 "Alaska, 1995 Alaska Sess.Laws 7 § 2","alaska, 1995 alaska sess.laws 7 § 2",Statute,state_statute,AK,1,1,1,1996,1996,false,unresolved
 "Alaska, 23 Fed. 597 § 26","alaska, 23 fed. 597 § 26",Statute,state_statute,AK,1,1,1,1893,1893,false,unresolved
-"Alaska, 415 U.S. 308 (1974). Fla. Stat. § 90.608","alaska, 415 u.s. 308 (1974). fla. stat. § 90.608",Statute,state_statute,AK,1,1,1,1990,1990,false,unresolved
 "Alaska, A.C.L.A. § 43-3-1","alaska, a.c.l.a. § 43-3-1",Statute,state_statute,AK,1,1,1,1954,1954,false,unresolved
 "Alaska, ALASKA R.CRIM. P. 11","alaska, alaska r.crim. p. 11",Statute,state_statute,AK,1,1,1,2006,2006,true,exact
 "Alaska, ALASKA STAT. § 10.20.131","alaska, alaska stat. § 10.20.131",Statute,state_statute,AK,1,1,1,2004,2004,true,exact
@@ -3720,8 +3443,10 @@ CAL. CONST. art. III § 6,cal. const. art. iii § 6,Statute,state_statute,AK,1,1
 CAL. FAM. CODE § 4900,cal. fam. code § 4900,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 CAL. FAM.CODE § 3400,cal. fam.code § 3400,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
 CAL. FAM.CODE § 3403,cal. fam.code § 3403,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
+CAL. PROB. CODE § 6111,cal. prob. code § 6111,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 CAL. PROB.CODE § 250,cal. prob.code § 250,Statute,state_statute,AK,1,1,1,2006,2006,true,exact
 CAL. PROB.CODE § 2630,cal. prob.code § 2630,Statute,state_statute,AK,1,1,1,2002,2002,true,exact
+CAL. WELF. & INST. CODE § 15657.5,cal. welf. & inst. code § 15657.5,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 CAL.CIV.PROC.CODE § 2015.5,cal.civ.proc.code § 2015.5,Statute,state_statute,AK,1,1,1,2007,2007,false,unresolved
 CALRO § 5:13,calro § 5:13,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
 CBJ § 49.10.510,cbj § 49.10.510,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
@@ -3928,7 +3653,6 @@ FSA § I,fsa § i,Statute,state_statute,AK,1,1,1,1992,1992,false,unresolved
 "FSSLA 2019, ch. 4 § 38","fssla 2019, ch. 4 § 38",Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 "FSSLA 2019, ch. 4 § 4","fssla 2019, ch. 4 § 4",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 "FSSLA 2019, ch. 4 § 83","fssla 2019, ch. 4 § 83",Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-Fed.Prac. § 204.11,fed.prac. § 204.11,Statute,state_statute,AK,1,1,1,1975,1975,false,unresolved
 GA. CODE ANN. § 118,ga. code ann. § 118,Statute,state_statute,AK,1,1,1,2007,2007,false,unresolved
 GA. CODE ANN. § 15-11-681,ga. code ann. § 15-11-681,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 GA. CODE ANN. § 15-11-688,ga. code ann. § 15-11-688,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
@@ -3947,7 +3671,6 @@ GSC § 01.0601,gsc § 01.0601,Statute,state_statute,AK,1,1,1,1983,1983,false,unr
 GSC § 3.2.4.1,gsc § 3.2.4.1,Statute,state_statute,AK,1,1,1,1983,1983,false,unresolved
 GUIDE § 48:1,guide § 48:1,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 Gen.Stat.Or. § 292,gen.stat.or. § 292,Statute,state_statute,AK,1,1,1,1995,1995,false,unresolved
-H.B. 101 § 13,h.b. 101 § 13,Statute,state_statute,AK,1,1,1,1981,1981,false,unresolved
 "H.B. 58, No. 075 § 9","h.b. 58, no. 075 § 9",Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 HAIDA INDIAN TRIBES OF ALASKA art. I § 1,haida indian tribes of alaska art. i § 1,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
 HAW. CONST. art. XV § 4,haw. const. art. xv § 4,Statute,state_statute,AK,1,1,1,2007,2007,true,exact
@@ -4147,8 +3870,6 @@ OF CONTS. § 237,of conts. § 237,Statute,state_statute,AK,1,1,1,2026,2026,false
 OF CONTS. § 380-81,of conts. § 380-81,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 OF CONTS. § 381,of conts. § 381,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
 OF CONTS. § 7,of conts. § 7,Statute,state_statute,AK,1,1,1,2025,2025,false,unresolved
-OF LAWS § 107,of laws § 107,Statute,state_statute,AK,1,1,1,2020,2020,false,unresolved
-OF LAWS § 91,of laws § 91,Statute,state_statute,AK,1,1,1,2018,2018,false,unresolved
 OHIO REV. CODE ANN. § 2901.01,ohio rev. code ann. § 2901.01,Statute,state_statute,AK,1,1,1,2023,2023,true,exact
 OHIO REV. CODE ANN. § 2919.12,ohio rev. code ann. § 2919.12,Statute,state_statute,AK,1,1,1,2019,2019,true,exact
 OHIO REV. CODE ANN. § 3115.01,ohio rev. code ann. § 3115.01,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
@@ -4170,8 +3891,11 @@ ON LAND TITLES § 152,on land titles § 152,Statute,state_statute,AK,1,1,1,2023,
 ON LEASES § 28:1,on leases § 28:1,Statute,state_statute,AK,1,1,1,2014,2014,false,unresolved
 ON LEGAL STYLE § 1.7,on legal style § 1.7,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 ON THE § 410,on the § 410,Statute,state_statute,AK,1,1,1,1985,1985,false,unresolved
+OR. REV. STAT. ANN. § 109.119,or. rev. stat. ann. § 109.119,Statute,state_statute,AK,1,1,1,2022,2022,true,exact
 OR. REV. STAT. § 11.109.701-.834,or. rev. stat. § 11.109.701-.834,Statute,state_statute,AK,1,1,1,2022,2022,false,unresolved
 OR. REV. STAT. § 110.303,or. rev. stat. § 110.303,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
+OR. REV. STAT. § 124.075,or. rev. stat. § 124.075,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
+OR. REV. STAT. § 124.125,or. rev. stat. § 124.125,Statute,state_statute,AK,1,1,1,2016,2016,true,exact
 OR.REV.STAT. § 112.455,or.rev.stat. § 112.455,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
 OR.REV.STAT. § 112.455-465,or.rev.stat. § 112.455-465,Statute,state_statute,AK,1,1,1,2006,2006,false,unresolved
 OR.REV.STAT. § 90.385,or.rev.stat. § 90.385,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
@@ -4193,7 +3917,6 @@ Or.Rev.Stat. § 109.760,or.rev.stat. § 109.760,Statute,state_statute,AK,1,1,1,1
 Or.Rev.Stat. § 127.800-.995,or.rev.stat. § 127.800-.995,Statute,state_statute,AK,1,1,1,2001,2001,false,unresolved
 Or.Rev.Stat. § 135.703-709,or.rev.stat. § 135.703-709,Statute,state_statute,AK,1,1,1,1986,1986,false,unresolved
 Or.Rev.Stat. § 162.135,or.rev.stat. § 162.135,Statute,state_statute,AK,1,1,1,1990,1990,true,exact
-Or.Rev.Stat. § 20.160-.170,or.rev.stat. § 20.160-.170,Statute,state_statute,AK,1,1,1,1988,1988,false,unresolved
 Or.Rev.Stat. § 508.285,or.rev.stat. § 508.285,Statute,state_statute,AK,1,1,1,2003,2003,true,exact
 Or.Rev.Stat. § 526.805,or.rev.stat. § 526.805,Statute,state_statute,AK,1,1,1,1982,1982,true,exact
 Or.Rev.Stat. § 656.289-.298,or.rev.stat. § 656.289-.298,Statute,state_statute,AK,1,1,1,2007,2007,false,unresolved
@@ -4230,10 +3953,6 @@ RMBCA § 14.05,rmbca § 14.05,Statute,state_statute,AK,1,1,1,1999,1999,false,unr
 ROW § 9A.72.120,row § 9a.72.120,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 RULES § 430,rules § 430,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
 RULES § 462,rules § 462,Statute,state_statute,AK,1,1,1,2023,2023,false,unresolved
-S.B. 304 § 3,s.b. 304 § 3,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-S.B. 332 (L&C) § 26,s.b. 332 (l&c) § 26,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
-S.B. 332 (L&C) § 7,s.b. 332 (l&c) § 7,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
-S.B. § 5,s.b. § 5,Statute,state_statute,AK,1,1,1,2009,2009,false,unresolved
 S.L.A. (Ex.Sess.) 1955 § 19-1-1,s.l.a. (ex.sess.) 1955 § 19-1-1,Statute,state_statute,AK,1,1,1,1960,1960,false,unresolved
 "S.L.A. 1951, ch. 46 § 1-3","s.l.a. 1951, ch. 46 § 1-3",Statute,state_statute,AK,1,1,1,1963,1963,false,unresolved
 "S.L.A. 1951, ch. 46 § 3","s.l.a. 1951, ch. 46 § 3",Statute,state_statute,AK,1,1,1,1963,1963,false,unresolved
@@ -4706,8 +4425,6 @@ TEX. FAM.CODE ANN. § 011,tex. fam.code ann. § 011,Statute,state_statute,AK,1,1
 TEX. FAM.CODE ANN. § 33.002,tex. fam.code ann. § 33.002,Statute,state_statute,AK,1,1,1,2007,2007,true,exact
 TEX.FAM. CODE ANN. § 152.204,tex.fam. code ann. § 152.204,Statute,state_statute,AK,1,1,1,2017,2017,false,unresolved
 TRIBE art. II § 1,tribe art. ii § 1,Statute,state_statute,AK,1,1,1,2016,2016,false,unresolved
-TRUSTS § 206,trusts § 206,Statute,state_statute,AK,1,1,1,1991,1991,false,unresolved
-TRUSTS § 411,trusts § 411,Statute,state_statute,AK,1,1,1,1991,1991,false,unresolved
 TURNER § 6.26,turner § 6.26,Statute,state_statute,AK,1,1,1,2015,2015,false,unresolved
 "Title 43, Alaska Statutes § 43.70.010","title 43, alaska statutes § 43.70.010",Statute,state_statute,AK,1,1,1,1964,1964,false,unresolved
 UAC § 309.1,uac § 309.1,Statute,state_statute,AK,1,1,1,2003,2003,false,unresolved

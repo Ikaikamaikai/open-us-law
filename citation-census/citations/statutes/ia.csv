@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 Iowa Code § 232.116,iowa code § 232.116,Statute,state_statute,IA,4887,2364,6,1985,2026,true,exact
-Iowa Code § 17A.19,iowa code § 17a.19,Statute,state_statute,IA,2232,1037,8,1981,2026,true,exact
+Iowa Code § 17A.19,iowa code § 17a.19,Statute,state_statute,IA,2233,1037,8,1981,2026,true,exact
 Iowa Code § 232.104,iowa code § 232.104,Statute,state_statute,IA,941,801,3,1992,2026,true,exact
 Iowa Code § 598.21,iowa code § 598.21,Statute,state_statute,IA,932,536,11,1982,2026,true,exact
 Iowa Code § 321J,iowa code § 321j,Statute,state_statute,IA,872,448,11,1987,2026,false,unresolved
@@ -8,30 +8,30 @@ Iowa Code § 598.41,iowa code § 598.41,Statute,state_statute,IA,863,489,7,1983,
 Iowa Code § 600A,iowa code § 600a,Statute,state_statute,IA,824,262,5,1982,2026,false,unresolved
 Iowa Code § 614.1,iowa code § 614.1,Statute,state_statute,IA,762,402,26,1964,2026,true,exact
 Iowa Code § 232.102,iowa code § 232.102,Statute,state_statute,IA,655,501,3,1981,2026,true,exact
-Iowa Code § 124.401,iowa code § 124.401,Statute,state_statute,IA,613,403,10,1995,2026,true,exact
+Iowa Code § 124.401,iowa code § 124.401,Statute,state_statute,IA,614,403,10,1995,2026,true,exact
 Iowa Code § 822.3,iowa code § 822.3,Statute,state_statute,IA,578,406,6,1993,2026,true,exact
 Iowa Code § 814.6,iowa code § 814.6,Statute,state_statute,IA,529,398,2,1987,2026,true,exact
 Iowa Code § 229A,iowa code § 229a,Statute,state_statute,IA,469,156,12,2000,2026,false,unresolved
 Iowa Code § 232.2,iowa code § 232.2,Statute,state_statute,IA,460,314,5,1955,2026,true,exact
 Iowa Code § 216.6,iowa code § 216.6,Statute,state_statute,IA,440,260,12,1993,2025,true,exact
 Iowa Code § 901.5,iowa code § 901.5,Statute,state_statute,IA,419,324,4,1983,2026,true,exact
-Iowa Code § 708.1,iowa code § 708.1,Statute,state_statute,IA,408,262,16,1983,2026,true,exact
+Iowa Code § 708.1,iowa code § 708.1,Statute,state_statute,IA,410,262,16,1983,2026,true,exact
 Iowa Code § 814.7,iowa code § 814.7,Statute,state_statute,IA,407,326,2,2006,2026,true,exact
-Iowa Code § 627.6,iowa code § 627.6,Statute,state_statute,IA,401,115,23,1982,2024,true,exact
+Iowa Code § 627.6,iowa code § 627.6,Statute,state_statute,IA,404,115,23,1982,2024,true,exact
 Iowa Code § 4.1,iowa code § 4.1,Statute,state_statute,IA,337,286,9,1968,2026,true,exact
 Iowa Code § 85.34,iowa code § 85.34,Statute,state_statute,IA,307,117,3,1983,2026,true,exact
 Iowa Code § 17A,iowa code § 17a,Statute,state_statute,IA,306,188,6,1982,2026,false,unresolved
 Iowa Code § 598.21A,iowa code § 598.21a,Statute,state_statute,IA,303,170,2,2007,2026,true,exact
 Iowa Code § 232.117,iowa code § 232.117,Statute,state_statute,IA,297,250,2,1992,2026,true,exact
 Iowa Code § 85.27,iowa code § 85.27,Statute,state_statute,IA,285,88,7,1983,2026,true,exact
-Iowa Code § 714.1,iowa code § 714.1,Statute,state_statute,IA,281,200,14,1980,2026,true,exact
+Iowa Code § 714.1,iowa code § 714.1,Statute,state_statute,IA,282,200,14,1980,2026,true,exact
 Iowa Code § 902.9,iowa code § 902.9,Statute,state_statute,IA,272,227,9,1982,2026,true,exact
+Iowa Code § 598.1,iowa code § 598.1,Statute,state_statute,IA,265,202,5,1983,2026,true,exact
 Iowa Code § 4.6,iowa code § 4.6,Statute,state_statute,IA,264,201,7,1982,2025,true,exact
-Iowa Code § 598.1,iowa code § 598.1,Statute,state_statute,IA,264,202,5,1983,2026,true,exact
-Iowa Code § 622.10,iowa code § 622.10,Statute,state_statute,IA,261,124,12,1957,2025,true,exact
+Iowa Code § 622.10,iowa code § 622.10,Statute,state_statute,IA,264,124,12,1957,2025,true,exact
 Iowa Code § 709.4,iowa code § 709.4,Statute,state_statute,IA,251,197,16,1968,2026,true,exact
 Iowa Code § 91A,iowa code § 91a,Statute,state_statute,IA,250,91,12,1981,2026,false,unresolved
-Iowa Code § 670.4,iowa code § 670.4,Statute,state_statute,IA,234,94,6,1993,2025,true,exact
+Iowa Code § 670.4,iowa code § 670.4,Statute,state_statute,IA,235,94,6,1993,2025,true,exact
 Iowa Code § 903A,iowa code § 903a,Statute,state_statute,IA,233,109,5,1986,2025,false,unresolved
 Iowa Code § 713.1,iowa code § 713.1,Statute,state_statute,IA,232,173,21,1954,2026,true,exact
 Iowa Code § 724.4,iowa code § 724.4,Statute,state_statute,IA,232,121,10,1982,2025,true,exact
@@ -40,15 +40,15 @@ Iowa Code § 663A,iowa code § 663a,Statute,state_statute,IA,228,116,7,1975,2025
 Iowa Code § 707.2,iowa code § 707.2,Statute,state_statute,IA,218,166,10,1982,2026,true,exact
 Iowa Code § 708.2,iowa code § 708.2,Statute,state_statute,IA,209,129,10,1984,2026,true,exact
 Iowa Code § 85.20,iowa code § 85.20,Statute,state_statute,IA,205,128,14,1967,2026,true,exact
-Iowa Code § 441.21,iowa code § 441.21,Statute,state_statute,IA,203,67,5,1975,2026,true,exact
+Iowa Code § 441.21,iowa code § 441.21,Statute,state_statute,IA,204,67,5,1975,2026,true,exact
 Iowa Code § 4.4,iowa code § 4.4,Statute,state_statute,IA,202,164,4,1983,2025,true,exact
 Iowa Code § 570A,iowa code § 570a,Statute,state_statute,IA,199,21,7,1990,2023,false,unresolved
 Iowa Code § 714.2,iowa code § 714.2,Statute,state_statute,IA,198,160,13,1980,2026,true,exact
-Iowa Code § 903.1,iowa code § 903.1,Statute,state_statute,IA,193,168,6,1983,2025,true,exact
+Iowa Code § 903.1,iowa code § 903.1,Statute,state_statute,IA,196,168,6,1983,2025,true,exact
 Iowa Code § 708.2A,iowa code § 708.2a,Statute,state_statute,IA,192,129,6,1992,2026,true,exact
-Iowa Code § 907.3,iowa code § 907.3,Statute,state_statute,IA,187,137,5,1982,2026,true,exact
+Iowa Code § 907.3,iowa code § 907.3,Statute,state_statute,IA,188,137,5,1982,2026,true,exact
 Iowa Code § 232B,iowa code § 232b,Statute,state_statute,IA,184,53,6,2004,2026,false,unresolved
-Iowa Code § 633.33,iowa code § 633.33,Statute,state_statute,IA,182,173,3,1983,2025,true,exact
+Iowa Code § 633.33,iowa code § 633.33,Statute,state_statute,IA,183,173,3,1983,2025,true,exact
 Iowa Code § 232.96,iowa code § 232.96,Statute,state_statute,IA,179,148,3,1982,2025,true,exact
 Iowa Code § 709.15,iowa code § 709.15,Statute,state_statute,IA,179,40,5,1997,2024,true,exact
 Iowa Code § 709.1,iowa code § 709.1,Statute,state_statute,IA,170,148,9,1963,2026,true,exact
@@ -71,24 +71,24 @@ Iowa Code § 668.3,iowa code § 668.3,Statute,state_statute,IA,142,102,8,1986,20
 Iowa Code § 724.26,iowa code § 724.26,Statute,state_statute,IA,142,86,6,1983,2026,true,exact
 Iowa Code § 902.1,iowa code § 902.1,Statute,state_statute,IA,142,82,11,1984,2025,true,exact
 Iowa Code § 516A,iowa code § 516a,Statute,state_statute,IA,141,76,12,1982,2025,false,unresolved
+Iowa Code § 804.20,iowa code § 804.20,Statute,state_statute,IA,141,60,5,1984,2026,true,exact
 Iowa Code § 147.140,iowa code § 147.140,Statute,state_statute,IA,140,39,3,2021,2026,true,exact
 Iowa Code § 22.7,iowa code § 22.7,Statute,state_statute,IA,140,58,6,1987,2026,true,exact
 Iowa Code § 229.1,iowa code § 229.1,Statute,state_statute,IA,140,85,7,1976,2026,true,exact
 Iowa Code § 907.5,iowa code § 907.5,Statute,state_statute,IA,140,132,2,1982,2025,true,exact
+Iowa Code § 96.5,iowa code § 96.5,Statute,state_statute,IA,140,86,8,1956,2022,true,exact
 Iowa Code § 726.6,iowa code § 726.6,Statute,state_statute,IA,139,97,6,1990,2026,true,exact
 Iowa Code § 598.21C,iowa code § 598.21c,Statute,state_statute,IA,138,102,3,2006,2026,true,exact
-Iowa Code § 96.5,iowa code § 96.5,Statute,state_statute,IA,138,86,8,1956,2022,true,exact
 Iowa Code § 669.14,iowa code § 669.14,Statute,state_statute,IA,136,79,6,1996,2026,true,exact
 Iowa Code § 709.8,iowa code § 709.8,Statute,state_statute,IA,136,78,13,1985,2026,true,exact
-Iowa Code § 804.20,iowa code § 804.20,Statute,state_statute,IA,136,60,5,1984,2026,true,exact
 Iowa Code § 600B.40,iowa code § 600b.40,Statute,state_statute,IA,135,128,2,2005,2026,true,exact
 Iowa Code § 730.5,iowa code § 730.5,Statute,state_statute,IA,131,23,3,1990,2025,true,exact
-Iowa Code § 4.7,iowa code § 4.7,Statute,state_statute,IA,129,111,4,1983,2025,true,exact
+Iowa Code § 4.7,iowa code § 4.7,Statute,state_statute,IA,130,111,4,1983,2025,true,exact
 Iowa Code § 902.8,iowa code § 902.8,Statute,state_statute,IA,126,89,6,1986,2026,true,exact
 Iowa Code § 702.11,iowa code § 702.11,Statute,state_statute,IA,125,113,4,1982,2025,true,exact
+Iowa Code § 535.3,iowa code § 535.3,Statute,state_statute,IA,115,81,7,1981,2025,true,exact
+Iowa Code § 707.6A,iowa code § 707.6a,Statute,state_statute,IA,114,71,5,1989,2025,true,exact
 Iowa Code § 249A,iowa code § 249a,Statute,state_statute,IA,113,51,9,1984,2026,false,unresolved
-Iowa Code § 707.6A,iowa code § 707.6a,Statute,state_statute,IA,113,71,5,1989,2025,true,exact
-Iowa Code § 535.3,iowa code § 535.3,Statute,state_statute,IA,110,81,7,1981,2025,true,exact
 Iowa Code § 669.5,iowa code § 669.5,Statute,state_statute,IA,110,53,4,1994,2026,true,exact
 Iowa Code § 692A.103,iowa code § 692a.103,Statute,state_statute,IA,106,62,3,2014,2026,true,exact
 Iowa Code § 86.13,iowa code § 86.13,Statute,state_statute,IA,106,63,4,1970,2025,false,unresolved
@@ -158,7 +158,7 @@ Iowa Code § 232.103,iowa code § 232.103,Statute,state_statute,IA,73,54,2,1984,
 Iowa Code § 321.1,iowa code § 321.1,Statute,state_statute,IA,73,53,7,1974,2025,true,exact
 Iowa Code § 598.23,iowa code § 598.23,Statute,state_statute,IA,73,60,5,1982,2026,true,exact
 Iowa Code § 668.1,iowa code § 668.1,Statute,state_statute,IA,73,54,7,1985,2022,true,exact
-Iowa Code § 668A.l,iowa code § 668a.l,Statute,state_statute,IA,73,43,8,1987,2017,false,unresolved
+Iowa Code § 668A.1,iowa code § 668a.1,Statute,state_statute,IA,73,43,8,1987,2017,true,exact
 Iowa Code § 602.6101,iowa code § 602.6101,Statute,state_statute,IA,72,56,5,1985,2026,true,exact
 Iowa Code § 714H,iowa code § 714h,Statute,state_statute,IA,72,33,13,2011,2025,false,unresolved
 Iowa Code § 535.9,iowa code § 535.9,Statute,state_statute,IA,71,3,2,1997,1998,true,exact
@@ -167,7 +167,7 @@ Iowa Code § 17A.20,iowa code § 17a.20,Statute,state_statute,IA,68,68,2,1982,20
 Iowa Code § 627.10,iowa code § 627.10,Statute,state_statute,IA,68,64,11,1985,2025,true,exact
 Iowa Code § 216.18,iowa code § 216.18,Statute,state_statute,IA,67,41,2,2014,2025,true,exact
 Iowa Code § 235B,iowa code § 235b,Statute,state_statute,IA,67,21,3,1998,2019,false,unresolved
-Iowa Code § 692A.128,iowa code § 692a.128,Statute,state_statute,IA,66,26,2,2014,2024,true,exact
+Iowa Code § 692A.128,iowa code § 692a.128,Statute,state_statute,IA,67,26,2,2014,2024,true,exact
 Iowa Code § 321.281,iowa code § 321.281,Statute,state_statute,IA,65,45,2,1954,2026,true,exact
 Iowa Code § 499A,iowa code § 499a,Statute,state_statute,IA,65,9,1,2015,2015,false,unresolved
 Iowa Code § 710.2,iowa code § 710.2,Statute,state_statute,IA,65,54,6,1982,2025,true,exact
@@ -204,16 +204,16 @@ Iowa Code § 670.2,iowa code § 670.2,Statute,state_statute,IA,58,45,6,1995,2025
 "Iowa, Mun. Code § 61.138","iowa, mun. code § 61.138",Statute,state_statute,IA,58,7,2,2017,2019,false,unresolved
 Iowa Code § 216.19,iowa code § 216.19,Statute,state_statute,IA,57,23,2,1998,2021,true,exact
 Iowa Code § 232.8,iowa code § 232.8,Statute,state_statute,IA,57,41,2,1985,2024,true,exact
+Iowa Code § 535.2,iowa code § 535.2,Statute,state_statute,IA,57,37,12,1975,2025,true,exact
 Iowa Code § 561.22,iowa code § 561.22,Statute,state_statute,IA,57,4,2,1992,2004,true,exact
 Iowa Code § 598.21B,iowa code § 598.21b,Statute,state_statute,IA,57,42,2,2006,2025,true,exact
 Iowa Code § 713.5,iowa code § 713.5,Statute,state_statute,IA,57,49,5,1984,2023,true,exact
 Iowa Code § 85.33,iowa code § 85.33,Statute,state_statute,IA,57,39,5,1995,2023,true,exact
 Iowa Code § 85.64,iowa code § 85.64,Statute,state_statute,IA,57,23,2,1990,2025,true,exact
+Iowa Code § 901.2,iowa code § 901.2,Statute,state_statute,IA,57,45,2,1987,2026,true,exact
 Iowa Code § 22.2,iowa code § 22.2,Statute,state_statute,IA,56,41,6,1987,2026,true,exact
-Iowa Code § 535.2,iowa code § 535.2,Statute,state_statute,IA,56,37,12,1975,2025,true,exact
 Iowa Code § 537.7103,iowa code § 537.7103,Statute,state_statute,IA,56,19,8,1982,2025,true,exact
 Iowa Code § 562A.12,iowa code § 562a.12,Statute,state_statute,IA,56,20,4,1985,2025,true,exact
-Iowa Code § 901.2,iowa code § 901.2,Statute,state_statute,IA,56,45,2,1987,2026,true,exact
 Iowa Code § 20.7,iowa code § 20.7,Statute,state_statute,IA,55,11,3,1983,2019,true,exact
 Iowa Code § 321.561,iowa code § 321.561,Statute,state_statute,IA,55,41,3,1977,2025,true,exact
 Iowa Code § 716.7,iowa code § 716.7,Statute,state_statute,IA,55,37,6,1982,2026,true,exact
@@ -223,10 +223,10 @@ Iowa Code § 236.5,iowa code § 236.5,Statute,state_statute,IA,54,34,3,1997,2025
 Iowa Code § 507B,iowa code § 507b,Statute,state_statute,IA,54,21,8,1978,2024,false,unresolved
 Iowa Code § 657.1,iowa code § 657.1,Statute,state_statute,IA,54,37,4,1986,2024,true,exact
 Iowa Code § 20.3,iowa code § 20.3,Statute,state_statute,IA,53,23,2,1987,2024,true,exact
+Iowa Code § 811.2,iowa code § 811.2,Statute,state_statute,IA,53,35,3,1982,2025,true,exact
 Iowa Code of 1851 § 778,iowa code of 1851 § 778,Statute,state_statute,IA,52,26,1,2006,2006,false,unresolved
 Iowa Code § 147.136,iowa code § 147.136,Statute,state_statute,IA,52,12,4,1985,2011,true,exact
 Iowa Code § 710.10,iowa code § 710.10,Statute,state_statute,IA,52,25,3,1996,2026,true,exact
-Iowa Code § 811.2,iowa code § 811.2,Statute,state_statute,IA,52,35,3,1982,2025,true,exact
 Iowa Code § 814.6A,iowa code § 814.6a,Statute,state_statute,IA,52,41,2,2019,2026,true,exact
 Iowa Code § 910.3B,iowa code § 910.3b,Statute,state_statute,IA,52,23,2,2000,2026,true,exact
 Iowa Code § 216.7,iowa code § 216.7,Statute,state_statute,IA,51,17,6,1993,2023,true,exact
@@ -323,12 +323,12 @@ Iowa Code § 124.413,iowa code § 124.413,Statute,state_statute,IA,39,25,2,1997,
 Iowa Code § 146A,iowa code § 146a,Statute,state_statute,IA,39,16,2,2017,2024,false,unresolved
 Iowa Code § 537.1301,iowa code § 537.1301,Statute,state_statute,IA,39,15,4,1985,2025,true,exact
 Iowa Code § 775.5,iowa code § 775.5,Statute,state_statute,IA,39,7,1,1983,2022,false,unresolved
+Iowa Code § 821.1,iowa code § 821.1,Statute,state_statute,IA,39,7,2,1984,2025,true,exact
 Iowa Code § 368.22,iowa code § 368.22,Statute,state_statute,IA,38,22,2,1983,2025,true,exact
 Iowa Code § 596.8,iowa code § 596.8,Statute,state_statute,IA,38,20,2,1996,2024,true,exact
 Iowa Code § 668.5,iowa code § 668.5,Statute,state_statute,IA,38,29,7,1988,2019,true,exact
 Iowa Code § 6B,iowa code § 6b,Statute,state_statute,IA,38,18,3,1997,2024,false,unresolved
 Iowa Code § 709C,iowa code § 709c,Statute,state_statute,IA,38,18,4,2001,2018,false,unresolved
-Iowa Code § 821.1,iowa code § 821.1,Statute,state_statute,IA,38,7,2,1984,2025,true,exact
 Iowa Code § 17A.12,iowa code § 17a.12,Statute,state_statute,IA,37,31,4,1979,2024,true,exact
 Iowa Code § 20.6,iowa code § 20.6,Statute,state_statute,IA,37,19,2,1985,2024,true,exact
 Iowa Code § 229.6,iowa code § 229.6,Statute,state_statute,IA,37,30,5,1976,2025,true,exact
@@ -363,6 +363,7 @@ Iowa Code § 229.21,iowa code § 229.21,Statute,state_statute,IA,34,18,3,1991,20
 Iowa Code § 229A.8A,iowa code § 229a.8a,Statute,state_statute,IA,34,18,3,2006,2024,true,exact
 Iowa Code § 321.560,iowa code § 321.560,Statute,state_statute,IA,34,25,2,1986,2024,true,exact
 Iowa Code § 561.20,iowa code § 561.20,Statute,state_statute,IA,34,20,8,1993,2026,true,exact
+Iowa Code § 572.2,iowa code § 572.2,Statute,state_statute,IA,34,20,4,1985,2025,true,exact
 Iowa Code § 68A.102,iowa code § 68a.102,Statute,state_statute,IA,34,10,5,2004,2018,true,exact
 Iowa Code § 711.3,iowa code § 711.3,Statute,state_statute,IA,34,30,6,1982,2025,true,exact
 Iowa Code § 915.21,iowa code § 915.21,Statute,state_statute,IA,34,26,2,2014,2025,true,exact
@@ -370,7 +371,6 @@ Iowa Code § 232.102A,iowa code § 232.102a,Statute,state_statute,IA,33,29,2,202
 Iowa Code § 4.13,iowa code § 4.13,Statute,state_statute,IA,33,27,4,1983,2025,true,exact
 Iowa Code § 455A,iowa code § 455a,Statute,state_statute,IA,33,13,1,1993,2025,false,unresolved
 Iowa Code § 515.138,iowa code § 515.138,Statute,state_statute,IA,33,12,5,1982,2014,true,exact
-Iowa Code § 572.2,iowa code § 572.2,Statute,state_statute,IA,33,20,4,1985,2025,true,exact
 Iowa Code § 610A,iowa code § 610a,Statute,state_statute,IA,33,18,4,1995,2025,false,unresolved
 Iowa Code § 628.3,iowa code § 628.3,Statute,state_statute,IA,33,24,5,1984,2021,true,exact
 Iowa Code § 711.4,iowa code § 711.4,Statute,state_statute,IA,33,18,5,1990,2024,true,exact
@@ -428,6 +428,7 @@ Iowa Code § 554.2202,iowa code § 554.2202,Statute,state_statute,IA,29,18,9,198
 Iowa Code § 602.6306,iowa code § 602.6306,Statute,state_statute,IA,29,14,2,1987,2024,true,exact
 Iowa Code § 654A,iowa code § 654a,Statute,state_statute,IA,29,9,3,1987,2016,false,unresolved
 Iowa Code § 703.2,iowa code § 703.2,Statute,state_statute,IA,29,23,3,1983,2023,true,exact
+Iowa Code § 804.8,iowa code § 804.8,Statute,state_statute,IA,29,21,6,1984,2025,true,exact
 Iowa Code § 86.8,iowa code § 86.8,Statute,state_statute,IA,29,27,3,1995,2025,false,unresolved
 Iowa Code § 915.38,iowa code § 915.38,Statute,state_statute,IA,29,16,3,2002,2025,true,exact
 Iowa Code § 17A.15,iowa code § 17a.15,Statute,state_statute,IA,28,24,3,1983,2020,true,exact
@@ -448,7 +449,6 @@ Iowa Code § 702.13,iowa code § 702.13,Statute,state_statute,IA,28,25,4,1983,20
 Iowa Code § 702.5,iowa code § 702.5,Statute,state_statute,IA,28,27,7,1984,2025,true,exact
 Iowa Code § 714.8,iowa code § 714.8,Statute,state_statute,IA,28,17,3,1984,2026,true,exact
 Iowa Code § 801.4,iowa code § 801.4,Statute,state_statute,IA,28,24,3,1983,2025,true,exact
-Iowa Code § 804.8,iowa code § 804.8,Statute,state_statute,IA,28,21,6,1984,2025,true,exact
 Iowa Code § 805.1,iowa code § 805.1,Statute,state_statute,IA,28,19,2,1990,2024,true,exact
 Iowa Code § 88.9,iowa code § 88.9,Statute,state_statute,IA,28,16,3,1984,2024,true,exact
 Iowa Code § 232.95,iowa code § 232.95,Statute,state_statute,IA,27,26,3,1988,2025,true,exact
@@ -484,6 +484,7 @@ Iowa Code § 631.13,iowa code § 631.13,Statute,state_statute,IA,26,21,3,1982,20
 Iowa Code § 804.14,iowa code § 804.14,Statute,state_statute,IA,26,20,3,1994,2024,true,exact
 Iowa Code § 814.5,iowa code § 814.5,Statute,state_statute,IA,26,22,2,1982,2024,true,exact
 Iowa Code § 911.1,iowa code § 911.1,Statute,state_statute,IA,26,17,2,2015,2022,true,exact
+Iowa Code § 96.4,iowa code § 96.4,Statute,state_statute,IA,26,20,3,1982,2025,true,exact
 Iowa Code § 216.9,iowa code § 216.9,Statute,state_statute,IA,25,14,5,2007,2025,true,exact
 Iowa Code § 23A,iowa code § 23a,Statute,state_statute,IA,25,8,2,1990,2012,false,unresolved
 Iowa Code § 262.9,iowa code § 262.9,Statute,state_statute,IA,25,9,3,1984,2019,true,exact
@@ -508,7 +509,6 @@ Iowa Code § 86.24,iowa code § 86.24,Statute,state_statute,IA,25,25,3,1987,2024
 Iowa Code § 86.40,iowa code § 86.40,Statute,state_statute,IA,25,10,2,2015,2021,false,unresolved
 Iowa Code § 907.7,iowa code § 907.7,Statute,state_statute,IA,25,14,2,1985,2025,true,exact
 Iowa Code § 910.2B,iowa code § 910.2b,Statute,state_statute,IA,25,8,2,2020,2021,true,exact
-Iowa Code § 96.4,iowa code § 96.4,Statute,state_statute,IA,25,20,3,1982,2025,true,exact
 I.A.C. 4.32,i.a.c. 4.32,Statute,state_statute,IA,24,15,2,1980,1986,false,unresolved
 Iowa Code § 144.13,iowa code § 144.13,Statute,state_statute,IA,24,15,3,1993,2024,true,exact
 Iowa Code § 232.118,iowa code § 232.118,Statute,state_statute,IA,24,17,2,2007,2025,true,exact
@@ -549,6 +549,7 @@ Iowa Code § 561.2,iowa code § 561.2,Statute,state_statute,IA,23,17,6,1994,2025
 Iowa Code § 596.5,iowa code § 596.5,Statute,state_statute,IA,23,15,2,1998,2025,true,exact
 Iowa Code § 600B,iowa code § 600b,Statute,state_statute,IA,23,18,3,1998,2025,false,unresolved
 Iowa Code § 633.552,iowa code § 633.552,Statute,state_statute,IA,23,20,2,1985,2025,true,exact
+Iowa Code § 709.2,iowa code § 709.2,Statute,state_statute,IA,23,22,6,1963,2024,true,exact
 Iowa Code § 719.7,iowa code § 719.7,Statute,state_statute,IA,23,14,5,2003,2024,true,exact
 Iowa Code § 901.3,iowa code § 901.3,Statute,state_statute,IA,23,22,2,1995,2025,true,exact
 Iowa Code § 902.2,iowa code § 902.2,Statute,state_statute,IA,23,11,6,1987,2024,true,exact
@@ -578,7 +579,6 @@ Iowa Code § 686B,iowa code § 686b,Statute,state_statute,IA,22,5,3,2021,2024,fa
 Iowa Code § 68A.503,iowa code § 68a.503,Statute,state_statute,IA,22,8,4,2010,2018,true,exact
 Iowa Code § 6A.24,iowa code § 6a.24,Statute,state_statute,IA,22,9,2,2015,2024,true,exact
 Iowa Code § 701.11,iowa code § 701.11,Statute,state_statute,IA,22,15,3,2008,2025,true,exact
-Iowa Code § 709.2,iowa code § 709.2,Statute,state_statute,IA,22,22,6,1963,2024,true,exact
 Iowa Code § 724.7,iowa code § 724.7,Statute,state_statute,IA,22,14,5,1994,2022,true,exact
 Iowa Code § 814.29,iowa code § 814.29,Statute,state_statute,IA,22,12,2,2021,2026,true,exact
 Iowa Code Ann. § 714H,iowa code ann. § 714h,Statute,state_statute,IA,21,11,8,2016,2023,false,unresolved
@@ -591,8 +591,10 @@ Iowa Code § 232.103A,iowa code § 232.103a,Statute,state_statute,IA,21,19,1,201
 Iowa Code § 299.1,iowa code § 299.1,Statute,state_statute,IA,21,8,3,1983,1993,true,exact
 Iowa Code § 321.209,iowa code § 321.209,Statute,state_statute,IA,21,17,1,1986,2021,true,exact
 Iowa Code § 321.445,iowa code § 321.445,Statute,state_statute,IA,21,10,3,1989,2021,true,exact
+Iowa Code § 321.457,iowa code § 321.457,Statute,state_statute,IA,21,7,3,1979,1984,true,exact
 Iowa Code § 321.556,iowa code § 321.556,Statute,state_statute,IA,21,14,2,1984,2021,true,exact
 Iowa Code § 331.442,iowa code § 331.442,Statute,state_statute,IA,21,3,1,2002,2002,true,exact
+Iowa Code § 447.9,iowa code § 447.9,Statute,state_statute,IA,21,15,4,1985,2023,true,exact
 Iowa Code § 462A.14,iowa code § 462a.14,Statute,state_statute,IA,21,6,2,2017,2024,true,exact
 Iowa Code § 476.6,iowa code § 476.6,Statute,state_statute,IA,21,11,2,1980,2023,true,exact
 Iowa Code § 515.109,iowa code § 515.109,Statute,state_statute,IA,21,11,4,2012,2024,true,exact
@@ -605,12 +607,14 @@ Iowa Code § 600B.25,iowa code § 600b.25,Statute,state_statute,IA,21,12,2,2005,
 Iowa Code § 631.16,iowa code § 631.16,Statute,state_statute,IA,21,18,3,1980,2025,true,exact
 Iowa Code § 651.2,iowa code § 651.2,Statute,state_statute,IA,21,11,2,2006,2025,true,exact
 Iowa Code § 669.14A,iowa code § 669.14a,Statute,state_statute,IA,21,10,2,2023,2026,true,exact
+Iowa Code § 673.2,iowa code § 673.2,Statute,state_statute,IA,21,8,5,2003,2025,true,exact
 Iowa Code § 701.5,iowa code § 701.5,Statute,state_statute,IA,21,20,2,1982,2025,true,exact
 Iowa Code § 708.12,iowa code § 708.12,Statute,state_statute,IA,21,5,2,2001,2006,true,exact
 Iowa Code § 804.11,iowa code § 804.11,Statute,state_statute,IA,21,7,1,2002,2021,true,exact
 Iowa Code § 809.5,iowa code § 809.5,Statute,state_statute,IA,21,8,4,1989,2025,true,exact
 Iowa Code § 811.1,iowa code § 811.1,Statute,state_statute,IA,21,19,4,1992,2025,true,exact
 Iowa Code § 87.21,iowa code § 87.21,Statute,state_statute,IA,21,16,4,1989,2021,true,exact
+Iowa Code § 901.11,iowa code § 901.11,Statute,state_statute,IA,21,16,2,2018,2025,true,exact
 370 I.A.C. § 4.32,370 i.a.c. § 4.32,Statute,state_statute,IA,20,13,2,1980,1986,false,unresolved
 Iowa Code Ann. § 692A,iowa code ann. § 692a,Statute,state_statute,IA,20,16,9,1999,2008,false,unresolved
 Iowa Code § 123.3,iowa code § 123.3,Statute,state_statute,IA,20,17,3,1991,2024,true,exact
@@ -619,26 +623,23 @@ Iowa Code § 229.11,iowa code § 229.11,Statute,state_statute,IA,20,9,4,1987,202
 Iowa Code § 232.84,iowa code § 232.84,Statute,state_statute,IA,20,17,2,2013,2026,true,exact
 Iowa Code § 252D,iowa code § 252d,Statute,state_statute,IA,20,13,3,1985,2018,false,unresolved
 Iowa Code § 321.388,iowa code § 321.388,Statute,state_statute,IA,20,16,3,2008,2024,true,exact
-Iowa Code § 321.457,iowa code § 321.457,Statute,state_statute,IA,20,7,3,1979,1984,true,exact
 Iowa Code § 322.3,iowa code § 322.3,Statute,state_statute,IA,20,5,2,1983,2022,true,exact
 Iowa Code § 341A.12,iowa code § 341a.12,Statute,state_statute,IA,20,14,3,1984,2025,true,exact
 Iowa Code § 414.7,iowa code § 414.7,Statute,state_statute,IA,20,17,2,1984,2023,true,exact
 Iowa Code § 422.42,iowa code § 422.42,Statute,state_statute,IA,20,11,3,1983,2010,true,exact
-Iowa Code § 447.9,iowa code § 447.9,Statute,state_statute,IA,20,15,4,1985,2023,true,exact
 Iowa Code § 476.53,iowa code § 476.53,Statute,state_statute,IA,20,5,1,1985,2012,true,exact
 Iowa Code § 554.2725,iowa code § 554.2725,Statute,state_statute,IA,20,10,4,1986,2022,true,exact
 Iowa Code § 614.4,iowa code § 614.4,Statute,state_statute,IA,20,14,6,1972,2020,true,exact
 Iowa Code § 633.551,iowa code § 633.551,Statute,state_statute,IA,20,17,1,2011,2026,true,exact
 Iowa Code § 656.2,iowa code § 656.2,Statute,state_statute,IA,20,15,3,1965,2019,true,exact
 Iowa Code § 657.2,iowa code § 657.2,Statute,state_statute,IA,20,15,3,1985,2024,true,exact
-Iowa Code § 673.2,iowa code § 673.2,Statute,state_statute,IA,20,8,5,2003,2025,true,exact
 Iowa Code § 684.1,iowa code § 684.1,Statute,state_statute,IA,20,7,3,2004,2022,true,exact
+Iowa Code § 684.5,iowa code § 684.5,Statute,state_statute,IA,20,8,3,2004,2019,true,exact
 Iowa Code § 6B.18,iowa code § 6b.18,Statute,state_statute,IA,20,14,3,1996,2025,true,exact
 Iowa Code § 701.1,iowa code § 701.1,Statute,state_statute,IA,20,14,2,1970,2024,true,exact
 Iowa Code § 706.4,iowa code § 706.4,Statute,state_statute,IA,20,17,2,1986,2025,true,exact
 Iowa Code § 716.8,iowa code § 716.8,Statute,state_statute,IA,20,14,5,1967,2026,true,exact
 Iowa Code § 81.10,iowa code § 81.10,Statute,state_statute,IA,20,16,4,2009,2025,true,exact
-Iowa Code § 901.11,iowa code § 901.11,Statute,state_statute,IA,20,16,2,2018,2025,true,exact
 Iowa Code § 901B,iowa code § 901b,Statute,state_statute,IA,20,16,2,2011,2025,false,unresolved
 Iowa Code § 904.702,iowa code § 904.702,Statute,state_statute,IA,20,16,6,1996,2019,true,exact
 Iowa Code § 910.8,iowa code § 910.8,Statute,state_statute,IA,20,12,2,1989,2019,true,exact
@@ -684,6 +685,7 @@ Iowa Code § 321.482,iowa code § 321.482,Statute,state_statute,IA,18,18,3,1956,
 Iowa Code § 327G.11,iowa code § 327g.11,Statute,state_statute,IA,18,8,2,1992,2017,true,exact
 Iowa Code § 422.26,iowa code § 422.26,Statute,state_statute,IA,18,8,2,1994,2020,true,exact
 Iowa Code § 476.2,iowa code § 476.2,Statute,state_statute,IA,18,13,2,1988,2019,true,exact
+Iowa Code § 476.5,iowa code § 476.5,Statute,state_statute,IA,18,8,4,1986,2016,true,exact
 Iowa Code § 523D,iowa code § 523d,Statute,state_statute,IA,18,4,2,2019,2020,false,unresolved
 Iowa Code § 554.1103,iowa code § 554.1103,Statute,state_statute,IA,18,15,6,1987,2020,true,exact
 Iowa Code § 554.9504,iowa code § 554.9504,Statute,state_statute,IA,18,13,6,1982,2006,true,exact
@@ -695,7 +697,6 @@ Iowa Code § 654.17,iowa code § 654.17,Statute,state_statute,IA,18,5,2,2014,201
 Iowa Code § 665.4,iowa code § 665.4,Statute,state_statute,IA,18,18,3,1968,2026,true,exact
 Iowa Code § 668.10,iowa code § 668.10,Statute,state_statute,IA,18,12,2,1986,2025,true,exact
 Iowa Code § 668.7,iowa code § 668.7,Statute,state_statute,IA,18,15,6,1984,2017,true,exact
-Iowa Code § 684.5,iowa code § 684.5,Statute,state_statute,IA,18,8,3,2004,2019,true,exact
 Iowa Code § 68A.402,iowa code § 68a.402,Statute,state_statute,IA,18,7,3,2010,2020,true,exact
 Iowa Code § 702.9,iowa code § 702.9,Statute,state_statute,IA,18,10,4,1994,2016,true,exact
 Iowa Code § 713.2,iowa code § 713.2,Statute,state_statute,IA,18,16,2,1982,2025,true,exact
@@ -712,7 +713,6 @@ Iowa Code § 232.101,iowa code § 232.101,Statute,state_statute,IA,17,14,2,1984,
 Iowa Code § 232.71B,iowa code § 232.71b,Statute,state_statute,IA,17,11,3,2000,2023,true,exact
 Iowa Code § 321.218,iowa code § 321.218,Statute,state_statute,IA,17,16,3,1987,2022,true,exact
 Iowa Code § 321A,iowa code § 321a,Statute,state_statute,IA,17,11,3,1987,2015,false,unresolved
-Iowa Code § 476.5,iowa code § 476.5,Statute,state_statute,IA,17,8,4,1986,2016,true,exact
 Iowa Code § 476A,iowa code § 476a,Statute,state_statute,IA,17,3,2,1987,2020,false,unresolved
 Iowa Code § 477A,iowa code § 477a,Statute,state_statute,IA,17,6,2,2010,2018,false,unresolved
 Iowa Code § 548.11,iowa code § 548.11,Statute,state_statute,IA,17,7,5,1982,2019,false,unresolved
@@ -751,6 +751,7 @@ Iowa Code § 550.4,iowa code § 550.4,Statute,state_statute,IA,16,13,6,1994,2024
 Iowa Code § 554.9302,iowa code § 554.9302,Statute,state_statute,IA,16,15,5,1985,2011,true,exact
 Iowa Code § 554.9307,iowa code § 554.9307,Statute,state_statute,IA,16,11,8,1979,2006,true,exact
 Iowa Code § 562.1A,iowa code § 562.1a,Statute,state_statute,IA,16,4,2,2016,2017,true,exact
+Iowa Code § 562A.11,iowa code § 562a.11,Statute,state_statute,IA,16,10,1,2016,2017,true,exact
 Iowa Code § 570.1,iowa code § 570.1,Statute,state_statute,IA,16,12,4,1986,2016,true,exact
 Iowa Code § 572.8,iowa code § 572.8,Statute,state_statute,IA,16,15,5,1992,2022,true,exact
 Iowa Code § 598.2,iowa code § 598.2,Statute,state_statute,IA,16,13,3,1975,2024,true,exact
@@ -801,7 +802,7 @@ Iowa Code § 53.2,iowa code § 53.2,Statute,state_statute,IA,15,1,1,2020,2020,tr
 Iowa Code § 554.2102,iowa code § 554.2102,Statute,state_statute,IA,15,15,7,1990,2020,true,exact
 Iowa Code § 554.2105,iowa code § 554.2105,Statute,state_statute,IA,15,12,6,1986,2017,true,exact
 Iowa Code § 558.41,iowa code § 558.41,Statute,state_statute,IA,15,9,4,1984,2025,true,exact
-Iowa Code § 562A.11,iowa code § 562a.11,Statute,state_statute,IA,15,10,1,2016,2017,true,exact
+Iowa Code § 572.18,iowa code § 572.18,Statute,state_statute,IA,15,8,2,1983,2022,true,exact
 Iowa Code § 573.2,iowa code § 573.2,Statute,state_statute,IA,15,9,3,1988,2024,true,exact
 Iowa Code § 573.7,iowa code § 573.7,Statute,state_statute,IA,15,6,3,1988,2025,true,exact
 Iowa Code § 601A.17,iowa code § 601a.17,Statute,state_statute,IA,15,12,3,1983,1992,false,unresolved
@@ -826,6 +827,7 @@ Iowa Code § 904.809,iowa code § 904.809,Statute,state_statute,IA,15,3,1,2015,2
 Iowa Code § 906.3,iowa code § 906.3,Statute,state_statute,IA,15,14,2,1988,2023,true,exact
 Iowa Code § 911.2,iowa code § 911.2,Statute,state_statute,IA,15,14,2,2005,2022,true,exact
 Iowa Code Ann. § 813.2,iowa code ann. § 813.2,Statute,state_statute,IA,14,14,10,1980,2002,true,exact
+Iowa Code § 123.39,iowa code § 123.39,Statute,state_statute,IA,14,8,3,1982,2024,true,exact
 Iowa Code § 124.407,iowa code § 124.407,Statute,state_statute,IA,14,10,5,1998,2019,true,exact
 Iowa Code § 125.82,iowa code § 125.82,Statute,state_statute,IA,14,8,2,1992,2018,true,exact
 Iowa Code § 17A.13,iowa code § 17a.13,Statute,state_statute,IA,14,12,2,1985,2025,true,exact
@@ -853,7 +855,6 @@ Iowa Code § 554.2201,iowa code § 554.2201,Statute,state_statute,IA,14,7,5,1973
 Iowa Code § 554.2302,iowa code § 554.2302,Statute,state_statute,IA,14,12,5,1982,2021,true,exact
 Iowa Code § 554.9507,iowa code § 554.9507,Statute,state_statute,IA,14,4,2,1986,2004,true,exact
 Iowa Code § 562.5,iowa code § 562.5,Statute,state_statute,IA,14,6,3,1981,2017,true,exact
-Iowa Code § 572.18,iowa code § 572.18,Statute,state_statute,IA,14,8,2,1983,2022,true,exact
 Iowa Code § 596.12,iowa code § 596.12,Statute,state_statute,IA,14,12,2,1992,2024,true,exact
 Iowa Code § 598.13,iowa code § 598.13,Statute,state_statute,IA,14,14,2,1986,2025,true,exact
 Iowa Code § 611.22,iowa code § 611.22,Statute,state_statute,IA,14,12,5,1981,2016,true,exact
@@ -867,12 +868,14 @@ Iowa Code § 633.357,iowa code § 633.357,Statute,state_statute,IA,14,6,2,2000,2
 Iowa Code § 633.535,iowa code § 633.535,Statute,state_statute,IA,14,5,3,1998,2025,true,exact
 Iowa Code § 633A.2302,iowa code § 633a.2302,Statute,state_statute,IA,14,3,2,2018,2022,true,exact
 Iowa Code § 650.6,iowa code § 650.6,Statute,state_statute,IA,14,6,2,1994,2026,true,exact
+Iowa Code § 669.23,iowa code § 669.23,Statute,state_statute,IA,14,6,2,1996,2025,true,exact
 Iowa Code § 674.6,iowa code § 674.6,Statute,state_statute,IA,14,10,2,1990,2022,true,exact
 Iowa Code § 692A.111,iowa code § 692a.111,Statute,state_statute,IA,14,13,2,2014,2026,true,exact
 Iowa Code § 710.7,iowa code § 710.7,Statute,state_statute,IA,14,13,3,1985,2025,true,exact
 Iowa Code § 789A,iowa code § 789a,Statute,state_statute,IA,14,8,5,1975,2025,false,unresolved
 Iowa Code § 795.1,iowa code § 795.1,Statute,state_statute,IA,14,9,1,1969,2021,false,unresolved
 Iowa Code § 804.12,iowa code § 804.12,Statute,state_statute,IA,14,14,6,1983,2024,true,exact
+Iowa Code § 85.18,iowa code § 85.18,Statute,state_statute,IA,14,9,4,1993,2024,true,exact
 Iowa Code § 907.9,iowa code § 907.9,Statute,state_statute,IA,14,14,4,1983,2025,true,exact
 Iowa Code § 99G.31,iowa code § 99g.31,Statute,state_statute,IA,14,4,2,2017,2019,true,exact
 Iowa Code Ann. § 668.3,iowa code ann. § 668.3,Statute,state_statute,IA,13,11,7,1988,2001,true,exact
@@ -880,7 +883,6 @@ Iowa Code Ann. § 707A,iowa code ann. § 707a,Statute,state_statute,IA,13,5,3,19
 Iowa Code Ann. § 901.5,iowa code ann. § 901.5,Statute,state_statute,IA,13,6,2,2014,2014,true,exact
 Iowa Code Ann. § 902.1,iowa code ann. § 902.1,Statute,state_statute,IA,13,13,7,1980,2022,true,exact
 Iowa Code Ann. § 902.9,iowa code ann. § 902.9,Statute,state_statute,IA,13,13,7,1984,2008,true,exact
-Iowa Code § 123.39,iowa code § 123.39,Statute,state_statute,IA,13,8,3,1982,2024,true,exact
 Iowa Code § 124E,iowa code § 124e,Statute,state_statute,IA,13,10,2,2017,2025,false,unresolved
 Iowa Code § 135.38,iowa code § 135.38,Statute,state_statute,IA,13,6,2,2015,2024,true,exact
 Iowa Code § 20.18,iowa code § 20.18,Statute,state_statute,IA,13,10,3,1984,2026,true,exact
@@ -892,6 +894,7 @@ Iowa Code § 232.55,iowa code § 232.55,Statute,state_statute,IA,13,12,4,1983,20
 Iowa Code § 249A.44,iowa code § 249a.44,Statute,state_statute,IA,13,3,2,2015,2015,true,exact
 Iowa Code § 258A,iowa code § 258a,Statute,state_statute,IA,13,4,2,1986,1993,false,unresolved
 Iowa Code § 299.3,iowa code § 299.3,Statute,state_statute,IA,13,3,2,1985,1987,true,exact
+Iowa Code § 306.4,iowa code § 306.4,Statute,state_statute,IA,13,7,2,1983,2019,true,exact
 Iowa Code § 4,iowa code § 4,Statute,state_statute,IA,13,13,3,1988,2024,false,unresolved
 Iowa Code § 403.2,iowa code § 403.2,Statute,state_statute,IA,13,3,1,2000,2003,true,exact
 Iowa Code § 422.32,iowa code § 422.32,Statute,state_statute,IA,13,11,6,1987,2017,true,exact
@@ -901,6 +904,7 @@ Iowa Code § 468.1,iowa code § 468.1,Statute,state_statute,IA,13,12,3,1994,2025
 Iowa Code § 481A.130,iowa code § 481a.130,Statute,state_statute,IA,13,4,2,2015,2026,true,exact
 Iowa Code § 490.830,iowa code § 490.830,Statute,state_statute,IA,13,10,2,2001,2024,true,exact
 Iowa Code § 502.401,iowa code § 502.401,Statute,state_statute,IA,13,9,4,1981,2008,true,exact
+Iowa Code § 522B.11,iowa code § 522b.11,Statute,state_statute,IA,13,10,2,2012,2026,true,exact
 Iowa Code § 554.2326,iowa code § 554.2326,Statute,state_statute,IA,13,2,1,1981,2005,true,exact
 Iowa Code § 554.2610,iowa code § 554.2610,Statute,state_statute,IA,13,3,2,1998,2000,true,exact
 Iowa Code § 554.3419,iowa code § 554.3419,Statute,state_statute,IA,13,8,3,1987,2023,true,exact
@@ -914,8 +918,8 @@ Iowa Code § 633.222,iowa code § 633.222,Statute,state_statute,IA,13,9,5,1971,2
 Iowa Code § 633.311,iowa code § 633.311,Statute,state_statute,IA,13,13,2,1988,2024,true,exact
 Iowa Code § 633.63,iowa code § 633.63,Statute,state_statute,IA,13,12,2,1985,2025,true,exact
 Iowa Code § 633A.5102,iowa code § 633a.5102,Statute,state_statute,IA,13,2,1,2007,2007,true,exact
+Iowa Code § 66.1A,iowa code § 66.1a,Statute,state_statute,IA,13,5,3,2002,2019,true,exact
 Iowa Code § 661.3,iowa code § 661.3,Statute,state_statute,IA,13,13,2,1982,2026,true,exact
-Iowa Code § 669.23,iowa code § 669.23,Statute,state_statute,IA,13,6,2,1996,2025,true,exact
 Iowa Code § 692A.106,iowa code § 692a.106,Statute,state_statute,IA,13,10,2,2017,2025,true,exact
 Iowa Code § 698.1,iowa code § 698.1,Statute,state_statute,IA,13,10,4,1980,1996,false,unresolved
 Iowa Code § 708.3,iowa code § 708.3,Statute,state_statute,IA,13,12,3,1988,2020,true,exact
@@ -937,6 +941,7 @@ Iowa Code Ann. § 247.2,iowa code ann. § 247.2,Statute,state_statute,IA,12,6,2,
 Iowa Code Ann. § 535.3,iowa code ann. § 535.3,Statute,state_statute,IA,12,9,2,1983,1998,true,exact
 Iowa Code Ann. § 708.1,iowa code ann. § 708.1,Statute,state_statute,IA,12,11,4,1993,2019,true,exact
 Iowa Code Ann. § 709.4,iowa code ann. § 709.4,Statute,state_statute,IA,12,8,5,1993,2014,true,exact
+Iowa Code Ann. § 713.1,iowa code ann. § 713.1,Statute,state_statute,IA,12,9,7,1988,2019,true,exact
 Iowa Code Ann. § 714.1,iowa code ann. § 714.1,Statute,state_statute,IA,12,10,6,1985,2025,true,exact
 Iowa Code Ann. § 714.2,iowa code ann. § 714.2,Statute,state_statute,IA,12,8,5,1988,2022,true,exact
 Iowa Code § 10A.601,iowa code § 10a.601,Statute,state_statute,IA,12,6,2,1988,2016,true,exact
@@ -951,7 +956,6 @@ Iowa Code § 232.22,iowa code § 232.22,Statute,state_statute,IA,12,11,5,1983,20
 Iowa Code § 232.28,iowa code § 232.28,Statute,state_statute,IA,12,12,4,1967,2016,true,exact
 Iowa Code § 232.73,iowa code § 232.73,Statute,state_statute,IA,12,9,2,1989,2020,true,exact
 Iowa Code § 252B,iowa code § 252b,Statute,state_statute,IA,12,12,2,1987,2024,false,unresolved
-Iowa Code § 306.4,iowa code § 306.4,Statute,state_statute,IA,12,7,2,1983,2019,true,exact
 Iowa Code § 321.261,iowa code § 321.261,Statute,state_statute,IA,12,10,3,1971,2023,true,exact
 Iowa Code § 321.276,iowa code § 321.276,Statute,state_statute,IA,12,2,2,2021,2026,true,exact
 Iowa Code § 321B.16,iowa code § 321b.16,Statute,state_statute,IA,12,9,3,1985,2014,false,unresolved
@@ -964,11 +968,11 @@ Iowa Code § 476.100,iowa code § 476.100,Statute,state_statute,IA,12,1,1,2008,2
 Iowa Code § 476.103,iowa code § 476.103,Statute,state_statute,IA,12,8,2,2006,2020,true,exact
 Iowa Code § 489.407,iowa code § 489.407,Statute,state_statute,IA,12,5,2,2020,2025,true,exact
 Iowa Code § 490.622,iowa code § 490.622,Statute,state_statute,IA,12,10,5,1995,2021,true,exact
-Iowa Code § 522B.11,iowa code § 522b.11,Statute,state_statute,IA,12,10,2,2012,2026,true,exact
 Iowa Code § 553.12,iowa code § 553.12,Statute,state_statute,IA,12,9,6,1985,2026,true,exact
 Iowa Code § 554.3302,iowa code § 554.3302,Statute,state_statute,IA,12,7,3,1987,2003,true,exact
 Iowa Code § 554.4104,iowa code § 554.4104,Statute,state_statute,IA,12,8,4,1978,2017,true,exact
 Iowa Code § 554.9322,iowa code § 554.9322,Statute,state_statute,IA,12,8,4,2007,2022,true,exact
+Iowa Code § 554.9331,iowa code § 554.9331,Statute,state_statute,IA,12,3,2,2003,2021,true,exact
 Iowa Code § 554.9626,iowa code § 554.9626,Statute,state_statute,IA,12,5,3,2013,2020,true,exact
 Iowa Code § 557.3,iowa code § 557.3,Statute,state_statute,IA,12,10,3,1982,2021,true,exact
 Iowa Code § 562.7,iowa code § 562.7,Statute,state_statute,IA,12,8,2,1983,2016,true,exact
@@ -999,7 +1003,6 @@ Iowa Code § 804.21,iowa code § 804.21,Statute,state_statute,IA,12,9,2,1991,202
 Iowa Code § 811.8,iowa code § 811.8,Statute,state_statute,IA,12,8,2,1992,2024,true,exact
 Iowa Code § 812.4,iowa code § 812.4,Statute,state_statute,IA,12,10,2,2001,2024,true,exact
 Iowa Code § 813.2,iowa code § 813.2,Statute,state_statute,IA,12,9,3,2002,2017,true,exact
-Iowa Code § 85.18,iowa code § 85.18,Statute,state_statute,IA,12,9,4,1995,2024,true,exact
 Iowa Code § 86.11,iowa code § 86.11,Statute,state_statute,IA,12,6,1,1997,2014,false,unresolved
 Iowa Code § 911.3,iowa code § 911.3,Statute,state_statute,IA,12,11,1,2016,2020,true,exact
 "Iowa, Code § 18-196","iowa, code § 18-196",Statute,state_statute,IA,12,2,1,2018,2018,false,unresolved
@@ -1054,7 +1057,6 @@ Iowa Code § 550,iowa code § 550,Statute,state_statute,IA,11,7,3,1998,2019,fals
 Iowa Code § 554.2204,iowa code § 554.2204,Statute,state_statute,IA,11,9,4,1997,2026,true,exact
 Iowa Code § 554.3306,iowa code § 554.3306,Statute,state_statute,IA,11,6,3,1989,2021,true,exact
 Iowa Code § 554.9204,iowa code § 554.9204,Statute,state_statute,IA,11,8,5,1972,2011,true,exact
-Iowa Code § 554.9331,iowa code § 554.9331,Statute,state_statute,IA,11,3,2,2003,2021,true,exact
 Iowa Code § 595.2,iowa code § 595.2,Statute,state_statute,IA,11,11,5,2003,2021,true,exact
 Iowa Code § 598.16,iowa code § 598.16,Statute,state_statute,IA,11,11,4,1956,2025,true,exact
 Iowa Code § 598B.203,iowa code § 598b.203,Statute,state_statute,IA,11,9,1,2008,2023,true,exact
@@ -1069,7 +1071,6 @@ Iowa Code § 633.641,iowa code § 633.641,Statute,state_statute,IA,11,8,2,1983,2
 Iowa Code § 649.6,iowa code § 649.6,Statute,state_statute,IA,11,11,2,1994,2026,true,exact
 Iowa Code § 651.30,iowa code § 651.30,Statute,state_statute,IA,11,3,1,2022,2025,true,exact
 Iowa Code § 654.5,iowa code § 654.5,Statute,state_statute,IA,11,11,3,1985,2025,true,exact
-Iowa Code § 66.1A,iowa code § 66.1a,Statute,state_statute,IA,11,5,3,2002,2019,true,exact
 Iowa Code § 680.1,iowa code § 680.1,Statute,state_statute,IA,11,6,3,1986,2018,true,exact
 Iowa Code § 690.1,iowa code § 690.1,Statute,state_statute,IA,11,11,5,1962,2014,true,exact
 Iowa Code § 692.1,iowa code § 692.1,Statute,state_statute,IA,11,6,2,1983,2011,true,exact
@@ -1132,7 +1133,7 @@ Iowa Code § 403.5,iowa code § 403.5,Statute,state_statute,IA,10,6,2,2000,2017,
 Iowa Code § 414.18,iowa code § 414.18,Statute,state_statute,IA,10,7,2,1984,2020,true,exact
 Iowa Code § 414.5,iowa code § 414.5,Statute,state_statute,IA,10,8,2,1990,2025,true,exact
 Iowa Code § 422.35,iowa code § 422.35,Statute,state_statute,IA,10,6,3,1987,2005,true,exact
-Iowa Code § 427A.l,iowa code § 427a.l,Statute,state_statute,IA,10,8,3,1982,2013,false,unresolved
+Iowa Code § 427A.1,iowa code § 427a.1,Statute,state_statute,IA,10,8,3,1982,2013,true,exact
 Iowa Code § 43.20,iowa code § 43.20,Statute,state_statute,IA,10,1,1,2014,2014,true,exact
 Iowa Code § 446.7,iowa code § 446.7,Statute,state_statute,IA,10,10,3,1984,2023,true,exact
 Iowa Code § 447.1,iowa code § 447.1,Statute,state_statute,IA,10,10,2,1990,2023,true,exact
@@ -1169,6 +1170,7 @@ Iowa Code § 633A.4507,iowa code § 633a.4507,Statute,state_statute,IA,10,9,2,20
 Iowa Code § 648.5,iowa code § 648.5,Statute,state_statute,IA,10,10,3,1947,2018,true,exact
 Iowa Code § 650.15,iowa code § 650.15,Statute,state_statute,IA,10,10,2,1983,2026,true,exact
 Iowa Code § 654.12A,iowa code § 654.12a,Statute,state_statute,IA,10,6,3,1989,2021,true,exact
+Iowa Code § 654.16,iowa code § 654.16,Statute,state_statute,IA,10,6,2,1988,1996,true,exact
 Iowa Code § 657A,iowa code § 657a,Statute,state_statute,IA,10,10,4,2001,2025,false,unresolved
 Iowa Code § 707.8,iowa code § 707.8,Statute,state_statute,IA,10,5,2,1996,2017,true,exact
 Iowa Code § 710.4,iowa code § 710.4,Statute,state_statute,IA,10,8,2,1989,2018,true,exact
@@ -1195,7 +1197,6 @@ Iowa Code Ann. § 321.494,iowa code ann. § 321.494,Statute,state_statute,IA,9,5
 Iowa Code Ann. § 554.2719,iowa code ann. § 554.2719,Statute,state_statute,IA,9,4,3,1981,1999,true,exact
 Iowa Code Ann. § 702.12,iowa code ann. § 702.12,Statute,state_statute,IA,9,8,7,2000,2017,true,exact
 Iowa Code Ann. § 707.2,iowa code ann. § 707.2,Statute,state_statute,IA,9,9,3,1980,1991,true,exact
-Iowa Code Ann. § 713.1,iowa code ann. § 713.1,Statute,state_statute,IA,9,9,7,1988,2019,true,exact
 Iowa Code Ann. § 724.4,iowa code ann. § 724.4,Statute,state_statute,IA,9,8,3,2002,2017,true,exact
 Iowa Code § 123.-49,iowa code § 123.-49,Statute,state_statute,IA,9,2,2,1982,1987,true,exact
 Iowa Code § 135.11,iowa code § 135.11,Statute,state_statute,IA,9,5,2,1980,2015,true,exact
@@ -1223,14 +1224,15 @@ Iowa Code § 321.16,iowa code § 321.16,Statute,state_statute,IA,9,5,2,2006,2018
 Iowa Code § 321.20B,iowa code § 321.20b,Statute,state_statute,IA,9,9,3,1998,2025,true,exact
 Iowa Code § 321.306,iowa code § 321.306,Statute,state_statute,IA,9,7,2,2007,2022,true,exact
 Iowa Code § 321.38,iowa code § 321.38,Statute,state_statute,IA,9,8,3,2008,2024,true,exact
+Iowa Code § 321J.1,iowa code § 321j.1,Statute,state_statute,IA,9,5,3,1988,2001,true,exact
 Iowa Code § 321J.14,iowa code § 321j.14,Statute,state_statute,IA,9,7,2,1988,2014,true,exact
-Iowa Code § 321J.l,iowa code § 321j.l,Statute,state_statute,IA,9,5,3,1988,2001,false,unresolved
 Iowa Code § 331.306,iowa code § 331.306,Statute,state_statute,IA,9,3,1,2002,2002,true,exact
 Iowa Code § 331.754,iowa code § 331.754,Statute,state_statute,IA,9,6,2,2001,2019,true,exact
 Iowa Code § 335.12,iowa code § 335.12,Statute,state_statute,IA,9,5,1,1997,2018,true,exact
 Iowa Code § 335.3,iowa code § 335.3,Statute,state_statute,IA,9,9,2,1998,2022,true,exact
 Iowa Code § 335.5,iowa code § 335.5,Statute,state_statute,IA,9,6,2,1998,2024,true,exact
 Iowa Code § 336A,iowa code § 336a,Statute,state_statute,IA,9,2,1,1981,1981,false,unresolved
+Iowa Code § 368.19,iowa code § 368.19,Statute,state_statute,IA,9,7,2,1994,2006,true,exact
 Iowa Code § 3829,iowa code § 3829,Statute,state_statute,IA,9,3,1,2022,2022,false,unresolved
 Iowa Code § 400.20,iowa code § 400.20,Statute,state_statute,IA,9,7,2,1983,2023,true,exact
 Iowa Code § 411.38,iowa code § 411.38,Statute,state_statute,IA,9,3,2,1998,1999,true,exact
@@ -1254,6 +1256,7 @@ Iowa Code § 524.221,iowa code § 524.221,Statute,state_statute,IA,9,3,3,2020,20
 Iowa Code § 533D,iowa code § 533d,Statute,state_statute,IA,9,2,1,2007,2007,false,unresolved
 Iowa Code § 537.7102,iowa code § 537.7102,Statute,state_statute,IA,9,7,4,1982,2015,true,exact
 Iowa Code § 553.3,iowa code § 553.3,Statute,state_statute,IA,9,6,4,1982,2018,true,exact
+Iowa Code § 554.1205,iowa code § 554.1205,Statute,state_statute,IA,9,5,4,1980,2003,true,exact
 Iowa Code § 554.1303,iowa code § 554.1303,Statute,state_statute,IA,9,9,4,2013,2026,true,exact
 Iowa Code § 554.13103,iowa code § 554.13103,Statute,state_statute,IA,9,6,3,2003,2015,true,exact
 Iowa Code § 554.2106,iowa code § 554.2106,Statute,state_statute,IA,9,7,6,1972,2011,true,exact
@@ -1284,7 +1287,6 @@ Iowa Code § 633.647,iowa code § 633.647,Statute,state_statute,IA,9,7,3,1989,20
 Iowa Code § 633.704,iowa code § 633.704,Statute,state_statute,IA,9,5,4,1978,2001,true,exact
 Iowa Code § 633A.4501,iowa code § 633a.4501,Statute,state_statute,IA,9,7,2,2007,2025,true,exact
 Iowa Code § 642.14,iowa code § 642.14,Statute,state_statute,IA,9,4,3,1982,2012,true,exact
-Iowa Code § 654.16,iowa code § 654.16,Statute,state_statute,IA,9,6,2,1988,1996,true,exact
 Iowa Code § 656.5,iowa code § 656.5,Statute,state_statute,IA,9,9,3,1984,2025,true,exact
 Iowa Code § 691.2,iowa code § 691.2,Statute,state_statute,IA,9,9,5,1983,2025,true,exact
 Iowa Code § 704.2B,iowa code § 704.2b,Statute,state_statute,IA,9,3,1,2020,2023,true,exact
@@ -1303,6 +1305,7 @@ Iowa Code § 805.8,iowa code § 805.8,Statute,state_statute,IA,9,8,2,1987,2005,t
 Iowa Code § 808.6,iowa code § 808.6,Statute,state_statute,IA,9,9,4,1984,2010,true,exact
 Iowa Code § 814.11,iowa code § 814.11,Statute,state_statute,IA,9,3,2,1991,2015,true,exact
 Iowa Code § 822.6A,iowa code § 822.6a,Statute,state_statute,IA,9,9,1,2020,2024,true,exact
+Iowa Code § 85.30,iowa code § 85.30,Statute,state_statute,IA,9,7,3,1986,2016,true,exact
 Iowa Code § 85B,iowa code § 85b,Statute,state_statute,IA,9,8,4,1987,2009,false,unresolved
 Iowa Code § 86.12,iowa code § 86.12,Statute,state_statute,IA,9,3,1,2014,2014,false,unresolved
 Iowa Code § 901.7,iowa code § 901.7,Statute,state_statute,IA,9,9,2,1984,2024,true,exact
@@ -1373,7 +1376,6 @@ Iowa Code § 327F,iowa code § 327f,Statute,state_statute,IA,8,4,2,2004,2018,fal
 Iowa Code § 331.341,iowa code § 331.341,Statute,state_statute,IA,8,6,1,1985,2002,true,exact
 Iowa Code § 331.751,iowa code § 331.751,Statute,state_statute,IA,8,8,3,2003,2026,true,exact
 Iowa Code § 335.21,iowa code § 335.21,Statute,state_statute,IA,8,8,3,1996,2018,true,exact
-Iowa Code § 368.19,iowa code § 368.19,Statute,state_statute,IA,8,7,2,1994,2006,true,exact
 Iowa Code § 384.61,iowa code § 384.61,Statute,state_statute,IA,8,7,2,1992,2011,true,exact
 Iowa Code § 384.84,iowa code § 384.84,Statute,state_statute,IA,8,5,2,1993,2022,true,exact
 Iowa Code § 422.28,iowa code § 422.28,Statute,state_statute,IA,8,7,5,1990,2023,true,exact
@@ -1391,6 +1393,7 @@ Iowa Code § 476.22,iowa code § 476.22,Statute,state_statute,IA,8,4,2,1999,2014
 Iowa Code § 489.110,iowa code § 489.110,Statute,state_statute,IA,8,6,2,2019,2025,true,exact
 Iowa Code § 490.740,iowa code § 490.740,Statute,state_statute,IA,8,5,2,1994,2021,true,exact
 Iowa Code § 496A.70,iowa code § 496a.70,Statute,state_statute,IA,8,7,4,1982,1989,false,unresolved
+Iowa Code § 502.201,iowa code § 502.201,Statute,state_statute,IA,8,5,3,1981,2004,true,exact
 Iowa Code § 502.604,iowa code § 502.604,Statute,state_statute,IA,8,4,2,1980,1999,true,exact
 Iowa Code § 524.1406,iowa code § 524.1406,Statute,state_statute,IA,8,3,2,2004,2011,true,exact
 Iowa Code § 524.705,iowa code § 524.705,Statute,state_statute,IA,8,6,5,1988,2017,true,exact
@@ -1400,7 +1403,6 @@ Iowa Code § 537.5110,iowa code § 537.5110,Statute,state_statute,IA,8,7,4,1982,
 Iowa Code § 539.1,iowa code § 539.1,Statute,state_statute,IA,8,6,3,1995,2019,true,exact
 Iowa Code § 554.1102,iowa code § 554.1102,Statute,state_statute,IA,8,5,3,1989,2003,true,exact
 Iowa Code § 554.1203,iowa code § 554.1203,Statute,state_statute,IA,8,5,4,1980,2015,true,exact
-Iowa Code § 554.1205,iowa code § 554.1205,Statute,state_statute,IA,8,5,4,1980,2003,true,exact
 Iowa Code § 554.2607,iowa code § 554.2607,Statute,state_statute,IA,8,7,3,1982,2014,true,exact
 Iowa Code § 554.2715,iowa code § 554.2715,Statute,state_statute,IA,8,6,4,1982,2018,true,exact
 Iowa Code § 554.9109,iowa code § 554.9109,Statute,state_statute,IA,8,6,4,1986,2008,true,exact
@@ -1413,6 +1415,7 @@ Iowa Code § 600.9,iowa code § 600.9,Statute,state_statute,IA,8,3,1,2002,2016,t
 Iowa Code § 602.10112,iowa code § 602.10112,Statute,state_statute,IA,8,4,2,1985,2001,true,exact
 Iowa Code § 602.1614,iowa code § 602.1614,Statute,state_statute,IA,8,5,1,2016,2018,true,exact
 Iowa Code § 602.7103,iowa code § 602.7103,Statute,state_statute,IA,8,5,2,1984,2017,true,exact
+Iowa Code § 611.1,iowa code § 611.1,Statute,state_statute,IA,8,4,1,1993,2023,true,exact
 Iowa Code § 622.105,iowa code § 622.105,Statute,state_statute,IA,8,2,1,2006,2006,true,exact
 Iowa Code § 622.7,iowa code § 622.7,Statute,state_statute,IA,8,8,4,1980,2023,false,unresolved
 Iowa Code § 624.11A,iowa code § 624.11a,Statute,state_statute,IA,8,6,1,2006,2012,true,exact
@@ -1448,7 +1451,6 @@ Iowa Code § 80.22,iowa code § 80.22,Statute,state_statute,IA,8,5,1,2018,2019,t
 Iowa Code § 809.6,iowa code § 809.6,Statute,state_statute,IA,8,7,1,1989,1992,true,exact
 Iowa Code § 81.2,iowa code § 81.2,Statute,state_statute,IA,8,8,2,2014,2021,true,exact
 Iowa Code § 822.4,iowa code § 822.4,Statute,state_statute,IA,8,8,3,2006,2022,true,exact
-Iowa Code § 85.30,iowa code § 85.30,Statute,state_statute,IA,8,7,3,1986,2016,true,exact
 Iowa Code § 85.42,iowa code § 85.42,Statute,state_statute,IA,8,3,3,1969,2023,true,exact
 Iowa Code § 85.63,iowa code § 85.63,Statute,state_statute,IA,8,6,2,1994,2024,true,exact
 Iowa Code § 86.29,iowa code § 86.29,Statute,state_statute,IA,8,8,1,1953,2021,false,unresolved
@@ -1465,6 +1467,7 @@ Iowa Code Ann. § 144A,iowa code ann. § 144a,Statute,state_statute,IA,7,4,3,199
 Iowa Code Ann. § 249A,iowa code ann. § 249a,Statute,state_statute,IA,7,6,3,1998,2012,false,unresolved
 Iowa Code Ann. § 321.445,iowa code ann. § 321.445,Statute,state_statute,IA,7,7,6,1969,2009,true,exact
 Iowa Code Ann. § 553.4,iowa code ann. § 553.4,Statute,state_statute,IA,7,7,2,1982,2009,true,exact
+Iowa Code Ann. § 598.41,iowa code ann. § 598.41,Statute,state_statute,IA,7,5,3,1996,1998,true,exact
 Iowa Code Ann. § 598A,iowa code ann. § 598a,Statute,state_statute,IA,7,4,4,1978,1997,false,unresolved
 Iowa Code Ann. § 627.10,iowa code ann. § 627.10,Statute,state_statute,IA,7,7,2,1984,1992,true,exact
 Iowa Code Ann. § 627.6,iowa code ann. § 627.6,Statute,state_statute,IA,7,5,2,1984,2002,true,exact
@@ -1576,7 +1579,6 @@ Iowa Code § 602.6111,iowa code § 602.6111,Statute,state_statute,IA,7,5,2,2016,
 Iowa Code § 602.6202,iowa code § 602.6202,Statute,state_statute,IA,7,6,2,1987,2025,true,exact
 Iowa Code § 602.8107,iowa code § 602.8107,Statute,state_statute,IA,7,5,2,2017,2021,true,exact
 Iowa Code § 607A.26,iowa code § 607a.26,Statute,state_statute,IA,7,4,2,2017,2018,true,exact
-Iowa Code § 611.1,iowa code § 611.1,Statute,state_statute,IA,7,4,1,1995,2023,true,exact
 Iowa Code § 611.2,iowa code § 611.2,Statute,state_statute,IA,7,7,2,1986,2016,true,exact
 Iowa Code § 611.23,iowa code § 611.23,Statute,state_statute,IA,7,2,1,1997,1999,true,exact
 Iowa Code § 614.31,iowa code § 614.31,Statute,state_statute,IA,7,5,2,2000,2025,true,exact
@@ -1600,7 +1602,7 @@ Iowa Code § 668,iowa code § 668,Statute,state_statute,IA,7,7,4,1993,2025,false
 Iowa Code § 668.15,iowa code § 668.15,Statute,state_statute,IA,7,3,2,1992,2014,true,exact
 Iowa Code § 668.8,iowa code § 668.8,Statute,state_statute,IA,7,6,2,1988,2022,true,exact
 Iowa Code § 677.7,iowa code § 677.7,Statute,state_statute,IA,7,5,2,1993,2017,true,exact
-Iowa Code § 679A.l,iowa code § 679a.l,Statute,state_statute,IA,7,3,2,2002,2011,false,unresolved
+Iowa Code § 679A.1,iowa code § 679a.1,Statute,state_statute,IA,7,3,2,2002,2011,true,exact
 Iowa Code § 684.3,iowa code § 684.3,Statute,state_statute,IA,7,3,1,2005,2011,true,exact
 Iowa Code § 68B.2A,iowa code § 68b.2a,Statute,state_statute,IA,7,4,2,1999,2015,true,exact
 Iowa Code § 692A.108,iowa code § 692a.108,Statute,state_statute,IA,7,4,2,2015,2020,true,exact
@@ -1644,6 +1646,7 @@ Iowa Code § 910.10,iowa code § 910.10,Statute,state_statute,IA,7,4,2,2011,2018
 Iowa Code § 915.86,iowa code § 915.86,Statute,state_statute,IA,7,5,1,2010,2020,true,exact
 Iowa Code § 96.7,iowa code § 96.7,Statute,state_statute,IA,7,6,1,1985,2004,true,exact
 Iowa Code § 99B.53,iowa code § 99b.53,Statute,state_statute,IA,7,2,2,2018,2023,true,exact
+Iowa Code § 99F.11,iowa code § 99f.11,Statute,state_statute,IA,7,5,2,2002,2004,true,exact
 Iowa Code § 9E,iowa code § 9e,Statute,state_statute,IA,7,4,3,1998,2021,false,unresolved
 Iowa Estates § 4.45,iowa estates § 4.45,Statute,state_statute,IA,7,7,2,1984,2013,false,unresolved
 Iowa R.Prob. P. 5,iowa r.prob. p. 5,Statute,state_statute,IA,7,6,1,1987,1993,false,unresolved
@@ -1662,7 +1665,6 @@ Iowa Code Ann. § 403.6,iowa code ann. § 403.6,Statute,state_statute,IA,6,2,1,1
 Iowa Code Ann. § 483A,iowa code ann. § 483a,Statute,state_statute,IA,6,3,2,2005,2006,false,unresolved
 Iowa Code Ann. § 554.1102,iowa code ann. § 554.1102,Statute,state_statute,IA,6,6,3,1979,2016,true,exact
 Iowa Code Ann. § 598.17,iowa code ann. § 598.17,Statute,state_statute,IA,6,6,5,1974,2001,true,exact
-Iowa Code Ann. § 598.41,iowa code ann. § 598.41,Statute,state_statute,IA,6,5,3,1996,1998,true,exact
 Iowa Code Ann. § 614.21,iowa code ann. § 614.21,Statute,state_statute,IA,6,3,2,1991,1991,true,exact
 Iowa Code Ann. § 663A,iowa code ann. § 663a,Statute,state_statute,IA,6,6,2,1981,1990,false,unresolved
 Iowa Code Ann. § 70.1,iowa code ann. § 70.1,Statute,state_statute,IA,6,4,3,1984,1991,false,unresolved
@@ -1776,7 +1778,6 @@ Iowa Code § 490A.702,iowa code § 490a.702,Statute,state_statute,IA,6,4,3,2004,
 Iowa Code § 499A.11,iowa code § 499a.11,Statute,state_statute,IA,6,3,1,2015,2015,true,exact
 Iowa Code § 499A.19,iowa code § 499a.19,Statute,state_statute,IA,6,3,1,2015,2015,true,exact
 Iowa Code § 499A.3C,iowa code § 499a.3c,Statute,state_statute,IA,6,3,1,2015,2015,true,exact
-Iowa Code § 502.201,iowa code § 502.201,Statute,state_statute,IA,6,5,3,1981,2004,true,exact
 Iowa Code § 504.901,iowa code § 504.901,Statute,state_statute,IA,6,6,3,2007,2019,true,exact
 Iowa Code § 505.8,iowa code § 505.8,Statute,state_statute,IA,6,6,1,2013,2020,true,exact
 Iowa Code § 507E,iowa code § 507e,Statute,state_statute,IA,6,3,2,2007,2016,false,unresolved
@@ -1796,6 +1797,7 @@ Iowa Code § 554.2714,iowa code § 554.2714,Statute,state_statute,IA,6,6,4,1980,
 Iowa Code § 554.2718,iowa code § 554.2718,Statute,state_statute,IA,6,1,1,2017,2017,true,exact
 Iowa Code § 554.3305,iowa code § 554.3305,Statute,state_statute,IA,6,6,3,1989,2019,true,exact
 Iowa Code § 554.4301,iowa code § 554.4301,Statute,state_statute,IA,6,5,5,1990,2017,true,exact
+Iowa Code § 554.9107,iowa code § 554.9107,Statute,state_statute,IA,6,3,2,1988,2001,true,exact
 Iowa Code § 554.9108,iowa code § 554.9108,Statute,state_statute,IA,6,3,3,2006,2007,true,exact
 Iowa Code § 554.9308,iowa code § 554.9308,Statute,state_statute,IA,6,3,2,2010,2016,true,exact
 Iowa Code § 554.9320,iowa code § 554.9320,Statute,state_statute,IA,6,4,2,2007,2008,true,exact
@@ -1895,7 +1897,6 @@ Iowa Code § 909.5,iowa code § 909.5,Statute,state_statute,IA,6,2,1,2009,2009,t
 Iowa Code § 91B,iowa code § 91b,Statute,state_statute,IA,6,5,2,2005,2015,false,unresolved
 Iowa Code § 97B.1A,iowa code § 97b.1a,Statute,state_statute,IA,6,5,2,2006,2017,true,exact
 Iowa Code § 97B.48A,iowa code § 97b.48a,Statute,state_statute,IA,6,2,1,2006,2006,true,exact
-Iowa Code § 99F.11,iowa code § 99f.11,Statute,state_statute,IA,6,5,2,2002,2004,true,exact
 Iowa Code § 99G,iowa code § 99g,Statute,state_statute,IA,6,5,3,2006,2017,false,unresolved
 Iowa Code. § 235A.12,iowa code. § 235a.12,Statute,state_statute,IA,6,2,1,1993,1993,true,exact
 Iowa UCC § 554.1201,iowa ucc § 554.1201,Statute,state_statute,IA,6,2,1,2008,2008,true,exact
@@ -1906,7 +1907,6 @@ Iowa § 232.2,iowa § 232.2,Statute,state_statute,IA,6,1,1,2015,2015,true,exact
 "Iowa, Municipal Code § 134-64","iowa, municipal code § 134-64",Statute,state_statute,IA,6,1,1,2017,2017,false,unresolved
 "Iowa, Municipal Code § 17.52.020","iowa, municipal code § 17.52.020",Statute,state_statute,IA,6,3,1,2018,2018,false,unresolved
 "Iowa, Municipal Code § 29.201","iowa, municipal code § 29.201",Statute,state_statute,IA,6,2,1,2019,2019,false,unresolved
-S.F. 384 § 5,s.f. 384 § 5,Statute,state_statute,IA,6,4,1,2007,2007,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 236,4 iowa practice: criminal law and procedure § 236,Statute,state_statute,IA,5,5,2,1981,2014,false,unresolved
 5 Iowa Code § 232.116,5 iowa code § 232.116,Statute,state_statute,IA,5,5,1,2015,2023,false,unresolved
 6 Iowa Code § 232.116,6 iowa code § 232.116,Statute,state_statute,IA,5,5,1,2015,2022,false,unresolved
@@ -1983,6 +1983,7 @@ Iowa Code § 2562,iowa code § 2562,Statute,state_statute,IA,5,5,1,2022,2025,fal
 Iowa Code § 2608,iowa code § 2608,Statute,state_statute,IA,5,5,1,1999,2015,false,unresolved
 Iowa Code § 2627,iowa code § 2627,Statute,state_statute,IA,5,5,1,2017,2017,false,unresolved
 Iowa Code § 279.23,iowa code § 279.23,Statute,state_statute,IA,5,3,1,1994,2009,true,exact
+Iowa Code § 285.1,iowa code § 285.1,Statute,state_statute,IA,5,4,2,1976,2007,true,exact
 Iowa Code § 28A,iowa code § 28a,Statute,state_statute,IA,5,3,2,1985,2025,false,unresolved
 Iowa Code § 290.5,iowa code § 290.5,Statute,state_statute,IA,5,3,2,1980,1986,true,exact
 Iowa Code § 297.22,iowa code § 297.22,Statute,state_statute,IA,5,2,1,1995,2019,true,exact
@@ -2027,6 +2028,7 @@ Iowa Code § 421.60,iowa code § 421.60,Statute,state_statute,IA,5,5,4,2002,2017
 Iowa Code § 422.11S,iowa code § 422.11s,Statute,state_statute,IA,5,3,1,2009,2009,true,exact
 Iowa Code § 4221,iowa code § 4221,Statute,state_statute,IA,5,5,1,2017,2024,false,unresolved
 Iowa Code § 427.13,iowa code § 427.13,Statute,state_statute,IA,5,3,2,2006,2015,true,exact
+Iowa Code § 428.20,iowa code § 428.20,Statute,state_statute,IA,5,3,1,1982,2013,true,exact
 Iowa Code § 428.24,iowa code § 428.24,Statute,state_statute,IA,5,5,1,1989,1996,true,exact
 Iowa Code § 429.2,iowa code § 429.2,Statute,state_statute,IA,5,5,2,1985,2014,true,exact
 Iowa Code § 43.2,iowa code § 43.2,Statute,state_statute,IA,5,2,1,1990,1990,true,exact
@@ -2075,7 +2077,6 @@ Iowa Code § 554.4215,iowa code § 554.4215,Statute,state_statute,IA,5,2,2,2002,
 Iowa Code § 554.4402,iowa code § 554.4402,Statute,state_statute,IA,5,1,1,2013,2013,true,exact
 Iowa Code § 554.8302,iowa code § 554.8302,Statute,state_statute,IA,5,2,1,1982,1992,true,exact
 Iowa Code § 554.8319,iowa code § 554.8319,Statute,state_statute,IA,5,2,1,1994,1998,true,exact
-Iowa Code § 554.9107,iowa code § 554.9107,Statute,state_statute,IA,5,3,2,1988,2001,true,exact
 Iowa Code § 554.9201,iowa code § 554.9201,Statute,state_statute,IA,5,5,4,1988,2007,true,exact
 Iowa Code § 554.9403,iowa code § 554.9403,Statute,state_statute,IA,5,4,3,1982,2019,true,exact
 Iowa Code § 554.9502,iowa code § 554.9502,Statute,state_statute,IA,5,4,3,2006,2020,true,exact
@@ -2085,6 +2086,7 @@ Iowa Code § 560.2,iowa code § 560.2,Statute,state_statute,IA,5,1,1,2014,2014,t
 Iowa Code § 560.4,iowa code § 560.4,Statute,state_statute,IA,5,4,1,2014,2017,true,exact
 Iowa Code § 57.7,iowa code § 57.7,Statute,state_statute,IA,5,3,1,2002,2007,true,exact
 Iowa Code § 572.11,iowa code § 572.11,Statute,state_statute,IA,5,4,1,1994,2001,true,exact
+Iowa Code § 573.10,iowa code § 573.10,Statute,state_statute,IA,5,4,3,1993,2025,true,exact
 Iowa Code § 579.1,iowa code § 579.1,Statute,state_statute,IA,5,2,2,1996,1997,true,exact
 Iowa Code § 598.-41,iowa code § 598.-41,Statute,state_statute,IA,5,5,2,1985,1994,true,exact
 Iowa Code § 598.22A,iowa code § 598.22a,Statute,state_statute,IA,5,5,4,1993,2005,true,exact
@@ -2206,7 +2208,6 @@ Iowa Code § 91E,iowa code § 91e,Statute,state_statute,IA,5,5,1,2017,2017,false
 Iowa Code § 96.16,iowa code § 96.16,Statute,state_statute,IA,5,4,2,1985,2020,true,exact
 Iowa Code § 96.1A,iowa code § 96.1a,Statute,state_statute,IA,5,2,2,2023,2024,true,exact
 Iowa Iowa Code § 668A,iowa iowa code § 668a,Statute,state_statute,IA,5,3,2,1998,2004,false,unresolved
-Iowa Practice § 503.1,iowa practice § 503.1,Statute,state_statute,IA,5,1,1,2001,2001,false,unresolved
 Iowa Practice: Criminal Law and Procedure § 1242,iowa practice: criminal law and procedure § 1242,Statute,state_statute,IA,5,5,1,2010,2017,false,unresolved
 Iowa Practice: Criminal Law and Procedure § 293,iowa practice: criminal law and procedure § 293,Statute,state_statute,IA,5,5,1,1981,2015,false,unresolved
 Iowa § 232.41,iowa § 232.41,Statute,state_statute,IA,5,5,5,1975,1981,true,exact
@@ -2217,7 +2218,6 @@ Iowa. Iowa Code § 422.33,iowa. iowa code § 422.33,Statute,state_statute,IA,5,4
 WHPI of Iowa Code § 514F,whpi of iowa code § 514f,Statute,state_statute,IA,5,3,1,2017,2017,false,unresolved
 "2 Code of Iowa 1946, c. 675 § 675.19","2 code of iowa 1946, c. 675 § 675.19",Statute,state_statute,IA,4,2,1,1950,1950,false,unresolved
 3 Iowa Code § 232.116,3 iowa code § 232.116,Statute,state_statute,IA,4,4,1,2018,2022,false,unresolved
-32 C.J. 1355 § 640,32 c.j. 1355 § 640,Statute,state_statute,IA,4,4,3,1936,1982,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 429,4 iowa practice: criminal law and procedure § 429,Statute,state_statute,IA,4,3,1,1988,1988,false,unresolved
 570 I.A.C. § 14.2,570 i.a.c. § 14.2,Statute,state_statute,IA,4,1,1,1981,1981,false,unresolved
 62 G.A. ch. 95 § 14,62 g.a. ch. 95 § 14,Statute,state_statute,IA,4,2,1,1977,1977,false,unresolved
@@ -2291,7 +2291,7 @@ Iowa Code Ann. § 598B.201,iowa code ann. § 598b.201,Statute,state_statute,IA,4
 Iowa Code Ann. § 613A,iowa code ann. § 613a,Statute,state_statute,IA,4,4,3,1984,1994,false,unresolved
 Iowa Code Ann. § 631.11,iowa code ann. § 631.11,Statute,state_statute,IA,4,4,2,1986,2004,true,exact
 Iowa Code Ann. § 664A,iowa code ann. § 664a,Statute,state_statute,IA,4,4,1,2013,2013,false,unresolved
-Iowa Code Ann. § 668A.l,iowa code ann. § 668a.l,Statute,state_statute,IA,4,4,3,1990,1996,false,unresolved
+Iowa Code Ann. § 668A.1,iowa code ann. § 668a.1,Statute,state_statute,IA,4,4,3,1990,1996,true,exact
 Iowa Code Ann. § 684A,iowa code ann. § 684a,Statute,state_statute,IA,4,2,1,2001,2001,false,unresolved
 Iowa Code Ann. § 68A,iowa code ann. § 68a,Statute,state_statute,IA,4,3,2,1978,1979,false,unresolved
 Iowa Code Ann. § 690.2,iowa code ann. § 690.2,Statute,state_statute,IA,4,4,2,1968,1978,true,exact
@@ -2404,7 +2404,6 @@ Iowa Code § 279.19,iowa code § 279.19,Statute,state_statute,IA,4,4,3,1982,1997
 Iowa Code § 279.19A,iowa code § 279.19a,Statute,state_statute,IA,4,4,2,2008,2025,true,exact
 Iowa Code § 279.46,iowa code § 279.46,Statute,state_statute,IA,4,2,1,2008,2008,true,exact
 Iowa Code § 2792,iowa code § 2792,Statute,state_statute,IA,4,3,1,2017,2017,false,unresolved
-Iowa Code § 285.1,iowa code § 285.1,Statute,state_statute,IA,4,4,2,1976,2007,true,exact
 Iowa Code § 296.7,iowa code § 296.7,Statute,state_statute,IA,4,2,1,2007,2007,true,exact
 Iowa Code § 304A,iowa code § 304a,Statute,state_statute,IA,4,2,1,1988,1988,false,unresolved
 Iowa Code § 306.22,iowa code § 306.22,Statute,state_statute,IA,4,2,1,2014,2014,true,exact
@@ -2470,7 +2469,6 @@ Iowa Code § 422.12,iowa code § 422.12,Statute,state_statute,IA,4,1,1,1992,1992
 Iowa Code § 422.52,iowa code § 422.52,Statute,state_statute,IA,4,2,2,1993,2006,true,exact
 Iowa Code § 422.72,iowa code § 422.72,Statute,state_statute,IA,4,2,1,1990,1995,true,exact
 Iowa Code § 422.93,iowa code § 422.93,Statute,state_statute,IA,4,3,1,2014,2014,true,exact
-Iowa Code § 428.20,iowa code § 428.20,Statute,state_statute,IA,4,3,1,1993,2013,true,exact
 Iowa Code § 43.42,iowa code § 43.42,Statute,state_statute,IA,4,4,1,1986,2005,true,exact
 Iowa Code § 433.4,iowa code § 433.4,Statute,state_statute,IA,4,4,1,2010,2014,false,unresolved
 Iowa Code § 4351,iowa code § 4351,Statute,state_statute,IA,4,4,1,2022,2024,false,unresolved
@@ -2481,7 +2479,7 @@ Iowa Code § 446.31,iowa code § 446.31,Statute,state_statute,IA,4,3,1,2002,2008
 Iowa Code § 448.16,iowa code § 448.16,Statute,state_statute,IA,4,4,1,1996,2024,true,exact
 Iowa Code § 451.12,iowa code § 451.12,Statute,state_statute,IA,4,2,1,2010,2010,false,unresolved
 Iowa Code § 453A.22,iowa code § 453a.22,Statute,state_statute,IA,4,2,1,2005,2026,true,exact
-Iowa Code § 453B.l,iowa code § 453b.l,Statute,state_statute,IA,4,4,1,1997,2007,false,unresolved
+Iowa Code § 453B.1,iowa code § 453b.1,Statute,state_statute,IA,4,4,1,1997,2007,true,exact
 Iowa Code § 455B.109,iowa code § 455b.109,Statute,state_statute,IA,4,2,1,2000,2000,true,exact
 Iowa Code § 455B.175,iowa code § 455b.175,Statute,state_statute,IA,4,3,2,1997,2000,true,exact
 Iowa Code § 455B.261,iowa code § 455b.261,Statute,state_statute,IA,4,4,1,2007,2020,true,exact
@@ -2581,7 +2579,6 @@ Iowa Code § 566.20,iowa code § 566.20,Statute,state_statute,IA,4,2,1,1995,1995
 Iowa Code § 566.27,iowa code § 566.27,Statute,state_statute,IA,4,2,1,1995,1995,false,unresolved
 Iowa Code § 57.6,iowa code § 57.6,Statute,state_statute,IA,4,2,1,1994,2002,true,exact
 Iowa Code § 5718-a4,iowa code § 5718-a4,Statute,state_statute,IA,4,2,1,2015,2015,false,unresolved
-Iowa Code § 573.10,iowa code § 573.10,Statute,state_statute,IA,4,4,3,1993,2025,true,exact
 Iowa Code § 573.21,iowa code § 573.21,Statute,state_statute,IA,4,4,2,2009,2025,true,exact
 Iowa Code § 577.1,iowa code § 577.1,Statute,state_statute,IA,4,2,2,1991,1994,true,exact
 Iowa Code § 579A,iowa code § 579a,Statute,state_statute,IA,4,1,1,1997,1997,false,unresolved
@@ -2661,6 +2658,7 @@ Iowa Code § 680.4,iowa code § 680.4,Statute,state_statute,IA,4,4,2,1987,1996,t
 Iowa Code § 680.5,iowa code § 680.5,Statute,state_statute,IA,4,2,1,2015,2015,true,exact
 Iowa Code § 684.19,iowa code § 684.19,Statute,state_statute,IA,4,4,1,1986,2021,false,unresolved
 Iowa Code § 68A.701,iowa code § 68a.701,Statute,state_statute,IA,4,4,3,2010,2013,true,exact
+Iowa Code § 69.12,iowa code § 69.12,Statute,state_statute,IA,4,2,2,1986,2011,true,exact
 Iowa Code § 690.6,iowa code § 690.6,Statute,state_statute,IA,4,4,1,1977,2010,false,unresolved
 Iowa Code § 692A.105,iowa code § 692a.105,Statute,state_statute,IA,4,2,2,2025,2026,true,exact
 Iowa Code § 692A.114,iowa code § 692a.114,Statute,state_statute,IA,4,3,3,2014,2021,true,exact
@@ -2718,6 +2716,7 @@ Iowa Code § 820.22,iowa code § 820.22,Statute,state_statute,IA,4,2,1,1996,1996
 Iowa Code § 822.3B,iowa code § 822.3b,Statute,state_statute,IA,4,4,1,2020,2021,false,unresolved
 Iowa Code § 84A,iowa code § 84a,Statute,state_statute,IA,4,4,3,2000,2021,false,unresolved
 Iowa Code § 85.72,iowa code § 85.72,Statute,state_statute,IA,4,2,2,2012,2016,true,exact
+Iowa Code § 85B.11,iowa code § 85b.11,Statute,state_statute,IA,4,2,1,1987,2002,true,exact
 Iowa Code § 86.32,iowa code § 86.32,Statute,state_statute,IA,4,4,2,1993,2019,false,unresolved
 Iowa Code § 86.38,iowa code § 86.38,Statute,state_statute,IA,4,4,1,2015,2015,false,unresolved
 Iowa Code § 87.10,iowa code § 87.10,Statute,state_statute,IA,4,4,1,2019,2019,true,exact
@@ -2746,11 +2745,9 @@ Iowa Code § 99D.22,iowa code § 99d.22,Statute,state_statute,IA,4,2,1,2023,2023
 Iowa Code § 99F.15,iowa code § 99f.15,Statute,state_statute,IA,4,2,2,2023,2024,true,exact
 "Iowa Code, ch. 101 § 1705","iowa code, ch. 101 § 1705",Statute,state_statute,IA,4,4,1,2023,2023,false,unresolved
 Iowa Code. (Iowa Code § 364.2,iowa code. (iowa code § 364.2,Statute,state_statute,IA,4,2,1,2006,2006,false,unresolved
-Iowa Iowa Code § 668A.l,iowa iowa code § 668a.l,Statute,state_statute,IA,4,3,3,1998,2006,false,unresolved
+Iowa Iowa Code § 668A.1,iowa iowa code § 668a.1,Statute,state_statute,IA,4,3,3,1998,2006,true,exact
 Iowa Municipal Code § 2.58.040,iowa municipal code § 2.58.040,Statute,state_statute,IA,4,2,1,2021,2021,false,unresolved
 Iowa Practice and Procedure § 45,iowa practice and procedure § 45,Statute,state_statute,IA,4,4,2,1981,2011,false,unresolved
-Iowa Practice § 10,iowa practice § 10,Statute,state_statute,IA,4,4,1,1984,1999,false,unresolved
-Iowa Practice § 316,iowa practice § 316,Statute,state_statute,IA,4,4,2,1984,2017,false,unresolved
 Iowa Practice: Criminal Law § 11:46,iowa practice: criminal law § 11:46,Statute,state_statute,IA,4,3,1,2014,2014,false,unresolved
 Iowa R.Cr. P. 6,iowa r.cr. p. 6,Statute,state_statute,IA,4,3,2,1982,1993,false,unresolved
 "Iowa Stat. 1873, Ch. 4 § 1253","iowa stat. 1873, ch. 4 § 1253",Statute,state_statute,IA,4,2,1,2013,2013,false,unresolved
@@ -2777,7 +2774,6 @@ UCC § 2A-103,ucc § 2a-103,Statute,state_statute,IA,4,3,3,1999,2011,false,unres
 19 Iowa Code § 85.39,19 iowa code § 85.39,Statute,state_statute,IA,3,3,1,2015,2015,false,unresolved
 3 Iowa Code § 600A,3 iowa code § 600a,Statute,state_statute,IA,3,3,1,2017,2024,false,unresolved
 345 Iowa Adm. Code 4.26,345 iowa adm. code 4.26,Statute,state_statute,IA,3,1,1,1990,1990,false,unresolved
-37 C.J. 170 § 6,37 c.j. 170 § 6,Statute,state_statute,IA,3,3,2,1937,1954,false,unresolved
 370 I.A.C. § 4.22,370 i.a.c. § 4.22,Statute,state_statute,IA,3,3,1,1980,1982,false,unresolved
 370 I.A.C. § 6.4,370 i.a.c. § 6.4,Statute,state_statute,IA,3,2,1,1979,1982,false,unresolved
 370 IAC § 4.32,370 iac § 4.32,Statute,state_statute,IA,3,1,1,1985,1985,false,unresolved
@@ -2790,7 +2786,6 @@ UCC § 2A-103,ucc § 2a-103,Statute,state_statute,IA,4,3,3,1999,2011,false,unres
 63 G.A. ch. 247 § 2,63 g.a. ch. 247 § 2,Statute,state_statute,IA,3,2,1,1976,1976,false,unresolved
 "66 G.A. Ch. 1245, ch. 4 § 231","66 g.a. ch. 1245, ch. 4 § 231",Statute,state_statute,IA,3,3,1,1978,1978,false,unresolved
 "66 G.A. ch. 1245, ch. 4 § 526","66 g.a. ch. 1245, ch. 4 § 526",Statute,state_statute,IA,3,3,1,1977,1979,false,unresolved
-7 Iowa Practice § 801.4,7 iowa practice § 801.4,Statute,state_statute,IA,3,1,1,2001,2001,false,unresolved
 722 (Iowa Code § 216.6,722 (iowa code § 216.6,Statute,state_statute,IA,3,3,1,1995,1996,false,unresolved
 8 Iowa Code § 232.116,8 iowa code § 232.116,Statute,state_statute,IA,3,3,1,2017,2022,false,unresolved
 9 Bus. & Com. Litig. Fed. Cts. § 103:31,9 bus. & com. litig. fed. cts. § 103:31,Statute,state_statute,IA,3,3,1,2022,2023,false,unresolved
@@ -3112,6 +3107,7 @@ Iowa Code § 359.28,iowa code § 359.28,Statute,state_statute,IA,3,3,2,1986,1995
 Iowa Code § 359.41,iowa code § 359.41,Statute,state_statute,IA,3,3,2,1986,1995,true,exact
 Iowa Code § 359A,iowa code § 359a,Statute,state_statute,IA,3,3,1,2001,2007,false,unresolved
 Iowa Code § 36,iowa code § 36,Statute,state_statute,IA,3,3,2,1981,2014,false,unresolved
+Iowa Code § 362.1,iowa code § 362.1,Statute,state_statute,IA,3,2,1,1995,1999,true,exact
 Iowa Code § 362.26,iowa code § 362.26,Statute,state_statute,IA,3,3,1,1957,2001,false,unresolved
 Iowa Code § 362.3,iowa code § 362.3,Statute,state_statute,IA,3,3,2,2012,2021,true,exact
 Iowa Code § 364.6,iowa code § 364.6,Statute,state_statute,IA,3,3,1,2007,2024,true,exact
@@ -3267,6 +3263,7 @@ Iowa Code § 554.-1201,iowa code § 554.-1201,Statute,state_statute,IA,3,3,3,196
 Iowa Code § 554.1101,iowa code § 554.1101,Statute,state_statute,IA,3,3,2,2016,2020,true,exact
 Iowa Code § 554.1106,iowa code § 554.1106,Statute,state_statute,IA,3,2,2,1987,2003,true,exact
 Iowa Code § 554.13515,iowa code § 554.13515,Statute,state_statute,IA,3,3,2,2003,2021,true,exact
+Iowa Code § 554.13529,iowa code § 554.13529,Statute,state_statute,IA,3,2,2,1998,2001,true,exact
 Iowa Code § 554.2104,iowa code § 554.2104,Statute,state_statute,IA,3,3,3,1980,2013,true,exact
 Iowa Code § 554.2209,iowa code § 554.2209,Statute,state_statute,IA,3,3,2,1987,2013,true,exact
 Iowa Code § 554.2501,iowa code § 554.2501,Statute,state_statute,IA,3,3,2,1994,2007,true,exact
@@ -3274,6 +3271,7 @@ Iowa Code § 554.2614,iowa code § 554.2614,Statute,state_statute,IA,3,2,2,2013,
 Iowa Code § 554.2705,iowa code § 554.2705,Statute,state_statute,IA,3,3,3,1986,1988,true,exact
 Iowa Code § 554.2723,iowa code § 554.2723,Statute,state_statute,IA,3,2,2,2003,2018,true,exact
 Iowa Code § 554.6111,iowa code § 554.6111,Statute,state_statute,IA,3,3,2,1983,1991,false,unresolved
+Iowa Code § 554.8315,iowa code § 554.8315,Statute,state_statute,IA,3,2,1,1982,1992,true,exact
 Iowa Code § 554.9310,iowa code § 554.9310,Statute,state_statute,IA,3,3,3,1991,2011,true,exact
 Iowa Code § 554.9317,iowa code § 554.9317,Statute,state_statute,IA,3,3,2,2010,2016,true,exact
 Iowa Code § 554.9324,iowa code § 554.9324,Statute,state_statute,IA,3,3,2,2018,2023,true,exact
@@ -3325,6 +3323,7 @@ Iowa Code § 602.9105,iowa code § 602.9105,Statute,state_statute,IA,3,3,1,2000,
 Iowa Code § 607.2,iowa code § 607.2,Statute,state_statute,IA,3,3,1,2016,2016,false,unresolved
 Iowa Code § 607A.23,iowa code § 607a.23,Statute,state_statute,IA,3,2,1,1993,2016,true,exact
 Iowa Code § 610.15,iowa code § 610.15,Statute,state_statute,IA,3,1,1,1982,1982,false,unresolved
+Iowa Code § 611.21,iowa code § 611.21,Statute,state_statute,IA,3,2,1,2014,2020,true,exact
 Iowa Code § 611.7,iowa code § 611.7,Statute,state_statute,IA,3,3,1,2016,2016,true,exact
 Iowa Code § 614,iowa code § 614,Statute,state_statute,IA,3,3,3,2001,2022,false,unresolved
 Iowa Code § 614.-1,iowa code § 614.-1,Statute,state_statute,IA,3,3,3,1992,1994,true,exact
@@ -3410,7 +3409,6 @@ Iowa Code § 684.4.2,iowa code § 684.4.2,Statute,state_statute,IA,3,1,1,2022,20
 Iowa Code § 685,iowa code § 685,Statute,state_statute,IA,3,3,2,2015,2025,false,unresolved
 Iowa Code § 687.7,iowa code § 687.7,Statute,state_statute,IA,3,3,1,1970,1970,false,unresolved
 Iowa Code § 68A.402A,iowa code § 68a.402a,Statute,state_statute,IA,3,2,1,2013,2013,true,exact
-Iowa Code § 69.12,iowa code § 69.12,Statute,state_statute,IA,3,2,2,1986,2011,true,exact
 Iowa Code § 690.10,iowa code § 690.10,Statute,state_statute,IA,3,3,3,1966,2025,false,unresolved
 Iowa Code § 690.4,iowa code § 690.4,Statute,state_statute,IA,3,3,2,1966,1995,true,exact
 Iowa Code § 692.-1,iowa code § 692.-1,Statute,state_statute,IA,3,2,1,1987,1987,true,exact
@@ -3475,7 +3473,6 @@ Iowa Code § 85.24,iowa code § 85.24,Statute,state_statute,IA,3,3,2,2006,2021,t
 Iowa Code § 85.46,iowa code § 85.46,Statute,state_statute,IA,3,2,2,1983,2020,false,unresolved
 Iowa Code § 8538,iowa code § 8538,Statute,state_statute,IA,3,3,1,2014,2014,false,unresolved
 Iowa Code § 85A.10,iowa code § 85a.10,Statute,state_statute,IA,3,3,1,1984,2002,true,exact
-Iowa Code § 85B.11,iowa code § 85b.11,Statute,state_statute,IA,3,2,1,1987,2002,true,exact
 Iowa Code § 86.3,iowa code § 86.3,Statute,state_statute,IA,3,3,2,2007,2023,false,unresolved
 Iowa Code § 86.34,iowa code § 86.34,Statute,state_statute,IA,3,1,1,1983,1983,false,unresolved
 Iowa Code § 8A.411,iowa code § 8a.411,Statute,state_statute,IA,3,3,1,2014,2014,true,exact
@@ -3511,10 +3508,6 @@ Iowa Iowa Code § 232.45,iowa iowa code § 232.45,Statute,state_statute,IA,3,3,1
 Iowa Iowa Code § 709.2,iowa iowa code § 709.2,Statute,state_statute,IA,3,3,1,2010,2010,true,exact
 Iowa Iowa Code § 902.1,iowa iowa code § 902.1,Statute,state_statute,IA,3,3,1,2010,2010,true,exact
 Iowa Practice Criminal Law (1) § 3:16,iowa practice criminal law (1) § 3:16,Statute,state_statute,IA,3,3,1,2018,2018,false,unresolved
-Iowa Practice § 106.1,iowa practice § 106.1,Statute,state_statute,IA,3,2,2,1998,1998,false,unresolved
-Iowa Practice § 34.22,iowa practice § 34.22,Statute,state_statute,IA,3,3,1,1977,1980,false,unresolved
-Iowa Practice § 53.01,iowa practice § 53.01,Statute,state_statute,IA,3,3,1,1977,1979,false,unresolved
-Iowa Practice § 8.01,iowa practice § 8.01,Statute,state_statute,IA,3,3,1,1977,1981,false,unresolved
 Iowa Practice: Criminal Law & Procedure § 131,iowa practice: criminal law & procedure § 131,Statute,state_statute,IA,3,3,1,2017,2017,false,unresolved
 Iowa Practice: Criminal Law and Procedure § 1700,iowa practice: criminal law and procedure § 1700,Statute,state_statute,IA,3,3,1,1982,1983,false,unresolved
 Iowa Practice: Criminal Law and Procedure § 426,iowa practice: criminal law and procedure § 426,Statute,state_statute,IA,3,3,2,1980,2014,false,unresolved
@@ -3538,7 +3531,6 @@ M.S.A. § 541.023,m.s.a. § 541.023,Statute,state_statute,IA,3,3,2,1975,1987,tru
 N.M.Stat.Ann. § 66-8-101,n.m.stat.ann. § 66-8-101,Statute,state_statute,IA,3,2,1,1980,1980,true,exact
 P. I.C.A. 1994-1998,p. i.c.a. 1994-1998,Statute,state_statute,IA,3,1,1,1998,1998,false,unresolved
 Penal Law ch. VII § 6,penal law ch. vii § 6,Statute,state_statute,IA,3,3,1,2014,2014,false,unresolved
-S.F. 384 § 2,s.f. 384 § 2,Statute,state_statute,IA,3,3,1,2007,2007,false,unresolved
 Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false,unresolved
 1 Iowa Code § 306.22,1 iowa code § 306.22,Statute,state_statute,IA,2,2,1,2017,2017,false,unresolved
 1 Iowa Code § 600A,1 iowa code § 600a,Statute,state_statute,IA,2,1,1,2012,2012,false,unresolved
@@ -3550,7 +3542,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 1 U.L.A. Uniform Commercial Code § 2-315,1 u.l.a. uniform commercial code § 2-315,Statute,state_statute,IA,2,2,1,1981,1981,false,unresolved
 10 Iowa Code § 232.102,10 iowa code § 232.102,Statute,state_statute,IA,2,2,1,2016,2017,false,unresolved
 10 Iowa Code § 728.12,10 iowa code § 728.12,Statute,state_statute,IA,2,2,1,2017,2026,false,unresolved
-"100 Iowa L. Rev. 93, 110 (2014). Idaho Code § 19-5304","100 iowa l. rev. 93, 110 (2014). idaho code § 19-5304",Statute,state_statute,IA,2,2,1,2020,2020,false,unresolved
 11 Iowa Code Ann. § 218.1,11 iowa code ann. § 218.1,Statute,state_statute,IA,2,2,1,1965,1965,false,unresolved
 11 Iowa Code § 4.12.7,11 iowa code § 4.12.7,Statute,state_statute,IA,2,2,1,2016,2016,false,unresolved
 11 Iowa Code § 49.41,11 iowa code § 49.41,Statute,state_statute,IA,2,2,1,2022,2022,false,unresolved
@@ -3560,7 +3551,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 13 B. Iowa Code § 135.40,13 b. iowa code § 135.40,Statute,state_statute,IA,2,2,1,2017,2017,false,unresolved
 13 Iowa Code § 232.116,13 iowa code § 232.116,Statute,state_statute,IA,2,2,1,2020,2022,false,unresolved
 13 Iowa Practice: Probate § 13:111,13 iowa practice: probate § 13:111,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
-131-32 (Iowa 1983). Mich. Comp. Laws Ann. § 750.110,131-32 (iowa 1983). mich. comp. laws ann. § 750.110,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
 137 (Iowa) § 435,137 (iowa) § 435,Statute,state_statute,IA,2,2,1,1974,1974,false,unresolved
 14 Iowa Code § 22.10,14 iowa code § 22.10,Statute,state_statute,IA,2,2,1,2025,2025,false,unresolved
 14 Iowa Code § 560.1,14 iowa code § 560.1,Statute,state_statute,IA,2,2,1,2017,2017,false,unresolved
@@ -3573,14 +3563,12 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 19 Iowa Code § 229A,19 iowa code § 229a,Statute,state_statute,IA,2,2,1,2015,2015,false,unresolved
 191 Iowa Admin Code 14.6,191 iowa admin code 14.6,Statute,state_statute,IA,2,2,1,1999,1999,true,exact
 199 Iowa Adm. Code 38.1,199 iowa adm. code 38.1,Statute,state_statute,IA,2,2,1,2005,2005,false,unresolved
-2 C.J. 435 § 32,2 c.j. 435 § 32,Statute,state_statute,IA,2,2,2,1922,2003,false,unresolved
 "2 Code of Iowa 1946, c. 675 § 675.2","2 code of iowa 1946, c. 675 § 675.2",Statute,state_statute,IA,2,2,1,1950,1950,false,unresolved
 "2 Code of Iowa 1946, c. 675 § 675.21","2 code of iowa 1946, c. 675 § 675.21",Statute,state_statute,IA,2,2,1,1950,1950,false,unresolved
 "2 Code of Iowa 1946, c. 675 § 675.8","2 code of iowa 1946, c. 675 § 675.8",Statute,state_statute,IA,2,2,1,1950,1950,false,unresolved
 2 Iowa Code § 321.279,2 iowa code § 321.279,Statute,state_statute,IA,2,2,1,2011,2011,false,unresolved
 2 Iowa Code § 692A.103,2 iowa code § 692a.103,Statute,state_statute,IA,2,2,1,2017,2017,false,unresolved
 2 Iowa Code § 709.8,2 iowa code § 709.8,Statute,state_statute,IA,2,2,2,2005,2018,false,unresolved
-2 Iowa Practice § 34.03,2 iowa practice § 34.03,Statute,state_statute,IA,2,2,1,1975,1975,false,unresolved
 2-607 (Iowa Code § 554.2607,2-607 (iowa code § 554.2607,Statute,state_statute,IA,2,2,1,2006,2006,false,unresolved
 "200 Iowa 329, 204 N.W. 408 (1925). Cf. Kentucky Rev.Stat. § 381.216","200 iowa 329, 204 n.w. 408 (1925). cf. kentucky rev.stat. § 381.216",Statute,state_statute,IA,2,2,1,1989,1989,false,unresolved
 240 I.A.C. § 7,240 i.a.c. § 7,Statute,state_statute,IA,2,2,1,1983,1983,false,unresolved
@@ -3592,7 +3580,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 3 Iowa Code § 249A.44,3 iowa code § 249a.44,Statute,state_statute,IA,2,2,1,2015,2015,false,unresolved
 3 Iowa Code § 80F,3 iowa code § 80f,Statute,state_statute,IA,2,2,1,2025,2025,false,unresolved
 30 Iowa Code § 97B.49A,30 iowa code § 97b.49a,Statute,state_statute,IA,2,2,1,2006,2006,false,unresolved
-300-01 (1989). Iowa Code Ann. § 713.1,300-01 (1989). iowa code ann. § 713.1,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
 32 G.A. ch. 183 § 1,32 g.a. ch. 183 § 1,Statute,state_statute,IA,2,2,1,1973,1973,false,unresolved
 34 G.A. ch. 163 § 1,34 g.a. ch. 163 § 1,Statute,state_statute,IA,2,2,1,1971,1971,false,unresolved
 34 G.A. ch. 163 § 613.11,34 g.a. ch. 163 § 613.11,Statute,state_statute,IA,2,2,1,1971,1971,false,unresolved
@@ -3607,7 +3594,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 4 Iowa Code § 709.4,4 iowa code § 709.4,Statute,state_statute,IA,2,2,2,2011,2020,false,unresolved
 4 Iowa Code § 719.1,4 iowa code § 719.1,Statute,state_statute,IA,2,2,1,2004,2004,false,unresolved
 4 Iowa Code § 724.16A,4 iowa code § 724.16a,Statute,state_statute,IA,2,2,1,2005,2005,false,unresolved
-4 Iowa Practice § 102,4 iowa practice § 102,Statute,state_statute,IA,2,2,1,1982,1982,false,unresolved
 "4 Iowa Practice, Criminal Law & Procedure § 294","4 iowa practice, criminal law & procedure § 294",Statute,state_statute,IA,2,2,2,1995,2016,false,unresolved
 "4 Iowa Practice, Criminal Law and Procedure § 313","4 iowa practice, criminal law and procedure § 313",Statute,state_statute,IA,2,2,1,1980,1980,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 145,4 iowa practice: criminal law and procedure § 145,Statute,state_statute,IA,2,2,2,1980,2014,false,unresolved
@@ -3615,10 +3601,8 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 4 Iowa Practice: Criminal Law and Procedure § 1751,4 iowa practice: criminal law and procedure § 1751,Statute,state_statute,IA,2,2,1,1980,1980,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 178,4 iowa practice: criminal law and procedure § 178,Statute,state_statute,IA,2,2,1,1980,1980,false,unresolved
 419 (Iowa 1971) § 321B,419 (iowa 1971) § 321b,Statute,state_statute,IA,2,2,1,1980,1980,false,unresolved
-42 (Iowa 1994). Iowa Code § 708.1,42 (iowa 1994). iowa code § 708.1,Statute,state_statute,IA,2,2,1,2009,2009,false,unresolved
 42 Iowa Code § 2792,42 iowa code § 2792,Statute,state_statute,IA,2,2,1,2017,2017,false,unresolved
 "4234 (1919), I.C.A. § 49-3301","4234 (1919), i.c.a. § 49-3301",Statute,state_statute,IA,2,2,1,1983,1983,false,unresolved
-"43 C.J., Municipal Corporations § 23","43 c.j., municipal corporations § 23",Statute,state_statute,IA,2,2,2,1955,1957,false,unresolved
 44 Iowa L.Rev. 249. Utah Code Ann. § 78-27-20,44 iowa l.rev. 249. utah code ann. § 78-27-20,Statute,state_statute,IA,2,2,1,1965,1965,false,unresolved
 44 Law J.C. P. 217,44 law j.c. p. 217,Statute,state_statute,IA,2,2,2,1895,1896,false,unresolved
 452 (Iowa 1968) § 598.14,452 (iowa 1968) § 598.14,Statute,state_statute,IA,2,2,1,1982,1982,false,unresolved
@@ -3628,11 +3612,9 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 470 I.A.C. § 203,470 i.a.c. § 203,Statute,state_statute,IA,2,2,1,1979,1979,false,unresolved
 49 G.A. ch. 104 § 1,49 g.a. ch. 104 § 1,Statute,state_statute,IA,2,2,1,1978,1978,false,unresolved
 49 G.A. ch. 311 § 2,49 g.a. ch. 311 § 2,Statute,state_statute,IA,2,2,1,1971,1971,false,unresolved
-493 (8th Cir.1997). Iowa Code § 627.6,493 (8th cir.1997). iowa code § 627.6,Statute,state_statute,IA,2,2,1,2000,2000,false,unresolved
 5 Iowa Code § 232.117,5 iowa code § 232.117,Statute,state_statute,IA,2,2,1,2020,2022,false,unresolved
 5 Iowa Code § 669.4,5 iowa code § 669.4,Statute,state_statute,IA,2,2,1,2009,2009,false,unresolved
 5 Iowa Code § 85.34,5 iowa code § 85.34,Statute,state_statute,IA,2,2,1,2015,2015,false,unresolved
-50 C.J. 783 § 60,50 c.j. 783 § 60,Statute,state_statute,IA,2,2,2,1934,1942,false,unresolved
 500 I.A.C. § 4.2,500 i.a.c. § 4.2,Statute,state_statute,IA,2,2,1,1980,1980,false,unresolved
 500 I.A.C. § 4.27,500 i.a.c. § 4.27,Statute,state_statute,IA,2,2,1,1980,1980,false,unresolved
 500 I.A.C. § 4.35,500 i.a.c. § 4.35,Statute,state_statute,IA,2,1,1,1980,1980,false,unresolved
@@ -3641,7 +3623,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 55 Iowa Code Ann. § 739.10,55 iowa code ann. § 739.10,Statute,state_statute,IA,2,2,1,1965,1965,false,unresolved
 55 Iowa Code Ann. § 739.11,55 iowa code ann. § 739.11,Statute,state_statute,IA,2,2,1,1965,1965,false,unresolved
 55 Iowa Code Ann. § 741.1,55 iowa code ann. § 741.1,Statute,state_statute,IA,2,2,1,1965,1965,false,unresolved
-558 (Iowa 1988). Iowa Code § 85.18,558 (iowa 1988). iowa code § 85.18,Statute,state_statute,IA,2,2,1,1993,1993,false,unresolved
 56 Iowa Code Ann 598 § 28.1043-4,56 iowa code ann 598 § 28.1043-4,Statute,state_statute,IA,2,2,1,1957,1957,false,unresolved
 56 Iowa Code Ann 598 § 777.18,56 iowa code ann 598 § 777.18,Statute,state_statute,IA,2,2,1,1957,1957,false,unresolved
 56 Iowa Code Ann. § 759.1-.29,56 iowa code ann. § 759.1-.29,Statute,state_statute,IA,2,1,1,1975,1975,false,unresolved
@@ -3677,7 +3658,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 63 G.A. ch. 1180 § 1,63 g.a. ch. 1180 § 1,Statute,state_statute,IA,2,2,1,1971,1972,false,unresolved
 63 G.A. ch. 248 § 1,63 g.a. ch. 248 § 1,Statute,state_statute,IA,2,2,1,1976,1976,false,unresolved
 63 G.A. ch. 79 § 8,63 g.a. ch. 79 § 8,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-632 (1944). Iowa Code § 633.274,632 (1944). iowa code § 633.274,Statute,state_statute,IA,2,2,1,1985,1985,false,unresolved
 64 G.A. ch. 148 § 601,64 g.a. ch. 148 § 601,Statute,state_statute,IA,2,2,1,1972,1972,false,unresolved
 64 G.A. ch. 148 § 605,64 g.a. ch. 148 § 605,Statute,state_statute,IA,2,2,1,1972,1972,false,unresolved
 "64 G.A., ch. 1088 § 199","64 g.a., ch. 1088 § 199",Statute,state_statute,IA,2,2,1,1981,1981,false,unresolved
@@ -3690,7 +3670,6 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 65 G.A. ch. 1263 § 5,65 g.a. ch. 1263 § 5,Statute,state_statute,IA,2,2,1,1978,1978,false,unresolved
 65 G.A. ch. 208 § 1,65 g.a. ch. 208 § 1,Statute,state_statute,IA,2,1,1,1978,1978,false,unresolved
 65 G.A. ch. 9 § 1,65 g.a. ch. 9 § 1,Statute,state_statute,IA,2,2,1,1975,1975,false,unresolved
-658 (Iowa 1974). K.S.A. 59-1504,658 (iowa 1974). k.s.a. 59-1504,Statute,state_statute,IA,2,2,1,1984,1984,false,unresolved
 "66 G.A. Ch. 1245, Ch. 4 § 526","66 g.a. ch. 1245, ch. 4 § 526",Statute,state_statute,IA,2,2,1,1978,1978,false,unresolved
 66 G.A. ch. 1227 § 4,66 g.a. ch. 1227 § 4,Statute,state_statute,IA,2,2,1,1978,1978,false,unresolved
 "66 G.A. ch. 1245, ch. 3 § 604","66 g.a. ch. 1245, ch. 3 § 604",Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
@@ -3700,14 +3679,11 @@ Title III § 320,title iii § 320,Statute,state_statute,IA,3,3,2,2014,2025,false
 660 I.A.C. § 7.5,660 i.a.c. § 7.5,Statute,state_statute,IA,2,2,1,1979,1979,false,unresolved
 "67 G.A., ch. 1 § 26","67 g.a., ch. 1 § 26",Statute,state_statute,IA,2,2,1,1979,1979,false,unresolved
 672 (Iowa 1977) (Art. 1 § 7,672 (iowa 1977) (art. 1 § 7,Statute,state_statute,IA,2,2,1,1978,1978,false,unresolved
-68 C.J. 767 § 438,68 c.j. 767 § 438,Statute,state_statute,IA,2,2,1,1969,1969,false,unresolved
 "69 G.A., Ch. 117 § 1097","69 g.a., ch. 117 § 1097",Statute,state_statute,IA,2,1,1,1982,1982,false,unresolved
 7 Iowa Code § 123.92,7 iowa code § 123.92,Statute,state_statute,IA,2,2,1,2015,2015,false,unresolved
 7 Iowa Code § 232.104,7 iowa code § 232.104,Statute,state_statute,IA,2,2,1,2014,2022,false,unresolved
 7 Iowa Code § 476.27,7 iowa code § 476.27,Statute,state_statute,IA,2,2,1,2014,2014,false,unresolved
 7 Iowa Code § 907.5,7 iowa code § 907.5,Statute,state_statute,IA,2,2,1,2015,2015,false,unresolved
-7 Iowa Practice § 613.2,7 iowa practice § 613.2,Statute,state_statute,IA,2,1,1,2001,2001,false,unresolved
-7 Iowa Practice § 702.3,7 iowa practice § 702.3,Statute,state_statute,IA,2,1,1,2001,2001,false,unresolved
 7 Iowa Practice: Evidence § 5.703:1,7 iowa practice: evidence § 5.703:1,Statute,state_statute,IA,2,2,1,2010,2010,false,unresolved
 72-323 (I.C.A. § 43-1123,72-323 (i.c.a. § 43-1123,Statute,state_statute,IA,2,1,1,1967,1967,false,unresolved
 756 (Iowa 1995) § 544,756 (iowa 1995) § 544,Statute,state_statute,IA,2,2,1,2005,2005,false,unresolved
@@ -3781,12 +3757,7 @@ G.A. § 1,g.a. § 1,Statute,state_statute,IA,2,2,2,1985,1987,false,unresolved
 "G.A., ch. 376 § 1","g.a., ch. 376 § 1",Statute,state_statute,IA,2,2,1,1981,1981,false,unresolved
 "G.A., ch. 449 § 1","g.a., ch. 449 § 1",Statute,state_statute,IA,2,2,1,1981,1981,false,unresolved
 "G.A., ch. 90 § 14","g.a., ch. 90 § 14",Statute,state_statute,IA,2,1,1,1981,1981,false,unresolved
-H.F. 151 § 2,h.f. 151 § 2,Statute,state_statute,IA,2,2,1,2013,2013,false,unresolved
-H.F. 2066 § 5,h.f. 2066 § 5,Statute,state_statute,IA,2,2,1,1986,1986,false,unresolved
-H.F. 226 § 1,h.f. 226 § 1,Statute,state_statute,IA,2,2,1,2014,2014,false,unresolved
 H.F. 261-a § 120,h.f. 261-a § 120,Statute,state_statute,IA,2,2,1,1973,1973,false,unresolved
-H.F. 774 § 19,h.f. 774 § 19,Statute,state_statute,IA,2,1,1,1991,1991,false,unresolved
-I. Iowa Code § 66.1A,i. iowa code § 66.1a,Statute,state_statute,IA,2,2,1,2018,2018,false,unresolved
 I. Iowa Code § 79.29,i. iowa code § 79.29,Statute,state_statute,IA,2,2,1,1989,1989,false,unresolved
 I.A.C. 16.133,i.a.c. 16.133,Statute,state_statute,IA,2,1,1,1982,1982,false,unresolved
 I.A.C. 370,i.a.c. 370,Statute,state_statute,IA,2,2,1,1988,1988,false,unresolved
@@ -3897,16 +3868,13 @@ IDOR. Iowa Code § 17A.19,idor. iowa code § 17a.19,Statute,state_statute,IA,2,2
 IDR 920-21 § 22.33,idr 920-21 § 22.33,Statute,state_statute,IA,2,1,1,1983,1983,false,unresolved
 IIHBRA. Iowa Code § 513C.10,iihbra. iowa code § 513c.10,Statute,state_statute,IA,2,2,1,2023,2023,false,unresolved
 III. Discussion. A. Iowa Code § 318.3,iii. discussion. a. iowa code § 318.3,Statute,state_statute,IA,2,2,1,2009,2009,false,unresolved
-III. Iowa Code § 804.20,iii. iowa code § 804.20,Statute,state_statute,IA,2,2,2,2011,2026,false,unresolved
 IOWA Iowa Code § 204.401,iowa iowa code § 204.401,Statute,state_statute,IA,2,2,1,1989,1989,false,unresolved
 IPMC § 101.3,ipmc § 101.3,Statute,state_statute,IA,2,2,2,2014,2023,false,unresolved
 "IRGC, Iowa Code § 99F","irgc, iowa code § 99f",Statute,state_statute,IA,2,1,1,2016,2016,false,unresolved
 ITCA. Iowa Code § 669.2,itca. iowa code § 669.2,Statute,state_statute,IA,2,1,1,2011,2011,false,unresolved
 IUB. Iowa Code § 478.1,iub. iowa code § 478.1,Statute,state_statute,IA,2,2,1,2023,2023,false,unresolved
 IV. Iowa Code § 17A,iv. iowa code § 17a,Statute,state_statute,IA,2,2,1,2006,2006,false,unresolved
-IV. Iowa Code § 804.20,iv. iowa code § 804.20,Statute,state_statute,IA,2,2,1,2005,2005,false,unresolved
 "Iowa (1857), Art. I § 7","iowa (1857), art. i § 7",Statute,state_statute,IA,2,2,1,1952,1952,false,unresolved
-Iowa (1995). Iowa Code § 362.1,iowa (1995). iowa code § 362.1,Statute,state_statute,IA,2,2,1,1995,1995,false,unresolved
 Iowa (Chapter 390 § 8485-b,iowa (chapter 390 § 8485-b,Statute,state_statute,IA,2,2,2,1957,1957,false,unresolved
 Iowa (I.C.A. § 715A,iowa (i.c.a. § 715a,Statute,state_statute,IA,2,2,1,2005,2005,false,unresolved
 Iowa (IOWA CODE ANN. § 554.3106,iowa (iowa code ann. § 554.3106,Statute,state_statute,IA,2,2,1,1992,1992,false,unresolved
@@ -4177,9 +4145,12 @@ Iowa Code Ann. § 602.4202,iowa code ann. § 602.4202,Statute,state_statute,IA,2
 Iowa Code Ann. § 602.50,iowa code ann. § 602.50,Statute,state_statute,IA,2,2,1,1976,1976,false,unresolved
 Iowa Code Ann. § 610.18,iowa code ann. § 610.18,Statute,state_statute,IA,2,2,1,1982,1982,false,unresolved
 Iowa Code Ann. § 610.24,iowa code ann. § 610.24,Statute,state_statute,IA,2,2,1,1982,1982,false,unresolved
+Iowa Code Ann. § 611.20,iowa code ann. § 611.20,Statute,state_statute,IA,2,1,1,1975,1983,true,exact
 Iowa Code Ann. § 613.18,iowa code ann. § 613.18,Statute,state_statute,IA,2,2,2,2010,2018,true,exact
 Iowa Code Ann. § 614,iowa code ann. § 614,Statute,state_statute,IA,2,2,1,1973,1973,false,unresolved
 Iowa Code Ann. § 614.2,iowa code ann. § 614.2,Statute,state_statute,IA,2,1,1,2021,2021,true,exact
+Iowa Code Ann. § 631.1,iowa code ann. § 631.1,Statute,state_statute,IA,2,1,1,2004,2004,true,exact
+Iowa Code Ann. § 631.8,iowa code ann. § 631.8,Statute,state_statute,IA,2,1,1,2004,2004,true,exact
 Iowa Code Ann. § 633-336,iowa code ann. § 633-336,Statute,state_statute,IA,2,2,1,1983,1983,false,unresolved
 Iowa Code Ann. § 633.10,iowa code ann. § 633.10,Statute,state_statute,IA,2,2,1,1988,1988,true,exact
 Iowa Code Ann. § 633.279,iowa code ann. § 633.279,Statute,state_statute,IA,2,2,1,1987,1987,true,exact
@@ -4518,7 +4489,7 @@ Iowa Code § 234.35,iowa code § 234.35,Statute,state_statute,IA,2,2,1,2013,2013
 Iowa Code § 235A.13,iowa code § 235a.13,Statute,state_statute,IA,2,1,1,2012,2012,true,exact
 Iowa Code § 235A.14-.18,iowa code § 235a.14-.18,Statute,state_statute,IA,2,2,1,1985,1985,false,unresolved
 Iowa Code § 235B.10,iowa code § 235b.10,Statute,state_statute,IA,2,2,1,2008,2008,true,exact
-Iowa Code § 235F.l,iowa code § 235f.l,Statute,state_statute,IA,2,2,1,2017,2017,false,unresolved
+Iowa Code § 235F.1,iowa code § 235f.1,Statute,state_statute,IA,2,2,1,2017,2017,true,exact
 Iowa Code § 236.1,iowa code § 236.1,Statute,state_statute,IA,2,2,1,2019,2020,true,exact
 Iowa Code § 236.14,iowa code § 236.14,Statute,state_statute,IA,2,1,1,1995,1995,true,exact
 Iowa Code § 236.18,iowa code § 236.18,Statute,state_statute,IA,2,2,1,2025,2025,true,exact
@@ -4542,6 +4513,7 @@ Iowa Code § 252.24,iowa code § 252.24,Statute,state_statute,IA,2,2,1,1989,1996
 Iowa Code § 252A.10,iowa code § 252a.10,Statute,state_statute,IA,2,1,1,1993,1993,true,exact
 Iowa Code § 252A.18,iowa code § 252a.18,Statute,state_statute,IA,2,2,2,1992,2019,true,exact
 Iowa Code § 252B.12,iowa code § 252b.12,Statute,state_statute,IA,2,2,1,1989,1998,true,exact
+Iowa Code § 252D.11,iowa code § 252d.11,Statute,state_statute,IA,2,1,1,1994,1994,true,exact
 Iowa Code § 255.1-255.30,iowa code § 255.1-255.30,Statute,state_statute,IA,2,2,1,1989,1989,false,unresolved
 Iowa Code § 256.-11,iowa code § 256.-11,Statute,state_statute,IA,2,1,1,1992,1992,true,exact
 Iowa Code § 256.1,iowa code § 256.1,Statute,state_statute,IA,2,1,1,2021,2021,true,exact
@@ -4992,9 +4964,9 @@ Iowa Code § 504.853,iowa code § 504.853,Statute,state_statute,IA,2,1,1,2019,20
 Iowa Code § 504A.17,iowa code § 504a.17,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
 Iowa Code § 504A.26,iowa code § 504a.26,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
 Iowa Code § 507.14,iowa code § 507.14,Statute,state_statute,IA,2,2,1,2011,2011,true,exact
+Iowa Code § 507C.1,iowa code § 507c.1,Statute,state_statute,IA,2,2,2,1990,1997,true,exact
 Iowa Code § 507C.16-.18,iowa code § 507c.16-.18,Statute,state_statute,IA,2,2,1,1989,1989,false,unresolved
 Iowa Code § 507C.24,iowa code § 507c.24,Statute,state_statute,IA,2,2,2,1990,1990,true,exact
-Iowa Code § 507C.l,iowa code § 507c.l,Statute,state_statute,IA,2,2,2,1990,1997,false,unresolved
 Iowa Code § 508.28,iowa code § 508.28,Statute,state_statute,IA,2,2,1,1956,2002,true,exact
 Iowa Code § 508.31,iowa code § 508.31,Statute,state_statute,IA,2,2,1,1993,1993,true,exact
 Iowa Code § 508B2,iowa code § 508b2,Statute,state_statute,IA,2,2,1,2002,2002,false,unresolved
@@ -5062,10 +5034,10 @@ Iowa Code § 554-2201,iowa code § 554-2201,Statute,state_statute,IA,2,2,1,1986,
 Iowa Code § 554.-2313,iowa code § 554.-2313,Statute,state_statute,IA,2,1,1,1976,1976,true,exact
 Iowa Code § 554.-2705,iowa code § 554.-2705,Statute,state_statute,IA,2,1,1,1983,1983,true,exact
 Iowa Code § 554.-9312,iowa code § 554.-9312,Statute,state_statute,IA,2,2,1,1987,1994,true,exact
+Iowa Code § 554.11109,iowa code § 554.11109,Statute,state_statute,IA,2,1,1,1988,1990,true,exact
 Iowa Code § 554.1202,iowa code § 554.1202,Statute,state_statute,IA,2,1,1,2011,2011,true,exact
 Iowa Code § 554.1208,iowa code § 554.1208,Statute,state_statute,IA,2,2,2,1992,2001,false,unresolved
 Iowa Code § 554.13509,iowa code § 554.13509,Statute,state_statute,IA,2,2,2,2003,2021,true,exact
-Iowa Code § 554.13529,iowa code § 554.13529,Statute,state_statute,IA,2,2,2,1998,2001,true,exact
 Iowa Code § 554.2103,iowa code § 554.2103,Statute,state_statute,IA,2,2,1,1987,2018,true,exact
 Iowa Code § 554.2208,iowa code § 554.2208,Statute,state_statute,IA,2,1,1,1981,1981,true,exact
 Iowa Code § 554.2301,iowa code § 554.2301,Statute,state_statute,IA,2,2,2,1980,2018,true,exact
@@ -5083,10 +5055,10 @@ Iowa Code § 554.3404,iowa code § 554.3404,Statute,state_statute,IA,2,2,1,1988,
 Iowa Code § 554.3409,iowa code § 554.3409,Statute,state_statute,IA,2,2,1,1989,1989,true,exact
 Iowa Code § 554.3601,iowa code § 554.3601,Statute,state_statute,IA,2,1,1,1985,1985,true,exact
 Iowa Code § 554.4111,iowa code § 554.4111,Statute,state_statute,IA,2,2,2,2020,2023,true,exact
+Iowa Code § 554.4201,iowa code § 554.4201,Statute,state_statute,IA,2,1,1,1990,1990,true,exact
 Iowa Code § 554.4406,iowa code § 554.4406,Statute,state_statute,IA,2,2,1,1992,1999,true,exact
 Iowa Code § 554.8106,iowa code § 554.8106,Statute,state_statute,IA,2,2,1,2008,2008,true,exact
 Iowa Code § 554.8207,iowa code § 554.8207,Statute,state_statute,IA,2,2,1,2021,2021,true,exact
-Iowa Code § 554.8315,iowa code § 554.8315,Statute,state_statute,IA,2,2,1,1982,1992,true,exact
 Iowa Code § 554.9101-554.9507,iowa code § 554.9101-554.9507,Statute,state_statute,IA,2,2,1,2002,2002,false,unresolved
 Iowa Code § 554.9112,iowa code § 554.9112,Statute,state_statute,IA,2,1,1,1981,1981,true,exact
 Iowa Code § 554.9202,iowa code § 554.9202,Statute,state_statute,IA,2,2,2,1988,2009,true,exact
@@ -5112,7 +5084,7 @@ Iowa Code § 556F.11,iowa code § 556f.11,Statute,state_statute,IA,2,2,1,1995,19
 Iowa Code § 557.15,iowa code § 557.15,Statute,state_statute,IA,2,2,2,1997,2017,true,exact
 Iowa Code § 558.44,iowa code § 558.44,Statute,state_statute,IA,2,1,1,1988,1988,true,exact
 Iowa Code § 558.5,iowa code § 558.5,Statute,state_statute,IA,2,2,2,1998,2002,true,exact
-Iowa Code § 558A.l,iowa code § 558a.l,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
+Iowa Code § 558A.1,iowa code § 558a.1,Statute,state_statute,IA,2,2,1,2007,2007,true,exact
 Iowa Code § 56.11,iowa code § 56.11,Statute,state_statute,IA,2,2,1,1983,1983,false,unresolved
 Iowa Code § 56.5A,iowa code § 56.5a,Statute,state_statute,IA,2,2,1,2003,2003,false,unresolved
 Iowa Code § 560.20,iowa code § 560.20,Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
@@ -5199,7 +5171,6 @@ Iowa Code § 611.10,iowa code § 611.10,Statute,state_statute,IA,2,2,2,2017,2017
 Iowa Code § 611.12,iowa code § 611.12,Statute,state_statute,IA,2,2,2,1998,2017,true,exact
 Iowa Code § 611.13,iowa code § 611.13,Statute,state_statute,IA,2,2,1,1994,1994,true,exact
 Iowa Code § 611.19,iowa code § 611.19,Statute,state_statute,IA,2,2,2,2011,2020,true,exact
-Iowa Code § 611.21,iowa code § 611.21,Statute,state_statute,IA,2,2,1,2014,2014,true,exact
 Iowa Code § 611.4,iowa code § 611.4,Statute,state_statute,IA,2,2,1,1990,1990,true,exact
 Iowa Code § 613,iowa code § 613,Statute,state_statute,IA,2,2,1,2017,2018,false,unresolved
 Iowa Code § 613.11,iowa code § 613.11,Statute,state_statute,IA,2,1,1,2009,2009,true,exact
@@ -5216,7 +5187,7 @@ Iowa Code § 619.7,iowa code § 619.7,Statute,state_statute,IA,2,2,1,1983,1985,t
 Iowa Code § 62.18,iowa code § 62.18,Statute,state_statute,IA,2,2,1,1986,2002,true,exact
 Iowa Code § 622.31B.A,iowa code § 622.31b.a,Statute,state_statute,IA,2,2,1,2025,2025,false,unresolved
 Iowa Code § 622.36,iowa code § 622.36,Statute,state_statute,IA,2,2,1,2022,2022,true,exact
-Iowa Code § 622B.l,iowa code § 622b.l,Statute,state_statute,IA,2,1,1,1998,1998,false,unresolved
+Iowa Code § 622B.1,iowa code § 622b.1,Statute,state_statute,IA,2,1,1,1998,1998,true,exact
 Iowa Code § 623.11,iowa code § 623.11,Statute,state_statute,IA,2,1,1,1999,1999,false,unresolved
 Iowa Code § 624.2,iowa code § 624.2,Statute,state_statute,IA,2,2,1,1986,1988,true,exact
 Iowa Code § 624.20,iowa code § 624.20,Statute,state_statute,IA,2,2,1,1987,1987,true,exact
@@ -5254,6 +5225,7 @@ Iowa Code § 633.220A,iowa code § 633.220a,Statute,state_statute,IA,2,2,2,2011,
 Iowa Code § 633.227,iowa code § 633.227,Statute,state_statute,IA,2,1,1,2005,2005,true,exact
 Iowa Code § 633.240,iowa code § 633.240,Statute,state_statute,IA,2,2,1,2002,2002,true,exact
 Iowa Code § 633.271,iowa code § 633.271,Statute,state_statute,IA,2,1,1,2018,2018,true,exact
+Iowa Code § 633.274,iowa code § 633.274,Statute,state_statute,IA,2,2,1,1985,1985,true,exact
 Iowa Code § 633.280,iowa code § 633.280,Statute,state_statute,IA,2,2,1,1985,2024,true,exact
 Iowa Code § 633.282,iowa code § 633.282,Statute,state_statute,IA,2,1,1,1988,1988,true,exact
 Iowa Code § 633.290,iowa code § 633.290,Statute,state_statute,IA,2,2,2,2021,2025,true,exact
@@ -5342,7 +5314,7 @@ Iowa Code § 66.4,iowa code § 66.4,Statute,state_statute,IA,2,2,1,2021,2021,tru
 Iowa Code § 661.15,iowa code § 661.15,Statute,state_statute,IA,2,2,1,2019,2019,true,exact
 Iowa Code § 661.8,iowa code § 661.8,Statute,state_statute,IA,2,2,1,1997,2024,true,exact
 Iowa Code § 663.44,iowa code § 663.44,Statute,state_statute,IA,2,1,1,1982,1982,true,exact
-Iowa Code § 663A.l,iowa code § 663a.l,Statute,state_statute,IA,2,1,1,2007,2007,false,unresolved
+Iowa Code § 663A.1,iowa code § 663a.1,Statute,state_statute,IA,2,1,1,2007,2007,true,exact
 Iowa Code § 664,iowa code § 664,Statute,state_statute,IA,2,1,1,2020,2020,false,unresolved
 Iowa Code § 668.1-.15,iowa code § 668.1-.15,Statute,state_statute,IA,2,2,1,1994,1994,true,multiple
 Iowa Code § 669.18,iowa code § 669.18,Statute,state_statute,IA,2,1,1,2015,2015,true,exact
@@ -5409,7 +5381,7 @@ Iowa Code § 714,iowa code § 714,Statute,state_statute,IA,2,2,1,2018,2021,false
 Iowa Code § 714.-2,iowa code § 714.-2,Statute,state_statute,IA,2,2,1,1992,1993,true,exact
 Iowa Code § 714.16B,iowa code § 714.16b,Statute,state_statute,IA,2,2,1,2015,2015,true,exact
 Iowa Code § 714.8-.14,iowa code § 714.8-.14,Statute,state_statute,IA,2,2,1,1985,1985,true,multiple
-Iowa Code § 714E.l,iowa code § 714e.l,Statute,state_statute,IA,2,1,1,2008,2008,false,unresolved
+Iowa Code § 714E.1,iowa code § 714e.1,Statute,state_statute,IA,2,1,1,2008,2008,true,exact
 Iowa Code § 715C,iowa code § 715c,Statute,state_statute,IA,2,2,2,2014,2019,false,unresolved
 Iowa Code § 715c,iowa code § 715c,Statute,state_statute,IA,2,1,1,2024,2024,false,unresolved
 Iowa Code § 716B,iowa code § 716b,Statute,state_statute,IA,2,1,1,1994,1994,false,unresolved
@@ -5419,7 +5391,7 @@ Iowa Code § 718.6.3,iowa code § 718.6.3,Statute,state_statute,IA,2,2,1,2001,20
 Iowa Code § 720,iowa code § 720,Statute,state_statute,IA,2,2,1,2006,2006,false,unresolved
 Iowa Code § 720.6,iowa code § 720.6,Statute,state_statute,IA,2,2,2,2001,2016,true,exact
 Iowa Code § 722.1,iowa code § 722.1,Statute,state_statute,IA,2,2,1,2012,2016,true,exact
-Iowa Code § 723A.l,iowa code § 723a.l,Statute,state_statute,IA,2,1,1,1994,1994,false,unresolved
+Iowa Code § 723A.1,iowa code § 723a.1,Statute,state_statute,IA,2,1,1,1994,1994,true,exact
 Iowa Code § 724.23,iowa code § 724.23,Statute,state_statute,IA,2,1,1,1994,1994,true,exact
 Iowa Code § 724.28,iowa code § 724.28,Statute,state_statute,IA,2,2,1,2024,2024,true,exact
 Iowa Code § 724.30.2,iowa code § 724.30.2,Statute,state_statute,IA,2,2,1,2005,2005,false,unresolved
@@ -5523,7 +5495,6 @@ Iowa Code § 8D.11,iowa code § 8d.11,Statute,state_statute,IA,2,2,1,2000,2002,t
 Iowa Code § 901A.1.2,iowa code § 901a.1.2,Statute,state_statute,IA,2,2,1,2009,2009,false,unresolved
 Iowa Code § 902.6,iowa code § 902.6,Statute,state_statute,IA,2,2,2,1984,1990,true,exact
 Iowa Code § 902.9.1,iowa code § 902.9.1,Statute,state_statute,IA,2,1,1,2014,2014,false,unresolved
-Iowa Code § 903.-l,iowa code § 903.-l,Statute,state_statute,IA,2,2,2,1991,1993,false,unresolved
 Iowa Code § 903.3,iowa code § 903.3,Statute,state_statute,IA,2,2,1,1985,1996,true,exact
 Iowa Code § 904.901,iowa code § 904.901,Statute,state_statute,IA,2,2,1,2015,2022,true,exact
 Iowa Code § 904.903,iowa code § 904.903,Statute,state_statute,IA,2,2,1,2009,2009,true,exact
@@ -5596,7 +5567,6 @@ Iowa Criminal Code. Cf. § 782.5,iowa criminal code. cf. § 782.5,Statute,state_
 Iowa Criminal Code. § 708.1,iowa criminal code. § 708.1,Statute,state_statute,IA,2,2,1,1980,1980,true,exact
 Iowa Criminal Law and Procedure § 330,iowa criminal law and procedure § 330,Statute,state_statute,IA,2,2,1,1985,1985,false,unresolved
 Iowa Criminal Law and Procedure § 515,iowa criminal law and procedure § 515,Statute,state_statute,IA,2,2,1,1985,1985,false,unresolved
-Iowa Criminal Procedure § 38.3,iowa criminal procedure § 38.3,Statute,state_statute,IA,2,2,1,2008,2014,false,unresolved
 Iowa Estates § 10.10,iowa estates § 10.10,Statute,state_statute,IA,2,2,1,1993,1993,true,exact
 Iowa Estates § 4.48,iowa estates § 4.48,Statute,state_statute,IA,2,2,1,1998,1998,false,unresolved
 Iowa Estates § 4.52,iowa estates § 4.52,Statute,state_statute,IA,2,2,2,1997,2004,false,unresolved
@@ -5622,29 +5592,7 @@ Iowa Mun. Code § 61.138,iowa mun. code § 61.138,Statute,state_statute,IA,2,2,1
 Iowa PERA § 20.12,iowa pera § 20.12,Statute,state_statute,IA,2,2,1,1979,1979,true,exact
 Iowa Practice (Evidence) § 102.1,iowa practice (evidence) § 102.1,Statute,state_statute,IA,2,2,1,2003,2003,false,unresolved
 Iowa Practice Criminal Law & Procedure § 365,iowa practice criminal law & procedure § 365,Statute,state_statute,IA,2,2,1,1981,1981,false,unresolved
-Iowa Practice § 105,iowa practice § 105,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-Iowa Practice § 13.39,iowa practice § 13.39,Statute,state_statute,IA,2,2,2,1992,1994,false,unresolved
-Iowa Practice § 13.45,iowa practice § 13.45,Statute,state_statute,IA,2,2,1,1985,1985,false,unresolved
-Iowa Practice § 13.51,iowa practice § 13.51,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-Iowa Practice § 139,iowa practice § 139,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-Iowa Practice § 142,iowa practice § 142,Statute,state_statute,IA,2,2,2,1982,1986,false,unresolved
-Iowa Practice § 15.03,iowa practice § 15.03,Statute,state_statute,IA,2,2,1,1984,1984,false,unresolved
-Iowa Practice § 1506,iowa practice § 1506,Statute,state_statute,IA,2,2,1,1982,2004,false,unresolved
 Iowa Practice § 15:3,iowa practice § 15:3,Statute,state_statute,IA,2,2,1,2015,2018,false,unresolved
-Iowa Practice § 1624,iowa practice § 1624,Statute,state_statute,IA,2,2,1,1983,1983,false,unresolved
-Iowa Practice § 18.01,iowa practice § 18.01,Statute,state_statute,IA,2,2,1,1976,1986,false,unresolved
-Iowa Practice § 21.09,iowa practice § 21.09,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-Iowa Practice § 210,iowa practice § 210,Statute,state_statute,IA,2,2,1,1981,1984,false,unresolved
-Iowa Practice § 22.09,iowa practice § 22.09,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-Iowa Practice § 253,iowa practice § 253,Statute,state_statute,IA,2,2,2,1981,2019,false,unresolved
-Iowa Practice § 47.02,iowa practice § 47.02,Statute,state_statute,IA,2,2,1,1981,1981,false,unresolved
-Iowa Practice § 5,iowa practice § 5,Statute,state_statute,IA,2,2,1,1986,1986,false,unresolved
-Iowa Practice § 59.09,iowa practice § 59.09,Statute,state_statute,IA,2,2,1,1976,1976,false,unresolved
-Iowa Practice § 7,iowa practice § 7,Statute,state_statute,IA,2,2,1,1981,1988,false,unresolved
-Iowa Practice § 8,iowa practice § 8,Statute,state_statute,IA,2,2,1,1983,1983,false,unresolved
-Iowa Practice § 8.04,iowa practice § 8.04,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
-Iowa Practice § 801.9,iowa practice § 801.9,Statute,state_statute,IA,2,2,2,1996,2014,false,unresolved
-Iowa Practice § 893,iowa practice § 893,Statute,state_statute,IA,2,2,1,1982,1982,false,unresolved
 "Iowa Practice, Criminal Law and Procedure § 144","iowa practice, criminal law and procedure § 144",Statute,state_statute,IA,2,2,1,1990,1990,false,unresolved
 "Iowa Practice, Criminal Procedure § 25:2","iowa practice, criminal procedure § 25:2",Statute,state_statute,IA,2,2,1,2007,2007,false,unresolved
 "Iowa Practice, Evidence § 407.2","iowa practice, evidence § 407.2",Statute,state_statute,IA,2,2,1,1992,1992,false,unresolved
@@ -5810,8 +5758,6 @@ QDRO. REA § 204,qdro. rea § 204,Statute,state_statute,IA,2,2,1,1995,1995,false
 R.L. 1905 § 797,r.l. 1905 § 797,Statute,state_statute,IA,2,2,2,1909,1945,false,unresolved
 R.R.S.1943 § 25-1125,r.r.s.1943 § 25-1125,Statute,state_statute,IA,2,2,1,1977,1977,false,unresolved
 RPP. Iowa Code § 229A.8A,rpp. iowa code § 229a.8a,Statute,state_statute,IA,2,2,1,2024,2024,false,unresolved
-S.F. 577 § 34,s.f. 577 § 34,Statute,state_statute,IA,2,2,1,1989,1990,false,unresolved
-S.F. 577 § 47,s.f. 577 § 47,Statute,state_statute,IA,2,2,1,1989,1990,false,unresolved
 "S.F. 85, ch. 3 § 106","s.f. 85, ch. 3 § 106",Statute,state_statute,IA,2,2,1,1975,1975,false,unresolved
 SVP. Iowa Code § 229A,svp. iowa code § 229a,Statute,state_statute,IA,2,1,1,2010,2010,false,unresolved
 TLA § 11-1303,tla § 11-1303,Statute,state_statute,IA,2,2,1,1991,1991,false,unresolved
@@ -5821,8 +5767,6 @@ UCC 2-610 (Iowa Code § 554.2610,ucc 2-610 (iowa code § 554.2610,Statute,state_
 UCC § 2.05,ucc § 2.05,Statute,state_statute,IA,2,2,1,1979,1979,false,unresolved
 "UCCJA, Iowa Code § 598A","uccja, iowa code § 598a",Statute,state_statute,IA,2,2,1,1991,1991,false,unresolved
 UVC § 11-1303,uvc § 11-1303,Statute,state_statute,IA,2,2,1,1991,1991,false,unresolved
-V. Iowa Code § 502.201,v. iowa code § 502.201,Statute,state_statute,IA,2,2,1,1985,1985,false,unresolved
-VI. Iowa Code § 622.10,vi. iowa code § 622.10,Statute,state_statute,IA,2,2,1,2015,2015,false,unresolved
 XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresolved
 1 Cf. Iowa Code § 321J,1 cf. iowa code § 321j,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 "1 Chapter 598, Code of Iowa, 1971. 2 MCLA 552.23","1 chapter 598, code of iowa, 1971. 2 mcla 552.23",Statute,state_statute,IA,1,1,1,1973,1973,false,unresolved
@@ -5830,9 +5774,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 1 East. P.C. ch. 5 § 36,1 east. p.c. ch. 5 § 36,Statute,state_statute,IA,1,1,1,1867,1867,false,unresolved
 1 East. P.C. ch. 5 § 40,1 east. p.c. ch. 5 § 40,Statute,state_statute,IA,1,1,1,1867,1867,false,unresolved
 1 East. P.C. ch. 5 § 8,1 east. p.c. ch. 5 § 8,Statute,state_statute,IA,1,1,1,1867,1867,false,unresolved
-"1 Hawk. P.C., ch. 28 § 23","1 hawk. p.c., ch. 28 § 23",Statute,state_statute,IA,1,1,1,1866,1866,false,unresolved
-"1 Hawk. P.C., ch. 70 § 2","1 hawk. p.c., ch. 70 § 2",Statute,state_statute,IA,1,1,1,1869,1869,false,unresolved
-"1 Hawk. P.C., ch. 73 § 8","1 hawk. p.c., ch. 73 § 8",Statute,state_statute,IA,1,1,1,1873,1873,false,unresolved
 1 Iowa Code 701.9,1 iowa code 701.9,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
 1 Iowa Code Ann. (Cum. Supp. 1960) § 606.15,1 iowa code ann. (cum. supp. 1960) § 606.15,Statute,state_statute,IA,1,1,1,1961,1961,false,unresolved
 1 Iowa Code Ann. § 204.401,1 iowa code ann. § 204.401,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
@@ -5864,7 +5805,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 1 Iowa Code § 793.6,1 iowa code § 793.6,Statute,state_statute,IA,1,1,1,1967,1967,false,unresolved
 1 Iowa Code § 85.36,1 iowa code § 85.36,Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
 1 Iowa Code § 902.9,1 iowa code § 902.9,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
-1 Iowa Practice § 19.01,1 iowa practice § 19.01,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 "1 Iowa: Code Supp., 1913 § 4999-a20","1 iowa: code supp., 1913 § 4999-a20",Statute,state_statute,IA,1,1,1,1916,1916,false,unresolved
 1 R.S. 13 § 62,1 r.s. 13 § 62,Statute,state_statute,IA,1,1,1,1870,1870,false,unresolved
 1 U.S. Dig. Supplt. 482 § 165,1 u.s. dig. supplt. 482 § 165,Statute,state_statute,IA,1,1,1,1851,1851,false,unresolved
@@ -5887,7 +5827,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 10 Iowa Code § 907.6,10 iowa code § 907.6,Statute,state_statute,IA,1,1,1,2006,2006,false,unresolved
 "10 Iowa, 540. Code § 1244","10 iowa, 540. code § 1244",Statute,state_statute,IA,1,1,1,1875,1875,false,unresolved
 "102 Iowa 639, 72 N.W. 288. Rem. Rev. Stat. § 205","102 iowa 639, 72 n.w. 288. rem. rev. stat. § 205",Statute,state_statute,IA,1,1,1,1937,1937,false,unresolved
-1029-30 (8th Cir.1983)). Iowa Code § 554.9331,1029-30 (8th cir.1983)). iowa code § 554.9331,Statute,state_statute,IA,1,1,1,2003,2003,false,unresolved
 "104 Iowa, 431 § 319b","104 iowa, 431 § 319b",Statute,state_statute,IA,1,1,1,1915,1915,false,unresolved
 "104 U.S. 505, 26 L.Ed. 866. Iowa Code § 9519","104 u.s. 505, 26 l.ed. 866. iowa code § 9519",Statute,state_statute,IA,1,1,1,1938,1938,false,unresolved
 105 Iowa Code § 668A,105 iowa code § 668a,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
@@ -5944,7 +5883,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 13 U.S. Dig. 383 § 23,13 u.s. dig. 383 § 23,Statute,state_statute,IA,1,1,1,1855,1855,false,unresolved
 13 U.S. Dig. 383 § 26,13 u.s. dig. 383 § 26,Statute,state_statute,IA,1,1,1,1855,1855,false,unresolved
 130 Iowa 478. Code § 4601,130 iowa 478. code § 4601,Statute,state_statute,IA,1,1,1,1924,1924,false,unresolved
-1385 (8th Cir.1983)). Iowa Code § 535.3,1385 (8th cir.1983)). iowa code § 535.3,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 14 Iowa Code § 17A.19,14 iowa code § 17a.19,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 14 Iowa Code § 21.4,14 iowa code § 21.4,Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
 14 Iowa Code § 321.11,14 iowa code § 321.11,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
@@ -5955,10 +5893,8 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 140 I.A.C. § 2.12,140 i.a.c. § 2.12,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 140 I.A.C. § 2.4,140 i.a.c. § 2.4,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 140-41 (8th Cir. 1992). 5 Iowa Code § 709.8,140-41 (8th cir. 1992). 5 iowa code § 709.8,Statute,state_statute,IA,1,1,1,1993,1993,false,unresolved
-1413 (8th Cir.1991). Iowa Code § 572.18,1413 (8th cir.1991). iowa code § 572.18,Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
 143 Iowa 359. Code § 3461,143 iowa 359. code § 3461,Statute,state_statute,IA,1,1,1,1918,1918,false,unresolved
 1435 (1960)). Iowa Code § 692A.2A,1435 (1960)). iowa code § 692a.2a,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
-1435 (8th Cir. 1991). Iowa Code § 535.3,1435 (8th cir. 1991). iowa code § 535.3,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
 15 II. Iowa Code § 496A.102,15 ii. iowa code § 496a.102,Statute,state_statute,IA,1,1,1,1992,1992,false,unresolved
 15 Iowa Code § 17A,15 iowa code § 17a,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 15 Iowa Code § 232.116,15 iowa code § 232.116,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
@@ -5970,8 +5906,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 15 Iowa Code § 724.16A,15 iowa code § 724.16a,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 15 Iowa Code § 91A,15 iowa code § 91a,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 "15 Iowa, 304. Article 8 § 1","15 iowa, 304. article 8 § 1",Statute,state_statute,IA,1,1,1,1936,1936,false,unresolved
-151 (Iowa 1977). Iowa Code § 572.2,151 (iowa 1977). iowa code § 572.2,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
-1533 (1962)). Iowa Code § 554.13529,1533 (1962)). iowa code § 554.13529,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
 "1557 (1873), Iowa Code § 129.2","1557 (1873), iowa code § 129.2",Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 "157 Iowa, 300, 135 N.W. 604, 22 C.J. § 791","157 iowa, 300, 135 n.w. 604, 22 c.j. § 791",Statute,state_statute,IA,1,1,1,1925,1925,false,unresolved
 "158 N.W. 655, 658 (Iowa 9 Iowa Code § 327G.77","158 n.w. 655, 658 (iowa 9 iowa code § 327g.77",Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
@@ -5995,7 +5929,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 18 Iowa Code § 535.11,18 iowa code § 535.11,Statute,state_statute,IA,1,1,1,2025,2025,false,unresolved
 18 Iowa Code § 724.16A,18 iowa code § 724.16a,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 18 U.f I.C.A. § 3185,18 u.f i.c.a. § 3185,Statute,state_statute,IA,1,1,1,1971,1971,false,unresolved
-182 (Iowa 1985). II. Iowa Code § 85.30,182 (iowa 1985). ii. iowa code § 85.30,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 185 (Iowa 1999) (Iowa Code 600B.41A,185 (iowa 1999) (iowa code 600b.41a,Statute,state_statute,IA,1,1,1,2026,2026,false,unresolved
 185 IAC § 10.12,185 iac § 10.12,Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
 "188 Iowa 757, 176 N.W. 811 (1920). Article I § 9","188 iowa 757, 176 n.w. 811 (1920). article i § 9",Statute,state_statute,IA,1,1,1,1973,1973,false,unresolved
@@ -6004,7 +5937,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 19 Iowa Code § 91A,19 iowa code § 91a,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
 190 Iowa 919. Code § 3151,190 iowa 919. code § 3151,Statute,state_statute,IA,1,1,1,1922,1922,false,unresolved
 195 Iowa 534. Code § 1441,195 iowa 534. code § 1441,Statute,state_statute,IA,1,1,1,1927,1927,false,unresolved
-199 (8th Cir.1987). Iowa Code § 554.11109,199 (8th cir.1987). iowa code § 554.11109,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 1C U.L.A. 566 (2004). 12 Iowa Code § 614.10,1c u.l.a. 566 (2004). 12 iowa code § 614.10,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
 "2 (N.S.), 737 § 33","2 (n.s.), 737 § 33",Statute,state_statute,IA,1,1,1,1864,1864,false,unresolved
 "2 Am. Law Reg., N.S., 717 § 2081","2 am. law reg., n.s., 717 § 2081",Statute,state_statute,IA,1,1,1,1865,1865,false,unresolved
@@ -6015,7 +5947,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "2 Code of Iowa, 1939 § 10428","2 code of iowa, 1939 § 10428",Statute,state_statute,IA,1,1,1,1942,1942,false,unresolved
 "2 Code of Iowa, 1939 § 10429","2 code of iowa, 1939 § 10429",Statute,state_statute,IA,1,1,1,1942,1942,false,unresolved
 "2 East. P.C., 16 § 94","2 east. p.c., 16 § 94",Statute,state_statute,IA,1,1,1,1865,1865,false,unresolved
-2 Hawk. P.C. 322-323 § 18-22,2 hawk. p.c. 322-323 § 18-22,Statute,state_statute,IA,1,1,1,1851,1851,false,unresolved
 2 Hawks. Pl. C.C. 23 § 77,2 hawks. pl. c.c. 23 § 77,Statute,state_statute,IA,1,1,1,1867,1867,false,unresolved
 2 I. Iowa Code § 124.401,2 i. iowa code § 124.401,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
 2 Iowa Code 85.27,2 iowa code 85.27,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
@@ -6083,10 +6014,8 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "202 Iowa, 498, 210 N.W. 559. Rev. Code 1919 § 8902","202 iowa, 498, 210 n.w. 559. rev. code 1919 § 8902",Statute,state_statute,IA,1,1,1,1930,1930,false,unresolved
 207 Iowa 744. Code § 12966,207 iowa 744. code § 12966,Statute,state_statute,IA,1,1,1,1932,1932,false,unresolved
 209 Iowa Code § 99F,209 iowa code § 99f,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
-"21 C.J., Estates § 80","21 c.j., estates § 80",Statute,state_statute,IA,1,1,1,1962,1962,false,unresolved
 21 Iowa Code Ann. § 229.1,21 iowa code ann. § 229.1,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
 21 Iowa Code § 904.702,21 iowa code § 904.702,Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
-213 (Iowa 1996). Iowa Code § 669.23,213 (iowa 1996). iowa code § 669.23,Statute,state_statute,IA,1,1,1,2009,2009,false,unresolved
 22 (Iowa Code Ann. § 598.1,22 (iowa code ann. § 598.1,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 22 Iowa Code § 613.18,22 iowa code § 613.18,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 "223 Iowa 274, 271 N.W. 614. Code § 11092","223 iowa 274, 271 n.w. 614. code § 11092",Statute,state_statute,IA,1,1,1,1937,1937,false,unresolved
@@ -6106,7 +6035,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 240 I.A.C. § 6.1,240 i.a.c. § 6.1,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 240 I.A.C. § 6.2,240 i.a.c. § 6.2,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 240 I.A.C. § 6.7,240 i.a.c. § 6.7,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-241 (1974)). Iowa Code § 673.2,241 (1974)). iowa code § 673.2,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
 "245 N.W. 2d 321 (Iowa 1976), Iowa Code Ann. § 691.2","245 n.w. 2d 321 (iowa 1976), iowa code ann. § 691.2",Statute,state_statute,IA,1,1,1,2009,2009,false,unresolved
 "245 N.W. 2d 321 (Iowa 1976), Iowa Code § 749A","245 n.w. 2d 321 (iowa 1976), iowa code § 749a",Statute,state_statute,IA,1,1,1,2009,2009,false,unresolved
 25 (1) Iowa Code § 321.457,25 (1) iowa code § 321.457,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
@@ -6118,12 +6046,9 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 251 (Iowa App.1984) § 414,251 (iowa app.1984) § 414,Statute,state_statute,IA,1,1,1,1992,1992,false,unresolved
 253 (Iowa 1995) (Iowa Code § 616.18,253 (iowa 1995) (iowa code § 616.18,Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
 "254 Iowa 1319, 121 N.W. 2d 361 (1963). 2-B N.H. Rev. Stat. Ann. § 281:12","254 iowa 1319, 121 n.w. 2d 361 (1963). 2-b n.h. rev. stat. ann. § 281:12",Statute,state_statute,IA,1,1,1,1969,1969,false,unresolved
-256 (Iowa 1975). Iowa Code § 554.1205,256 (iowa 1975). iowa code § 554.1205,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 258 (1978). 4 Iowa Code Ann. § 611.20,258 (1978). 4 iowa code ann. § 611.20,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
-258 (1978). Iowa Code Ann. § 611.20,258 (1978). iowa code ann. § 611.20,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 26 (2) Iowa Code § 321.457,26 (2) iowa code § 321.457,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
 26 Iowa Code § 906.3,26 iowa code § 906.3,Statute,state_statute,IA,1,1,1,2021,2021,false,unresolved
-260 (1988). Iowa Code § 535.3,260 (1988). iowa code § 535.3,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 267 (Iowa 1985) (Iowa Code § 279.25,267 (iowa 1985) (iowa code § 279.25,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
 267 (Iowa 1985) (Iowa Code § 279.27,267 (iowa 1985) (iowa code § 279.27,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
 27 (3) Iowa Code § 321.457,27 (3) iowa code § 321.457,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
@@ -6176,9 +6101,7 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 3 U.S. Dig. 393 § 26,3 u.s. dig. 393 § 26,Statute,state_statute,IA,1,1,1,1850,1850,false,unresolved
 30 Iowa Code § 216.17,30 iowa code § 216.17,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 30 Iowa Code § 232.102,30 iowa code § 232.102,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
-307 (Iowa 1978). Iowa Code § 96.4,307 (iowa 1978). iowa code § 96.4,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 31A CJ.S. Evidence § 286,31a cj.s. evidence § 286,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
-321 (Iowa 1996). Iowa Code § 535.3,321 (iowa 1996). iowa code § 535.3,Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
 328 (Iowa 1977) § 187,328 (iowa 1977) § 187,Statute,state_statute,IA,1,1,1,2005,2005,false,unresolved
 33 C. Iowa Code § 548.113,33 c. iowa code § 548.113,Statute,state_statute,IA,1,1,1,2010,2010,false,unresolved
 3313 (1897). 8 Iowa Code § 3313,3313 (1897). 8 iowa code § 3313,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
@@ -6188,7 +6111,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 34 Iowa Code § 535.3,34 iowa code § 535.3,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
 34 Iowa Code § 668.13,34 iowa code § 668.13,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
 34 Nos. 20-1726 & 20-1727 A. Iowa Code § 535.4,34 nos. 20-1726 & 20-1727 a. iowa code § 535.4,Statute,state_statute,IA,1,1,1,2021,2021,false,unresolved
-341 (Iowa 1980). II. Iowa Code § 714.1,341 (iowa 1980). ii. iowa code § 714.1,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
 345 Iowa Adm. Code 4.25,345 iowa adm. code 4.25,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 35 I.C.A. § 554.2315,35 i.c.a. § 554.2315,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 35 Iowa Code § 554.2315,35 iowa code § 554.2315,Statute,state_statute,IA,1,1,1,2005,2005,false,unresolved
@@ -6252,7 +6174,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 4 Iowa Code § 714.1,4 iowa code § 714.1,Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
 4 Iowa Code § 718.6,4 iowa code § 718.6,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 4 Iowa Code § 719.7,4 iowa code § 719.7,Statute,state_statute,IA,1,1,1,2019,2019,false,unresolved
-4 Iowa Practice § 633,4 iowa practice § 633,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 "4 Iowa Practice, Criminal Law and Procedure § 173","4 iowa practice, criminal law and procedure § 173",Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 "4 Iowa Practice, Criminal Law § 12.6","4 iowa practice, criminal law § 12.6",Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 1051,4 iowa practice: criminal law and procedure § 1051,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
@@ -6261,7 +6182,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 4 Iowa Practice: Criminal Law and Procedure § 173-74,4 iowa practice: criminal law and procedure § 173-74,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 174,4 iowa practice: criminal law and procedure § 174,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 4 Iowa Practice: Criminal Law and Procedure § 818,4 iowa practice: criminal law and procedure § 818,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
-"4 Sw.U.L.Rev. 101, 102 (1972). Cf. I.R.C. § 152","4 sw.u.l.rev. 101, 102 (1972). cf. i.r.c. § 152",Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 "40 Ex. G.A., H.P. § 1","40 ex. g.a., h.p. § 1",Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
 40 Ex. G.A.H.F. 134 § 6,40 ex. g.a.h.f. 134 § 6,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
 40 Ex. G.A.H.F. 134 § 7,40 ex. g.a.h.f. 134 § 7,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
@@ -6270,7 +6190,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 40 G.A. ch. 269 § 2,40 g.a. ch. 269 § 2,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 "400 U.S. 25, 37 (1970). 3 Iowa Code § 714.1","400 u.s. 25, 37 (1970). 3 iowa code § 714.1",Statute,state_statute,IA,1,1,1,2019,2019,false,unresolved
 402 [I.C.A. § 512.1,402 [i.c.a. § 512.1,Statute,state_statute,IA,1,1,1,1960,1960,false,unresolved
-408 (Iowa 1988). A.R.S. § 14-5425,408 (iowa 1988). a.r.s. § 14-5425,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 41 G.A. ch. 176 § 4,41 g.a. ch. 176 § 4,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 41 G.A. ch. 81 § 1,41 g.a. ch. 81 § 1,Statute,state_statute,IA,1,1,1,1970,1970,false,unresolved
 41 G.A. ch. 81 § 23,41 g.a. ch. 81 § 23,Statute,state_statute,IA,1,1,1,1970,1970,false,unresolved
@@ -6278,27 +6197,20 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 41 Iowa Code Ann. § 3083,41 iowa code ann. § 3083,Statute,state_statute,IA,1,1,1,1965,1965,false,unresolved
 41 Iowa Code Ann. § 617.3,41 iowa code ann. § 617.3,Statute,state_statute,IA,1,1,1,1965,1965,false,unresolved
 "41 Iowa, 88. Code § 2202","41 iowa, 88. code § 2202",Statute,state_statute,IA,1,1,1,1878,1878,false,unresolved
-41-43 (Iowa 1982)). Iowa Code § 611.21,41-43 (iowa 1982)). iowa code § 611.21,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
-410 (1986). Iowa Code § 804.20,410 (1986). iowa code § 804.20,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 "42 Iowa 11. Section 4621, Mansf. Dig. (Ind. T. Ann. St. 1899 § 8021","42 iowa 11. section 4621, mansf. dig. (ind. t. ann. st. 1899 § 8021",Statute,state_statute,IA,1,1,1,1899,1899,false,unresolved
 42 Iowa 173 (1875). Code § 472.18,42 iowa 173 (1875). code § 472.18,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
 42 Iowa 173 (1875). Code § 472.19,42 iowa 173 (1875). code § 472.19,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
 42 U.S.G. § 9601,42 u.s.g. § 9601,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
 42 UjS.C. § 1981,42 ujs.c. § 1981,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
-420 (Iowa 1984). Iowa Code § 598.1,420 (iowa 1984). iowa code § 598.1,Statute,state_statute,IA,1,1,1,2019,2019,false,unresolved
-429-30 (Iowa 1979). II. Iowa Code § 96.5,429-30 (iowa 1979). ii. iowa code § 96.5,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 43 Iowa Code Ann. § 622.28,43 iowa code ann. § 622.28,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
-434 U.S. 429 (1978). Iowa Code § 321.457,434 u.s. 429 (1978). iowa code § 321.457,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 44 Iowa Code § 554.2316,44 iowa code § 554.2316,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 441 (same). 2. Iowa Code § 561.21,441 (same). 2. iowa code § 561.21,Statute,state_statute,IA,1,1,1,2005,2005,false,unresolved
 45 (Iowa 1972) (I.C.A. § 321.210,45 (iowa 1972) (i.c.a. § 321.210,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 45 Law J.C. P. 28,45 law j.c. p. 28,Statute,state_statute,IA,1,1,1,1889,1889,false,unresolved
-457 (Iowa 1984). Iowa Code § 522B.11,457 (iowa 1984). iowa code § 522b.11,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 "457 (Iowa, 1988). K.S.A. 38-806","457 (iowa, 1988). k.s.a. 38-806",Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
 459-60 (Iowa 1972) (I.C.A. § 789.6,459-60 (iowa 1972) (i.c.a. § 789.6,Statute,state_statute,IA,1,1,1,1993,1993,false,unresolved
 46 G.A. ch. 97 § 1-3,46 g.a. ch. 97 § 1-3,Statute,state_statute,IA,1,1,1,1970,1970,false,unresolved
 "46 G.A., Ex.Sess., ch. 4 § 11","46 g.a., ex.sess., ch. 4 § 11",Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
-462 (Iowa 1988). Iowa Code § 441.21,462 (iowa 1988). iowa code § 441.21,Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
 47 I.C.A. § 633.-442,47 i.c.a. § 633.-442,Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
 47 Iowa Code Ann. § 633.351,47 iowa code ann. § 633.351,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 470 I.A.C. § 12.-7,470 i.a.c. § 12.-7,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
@@ -6307,10 +6219,8 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "48 G.A., Ch. 87 § 27","48 g.a., ch. 87 § 27",Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 49 G.A. ch. 132 § 6,49 g.a. ch. 132 § 6,Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
 49 Iowa Code § 554.2202,49 iowa code § 554.2202,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
-493 (8th Cir. 1997). Iowa Code § 627.6,493 (8th cir. 1997). iowa code § 627.6,Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
 498 I.A.C. § 78.-4,498 i.a.c. § 78.-4,Statute,state_statute,IA,1,1,1,1985,1985,false,unresolved
 5 (Iowa 1978). 50 Iowa Code § 535.2,5 (iowa 1978). 50 iowa code § 535.2,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
-5 (Iowa 1978). Iowa Code § 535.2,5 (iowa 1978). iowa code § 535.2,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 5 (Iowa 1979). I. Iowa Code § 663A,5 (iowa 1979). i. iowa code § 663a,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 5 Cf. Iowa Code § 901.4A,5 cf. iowa code § 901.4a,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
 5 Cf. Iowa Code § 901.5,5 cf. iowa code § 901.5,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
@@ -6360,13 +6270,8 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 50-701 (I.C.A. § 49-701,50-701 (i.c.a. § 49-701,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
 500 I.A.C. § 4.29,500 i.a.c. § 4.29,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 51 G.A. ch. 79 § 1,51 g.a. ch. 79 § 1,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
-"51 Iowa L.Rev. 582, 2 A.L.P. § 6.1","51 iowa l.rev. 582, 2 a.l.p. § 6.1",Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
-"51 Iowa L.Rev. 582, 2 A.L.P. § 6.4","51 iowa l.rev. 582, 2 a.l.p. § 6.4",Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 52 G.A. Chapter 281 § 2,52 g.a. chapter 281 § 2,Statute,state_statute,IA,1,1,1,1953,1953,false,unresolved
 53 G.A. Ch. 116 § 8,53 g.a. ch. 116 § 8,Statute,state_statute,IA,1,1,1,1957,1957,false,unresolved
-534 (Iowa 1981). Iowa Code 714.1,534 (iowa 1981). iowa code 714.1,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
-"535 (Iowa App, 1982). MCL 600.6013","535 (iowa app, 1982). mcl 600.6013",Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
-"536 U.S. 403, 415 (2002). Iowa Code § 692A.128","536 u.s. 403, 415 (2002). iowa code § 692a.128",Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 54 G.A. ch. 133 § 2,54 g.a. ch. 133 § 2,Statute,state_statute,IA,1,1,1,1954,1954,false,unresolved
 54 Iowa Code Ann. § 702.1,54 iowa code ann. § 702.1,Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
 54 Iowa Code Ann. § 708.11,54 iowa code ann. § 708.11,Statute,state_statute,IA,1,1,1,1957,1957,false,unresolved
@@ -6374,7 +6279,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 55 G.A. ch. 114 § 18,55 g.a. ch. 114 § 18,Statute,state_statute,IA,1,1,1,1972,1972,false,unresolved
 "55 G.A., Ch. 117 § 35","55 g.a., ch. 117 § 35",Statute,state_statute,IA,1,1,1,1955,1955,false,unresolved
 55 I.C.A. § 726.5,55 i.c.a. § 726.5,Statute,state_statute,IA,1,1,1,1966,1966,false,unresolved
-"553 U.S. 124, 129 (2008). Iowa Code § 124.401","553 u.s. 124, 129 (2008). iowa code § 124.401",Statute,state_statute,IA,1,1,1,2019,2019,false,unresolved
 56 I.C.A. § 751.3,56 i.c.a. § 751.3,Statute,state_statute,IA,1,1,1,1966,1966,false,unresolved
 56 I.C.A. § 751.4,56 i.c.a. § 751.4,Statute,state_statute,IA,1,1,1,1966,1966,false,unresolved
 56 I.C.A. § 751.5,56 i.c.a. § 751.5,Statute,state_statute,IA,1,1,1,1966,1966,false,unresolved
@@ -6384,7 +6288,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 57 Iowa Code Ann. § 281.2,57 iowa code ann. § 281.2,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 57 L.C. § 51,57 l.c. § 51,Statute,state_statute,IA,1,1,1,1968,1968,false,unresolved
 "57-208 (2019), Iowa, Iowa Code § 458A.24","57-208 (2019), iowa, iowa code § 458a.24",Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
-574 (Iowa 1991). II. Iowa Code § 622.10,574 (iowa 1991). ii. iowa code § 622.10,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 58 G.A. ch. 291 § 37,58 g.a. ch. 291 § 37,Statute,state_statute,IA,1,1,1,1973,1973,false,unresolved
 "58 G.A., Ch. 318 § 1","58 g.a., ch. 318 § 1",Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 "58 Iowa Code Ann., Rule 344","58 iowa code ann., rule 344",Statute,state_statute,IA,1,1,1,1972,1972,false,unresolved
@@ -6425,7 +6328,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 60 G.A. ch. 325 § 1,60 g.a. ch. 325 § 1,Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
 60 G.A. ch. 326 § 36,60 g.a. ch. 326 § 36,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 60 Iowa L. Rev. 122. 2 Minn. St. 1971 § 585.02,60 iowa l. rev. 122. 2 minn. st. 1971 § 585.02,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
-600 (Iowa 1996)). Iowa Code § 670.4,600 (iowa 1996)). iowa code § 670.4,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
 61 G.A. ch. 214 § 1,61 g.a. ch. 214 § 1,Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
 61 G.A. ch. 215 § 34,61 g.a. ch. 215 § 34,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
 61 G.A. ch. 215 § 35,61 g.a. ch. 215 § 35,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
@@ -6435,8 +6337,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "61 Iowa, 326. Code § 1241","61 iowa, 326. code § 1241",Statute,state_statute,IA,1,1,1,1885,1885,false,unresolved
 615 I.A.C. § 4.10,615 i.a.c. § 4.10,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 615 I.A.C. § 4.9,615 i.a.c. § 4.9,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-62 C.J. 866 § 49,62 c.j. 866 § 49,Statute,state_statute,IA,1,1,1,1963,1963,false,unresolved
-62 C.J. 933 § 4,62 c.j. 933 § 4,Statute,state_statute,IA,1,1,1,1976,1976,false,unresolved
 62 G.A. ch. 276 § 1,62 g.a. ch. 276 § 1,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 62 G.A. ch. 354 § 1,62 g.a. ch. 354 § 1,Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
 62 G.A. ch. 354 § 2,62 g.a. ch. 354 § 2,Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
@@ -6473,7 +6373,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "64 G.A., ch. 131 § 152","64 g.a., ch. 131 § 152",Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
 "64 G.A., ch. 148 § 401","64 g.a., ch. 148 § 401",Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
 "64 G.A., ch. 265 § 1","64 g.a., ch. 265 § 1",Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
-65 C.J. 264 § 46,65 c.j. 264 § 46,Statute,state_statute,IA,1,1,1,1951,1951,false,unresolved
 65 G.A. ch. 1090 § 24,65 g.a. ch. 1090 § 24,Statute,state_statute,IA,1,1,1,1976,1976,false,unresolved
 65 G.A. ch. 1101 § 55,65 g.a. ch. 1101 § 55,Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
 65 G.A. ch. 1111 § 1,65 g.a. ch. 1111 § 1,Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
@@ -6523,7 +6422,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "67 G.A., ch. 140 § 25","67 g.a., ch. 140 § 25",Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 67 Iowa Code § 535.2,67 iowa code § 535.2,Statute,state_statute,IA,1,1,1,2021,2021,false,unresolved
 670 I.A.C. § 12.21,670 i.a.c. § 12.21,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-678 (Iowa 1980). Iowa Code § 123.39,678 (iowa 1980). iowa code § 123.39,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 679 (Iowa 1992). 22 Iowa Code § 321.1,679 (iowa 1992). 22 iowa code § 321.1,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
 68 G.A. Ch. 56 § 1,68 g.a. ch. 56 § 1,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 68 G.A. ch. 1181 § 1,68 g.a. ch. 1181 § 1,Statute,state_statute,IA,1,1,1,1984,1984,false,unresolved
@@ -6531,7 +6429,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "68 G.A., ch. 1022 § 22","68 g.a., ch. 1022 § 22",Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 "68 G.A., ch. 1175 § 3","68 g.a., ch. 1175 § 3",Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 68 Iowa Code § 668.12,68 iowa code § 668.12,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
-689 (1943). Iowa Code § 447.9,689 (1943). iowa code § 447.9,Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
 69 G.A. Ch. 117 § 1244,69 g.a. ch. 117 § 1244,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 69 G.A. Ch. 117 § 778,69 g.a. ch. 117 § 778,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 "69 G.A., Ch. 117 § 1058","69 g.a., ch. 117 § 1058",Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
@@ -6543,8 +6440,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 "69 G.A., ch. 198 § 3","69 g.a., ch. 198 § 3",Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 691 (Iowa 1994). 5 Iowa Code § 232.116,691 (iowa 1994). 5 iowa code § 232.116,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 7 (Iowa Code § 554.1201,7 (iowa code § 554.1201,Statute,state_statute,IA,1,1,1,2007,2007,false,unresolved
-7 C.J. 1121 § 83,7 c.j. 1121 § 83,Statute,state_statute,IA,1,1,1,1937,1937,false,unresolved
-7 C.R.F. § 273.9,7 c.r.f. § 273.9,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 7 Iowa Code 8D.2,7 iowa code 8d.2,Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
 7 Iowa Code Ann. 707.8A,7 iowa code ann. 707.8a,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 7 Iowa Code § 142A,7 iowa code § 142a,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
@@ -6564,23 +6459,14 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 7 Iowa Code § 822.8,7 iowa code § 822.8,Statute,state_statute,IA,1,1,1,2005,2005,false,unresolved
 7 Iowa Code § 85.45,7 iowa code § 85.45,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
 7 Iowa Code § 902.4,7 iowa code § 902.4,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
-7 Iowa Practice § 607.4,7 iowa practice § 607.4,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
-7 Iowa Practice § 613.1,7 iowa practice § 613.1,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
-7 Iowa Practice § 703.1,7 iowa practice § 703.1,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
-7 Iowa Practice § 705.1,7 iowa practice § 705.1,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
-7 Iowa Practice § 801.1,7 iowa practice § 801.1,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
 7 Iowa Practice: Evidence § 5.901:11,7 iowa practice: evidence § 5.901:11,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
 7 Iowa Practice: Evidence § 803.8,7 iowa practice: evidence § 803.8,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
-701 (Iowa 1980). Iowa Code § 96.5,701 (iowa 1980). iowa code § 96.5,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 701 I.A.C. § 7.1,701 i.a.c. § 7.1,Statute,state_statute,IA,1,1,1,1993,1993,true,exact
 701 I.A.C. § 7.11,701 i.a.c. § 7.11,Statute,state_statute,IA,1,1,1,1993,1993,true,exact
 701 Iowa Admin Code 18.42,701 iowa admin code 18.42,Statute,state_statute,IA,1,1,1,1993,1993,false,unresolved
 7025 [I.C.A. § 432.1,7025 [i.c.a. § 432.1,Statute,state_statute,IA,1,1,1,1960,1960,false,unresolved
-"71 C.J., Workmen's Compensation § 183","71 c.j., workmen's compensation § 183",Statute,state_statute,IA,1,1,1,1954,1954,false,unresolved
 71 G.A. ch. 1240 § 10,71 g.a. ch. 1240 § 10,Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
 713 (Iowa 1993). III.Relevant Statutes § 85.1A,713 (iowa 1993). iii.relevant statutes § 85.1a,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
-724 (Iowa 1981). Iowa Code Ann. § 631.1,724 (iowa 1981). iowa code ann. § 631.1,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
-724 (Iowa 1981). Iowa Code Ann. § 631.8,724 (iowa 1981). iowa code ann. § 631.8,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
 "73 Iowa, 110. How. Stat. § 7578","73 iowa, 110. how. stat. § 7578",Statute,state_statute,IA,1,1,1,1890,1890,false,unresolved
 730-31 (Iowa 1977) § 1823,730-31 (iowa 1977) § 1823,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 75 (Iowa). § 252A,75 (iowa). § 252a,Statute,state_statute,IA,1,1,1,1970,1970,false,unresolved
@@ -6592,7 +6478,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 770 I.A.C. § 41.-l,770 i.a.c. § 41.-l,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 770 I.A.C. § 42.6,770 i.a.c. § 42.6,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 770 I.A.C. § 95.3,770 i.a.c. § 95.3,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
-772 (Iowa 1997). V. Iowa Code § 707.6A,772 (iowa 1997). v. iowa code § 707.6a,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 772 (Iowa 1999). IV.Iowa Code § 232.8,772 (iowa 1999). iv.iowa code § 232.8,Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
 774 Iowa Code § 709.4,774 iowa code § 709.4,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
 778 (Iowa 1978) § 25A.21,778 (iowa 1978) § 25a.21,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
@@ -6628,10 +6513,8 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 8 Iowa Code § 815.10,8 iowa code § 815.10,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 8 Iowa. Iowa Code § 13900,8 iowa. iowa code § 13900,Statute,state_statute,IA,1,1,1,1955,1955,false,unresolved
 80 (Iowa 1976). Cf. § 906.3,80 (iowa 1976). cf. § 906.3,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-804 (Iowa 1970). Iowa Code § 633.33,804 (iowa 1970). iowa code § 633.33,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 81 Harv. L. Rev. 454 (1967). 11 Iowa Code Ann. § 783.3,81 harv. l. rev. 454 (1967). 11 iowa code ann. § 783.3,Statute,state_statute,IA,1,1,1,1972,1972,false,unresolved
 815 (Iowa Statutes Ann. 1946 § 49.98,815 (iowa statutes ann. 1946 § 49.98,Statute,state_statute,IA,1,1,1,1949,1949,false,unresolved
-821 (2022). Iowa Code § 821.1,821 (2022). iowa code § 821.1,Statute,state_statute,IA,1,1,1,2025,2025,false,unresolved
 85 Iowa Code § 554.2313,85 iowa code § 554.2313,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 8512-g30 [I.C.A. § 499.30,8512-g30 [i.c.a. § 499.30,Statute,state_statute,IA,1,1,1,1949,1949,false,unresolved
 8512-g33 [I.C.A. § 499.33,8512-g33 [i.c.a. § 499.33,Statute,state_statute,IA,1,1,1,1949,1949,false,unresolved
@@ -6669,9 +6552,6 @@ XXVI. § 108,xxvi. § 108,Statute,state_statute,IA,2,2,1,2014,2014,false,unresol
 9-306 (Iowa Code § 554.9306,9-306 (iowa code § 554.9306,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 901 (Iowa 1971) § 328E,901 (iowa 1971) § 328e,Statute,state_statute,IA,1,1,1,1992,1992,false,unresolved
 901 (Iowa 1971) § 343,901 (iowa 1971) § 343,Statute,state_statute,IA,1,1,1,1992,1992,false,unresolved
-91 (Iowa 1982). Iowa Code § 17A.19,91 (iowa 1982). iowa code § 17a.19,Statute,state_statute,IA,1,1,1,1985,1985,false,unresolved
-912 (Iowa 1981). Iowa Code 702.18,912 (iowa 1981). iowa code 702.18,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
-92 (Iowa 1976). Iowa Code § 4.7,92 (iowa 1976). iowa code § 4.7,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 9235 Iowa Code of 1927 § 1572,9235 iowa code of 1927 § 1572,Statute,state_statute,IA,1,1,1,1932,1932,false,unresolved
 9239 Iowa Code of 1927 § 1572,9239 iowa code of 1927 § 1572,Statute,state_statute,IA,1,1,1,1932,1932,false,unresolved
 9251-9252 Iowa Code of 1927 § 1882,9251-9252 iowa code of 1927 § 1882,Statute,state_statute,IA,1,1,1,1932,1932,false,unresolved
@@ -6780,7 +6660,6 @@ District of Iowa. § 751,district of iowa. § 751,Statute,state_statute,IA,1,1,1
 District of Iowa. § 846,district of iowa. § 846,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
 District of Iowa. § 922,district of iowa. § 922,Statute,state_statute,IA,1,1,1,2025,2025,false,unresolved
 District of Iowa. § 924,district of iowa. § 924,Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
-ECF No. 179. Iowa Code § 476.5,ecf no. 179. iowa code § 476.5,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 ESOP. Iowa Code Ann. § 633A.1102,esop. iowa code ann. § 633a.1102,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 F. I.C.A. 187.20,f. i.c.a. 187.20,Statute,state_statute,IA,1,1,1,1971,1971,false,unresolved
 F. I.C.A. 277.58,f. i.c.a. 277.58,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
@@ -6797,7 +6676,6 @@ F. I.C.A. 895.05,f. i.c.a. 895.05,Statute,state_statute,IA,1,1,1,1984,1984,false
 F. I.C.A. 95.05,f. i.c.a. 95.05,Statute,state_statute,IA,1,1,1,1963,1963,false,unresolved
 FLSA and Iowa Code § 91A,flsa and iowa code § 91a,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
 "FTCA, (2) Iowa Code § 29A","ftca, (2) iowa code § 29a",Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
-"Fed.Proc., L.Ed. § 59:426","fed.proc., l.ed. § 59:426",Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 "G.A. (1888), ch. 25 § 1","g.a. (1888), ch. 25 § 1",Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 "G.A. (1921), ch. 209 § 13","g.a. (1921), ch. 209 § 13",Statute,state_statute,IA,1,1,1,1938,1938,false,unresolved
 "G.A. (1967), ch. 405 § 5","g.a. (1967), ch. 405 § 5",Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
@@ -6896,23 +6774,11 @@ G.A. § 7,g.a. § 7,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 "G.A., ch. 95 § 6","g.a., ch. 95 § 6",Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 G.S. § 926,g.s. § 926,Statute,state_statute,IA,1,1,1,1916,1916,false,unresolved
 "H.F. 2316, 81 G.A., 2d Sess. § 1","h.f. 2316, 81 g.a., 2d sess. § 1",Statute,state_statute,IA,1,1,1,2019,2019,false,unresolved
-H.F. 2394 § 3,h.f. 2394 § 3,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
 "H.F. 2428, 72d G.A., 2d Sess. § 2","h.f. 2428, 72d g.a., 2d sess. § 2",Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
-H.F. 2487 § 3,h.f. 2487 § 3,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
-H.F. 2562 § 3,h.f. 2562 § 3,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 "H.F. 2700, 82d G.A., 2d Sess. § 55","h.f. 2700, 82d g.a., 2d sess. § 55",Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 "H.F. 2700, 82d G.A., 2d Sess. § 83","h.f. 2700, 82d g.a., 2d sess. § 83",Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
-H.F. 271 § 3,h.f. 271 § 3,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
-H.F. 306 § 8,h.f. 306 § 8,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
-H.F. 42 § 23-a1,h.f. 42 § 23-a1,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
-H.F. 556 § 255,h.f. 556 § 255,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
-H.F. 655 § 53,h.f. 655 § 53,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
-H.F. 891 § 31,h.f. 891 § 31,Statute,state_statute,IA,1,1,1,2025,2025,false,unresolved
 H.M. Iowa Code § 236A,h.m. iowa code § 236a,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
 HIV. Iowa Code § 709C,hiv. iowa code § 709c,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
-I. Iowa Code 235B.19,i. iowa code 235b.19,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
-I. Iowa Code § 124.303,i. iowa code § 124.303,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
-I. Iowa Code § 368.19,i. iowa code § 368.19,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
 I.A.C. 1.116,i.a.c. 1.116,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
 I.A.C. 100.3,i.a.c. 100.3,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 I.A.C. 12.-7,i.a.c. 12.-7,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
@@ -7179,7 +7045,7 @@ IAC 1.7,iac 1.7,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
 IAC 10.12,iac 10.12,Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
 IAC 11.6,iac 11.6,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
 IAC 12.4,iac 12.4,Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
-IAC 21-62.-15,iac 21-62.-15,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
+IAC 21-62.15,iac 21-62.15,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
 IAC 25.3,iac 25.3,Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
 IAC 3.3,iac 3.3,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
 IAC 3.4,iac 3.4,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
@@ -7214,11 +7080,6 @@ IDR 921 § 22.33,idr 921 § 22.33,Statute,state_statute,IA,1,1,1,1983,1983,false
 IGF. § 542.12,igf. § 542.12,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 IGF. § 543.14,igf. § 543.14,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 II. Iowa Code § 121.101,ii. iowa code § 121.101,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
-II. Iowa Code § 428.20,ii. iowa code § 428.20,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-II. Iowa Code § 554.4201,ii. iowa code § 554.4201,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
-II. Iowa Code § 554.8315,ii. iowa code § 554.8315,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-II. Iowa Code § 654.16,ii. iowa code § 654.16,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
-II. Iowa Code § 901.11,ii. iowa code § 901.11,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 III. Analysis. A. Iowa Code § 614.17A,iii. analysis. a. iowa code § 614.17a,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 III. Analysis. A. Iowa Code § 657A.10A,iii. analysis. a. iowa code § 657a.10a,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
 III. Analysis. Iowa Code § 822.3,iii. analysis. iowa code § 822.3,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
@@ -7232,10 +7093,7 @@ III. Code § 4600,iii. code § 4600,Statute,state_statute,IA,1,1,1,1879,1879,fal
 III. Code § 465,iii. code § 465,Statute,state_statute,IA,1,1,1,1885,1885,true,exact
 III. Code § 870,iii. code § 870,Statute,state_statute,IA,1,1,1,1882,1882,true,exact
 III. IOWA CODE § 232.8,iii. iowa code § 232.8,Statute,state_statute,IA,1,1,1,1999,1999,true,exact
-III. Iowa Code § 502.304,iii. iowa code § 502.304,Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
 III. Iowa Code § 524-910,iii. iowa code § 524-910,Statute,state_statute,IA,1,1,1,1990,1990,false,unresolved
-III. Iowa Code § 600.15,iii. iowa code § 600.15,Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
-III. Iowa Code § 901.2,iii. iowa code § 901.2,Statute,state_statute,IA,1,1,1,2018,2018,false,unresolved
 IIS § 19,iis § 19,Statute,state_statute,IA,1,1,1,1850,1850,false,unresolved
 "IMTCA, Iowa Code § 670.12","imtca, iowa code § 670.12",Statute,state_statute,IA,1,1,1,2025,2025,false,unresolved
 "IMWL, and Iowa Code § 91A","imwl, and iowa code § 91a",Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
@@ -7249,10 +7107,6 @@ IRCP 60.1,ircp 60.1,Statute,state_statute,IA,1,1,1,1985,1985,false,unresolved
 IV. 5 Iowa Code § 709.3,iv. 5 iowa code § 709.3,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 IV. Iowa Code § 507B,iv. iowa code § 507b,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 IV. Iowa Code § 516A,iv. iowa code § 516a,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
-IV. Iowa Code § 611.1,iv. iowa code § 611.1,Statute,state_statute,IA,1,1,1,1993,1993,false,unresolved
-IV. Iowa Code § 69.12,iv. iowa code § 69.12,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
-IV. Iowa Code § 709.2,iv. iowa code § 709.2,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
-IV. Iowa Code § 811.2,iv. iowa code § 811.2,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 IV. Iowa Code § 903A,iv. iowa code § 903a,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
 "IWCA, Iowa Code § 85.20","iwca, iowa code § 85.20",Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
 IWPCA (Iowa Code § 91A.10,iwpca (iowa code § 91a.10,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
@@ -7602,6 +7456,7 @@ Iowa Code 232.150,iowa code 232.150,Statute,state_statute,IA,1,1,1,2007,2007,tru
 Iowa Code 232.53,iowa code 232.53,Statute,state_statute,IA,1,1,1,2019,2019,true,exact
 Iowa Code 232.96A,iowa code 232.96a,Statute,state_statute,IA,1,1,1,2026,2026,true,exact
 Iowa Code 235A.15,iowa code 235a.15,Statute,state_statute,IA,1,1,1,2018,2018,true,exact
+Iowa Code 235B.19,iowa code 235b.19,Statute,state_statute,IA,1,1,1,2017,2017,true,exact
 Iowa Code 235E.1,iowa code 235e.1,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code 236.5,iowa code 236.5,Statute,state_statute,IA,1,1,1,2018,2018,true,exact
 Iowa Code 247.5,iowa code 247.5,Statute,state_statute,IA,1,1,1,1969,1969,false,unresolved
@@ -7665,6 +7520,7 @@ Iowa Code 692A.2A,iowa code 692a.2a,Statute,state_statute,IA,1,1,1,2025,2025,fal
 Iowa Code 692A.2A.,iowa code 692a.2a,Statute,state_statute,IA,1,1,1,2006,2006,false,unresolved
 Iowa Code 701.6,iowa code 701.6,Statute,state_statute,IA,1,1,1,2015,2015,true,exact
 Iowa Code 702.17,iowa code 702.17,Statute,state_statute,IA,1,1,1,2023,2023,true,exact
+Iowa Code 702.18,iowa code 702.18,Statute,state_statute,IA,1,1,1,2020,2020,true,exact
 Iowa Code 707.1,iowa code 707.1,Statute,state_statute,IA,1,1,1,2014,2014,true,exact
 Iowa Code 707.6,iowa code 707.6,Statute,state_statute,IA,1,1,1,2014,2014,true,exact
 Iowa Code 707.6A,iowa code 707.6a,Statute,state_statute,IA,1,1,1,2018,2018,true,exact
@@ -7674,6 +7530,7 @@ Iowa Code 708.4,iowa code 708.4,Statute,state_statute,IA,1,1,1,2023,2023,true,ex
 Iowa Code 709.6,iowa code 709.6,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
 Iowa Code 710.4,iowa code 710.4,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
 Iowa Code 711.1,iowa code 711.1,Statute,state_statute,IA,1,1,1,2012,2012,true,exact
+Iowa Code 714.1,iowa code 714.1,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
 Iowa Code 714.16,iowa code 714.16,Statute,state_statute,IA,1,1,1,1986,1986,true,exact
 Iowa Code 714.2,iowa code 714.2,Statute,state_statute,IA,1,1,1,2004,2004,true,exact
 Iowa Code 714.9,iowa code 714.9,Statute,state_statute,IA,1,1,1,2007,2007,true,exact
@@ -8062,7 +7919,6 @@ Iowa Code Ann. § 602.1603,iowa code ann. § 602.1603,Statute,state_statute,IA,1
 Iowa Code Ann. § 602.4102,iowa code ann. § 602.4102,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
 Iowa Code Ann. § 602.9112,iowa code ann. § 602.9112,Statute,state_statute,IA,1,1,1,1984,1984,true,exact
 Iowa Code Ann. § 610.15,iowa code ann. § 610.15,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
-Iowa Code Ann. § 611.20,iowa code ann. § 611.20,Statute,state_statute,IA,1,1,1,1975,1975,true,exact
 Iowa Code Ann. § 611.22,iowa code ann. § 611.22,Statute,state_statute,IA,1,1,1,1975,1975,true,exact
 Iowa Code Ann. § 613A-4,iowa code ann. § 613a-4,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 Iowa Code Ann. § 614.-1,iowa code ann. § 614.-1,Statute,state_statute,IA,1,1,1,1993,1993,true,exact
@@ -8082,8 +7938,6 @@ Iowa Code Ann. § 626.6,iowa code ann. § 626.6,Statute,state_statute,IA,1,1,1,1
 Iowa Code Ann. § 626.82,iowa code ann. § 626.82,Statute,state_statute,IA,1,1,1,1987,1987,true,exact
 Iowa Code Ann. § 626.83,iowa code ann. § 626.83,Statute,state_statute,IA,1,1,1,2020,2020,true,exact
 Iowa Code Ann. § 626.88,iowa code ann. § 626.88,Statute,state_statute,IA,1,1,1,2010,2010,true,exact
-Iowa Code Ann. § 631.1,iowa code ann. § 631.1,Statute,state_statute,IA,1,1,1,2004,2004,true,exact
-Iowa Code Ann. § 631.8,iowa code ann. § 631.8,Statute,state_statute,IA,1,1,1,2004,2004,true,exact
 Iowa Code Ann. § 633.211,iowa code ann. § 633.211,Statute,state_statute,IA,1,1,1,2013,2013,true,exact
 Iowa Code Ann. § 633.220,iowa code ann. § 633.220,Statute,state_statute,IA,1,1,1,2013,2013,true,exact
 Iowa Code Ann. § 633.220A,iowa code ann. § 633.220a,Statute,state_statute,IA,1,1,1,2012,2012,true,exact
@@ -8438,6 +8292,7 @@ Iowa Code § 124.209,iowa code § 124.209,Statute,state_statute,IA,1,1,1,2018,20
 Iowa Code § 124.212B,iowa code § 124.212b,Statute,state_statute,IA,1,1,1,2014,2014,true,exact
 Iowa Code § 124.213,iowa code § 124.213,Statute,state_statute,IA,1,1,1,2019,2019,true,exact
 Iowa Code § 124.301,iowa code § 124.301,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
+Iowa Code § 124.303,iowa code § 124.303,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
 Iowa Code § 124.307,iowa code § 124.307,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
 Iowa Code § 124.401-4,iowa code § 124.401-4,Statute,state_statute,IA,1,1,1,2003,2003,false,unresolved
 Iowa Code § 124.401C,iowa code § 124.401c,Statute,state_statute,IA,1,1,1,2004,2004,true,exact
@@ -8524,7 +8379,7 @@ Iowa Code § 148.1,iowa code § 148.1,Statute,state_statute,IA,1,1,1,1987,1987,t
 Iowa Code § 1480,iowa code § 1480,Statute,state_statute,IA,1,1,1,1939,1939,false,unresolved
 Iowa Code § 1488,iowa code § 1488,Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
 Iowa Code § 148B,iowa code § 148b,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
-Iowa Code § 148C.l,iowa code § 148c.l,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
+Iowa Code § 148C.1,iowa code § 148c.1,Statute,state_statute,IA,1,1,1,1997,1997,true,exact
 Iowa Code § 148E,iowa code § 148e,Statute,state_statute,IA,1,1,1,2018,2018,false,unresolved
 Iowa Code § 15.106,iowa code § 15.106,Statute,state_statute,IA,1,1,1,2003,2003,true,exact
 Iowa Code § 15.15,iowa code § 15.15,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
@@ -8793,10 +8648,8 @@ Iowa Code § 252B.7A,iowa code § 252b.7a,Statute,state_statute,IA,1,1,1,1995,19
 Iowa Code § 252C.3G,iowa code § 252c.3g,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
 Iowa Code § 252C4,iowa code § 252c4,Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
 Iowa Code § 252D.10,iowa code § 252d.10,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
-Iowa Code § 252D.11,iowa code § 252d.11,Statute,state_statute,IA,1,1,1,1994,1994,true,exact
 Iowa Code § 252D.18C,iowa code § 252d.18c,Statute,state_statute,IA,1,1,1,1999,1999,true,exact
 Iowa Code § 252D.24,iowa code § 252d.24,Statute,state_statute,IA,1,1,1,1994,1994,true,exact
-Iowa Code § 252D.ll,iowa code § 252d.ll,Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
 Iowa Code § 252E.1B,iowa code § 252e.1b,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code § 252H.12,iowa code § 252h.12,Statute,state_statute,IA,1,1,1,1998,1998,true,exact
 Iowa Code § 252H.13,iowa code § 252h.13,Statute,state_statute,IA,1,1,1,2024,2024,true,exact
@@ -8887,7 +8740,6 @@ Iowa Code § 282.8,iowa code § 282.8,Statute,state_statute,IA,1,1,1,2013,2013,t
 Iowa Code § 284.1,iowa code § 284.1,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
 Iowa Code § 284.2,iowa code § 284.2,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code § 2846,iowa code § 2846,Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
-Iowa Code § 285.-l,iowa code § 285.-l,Statute,state_statute,IA,1,1,1,1976,1976,false,unresolved
 Iowa Code § 285.5,iowa code § 285.5,Statute,state_statute,IA,1,1,1,1976,1976,true,exact
 Iowa Code § 2876-79,iowa code § 2876-79,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
 Iowa Code § 2878,iowa code § 2878,Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
@@ -8908,7 +8760,7 @@ Iowa Code § 29A.27,iowa code § 29a.27,Statute,state_statute,IA,1,1,1,1994,1994
 Iowa Code § 29A.28,iowa code § 29a.28,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
 Iowa Code § 29A.43,iowa code § 29a.43,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
 Iowa Code § 2B.13,iowa code § 2b.13,Statute,state_statute,IA,1,1,1,2003,2003,true,exact
-Iowa Code § 2C.l,iowa code § 2c.l,Statute,state_statute,IA,1,1,1,2012,2012,false,unresolved
+Iowa Code § 2C.1,iowa code § 2c.1,Statute,state_statute,IA,1,1,1,2012,2012,true,exact
 Iowa Code § 3.10,iowa code § 3.10,Statute,state_statute,IA,1,1,1,1970,1970,false,unresolved
 Iowa Code § 3.3,iowa code § 3.3,Statute,state_statute,IA,1,1,1,1957,1957,true,exact
 Iowa Code § 303.41,iowa code § 303.41,Statute,state_statute,IA,1,1,1,2014,2014,true,exact
@@ -9066,7 +8918,7 @@ Iowa Code § 322A.23,iowa code § 322a.23,Statute,state_statute,IA,1,1,1,2023,20
 Iowa Code § 322A.24,iowa code § 322a.24,Statute,state_statute,IA,1,1,1,2020,2020,true,exact
 Iowa Code § 322A.3A,iowa code § 322a.3a,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
 Iowa Code § 322A2,iowa code § 322a2,Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
-Iowa Code § 322F.l,iowa code § 322f.l,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
+Iowa Code § 322F.1,iowa code § 322f.1,Statute,state_statute,IA,1,1,1,2004,2004,true,exact
 Iowa Code § 322G.11,iowa code § 322g.11,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code § 325.26,iowa code § 325.26,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
 Iowa Code § 325.6,iowa code § 325.6,Statute,state_statute,IA,1,1,1,1974,1974,false,unresolved
@@ -9165,7 +9017,6 @@ Iowa Code § 359.17,iowa code § 359.17,Statute,state_statute,IA,1,1,1,2017,2017
 Iowa Code § 359A.28,iowa code § 359a.28,Statute,state_statute,IA,1,1,1,2007,2007,false,unresolved
 Iowa Code § 359A.2A,iowa code § 359a.2a,Statute,state_statute,IA,1,1,1,2026,2026,true,exact
 Iowa Code § 360.1,iowa code § 360.1,Statute,state_statute,IA,1,1,1,1984,1984,true,exact
-Iowa Code § 362.1,iowa code § 362.1,Statute,state_statute,IA,1,1,1,1999,1999,true,exact
 Iowa Code § 362.30,iowa code § 362.30,Statute,state_statute,IA,1,1,1,1973,1973,false,unresolved
 Iowa Code § 362.6,iowa code § 362.6,Statute,state_statute,IA,1,1,1,1983,1983,true,exact
 Iowa Code § 362.9,iowa code § 362.9,Statute,state_statute,IA,1,1,1,1997,1997,true,exact
@@ -9394,12 +9245,12 @@ Iowa Code § 455B.471,iowa code § 455b.471,Statute,state_statute,IA,1,1,1,2000,
 Iowa Code § 455B.471-.479,iowa code § 455b.471-.479,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
 Iowa Code § 455B.48,iowa code § 455b.48,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 Iowa Code § 455B.76-.84,iowa code § 455b.76-.84,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
+Iowa Code § 455G.1,iowa code § 455g.1,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
 Iowa Code § 455G.12,iowa code § 455g.12,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
 Iowa Code § 455G.13G,iowa code § 455g.13g,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
 Iowa Code § 455G.1B,iowa code § 455g.1b,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
 Iowa Code § 455G.3-.4,iowa code § 455g.3-.4,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
 Iowa Code § 455G.3-4,iowa code § 455g.3-4,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
-Iowa Code § 455G.l,iowa code § 455g.l,Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
 Iowa Code § 455H.304,iowa code § 455h.304,Statute,state_statute,IA,1,1,1,2014,2014,true,exact
 Iowa Code § 456,iowa code § 456,Statute,state_statute,IA,1,1,1,1899,1899,false,unresolved
 Iowa Code § 456A.36,iowa code § 456a.36,Statute,state_statute,IA,1,1,1,2025,2025,true,exact
@@ -9616,6 +9467,7 @@ Iowa Code § 5007,iowa code § 5007,Statute,state_statute,IA,1,1,1,1941,1941,fal
 Iowa Code § 501,iowa code § 501,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 Iowa Code § 501B,iowa code § 501b,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 Iowa Code § 502.301,iowa code § 502.301,Statute,state_statute,IA,1,1,1,2022,2022,true,exact
+Iowa Code § 502.304,iowa code § 502.304,Statute,state_statute,IA,1,1,1,1988,1988,true,exact
 Iowa Code § 502.402.6,iowa code § 502.402.6,Statute,state_statute,IA,1,1,1,2008,2008,false,unresolved
 Iowa Code § 502.501,iowa code § 502.501,Statute,state_statute,IA,1,1,1,1996,1996,true,exact
 Iowa Code § 502.A7,iowa code § 502.a7,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
@@ -9657,8 +9509,8 @@ Iowa Code § 513B,iowa code § 513b,Statute,state_statute,IA,1,1,1,2026,2026,fal
 Iowa Code § 514.23,iowa code § 514.23,Statute,state_statute,IA,1,1,1,2012,2012,true,exact
 Iowa Code § 514.3,iowa code § 514.3,Statute,state_statute,IA,1,1,1,2003,2003,true,exact
 Iowa Code § 514.5,iowa code § 514.5,Statute,state_statute,IA,1,1,1,1980,1980,true,exact
+Iowa Code § 514B.1,iowa code § 514b.1,Statute,state_statute,IA,1,1,1,2017,2017,true,exact
 Iowa Code § 514B.17,iowa code § 514b.17,Statute,state_statute,IA,1,1,1,1993,1993,true,exact
-Iowa Code § 514B.l,iowa code § 514b.l,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
 Iowa Code § 514C.16,iowa code § 514c.16,Statute,state_statute,IA,1,1,1,2023,2023,true,exact
 Iowa Code § 514C.16.1,iowa code § 514c.16.1,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
 Iowa Code § 514C.19,iowa code § 514c.19,Statute,state_statute,IA,1,1,1,2006,2006,true,exact
@@ -9699,7 +9551,7 @@ Iowa Code § 5219,iowa code § 5219,Statute,state_statute,IA,1,1,1,1991,1991,fal
 Iowa Code § 521E,iowa code § 521e,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 Iowa Code § 5230,iowa code § 5230,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 Iowa Code § 5231.809,iowa code § 5231.809,Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
-Iowa Code § 523H.l,iowa code § 523h.l,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
+Iowa Code § 523H.1,iowa code § 523h.1,Statute,state_statute,IA,1,1,1,1996,1996,true,exact
 Iowa Code § 523I.309,iowa code § 523i.309,Statute,state_statute,IA,1,1,1,2013,2013,true,exact
 Iowa Code § 523I.316,iowa code § 523i.316,Statute,state_statute,IA,1,1,1,2020,2020,true,exact
 Iowa Code § 524.-213,iowa code § 524.-213,Statute,state_statute,IA,1,1,1,1988,1988,true,exact
@@ -9824,7 +9676,6 @@ Iowa Code § 554.-9501,iowa code § 554.-9501,Statute,state_statute,IA,1,1,1,198
 Iowa Code § 554.-9503,iowa code § 554.-9503,Statute,state_statute,IA,1,1,1,1994,1994,true,exact
 Iowa Code § 554.11105,iowa code § 554.11105,Statute,state_statute,IA,1,1,1,1986,1986,true,exact
 Iowa Code § 554.11107,iowa code § 554.11107,Statute,state_statute,IA,1,1,1,1987,1987,true,exact
-Iowa Code § 554.11109,iowa code § 554.11109,Statute,state_statute,IA,1,1,1,1988,1988,true,exact
 Iowa Code § 554.1204,iowa code § 554.1204,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
 Iowa Code § 554.1206,iowa code § 554.1206,Statute,state_statute,IA,1,1,1,1995,1995,true,exact
 Iowa Code § 554.1209,iowa code § 554.1209,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
@@ -9861,7 +9712,6 @@ Iowa Code § 554.3503,iowa code § 554.3503,Statute,state_statute,IA,1,1,1,2002,
 Iowa Code § 554.3605,iowa code § 554.3605,Statute,state_statute,IA,1,1,1,1995,1995,true,exact
 Iowa Code § 554.3606,iowa code § 554.3606,Statute,state_statute,IA,1,1,1,2003,2003,false,unresolved
 Iowa Code § 554.4102,iowa code § 554.4102,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
-Iowa Code § 554.4201,iowa code § 554.4201,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
 Iowa Code § 554.4202,iowa code § 554.4202,Statute,state_statute,IA,1,1,1,1978,1978,true,exact
 Iowa Code § 554.4302,iowa code § 554.4302,Statute,state_statute,IA,1,1,1,2002,2002,true,exact
 Iowa Code § 554.4407,iowa code § 554.4407,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
@@ -9900,7 +9750,7 @@ Iowa Code § 554.9703,iowa code § 554.9703,Statute,state_statute,IA,1,1,1,2006,
 Iowa Code § 554.9706,iowa code § 554.9706,Statute,state_statute,IA,1,1,1,2006,2006,true,exact
 Iowa Code § 554.9815,iowa code § 554.9815,Statute,state_statute,IA,1,1,1,2003,2003,false,unresolved
 Iowa Code § 5542314,iowa code § 5542314,Statute,state_statute,IA,1,1,1,2007,2007,false,unresolved
-Iowa Code § 554A.l,iowa code § 554a.l,Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
+Iowa Code § 554A.1,iowa code § 554a.1,Statute,state_statute,IA,1,1,1,1998,1998,true,exact
 Iowa Code § 554D.106,iowa code § 554d.106,Statute,state_statute,IA,1,1,1,2015,2015,true,exact
 Iowa Code § 556.1,iowa code § 556.1,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
 Iowa Code § 556.13,iowa code § 556.13,Statute,state_statute,IA,1,1,1,1990,1990,true,exact
@@ -9942,7 +9792,6 @@ Iowa Code § 562A.14,iowa code § 562a.14,Statute,state_statute,IA,1,1,1,2006,20
 Iowa Code § 562A.21,iowa code § 562a.21,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code § 562A.21-.33,iowa code § 562a.21-.33,Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
 Iowa Code § 562A.28,iowa code § 562a.28,Statute,state_statute,IA,1,1,1,2012,2012,true,exact
-Iowa Code § 562A.ll,iowa code § 562a.ll,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 Iowa Code § 562A27,iowa code § 562a27,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
 Iowa Code § 562B.10,iowa code § 562b.10,Statute,state_statute,IA,1,1,1,1989,1989,true,exact
 Iowa Code § 562B.12,iowa code § 562b.12,Statute,state_statute,IA,1,1,1,2010,2010,true,exact
@@ -10016,6 +9865,7 @@ Iowa Code § 599.6,iowa code § 599.6,Statute,state_statute,IA,1,1,1,2019,2019,t
 Iowa Code § 60,iowa code § 60,Statute,state_statute,IA,1,1,1,2026,2026,false,unresolved
 Iowa Code § 60.1,iowa code § 60.1,Statute,state_statute,IA,1,1,1,1999,1999,true,exact
 Iowa Code § 600.-11,iowa code § 600.-11,Statute,state_statute,IA,1,1,1,1994,1994,true,exact
+Iowa Code § 600.15,iowa code § 600.15,Statute,state_statute,IA,1,1,1,1998,1998,true,exact
 Iowa Code § 600.2,iowa code § 600.2,Statute,state_statute,IA,1,1,1,1952,1952,true,exact
 Iowa Code § 600.20,iowa code § 600.20,Statute,state_statute,IA,1,1,1,2003,2003,true,exact
 Iowa Code § 600A.1-.10,iowa code § 600a.1-.10,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
@@ -10059,7 +9909,7 @@ Iowa Code § 609,iowa code § 609,Statute,state_statute,IA,1,1,1,2016,2016,false
 Iowa Code § 610.16,iowa code § 610.16,Statute,state_statute,IA,1,1,1,1947,1947,false,unresolved
 Iowa Code § 610.2,iowa code § 610.2,Statute,state_statute,IA,1,1,1,2020,2020,true,exact
 Iowa Code § 610.6101,iowa code § 610.6101,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
-Iowa Code § 610A.l,iowa code § 610a.l,Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
+Iowa Code § 610A.1,iowa code § 610a.1,Statute,state_statute,IA,1,1,1,2000,2000,true,exact
 Iowa Code § 611.20-.22,iowa code § 611.20-.22,Statute,state_statute,IA,1,1,1,2017,2017,true,multiple
 Iowa Code § 613.15B,iowa code § 613.15b,Statute,state_statute,IA,1,1,1,2018,2018,true,exact
 Iowa Code § 613.19,iowa code § 613.19,Statute,state_statute,IA,1,1,1,2013,2013,true,exact
@@ -10564,8 +10414,8 @@ Iowa Code § 716.6B,iowa code § 716.6b,Statute,state_statute,IA,1,1,1,2014,2014
 Iowa Code § 716.8.....................................795,iowa code § 716.8.....................................795,Statute,state_statute,IA,1,1,1,2007,2007,false,unresolved
 Iowa Code § 716A.10,iowa code § 716a.10,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 Iowa Code § 716A.12,iowa code § 716a.12,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
+Iowa Code § 717B.1,iowa code § 717b.1,Statute,state_statute,IA,1,1,1,1999,1999,true,exact
 Iowa Code § 717B.3.A,iowa code § 717b.3.a,Statute,state_statute,IA,1,1,1,2018,2018,false,unresolved
-Iowa Code § 717B.l,iowa code § 717b.l,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 Iowa Code § 718.8,iowa code § 718.8,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
 Iowa Code § 719.1A,iowa code § 719.1a,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code § 719.2,iowa code § 719.2,Statute,state_statute,IA,1,1,1,1999,1999,true,exact
@@ -10746,7 +10596,6 @@ Iowa Code § 8581-c5,iowa code § 8581-c5,Statute,state_statute,IA,1,1,1,1987,19
 Iowa Code § 85:30,iowa code § 85:30,Statute,state_statute,IA,1,1,1,2007,2007,false,unresolved
 Iowa Code § 85A.14,iowa code § 85a.14,Statute,state_statute,IA,1,1,1,1994,1994,true,exact
 Iowa Code § 85B.14,iowa code § 85b.14,Statute,state_statute,IA,1,1,1,2002,2002,true,exact
-Iowa Code § 85B.ll,iowa code § 85b.ll,Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
 Iowa Code § 86.-14,iowa code § 86.-14,Statute,state_statute,IA,1,1,1,1993,1993,false,unresolved
 Iowa Code § 86.13.4,iowa code § 86.13.4,Statute,state_statute,IA,1,1,1,2012,2012,false,unresolved
 Iowa Code § 86.27,iowa code § 86.27,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
@@ -10778,7 +10627,6 @@ Iowa Code § 903.-1,iowa code § 903.-1,Statute,state_statute,IA,1,1,1,1992,1992
 Iowa Code § 903.1.2,iowa code § 903.1.2,Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
 Iowa Code § 903.12,iowa code § 903.12,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
 Iowa Code § 903.6,iowa code § 903.6,Statute,state_statute,IA,1,1,1,1992,1992,true,exact
-Iowa Code § 903.l,iowa code § 903.l,Statute,state_statute,IA,1,1,1,2006,2006,false,unresolved
 Iowa Code § 9038.1,iowa code § 9038.1,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
 Iowa Code § 903A.2-.4,iowa code § 903a.2-.4,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 Iowa Code § 903B.1.8,iowa code § 903b.1.8,Statute,state_statute,IA,1,1,1,2022,2022,false,unresolved
@@ -10812,7 +10660,7 @@ Iowa Code § 915.90,iowa code § 915.90,Statute,state_statute,IA,1,1,1,2020,2020
 Iowa Code § 91A.13,iowa code § 91a.13,Statute,state_statute,IA,1,1,1,1989,1989,true,exact
 Iowa Code § 91A.2-91A.10,iowa code § 91a.2-91a.10,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
 Iowa Code § 91A5,iowa code § 91a5,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
-Iowa Code § 91D.l,iowa code § 91d.l,Statute,state_statute,IA,1,1,1,2016,2016,false,unresolved
+Iowa Code § 91D.1,iowa code § 91d.1,Statute,state_statute,IA,1,1,1,2016,2016,true,exact
 Iowa Code § 91S,iowa code § 91s,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
 Iowa Code § 92.3,iowa code § 92.3,Statute,state_statute,IA,1,1,1,2013,2013,true,exact
 Iowa Code § 9253,iowa code § 9253,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
@@ -10839,11 +10687,10 @@ Iowa Code § 99B.11,iowa code § 99b.11,Statute,state_statute,IA,1,1,1,2012,2012
 Iowa Code § 99D.11,iowa code § 99d.11,Statute,state_statute,IA,1,1,1,2023,2023,true,exact
 Iowa Code § 99D.9A,iowa code § 99d.9a,Statute,state_statute,IA,1,1,1,2017,2017,true,exact
 Iowa Code § 99D.9B,iowa code § 99d.9b,Statute,state_statute,IA,1,1,1,2017,2017,true,exact
+Iowa Code § 99F.1,iowa code § 99f.1,Statute,state_statute,IA,1,1,1,2002,2002,true,exact
 Iowa Code § 99F.10,iowa code § 99f.10,Statute,state_statute,IA,1,1,1,1997,1997,true,exact
 Iowa Code § 99F.19,iowa code § 99f.19,Statute,state_statute,IA,1,1,1,2023,2023,true,exact
 Iowa Code § 99F.7G5,iowa code § 99f.7g5,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
-Iowa Code § 99F.l,iowa code § 99f.l,Statute,state_statute,IA,1,1,1,2002,2002,false,unresolved
-Iowa Code § 99F.ll,iowa code § 99f.ll,Statute,state_statute,IA,1,1,1,2003,2003,false,unresolved
 Iowa Code § 9A.116,iowa code § 9a.116,Statute,state_statute,IA,1,1,1,2021,2021,true,exact
 Iowa Code § 9D,iowa code § 9d,Statute,state_statute,IA,1,1,1,2013,2013,false,unresolved
 Iowa Code § 9IB,iowa code § 9ib,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
@@ -10986,46 +10833,17 @@ Iowa Practice & Procedure § 236,iowa practice & procedure § 236,Statute,state_
 Iowa Practice Criminal Law and Procedure § 1041,iowa practice criminal law and procedure § 1041,Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
 Iowa Practice and Procedure § 39.05,iowa practice and procedure § 39.05,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
 Iowa Practice and Procedure § 54.01,iowa practice and procedure § 54.01,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-Iowa Practice § 10.01,iowa practice § 10.01,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
 Iowa Practice § 10.01-10.-02,iowa practice § 10.01-10.-02,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
-Iowa Practice § 10.07,iowa practice § 10.07,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
-Iowa Practice § 102,iowa practice § 102,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
-Iowa Practice § 12.03,iowa practice § 12.03,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
-Iowa Practice § 13.03,iowa practice § 13.03,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 Iowa Practice § 15:04,iowa practice § 15:04,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 Iowa Practice § 15:13,iowa practice § 15:13,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
 Iowa Practice § 15:4,iowa practice § 15:4,Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
-Iowa Practice § 19.01,iowa practice § 19.01,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
-Iowa Practice § 203,iowa practice § 203,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-Iowa Practice § 207,iowa practice § 207,Statute,state_statute,IA,1,1,1,1992,1992,false,unresolved
-Iowa Practice § 22.01,iowa practice § 22.01,Statute,state_statute,IA,1,1,1,1977,1977,false,unresolved
-Iowa Practice § 22.05,iowa practice § 22.05,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
-Iowa Practice § 22.07,iowa practice § 22.07,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
-Iowa Practice § 24.06,iowa practice § 24.06,Statute,state_statute,IA,1,1,1,1978,1978,false,unresolved
-Iowa Practice § 252,iowa practice § 252,Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
-Iowa Practice § 34.04,iowa practice § 34.04,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
-Iowa Practice § 34.12,iowa practice § 34.12,Statute,state_statute,IA,1,1,1,1975,1975,false,unresolved
-Iowa Practice § 38.04,iowa practice § 38.04,Statute,state_statute,IA,1,1,1,1976,1976,false,unresolved
-Iowa Practice § 380,iowa practice § 380,Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
 Iowa Practice § 44:04,iowa practice § 44:04,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
-Iowa Practice § 501.1,iowa practice § 501.1,Statute,state_statute,IA,1,1,1,2001,2001,false,unresolved
-Iowa Practice § 504.3,iowa practice § 504.3,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
-Iowa Practice § 517,iowa practice § 517,Statute,state_statute,IA,1,1,1,1982,1982,false,unresolved
-Iowa Practice § 520,iowa practice § 520,Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
-Iowa Practice § 539,iowa practice § 539,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 Iowa Practice § 53:01,iowa practice § 53:01,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
-Iowa Practice § 54.02,iowa practice § 54.02,Statute,state_statute,IA,1,1,1,1980,1980,false,unresolved
-Iowa Practice § 57.05,iowa practice § 57.05,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
 Iowa Practice § 57:03,iowa practice § 57:03,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
-Iowa Practice § 607.4,iowa practice § 607.4,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 Iowa Practice § 613.1,iowa practice § 613.1,Statute,state_statute,IA,1,1,1,2001,2001,true,exact
-Iowa Practice § 63,iowa practice § 63,Statute,state_statute,IA,1,1,1,1994,1994,false,unresolved
-Iowa Practice § 65.02.10,iowa practice § 65.02.10,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 Iowa Practice § 801.1,iowa practice § 801.1,Statute,state_statute,IA,1,1,1,2001,2001,true,exact
 Iowa Practice § 801.4,iowa practice § 801.4,Statute,state_statute,IA,1,1,1,2001,2001,true,exact
 Iowa Practice § 8:01,iowa practice § 8:01,Statute,state_statute,IA,1,1,1,1992,1992,false,unresolved
-Iowa Practice § 9.04,iowa practice § 9.04,Statute,state_statute,IA,1,1,1,1981,1981,false,unresolved
-Iowa Practice § 9.46,iowa practice § 9.46,Statute,state_statute,IA,1,1,1,1986,1986,false,unresolved
 Iowa Practice § 9:02-44,iowa practice § 9:02-44,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 "Iowa Practice, Civil and Appellate Procedure § 10:36","iowa practice, civil and appellate procedure § 10:36",Statute,state_statute,IA,1,1,1,2015,2015,false,unresolved
 "Iowa Practice, Criminal Law and Procedure § 120","iowa practice, criminal law and procedure § 120",Statute,state_statute,IA,1,1,1,2000,2000,false,unresolved
@@ -11634,7 +11452,7 @@ Me.Rev.Stat. tit. 17-A § 755,me.rev.stat. tit. 17-a § 755,Statute,state_statut
 "Municipal Code, Art. VIII. § 102-596","municipal code, art. viii. § 102-596",Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
 N.M Stat. Ann. § 52-l-64,n.m stat. ann. § 52-l-64,Statute,state_statute,IA,1,1,1,2004,2004,true,exact
 N.M.Stat. Ann. § 66-8-101,n.m.stat. ann. § 66-8-101,Statute,state_statute,IA,1,1,1,1980,1980,true,exact
-N.M.Stat.Aim. § 52-l-24,n.m.stat.aim. § 52-l-24,Statute,state_statute,IA,1,1,1,1995,1995,false,unresolved
+N.M.Stat.Aim. § 52-1-24,n.m.stat.aim. § 52-1-24,Statute,state_statute,IA,1,1,1,1995,1995,true,exact
 N.M.Stat.Ann. § 21-5-1,n.m.stat.ann. § 21-5-1,Statute,state_statute,IA,1,1,1,1979,1979,true,exact
 N.M.Stat.Ann. § 31-19-RB,n.m.stat.ann. § 31-19-rb,Statute,state_statute,IA,1,1,1,1979,1979,false,unresolved
 NPM. Iowa Code § 453C,npm. iowa code § 453c,Statute,state_statute,IA,1,1,1,2004,2004,false,unresolved
@@ -11658,7 +11476,6 @@ Or.Rev.Stat. § 112.265,or.rev.stat. § 112.265,Statute,state_statute,IA,1,1,1,2
 Or.Rev.Stat. § 133.683,or.rev.stat. § 133.683,Statute,state_statute,IA,1,1,1,1979,1979,true,exact
 Or.Rev.Stat. § 14.080,or.rev.stat. § 14.080,Statute,state_statute,IA,1,1,1,1979,1979,true,exact
 Or.Rev.Stat. § 16.210,or.rev.stat. § 16.210,Statute,state_statute,IA,1,1,1,1980,1980,true,exact
-Or.Rev.Stat. § 276.-420-.429,or.rev.stat. § 276.-420-.429,Statute,state_statute,IA,1,1,1,1985,1985,false,unresolved
 Ore.Rev.Stat. § 419A.004,ore.rev.stat. § 419a.004,Statute,state_statute,IA,1,1,1,2007,2007,false,unresolved
 P.C. ch. 5 § 117,p.c. ch. 5 § 117,Statute,state_statute,IA,1,1,1,1867,1867,false,unresolved
 P.C. ch. 5 § 16,p.c. ch. 5 § 16,Statute,state_statute,IA,1,1,1,1868,1868,false,unresolved
@@ -11684,18 +11501,7 @@ R.S. § 1659,r.s. § 1659,Statute,state_statute,IA,1,1,1,1865,1865,false,unresol
 R.S. § 2740,r.s. § 2740,Statute,state_statute,IA,1,1,1,1865,1865,false,unresolved
 R.S. § 4766,r.s. § 4766,Statute,state_statute,IA,1,1,1,1947,1947,false,unresolved
 R.T. Iowa Code § 711.4,r.t. iowa code § 711.4,Statute,state_statute,IA,1,1,1,2012,2012,false,unresolved
-S.F. 2197 § 3,s.f. 2197 § 3,Statute,state_statute,IA,1,1,1,2008,2008,false,unresolved
-S.F. 2297 § 9,s.f. 2297 § 9,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved
-S.F. 363 § 6,s.f. 363 § 6,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
 "S.F. 437, 60 G.A., ch. 114 § 16","s.f. 437, 60 g.a., ch. 114 § 16",Statute,state_statute,IA,1,1,1,1988,1988,false,unresolved
-S.F. 457 § 59-63,s.f. 457 § 59-63,Statute,state_statute,IA,1,1,1,2020,2020,false,unresolved
-S.F. 514 § 625,s.f. 514 § 625,Statute,state_statute,IA,1,1,1,2023,2023,false,unresolved
-S.F. 514 § 844,s.f. 514 § 844,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
-S.F. 520 § 1,s.f. 520 § 1,Statute,state_statute,IA,1,1,1,1991,1991,false,unresolved
-S.F. 531 § 11,s.f. 531 § 11,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
-S.F. 577 § 43,s.f. 577 § 43,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
-S.F. 577 § 44,s.f. 577 § 44,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
-S.F. 577 § 46,s.f. 577 § 46,Statute,state_statute,IA,1,1,1,1989,1989,false,unresolved
 SAME. § 7,same. § 7,Statute,state_statute,IA,1,1,1,1883,1883,false,unresolved
 SOTP. Iowa Code § 692A.128,sotp. iowa code § 692a.128,Statute,state_statute,IA,1,1,1,2024,2024,false,unresolved
 SOTP. Iowa Code § 903A,sotp. iowa code § 903a,Statute,state_statute,IA,1,1,1,2021,2021,false,unresolved
@@ -11718,7 +11524,6 @@ Title XXV of the Code. § 5105,title xxv of the code. § 5105,Statute,state_stat
 U.C. C. § 554.9301,u.c. c. § 554.9301,Statute,state_statute,IA,1,1,1,1987,1987,false,unresolved
 "U.I.Code 7, Part III § 43","u.i.code 7, part iii § 43",Statute,state_statute,IA,1,1,1,1997,1997,false,unresolved
 U.S. 558 § 92,u.s. 558 § 92,Statute,state_statute,IA,1,1,1,1861,1861,false,unresolved
-U.S. 71. Iowa Code § 306.4,u.s. 71. iowa code § 306.4,Statute,state_statute,IA,1,1,1,1999,1999,false,unresolved
 U.S. Dig. § 630,u.s. dig. § 630,Statute,state_statute,IA,1,1,1,1851,1851,false,unresolved
 U.S. Rev. Stat. § 1763,u.s. rev. stat. § 1763,Statute,state_statute,IA,1,1,1,1917,1917,false,unresolved
 U.S. Rev. Stat. § 2372,u.s. rev. stat. § 2372,Statute,state_statute,IA,1,1,1,1876,1876,false,unresolved
@@ -11742,14 +11547,11 @@ UCCJEA. Iowa Code § 598B.102,uccjea. iowa code § 598b.102,Statute,state_statut
 UIHC. Iowa Code § 262.7,uihc. iowa code § 262.7,Statute,state_statute,IA,1,1,1,2014,2014,false,unresolved
 URPTDA § 5,urptda § 5,Statute,state_statute,IA,1,1,1,2021,2021,false,unresolved
 URPTDA § 7,urptda § 7,Statute,state_statute,IA,1,1,1,2021,2021,false,unresolved
-V. Iowa Code § 573.10,v. iowa code § 573.10,Statute,state_statute,IA,1,1,1,1998,1998,false,unresolved
-V. Iowa Code § 907.3,v. iowa code § 907.3,Statute,state_statute,IA,1,1,1,2011,2011,false,unresolved
 V.I.Code Ann. tit. 14 § 661,v.i.code ann. tit. 14 § 661,Statute,state_statute,IA,1,1,1,1979,1979,true,exact
 VI. Iowa Code § 4.6IA.II,vi. iowa code § 4.6ia.ii,Statute,state_statute,IA,1,1,1,1996,1996,false,unresolved
 VIII. Code § 12543,viii. code § 12543,Statute,state_statute,IA,1,1,1,1930,1930,false,unresolved
 VIII. Code § 889,viii. code § 889,Statute,state_statute,IA,1,1,1,1887,1887,false,unresolved
 VIII. Costs. Iowa Code § 86.32,viii. costs. iowa code § 86.32,Statute,state_statute,IA,1,1,1,1983,1983,false,unresolved
-VIII. Iowa Code § 804.8,viii. iowa code § 804.8,Statute,state_statute,IA,1,1,1,2019,2019,false,unresolved
 W. S.A. 260.19,w. s.a. 260.19,Statute,state_statute,IA,1,1,1,1971,1971,false,unresolved
 W.C.S.1945 § 10-2414,w.c.s.1945 § 10-2414,Statute,state_statute,IA,1,1,1,1953,1953,false,unresolved
 WHPI of Iowa Code § 514P,whpi of iowa code § 514p,Statute,state_statute,IA,1,1,1,2017,2017,false,unresolved

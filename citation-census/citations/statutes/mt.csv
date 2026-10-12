@@ -1,8 +1,8 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-Mont. Code Ann. § 33-18-201,mont. code ann. § 33-18-201,Statute,state_statute,MT,112,53,4,1988,2025,true,exact
-Mont. Code Ann. § 33-18-242,mont. code ann. § 33-18-242,Statute,state_statute,MT,106,50,5,1993,2025,true,exact
-Mont. Code Ann. § 27-1-221,mont. code ann. § 27-1-221,Statute,state_statute,MT,87,46,8,1989,2026,true,exact
-Mont. Code Ann. § 27-2-204,mont. code ann. § 27-2-204,Statute,state_statute,MT,76,61,7,1989,2026,true,exact
+Mont. Code Ann. § 33-18-201,mont. code ann. § 33-18-201,Statute,state_statute,MT,120,53,4,1988,2025,true,exact
+Mont. Code Ann. § 33-18-242,mont. code ann. § 33-18-242,Statute,state_statute,MT,107,50,5,1993,2025,true,exact
+Mont. Code Ann. § 27-1-221,mont. code ann. § 27-1-221,Statute,state_statute,MT,93,46,8,1989,2026,true,exact
+Mont. Code Ann. § 27-2-204,mont. code ann. § 27-2-204,Statute,state_statute,MT,80,61,7,1989,2026,true,exact
 Mont. Code Ann. § 45,mont. code ann. § 45,Statute,state_statute,MT,53,37,7,1989,2025,false,unresolved
 Mont. Code Ann. § 27-1-703,mont. code ann. § 27-1-703,Statute,state_statute,MT,51,9,2,1987,2026,true,exact
 Mont. Code Ann. § 2-9-305,mont. code ann. § 2-9-305,Statute,state_statute,MT,48,17,4,1997,2026,true,exact
@@ -10,19 +10,19 @@ Mont. Code Ann. § 45-2-101,mont. code ann. § 45-2-101,Statute,state_statute,MT
 Mont. Code Ann. § 45-5-102,mont. code ann. § 45-5-102,Statute,state_statute,MT,47,37,13,1979,2024,true,exact
 Mont. Code Ann. § 27,mont. code ann. § 27,Statute,state_statute,MT,45,33,3,1995,2026,false,unresolved
 Mont. Code Ann. § 46,mont. code ann. § 46,Statute,state_statute,MT,44,28,7,1998,2022,false,unresolved
+Mont. Code Ann. § 13-37-216,mont. code ann. § 13-37-216,Statute,state_statute,MT,43,12,4,1995,2020,true,exact
 Mont.Code Ann. § 33-18-201,mont.code ann. § 33-18-201,Statute,state_statute,MT,43,21,6,1986,2015,true,exact
-Mont. Code Ann. § 13-37-216,mont. code ann. § 13-37-216,Statute,state_statute,MT,40,12,4,1995,2020,true,exact
 Mont. Code Ann. § 2-2-136,mont. code ann. § 2-2-136,Statute,state_statute,MT,40,3,2,2017,2019,true,exact
 SDCL § 23A-27-13,sdcl § 23a-27-13,Statute,state_statute,MT,40,3,1,2012,2012,true,exact
 Mont. Code Ann. § 31-2-333,mont. code ann. § 31-2-333,Statute,state_statute,MT,39,8,4,1996,2024,true,exact
 Mont.Code Ann. § 33-18-242,mont.code ann. § 33-18-242,Statute,state_statute,MT,39,16,4,1991,2015,true,exact
+Mont. Code Ann. § 13-1-101,mont. code ann. § 13-1-101,Statute,state_statute,MT,37,7,3,2009,2022,true,exact
+Mont. Code Ann. § 27-2-102,mont. code ann. § 27-2-102,Statute,state_statute,MT,37,22,3,1992,2025,true,exact
+Montana Code Annotated § 13-37-216,montana code annotated § 13-37-216,Statute,state_statute,MT,36,8,2,2012,2017,true,exact
 SDCL § 23A-27-15,sdcl § 23a-27-15,Statute,state_statute,MT,36,3,1,2012,2012,true,exact
-Mont. Code Ann. § 13-1-101,mont. code ann. § 13-1-101,Statute,state_statute,MT,35,7,3,2012,2022,true,exact
 Mont. Code Ann. § 2,mont. code ann. § 2,Statute,state_statute,MT,34,27,4,2007,2026,false,unresolved
-Montana Code Annotated § 13-37-216,montana code annotated § 13-37-216,Statute,state_statute,MT,34,8,2,2012,2017,true,exact
-Mont. Code Ann. § 27-1-719,mont. code ann. § 27-1-719,Statute,state_statute,MT,33,15,3,2019,2025,true,exact
-Mont. Code Ann. § 27-2-102,mont. code ann. § 27-2-102,Statute,state_statute,MT,33,22,3,1995,2025,true,exact
-Mont. Code Ann. § 46-23-201,mont. code ann. § 46-23-201,Statute,state_statute,MT,33,18,11,1979,2022,true,exact
+Mont. Code Ann. § 27-1-719,mont. code ann. § 27-1-719,Statute,state_statute,MT,34,15,3,2009,2025,true,exact
+Mont. Code Ann. § 46-23-201,mont. code ann. § 46-23-201,Statute,state_statute,MT,34,18,11,1979,2022,true,exact
 Mont. Code Ann. § 49-2-312,mont. code ann. § 49-2-312,Statute,state_statute,MT,33,8,3,2022,2025,true,exact
 Mont.Code Ann. § 69-14-1002,mont.code ann. § 69-14-1002,Statute,state_statute,MT,33,3,2,1995,1997,true,exact
 Mont.Code Ann. § 27-1-221,mont.code ann. § 27-1-221,Statute,state_statute,MT,32,23,6,1986,2012,true,exact
@@ -46,71 +46,72 @@ Mont. Code Ann. § 27-1-308,mont. code ann. § 27-1-308,Statute,state_statute,MT
 Mont. Code Ann. § 27-2-203,mont. code ann. § 27-2-203,Statute,state_statute,MT,18,12,3,2015,2025,true,exact
 Mont. Code Ann. § 46-18-204,mont. code ann. § 46-18-204,Statute,state_statute,MT,18,11,4,2001,2022,true,exact
 Mont. Code Ann. § 46-21-102,mont. code ann. § 46-21-102,Statute,state_statute,MT,18,14,5,1999,2025,true,exact
+Mont. Code Ann. § 77-6-506,mont. code ann. § 77-6-506,Statute,state_statute,MT,18,3,2,2022,2023,true,exact
 Mont.Code Ann. § 45-2-101,mont.code ann. § 45-2-101,Statute,state_statute,MT,18,15,7,1980,2016,true,exact
 Mont.Code Ann. § 45-6-204,mont.code ann. § 45-6-204,Statute,state_statute,MT,18,18,9,1988,2016,true,exact
 Mont.Code Ann. § 46-18-301,mont.code ann. § 46-18-301,Statute,state_statute,MT,18,14,5,1988,2013,true,exact
 Mont.Code Ann. § 46-23-201,mont.code ann. § 46-23-201,Statute,state_statute,MT,18,14,8,1986,2010,true,exact
+Mont. Code Ann. § 27-1-220,mont. code ann. § 27-1-220,Statute,state_statute,MT,17,11,3,1989,2025,true,exact
 Mont. Code Ann. § 30-14-103,mont. code ann. § 30-14-103,Statute,state_statute,MT,17,16,7,2003,2025,true,exact
 Mont. Code Ann. § 33,mont. code ann. § 33,Statute,state_statute,MT,17,13,5,2000,2024,false,unresolved
 Mont. Code Ann. § 45-2-203,mont. code ann. § 45-2-203,Statute,state_statute,MT,17,10,5,1996,2020,true,exact
 Mont. Code Ann. § 45-5-103,mont. code ann. § 45-5-103,Statute,state_statute,MT,17,10,4,2000,2023,true,exact
-Mont. Code Ann. § 77-6-506,mont. code ann. § 77-6-506,Statute,state_statute,MT,17,3,2,2022,2023,true,exact
 Mont.Code Ann. § 27-1-703,mont.code ann. § 27-1-703,Statute,state_statute,MT,17,11,9,1991,2012,true,exact
 Mont.Code Ann. § 27-2-204,mont.code ann. § 27-2-204,Statute,state_statute,MT,17,14,4,1991,2015,true,exact
 R.C.M. 1947 § 91-107,r.c.m. 1947 § 91-107,Statute,state_statute,MT,17,4,1,1954,1960,false,unresolved
 Mont. Code Ann. § 13-35-210,mont. code ann. § 13-35-210,Statute,state_statute,MT,16,4,2,2020,2024,true,exact
-Mont. Code Ann. § 27-1-220,mont. code ann. § 27-1-220,Statute,state_statute,MT,16,11,3,1998,2025,true,exact
 Mont. Code Ann. § 27-2-202,mont. code ann. § 27-2-202,Statute,state_statute,MT,16,15,5,2001,2025,true,exact
 Mont. Code Ann. § 45-6-204,mont. code ann. § 45-6-204,Statute,state_statute,MT,16,14,10,1982,2022,true,exact
 R.C.M. 1947 § 93-216,r.c.m. 1947 § 93-216,Statute,state_statute,MT,16,9,1,1954,1963,false,unresolved
 Mont. Code Ann. § 28-2-708,mont. code ann. § 28-2-708,Statute,state_statute,MT,15,6,3,2003,2024,true,exact
+Mont. Code Ann. § 39-2-902,mont. code ann. § 39-2-902,Statute,state_statute,MT,15,12,5,1999,2026,true,exact
 Mont. Code Ann. § 45-5-202,mont. code ann. § 45-5-202,Statute,state_statute,MT,15,10,8,2009,2023,true,exact
 Mont. Code Ann. § 45-5-625,mont. code ann. § 45-5-625,Statute,state_statute,MT,15,14,8,1982,2024,true,exact
 Mont. Code Ann. § 49-2-101,mont. code ann. § 49-2-101,Statute,state_statute,MT,15,10,5,2003,2026,true,exact
 Mont. Code Ann. § 49-2-303,mont. code ann. § 49-2-303,Statute,state_statute,MT,15,9,3,1997,2025,true,exact
 Mont. Code Ann. § 72-2-814,mont. code ann. § 72-2-814,Statute,state_statute,MT,15,4,2,1998,2013,true,exact
+Mont. Code. Ann. § 33-18-242,mont. code. ann. § 33-18-242,Statute,state_statute,MT,15,6,1,1995,2025,true,exact
 Mont.Code Ann. § 45-5-102,mont.code ann. § 45-5-102,Statute,state_statute,MT,15,14,6,1980,2014,true,exact
 Mont.Code Ann. § 46-18-221,mont.code ann. § 46-18-221,Statute,state_statute,MT,15,7,3,1984,1991,true,exact
+Mont. Code Ann. § 2-4-704,mont. code ann. § 2-4-704,Statute,state_statute,MT,14,8,3,2009,2023,true,exact
 Mont. Code Ann. § 27-5-114,mont. code ann. § 27-5-114,Statute,state_statute,MT,14,12,8,1995,2024,true,exact
 Mont. Code Ann. § 30-14-101,mont. code ann. § 30-14-101,Statute,state_statute,MT,14,11,5,2015,2025,true,exact
-Mont. Code Ann. § 39-2-902,mont. code ann. § 39-2-902,Statute,state_statute,MT,14,12,5,1999,2026,true,exact
 Mont. Code Ann. § 45-6-301,mont. code ann. § 45-6-301,Statute,state_statute,MT,14,13,9,1985,2019,true,exact
 Mont. Code Ann. § 45-9-101,mont. code ann. § 45-9-101,Statute,state_statute,MT,14,7,4,1990,2021,true,exact
 Mont. Code Ann. § 46-18-301,mont. code ann. § 46-18-301,Statute,state_statute,MT,14,14,4,1983,2010,true,exact
 Mont. Code Ann. § 46-21-110,mont. code ann. § 46-21-110,Statute,state_statute,MT,14,8,6,2004,2016,true,exact
 Mont. Code Ann. § 46-23-502,mont. code ann. § 46-23-502,Statute,state_statute,MT,14,13,9,2010,2023,true,exact
-Mont. Code. Ann. § 33-18-242,mont. code. ann. § 33-18-242,Statute,state_statute,MT,14,6,1,2019,2025,true,exact
 Mont.Code Ann. § 27-2-202,mont.code ann. § 27-2-202,Statute,state_statute,MT,14,8,4,1992,2013,true,exact
+Montana Code Annotated § 13-35-227,montana code annotated § 13-35-227,Statute,state_statute,MT,14,4,1,2012,2016,true,exact
 Montana Code Annotated § 39-2-703,montana code annotated § 39-2-703,Statute,state_statute,MT,14,2,1,2020,2020,false,unresolved
 M.W.M.H.A. § 408,m.w.m.h.a. § 408,Statute,state_statute,MT,13,2,1,1990,1990,false,unresolved
 Mont. Code Ann. § 18-1-402,mont. code ann. § 18-1-402,Statute,state_statute,MT,13,2,2,2020,2023,true,exact
-Mont. Code Ann. § 2-4-704,mont. code ann. § 2-4-704,Statute,state_statute,MT,13,8,3,2009,2023,true,exact
 Mont. Code Ann. § 27-2-216,mont. code ann. § 27-2-216,Statute,state_statute,MT,13,5,5,1992,2024,true,exact
 Mont. Code Ann. § 39,mont. code ann. § 39,Statute,state_statute,MT,13,8,4,2005,2025,false,unresolved
 Mont. Code Ann. § 39-71-413,mont. code ann. § 39-71-413,Statute,state_statute,MT,13,5,5,1981,2021,true,exact
 Mont. Code Ann. § 40-4-219,mont. code ann. § 40-4-219,Statute,state_statute,MT,13,1,1,1995,1995,true,exact
 Mont. Code Ann. § 45-5-206,mont. code ann. § 45-5-206,Statute,state_statute,MT,13,5,3,2000,2024,true,exact
+Mont. Code Ann. § 45-5-212,mont. code ann. § 45-5-212,Statute,state_statute,MT,13,5,2,2010,2024,true,exact
 Mont. Code Ann. § 45-8-216,mont. code ann. § 45-8-216,Statute,state_statute,MT,13,4,3,2018,2019,true,exact
 Mont. Code Ann. § 46-14-102,mont. code ann. § 46-14-102,Statute,state_statute,MT,13,11,7,1990,2024,true,exact
 Mont. Code Ann. § 46-21-105,mont. code ann. § 46-21-105,Statute,state_statute,MT,13,11,2,2006,2025,true,exact
 Mont. Code Ann. § 49-2-512,mont. code ann. § 49-2-512,Statute,state_statute,MT,13,5,1,2019,2026,true,exact
+Mont. Code Ann. § 50-32-224,mont. code ann. § 50-32-224,Statute,state_statute,MT,13,4,2,2001,2022,true,exact
 Mont.Code Ann. § 13-37-216,mont.code ann. § 13-37-216,Statute,state_statute,MT,13,8,3,1995,2015,true,exact
 Mont.Code Ann. § 20-3-107,mont.code ann. § 20-3-107,Statute,state_statute,MT,13,2,1,1996,1996,true,exact
 Mont.Code Ann. § 33-23-201,mont.code ann. § 33-23-201,Statute,state_statute,MT,13,6,4,1989,2009,true,exact
 Mont.Code Ann. § 39-2-903,mont.code ann. § 39-2-903,Statute,state_statute,MT,13,9,2,1994,2012,true,exact
 Mont.Code Ann. § 45-6-301,mont.code ann. § 45-6-301,Statute,state_statute,MT,13,8,4,1985,2006,true,exact
 Mont.Code Ann. § 46-18-304,mont.code ann. § 46-18-304,Statute,state_statute,MT,13,10,5,1984,1997,true,exact
-Montana Code Annotated § 13-35-227,montana code annotated § 13-35-227,Statute,state_statute,MT,13,4,1,2012,2016,true,exact
 Montana Code Annotated § 33-18-201,montana code annotated § 33-18-201,Statute,state_statute,MT,13,12,2,1990,2025,true,exact
 R.C. 1907,r.c. 1907,Statute,state_statute,MT,13,6,5,1919,2025,false,unresolved
 R.C.M. 1947 § 91-108,r.c.m. 1947 § 91-108,Statute,state_statute,MT,13,2,1,1960,1960,false,unresolved
 MCA § 50-20-109,mca § 50-20-109,Statute,state_statute,MT,12,2,1,1999,1999,true,exact
 Mont. Code Ann. § 25-2-122,mont. code ann. § 25-2-122,Statute,state_statute,MT,12,2,1,2022,2022,true,exact
 Mont. Code Ann. § 27-5-323,mont. code ann. § 27-5-323,Statute,state_statute,MT,12,2,2,2007,2022,true,exact
+Mont. Code Ann. § 33-18-101,mont. code ann. § 33-18-101,Statute,state_statute,MT,12,10,2,1986,2025,true,exact
 Mont. Code Ann. § 39-2-901,mont. code ann. § 39-2-901,Statute,state_statute,MT,12,12,3,1988,2026,true,exact
 Mont. Code Ann. § 45-2-302,mont. code ann. § 45-2-302,Statute,state_statute,MT,12,6,4,2001,2025,true,exact
-Mont. Code Ann. § 45-5-212,mont. code ann. § 45-5-212,Statute,state_statute,MT,12,5,2,2010,2024,true,exact
-Mont. Code Ann. § 50-32-224,mont. code ann. § 50-32-224,Statute,state_statute,MT,12,4,2,2001,2022,true,exact
 Mont.Code Ann. § 27-1-513,mont.code ann. § 27-1-513,Statute,state_statute,MT,12,10,6,1986,2016,true,exact
 Mont.Code Ann. § 30-14-133,mont.code ann. § 30-14-133,Statute,state_statute,MT,12,11,10,1990,2014,true,exact
 Mont.Code Ann. § 31-1-107,mont.code ann. § 31-1-107,Statute,state_statute,MT,12,2,1,1992,2000,true,exact
@@ -123,8 +124,9 @@ Mont. Code Ann. § 13-37-131,mont. code ann. § 13-37-131,Statute,state_statute,
 Mont. Code Ann. § 2-9-301,mont. code ann. § 2-9-301,Statute,state_statute,MT,11,5,1,2020,2025,true,exact
 Mont. Code Ann. § 27-30-101,mont. code ann. § 27-30-101,Statute,state_statute,MT,11,8,4,1995,2025,true,exact
 Mont. Code Ann. § 28-2-102,mont. code ann. § 28-2-102,Statute,state_statute,MT,11,11,2,2012,2025,true,exact
+Mont. Code Ann. § 28-3-202,mont. code ann. § 28-3-202,Statute,state_statute,MT,11,9,4,1983,2023,true,exact
 Mont. Code Ann. § 30-14-133,mont. code ann. § 30-14-133,Statute,state_statute,MT,11,9,7,2003,2025,true,exact
-Mont. Code Ann. § 33-18-101,mont. code ann. § 33-18-101,Statute,state_statute,MT,11,10,2,1992,2025,true,exact
+Mont. Code Ann. § 39-2-903,mont. code ann. § 39-2-903,Statute,state_statute,MT,11,9,3,1999,2022,true,exact
 Mont. Code Ann. § 41-5-206,mont. code ann. § 41-5-206,Statute,state_statute,MT,11,11,7,1984,2023,true,exact
 Mont. Code Ann. § 45-5-213,mont. code ann. § 45-5-213,Statute,state_statute,MT,11,7,4,2008,2023,true,exact
 Mont. Code Ann. § 46-18-222,mont. code ann. § 46-18-222,Statute,state_statute,MT,11,10,5,2010,2022,true,exact
@@ -145,13 +147,17 @@ MCA § 46-11-110,mca § 46-11-110,Statute,state_statute,MT,10,7,1,2005,2009,true
 Mont. Code Ann. § 23,mont. code ann. § 23,Statute,state_statute,MT,10,7,3,1998,2021,false,unresolved
 Mont. Code Ann. § 27-1-434,mont. code ann. § 27-1-434,Statute,state_statute,MT,10,3,1,2025,2025,true,exact
 Mont. Code Ann. § 27-1-501,mont. code ann. § 27-1-501,Statute,state_statute,MT,10,9,5,1987,2025,true,exact
+Mont. Code Ann. § 27-1-801,mont. code ann. § 27-1-801,Statute,state_statute,MT,10,9,3,1997,2025,true,exact
 Mont. Code Ann. § 28-1-211,mont. code ann. § 28-1-211,Statute,state_statute,MT,10,9,5,2015,2026,true,exact
+Mont. Code Ann. § 28-2-703,mont. code ann. § 28-2-703,Statute,state_statute,MT,10,4,3,1994,2025,true,exact
 Mont. Code Ann. § 28-3-102,mont. code ann. § 28-3-102,Statute,state_statute,MT,10,9,4,2000,2024,true,exact
 Mont. Code Ann. § 301,mont. code ann. § 301,Statute,state_statute,MT,10,10,2,1998,2025,false,unresolved
 Mont. Code Ann. § 39-2-912,mont. code ann. § 39-2-912,Statute,state_statute,MT,10,7,3,1991,2025,true,exact
 Mont. Code Ann. § 41-3-609,mont. code ann. § 41-3-609,Statute,state_statute,MT,10,10,3,2004,2024,true,exact
+Mont. Code Ann. § 45-5-401,mont. code ann. § 45-5-401,Statute,state_statute,MT,10,6,5,1987,2025,true,exact
 Mont. Code Ann. § 46-16-220,mont. code ann. § 46-16-220,Statute,state_statute,MT,10,4,2,2013,2025,true,exact
 Mont. Code Ann. § 46-18-201,mont. code ann. § 46-18-201,Statute,state_statute,MT,10,10,5,1987,2023,true,exact
+Mont. Code Ann. § 46-18-304,mont. code ann. § 46-18-304,Statute,state_statute,MT,10,9,1,1982,1993,true,exact
 Mont. Code Ann. § 61,mont. code ann. § 61,Statute,state_statute,MT,10,5,2,1996,2022,false,unresolved
 Mont. Code Ann. § 70-16-302,mont. code ann. § 70-16-302,Statute,state_statute,MT,10,5,4,1996,2025,true,exact
 Mont.Code Ann. § 2-4-702,mont.code ann. § 2-4-702,Statute,state_statute,MT,10,4,1,1996,2009,true,exact
@@ -169,23 +175,20 @@ Mont. Code Ann. § 13-35-227,mont. code ann. § 13-35-227,Statute,state_statute,
 Mont. Code Ann. § 15,mont. code ann. § 15,Statute,state_statute,MT,9,4,2,1996,2020,false,unresolved
 Mont. Code Ann. § 15-25-111,mont. code ann. § 15-25-111,Statute,state_statute,MT,9,5,3,1994,2021,false,unresolved
 Mont. Code Ann. § 2-15-108,mont. code ann. § 2-15-108,Statute,state_statute,MT,9,1,1,2025,2025,true,exact
+Mont. Code Ann. § 23-2-702,mont. code ann. § 23-2-702,Statute,state_statute,MT,9,7,5,2014,2021,true,exact
 Mont. Code Ann. § 25-9-205,mont. code ann. § 25-9-205,Statute,state_statute,MT,9,4,2,2016,2025,true,exact
 Mont. Code Ann. § 25-9-411,mont. code ann. § 25-9-411,Statute,state_statute,MT,9,7,2,2020,2025,true,exact
+Mont. Code Ann. § 26-1-804,mont. code ann. § 26-1-804,Statute,state_statute,MT,9,4,3,1993,2021,true,exact
 Mont. Code Ann. § 27-1-211,mont. code ann. § 27-1-211,Statute,state_statute,MT,9,6,5,1993,2025,true,exact
 Mont. Code Ann. § 27-1-701,mont. code ann. § 27-1-701,Statute,state_statute,MT,9,7,3,2007,2023,true,exact
-Mont. Code Ann. § 27-1-801,mont. code ann. § 27-1-801,Statute,state_statute,MT,9,9,3,1997,2025,true,exact
 Mont. Code Ann. § 27-2-205,mont. code ann. § 27-2-205,Statute,state_statute,MT,9,6,4,2008,2024,true,exact
+Mont. Code Ann. § 28-10-702,mont. code ann. § 28-10-702,Statute,state_statute,MT,9,6,1,2019,2025,true,exact
 Mont. Code Ann. § 28-2-406,mont. code ann. § 28-2-406,Statute,state_statute,MT,9,9,2,2017,2025,true,exact
-Mont. Code Ann. § 28-2-703,mont. code ann. § 28-2-703,Statute,state_statute,MT,9,4,3,1994,2025,true,exact
-Mont. Code Ann. § 28-3-202,mont. code ann. § 28-3-202,Statute,state_statute,MT,9,9,4,2010,2023,true,exact
 Mont. Code Ann. § 30,mont. code ann. § 30,Statute,state_statute,MT,9,8,3,2019,2025,false,unresolved
 Mont. Code Ann. § 33-15-334,mont. code ann. § 33-15-334,Statute,state_statute,MT,9,4,2,2021,2022,true,exact
 Mont. Code Ann. § 33-15-337,mont. code ann. § 33-15-337,Statute,state_statute,MT,9,5,3,2021,2022,true,exact
-Mont. Code Ann. § 39-2-903,mont. code ann. § 39-2-903,Statute,state_statute,MT,9,9,3,1999,2022,true,exact
-Mont. Code Ann. § 45-5-401,mont. code ann. § 45-5-401,Statute,state_statute,MT,9,6,5,1995,2025,true,exact
 Mont. Code Ann. § 45-5-622,mont. code ann. § 45-5-622,Statute,state_statute,MT,9,6,4,1992,2024,true,exact
 Mont. Code Ann. § 45-7-303,mont. code ann. § 45-7-303,Statute,state_statute,MT,9,5,4,2018,2022,true,exact
-Mont. Code Ann. § 46-18-304,mont. code ann. § 46-18-304,Statute,state_statute,MT,9,9,1,1982,1993,true,exact
 Mont. Code Ann. § 46-22-101,mont. code ann. § 46-22-101,Statute,state_statute,MT,9,6,1,2021,2025,true,exact
 Mont. Code Ann. § 49-2-301,mont. code ann. § 49-2-301,Statute,state_statute,MT,9,6,1,2022,2025,true,exact
 Mont. Code Ann. § 49-2-305,mont. code ann. § 49-2-305,Statute,state_statute,MT,9,1,1,2012,2012,true,exact
@@ -216,8 +219,6 @@ MCA § 46-18-203,mca § 46-18-203,Statute,state_statute,MT,8,5,2,2001,2020,true,
 MCA § 61-8-731,mca § 61-8-731,Statute,state_statute,MT,8,7,1,2001,2025,false,unresolved
 Mont. Co. Code § 51-15,mont. co. code § 51-15,Statute,state_statute,MT,8,1,1,2013,2013,false,unresolved
 Mont. Code Ann. § 15-35-103,mont. code ann. § 15-35-103,Statute,state_statute,MT,8,4,2,1981,1981,true,exact
-Mont. Code Ann. § 23-2-702,mont. code ann. § 23-2-702,Statute,state_statute,MT,8,7,5,2016,2021,true,exact
-Mont. Code Ann. § 26-1-804,mont. code ann. § 26-1-804,Statute,state_statute,MT,8,4,3,1993,2021,true,exact
 Mont. Code Ann. § 27-1-804,mont. code ann. § 27-1-804,Statute,state_statute,MT,8,5,1,2012,2023,true,exact
 Mont. Code Ann. § 27-2-211,mont. code ann. § 27-2-211,Statute,state_statute,MT,8,6,4,2017,2025,true,exact
 Mont. Code Ann. § 28-10-103,mont. code ann. § 28-10-103,Statute,state_statute,MT,8,5,2,2001,2025,true,exact
@@ -249,7 +250,6 @@ Mont.Code Ann. § 39-71-703,mont.code ann. § 39-71-703,Statute,state_statute,MT
 R.C. 14,r.c. 14,Statute,state_statute,MT,8,8,2,1974,2021,false,unresolved
 R.C.M. 1947 § 93-401-15,r.c.m. 1947 § 93-401-15,Statute,state_statute,MT,8,4,1,1954,1960,false,unresolved
 R.C.M.1947 § 93-901,r.c.m.1947 § 93-901,Statute,state_statute,MT,8,4,1,1962,1965,false,unresolved
-68 C.J. 711 § 392,68 c.j. 711 § 392,Statute,state_statute,MT,7,7,4,1937,1970,false,unresolved
 BMO § 2.06.030,bmo § 2.06.030,Statute,state_statute,MT,7,1,1,2001,2001,false,unresolved
 F.L.S.A. § 218,f.l.s.a. § 218,Statute,state_statute,MT,7,2,1,1990,1993,false,unresolved
 MCA § 41-3-609,mca § 41-3-609,Statute,state_statute,MT,7,6,1,1998,2014,true,exact
@@ -262,7 +262,7 @@ Mont. Code Ann. § 27-1-601,mont. code ann. § 27-1-601,Statute,state_statute,MT
 Mont. Code Ann. § 27-2-209,mont. code ann. § 27-2-209,Statute,state_statute,MT,7,5,1,2020,2026,true,exact
 Mont. Code Ann. § 27-2-407,mont. code ann. § 27-2-407,Statute,state_statute,MT,7,7,3,1987,2025,true,exact
 Mont. Code Ann. § 27-6-701,mont. code ann. § 27-6-701,Statute,state_statute,MT,7,5,3,2021,2025,true,exact
-Mont. Code Ann. § 28-10-702,mont. code ann. § 28-10-702,Statute,state_statute,MT,7,6,1,2019,2025,true,exact
+Mont. Code Ann. § 28-3-303,mont. code ann. § 28-3-303,Statute,state_statute,MT,7,5,4,1981,2023,true,exact
 Mont. Code Ann. § 31-2-329,mont. code ann. § 31-2-329,Statute,state_statute,MT,7,1,1,2024,2024,true,exact
 Mont. Code Ann. § 31-2-334,mont. code ann. § 31-2-334,Statute,state_statute,MT,7,1,1,2020,2020,true,exact
 Mont. Code Ann. § 33-28-108,mont. code ann. § 33-28-108,Statute,state_statute,MT,7,1,1,2016,2016,true,exact
@@ -322,7 +322,8 @@ Mont. Code Ann. § 16-11-504,mont. code ann. § 16-11-504,Statute,state_statute,
 Mont. Code Ann. § 16-2-101,mont. code ann. § 16-2-101,Statute,state_statute,MT,6,2,1,2018,2018,true,exact
 Mont. Code Ann. § 23-2-653,mont. code ann. § 23-2-653,Statute,state_statute,MT,6,2,1,2007,2007,true,exact
 Mont. Code Ann. § 27-1-712,mont. code ann. § 27-1-712,Statute,state_statute,MT,6,5,1,2020,2025,true,exact
-Mont. Code Ann. § 28-3-303,mont. code ann. § 28-3-303,Statute,state_statute,MT,6,5,4,1981,2023,true,exact
+Mont. Code Ann. § 28-3-301,mont. code ann. § 28-3-301,Statute,state_statute,MT,6,5,4,1983,2023,true,exact
+Mont. Code Ann. § 31-1-107,mont. code ann. § 31-1-107,Statute,state_statute,MT,6,2,1,2000,2021,true,exact
 Mont. Code Ann. § 33-1-605,mont. code ann. § 33-1-605,Statute,state_statute,MT,6,3,2,2021,2025,true,exact
 Mont. Code Ann. § 35-l-921,mont. code ann. § 35-l-921,Statute,state_statute,MT,6,1,1,1987,1987,false,unresolved
 Mont. Code Ann. § 37-22-401,mont. code ann. § 37-22-401,Statute,state_statute,MT,6,3,1,1996,1996,false,unresolved
@@ -335,6 +336,7 @@ Mont. Code Ann. § 45-7-401,mont. code ann. § 45-7-401,Statute,state_statute,MT
 Mont. Code Ann. § 45-8-205,mont. code ann. § 45-8-205,Statute,state_statute,MT,6,1,1,2026,2026,true,exact
 Mont. Code Ann. § 46-11-404,mont. code ann. § 46-11-404,Statute,state_statute,MT,6,6,1,2000,2018,true,exact
 Mont. Code Ann. § 46-15-401,mont. code ann. § 46-15-401,Statute,state_statute,MT,6,6,5,1984,1990,false,unresolved
+Mont. Code Ann. § 46-18-305,mont. code ann. § 46-18-305,Statute,state_statute,MT,6,5,4,1984,2004,true,exact
 Mont. Code Ann. § 46-18-801,mont. code ann. § 46-18-801,Statute,state_statute,MT,6,3,2,2001,2023,true,exact
 Mont. Code Ann. § 46-19-103,mont. code ann. § 46-19-103,Statute,state_statute,MT,6,6,2,2008,2018,true,exact
 Mont. Code Ann. § 46-23-1012,mont. code ann. § 46-23-1012,Statute,state_statute,MT,6,2,2,1994,2006,true,exact
@@ -370,6 +372,7 @@ Mont.Code Ann. § 42-7-101,mont.code ann. § 42-7-101,Statute,state_statute,MT,6
 Mont.Code Ann. § 45-3-108,mont.code ann. § 45-3-108,Statute,state_statute,MT,6,6,4,1986,1998,true,exact
 Mont.Code Ann. § 45-5-201,mont.code ann. § 45-5-201,Statute,state_statute,MT,6,3,2,1991,2004,true,exact
 Mont.Code Ann. § 45-5-303,mont.code ann. § 45-5-303,Statute,state_statute,MT,6,6,3,1995,2010,true,exact
+Mont.Code Ann. § 61-8-353,mont.code ann. § 61-8-353,Statute,state_statute,MT,6,3,1,1995,1995,true,exact
 Mont.Code Ann. § 90-4-401,mont.code ann. § 90-4-401,Statute,state_statute,MT,6,4,1,1986,2007,true,exact
 Mont.Code Ann. § 95-2206.7,mont.code ann. § 95-2206.7,Statute,state_statute,MT,6,4,1,1988,1989,false,unresolved
 Mont.Code. Ann. § 33-18-201,mont.code. ann. § 33-18-201,Statute,state_statute,MT,6,2,1,2001,2001,true,exact
@@ -434,12 +437,9 @@ Mont. Code Ann. § 27-8-313,mont. code ann. § 27-8-313,Statute,state_statute,MT
 Mont. Code Ann. § 28-2-1611,mont. code ann. § 28-2-1611,Statute,state_statute,MT,5,4,2,2000,2019,true,exact
 Mont. Code Ann. § 28-2-404,mont. code ann. § 28-2-404,Statute,state_statute,MT,5,4,1,2019,2024,true,exact
 Mont. Code Ann. § 28-2-405,mont. code ann. § 28-2-405,Statute,state_statute,MT,5,3,2,2021,2024,true,exact
-Mont. Code Ann. § 28-3-301,mont. code ann. § 28-3-301,Statute,state_statute,MT,5,5,4,2000,2023,true,exact
 Mont. Code Ann. § 28-3-401,mont. code ann. § 28-3-401,Statute,state_statute,MT,5,5,3,2022,2024,true,exact
 Mont. Code Ann. § 30-14-159,mont. code ann. § 30-14-159,Statute,state_statute,MT,5,1,1,2025,2025,true,exact
 Mont. Code Ann. § 30-3-301,mont. code ann. § 30-3-301,Statute,state_statute,MT,5,2,2,2019,2020,true,exact
-Mont. Code Ann. § 31-1-107,mont. code ann. § 31-1-107,Statute,state_statute,MT,5,2,1,2020,2021,true,exact
-Mont. Code Ann. § 33--18-201,mont. code ann. § 33--18-201,Statute,state_statute,MT,5,1,1,2019,2019,false,unresolved
 Mont. Code Ann. § 33-2-1216,mont. code ann. § 33-2-1216,Statute,state_statute,MT,5,1,1,2020,2020,true,exact
 Mont. Code Ann. § 35-8-909,mont. code ann. § 35-8-909,Statute,state_statute,MT,5,3,2,2010,2023,true,exact
 Mont. Code Ann. § 39-71-105,mont. code ann. § 39-71-105,Statute,state_statute,MT,5,4,3,2014,2022,true,exact
@@ -452,7 +452,6 @@ Mont. Code Ann. § 45-8-201,mont. code ann. § 45-8-201,Statute,state_statute,MT
 Mont. Code Ann. § 45-9-102,mont. code ann. § 45-9-102,Statute,state_statute,MT,5,5,4,1989,2023,true,exact
 Mont. Code Ann. § 46-11-504,mont. code ann. § 46-11-504,Statute,state_statute,MT,5,5,4,1985,2021,true,exact
 Mont. Code Ann. § 46-13-401,mont. code ann. § 46-13-401,Statute,state_statute,MT,5,5,4,1994,2015,true,exact
-Mont. Code Ann. § 46-18-305,mont. code ann. § 46-18-305,Statute,state_statute,MT,5,5,4,1984,2004,true,exact
 Mont. Code Ann. § 46-18-401,mont. code ann. § 46-18-401,Statute,state_statute,MT,5,2,2,2011,2022,true,exact
 Mont. Code Ann. § 46-18-901,mont. code ann. § 46-18-901,Statute,state_statute,MT,5,4,3,1998,2021,true,exact
 Mont. Code Ann. § 46-23-1011,mont. code ann. § 46-23-1011,Statute,state_statute,MT,5,4,2,2001,2014,true,exact
@@ -476,6 +475,7 @@ Mont. Code Ann. § 82-4-201,mont. code ann. § 82-4-201,Statute,state_statute,MT
 Mont. Code Ann. § 9,mont. code ann. § 9,Statute,state_statute,MT,5,3,3,1991,2024,false,unresolved
 Mont. Code § 46-23-201,mont. code § 46-23-201,Statute,state_statute,MT,5,3,2,2019,2023,true,exact
 Mont. Code. Ann. § 13-35-225,mont. code. ann. § 13-35-225,Statute,state_statute,MT,5,2,1,2016,2016,true,exact
+Mont. Code. Ann. § 27-2-204,mont. code. ann. § 27-2-204,Statute,state_statute,MT,5,4,1,2019,2024,true,exact
 Mont. Code. Ann. § 45-8-118,mont. code. ann. § 45-8-118,Statute,state_statute,MT,5,1,1,2026,2026,true,exact
 Mont. Code. Ann. § 69-4-501,mont. code. ann. § 69-4-501,Statute,state_statute,MT,5,1,1,2018,2018,true,exact
 Mont.Code Ann. § 1-1-510,mont.code ann. § 1-1-510,Statute,state_statute,MT,5,3,2,1998,2008,true,exact
@@ -496,7 +496,8 @@ Mont.Code Ann. § 46-12-204,mont.code ann. § 46-12-204,Statute,state_statute,MT
 Mont.Code Ann. § 46-18-801,mont.code ann. § 46-18-801,Statute,state_statute,MT,5,3,3,1993,2001,true,exact
 Mont.Code Ann. § 46-21-105,mont.code ann. § 46-21-105,Statute,state_statute,MT,5,4,1,1987,2006,true,exact
 Mont.Code Ann. § 53-21-102,mont.code ann. § 53-21-102,Statute,state_statute,MT,5,4,3,1988,2001,true,exact
-Mont.Code Ann. § 61-8-353,mont.code ann. § 61-8-353,Statute,state_statute,MT,5,3,1,1995,1995,true,exact
+Mont.Code Ann. § 70-1-101,mont.code ann. § 70-1-101,Statute,state_statute,MT,5,4,3,1987,2010,true,exact
+Mont.Code Ann. § 71-1-222,mont.code ann. § 71-1-222,Statute,state_statute,MT,5,3,1,1993,1998,true,exact
 Mont.Code Ann. § 95-2206.15,mont.code ann. § 95-2206.15,Statute,state_statute,MT,5,2,1,1988,1989,false,unresolved
 Mont.Code. Ann. § 61-8-406,mont.code. ann. § 61-8-406,Statute,state_statute,MT,5,1,1,1998,1998,false,unresolved
 Mont.Rev.Codes Ann. § 95-1807,mont.rev.codes ann. § 95-1807,Statute,state_statute,MT,5,2,1,1976,1976,false,unresolved
@@ -538,7 +539,6 @@ WDEA § 39-2-904,wdea § 39-2-904,Statute,state_statute,MT,5,1,1,2007,2007,false
 4 Mont. Rev. Codes Ann. § 9788,4 mont. rev. codes ann. § 9788,Statute,state_statute,MT,4,3,1,1981,1981,false,unresolved
 "8 Montana Rev. Codes Ann. 1947, c. 99 § 94-9905","8 montana rev. codes ann. 1947, c. 99 § 94-9905",Statute,state_statute,MT,4,2,1,1950,1950,false,unresolved
 FCZR § 2.06.100,fczr § 2.06.100,Statute,state_statute,MT,4,1,1,2008,2008,false,unresolved
-H.B. 294 § 1,h.b. 294 § 1,Statute,state_statute,MT,4,2,1,2005,2005,false,unresolved
 IOR § I,ior § i,Statute,state_statute,MT,4,1,1,2025,2025,false,unresolved
 MAPA § 2-4-315,mapa § 2-4-315,Statute,state_statute,MT,4,3,1,1996,1996,false,unresolved
 MCA (1997) § 46-18-244,mca (1997) § 46-18-244,Statute,state_statute,MT,4,2,1,2002,2002,false,unresolved
@@ -566,7 +566,9 @@ Mont. Code Ann. § 1-1-217,mont. code ann. § 1-1-217,Statute,state_statute,MT,4
 Mont. Code Ann. § 13-37-124,mont. code ann. § 13-37-124,Statute,state_statute,MT,4,3,2,2020,2022,true,exact
 Mont. Code Ann. § 13-37-201,mont. code ann. § 13-37-201,Statute,state_statute,MT,4,3,2,2014,2022,true,exact
 Mont. Code Ann. § 13-37-229,mont. code ann. § 13-37-229,Statute,state_statute,MT,4,3,1,2012,2017,true,exact
+Mont. Code Ann. § 15-23-701,mont. code ann. § 15-23-701,Statute,state_statute,MT,4,3,2,1981,1998,true,exact
 Mont. Code Ann. § 15-30-111,mont. code ann. § 15-30-111,Statute,state_statute,MT,4,4,2,1989,1993,false,unresolved
+Mont. Code Ann. § 15-35-101,mont. code ann. § 15-35-101,Statute,state_statute,MT,4,3,1,1981,1998,true,exact
 Mont. Code Ann. § 16-11-503,mont. code ann. § 16-11-503,Statute,state_statute,MT,4,4,1,2023,2024,true,exact
 Mont. Code Ann. § 17-8-401,mont. code ann. § 17-8-401,Statute,state_statute,MT,4,4,3,2015,2025,true,exact
 Mont. Code Ann. § 17-8-403,mont. code ann. § 17-8-403,Statute,state_statute,MT,4,3,2,2016,2021,true,exact
@@ -594,6 +596,7 @@ Mont. Code Ann. § 30-14-201,mont. code ann. § 30-14-201,Statute,state_statute,
 Mont. Code Ann. § 30-14-402,mont. code ann. § 30-14-402,Statute,state_statute,MT,4,3,2,2001,2019,true,exact
 Mont. Code Ann. § 30-20-104,mont. code ann. § 30-20-104,Statute,state_statute,MT,4,1,1,2013,2013,true,exact
 Mont. Code Ann. § 31-1-108,mont. code ann. § 31-1-108,Statute,state_statute,MT,4,3,2,1987,2021,true,exact
+Mont. Code Ann. § 31-2-106,mont. code ann. § 31-2-106,Statute,state_statute,MT,4,2,2,2015,2020,true,exact
 Mont. Code Ann. § 33-1-601,mont. code ann. § 33-1-601,Statute,state_statute,MT,4,1,1,2011,2011,false,unresolved
 Mont. Code Ann. § 33-16-1021,mont. code ann. § 33-16-1021,Statute,state_statute,MT,4,1,1,2025,2025,true,exact
 Mont. Code Ann. § 33-18-206,mont. code ann. § 33-18-206,Statute,state_statute,MT,4,1,1,2011,2011,true,exact
@@ -637,6 +640,7 @@ Mont. Code Ann. § 70-28-104,mont. code ann. § 70-28-104,Statute,state_statute,
 Mont. Code Ann. § 70-32-104,mont. code ann. § 70-32-104,Statute,state_statute,MT,4,4,1,1995,2019,true,exact
 Mont. Code Ann. § 71-3-1004,mont. code ann. § 71-3-1004,Statute,state_statute,MT,4,2,1,2020,2020,true,exact
 Mont. Code Ann. § 72,mont. code ann. § 72,Statute,state_statute,MT,4,2,2,2018,2019,false,unresolved
+Mont. Code Ann. § 72-3-701,mont. code ann. § 72-3-701,Statute,state_statute,MT,4,1,1,2023,2023,true,exact
 Mont. Code Ann. § 72-33-219,mont. code ann. § 72-33-219,Statute,state_statute,MT,4,4,2,1993,2020,false,unresolved
 Mont. Code Ann. § 72-38-122,mont. code ann. § 72-38-122,Statute,state_statute,MT,4,1,1,2020,2020,true,exact
 Mont. Code Ann. § 72-38-123,mont. code ann. § 72-38-123,Statute,state_statute,MT,4,3,2,2020,2023,true,exact
@@ -652,7 +656,6 @@ Mont. Code. Ann. § 13-l-101,mont. code. ann. § 13-l-101,Statute,state_statute,
 Mont. Code. Ann. § 20-7-135,mont. code. ann. § 20-7-135,Statute,state_statute,MT,4,1,1,2026,2026,true,exact
 Mont. Code. Ann. § 27,mont. code. ann. § 27,Statute,state_statute,MT,4,1,1,2024,2024,false,unresolved
 Mont. Code. Ann. § 27-1-411,mont. code. ann. § 27-1-411,Statute,state_statute,MT,4,2,1,2019,2019,true,exact
-Mont. Code. Ann. § 27-2-204,mont. code. ann. § 27-2-204,Statute,state_statute,MT,4,4,1,2019,2024,true,exact
 Mont. Code. Ann. § 30-14-133,mont. code. ann. § 30-14-133,Statute,state_statute,MT,4,2,2,2020,2023,true,exact
 Mont. Code. Ann. § 33-17-611,mont. code. ann. § 33-17-611,Statute,state_statute,MT,4,2,1,2021,2021,true,exact
 Mont. Code. Ann. § 40-1-401,mont. code. ann. § 40-1-401,Statute,state_statute,MT,4,2,1,2004,2004,true,exact
@@ -676,7 +679,7 @@ Mont.Code Ann. § 2-9-101,mont.code ann. § 2-9-101,Statute,state_statute,MT,4,4
 Mont.Code Ann. § 23-2-301,mont.code ann. § 23-2-301,Statute,state_statute,MT,4,3,2,2001,2002,true,exact
 Mont.Code Ann. § 23-2-731,mont.code ann. § 23-2-731,Statute,state_statute,MT,4,4,3,1992,2015,true,exact
 Mont.Code Ann. § 27-5-114,mont.code ann. § 27-5-114,Statute,state_statute,MT,4,3,3,2006,2012,true,exact
-Mont.Code Ann. § 27-l-221,mont.code ann. § 27-l-221,Statute,state_statute,MT,4,2,2,2003,2010,false,unresolved
+Mont.Code Ann. § 28-1-104,mont.code ann. § 28-1-104,Statute,state_statute,MT,4,3,1,1993,1997,true,exact
 Mont.Code Ann. § 28-10-103,mont.code ann. § 28-10-103,Statute,state_statute,MT,4,2,1,2008,2008,true,exact
 Mont.Code Ann. § 28-3-303,mont.code ann. § 28-3-303,Statute,state_statute,MT,4,3,3,1986,2011,true,exact
 Mont.Code Ann. § 30-14-103,mont.code ann. § 30-14-103,Statute,state_statute,MT,4,4,4,2004,2013,true,exact
@@ -706,10 +709,8 @@ Mont.Code Ann. § 50-32-101,mont.code ann. § 50-32-101,Statute,state_statute,MT
 Mont.Code Ann. § 50-40-103,mont.code ann. § 50-40-103,Statute,state_statute,MT,4,4,2,1990,2009,true,exact
 Mont.Code Ann. § 50-71-201,mont.code ann. § 50-71-201,Statute,state_statute,MT,4,4,2,1992,1997,true,exact
 Mont.Code Ann. § 7-5-2129,mont.code ann. § 7-5-2129,Statute,state_statute,MT,4,2,1,2002,2002,true,exact
-Mont.Code Ann. § 70-1-101,mont.code ann. § 70-1-101,Statute,state_statute,MT,4,4,3,1987,2010,true,exact
 Mont.Code Ann. § 70-16-301,mont.code ann. § 70-16-301,Statute,state_statute,MT,4,3,2,1985,2013,true,exact
 Mont.Code Ann. § 70-32-103,mont.code ann. § 70-32-103,Statute,state_statute,MT,4,4,2,1994,2014,true,exact
-Mont.Code Ann. § 71-1-222,mont.code ann. § 71-1-222,Statute,state_statute,MT,4,3,1,1993,1998,true,exact
 Mont.Code Ann. § 75-1-101,mont.code ann. § 75-1-101,Statute,state_statute,MT,4,4,1,1986,1992,true,exact
 Mont.Code Ann. § 94-3-110,mont.code ann. § 94-3-110,Statute,state_statute,MT,4,4,1,1991,1992,false,unresolved
 Mont.Code Ann. § 95-2206.12,mont.code ann. § 95-2206.12,Statute,state_statute,MT,4,2,1,1988,1988,false,unresolved
@@ -733,6 +734,7 @@ Montana Code Annotated § 45-6-204,montana code annotated § 45-6-204,Statute,st
 Montana Code Annotated § 49-2-312,montana code annotated § 49-2-312,Statute,state_statute,MT,4,3,1,2022,2022,true,exact
 Montana Code § 28-1-104,montana code § 28-1-104,Statute,state_statute,MT,4,3,2,1997,2007,true,exact
 Montana Code § 33-18-242,montana code § 33-18-242,Statute,state_statute,MT,4,1,1,2018,2018,true,exact
+Montana Code § 39-51-1105,montana code § 39-51-1105,Statute,state_statute,MT,4,2,1,2015,2015,true,exact
 Montana Mont. Code Ann. § 27-1-221,montana mont. code ann. § 27-1-221,Statute,state_statute,MT,4,2,1,2004,2004,true,exact
 "Montana, 1995, ch. 243 § 8","montana, 1995, ch. 243 § 8",Statute,state_statute,MT,4,2,1,2012,2012,false,unresolved
 "Montana, 2003, Ch. 272 § 4","montana, 2003, ch. 272 § 4",Statute,state_statute,MT,4,2,1,2008,2008,false,unresolved
@@ -788,8 +790,6 @@ UPC § 2-204,upc § 2-204,Statute,state_statute,MT,4,3,2,1979,1995,false,unresol
 2003 Mont. Laws 151,2003 mont. laws 151,Statute,state_statute,MT,3,3,1,2015,2015,false,unresolved
 2011 Mont. Laws 307,2011 mont. laws 307,Statute,state_statute,MT,3,3,1,2015,2023,false,unresolved
 2015 Mont. Laws 1581,2015 mont. laws 1581,Statute,state_statute,MT,3,2,2,2018,2018,false,unresolved
-37 C.J. § 37,37 c.j. § 37,Statute,state_statute,MT,3,3,1,1963,1965,false,unresolved
-79 ALR 3d § 2,79 alr 3d § 2,Statute,state_statute,MT,3,3,1,1990,1990,false,unresolved
 ABA § 9.32,aba § 9.32,Statute,state_statute,MT,3,3,2,2007,2011,false,unresolved
 ARM § 11.7.404,arm § 11.7.404,Statute,state_statute,MT,3,3,1,1988,1989,false,unresolved
 ARM § 26.3.108,arm § 26.3.108,Statute,state_statute,MT,3,2,1,1980,1980,false,unresolved
@@ -804,8 +804,6 @@ DUI § 61-8-401,dui § 61-8-401,Statute,state_statute,MT,3,3,1,2009,2012,false,u
 F.P. 632-633 § 0.405,f.p. 632-633 § 0.405,Statute,state_statute,MT,3,3,1,1966,1999,false,unresolved
 FCZR § 2.06.080,fczr § 2.06.080,Statute,state_statute,MT,3,1,1,2008,2008,false,unresolved
 FCZR § 7.06.040,fczr § 7.06.040,Statute,state_statute,MT,3,1,1,2008,2008,false,unresolved
-H.B. 294 § 2001,h.b. 294 § 2001,Statute,state_statute,MT,3,2,1,2005,2005,false,unresolved
-H.B. 294 § 3,h.b. 294 § 3,Statute,state_statute,MT,3,2,1,2005,2005,false,unresolved
 HCQIA § 37-3-403,hcqia § 37-3-403,Statute,state_statute,MT,3,3,1,2009,2009,false,unresolved
 IOR § V,ior § v,Statute,state_statute,MT,3,1,1,2025,2025,false,unresolved
 MCA (1981) § 46-23-1001,mca (1981) § 46-23-1001,Statute,state_statute,MT,3,3,1,2006,2008,false,unresolved
@@ -843,6 +841,7 @@ Mont. Code Ann. 27-1-714,mont. code ann. 27-1-714,Statute,state_statute,MT,3,3,2
 Mont. Code Ann. 33-18-242,mont. code ann. 33-18-242,Statute,state_statute,MT,3,2,1,2001,2012,true,exact
 Mont. Code Ann. § 1-1-204,mont. code ann. § 1-1-204,Statute,state_statute,MT,3,2,2,2011,2023,true,exact
 Mont. Code Ann. § 10,mont. code ann. § 10,Statute,state_statute,MT,3,2,2,2000,2021,false,unresolved
+Mont. Code Ann. § 10-3-104,mont. code ann. § 10-3-104,Statute,state_statute,MT,3,1,1,2020,2022,true,exact
 Mont. Code Ann. § 102,mont. code ann. § 102,Statute,state_statute,MT,3,3,2,2006,2018,false,unresolved
 Mont. Code Ann. § 103,mont. code ann. § 103,Statute,state_statute,MT,3,3,2,1985,2022,false,unresolved
 Mont. Code Ann. § 13-25-205,mont. code ann. § 13-25-205,Statute,state_statute,MT,3,1,1,2017,2017,true,exact
@@ -850,10 +849,10 @@ Mont. Code Ann. § 13-35-105,mont. code ann. § 13-35-105,Statute,state_statute,
 Mont. Code Ann. § 13-35-108,mont. code ann. § 13-35-108,Statute,state_statute,MT,3,1,1,2021,2021,true,exact
 Mont. Code Ann. § 13-37-225,mont. code ann. § 13-37-225,Statute,state_statute,MT,3,3,2,2016,2022,true,exact
 Mont. Code Ann. § 14,mont. code ann. § 14,Statute,state_statute,MT,3,2,2,2006,2019,false,unresolved
-Mont. Code Ann. § 15-23-701,mont. code ann. § 15-23-701,Statute,state_statute,MT,3,3,2,1981,1998,true,exact
+Mont. Code Ann. § 15-1-601,mont. code ann. § 15-1-601,Statute,state_statute,MT,3,2,1,2015,2015,true,exact
+Mont. Code Ann. § 15-23-704,mont. code ann. § 15-23-704,Statute,state_statute,MT,3,2,2,1981,1998,true,exact
 Mont. Code Ann. § 15-25-101,mont. code ann. § 15-25-101,Statute,state_statute,MT,3,3,3,1994,2009,false,unresolved
 Mont. Code Ann. § 15-30-3111,mont. code ann. § 15-30-3111,Statute,state_statute,MT,3,2,2,2018,2020,true,exact
-Mont. Code Ann. § 15-35-101,mont. code ann. § 15-35-101,Statute,state_statute,MT,3,3,1,1981,1998,true,exact
 Mont. Code Ann. § 15-68-811,mont. code ann. § 15-68-811,Statute,state_statute,MT,3,3,1,2008,2008,true,exact
 Mont. Code Ann. § 16-12-104,mont. code ann. § 16-12-104,Statute,state_statute,MT,3,1,1,2024,2024,true,exact
 Mont. Code Ann. § 17,mont. code ann. § 17,Statute,state_statute,MT,3,3,3,2011,2016,false,unresolved
@@ -887,6 +886,7 @@ Mont. Code Ann. § 28-2-801,mont. code ann. § 28-2-801,Statute,state_statute,MT
 Mont. Code Ann. § 28-2-804,mont. code ann. § 28-2-804,Statute,state_statute,MT,3,3,1,2025,2025,true,exact
 Mont. Code Ann. § 3-5-302,mont. code ann. § 3-5-302,Statute,state_statute,MT,3,3,1,2013,2015,true,exact
 Mont. Code Ann. § 30-11-703,mont. code ann. § 30-11-703,Statute,state_statute,MT,3,3,2,2015,2015,true,exact
+Mont. Code Ann. § 30-11-801,mont. code ann. § 30-11-801,Statute,state_statute,MT,3,1,1,2003,2003,true,exact
 Mont. Code Ann. § 30-14,mont. code ann. § 30-14,Statute,state_statute,MT,3,2,1,2019,2019,false,unresolved
 Mont. Code Ann. § 30-14-104,mont. code ann. § 30-14-104,Statute,state_statute,MT,3,2,2,2018,2025,true,exact
 Mont. Code Ann. § 30-14-105,mont. code ann. § 30-14-105,Statute,state_statute,MT,3,3,1,2020,2024,true,exact
@@ -895,7 +895,6 @@ Mont. Code Ann. § 30-14-2702,mont. code ann. § 30-14-2702,Statute,state_statut
 Mont. Code Ann. § 30-2-607,mont. code ann. § 30-2-607,Statute,state_statute,MT,3,2,1,2020,2021,true,exact
 Mont. Code Ann. § 30-9A-301,mont. code ann. § 30-9a-301,Statute,state_statute,MT,3,2,2,2020,2020,true,exact
 Mont. Code Ann. § 302,mont. code ann. § 302,Statute,state_statute,MT,3,3,2,2007,2022,false,unresolved
-Mont. Code Ann. § 31-2-106,mont. code ann. § 31-2-106,Statute,state_statute,MT,3,2,2,2015,2020,true,exact
 Mont. Code Ann. § 33-1-110,mont. code ann. § 33-1-110,Statute,state_statute,MT,3,2,1,2022,2024,true,exact
 Mont. Code Ann. § 33-22-102,mont. code ann. § 33-22-102,Statute,state_statute,MT,3,1,1,2019,2019,true,exact
 Mont. Code Ann. § 33-l-409,mont. code ann. § 33-l-409,Statute,state_statute,MT,3,1,1,2016,2016,true,exact
@@ -935,6 +934,7 @@ Mont. Code Ann. § 46-12-204,mont. code ann. § 46-12-204,Statute,state_statute,
 Mont. Code Ann. § 46-13-108,mont. code ann. § 46-13-108,Statute,state_statute,MT,3,3,2,2021,2023,true,exact
 Mont. Code Ann. § 46-13-210,mont. code ann. § 46-13-210,Statute,state_statute,MT,3,3,1,2018,2018,true,exact
 Mont. Code Ann. § 46-14-101,mont. code ann. § 46-14-101,Statute,state_statute,MT,3,3,2,1979,2022,true,exact
+Mont. Code Ann. § 46-14-312,mont. code ann. § 46-14-312,Statute,state_statute,MT,3,1,1,2020,2021,true,exact
 Mont. Code Ann. § 46-16-702,mont. code ann. § 46-16-702,Statute,state_statute,MT,3,3,2,1993,2024,true,exact
 Mont. Code Ann. § 46-18-112,mont. code ann. § 46-18-112,Statute,state_statute,MT,3,3,3,1980,2000,true,exact
 Mont. Code Ann. § 46-18-221,mont. code ann. § 46-18-221,Statute,state_statute,MT,3,3,2,1995,2015,true,exact
@@ -980,7 +980,6 @@ Mont. Code Ann. § 71,mont. code ann. § 71,Statute,state_statute,MT,3,3,2,2018,
 Mont. Code Ann. § 71-1-232,mont. code ann. § 71-1-232,Statute,state_statute,MT,3,2,2,1988,2006,true,exact
 Mont. Code Ann. § 71-1-304,mont. code ann. § 71-1-304,Statute,state_statute,MT,3,3,3,1988,2023,true,exact
 Mont. Code Ann. § 71-3-124,mont. code ann. § 71-3-124,Statute,state_statute,MT,3,3,1,2020,2021,true,exact
-Mont. Code Ann. § 72-3-701,mont. code ann. § 72-3-701,Statute,state_statute,MT,3,1,1,2023,2023,true,exact
 Mont. Code Ann. § 72-38-101,mont. code ann. § 72-38-101,Statute,state_statute,MT,3,3,2,2017,2017,true,exact
 Mont. Code Ann. § 72-38-1102,mont. code ann. § 72-38-1102,Statute,state_statute,MT,3,3,2,2017,2017,true,exact
 Mont. Code Ann. § 75,mont. code ann. § 75,Statute,state_statute,MT,3,3,1,2020,2021,false,unresolved
@@ -1030,7 +1029,6 @@ Mont.Code Ann. § 27-2-208,mont.code ann. § 27-2-208,Statute,state_statute,MT,3
 Mont.Code Ann. § 27-2-215,mont.code ann. § 27-2-215,Statute,state_statute,MT,3,2,2,1986,1997,false,unresolved
 Mont.Code Ann. § 27-30-102,mont.code ann. § 27-30-102,Statute,state_statute,MT,3,1,1,2004,2004,false,unresolved
 Mont.Code Ann. § 27-8-313,mont.code ann. § 27-8-313,Statute,state_statute,MT,3,2,2,2006,2013,true,exact
-Mont.Code Ann. § 28-1-104,mont.code ann. § 28-1-104,Statute,state_statute,MT,3,3,1,1993,1997,true,exact
 Mont.Code Ann. § 28-11-411,mont.code ann. § 28-11-411,Statute,state_statute,MT,3,2,1,1988,1994,true,exact
 Mont.Code Ann. § 28-11-412,mont.code ann. § 28-11-412,Statute,state_statute,MT,3,1,1,2000,2000,true,exact
 Mont.Code Ann. § 28-2-102,mont.code ann. § 28-2-102,Statute,state_statute,MT,3,3,2,1989,2012,true,exact
@@ -1132,6 +1130,7 @@ Montana Code Annotated § 45-5-303,montana code annotated § 45-5-303,Statute,st
 Montana Code Annotated § 45-6-203,montana code annotated § 45-6-203,Statute,state_statute,MT,3,3,1,2006,2008,true,exact
 Montana Code Annotated § 46-18-404,montana code annotated § 46-18-404,Statute,state_statute,MT,3,3,1,1990,1990,false,unresolved
 Montana Code Annotated § 46-23-502,montana code annotated § 46-23-502,Statute,state_statute,MT,3,3,2,2014,2017,true,exact
+Montana Code Annotated § 46-6-214,montana code annotated § 46-6-214,Statute,state_statute,MT,3,1,1,2020,2020,true,exact
 Montana Code Annotated § 50-71-201,montana code annotated § 50-71-201,Statute,state_statute,MT,3,1,1,2021,2021,true,exact
 Montana Code Annotated § 61-8-329,montana code annotated § 61-8-329,Statute,state_statute,MT,3,2,1,2019,2021,true,exact
 Montana Code of Judicial Conduct § 3-1-803,montana code of judicial conduct § 3-1-803,Statute,state_statute,MT,3,3,1,2016,2017,false,unresolved
@@ -1238,7 +1237,6 @@ Rev.Code Mont. § 94-5-105,rev.code mont. § 94-5-105,Statute,state_statute,MT,3
 UCCJEA § 104,uccjea § 104,Statute,state_statute,MT,3,1,1,2022,2022,false,unresolved
 UTPA § 33-18-101,utpa § 33-18-101,Statute,state_statute,MT,3,3,1,2007,2020,false,unresolved
 UTPA. Mont. Code Ann. § 33-18-242,utpa. mont. code ann. § 33-18-242,Statute,state_statute,MT,3,3,1,2020,2025,false,unresolved
-1 Mont.Code Ann. § 39-2-903,1 mont.code ann. § 39-2-903,Statute,state_statute,MT,2,2,1,2009,2009,false,unresolved
 17-1104 (1932). (33) Mont. Rev. Code Ann. § 10957,17-1104 (1932). (33) mont. rev. code ann. § 10957,Statute,state_statute,MT,2,2,1,1948,1948,false,unresolved
 1891 Mont. Laws 118,1891 mont. laws 118,Statute,state_statute,MT,2,2,1,2017,2017,false,unresolved
 1891 Mont. Laws 73,1891 mont. laws 73,Statute,state_statute,MT,2,2,1,2017,2017,false,unresolved
@@ -1294,7 +1292,6 @@ UTPA. Mont. Code Ann. § 33-18-242,utpa. mont. code ann. § 33-18-242,Statute,st
 1999 Mont. Laws 748,1999 mont. laws 748,Statute,state_statute,MT,2,2,1,2005,2005,false,unresolved
 1999 Mont. Laws 911,1999 mont. laws 911,Statute,state_statute,MT,2,2,1,2008,2008,false,unresolved
 "2 CBA, Article 4 § 2","2 cba, article 4 § 2",Statute,state_statute,MT,2,2,1,2009,2009,false,unresolved
-2 Montana Code Annotated § 39-51-1103,2 montana code annotated § 39-51-1103,Statute,state_statute,MT,2,2,1,2015,2015,false,unresolved
 2001 Mont. Laws 125,2001 mont. laws 125,Statute,state_statute,MT,2,2,1,2004,2004,false,unresolved
 2001 Mont. Laws 1382,2001 mont. laws 1382,Statute,state_statute,MT,2,2,1,2008,2008,false,unresolved
 2001 Mont. Laws 696,2001 mont. laws 696,Statute,state_statute,MT,2,2,1,2005,2005,false,unresolved
@@ -1316,7 +1313,6 @@ UTPA. Mont. Code Ann. § 33-18-242,utpa. mont. code ann. § 33-18-242,Statute,st
 "3 CBA, Article 7 § 1","3 cba, article 7 § 1",Statute,state_statute,MT,2,2,1,2009,2009,false,unresolved
 3 Mont.Rev.Code § 53-401,3 mont.rev.code § 53-401,Statute,state_statute,MT,2,2,1,1975,1975,false,unresolved
 305 Mont. 40 § 29,305 mont. 40 § 29,Statute,state_statute,MT,2,1,1,2006,2006,false,unresolved
-32 C.J. § 774,32 c.j. § 774,Statute,state_statute,MT,2,1,1,2003,2003,false,unresolved
 4 Mont. Rev. Code Ann. § 9787,4 mont. rev. code ann. § 9787,Statute,state_statute,MT,2,2,1,1981,1981,false,unresolved
 4 Mont. Rev. Code Ann. § 9788,4 mont. rev. code ann. § 9788,Statute,state_statute,MT,2,2,1,1981,1981,false,unresolved
 "4 Revised Codes of Montana, 1935 § 10","4 revised codes of montana, 1935 § 10",Statute,state_statute,MT,2,1,1,1944,1944,false,unresolved
@@ -1324,15 +1320,9 @@ UTPA. Mont. Code Ann. § 33-18-242,utpa. mont. code ann. § 33-18-242,Statute,st
 45 U.S.G.A. § 51,45 u.s.g.a. § 51,Statute,state_statute,MT,2,2,2,1932,1960,true,exact
 45 U.S.G.A. § 59,45 u.s.g.a. § 59,Statute,state_statute,MT,2,2,2,1932,1960,true,exact
 457 (Mont.C.C. P. 1984,457 (mont.c.c. p. 1984,Statute,state_statute,MT,2,2,1,1986,1986,false,unresolved
-47 Mont. Code Ann. § 33-18-201,47 mont. code ann. § 33-18-201,Statute,state_statute,MT,2,2,1,2025,2025,false,unresolved
 "518 U.S. 37, 116 S.Ct. 2013, 135 L.Ed. 2d 361 § 45-2-203","518 u.s. 37, 116 s.ct. 2013, 135 l.ed. 2d 361 § 45-2-203",Statute,state_statute,MT,2,2,1,2004,2004,false,unresolved
-57 Mont. Code Ann. § 28-10-702,57 mont. code ann. § 28-10-702,Statute,state_statute,MT,2,2,1,2025,2025,false,unresolved
 "58 Mont. 54, 190 P. 138, and R.C.M. 1947 § 93-3901","58 mont. 54, 190 p. 138, and r.c.m. 1947 § 93-3901",Statute,state_statute,MT,2,2,1,1960,1960,false,unresolved
-62 Mont. Code Ann. § 27-1-221,62 mont. code ann. § 27-1-221,Statute,state_statute,MT,2,2,1,2025,2025,false,unresolved
-68 C.J. 651 § 276,68 c.j. 651 § 276,Statute,state_statute,MT,2,2,1,1960,1960,false,unresolved
-7 Montana Code § 39-51-1105,7 montana code § 39-51-1105,Statute,state_statute,MT,2,2,1,2015,2015,false,unresolved
 "79 Mont., 255 P. 722","79 mont., 255 p. 722",Statute,state_statute,MT,2,2,1,1933,1933,false,unresolved
-8 Mont.Code Ann. § 13-37-216,8 mont.code ann. § 13-37-216,Statute,state_statute,MT,2,2,1,2002,2003,false,unresolved
 "8 Montana Rev. Codes Ann. 1947, c. 99 § 75","8 montana rev. codes ann. 1947, c. 99 § 75",Statute,state_statute,MT,2,2,1,1950,1950,false,unresolved
 "8-132 (1988), Mont. Code Ann. 40-8-202","8-132 (1988), mont. code ann. 40-8-202",Statute,state_statute,MT,2,2,1,1995,1995,false,unresolved
 A.R.M. § 10.6.103,a.r.m. § 10.6.103,Statute,state_statute,MT,2,2,1,2008,2008,false,unresolved
@@ -1364,8 +1354,6 @@ ERISA of 1974 § 502,erisa of 1974 § 502,Statute,state_statute,MT,2,1,1,2019,20
 FCZR § 2.04.020,fczr § 2.04.020,Statute,state_statute,MT,2,1,1,2009,2009,false,unresolved
 FCZR § 2.06,fczr § 2.06,Statute,state_statute,MT,2,1,1,2008,2008,false,unresolved
 FCZR § 4.10.10,fczr § 4.10.10,Statute,state_statute,MT,2,1,1,2008,2008,false,unresolved
-H.B. 140 § 6,h.b. 140 § 6,Statute,state_statute,MT,2,2,1,1964,1964,false,unresolved
-H.B. 294 § 19-2-303,h.b. 294 § 19-2-303,Statute,state_statute,MT,2,2,1,2005,2005,false,unresolved
 I.C. 36-805,i.c. 36-805,Statute,state_statute,MT,2,1,1,1966,1966,true,exact
 I.R.C. § 962,i.r.c. § 962,Statute,state_statute,MT,2,1,1,2019,2019,true,exact
 ICPC § 41-4-104,icpc § 41-4-104,Statute,state_statute,MT,2,1,1,2010,2010,false,unresolved
@@ -1534,7 +1522,6 @@ Mont. Code Ann. 49-2-509,mont. code ann. 49-2-509,Statute,state_statute,MT,2,2,1
 Mont. Code Ann. § 1-2-109,mont. code ann. § 1-2-109,Statute,state_statute,MT,2,2,1,2021,2024,true,exact
 Mont. Code Ann. § 1-3-208,mont. code ann. § 1-3-208,Statute,state_statute,MT,2,2,1,2016,2023,true,exact
 Mont. Code Ann. § 1-4-101,mont. code ann. § 1-4-101,Statute,state_statute,MT,2,2,2,2022,2024,true,exact
-Mont. Code Ann. § 10-3-104,mont. code ann. § 10-3-104,Statute,state_statute,MT,2,1,1,2020,2020,true,exact
 Mont. Code Ann. § 13-10-606,mont. code ann. § 13-10-606,Statute,state_statute,MT,2,1,1,2022,2022,true,exact
 Mont. Code Ann. § 13-14-112,mont. code ann. § 13-14-112,Statute,state_statute,MT,2,2,1,1989,1989,true,exact
 Mont. Code Ann. § 13-15-202,mont. code ann. § 13-15-202,Statute,state_statute,MT,2,2,1,2000,2000,false,unresolved
@@ -1546,9 +1533,7 @@ Mont. Code Ann. § 13-37-218,mont. code ann. § 13-37-218,Statute,state_statute,
 Mont. Code Ann. § 13-37-228,mont. code ann. § 13-37-228,Statute,state_statute,MT,2,1,1,2016,2016,true,exact
 Mont. Code Ann. § 1439,mont. code ann. § 1439,Statute,state_statute,MT,2,2,1,1987,1987,false,unresolved
 Mont. Code Ann. § 1441,mont. code ann. § 1441,Statute,state_statute,MT,2,2,1,1987,1987,false,unresolved
-Mont. Code Ann. § 15-1-601,mont. code ann. § 15-1-601,Statute,state_statute,MT,2,2,1,2015,2015,true,exact
 Mont. Code Ann. § 15-23-601,mont. code ann. § 15-23-601,Statute,state_statute,MT,2,2,1,1985,1985,false,unresolved
-Mont. Code Ann. § 15-23-704,mont. code ann. § 15-23-704,Statute,state_statute,MT,2,2,2,1981,1998,true,exact
 Mont. Code Ann. § 15-25-103,mont. code ann. § 15-25-103,Statute,state_statute,MT,2,2,1,1994,1994,false,unresolved
 Mont. Code Ann. § 15-25-113,mont. code ann. § 15-25-113,Statute,state_statute,MT,2,2,1,1994,1994,false,unresolved
 Mont. Code Ann. § 15-25-122,mont. code ann. § 15-25-122,Statute,state_statute,MT,2,2,1,1994,1994,false,unresolved
@@ -1563,6 +1548,7 @@ Mont. Code Ann. § 15-6-156,mont. code ann. § 15-6-156,Statute,state_statute,MT
 Mont. Code Ann. § 15-6-201,mont. code ann. § 15-6-201,Statute,state_statute,MT,2,2,1,1989,1989,true,exact
 Mont. Code Ann. § 1513,mont. code ann. § 1513,Statute,state_statute,MT,2,2,2,2010,2011,false,unresolved
 Mont. Code Ann. § 16-3-306,mont. code ann. § 16-3-306,Statute,state_statute,MT,2,2,1,1982,1982,true,exact
+Mont. Code Ann. § 16-6-301,mont. code ann. § 16-6-301,Statute,state_statute,MT,2,1,1,1992,1994,true,exact
 Mont. Code Ann. § 18-1-101,mont. code ann. § 18-1-101,Statute,state_statute,MT,2,1,1,2023,2023,true,exact
 Mont. Code Ann. § 18-1-404,mont. code ann. § 18-1-404,Statute,state_statute,MT,2,2,2,2018,2023,true,exact
 Mont. Code Ann. § 18-2-201,mont. code ann. § 18-2-201,Statute,state_statute,MT,2,2,1,2020,2021,true,exact
@@ -1573,6 +1559,8 @@ Mont. Code Ann. § 19-5-103,mont. code ann. § 19-5-103,Statute,state_statute,MT
 Mont. Code Ann. § 2-1-306,mont. code ann. § 2-1-306,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
 Mont. Code Ann. § 2-4-102,mont. code ann. § 2-4-102,Statute,state_statute,MT,2,2,2,2003,2020,true,exact
 Mont. Code Ann. § 2-4-302,mont. code ann. § 2-4-302,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
+Mont. Code Ann. § 2-4-701,mont. code ann. § 2-4-701,Statute,state_statute,MT,2,1,1,2009,2022,true,exact
+Mont. Code Ann. § 2-4-703,mont. code ann. § 2-4-703,Statute,state_statute,MT,2,1,1,1997,2009,true,exact
 Mont. Code Ann. § 2-6-1002,mont. code ann. § 2-6-1002,Statute,state_statute,MT,2,1,1,2024,2024,true,exact
 Mont. Code Ann. § 2-9-103,mont. code ann. § 2-9-103,Statute,state_statute,MT,2,2,1,1980,1980,true,exact
 Mont. Code Ann. § 2-9-105,mont. code ann. § 2-9-105,Statute,state_statute,MT,2,1,1,2024,2024,true,exact
@@ -1588,6 +1576,7 @@ Mont. Code Ann. § 2116,mont. code ann. § 2116,Statute,state_statute,MT,2,2,2,2
 Mont. Code Ann. § 212,mont. code ann. § 212,Statute,state_statute,MT,2,2,2,2006,2021,false,unresolved
 Mont. Code Ann. § 23-2-731,mont. code ann. § 23-2-731,Statute,state_statute,MT,2,2,2,1992,2020,true,exact
 Mont. Code Ann. § 23-2-733,mont. code ann. § 23-2-733,Statute,state_statute,MT,2,2,1,2019,2020,true,exact
+Mont. Code Ann. § 25-12-103,mont. code ann. § 25-12-103,Statute,state_statute,MT,2,1,1,2015,2015,true,exact
 Mont. Code Ann. § 25-13-402,mont. code ann. § 25-13-402,Statute,state_statute,MT,2,1,1,2020,2020,true,exact
 Mont. Code Ann. § 25-13-607,mont. code ann. § 25-13-607,Statute,state_statute,MT,2,2,2,2021,2023,true,exact
 Mont. Code Ann. § 25-13-609,mont. code ann. § 25-13-609,Statute,state_statute,MT,2,1,1,2022,2022,true,exact
@@ -1612,6 +1601,7 @@ Mont. Code Ann. § 27-2-409,mont. code ann. § 27-2-409,Statute,state_statute,MT
 Mont. Code Ann. § 27-26-102,mont. code ann. § 27-26-102,Statute,state_statute,MT,2,2,2,1991,2025,true,exact
 Mont. Code Ann. § 27-30-102,mont. code ann. § 27-30-102,Statute,state_statute,MT,2,2,2,2023,2025,false,unresolved
 Mont. Code Ann. § 27-30-103,mont. code ann. § 27-30-103,Statute,state_statute,MT,2,1,1,2023,2023,false,unresolved
+Mont. Code Ann. § 27-5-113,mont. code ann. § 27-5-113,Statute,state_statute,MT,2,1,1,2005,2023,true,exact
 Mont. Code Ann. § 27-5-312,mont. code ann. § 27-5-312,Statute,state_statute,MT,2,2,2,2005,2017,true,exact
 Mont. Code Ann. § 27-6-102,mont. code ann. § 27-6-102,Statute,state_statute,MT,2,1,1,2019,2019,true,exact
 Mont. Code Ann. § 27-6-103,mont. code ann. § 27-6-103,Statute,state_statute,MT,2,2,1,2023,2025,true,exact
@@ -1622,11 +1612,11 @@ Mont. Code Ann. § 28-10-602,mont. code ann. § 28-10-602,Statute,state_statute,
 Mont. Code Ann. § 28-2-2116,mont. code ann. § 28-2-2116,Statute,state_statute,MT,2,2,2,2022,2024,true,exact
 Mont. Code Ann. § 28-2-301,mont. code ann. § 28-2-301,Statute,state_statute,MT,2,2,1,2022,2025,true,exact
 Mont. Code Ann. § 28-2-407,mont. code ann. § 28-2-407,Statute,state_statute,MT,2,2,2,2012,2014,true,exact
+Mont. Code Ann. § 28-2-903,mont. code ann. § 28-2-903,Statute,state_statute,MT,2,1,1,1993,2010,true,exact
 Mont. Code Ann. § 28-3-203,mont. code ann. § 28-3-203,Statute,state_statute,MT,2,2,2,2022,2026,true,exact
 Mont. Code Ann. § 28-3-402,mont. code ann. § 28-3-402,Statute,state_statute,MT,2,2,1,2021,2023,true,exact
 Mont. Code Ann. § 28-3-704,mont. code ann. § 28-3-704,Statute,state_statute,MT,2,2,1,2023,2025,true,exact
 Mont. Code Ann. § 3-1-805,mont. code ann. § 3-1-805,Statute,state_statute,MT,2,2,1,2022,2025,true,exact
-Mont. Code Ann. § 30-11-801,mont. code ann. § 30-11-801,Statute,state_statute,MT,2,1,1,2003,2003,true,exact
 Mont. Code Ann. § 30-14-205,mont. code ann. § 30-14-205,Statute,state_statute,MT,2,2,2,2022,2025,true,exact
 Mont. Code Ann. § 30-14-404,mont. code ann. § 30-14-404,Statute,state_statute,MT,2,1,1,2001,2001,true,exact
 Mont. Code Ann. § 30-14-407,mont. code ann. § 30-14-407,Statute,state_statute,MT,2,1,1,2026,2026,true,exact
@@ -1645,6 +1635,7 @@ Mont. Code Ann. § 305,mont. code ann. § 305,Statute,state_statute,MT,2,2,2,199
 Mont. Code Ann. § 307,mont. code ann. § 307,Statute,state_statute,MT,2,1,1,2020,2020,false,unresolved
 Mont. Code Ann. § 31-1-104,mont. code ann. § 31-1-104,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
 Mont. Code Ann. § 31-1-106,mont. code ann. § 31-1-106,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
+Mont. Code Ann. § 31-2-326,mont. code ann. § 31-2-326,Statute,state_statute,MT,2,1,1,2018,2020,true,exact
 Mont. Code Ann. § 31-2-328,mont. code ann. § 31-2-328,Statute,state_statute,MT,2,2,2,2023,2024,true,exact
 Mont. Code Ann. § 315,mont. code ann. § 315,Statute,state_statute,MT,2,2,2,2009,2024,false,unresolved
 Mont. Code Ann. § 33-1-207,mont. code ann. § 33-1-207,Statute,state_statute,MT,2,2,1,2011,2018,true,exact
@@ -1713,6 +1704,7 @@ Mont. Code Ann. § 45-2-211,mont. code ann. § 45-2-211,Statute,state_statute,MT
 Mont. Code Ann. § 45-3-107,mont. code ann. § 45-3-107,Statute,state_statute,MT,2,2,2,2008,2015,true,exact
 Mont. Code Ann. § 45-5-205,mont. code ann. § 45-5-205,Statute,state_statute,MT,2,2,2,2003,2004,true,exact
 Mont. Code Ann. § 45-5-208,mont. code ann. § 45-5-208,Statute,state_statute,MT,2,2,1,2017,2017,true,exact
+Mont. Code Ann. § 45-5-209,mont. code ann. § 45-5-209,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
 Mont. Code Ann. § 45-5-220,mont. code ann. § 45-5-220,Statute,state_statute,MT,2,2,2,2003,2018,true,exact
 Mont. Code Ann. § 45-5-505,mont. code ann. § 45-5-505,Statute,state_statute,MT,2,2,1,1986,1986,false,unresolved
 Mont. Code Ann. § 45-5-703,mont. code ann. § 45-5-703,Statute,state_statute,MT,2,1,1,2022,2022,true,exact
@@ -2096,6 +2088,7 @@ Mont.Code Ann. § 28-3-102,mont.code ann. § 28-3-102,Statute,state_statute,MT,2
 Mont.Code Ann. § 28-3-201,mont.code ann. § 28-3-201,Statute,state_statute,MT,2,2,2,1999,2000,true,exact
 Mont.Code Ann. § 28-3-203,mont.code ann. § 28-3-203,Statute,state_statute,MT,2,1,1,2012,2012,true,exact
 Mont.Code Ann. § 28-3-501,mont.code ann. § 28-3-501,Statute,state_statute,MT,2,2,1,1983,1983,true,exact
+Mont.Code Ann. § 28-3-702,mont.code ann. § 28-3-702,Statute,state_statute,MT,2,1,1,1983,1983,true,exact
 Mont.Code Ann. § 3-1-804,mont.code ann. § 3-1-804,Statute,state_statute,MT,2,2,2,1989,1992,true,exact
 Mont.Code Ann. § 3-2-102,mont.code ann. § 3-2-102,Statute,state_statute,MT,2,1,1,1984,1984,true,exact
 Mont.Code Ann. § 3-5-202,mont.code ann. § 3-5-202,Statute,state_statute,MT,2,1,1,1984,1984,true,exact
@@ -2272,6 +2265,7 @@ Mont.Code Ann. § 95-2502,mont.code ann. § 95-2502,Statute,state_statute,MT,2,2
 Mont.Code Arm. § 69-14-202,mont.code arm. § 69-14-202,Statute,state_statute,MT,2,1,1,1997,1997,false,unresolved
 Mont.Code § 27-5-111,mont.code § 27-5-111,Statute,state_statute,MT,2,1,1,2002,2002,true,exact
 Mont.Code § 27-5-311,mont.code § 27-5-311,Statute,state_statute,MT,2,1,1,2002,2002,true,exact
+Mont.Code § 27-5-312,mont.code § 27-5-312,Statute,state_statute,MT,2,1,1,2002,2004,true,exact
 Mont.Code § 30-14-133,mont.code § 30-14-133,Statute,state_statute,MT,2,2,2,1997,2014,true,exact
 Mont.Code § 46-18-307,mont.code § 46-18-307,Statute,state_statute,MT,2,2,1,1992,1993,true,exact
 Mont.Code § 46-18-310,mont.code § 46-18-310,Statute,state_statute,MT,2,2,1,1992,1993,true,exact
@@ -2354,6 +2348,7 @@ Montana Civil Code § 5702,montana civil code § 5702,Statute,state_statute,MT,2
 Montana Code 15-30-1102,montana code 15-30-1102,Statute,state_statute,MT,2,1,1,2016,2016,false,unresolved
 Montana Code Ann. § 15-31-301,montana code ann. § 15-31-301,Statute,state_statute,MT,2,2,1,1982,1982,true,exact
 Montana Code Ann. § 2-9-305,montana code ann. § 2-9-305,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
+Montana Code Ann. § 26-1-602,montana code ann. § 26-1-602,Statute,state_statute,MT,2,1,1,1979,1979,true,exact
 Montana Code Ann. § 3-15-503,montana code ann. § 3-15-503,Statute,state_statute,MT,2,2,1,2009,2009,true,exact
 Montana Code Ann. § 30-14-202,montana code ann. § 30-14-202,Statute,state_statute,MT,2,2,1,1979,1979,true,exact
 Montana Code Ann. § 31-1-702,montana code ann. § 31-1-702,Statute,state_statute,MT,2,2,1,2007,2007,true,exact
@@ -2383,6 +2378,7 @@ Montana Code Annotated § 25-9-411,montana code annotated § 25-9-411,Statute,st
 Montana Code Annotated § 27-1-434,montana code annotated § 27-1-434,Statute,state_statute,MT,2,1,1,2025,2025,true,exact
 Montana Code Annotated § 27-1-722,montana code annotated § 27-1-722,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
 Montana Code Annotated § 27-2-102,montana code annotated § 27-2-102,Statute,state_statute,MT,2,2,1,1996,2000,true,exact
+Montana Code Annotated § 27-2-203,montana code annotated § 27-2-203,Statute,state_statute,MT,2,1,1,1987,1987,true,exact
 Montana Code Annotated § 27-2-407,montana code annotated § 27-2-407,Statute,state_statute,MT,2,1,1,2020,2020,true,exact
 Montana Code Annotated § 30-2-607,montana code annotated § 30-2-607,Statute,state_statute,MT,2,1,1,2023,2023,true,exact
 Montana Code Annotated § 30-9-203,montana code annotated § 30-9-203,Statute,state_statute,MT,2,2,1,1989,1990,false,unresolved
@@ -2396,6 +2392,7 @@ Montana Code Annotated § 35-5-201,montana code annotated § 35-5-201,Statute,st
 Montana Code Annotated § 37-61-406,montana code annotated § 37-61-406,Statute,state_statute,MT,2,2,1,2000,2000,true,exact
 Montana Code Annotated § 39-2-901,montana code annotated § 39-2-901,Statute,state_statute,MT,2,2,1,2020,2024,true,exact
 Montana Code Annotated § 39-2-902,montana code annotated § 39-2-902,Statute,state_statute,MT,2,2,1,2021,2022,true,exact
+Montana Code Annotated § 39-51-1103,montana code annotated § 39-51-1103,Statute,state_statute,MT,2,2,1,2015,2015,true,exact
 Montana Code Annotated § 40-4-204,montana code annotated § 40-4-204,Statute,state_statute,MT,2,2,1,1999,1999,true,exact
 Montana Code Annotated § 40-5-271,montana code annotated § 40-5-271,Statute,state_statute,MT,2,2,1,2000,2000,true,exact
 Montana Code Annotated § 41-3-1301,montana code annotated § 41-3-1301,Statute,state_statute,MT,2,1,1,2024,2024,true,exact
@@ -2403,7 +2400,6 @@ Montana Code Annotated § 45-5-301,montana code annotated § 45-5-301,Statute,st
 Montana Code Annotated § 45-7-306,montana code annotated § 45-7-306,Statute,state_statute,MT,2,2,1,2007,2007,true,exact
 Montana Code Annotated § 45-9-101,montana code annotated § 45-9-101,Statute,state_statute,MT,2,1,1,2022,2022,true,exact
 Montana Code Annotated § 46-15-323,montana code annotated § 46-15-323,Statute,state_statute,MT,2,2,1,1999,1999,true,exact
-Montana Code Annotated § 46-6-214,montana code annotated § 46-6-214,Statute,state_statute,MT,2,1,1,2020,2020,true,exact
 Montana Code Annotated § 50-32-224,montana code annotated § 50-32-224,Statute,state_statute,MT,2,1,1,2022,2022,true,exact
 Montana Code Annotated § 50-46-308,montana code annotated § 50-46-308,Statute,state_statute,MT,2,1,1,2024,2024,false,unresolved
 Montana Code Annotated § 53-21-127,montana code annotated § 53-21-127,Statute,state_statute,MT,2,2,1,2017,2017,true,exact
@@ -2420,7 +2416,6 @@ Montana Code Annotated. § 2,montana code annotated. § 2,Statute,state_statute,
 Montana Code Annotated. § 25-10-104,montana code annotated. § 25-10-104,Statute,state_statute,MT,2,2,1,2002,2002,true,exact
 Montana Code Annotated. § 7-8-2103,montana code annotated. § 7-8-2103,Statute,state_statute,MT,2,2,1,1990,1990,true,exact
 Montana Code § 27-1-221.62,montana code § 27-1-221.62,Statute,state_statute,MT,2,2,1,2025,2025,false,unresolved
-Montana Code § 39-51-1105,montana code § 39-51-1105,Statute,state_statute,MT,2,2,1,2015,2015,true,exact
 Montana Code § 41-3-438,montana code § 41-3-438,Statute,state_statute,MT,2,1,1,2025,2025,true,exact
 Montana Code § 45-5-202,montana code § 45-5-202,Statute,state_statute,MT,2,2,2,2009,2023,true,exact
 Montana Code § 45-5-209,montana code § 45-5-209,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
@@ -2739,7 +2734,6 @@ Rev.Code of Mont. § 32-2177,rev.code of mont. § 32-2177,Statute,state_statute,
 Rev.Codes Montana § 9906,rev.codes montana § 9906,Statute,state_statute,MT,2,2,1,1938,1938,false,unresolved
 "Rev.Codes Montana, Code of Civ.Proc. § 9889","rev.codes montana, code of civ.proc. § 9889",Statute,state_statute,MT,2,2,1,1938,1938,false,unresolved
 Rev.St.Mo. § 389.660,rev.st.mo. § 389.660,Statute,state_statute,MT,2,2,1,1983,1983,false,unresolved
-S.B. 318 § 4,s.b. 318 § 4,Statute,state_statute,MT,2,2,1,2024,2024,false,unresolved
 "SVORA. Laws of Montana, 2007, ch. 483 § 2","svora. laws of montana, 2007, ch. 483 § 2",Statute,state_statute,MT,2,2,1,2011,2011,false,unresolved
 TO MONT. CODE ANN. § 46-18-204,to mont. code ann. § 46-18-204,Statute,state_statute,MT,2,1,1,2021,2021,true,exact
 TO THIS DECISION. WE HAVE LINED OUT THOSE PARTS WHICH ARE VOID. Section 1. § 5-7-101,to this decision. we have lined out those parts which are void. section 1. § 5-7-101,Statute,state_statute,MT,2,2,1,1981,1981,false,unresolved
@@ -2762,10 +2756,6 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 1 E.S. 360 § 1,1 e.s. 360 § 1,Statute,state_statute,MT,1,1,1,1884,1884,false,unresolved
 1 E.S. 360 § 2,1 e.s. 360 § 2,Statute,state_statute,MT,1,1,1,1884,1884,false,unresolved
 1 ICWA § 1912,1 icwa § 1912,Statute,state_statute,MT,1,1,1,2011,2011,false,unresolved
-1 Mont. Code Ann. § 2-4-701,1 mont. code ann. § 2-4-701,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
-1 Mont. Code Ann. § 2-4-711,1 mont. code ann. § 2-4-711,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
-1 Mont.Code Ann. § 16-6-301,1 mont.code ann. § 16-6-301,Statute,state_statute,MT,1,1,1,1994,1994,false,unresolved
-1 Mont.Code Ann. § 28-2-703,1 mont.code ann. § 28-2-703,Statute,state_statute,MT,1,1,1,2010,2010,false,unresolved
 1 Mont.Code Ann. § 69-14-202,1 mont.code ann. § 69-14-202,Statute,state_statute,MT,1,1,1,1985,1985,false,unresolved
 1 Mont.Rev.Codes Ann. § 95-1807,1 mont.rev.codes ann. § 95-1807,Statute,state_statute,MT,1,1,1,1976,1976,false,unresolved
 1 Montana Revised Code § 33-15-403,1 montana revised code § 33-15-403,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
@@ -2774,49 +2764,26 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 1 Rev.Code of Montana of 1935 § 25-530,1 rev.code of montana of 1935 § 25-530,Statute,state_statute,MT,1,1,1,1947,1947,false,unresolved
 1 Rev.Codes of Mont. 1921 § 4,1 rev.codes of mont. 1921 § 4,Statute,state_statute,MT,1,1,1,1938,1938,false,unresolved
 1021 (4th ed. 1959). R.C.M.1947 § 42-203,1021 (4th ed. 1959). r.c.m.1947 § 42-203,Statute,state_statute,MT,1,1,1,1962,1962,false,unresolved
-106 Mont.Code Ann. § 28-3-702,106 mont.code ann. § 28-3-702,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
-107 Mont.Code Ann. § 46-18-305,107 mont.code ann. § 46-18-305,Statute,state_statute,MT,1,1,1,1990,1990,false,unresolved
-11 Mont.Code Ann. § 28-2-903,11 mont.code ann. § 28-2-903,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
-11 Mont.Code.Ann. § 33-18-242,11 mont.code.ann. § 33-18-242,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
 11 Mont.Rev.Code Ann. § 83-801,11 mont.rev.code ann. § 83-801,Statute,state_statute,MT,1,1,1,1977,1977,false,unresolved
 11-60 (1993). Mont. Code Ann. § 15-25-101,11-60 (1993). mont. code ann. § 15-25-101,Statute,state_statute,MT,1,1,1,1994,1994,false,unresolved
 11-60 (1993). Mont. Code Ann. § 15-25-123,11-60 (1993). mont. code ann. § 15-25-123,Statute,state_statute,MT,1,1,1,1994,1994,false,unresolved
-112 Mont. Code Ann. 53-21-126,112 mont. code ann. 53-21-126,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
-116 Mont.Code Ann. § 46-18-304,116 mont.code ann. § 46-18-304,Statute,state_statute,MT,1,1,1,1990,1990,false,unresolved
-12 Mont. Code Ann. § 28-3-303,12 mont. code ann. § 28-3-303,Statute,state_statute,MT,1,1,1,1981,1981,false,unresolved
 12 Mont. Code Ann. § 31-2-301,12 mont. code ann. § 31-2-301,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
 "120 Cal-. 86, 52 P. 139","120 cal-. 86, 52 p. 139",Statute,state_statute,MT,1,1,1,1986,1986,false,unresolved
-13 Mont. Code Ann § 2-15-501,13 mont. code ann § 2-15-501,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
 13 Mont.Code Ann. § 27-1-1101.2,13 mont.code ann. § 27-1-1101.2,Statute,state_statute,MT,1,1,1,1997,1997,false,unresolved
 136 (Mont. 1982) and 43 Am. Jur. 2d Insurance § 72,136 (mont. 1982) and 43 am. jur. 2d insurance § 72,Statute,state_statute,MT,1,1,1,2025,2025,false,unresolved
 "136 Mont. 283 [Rev. Codes Mont., 1947 § 71-305","136 mont. 283 [rev. codes mont., 1947 § 71-305",Statute,state_statute,MT,1,1,1,1972,1972,false,unresolved
-14 Mont. Code Ann. § 25-12-103,14 mont. code ann. § 25-12-103,Statute,state_statute,MT,1,1,1,2015,2015,false,unresolved
 "14 Mont., 467 [36 P. 1077","14 mont., 467 [36 p. 1077",Statute,state_statute,MT,1,1,1,1973,1973,false,unresolved
 141 Mont.Rev.Codes Ann. § 69-3911,141 mont.rev.codes ann. § 69-3911,Statute,state_statute,MT,1,1,1,1979,1979,false,unresolved
-"15 C.J., Courts § 268","15 c.j., courts § 268",Statute,state_statute,MT,1,1,1,1955,1955,false,unresolved
-15 Mont. Code Ann. § 13-l-101,15 mont. code ann. § 13-l-101,Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
 15 Mont. Code Ann. § 27,15 mont. code ann. § 27,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
-15 Mont. Code Ann. § 46-14-312,15 mont. code ann. § 46-14-312,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
-15 Mont.Code Ann. § 61-8-353,15 mont.code ann. § 61-8-353,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
 151 Mont. P. 163,151 mont. p. 163,Statute,state_statute,MT,1,1,1,1968,1968,false,unresolved
 16 (...continued) Mont. Code Ann. § 46-21-110,16 (...continued) mont. code ann. § 46-21-110,Statute,state_statute,MT,1,1,1,2011,2011,false,unresolved
-"16 C.J., Criminal Law § 2475","16 c.j., criminal law § 2475",Statute,state_statute,MT,1,1,1,1963,1963,false,unresolved
 "16 Laws of Montana, 2007, ch. 483 § 19","16 laws of montana, 2007, ch. 483 § 19",Statute,state_statute,MT,1,1,1,2011,2011,false,unresolved
 16 Mont. Code Ann. § 35-1-921,16 mont. code ann. § 35-1-921,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
-16 Mont. Code Ann. § 46-14-312,16 mont. code ann. § 46-14-312,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 "16 Mont., 189, 40 P. 294","16 mont., 189, 40 p. 294",Statute,state_statute,MT,1,1,1,1964,1964,false,unresolved
-16 Mont.Code Ann. § 33-18-201,16 mont.code ann. § 33-18-201,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
-"17 C.J., Criminal Law § 3262","17 c.j., criminal law § 3262",Statute,state_statute,MT,1,1,1,1955,1955,false,unresolved
-17 Mont.Code Ann. § 46-23-201,17 mont.code ann. § 46-23-201,Statute,state_statute,MT,1,1,1,1986,1986,false,unresolved
-17 Montana Code Annotated § 46-6-214,17 montana code annotated § 46-6-214,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
 "170 Mont. I., 549 P. 26","170 mont. i., 549 p. 26",Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
-18 C.J. § 134,18 c.j. § 134,Statute,state_statute,MT,1,1,1,1958,1958,false,unresolved
-18 C.J. § 336,18 c.j. § 336,Statute,state_statute,MT,1,1,1,1958,1958,false,unresolved
 18 Mont. Code Ann. § 35-1-921,18 mont. code ann. § 35-1-921,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 1864 Mont. Laws 355,1864 mont. laws 355,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
 1871 Mont. Laws 28,1871 mont. laws 28,Statute,state_statute,MT,1,1,1,2025,2025,false,unresolved
-19 Mont.Code Ann. § 28-3-301,19 mont.code ann. § 28-3-301,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
-19 Mont.Code Ann. § 71-1-222,19 mont.code ann. § 71-1-222,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
 1903 Mont. Laws 355,1903 mont. laws 355,Statute,state_statute,MT,1,1,1,2025,2025,false,unresolved
 1913 Mont. Laws 367,1913 mont. laws 367,Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
 1915 Mont. Laws 281,1915 mont. laws 281,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
@@ -2872,14 +2839,10 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 1997 Mont. Laws 378,1997 mont. laws 378,Statute,state_statute,MT,1,1,1,2001,2001,false,unresolved
 "2 Cal.Unrep.Cas., 730, 12 P. 512","2 cal.unrep.cas., 730, 12 p. 512",Statute,state_statute,MT,1,1,1,1965,1965,false,unresolved
 "2 Laws of Montana, 1991, ch. 800 § 40","2 laws of montana, 1991, ch. 800 § 40",Statute,state_statute,MT,1,1,1,2010,2010,false,unresolved
-2 Mont. Code Ann. § 27-2-204,2 mont. code ann. § 27-2-204,Statute,state_statute,MT,1,1,1,2015,2015,false,unresolved
-2 Mont. Code Ann. § 33-18-242,2 mont. code ann. § 33-18-242,Statute,state_statute,MT,1,1,1,2003,2003,false,unresolved
 "2 Mont. Code, 1895 § 1348","2 mont. code, 1895 § 1348",Statute,state_statute,MT,1,1,1,1900,1900,false,unresolved
 "2 Mont. Code, 1895 § 1351","2 mont. code, 1895 § 1351",Statute,state_statute,MT,1,1,1,1900,1900,false,unresolved
 "2 Mont. Code, 1895 § 1361","2 mont. code, 1895 § 1361",Statute,state_statute,MT,1,1,1,1900,1900,false,unresolved
 "2 Mont.Co., Md., Code (1971, as amended) § 49-27","2 mont.co., md., code (1971, as amended) § 49-27",Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
-2 Mont.Code Ann. § 27-1-801,2 mont.code ann. § 27-1-801,Statute,state_statute,MT,1,1,1,2013,2013,false,unresolved
-2 Mont.Code Ann. § 33-18-101,2 mont.code ann. § 33-18-101,Statute,state_statute,MT,1,1,1,1986,1986,false,unresolved
 2 Rev. Codes Mont. 1921 § 5672,2 rev. codes mont. 1921 § 5672,Statute,state_statute,MT,1,1,1,1961,1961,false,unresolved
 2 Rev. Codes of Mont. (1907) § 8301,2 rev. codes of mont. (1907) § 8301,Statute,state_statute,MT,1,1,1,1919,1919,false,unresolved
 2 Rev.Codes Mont. 1921 § 5672,2 rev.codes mont. 1921 § 5672,Statute,state_statute,MT,1,1,1,1938,1938,false,unresolved
@@ -2887,10 +2850,6 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 2 Rev.Codes of Mont. 1921 § 8184,2 rev.codes of mont. 1921 § 8184,Statute,state_statute,MT,1,1,1,1938,1938,false,unresolved
 2 Rev.Codes of Mont. 1921 § 8202,2 rev.codes of mont. 1921 § 8202,Statute,state_statute,MT,1,1,1,1938,1938,false,unresolved
 2 Revised Codes of Montana (1907) § 7892,2 revised codes of montana (1907) § 7892,Statute,state_statute,MT,1,1,1,1921,1921,false,unresolved
-20 C.J. § 406,20 c.j. § 406,Statute,state_statute,MT,1,1,1,1962,1962,false,unresolved
-20 Mont. Code Ann. § 45-5-209,20 mont. code ann. § 45-5-209,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
-20 Mont.Code Ann. § 45-5-401,20 mont.code ann. § 45-5-401,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
-20 Mont.Code Ann. § 70-1-101,20 mont.code ann. § 70-1-101,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 20 XJ.S.C. § 1415,20 xj.s.c. § 1415,Statute,state_statute,MT,1,1,1,2014,2014,false,unresolved
 2001 Mont. Laws 2436,2001 mont. laws 2436,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 2001 Mont. Laws 2458,2001 mont. laws 2458,Statute,state_statute,MT,1,1,1,2017,2017,false,unresolved
@@ -2916,75 +2875,43 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 2023 Mont. Laws 2229,2023 mont. laws 2229,Statute,state_statute,MT,1,1,1,2025,2025,false,unresolved
 "206 Mont., 671 P. 583","206 mont., 671 p. 583",Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
 21 (UCCJEA § 201,21 (uccjea § 201,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
-21 Mont. Code Ann. § 27-5-311,21 mont. code ann. § 27-5-311,Statute,state_statute,MT,1,1,1,2026,2026,false,unresolved
-21 Mont. Code Ann. § 31-2-106,21 mont. code ann. § 31-2-106,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
-21 Mont. Code Ann. § 31-2-326,21 mont. code ann. § 31-2-326,Statute,state_statute,MT,1,1,1,2018,2018,false,unresolved
-21 Mont. Code Ann. § 45-5-209,21 mont. code ann. § 45-5-209,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
-216 (1992). Mont.Code Ann. § 35-10-505,216 (1992). mont.code ann. § 35-10-505,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
 "22 (Montana, Mont. Code Ann. § 30-14-133","22 (montana, mont. code ann. § 30-14-133",Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
 "22 (Montana, Mont. Code Ann. § 407.025","22 (montana, mont. code ann. § 407.025",Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
 22 O.S.Supp. § 1141.1,22 o.s.supp. § 1141.1,Statute,state_statute,MT,1,1,1,1958,1958,true,exact
-23 CJS Criminal Law § 830,23 cjs criminal law § 830,Statute,state_statute,MT,1,1,1,1991,1991,false,unresolved
 23 H.S.C.A. § 162,23 h.s.c.a. § 162,Statute,state_statute,MT,1,1,1,1960,1960,false,unresolved
-23 Mont. Code Ann. § 10-3-104,23 mont. code ann. § 10-3-104,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
-23 Mont. Code Ann. § 15-1-601,23 mont. code ann. § 15-1-601,Statute,state_statute,MT,1,1,1,2015,2015,false,unresolved
-23 Mont. Code. Ann. § 27-2-204,23 mont. code. ann. § 27-2-204,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
 24 Statutes Mont. Code Ann. § 25-10-711,24 statutes mont. code ann. § 25-10-711,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
-249 (Mont. 1999). Mont. Code Ann. § 27-2-204,249 (mont. 1999). mont. code ann. § 27-2-204,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
 "25 Mont., 296, 64 P. 884","25 mont., 296, 64 p. 884",Statute,state_statute,MT,1,1,1,1973,1973,false,unresolved
 25 V.C.S. § 1911,25 v.c.s. § 1911,Statute,state_statute,MT,1,1,1,2014,2014,false,unresolved
 255 (Mont. 1983) (Mont. Code Ann. § 61-8-404,255 (mont. 1983) (mont. code ann. § 61-8-404,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 255 (Mont.1983) (Mont.Code Ann. § 61-8-404,255 (mont.1983) (mont.code ann. § 61-8-404,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
-26 Mont. Code Ann. 45-2-203,26 mont. code ann. 45-2-203,Statute,state_statute,MT,1,1,1,2000,2000,false,unresolved
 "27 Mont. 107, 113. 69 Pac. 829, 70 Pac. 517. R.C. 1935, Ann. § 8845","27 mont. 107, 113. 69 pac. 829, 70 pac. 517. r.c. 1935, ann. § 8845",Statute,state_statute,MT,1,1,1,1937,1937,false,unresolved
 27 Mont. Code Ann. § 15-25-101,27 mont. code ann. § 15-25-101,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
 27 Mont. Code Ann. § 27-5-312,27 mont. code ann. § 27-5-312,Statute,state_statute,MT,1,1,1,2005,2005,true,exact
-27 Mont. Code Ann. § 50-16-525,27 mont. code ann. § 50-16-525,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
 27 R.S. § 2477,27 r.s. § 2477,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 28 Mont. Civ. Code § 4330,28 mont. civ. code § 4330,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
-29 Mont.Code Ann. § 28-3-202,29 mont.code ann. § 28-3-202,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
 3 Mont. Code Ann. § 15-25-111,3 mont. code ann. § 15-25-111,Statute,state_statute,MT,1,1,1,1994,1994,false,unresolved
 3 Mont. Code Ann. § 27-5-101,3 mont. code ann. § 27-5-101,Statute,state_statute,MT,1,1,1,2005,2005,false,unresolved
 3 Mont. Code Ann. § 35-1-921,3 mont. code ann. § 35-1-921,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
-3 Mont. Code Ann. § 45-5-212,3 mont. code ann. § 45-5-212,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
-3 Mont. Code Ann. § 50-32-224,3 mont. code ann. § 50-32-224,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
-3 Mont.Code § 27-5-312,3 mont.code § 27-5-312,Statute,state_statute,MT,1,1,1,2002,2002,false,unresolved
-3 Montana Code Annotated § 46-9-401,3 montana code annotated § 46-9-401,Statute,state_statute,MT,1,1,1,2019,2019,false,unresolved
 3 R.C.M. 1921 § 9819,3 r.c.m. 1921 § 9819,Statute,state_statute,MT,1,1,1,2017,2017,false,unresolved
 3 Revised Codes of Montana § 10595,3 revised codes of montana § 10595,Statute,state_statute,MT,1,1,1,1922,1922,false,unresolved
 "3 Revised Codes of Montana, 1947 § 89-1001","3 revised codes of montana, 1947 § 89-1001",Statute,state_statute,MT,1,1,1,1953,1953,false,unresolved
 "3 Revised Codes of Montana, 1947 § 89-1024","3 revised codes of montana, 1947 § 89-1024",Statute,state_statute,MT,1,1,1,1953,1953,false,unresolved
 "30 Mont., 306, 313, 76 P. 699","30 mont., 306, 313, 76 p. 699",Statute,state_statute,MT,1,1,1,1927,1927,false,unresolved
-31 Mont.Code Ann. § 30-11-801,31 mont.code ann. § 30-11-801,Statute,state_statute,MT,1,1,1,2003,2003,false,unresolved
 "31 Montana, 1933, ch. 105 § 102","31 montana, 1933, ch. 105 § 102",Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
 "32 Z.J.S., Evidence § 5","32 z.j.s., evidence § 5",Statute,state_statute,MT,1,1,1,1977,1977,false,unresolved
-35 C.J. 325 § 345,35 c.j. 325 § 345,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
-35 Mont. Code Ann. § 27-5-113,35 mont. code ann. § 27-5-113,Statute,state_statute,MT,1,1,1,2005,2005,false,unresolved
 36 (Mont.Code Ann. § 72-33-101,36 (mont.code ann. § 72-33-101,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
-36 Mont. Code Ann. § 27-2-204,36 mont. code ann. § 27-2-204,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 "364 (Mont. 1979) (motorist’s line of sight), and (4) HRS § 291C-101","364 (mont. 1979) (motorist’s line of sight), and (4) hrs § 291c-101",Statute,state_statute,MT,1,1,1,2015,2015,false,unresolved
-37 Mont. Code Ann. § 27-2-102,37 mont. code ann. § 27-2-102,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 37 Mont. Stat. Ann. § 26-401,37 mont. stat. ann. § 26-401,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
-"375 F. 2d 135, 148 (CA5 1967). Montana Code Ann. § 26-1-602","375 f. 2d 135, 148 (ca5 1967). montana code ann. § 26-1-602",Statute,state_statute,MT,1,1,1,1979,1979,false,unresolved
 38 Mont.Ann.Code § 27-1-719,38 mont.ann.code § 27-1-719,Statute,state_statute,MT,1,1,1,1992,1992,false,unresolved
 "386 U.S. 738, 87 S. Ct. 1396 (1967) § 46-18-103","386 u.s. 738, 87 s. ct. 1396 (1967) § 46-18-103",Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 "386 U.S. 738, 87 S. Ct. 1396 (1967) § 46-8-103","386 u.s. 738, 87 s. ct. 1396 (1967) § 46-8-103",Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 "39 Mont. 165, 168, 101 P. 962. Article V § 1","39 mont. 165, 168, 101 p. 962. article v § 1",Statute,state_statute,MT,1,1,1,1958,1958,false,unresolved
-39 Mont. Code Ann. § 27-2-102,39 mont. code ann. § 27-2-102,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
-39 Mont.Code Ann. § 28-1-104,39 mont.code ann. § 28-1-104,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
 395 (Mont. 2 Idaho Code § 20-221,395 (mont. 2 idaho code § 20-221,Statute,state_statute,MT,1,1,1,2026,2026,false,unresolved
 4 FCZR § 4.10.10,4 fczr § 4.10.10,Statute,state_statute,MT,1,1,1,2008,2008,false,unresolved
 4 Mont. Co.Code § 11B,4 mont. co.code § 11b,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
-4 Mont. Code Ann. § 15-23-701,4 mont. code ann. § 15-23-701,Statute,state_statute,MT,1,1,1,1981,1981,false,unresolved
-4 Mont. Code Ann. § 15-23-704,4 mont. code ann. § 15-23-704,Statute,state_statute,MT,1,1,1,1981,1981,false,unresolved
-4 Mont. Code Ann. § 15-35-101,4 mont. code ann. § 15-35-101,Statute,state_statute,MT,1,1,1,1981,1981,false,unresolved
 4 Mont. Code Ann. § 15-35-111,4 mont. code ann. § 15-35-111,Statute,state_statute,MT,1,1,1,1981,1981,false,unresolved
-4 Mont. Code Ann. § 33-1-201,4 mont. code ann. § 33-1-201,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
-4 Mont. Code Ann. § 39-2-902,4 mont. code ann. § 39-2-902,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
 4 Mont. Rev. Codes Ann. § 50-22-101,4 mont. rev. codes ann. § 50-22-101,Statute,state_statute,MT,1,1,1,1980,1980,false,unresolved
-4 Mont.Code Ann. § 28-3-202,4 mont.code ann. § 28-3-202,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
 4 Mont.Code Ann.Civ.Proc. Rule 4B,4 mont.code ann.civ.proc. rule 4b,Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
-4 Mont.Code § 70-28-110,4 mont.code § 70-28-110,Statute,state_statute,MT,1,1,1,1980,1980,false,unresolved
 "4 Montana Revised Codes, 1935 § 7025","4 montana revised codes, 1935 § 7025",Statute,state_statute,MT,1,1,1,1944,1944,false,unresolved
 4 R.C.M. 1947 § 93-8704,4 r.c.m. 1947 § 93-8704,Statute,state_statute,MT,1,1,1,2017,2017,false,unresolved
 "4 Revised Codes of Montana, 1935 § 600","4 revised codes of montana, 1935 § 600",Statute,state_statute,MT,1,1,1,1944,1944,false,unresolved
@@ -3001,14 +2928,12 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 42 Rev.Codes of Montana 1935 § 6705,42 rev.codes of montana 1935 § 6705,Statute,state_statute,MT,1,1,1,1941,1941,false,unresolved
 42 U.S.c. § 12010,42 u.s.c. § 12010,Statute,state_statute,MT,1,1,1,1997,1997,false,unresolved
 42 U.S.c. § 12213,42 u.s.c. § 12213,Statute,state_statute,MT,1,1,1,1997,1997,true,exact
-426 (1995). IV. Montana Code Annotated § 13-37-216,426 (1995). iv. montana code annotated § 13-37-216,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
 43 C.J. § 2T7,43 c.j. § 2t7,Statute,state_statute,MT,1,1,1,1961,1961,false,unresolved
 "43 Mont. 505, 117 Pac. 889, Ann. Cas. 1912C, 268, 272. Code § 3392","43 mont. 505, 117 pac. 889, ann. cas. 1912c, 268, 272. code § 3392",Statute,state_statute,MT,1,1,1,1921,1921,false,unresolved
 "43 Mont., 336, 116 P. 415","43 mont., 336, 116 p. 415",Statute,state_statute,MT,1,1,1,1926,1926,false,unresolved
 43 U.S. § 1983,43 u.s. § 1983,Statute,state_statute,MT,1,1,1,1986,1986,false,unresolved
 "43-188 (g), and Rev. Codes of Montana § 43-188","43-188 (g), and rev. codes of montana § 43-188",Statute,state_statute,MT,1,1,1,1974,1974,false,unresolved
 "43-188 (g), and Rev. Codes of Montana § 84-4947","43-188 (g), and rev. codes of montana § 84-4947",Statute,state_statute,MT,1,1,1,1974,1974,false,unresolved
-44 Mont. Code Ann. § 27-2-102,44 mont. code ann. § 27-2-102,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 "451 U.S. 527, 101 S. Ct. 1908 (1981) § 1983","451 u.s. 527, 101 s. ct. 1908 (1981) § 1983",Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
 46 Mont.Code Ann. § 8-102,46 mont.code ann. § 8-102,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
 "473 F. Sup. 1354, 1357-58 (D. Mont. 1979). 2 General Statutes § 53a-54a","473 f. sup. 1354, 1357-58 (d. mont. 1979). 2 general statutes § 53a-54a",Statute,state_statute,MT,1,1,1,1980,1980,false,unresolved
@@ -3017,19 +2942,13 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 49 MONT. CONST. art. II § 16,49 mont. const. art. ii § 16,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 491 (1977). Mont. Code Ann. § 46-6-203,491 (1977). mont. code ann. § 46-6-203,Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
 "5 Gen. Dig., U.S. § 526","5 gen. dig., u.s. § 526",Statute,state_statute,MT,1,1,1,1894,1894,false,unresolved
-5 Mont.Code Ann. § 13-37-216,5 mont.code ann. § 13-37-216,Statute,state_statute,MT,1,1,1,2015,2015,false,unresolved
-5 Mont.Code Ann. § 31-1-107,5 mont.code ann. § 31-1-107,Statute,state_statute,MT,1,1,1,2000,2000,false,unresolved
 5 Mont.Code § 27-18,5 mont.code § 27-18,Statute,state_statute,MT,1,1,1,2001,2001,false,unresolved
 "514 (1907), and R.C.M. § 94-8303","514 (1907), and r.c.m. § 94-8303",Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 "525 F. Supp. 234, 237 (D. Mont. 1981) RCW 4.24.115","525 f. supp. 234, 237 (d. mont. 1981) rcw 4.24.115",Statute,state_statute,MT,1,1,1,1992,1992,false,unresolved
-53 (1994). Montana Code Annotated § 27-1-719,53 (1994). montana code annotated § 27-1-719,Statute,state_statute,MT,1,1,1,2015,2015,false,unresolved
-53 Mont.Code Ann. § 23-2-702,53 mont.code ann. § 23-2-702,Statute,state_statute,MT,1,1,1,2014,2014,false,unresolved
 547 (1983)). Mont.Code Ann. § 13-35-233,547 (1983)). mont.code ann. § 13-35-233,Statute,state_statute,MT,1,1,1,1997,1997,false,unresolved
 554 (Mont.2000). MCA § 35,554 (mont.2000). mca § 35,Statute,state_statute,MT,1,1,1,2014,2014,false,unresolved
 "555 U.S. 7, 20, 129 S. Ct. 365, 366 (2008) § 27-19-201","555 u.s. 7, 20, 129 s. ct. 365, 366 (2008) § 27-19-201",Statute,state_statute,MT,1,1,1,2025,2025,false,unresolved
-558 (9th Cir.1987). Mont.Code Ann. § 27-2-204,558 (9th cir.1987). mont.code ann. § 27-2-204,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
 59 M.R.CivJP. (R.C.M.1947 § 93-2707-6,59 m.r.civjp. (r.c.m.1947 § 93-2707-6,Statute,state_statute,MT,1,1,1,1962,1962,false,unresolved
-6 Mont. Code Ann. § 77-6-506,6 mont. code ann. § 77-6-506,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
 6 Mont. Code Ann. § 89,6 mont. code ann. § 89,Statute,state_statute,MT,1,1,1,2011,2011,false,unresolved
 6 Mont. Rev. Code § 92.410,6 mont. rev. code § 92.410,Statute,state_statute,MT,1,1,1,1952,1952,false,unresolved
 6 Montana Rev. Code 25-304,6 montana rev. code 25-304,Statute,state_statute,MT,1,1,1,1973,1973,false,unresolved
@@ -3041,10 +2960,6 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 "67 Mont., 244, 216 P. 344","67 mont., 244, 216 p. 344",Statute,state_statute,MT,1,1,1,1932,1932,false,unresolved
 7 MONT. CONST. art. II § 17,7 mont. const. art. ii § 17,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 7 MONT. CONST. art. II § 4,7 mont. const. art. ii § 4,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
-7 Mont. Code Ann. § 2-4-704,7 mont. code ann. § 2-4-704,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
-7 Montana Code Annotated § 27-2-203,7 montana code annotated § 27-2-203,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
-7 TJ.S.C. § 301,7 tj.s.c. § 301,Statute,state_statute,MT,1,1,1,1964,1964,false,unresolved
-7 TJ.S.C. § 308,7 tj.s.c. § 308,Statute,state_statute,MT,1,1,1,1964,1964,false,unresolved
 "703 (2003), and Mont. Code Ann. § 28-3-102","703 (2003), and mont. code ann. § 28-3-102",Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
 "71 Mont., 165, 227 P. 811","71 mont., 165, 227 p. 811",Statute,state_statute,MT,1,1,1,1949,1949,false,unresolved
 "74 Mont. 39, 238 P. 597 (1925), 21 C.J.S. Courts § 94","74 mont. 39, 238 p. 597 (1925), 21 c.j.s. courts § 94",Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
@@ -3054,18 +2969,12 @@ WDFEA § 39-2-901,wdfea § 39-2-901,Statute,state_statute,MT,2,2,1,1999,1999,fal
 79 MONT. CONST. art. II. § 17,79 mont. const. art. ii. § 17,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 793 (2003). F.Statute of Limitations. Mont.Code Ann. § 27-2-204,793 (2003). f.statute of limitations. mont.code ann. § 27-2-204,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
 8 B. Montana Code Annotated § 33-28-108,8 b. montana code annotated § 33-28-108,Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
-8 Mont. Code Ann. § 2-4-703,8 mont. code ann. § 2-4-703,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
-8 Mont. Code Ann. § 72-3-701,8 mont. code ann. § 72-3-701,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
 8 Montana Art. XV § 9,8 montana art. xv § 9,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
 "8 Revised Codes of Mont., 1947 § 94-7408","8 revised codes of mont., 1947 § 94-7408",Statute,state_statute,MT,1,1,1,1952,1952,false,unresolved
 "8 Revised Codes of Mont., 1947 § 9974","8 revised codes of mont., 1947 § 9974",Statute,state_statute,MT,1,1,1,1952,1952,false,unresolved
 "85 Mont. 11, 18, 277 P. 437. R.C.M.1947 § 14-502","85 mont. 11, 18, 277 p. 437. r.c.m.1947 § 14-502",Statute,state_statute,MT,1,1,1,1962,1962,false,unresolved
 "86 Mont. 463, 284 P. 553. R.C.M. 1947 § 67-1608","86 mont. 463, 284 p. 553. r.c.m. 1947 § 67-1608",Statute,state_statute,MT,1,1,1,1958,1958,false,unresolved
-9 C.J. § 95,9 c.j. § 95,Statute,state_statute,MT,1,1,1,1980,1980,false,unresolved
 9 MCA § 37-20-403,9 mca § 37-20-403,Statute,state_statute,MT,1,1,1,2008,2008,false,unresolved
-9 Mont. Code Ann. § 70-28-108,9 mont. code ann. § 70-28-108,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
-9 Mont.Code Ann. § 27-2-102,9 mont.code ann. § 27-2-102,Statute,state_statute,MT,1,1,1,1992,1992,false,unresolved
-"91 ALR 3d 844, 850 § 3","91 alr 3d 844, 850 § 3",Statute,state_statute,MT,1,1,1,1994,1994,false,unresolved
 922 (Mont. 1998) Oregon: Or. Rev. Stat. § 165.540,922 (mont. 1998) oregon: or. rev. stat. § 165.540,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
 9837 [R.C.M.1947 § 93-9002,9837 [r.c.m.1947 § 93-9002,Statute,state_statute,MT,1,1,1,1963,1963,false,unresolved
 A. Montana Code Annotated § 25-10-711,a. montana code annotated § 25-10-711,Statute,state_statute,MT,1,1,1,2025,2025,false,unresolved
@@ -3266,7 +3175,6 @@ FRAUD § 28-2-406,fraud § 28-2-406,Statute,state_statute,MT,1,1,1,1996,1996,fal
 FTC Act. Mont.Code Ann. § 30-14-104,ftc act. mont.code ann. § 30-14-104,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
 FWP § 87-4-408,fwp § 87-4-408,Statute,state_statute,MT,1,1,1,2002,2002,false,unresolved
 FZCR § 2.06.080,fzcr § 2.06.080,Statute,state_statute,MT,1,1,1,2008,2008,false,unresolved
-Fed.Pract. and Proc. § 2727,fed.pract. and proc. § 2727,Statute,state_statute,MT,1,1,1,1979,1979,false,unresolved
 G.M.N. § 40-4-212,g.m.n. § 40-4-212,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
 GAL § 25-5-301,gal § 25-5-301,Statute,state_statute,MT,1,1,1,2013,2013,false,unresolved
 "H.B. 362, 42d Mont. Leg. Assem. § 5","h.b. 362, 42d mont. leg. assem. § 5",Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
@@ -3279,8 +3187,6 @@ I.R.C. § 15-30-3301,i.r.c. § 15-30-3301,Statute,state_statute,MT,1,1,1,2023,20
 ICPC § 41-4-101,icpc § 41-4-101,Statute,state_statute,MT,1,1,1,2002,2002,false,unresolved
 ICWA. 5 25 U.C.S. § 1911,icwa. 5 25 u.c.s. § 1911,Statute,state_statute,MT,1,1,1,2014,2014,false,unresolved
 IEUO § 1f1S,ieuo § 1f1s,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
-II. Montana Code Ann. § 13-35-225,ii. montana code ann. § 13-35-225,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
-III. Montana Code Ann. § 13-37-131,iii. montana code ann. § 13-37-131,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
 IN LAND § 7:6,in land § 7:6,Statute,state_statute,MT,1,1,1,2002,2002,false,unresolved
 INA § 1357,ina § 1357,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
 Insurance Code and Montana Code Annotated § 33-1-101,insurance code and montana code annotated § 33-1-101,Statute,state_statute,MT,1,1,1,1982,1982,false,unresolved
@@ -3680,6 +3586,7 @@ Mont. Code AnN. (“MCA”) § 31-2-106,mont. code ann. (“mca”) § 31-2-106,
 Mont. Code Ann § 15-25-111,mont. code ann § 15-25-111,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
 Mont. Code Ann § 15-30-3312,mont. code ann § 15-30-3312,Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
 Mont. Code Ann § 16-11-505,mont. code ann § 16-11-505,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
+Mont. Code Ann § 2-15-501,mont. code ann § 2-15-501,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann § 25-9-501,mont. code ann § 25-9-501,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 Mont. Code Ann § 27-1-221,mont. code ann § 27-1-221,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann § 27-1-501,mont. code ann § 27-1-501,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
@@ -3739,6 +3646,7 @@ Mont. Code Ann. 41-3-609,mont. code ann. 41-3-609,Statute,state_statute,MT,1,1,1
 Mont. Code Ann. 41-5-1521,mont. code ann. 41-5-1521,Statute,state_statute,MT,1,1,1,2025,2025,true,exact
 Mont. Code Ann. 45-1-205,mont. code ann. 45-1-205,Statute,state_statute,MT,1,1,1,2016,2016,true,exact
 Mont. Code Ann. 45-2-201,mont. code ann. 45-2-201,Statute,state_statute,MT,1,1,1,1999,1999,true,exact
+Mont. Code Ann. 45-2-203,mont. code ann. 45-2-203,Statute,state_statute,MT,1,1,1,2000,2000,true,exact
 Mont. Code Ann. 45-5-,mont. code ann. 45-5-,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
 Mont. Code Ann. 45-5-102,mont. code ann. 45-5-102,Statute,state_statute,MT,1,1,1,1990,1990,true,exact
 Mont. Code Ann. 45-5-105,mont. code ann. 45-5-105,Statute,state_statute,MT,1,1,1,1995,1995,true,exact
@@ -3757,6 +3665,7 @@ Mont. Code Ann. 46-5-102,mont. code ann. 46-5-102,Statute,state_statute,MT,1,1,1
 Mont. Code Ann. 50-16-502,mont. code ann. 50-16-502,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. 50-16-529,mont. code ann. 50-16-529,Statute,state_statute,MT,1,1,1,1999,1999,true,exact
 Mont. Code Ann. 5020-108,mont. code ann. 5020-108,Statute,state_statute,MT,1,1,1,2001,2001,false,unresolved
+Mont. Code Ann. 53-21-126,mont. code ann. 53-21-126,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Mont. Code Ann. 61-4-208,mont. code ann. 61-4-208,Statute,state_statute,MT,1,1,1,1993,1993,true,exact
 Mont. Code Ann. 72-2-613,mont. code ann. 72-2-613,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 Mont. Code Ann. Title XXVI § 407.1060,mont. code ann. title xxvi § 407.1060,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
@@ -3853,7 +3762,6 @@ Mont. Code Ann. § 16-12-203,mont. code ann. § 16-12-203,Statute,state_statute,
 Mont. Code Ann. § 16-3-221,mont. code ann. § 16-3-221,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 Mont. Code Ann. § 16-3-222,mont. code ann. § 16-3-222,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 Mont. Code Ann. § 16-3-301,mont. code ann. § 16-3-301,Statute,state_statute,MT,1,1,1,2007,2007,true,exact
-Mont. Code Ann. § 16-6-301,mont. code ann. § 16-6-301,Statute,state_statute,MT,1,1,1,1992,1992,true,exact
 Mont. Code Ann. § 18-1-102,mont. code ann. § 18-1-102,Statute,state_statute,MT,1,1,1,1990,1990,true,exact
 Mont. Code Ann. § 19,mont. code ann. § 19,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
 Mont. Code Ann. § 19-1-301,mont. code ann. § 19-1-301,Statute,state_statute,MT,1,1,1,1999,1999,true,exact
@@ -3881,8 +3789,7 @@ Mont. Code Ann. § 2-4,mont. code ann. § 2-4,Statute,state_statute,MT,1,1,1,202
 Mont. Code Ann. § 2-4-101,mont. code ann. § 2-4-101,Statute,state_statute,MT,1,1,1,2005,2005,true,exact
 Mont. Code Ann. § 2-4-621,mont. code ann. § 2-4-621,Statute,state_statute,MT,1,1,1,2003,2003,true,exact
 Mont. Code Ann. § 2-4-631,mont. code ann. § 2-4-631,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
-Mont. Code Ann. § 2-4-701,mont. code ann. § 2-4-701,Statute,state_statute,MT,1,1,1,2022,2022,true,exact
-Mont. Code Ann. § 2-4-703,mont. code ann. § 2-4-703,Statute,state_statute,MT,1,1,1,1997,1997,true,exact
+Mont. Code Ann. § 2-4-711,mont. code ann. § 2-4-711,Statute,state_statute,MT,1,1,1,2009,2009,true,exact
 Mont. Code Ann. § 2-6-1006,mont. code ann. § 2-6-1006,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 2-9,mont. code ann. § 2-9,Statute,state_statute,MT,1,1,1,1997,1997,false,unresolved
 Mont. Code Ann. § 2-9-2,mont. code ann. § 2-9-2,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
@@ -3920,7 +3827,6 @@ Mont. Code Ann. § 23-7-412,mont. code ann. § 23-7-412,Statute,state_statute,MT
 Mont. Code Ann. § 230,mont. code ann. § 230,Statute,state_statute,MT,1,1,1,2000,2000,false,unresolved
 Mont. Code Ann. § 2412,mont. code ann. § 2412,Statute,state_statute,MT,1,1,1,1999,1999,false,unresolved
 Mont. Code Ann. § 25-10,mont. code ann. § 25-10,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
-Mont. Code Ann. § 25-12-103,mont. code ann. § 25-12-103,Statute,state_statute,MT,1,1,1,2015,2015,true,exact
 Mont. Code Ann. § 25-13-201,mont. code ann. § 25-13-201,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 25-13-305,mont. code ann. § 25-13-305,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 Mont. Code Ann. § 25-13-601,mont. code ann. § 25-13-601,Statute,state_statute,MT,1,1,1,2001,2001,true,exact
@@ -3938,7 +3844,6 @@ Mont. Code Ann. § 25-7-501,mont. code ann. § 25-7-501,Statute,state_statute,MT
 Mont. Code Ann. § 25-9-204,mont. code ann. § 25-9-204,Statute,state_statute,MT,1,1,1,2025,2025,true,exact
 Mont. Code Ann. § 25-9-301.23,mont. code ann. § 25-9-301.23,Statute,state_statute,MT,1,1,1,2020,2020,false,unresolved
 Mont. Code Ann. § 25-9-608,mont. code ann. § 25-9-608,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
-Mont. Code Ann. § 26--1--804,mont. code ann. § 26--1--804,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
 Mont. Code Ann. § 26-1-103,mont. code ann. § 26-1-103,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Mont. Code Ann. § 26-1-812,mont. code ann. § 26-1-812,Statute,state_statute,MT,1,1,1,2018,2018,true,exact
 Mont. Code Ann. § 26-1-902,mont. code ann. § 26-1-902,Statute,state_statute,MT,1,1,1,2019,2019,true,exact
@@ -3969,9 +3874,9 @@ Mont. Code Ann. § 27-26-202,mont. code ann. § 27-26-202,Statute,state_statute,
 Mont. Code Ann. § 27-26-204,mont. code ann. § 27-26-204,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 27-26-302,mont. code ann. § 27-26-302,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 27-30-30,mont. code ann. § 27-30-30,Statute,state_statute,MT,1,1,1,2023,2023,false,unresolved
-Mont. Code Ann. § 27-5-113,mont. code ann. § 27-5-113,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Mont. Code Ann. § 27-5-115,mont. code ann. § 27-5-115,Statute,state_statute,MT,1,1,1,2022,2022,true,exact
 Mont. Code Ann. § 27-5-116,mont. code ann. § 27-5-116,Statute,state_statute,MT,1,1,1,2019,2019,true,exact
+Mont. Code Ann. § 27-5-311,mont. code ann. § 27-5-311,Statute,state_statute,MT,1,1,1,2026,2026,true,exact
 Mont. Code Ann. § 27-5-322,mont. code ann. § 27-5-322,Statute,state_statute,MT,1,1,1,2007,2007,true,exact
 Mont. Code Ann. § 27-5-324,mont. code ann. § 27-5-324,Statute,state_statute,MT,1,1,1,2010,2010,true,exact
 Mont. Code Ann. § 27-6-701s,mont. code ann. § 27-6-701s,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
@@ -4000,7 +3905,6 @@ Mont. Code Ann. § 28-2-402,mont. code ann. § 28-2-402,Statute,state_statute,MT
 Mont. Code Ann. § 28-2-503,mont. code ann. § 28-2-503,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 Mont. Code Ann. § 28-2-813,mont. code ann. § 28-2-813,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 28-2-901,mont. code ann. § 28-2-901,Statute,state_statute,MT,1,1,1,1999,1999,true,exact
-Mont. Code Ann. § 28-2-903,mont. code ann. § 28-2-903,Statute,state_statute,MT,1,1,1,2010,2010,true,exact
 Mont. Code Ann. § 28-3-205,mont. code ann. § 28-3-205,Statute,state_statute,MT,1,1,1,1985,1985,true,exact
 Mont. Code Ann. § 28-3-206,mont. code ann. § 28-3-206,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Mont. Code Ann. § 28-3-303.19,mont. code ann. § 28-3-303.19,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
@@ -4052,7 +3956,6 @@ Mont. Code Ann. § 309,mont. code ann. § 309,Statute,state_statute,MT,1,1,1,201
 Mont. Code Ann. § 31-1-231,mont. code ann. § 31-1-231,Statute,state_statute,MT,1,1,1,1982,1982,true,exact
 Mont. Code Ann. § 31-1-328,mont. code ann. § 31-1-328,Statute,state_statute,MT,1,1,1,2019,2019,false,unresolved
 Mont. Code Ann. § 31-2-201,mont. code ann. § 31-2-201,Statute,state_statute,MT,1,1,1,1988,1988,true,exact
-Mont. Code Ann. § 31-2-326,mont. code ann. § 31-2-326,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 31-2-330,mont. code ann. § 31-2-330,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 31-2-331,mont. code ann. § 31-2-331,Statute,state_statute,MT,1,1,1,1996,1996,false,unresolved
 Mont. Code Ann. § 31-2-334.6,mont. code ann. § 31-2-334.6,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
@@ -4068,6 +3971,7 @@ Mont. Code Ann. § 317,mont. code ann. § 317,Statute,state_statute,MT,1,1,1,202
 Mont. Code Ann. § 32-1113,mont. code ann. § 32-1113,Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
 Mont. Code Ann. § 32-9-170,mont. code ann. § 32-9-170,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Mont. Code Ann. § 33-,mont. code ann. § 33-,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
+Mont. Code Ann. § 33-1-201,mont. code ann. § 33-1-201,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
 Mont. Code Ann. § 33-1-202,mont. code ann. § 33-1-202,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 33-1-205,mont. code ann. § 33-1-205,Statute,state_statute,MT,1,1,1,2018,2018,true,exact
 Mont. Code Ann. § 33-1-206,mont. code ann. § 33-1-206,Statute,state_statute,MT,1,1,1,2018,2018,true,exact
@@ -4238,7 +4142,6 @@ Mont. Code Ann. § 42-2-411,mont. code ann. § 42-2-411,Statute,state_statute,MT
 Mont. Code Ann. § 42-5-103,mont. code ann. § 42-5-103,Statute,state_statute,MT,1,1,1,2025,2025,true,exact
 Mont. Code Ann. § 42-5-301,mont. code ann. § 42-5-301,Statute,state_statute,MT,1,1,1,2002,2002,true,exact
 Mont. Code Ann. § 44,mont. code ann. § 44,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
-Mont. Code Ann. § 44--6--101,mont. code ann. § 44--6--101,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
 Mont. Code Ann. § 44-10-201,mont. code ann. § 44-10-201,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 44-10-202,mont. code ann. § 44-10-202,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 44-11-102,mont. code ann. § 44-11-102,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
@@ -4246,6 +4149,7 @@ Mont. Code Ann. § 44-13-101,mont. code ann. § 44-13-101,Statute,state_statute,
 Mont. Code Ann. § 44-13-102,mont. code ann. § 44-13-102,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 44-2-115,mont. code ann. § 44-2-115,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 44-4-101,mont. code ann. § 44-4-101,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
+Mont. Code Ann. § 44-6-101,mont. code ann. § 44-6-101,Statute,state_statute,MT,1,1,1,2004,2004,true,exact
 Mont. Code Ann. § 45-10-102,mont. code ann. § 45-10-102,Statute,state_statute,MT,1,1,1,2001,2001,true,exact
 Mont. Code Ann. § 45-2-103,mont. code ann. § 45-2-103,Statute,state_statute,MT,1,1,1,2019,2019,true,exact
 Mont. Code Ann. § 45-2-202,mont. code ann. § 45-2-202,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
@@ -4299,7 +4203,6 @@ Mont. Code Ann. § 46-13-402,mont. code ann. § 46-13-402,Statute,state_statute,
 Mont. Code Ann. § 46-14-202,mont. code ann. § 46-14-202,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 46-14-302,mont. code ann. § 46-14-302,Statute,state_statute,MT,1,1,1,1984,1984,true,exact
 Mont. Code Ann. § 46-14-303,mont. code ann. § 46-14-303,Statute,state_statute,MT,1,1,1,1984,1984,true,exact
-Mont. Code Ann. § 46-14-312,mont. code ann. § 46-14-312,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 46-15-201,mont. code ann. § 46-15-201,Statute,state_statute,MT,1,1,1,1991,1991,true,exact
 Mont. Code Ann. § 46-15-320,mont. code ann. § 46-15-320,Statute,state_statute,MT,1,1,1,2022,2022,true,exact
 Mont. Code Ann. § 46-15-331,mont. code ann. § 46-15-331,Statute,state_statute,MT,1,1,1,2022,2022,true,exact
@@ -4367,6 +4270,7 @@ Mont. Code Ann. § 492-312,mont. code ann. § 492-312,Statute,state_statute,MT,1
 Mont. Code Ann. § 5-2-401,mont. code ann. § 5-2-401,Statute,state_statute,MT,1,1,1,1982,1982,true,exact
 Mont. Code Ann. § 50-,mont. code ann. § 50-,Statute,state_statute,MT,1,1,1,2001,2001,false,unresolved
 Mont. Code Ann. § 50-15-204,mont. code ann. § 50-15-204,Statute,state_statute,MT,1,1,1,2005,2005,true,exact
+Mont. Code Ann. § 50-16-525,mont. code ann. § 50-16-525,Statute,state_statute,MT,1,1,1,2022,2022,true,exact
 Mont. Code Ann. § 50-16-535,mont. code ann. § 50-16-535,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 50-16-816,mont. code ann. § 50-16-816,Statute,state_statute,MT,1,1,1,2008,2008,true,exact
 Mont. Code Ann. § 50-20,mont. code ann. § 50-20,Statute,state_statute,MT,1,1,1,2000,2000,false,unresolved
@@ -4494,6 +4398,7 @@ Mont. Code Ann. § 70-24-101,mont. code ann. § 70-24-101,Statute,state_statute,
 Mont. Code Ann. § 70-24-303,mont. code ann. § 70-24-303,Statute,state_statute,MT,1,1,1,2008,2008,true,exact
 Mont. Code Ann. § 70-24-436,mont. code ann. § 70-24-436,Statute,state_statute,MT,1,1,1,2000,2000,false,unresolved
 Mont. Code Ann. § 70-28-106,mont. code ann. § 70-28-106,Statute,state_statute,MT,1,1,1,2026,2026,true,exact
+Mont. Code Ann. § 70-28-108,mont. code ann. § 70-28-108,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
 Mont. Code Ann. § 70-28-9,mont. code ann. § 70-28-9,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
 Mont. Code Ann. § 70-29-209,mont. code ann. § 70-29-209,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Mont. Code Ann. § 70-29-212,mont. code ann. § 70-29-212,Statute,state_statute,MT,1,1,1,2017,2017,true,exact
@@ -5051,7 +4956,6 @@ Mont.Code Ann. § 13-35-301,mont.code ann. § 13-35-301,Statute,state_statute,MT
 Mont.Code Ann. § 13-37-117,mont.code ann. § 13-37-117,Statute,state_statute,MT,1,1,1,2013,2013,true,exact
 Mont.Code Ann. § 13-37-203,mont.code ann. § 13-37-203,Statute,state_statute,MT,1,1,1,2013,2013,true,exact
 Mont.Code Ann. § 13-37-229,mont.code ann. § 13-37-229,Statute,state_statute,MT,1,1,1,2009,2009,true,exact
-Mont.Code Ann. § 13-l-101,mont.code ann. § 13-l-101,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
 Mont.Code Ann. § 14,mont.code ann. § 14,Statute,state_statute,MT,1,1,1,2007,2007,false,unresolved
 Mont.Code Ann. § 1414,mont.code ann. § 1414,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
 Mont.Code Ann. § 15,mont.code ann. § 15,Statute,state_statute,MT,1,1,1,1988,1988,false,unresolved
@@ -5162,8 +5066,6 @@ Mont.Code Ann. § 27-30-101,mont.code ann. § 27-30-101,Statute,state_statute,MT
 Mont.Code Ann. § 27-5-101,mont.code ann. § 27-5-101,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
 Mont.Code Ann. § 27-5-324,mont.code ann. § 27-5-324,Statute,state_statute,MT,1,1,1,2010,2010,true,exact
 Mont.Code Ann. § 27-6-701,mont.code ann. § 27-6-701,Statute,state_statute,MT,1,1,1,2001,2001,true,exact
-Mont.Code Ann. § 27-l-220,mont.code ann. § 27-l-220,Statute,state_statute,MT,1,1,1,1989,1989,false,unresolved
-Mont.Code Ann. § 27-l-719,mont.code ann. § 27-l-719,Statute,state_statute,MT,1,1,1,2009,2009,false,unresolved
 Mont.Code Ann. § 28-10-105,mont.code ann. § 28-10-105,Statute,state_statute,MT,1,1,1,2011,2011,true,exact
 Mont.Code Ann. § 28-11-105,mont.code ann. § 28-11-105,Statute,state_statute,MT,1,1,1,2006,2006,true,exact
 Mont.Code Ann. § 28-2-103,mont.code ann. § 28-2-103,Statute,state_statute,MT,1,1,1,2012,2012,true,exact
@@ -5175,7 +5077,6 @@ Mont.Code Ann. § 28-2-703,mont.code ann. § 28-2-703,Statute,state_statute,MT,1
 Mont.Code Ann. § 28-2-801,mont.code ann. § 28-2-801,Statute,state_statute,MT,1,1,1,2013,2013,true,exact
 Mont.Code Ann. § 28-3-307,mont.code ann. § 28-3-307,Statute,state_statute,MT,1,1,1,2010,2010,true,exact
 Mont.Code Ann. § 28-3-502,mont.code ann. § 28-3-502,Statute,state_statute,MT,1,1,1,1990,1990,true,exact
-Mont.Code Ann. § 28-3-702,mont.code ann. § 28-3-702,Statute,state_statute,MT,1,1,1,1983,1983,true,exact
 Mont.Code Ann. § 3,mont.code ann. § 3,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 Mont.Code Ann. § 3-1-101,mont.code ann. § 3-1-101,Statute,state_statute,MT,1,1,1,1994,1994,true,exact
 Mont.Code Ann. § 3-1-1105,mont.code ann. § 3-1-1105,Statute,state_statute,MT,1,1,1,2014,2014,true,exact
@@ -5270,6 +5171,7 @@ Mont.Code Ann. § 35-1-806,mont.code ann. § 35-1-806,Statute,state_statute,MT,1
 Mont.Code Ann. § 35-1-826,mont.code ann. § 35-1-826,Statute,state_statute,MT,1,1,1,2003,2003,false,unresolved
 Mont.Code Ann. § 35-1-935,mont.code ann. § 35-1-935,Statute,state_statute,MT,1,1,1,1999,1999,false,unresolved
 Mont.Code Ann. § 35-10-401,mont.code ann. § 35-10-401,Statute,state_statute,MT,1,1,1,2001,2001,true,exact
+Mont.Code Ann. § 35-10-505,mont.code ann. § 35-10-505,Statute,state_statute,MT,1,1,1,1993,1993,true,exact
 Mont.Code Ann. § 35-12-101,mont.code ann. § 35-12-101,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 Mont.Code Ann. § 35-12-201,mont.code ann. § 35-12-201,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
 Mont.Code Ann. § 35-12-403,mont.code ann. § 35-12-403,Statute,state_statute,MT,1,1,1,1987,1987,false,unresolved
@@ -5375,8 +5277,8 @@ Mont.Code Ann. § 42-1-106,mont.code ann. § 42-1-106,Statute,state_statute,MT,1
 Mont.Code Ann. § 42-2-405,mont.code ann. § 42-2-405,Statute,state_statute,MT,1,1,1,2003,2003,true,exact
 Mont.Code Ann. § 42-21-101,mont.code ann. § 42-21-101,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
 Mont.Code Ann. § 42-5-301,mont.code ann. § 42-5-301,Statute,state_statute,MT,1,1,1,2002,2002,true,exact
+Mont.Code Ann. § 44-1-1005,mont.code ann. § 44-1-1005,Statute,state_statute,MT,1,1,1,2004,2004,true,exact
 Mont.Code Ann. § 44-5-102,mont.code ann. § 44-5-102,Statute,state_statute,MT,1,1,1,2001,2001,true,exact
-Mont.Code Ann. § 44-l-1005,mont.code ann. § 44-l-1005,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
 Mont.Code Ann. § 45-10-101,mont.code ann. § 45-10-101,Statute,state_statute,MT,1,1,1,1984,1984,true,exact
 Mont.Code Ann. § 45-16-316,mont.code ann. § 45-16-316,Statute,state_statute,MT,1,1,1,1992,1992,false,unresolved
 Mont.Code Ann. § 45-3-107,mont.code ann. § 45-3-107,Statute,state_statute,MT,1,1,1,2008,2008,true,exact
@@ -5633,7 +5535,6 @@ Mont.Code Arm. § 95-2206.9,mont.code arm. § 95-2206.9,Statute,state_statute,MT
 Mont.Code § 20-25-515,mont.code § 20-25-515,Statute,state_statute,MT,1,1,1,2009,2009,true,exact
 Mont.Code § 27-2-204,mont.code § 27-2-204,Statute,state_statute,MT,1,1,1,1996,1996,true,exact
 Mont.Code § 27-5-114,mont.code § 27-5-114,Statute,state_statute,MT,1,1,1,2010,2010,true,exact
-Mont.Code § 27-5-312,mont.code § 27-5-312,Statute,state_statute,MT,1,1,1,2004,2004,true,exact
 Mont.Code § 27-5-313,mont.code § 27-5-313,Statute,state_statute,MT,1,1,1,2002,2002,true,exact
 Mont.Code § 28-2-1713,mont.code § 28-2-1713,Statute,state_statute,MT,1,1,1,1999,1999,true,exact
 Mont.Code § 30-14-101,mont.code § 30-14-101,Statute,state_statute,MT,1,1,1,2012,2012,true,exact
@@ -5658,6 +5559,7 @@ Mont.Code § 60-11-111,mont.code § 60-11-111,Statute,state_statute,MT,1,1,1,201
 Mont.Code § 61-4-204,mont.code § 61-4-204,Statute,state_statute,MT,1,1,1,1994,1994,true,exact
 Mont.Code § 7-2-4710,mont.code § 7-2-4710,Statute,state_statute,MT,1,1,1,2010,2010,true,exact
 Mont.Code § 70-24-431,mont.code § 70-24-431,Statute,state_statute,MT,1,1,1,1995,1995,true,exact
+Mont.Code § 70-28-110,mont.code § 70-28-110,Statute,state_statute,MT,1,1,1,1980,1980,true,exact
 Mont.Code § 71,mont.code § 71,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
 Mont.Code § 95-2226.1,mont.code § 95-2226.1,Statute,state_statute,MT,1,1,1,1993,1993,false,unresolved
 Mont.Code. Ann. § 13-27-204,mont.code. ann. § 13-27-204,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
@@ -5856,7 +5758,6 @@ Montana (1935) § 7558,montana (1935) § 7558,Statute,state_statute,MT,1,1,1,194
 "Montana (3 Revised Codes of Montana, 1921 § 9301","montana (3 revised codes of montana, 1921 § 9301",Statute,state_statute,MT,1,1,1,1923,1923,false,unresolved
 Montana (Art. II § 16,montana (art. ii § 16,Statute,state_statute,MT,1,1,1,1990,1990,false,unresolved
 Montana (Civ. Code § 176,montana (civ. code § 176,Statute,state_statute,MT,1,1,1,1919,1919,false,unresolved
-Montana (Code Ann. § 46-18-303,montana (code ann. § 46-18-303,Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
 Montana (Code Civ. Proc. 1895 § 510,montana (code civ. proc. 1895 § 510,Statute,state_statute,MT,1,1,1,1904,1904,false,unresolved
 Montana (Code Civ. Proc. 1895 § 514,montana (code civ. proc. 1895 § 514,Statute,state_statute,MT,1,1,1,1904,1904,false,unresolved
 Montana (Code Civ. Proc. 1895 § 578,montana (code civ. proc. 1895 § 578,Statute,state_statute,MT,1,1,1,1904,1904,false,unresolved
@@ -5953,9 +5854,10 @@ Montana Code 45-6-317,montana code 45-6-317,Statute,state_statute,MT,1,1,1,1987,
 Montana Code Ann § 32-33-12,montana code ann § 32-33-12,Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
 Montana Code Ann § 46-5-503,montana code ann § 46-5-503,Statute,state_statute,MT,1,1,1,1984,1984,false,unresolved
 Montana Code Ann. (“MCA”) § 72-38-401,montana code ann. (“mca”) § 72-38-401,Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
+Montana Code Ann. § 13-35-225,montana code ann. § 13-35-225,Statute,state_statute,MT,1,1,1,2012,2012,true,exact
+Montana Code Ann. § 13-37-131,montana code ann. § 13-37-131,Statute,state_statute,MT,1,1,1,2012,2012,true,exact
 Montana Code Ann. § 15-25-111,montana code ann. § 15-25-111,Statute,state_statute,MT,1,1,1,1995,1995,false,unresolved
 Montana Code Ann. § 25-13-501,montana code ann. § 25-13-501,Statute,state_statute,MT,1,1,1,1995,1995,true,exact
-Montana Code Ann. § 26-1-602,montana code ann. § 26-1-602,Statute,state_statute,MT,1,1,1,1979,1979,true,exact
 Montana Code Ann. § 26-1-802,montana code ann. § 26-1-802,Statute,state_statute,MT,1,1,1,1981,1981,true,exact
 Montana Code Ann. § 26-1-813,montana code ann. § 26-1-813,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
 Montana Code Ann. § 27,montana code ann. § 27,Statute,state_statute,MT,1,1,1,1991,1991,false,unresolved
@@ -5976,6 +5878,7 @@ Montana Code Ann. § 45-14-206,montana code ann. § 45-14-206,Statute,state_stat
 Montana Code Ann. § 45-5-105,montana code ann. § 45-5-105,Statute,state_statute,MT,1,1,1,2007,2007,true,exact
 Montana Code Ann. § 45-6-103,montana code ann. § 45-6-103,Statute,state_statute,MT,1,1,1,1983,1983,true,exact
 Montana Code Ann. § 46-14-102,montana code ann. § 46-14-102,Statute,state_statute,MT,1,1,1,1995,1995,true,exact
+Montana Code Ann. § 46-18-303,montana code ann. § 46-18-303,Statute,state_statute,MT,1,1,1,1984,1984,true,exact
 Montana Code Ann. § 46-23-201,montana code ann. § 46-23-201,Statute,state_statute,MT,1,1,1,1993,1993,true,exact
 Montana Code Ann. § 503,montana code ann. § 503,Statute,state_statute,MT,1,1,1,1996,1996,false,unresolved
 Montana Code Ann. § 53-21-146,montana code ann. § 53-21-146,Statute,state_statute,MT,1,1,1,1984,1984,true,exact
@@ -6062,10 +5965,10 @@ Montana Code Annotated § 27-1-314,montana code annotated § 27-1-314,Statute,st
 Montana Code Annotated § 27-1-415,montana code annotated § 27-1-415,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Montana Code Annotated § 27-1-417,montana code annotated § 27-1-417,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Montana Code Annotated § 27-1-712,montana code annotated § 27-1-712,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
+Montana Code Annotated § 27-1-719,montana code annotated § 27-1-719,Statute,state_statute,MT,1,1,1,2015,2015,true,exact
 Montana Code Annotated § 27-17-201,montana code annotated § 27-17-201,Statute,state_statute,MT,1,1,1,2013,2013,true,exact
 Montana Code Annotated § 27-19-105,montana code annotated § 27-19-105,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Montana Code Annotated § 27-19-316,montana code annotated § 27-19-316,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
-Montana Code Annotated § 27-2-203,montana code annotated § 27-2-203,Statute,state_statute,MT,1,1,1,1987,1987,true,exact
 Montana Code Annotated § 27-2-204,montana code annotated § 27-2-204,Statute,state_statute,MT,1,1,1,2023,2023,true,exact
 Montana Code Annotated § 27-2-209,montana code annotated § 27-2-209,Statute,state_statute,MT,1,1,1,2026,2026,true,exact
 Montana Code Annotated § 27-2-216,montana code annotated § 27-2-216,Statute,state_statute,MT,1,1,1,2021,2021,true,exact
@@ -6144,6 +6047,7 @@ Montana Code Annotated § 46-18-204,montana code annotated § 46-18-204,Statute,
 Montana Code Annotated § 46-18-303,montana code annotated § 46-18-303,Statute,state_statute,MT,1,1,1,1983,1983,true,exact
 Montana Code Annotated § 46-21-105.2,montana code annotated § 46-21-105.2,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 Montana Code Annotated § 46-22-101,montana code annotated § 46-22-101,Statute,state_statute,MT,1,1,1,2020,2020,true,exact
+Montana Code Annotated § 46-9-401,montana code annotated § 46-9-401,Statute,state_statute,MT,1,1,1,2019,2019,true,exact
 Montana Code Annotated § 49,montana code annotated § 49,Statute,state_statute,MT,1,1,1,2021,2021,false,unresolved
 Montana Code Annotated § 49-2-313,montana code annotated § 49-2-313,Statute,state_statute,MT,1,1,1,2022,2022,true,exact
 Montana Code Annotated § 49-2-509,montana code annotated § 49-2-509,Statute,state_statute,MT,1,1,1,2006,2006,false,unresolved
@@ -7256,7 +7160,6 @@ Rev.Codes of Mont. § 9901,rev.codes of mont. § 9901,Statute,state_statute,MT,1
 Rev.St.Mo. § 3150,rev.st.mo. § 3150,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
 Rev.St.Mo. § 810,rev.st.mo. § 810,Statute,state_statute,MT,1,1,1,1983,1983,false,unresolved
 Rr.C.M. 1947 § 93-216,rr.c.m. 1947 § 93-216,Statute,state_statute,MT,1,1,1,1960,1960,false,unresolved
-S.B. 423 § 35,s.b. 423 § 35,Statute,state_statute,MT,1,1,1,2016,2016,false,unresolved
 S.J. § 53-21-122,s.j. § 53-21-122,Statute,state_statute,MT,1,1,1,1988,1988,false,unresolved
 SDCL 23A-27-13-allowed,sdcl 23a-27-13-allowed,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
 SDCL 23A-27-13-allowing,sdcl 23a-27-13-allowing,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
@@ -7339,9 +7242,7 @@ UPC § 72-3-317,upc § 72-3-317,Statute,state_statute,MT,1,1,1,2017,2017,false,u
 UTPA. Mont.Code Ann. § 33-18-242,utpa. mont.code ann. § 33-18-242,Statute,state_statute,MT,1,1,1,2007,2007,false,unresolved
 UTPA. Mont.Code Ann. § 38-18-201,utpa. mont.code ann. § 38-18-201,Statute,state_statute,MT,1,1,1,2004,2004,false,unresolved
 V. Mont. Code Ann. § 2-9-305,v. mont. code ann. § 2-9-305,Statute,state_statute,MT,1,1,1,2024,2024,true,exact
-V. Montana Code Annotated § 13-37-216,v. montana code annotated § 13-37-216,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
 VAC A1ED,vac a1ed,Statute,state_statute,MT,1,1,1,2024,2024,false,unresolved
-VI. Montana Code Annotated § 13-35-227,vi. montana code annotated § 13-35-227,Statute,state_statute,MT,1,1,1,2012,2012,false,unresolved
 Veh.C.A. § 22107,veh.c.a. § 22107,Statute,state_statute,MT,1,1,1,1963,1963,false,unresolved
 WCA. Mont. Code Ann. § 39-71-118,wca. mont. code ann. § 39-71-118,Statute,state_statute,MT,1,1,1,2022,2022,false,unresolved
 "WDEA, Mont. Code Ann. § 39-2-901","wdea, mont. code ann. § 39-2-901",Statute,state_statute,MT,1,1,1,2019,2019,true,exact
