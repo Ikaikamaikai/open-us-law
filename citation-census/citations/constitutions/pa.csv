@@ -19,7 +19,7 @@ Pennsylvania Const. art. V § 17,pennsylvania const. art. v § 17,Constitution,s
 Pa. Const. art. I § 8,pa. const. art. i § 8,Constitution,state_constitution,PA,289,124,9,1973,2025,true,exact
 Pennsylvania Const. art. 1 § 1,pennsylvania const. art. 1 § 1,Constitution,state_constitution,PA,280,144,13,1947,2025,true,exact
 Pennsylvania Const. art. 1 § 10,pennsylvania const. art. 1 § 10,Constitution,state_constitution,PA,279,156,12,1959,2025,true,exact
-Pa. Const. art. I § 1,pa. const. art. i § 1,Constitution,state_constitution,PA,272,121,8,1965,2026,true,exact
+Pa. Const. art. I § 1,pa. const. art. i § 1,Constitution,state_constitution,PA,273,121,8,1965,2026,true,exact
 Pa. Const. Art. I § 8,pa. const. art. i § 8,Constitution,state_constitution,PA,259,130,8,1975,2026,true,exact
 Pennsylvania Const. art. VIII § 2,pennsylvania const. art. viii § 2,Constitution,state_constitution,PA,256,141,9,1971,2026,true,exact
 Pennsylvania Const. art. V § 9,pennsylvania const. art. v § 9,Constitution,state_constitution,PA,255,190,13,1967,2026,true,exact
@@ -47,8 +47,8 @@ Pa. Const. art. I § 10,pa. const. art. i § 10,Constitution,state_constitution,
 Pennsylvania Const. art. III § 31,pennsylvania const. art. iii § 31,Constitution,state_constitution,PA,134,65,6,1969,2024,true,exact
 Pa. Const. Art. V § 10,pa. const. art. v § 10,Constitution,state_constitution,PA,131,57,9,1983,2025,true,exact
 Pennsylvania Const. art. I § 3,pennsylvania const. art. i § 3,Constitution,state_constitution,PA,128,64,15,1935,2026,true,exact
+"Pa. Const, art. I § 1","pa. const, art. i § 1",Constitution,state_constitution,PA,127,65,6,1979,2017,true,exact
 "Pa. Const, art. I","pa. const, art. i",Constitution,state_constitution,PA,126,75,10,1970,2017,true,container
-"Pa. Const, art. I § 1","pa. const, art. i § 1",Constitution,state_constitution,PA,126,65,6,1979,2017,true,exact
 Pennsylvania Const. art. 5 § 10,pennsylvania const. art. 5 § 10,Constitution,state_constitution,PA,126,59,9,1970,2025,true,exact
 "Pa. Const, art. I § 9","pa. const, art. i § 9",Constitution,state_constitution,PA,123,59,6,1974,2026,true,exact
 Pa. Const. art. VIII § 1,pa. const. art. viii § 1,Constitution,state_constitution,PA,123,54,2,1975,2026,true,exact
@@ -78,8 +78,8 @@ Pennsylvania Const. art. II § 7,pennsylvania const. art. ii § 7,Constitution,s
 Pennsylvania Const. art. 8 § 2,pennsylvania const. art. 8 § 2,Constitution,state_constitution,PA,83,49,5,1971,2021,true,exact
 Pa. Const. Art. I § 1,pa. const. art. i § 1,Constitution,state_constitution,PA,82,36,6,1967,2025,true,exact
 Pennsylvania Const. art. IX § 2,pennsylvania const. art. ix § 2,Constitution,state_constitution,PA,80,55,5,1967,2025,true,exact
+Pa. Const. art. I § 13,pa. const. art. i § 13,Constitution,state_constitution,PA,77,34,3,2003,2026,true,exact
 Pa. Const. art. I § 26,pa. const. art. i § 26,Constitution,state_constitution,PA,76,36,4,1977,2025,true,exact
-Pa. Const. art. I § 13,pa. const. art. i § 13,Constitution,state_constitution,PA,75,34,3,2003,2026,true,exact
 Pa. Const. art. V § 9,pa. const. art. v § 9,Constitution,state_constitution,PA,75,31,4,1980,2025,true,exact
 Pa. Const. art. I § 6,pa. const. art. i § 6,Constitution,state_constitution,PA,74,35,5,1974,2025,true,exact
 Pennsylvania Const. art. 1 § 17,pennsylvania const. art. 1 § 17,Constitution,state_constitution,PA,74,51,4,1975,2025,true,exact
@@ -97,9 +97,9 @@ Pennsylvania Const. art. III § 13,pennsylvania const. art. iii § 13,Constituti
 Pennsylvania Const. art. IX § 11,pennsylvania const. art. ix § 11,Constitution,state_constitution,PA,62,18,6,1970,2024,true,exact
 Pa. Const. Art. I § 11,pa. const. art. i § 11,Constitution,state_constitution,PA,60,28,4,1974,2025,true,exact
 Pennsylvania Const. art. II § 15,pennsylvania const. art. ii § 15,Constitution,state_constitution,PA,60,42,6,1953,2025,true,exact
+"Pa. Const, art. 1 § 9","pa. const, art. 1 § 9",Constitution,state_constitution,PA,59,23,4,1974,2015,true,exact
 Pa. Const. Art. I § 17,pa. const. art. i § 17,Constitution,state_constitution,PA,58,29,6,1967,2024,true,exact
 Pennsylvania Const. art. IV § 9,pennsylvania const. art. iv § 9,Constitution,state_constitution,PA,58,31,6,1969,2024,true,exact
-"Pa. Const, art. 1 § 9","pa. const, art. 1 § 9",Constitution,state_constitution,PA,57,23,4,1984,2015,true,exact
 Pennsylvania Const. art. 5 § 18,pennsylvania const. art. 5 § 18,Constitution,state_constitution,PA,57,30,6,1970,2025,true,exact
 Pa. Const. art. I § 5,pa. const. art. i § 5,Constitution,state_constitution,PA,56,17,3,2015,2025,true,exact
 "Pa. Const, art. I § 17","pa. const, art. i § 17",Constitution,state_constitution,PA,55,26,6,1965,2017,true,exact
@@ -159,6 +159,7 @@ Pa.Const. art. V § 10,pa.const. art. v § 10,Constitution,state_constitution,PA
 Pennsylvania Const. art. 9 § 11,pennsylvania const. art. 9 § 11,Constitution,state_constitution,PA,35,8,5,1971,2005,true,exact
 Pennsylvania Const. art. II § 8,pennsylvania const. art. ii § 8,Constitution,state_constitution,PA,35,10,2,1984,2009,true,exact
 Pa. Const. Art. I § 7,pa. const. art. i § 7,Constitution,state_constitution,PA,34,14,4,1984,2023,true,exact
+"Pa. Const, art. I § 26","pa. const, art. i § 26",Constitution,state_constitution,PA,33,17,5,1977,2014,true,exact
 Pa. Const. Art. 1 § 11,pa. const. art. 1 § 11,Constitution,state_constitution,PA,33,17,9,1979,2026,true,exact
 Pa. Const. art. 1 § 1,pa. const. art. 1 § 1,Constitution,state_constitution,PA,33,18,5,1982,2023,true,exact
 Pa. Const. art. II § 11,pa. const. art. ii § 11,Constitution,state_constitution,PA,33,10,2,1977,2024,true,exact
@@ -166,7 +167,6 @@ Pa. Const. art. III § 32,pa. const. art. iii § 32,Constitution,state_constitut
 Pennsylvania Const. art. 1 § 3,pennsylvania const. art. 1 § 3,Constitution,state_constitution,PA,33,19,6,1980,2022,true,exact
 Pennsylvania Const. art. 3 § 3,pennsylvania const. art. 3 § 3,Constitution,state_constitution,PA,33,19,5,1939,2017,true,exact
 Pennsylvania Const. art. IV § 15,pennsylvania const. art. iv § 15,Constitution,state_constitution,PA,33,17,3,1974,2018,true,exact
-"Pa. Const, art. I § 26","pa. const, art. i § 26",Constitution,state_constitution,PA,32,17,5,1977,2014,true,exact
 "Pa. Const, art. I § 7","pa. const, art. i § 7",Constitution,state_constitution,PA,32,15,7,1981,2018,true,exact
 "Pa. Const, art. IX § 2","pa. const, art. ix § 2",Constitution,state_constitution,PA,32,10,4,2000,2015,true,exact
 Pa. Const. art. 1 § 11,pa. const. art. 1 § 11,Constitution,state_constitution,PA,32,15,6,1991,2024,true,exact
@@ -247,6 +247,7 @@ Pa. Const. art. 8 § 1,pa. const. art. 8 § 1,Constitution,state_constitution,PA
 Pa. Const. art. I § 28,pa. const. art. i § 28,Constitution,state_constitution,PA,20,10,5,1974,2025,true,exact
 Pa. Const. art. IV § 20,pa. const. art. iv § 20,Constitution,state_constitution,PA,20,7,3,2021,2025,true,exact
 "Pa. Const., Art. I § 10","pa. const., art. i § 10",Constitution,state_constitution,PA,20,10,4,1960,2023,true,exact
+"Pa. Const., art. I § 10","pa. const., art. i § 10",Constitution,state_constitution,PA,20,9,5,1980,2022,true,exact
 Pa.Const. Art. I § 8,pa.const. art. i § 8,Constitution,state_constitution,PA,20,10,2,1978,2025,true,exact
 Pa.Const. art. 1 § 9,pa.const. art. 1 § 9,Constitution,state_constitution,PA,20,10,3,1977,1991,true,exact
 Pa.Const. art. II § 17,pa.const. art. ii § 17,Constitution,state_constitution,PA,20,2,1,1981,1981,true,exact
@@ -272,9 +273,9 @@ Pa. Const. art. II § 2,pa. const. art. ii § 2,Constitution,state_constitution,
 "Pa. Const., Art. 1 § 9","pa. const., art. 1 § 9",Constitution,state_constitution,PA,18,9,2,1975,2024,true,exact
 "Pa. Const., Art. I § 28","pa. const., art. i § 28",Constitution,state_constitution,PA,18,8,6,1976,2001,true,exact
 "Pa. Const., Art. V, sec","pa. const., art. v, sec",Constitution,state_constitution,PA,18,2,1,1992,1992,false,unresolved
-"Pa. Const., art. I § 10","pa. const., art. i § 10",Constitution,state_constitution,PA,18,9,5,1980,2022,true,exact
 Pennsylvania Const. art. IX § 7,pennsylvania const. art. ix § 7,Constitution,state_constitution,PA,18,9,7,1954,2004,true,exact
 "Pa. Const, art. 1 § 28","pa. const, art. 1 § 28",Constitution,state_constitution,PA,17,8,5,1983,2009,true,exact
+Pa. Const. art. I § 3,pa. const. art. i § 3,Constitution,state_constitution,PA,17,8,6,1995,2025,true,exact
 "Pa. Const., art. V § 10","pa. const., art. v § 10",Constitution,state_constitution,PA,17,9,4,1983,2022,true,exact
 Pennsylvania Const. art. 2 § 5,pennsylvania const. art. 2 § 5,Constitution,state_constitution,PA,17,10,2,1984,2025,true,exact
 Pennsylvania Const. art. II § 5,pennsylvania const. art. ii § 5,Constitution,state_constitution,PA,17,11,5,1970,2024,true,exact
@@ -289,6 +290,7 @@ Pennsylvania Const. art. VII § 3,pennsylvania const. art. vii § 3,Constitution
 "Pa. Const, art. VI § 1","pa. const, art. vi § 1",Constitution,state_constitution,PA,16,6,3,1978,2015,true,exact
 "Pa. Const, art. XI § 1","pa. const, art. xi § 1",Constitution,state_constitution,PA,16,7,2,1996,2017,true,exact
 Pa. Const. Art. IX § 2,pa. const. art. ix § 2,Constitution,state_constitution,PA,16,5,3,1984,2023,true,exact
+Pa. Const. art. 1 § 5,pa. const. art. 1 § 5,Constitution,state_constitution,PA,16,6,3,2015,2025,true,exact
 Pa. Const. art. II § 16,pa. const. art. ii § 16,Constitution,state_constitution,PA,16,5,2,2021,2024,true,exact
 Pa. Const. art. IV § 4.1,pa. const. art. iv § 4.1,Constitution,state_constitution,PA,16,6,3,2019,2025,true,exact
 "Pa. Const., Art. I § 11","pa. const., art. i § 11",Constitution,state_constitution,PA,16,8,5,1980,2016,true,exact
@@ -310,13 +312,11 @@ Pennsylvania Const. art. XII § 2,pennsylvania const. art. xii § 2,Constitution
 "Pennsylvania Constitution, Art. I","pennsylvania constitution, art. i",Constitution,state_constitution,PA,16,16,6,1950,2022,true,container
 "Pennsylvania Constitution, Pa. Const. art. I § 13","pennsylvania constitution, pa. const. art. i § 13",Constitution,state_constitution,PA,16,7,2,2016,2024,false,unresolved
 State Const. art. III § 3,state const. art. iii § 3,Constitution,state_constitution,PA,16,14,10,1924,1982,false,unresolved
-42 Pa. Const. Stat. § 5524,42 pa. const. stat. § 5524,Constitution,state_constitution,PA,15,15,6,2007,2026,false,unresolved
 "Pa. Const, art. 1 § 1","pa. const, art. 1 § 1",Constitution,state_constitution,PA,15,7,2,1982,2016,true,exact
 "Pa. Const, art. I § 25","pa. const, art. i § 25",Constitution,state_constitution,PA,15,7,2,1989,2018,true,exact
 "Pa. Const, art. II § 7","pa. const, art. ii § 7",Constitution,state_constitution,PA,15,7,2,1994,2011,true,exact
 "Pa. Const, art. IV § 16","pa. const, art. iv § 16",Constitution,state_constitution,PA,15,4,3,1983,2013,true,exact
 "Pa. Const, art. V § 2","pa. const, art. v § 2",Constitution,state_constitution,PA,15,7,2,1975,2013,true,exact
-Pa. Const. art. I § 3,pa. const. art. i § 3,Constitution,state_constitution,PA,15,8,6,1995,2025,true,exact
 Pa. Const. art. II § 4,pa. const. art. ii § 4,Constitution,state_constitution,PA,15,4,1,1973,2024,true,exact
 Pa. Const. art. II § 7,pa. const. art. ii § 7,Constitution,state_constitution,PA,15,7,3,2000,2024,true,exact
 "Pa. Constitution, Article V § 9","pa. constitution, article v § 9",Constitution,state_constitution,PA,15,15,2,1980,2010,true,exact
@@ -326,7 +326,6 @@ Pennsylvania Const. art. III § 29,pennsylvania const. art. iii § 29,Constituti
 Pennsylvania Const. art. III § 9,pennsylvania const. art. iii § 9,Constitution,state_constitution,PA,15,8,3,1987,2022,true,exact
 Pennsylvania Const. art. IV § 4.1,pennsylvania const. art. iv § 4.1,Constitution,state_constitution,PA,15,12,2,1983,2022,true,exact
 "Pennsylvania Constitution, Art. 1 § 17","pennsylvania constitution, art. 1 § 17",Constitution,state_constitution,PA,15,8,4,1978,2025,true,exact
-42 Pa. Const. Stat. Ann. § 8371,42 pa. const. stat. ann. § 8371,Constitution,state_constitution,PA,14,9,3,2006,2026,false,unresolved
 "Pa. Const, art. 9 § 2","pa. const, art. 9 § 2",Constitution,state_constitution,PA,14,7,2,1999,2016,true,exact
 Pa. Const. Art. 1 § 26,pa. const. art. 1 § 26,Constitution,state_constitution,PA,14,8,2,1992,2008,true,exact
 Pa. Const. Art. 1 § 28,pa. const. art. 1 § 28,Constitution,state_constitution,PA,14,7,4,1975,2016,true,exact
@@ -360,7 +359,6 @@ Pennsylvania Const. art. V § 12,pennsylvania const. art. v § 12,Constitution,s
 "Pennsylvania Constitution, PA. CONST. art. VIII § 1","pennsylvania constitution, pa. const. art. viii § 1",Constitution,state_constitution,PA,13,10,2,2006,2026,false,unresolved
 "Pennsylvania Constitution, Pa. Const. art. I § 17","pennsylvania constitution, pa. const. art. i § 17",Constitution,state_constitution,PA,13,7,1,2017,2025,false,unresolved
 "Pennsylvania Constitution, Pa. Const. art. I § 8","pennsylvania constitution, pa. const. art. i § 8",Constitution,state_constitution,PA,13,5,1,2023,2024,false,unresolved
-42 Pa. Const. Stat. § 5535,42 pa. const. stat. § 5535,Constitution,state_constitution,PA,12,4,1,2008,2008,false,unresolved
 Const. art. III § 3,const. art. iii § 3,Constitution,state_constitution,PA,12,6,3,2021,2025,true,exact
 "Pa. Const, art. I § 21","pa. const, art. i § 21",Constitution,state_constitution,PA,12,6,6,1994,2003,true,exact
 "Pa. Const, art. IV § 1","pa. const, art. iv § 1",Constitution,state_constitution,PA,12,5,2,1998,2017,true,exact
@@ -372,7 +370,6 @@ Pa. Const. Art. II § 15,pa. const. art. ii § 15,Constitution,state_constitutio
 Pa. Const. Art. III § 14,pa. const. art. iii § 14,Constitution,state_constitution,PA,12,6,1,1984,2009,true,exact
 Pa. Const. Art. V § 15,pa. const. art. v § 15,Constitution,state_constitution,PA,12,4,2,1988,1989,true,exact
 Pa. Const. Art. V § 6,pa. const. art. v § 6,Constitution,state_constitution,PA,12,6,2,2019,2023,true,exact
-Pa. Const. art. 1 § 5,pa. const. art. 1 § 5,Constitution,state_constitution,PA,12,6,3,2015,2024,true,exact
 Pa. Const. art. 1 § 7,pa. const. art. 1 § 7,Constitution,state_constitution,PA,12,6,5,1974,2023,true,exact
 Pa. Const. art. 4 § 9,pa. const. art. 4 § 9,Constitution,state_constitution,PA,12,4,2,1985,2018,true,exact
 Pa. Const. art. 5 § 18,pa. const. art. 5 § 18,Constitution,state_constitution,PA,12,5,3,1987,2017,true,exact
@@ -394,8 +391,6 @@ Pennsylvania Const. art. IX § 13,pennsylvania const. art. ix § 13,Constitution
 Pennsylvania Const. art. XVI § 8,pennsylvania const. art. xvi § 8,Constitution,state_constitution,PA,12,11,7,1940,2003,false,unresolved
 "Pennsylvania Constitution, Art. 1","pennsylvania constitution, art. 1",Constitution,state_constitution,PA,12,11,3,1943,2022,true,container
 "Pennsylvania Constitution, Art. I § 9","pennsylvania constitution, art. i § 9",Constitution,state_constitution,PA,12,6,2,1980,2019,true,exact
-42 Pa. Const. Stat. Ann. § 5322,42 pa. const. stat. ann. § 5322,Constitution,state_constitution,PA,11,7,1,2013,2023,false,unresolved
-42 Pa. Const. Stat. § 8371,42 pa. const. stat. § 8371,Constitution,state_constitution,PA,11,8,1,2016,2025,false,unresolved
 "Pa. Const, art. VIII § 13","pa. const, art. viii § 13",Constitution,state_constitution,PA,11,3,2,2008,2013,true,exact
 Pa. Const. Art. 1 § 7,pa. const. art. 1 § 7,Constitution,state_constitution,PA,11,6,2,1984,2021,true,exact
 Pa. Const. art. 1 § 13,pa. const. art. 1 § 13,Constitution,state_constitution,PA,11,5,3,2001,2016,true,exact
@@ -411,7 +406,6 @@ Pennsylvania Const. art. 3 § 22,pennsylvania const. art. 3 § 22,Constitution,s
 Pennsylvania Const. art. II § 6,pennsylvania const. art. ii § 6,Constitution,state_constitution,PA,11,6,3,1936,2004,true,exact
 Pennsylvania Const. art. VIII § 11,pennsylvania const. art. viii § 11,Constitution,state_constitution,PA,11,6,3,1957,2015,true,exact
 2 Pa. Const. art. VIII § 1,2 pa. const. art. viii § 1,Constitution,state_constitution,PA,10,5,2,2017,2024,true,exact
-42 Pa. Const. Stat. Ann. § 8521,42 pa. const. stat. ann. § 8521,Constitution,state_constitution,PA,10,10,2,2010,2024,false,unresolved
 La.Const. Art. 14 § 14,la.const. art. 14 § 14,Constitution,state_constitution,PA,10,4,3,1970,1987,true,exact
 "Pa. Const, art. 1 § 5","pa. const, art. 1 § 5",Constitution,state_constitution,PA,10,3,1,2002,2018,true,exact
 "Pa. Const, art. 3 § 32","pa. const, art. 3 § 32",Constitution,state_constitution,PA,10,4,2,1977,2001,true,exact
@@ -434,7 +428,6 @@ Pa. Const. Art. I § 27,pa. const. art. i § 27,Constitution,state_constitution,
 Pa. Const. Art. II § 2,pa. const. art. ii § 2,Constitution,state_constitution,PA,10,4,3,1966,2004,true,exact
 Pa. Const. Art. II § 7,pa. const. art. ii § 7,Constitution,state_constitution,PA,10,4,2,1989,2015,true,exact
 "Pa. Const. Art. V, Sec","pa. const. art. v, sec",Constitution,state_constitution,PA,10,8,4,1986,2016,false,unresolved
-Pa. Const. Stat. Ann. § 8371,pa. const. stat. ann. § 8371,Constitution,state_constitution,PA,10,5,1,2025,2026,false,unresolved
 Pa. Const. art. 2 § 1,pa. const. art. 2 § 1,Constitution,state_constitution,PA,10,5,2,2005,2019,true,exact
 Pa. Const. art. III § 27,pa. const. art. iii § 27,Constitution,state_constitution,PA,10,4,2,2009,2018,true,exact
 Pa. Const. art. III § 31,pa. const. art. iii § 31,Constitution,state_constitution,PA,10,2,2,1988,1993,true,exact
@@ -465,8 +458,7 @@ Pennsylvania Const. art. III § 26,pennsylvania const. art. iii § 26,Constituti
 "Pennsylvania Constitution, Pa. Const, art. VIII § 1","pennsylvania constitution, pa. const, art. viii § 1",Constitution,state_constitution,PA,10,5,2,1992,2014,false,unresolved
 "Pennsylvania Constitution, Pa. Const. art. I § 5","pennsylvania constitution, pa. const. art. i § 5",Constitution,state_constitution,PA,10,4,1,2023,2024,false,unresolved
 "Supreme Court. Pa. Const, art. V § 18","supreme court. pa. const, art. v § 18",Constitution,state_constitution,PA,10,5,4,1996,2017,false,unresolved
-18 Pa. Const. Stat. § 2701,18 pa. const. stat. § 2701,Constitution,state_constitution,PA,9,4,1,2010,2020,false,unresolved
-42 Pa. Const. Stat. Ann. § 5524,42 pa. const. stat. ann. § 5524,Constitution,state_constitution,PA,9,7,3,1989,2025,false,unresolved
+5 Pa. Const. art. I § 11,5 pa. const. art. i § 11,Constitution,state_constitution,PA,9,4,1,2021,2024,true,exact
 "Constitution of Pennsylvania, Art. I","constitution of pennsylvania, art. i",Constitution,state_constitution,PA,9,9,4,1934,1983,false,unresolved
 Pa. Const. Art. III § 31,pa. const. art. iii § 31,Constitution,state_constitution,PA,9,4,2,1981,2010,true,exact
 Pa. Const. Art. V § 1,pa. const. art. v § 1,Constitution,state_constitution,PA,9,5,4,1981,2023,true,exact
@@ -478,6 +470,7 @@ Pa. Const. art. VIII § 15,pa. const. art. viii § 15,Constitution,state_constit
 "Pa. Const., Art. VIII § 2","pa. const., art. viii § 2",Constitution,state_constitution,PA,9,3,1,2001,2001,true,exact
 "Pa. Const., Article I § 9","pa. const., article i § 9",Constitution,state_constitution,PA,9,4,1,2016,2020,true,exact
 "Pa. Const., art. I","pa. const., art. i",Constitution,state_constitution,PA,9,5,3,1977,2018,true,container
+Pa.Const. art. I § 23,pa.const. art. i § 23,Constitution,state_constitution,PA,9,3,2,1985,2017,true,exact
 Pennsylvania Const. art. 2 § 9,pennsylvania const. art. 2 § 9,Constitution,state_constitution,PA,9,5,2,1968,1998,true,exact
 Pennsylvania Const. art. 5 § 2,pennsylvania const. art. 5 § 2,Constitution,state_constitution,PA,9,7,3,1986,2002,true,exact
 Pennsylvania Const. art. 5 § 3,pennsylvania const. art. 5 § 3,Constitution,state_constitution,PA,9,7,1,1959,2024,true,exact
@@ -489,7 +482,6 @@ Pennsylvania Const. art. VIII § 12,pennsylvania const. art. viii § 12,Constitu
 Pennsylvania Const. art. VIII § 8,pennsylvania const. art. viii § 8,Constitution,state_constitution,PA,9,7,3,1972,2016,true,exact
 "Pennsylvania Constitution, Article I § 9","pennsylvania constitution, article i § 9",Constitution,state_constitution,PA,9,8,2,1966,2004,true,exact
 "Pennsylvania Constitution, Article V § 9","pennsylvania constitution, article v § 9",Constitution,state_constitution,PA,9,9,3,1973,2017,true,exact
-5 Pa. Const. art. I § 11,5 pa. const. art. i § 11,Constitution,state_constitution,PA,8,4,1,2021,2024,true,exact
 Const. art. XVI § 59,const. art. xvi § 59,Constitution,state_constitution,PA,8,4,3,1981,2017,false,unresolved
 "PA., Const. art. III § 31","pa., const. art. iii § 31",Constitution,state_constitution,PA,8,4,1,2017,2017,false,unresolved
 "Pa. Const, art. 1 § 27","pa. const, art. 1 § 27",Constitution,state_constitution,PA,8,3,2,1993,2011,true,exact
@@ -573,8 +565,6 @@ Pennsylvania Constitution and 42 Pa.C.S.A. § 931,pennsylvania constitution and 
 Pennsylvania State Const. art. I § 8,pennsylvania state const. art. i § 8,Constitution,state_constitution,PA,8,6,2,1976,2026,false,unresolved
 Supreme Court. Pa. Const. Art. V § 18,supreme court. pa. const. art. v § 18,Constitution,state_constitution,PA,8,4,1,1998,2008,false,unresolved
 3 Pa. Const. art. I § 11,3 pa. const. art. i § 11,Constitution,state_constitution,PA,7,4,1,2023,2023,true,exact
-42 Pa. Const. Stat. § 9541,42 pa. const. stat. § 9541,Constitution,state_constitution,PA,7,7,3,2001,2023,false,unresolved
-42 Pa. Const. Stat. § 9712,42 pa. const. stat. § 9712,Constitution,state_constitution,PA,7,7,4,1992,2002,false,unresolved
 43 Pa. Const. Stat. § 1422,43 pa. const. stat. § 1422,Constitution,state_constitution,PA,7,2,1,2022,2024,false,unresolved
 73 Pa. Const. Stat. Ann. § 201-1,73 pa. const. stat. ann. § 201-1,Constitution,state_constitution,PA,7,7,4,2002,2017,false,unresolved
 "Pa. Const, art. 1 § 7","pa. const, art. 1 § 7",Constitution,state_constitution,PA,7,4,4,1996,2007,true,exact
@@ -604,9 +594,6 @@ Pennsylvania Constitution § 11,pennsylvania constitution § 11,Constitution,sta
 "Pennsylvania Constitution, Art. V","pennsylvania constitution, art. v",Constitution,state_constitution,PA,7,7,2,1971,1990,true,container
 "Pennsylvania Constitution, Article I § 7","pennsylvania constitution, article i § 7",Constitution,state_constitution,PA,7,7,4,1983,2010,true,exact
 Pennsylvania Constitution. § 1922,pennsylvania constitution. § 1922,Constitution,state_constitution,PA,7,7,2,1978,2004,false,unresolved
-18 Pa. Const. Stat. Ann. § 3051,18 pa. const. stat. ann. § 3051,Constitution,state_constitution,PA,6,6,1,2023,2023,false,unresolved
-18 Pa. Const. Stat. § 3921,18 pa. const. stat. § 3921,Constitution,state_constitution,PA,6,1,1,2019,2019,false,unresolved
-42 Pa. Const. Stat. § 9101,42 pa. const. stat. § 9101,Constitution,state_constitution,PA,6,2,1,2020,2020,false,unresolved
 5 Pa. Const. art. II § 1,5 pa. const. art. ii § 1,Constitution,state_constitution,PA,6,3,1,2021,2023,true,exact
 6 Pa. Const. art. I § 1,6 pa. const. art. i § 1,Constitution,state_constitution,PA,6,3,1,2019,2021,true,exact
 7 Pa. Const. art. I § 1,7 pa. const. art. i § 1,Constitution,state_constitution,PA,6,3,1,2017,2025,true,exact
@@ -693,8 +680,6 @@ Pennsylvania Constitution § 9543,pennsylvania constitution § 9543,Constitution
 "Pennsylvania Constitution, art. V § 10","pennsylvania constitution, art. v § 10",Constitution,state_constitution,PA,6,3,2,1979,1987,true,exact
 Pennsylvania Constitution. Pa. Const. Art. V § 10,pennsylvania constitution. pa. const. art. v § 10,Constitution,state_constitution,PA,6,3,2,1989,1997,false,unresolved
 State Const. art. III § 32,state const. art. iii § 32,Constitution,state_constitution,PA,6,2,1,1989,1989,false,unresolved
-18 Pa. Const. Stat. § 5703,18 pa. const. stat. § 5703,Constitution,state_constitution,PA,5,2,1,2024,2024,false,unresolved
-42 Pa. Const. Stat. § 9543,42 pa. const. stat. § 9543,Constitution,state_constitution,PA,5,3,1,1995,2004,false,unresolved
 43 Pa. Const. Stat. Ann. § 951,43 pa. const. stat. ann. § 951,Constitution,state_constitution,PA,5,4,2,2012,2024,false,unresolved
 43 Pa. Const. Stat. § 951,43 pa. const. stat. § 951,Constitution,state_constitution,PA,5,5,2,2012,2023,false,unresolved
 "Constitution of Pennsylvania, art. I","constitution of pennsylvania, art. i",Constitution,state_constitution,PA,5,5,4,1937,1991,false,unresolved
@@ -718,7 +703,6 @@ Pa. Const. § 11,pa. const. § 11,Constitution,state_constitution,PA,5,3,2,1972,
 "Pa. Const., Art. I § 26","pa. const., art. i § 26",Constitution,state_constitution,PA,5,3,2,1984,2002,true,exact
 "Pa. Const., Art. V § 9","pa. const., art. v § 9",Constitution,state_constitution,PA,5,3,3,1972,2017,true,exact
 "Pa. Const., Article V § 10","pa. const., article v § 10",Constitution,state_constitution,PA,5,3,2,1997,2009,true,exact
-Pa.Const. art. I § 23,pa.const. art. i § 23,Constitution,state_constitution,PA,5,3,2,1985,2017,true,exact
 "Pa.Const., Art. 1 § 11","pa.const., art. 1 § 11",Constitution,state_constitution,PA,5,1,1,2009,2009,true,exact
 Pennsylvania Const. art. 3 § 7,pennsylvania const. art. 3 § 7,Constitution,state_constitution,PA,5,5,5,1911,1969,true,exact
 Pennsylvania Const. art. 4 § 15,pennsylvania const. art. 4 § 15,Constitution,state_constitution,PA,5,3,1,2007,2019,true,exact
@@ -747,38 +731,20 @@ Pennsylvania Constitution. § 1,pennsylvania constitution. § 1,Constitution,sta
 Pennsylvania State Const. art. 1 § 9,pennsylvania state const. art. 1 § 9,Constitution,state_constitution,PA,5,5,3,1944,2020,false,unresolved
 State Const. art. III § 20,state const. art. iii § 20,Constitution,state_constitution,PA,5,3,2,1949,1968,false,unresolved
 State Const. art. III § 22,state const. art. iii § 22,Constitution,state_constitution,PA,5,4,4,1951,1998,false,unresolved
-1 Pa. Const. Stat. Ann. § 2310,1 pa. const. stat. ann. § 2310,Constitution,state_constitution,PA,4,3,2,2010,2025,false,unresolved
 1 Pa. Const. art. I § 1,1 pa. const. art. i § 1,Constitution,state_constitution,PA,4,2,2,2018,2023,true,exact
 1 Pa. Const. art. VII § 1,1 pa. const. art. vii § 1,Constitution,state_constitution,PA,4,2,2,2022,2025,true,exact
 11 Pa. Const. art. I § 11,11 pa. const. art. i § 11,Constitution,state_constitution,PA,4,2,1,2023,2024,true,exact
-13 Pa. Const. Stat. § 2609,13 pa. const. stat. § 2609,Constitution,state_constitution,PA,4,1,1,2021,2021,false,unresolved
-15 (1873). Pa.Const. art. I § 23,15 (1873). pa.const. art. i § 23,Constitution,state_constitution,PA,4,2,1,1985,1985,false,unresolved
-18 Pa.Const.Stat.Ann. § 4702,18 pa.const.stat.ann. § 4702,Constitution,state_constitution,PA,4,2,1,1978,1978,false,unresolved
 2 Pa. Const. art. I § 6,2 pa. const. art. i § 6,Constitution,state_constitution,PA,4,1,1,2023,2023,true,exact
 24 Pa. Const. Stat. § 5-508,24 pa. const. stat. § 5-508,Constitution,state_constitution,PA,4,2,1,2005,2005,false,unresolved
 3 Pa. Const. art. 1 § 1,3 pa. const. art. 1 § 1,Constitution,state_constitution,PA,4,2,1,2025,2025,true,exact
 4 Pa. Const. art. I § 1,4 pa. const. art. i § 1,Constitution,state_constitution,PA,4,2,1,2022,2025,true,exact
 4 Pa. Const. art. II § 1,4 pa. const. art. ii § 1,Constitution,state_constitution,PA,4,2,1,2023,2023,true,exact
-42 Pa. Const. Stat. Ann. § 8343,42 pa. const. stat. ann. § 8343,Constitution,state_constitution,PA,4,3,2,2014,2018,false,unresolved
-42 Pa. Const. Stat. Ann. § 8522,42 pa. const. stat. ann. § 8522,Constitution,state_constitution,PA,4,4,3,2010,2021,false,unresolved
-42 Pa. Const. Stat. Ann. § 8542,42 pa. const. stat. ann. § 8542,Constitution,state_constitution,PA,4,3,2,2017,2024,false,unresolved
-42 Pa. Const. Stat. Ann. § 8550,42 pa. const. stat. ann. § 8550,Constitution,state_constitution,PA,4,4,2,2017,2025,false,unresolved
-42 Pa. Const. Stat. Ann. § 9541,42 pa. const. stat. ann. § 9541,Constitution,state_constitution,PA,4,4,2,1992,2018,false,unresolved
-42 Pa. Const. Stat. § 5521,42 pa. const. stat. § 5521,Constitution,state_constitution,PA,4,3,3,2012,2023,false,unresolved
-42 Pa. Const. Stat. § 8522,42 pa. const. stat. § 8522,Constitution,state_constitution,PA,4,3,2,2008,2020,false,unresolved
-42 Pa.Const.Stat.Ann. § 5322,42 pa.const.stat.ann. § 5322,Constitution,state_constitution,PA,4,3,2,1982,1994,false,unresolved
-42 Pa.Const.Stat.Ann. § 5521,42 pa.const.stat.ann. § 5521,Constitution,state_constitution,PA,4,4,1,1980,1980,false,unresolved
-42 Pa.Const.Stat.Ann. § 5524,42 pa.const.stat.ann. § 5524,Constitution,state_constitution,PA,4,4,2,1979,1987,false,unresolved
 43 Pa. Const. Stat. § 955,43 pa. const. stat. § 955,Constitution,state_constitution,PA,4,4,2,2009,2024,false,unresolved
-43 Pa. Const. Stat.Ann. § 1421,43 pa. const. stat.ann. § 1421,Constitution,state_constitution,PA,4,1,1,2002,2002,false,unresolved
-43 Pa. Const. Stat.Ann. § 1422,43 pa. const. stat.ann. § 1422,Constitution,state_constitution,PA,4,1,1,2002,2002,false,unresolved
 5 Pa. Const. art. I § 10,5 pa. const. art. i § 10,Constitution,state_constitution,PA,4,2,1,2025,2025,true,exact
 5 Pa. Const. art. I § 5,5 pa. const. art. i § 5,Constitution,state_constitution,PA,4,2,2,2015,2021,true,exact
 6 Pa. Const. art. I § 11,6 pa. const. art. i § 11,Constitution,state_constitution,PA,4,2,1,2021,2022,true,exact
 6 Pa. Const. art. I § 13,6 pa. const. art. i § 13,Constitution,state_constitution,PA,4,2,1,2021,2024,true,exact
 6 Pa. Const. art. II § 1,6 pa. const. art. ii § 1,Constitution,state_constitution,PA,4,2,1,2020,2023,true,exact
-75 Pa. Const. Stat. § 1786,75 pa. const. stat. § 1786,Constitution,state_constitution,PA,4,1,1,2016,2016,false,unresolved
-75 Pa. Const. Stat. § 3733,75 pa. const. stat. § 3733,Constitution,state_constitution,PA,4,2,2,2013,2022,false,unresolved
 8 Pa. Const. art. I § 11,8 pa. const. art. i § 11,Constitution,state_constitution,PA,4,2,1,2017,2021,true,exact
 8 Pa. Const. art. II § 1,8 pa. const. art. ii § 1,Constitution,state_constitution,PA,4,2,1,2023,2023,true,exact
 9 Pa. Const. art. I § 11,9 pa. const. art. i § 11,Constitution,state_constitution,PA,4,2,1,2023,2025,true,exact
@@ -812,6 +778,7 @@ Pa. Const art. II § 1,pa. const art. ii § 1,Constitution,state_constitution,PA
 "Pa. Const, art. 6 § 5","pa. const, art. 6 § 5",Constitution,state_constitution,PA,4,1,1,1997,1997,true,exact
 "Pa. Const, art. II § 12","pa. const, art. ii § 12",Constitution,state_constitution,PA,4,2,1,2003,2005,true,exact
 "Pa. Const, art. II § 13","pa. const, art. ii § 13",Constitution,state_constitution,PA,4,2,2,1991,2003,true,exact
+"Pa. Const, art. III § 32","pa. const, art. iii § 32",Constitution,state_constitution,PA,4,1,1,1980,1988,true,exact
 "Pa. Const, art. IX § 1","pa. const, art. ix § 1",Constitution,state_constitution,PA,4,2,1,2015,2015,true,exact
 "Pa. Const, art. IX § 11","pa. const, art. ix § 11",Constitution,state_constitution,PA,4,2,2,2005,2018,true,exact
 "Pa. Const, art. IX § 14","pa. const, art. ix § 14",Constitution,state_constitution,PA,4,1,1,2003,2003,true,exact
@@ -861,7 +828,6 @@ Pa. Const. Article III § 18,pa. const. article iii § 18,Constitution,state_con
 Pa. Const. Article V § 10,pa. const. article v § 10,Constitution,state_constitution,PA,4,2,1,2019,2019,true,exact
 Pa. Const. Article X § 3,pa. const. article x § 3,Constitution,state_constitution,PA,4,2,1,2013,2013,true,exact
 Pa. Const. Sched. art. V § 1,pa. const. sched. art. v § 1,Constitution,state_constitution,PA,4,2,1,2014,2015,true,exact
-Pa. Const. Stat. § 9712,pa. const. stat. § 9712,Constitution,state_constitution,PA,4,4,1,2001,2001,false,unresolved
 Pa. Const. art I § 1,pa. const. art i § 1,Constitution,state_constitution,PA,4,4,3,2019,2024,true,exact
 Pa. Const. art I § 8,pa. const. art i § 8,Constitution,state_constitution,PA,4,4,4,2007,2025,true,exact
 Pa. Const. art III § 18,pa. const. art iii § 18,Constitution,state_constitution,PA,4,2,2,2011,2025,true,exact
@@ -1080,25 +1046,10 @@ Supreme Court. Pa. Const. art. V § 18,supreme court. pa. const. art. v § 18,Co
 "Supreme Court. Pa. Const., Article V § 18","supreme court. pa. const., article v § 18",Constitution,state_constitution,PA,4,2,1,2002,2002,false,unresolved
 "The Pennsylvania Constitution, art. V § 18","the pennsylvania constitution, art. v § 18",Constitution,state_constitution,PA,4,4,1,2007,2011,true,exact
 "U.S.. Const, art. 1 § 8","u.s.. const, art. 1 § 8",Constitution,state_constitution,PA,4,1,1,2009,2009,true,exact
-18 Pa. Const. Stat. § 2710,18 pa. const. stat. § 2710,Constitution,state_constitution,PA,3,3,1,2009,2009,false,unresolved
-18 Pa. Const. Stat. § 3925,18 pa. const. stat. § 3925,Constitution,state_constitution,PA,3,3,3,2016,2022,false,unresolved
-18 Pa. Const. Stat. § 5701,18 pa. const. stat. § 5701,Constitution,state_constitution,PA,3,3,2,2023,2025,false,unresolved
-18 Pa. Const. Stat. § 5702,18 pa. const. stat. § 5702,Constitution,state_constitution,PA,3,2,2,2023,2024,false,unresolved
-18 Pa. Const. Stat. § 5704,18 pa. const. stat. § 5704,Constitution,state_constitution,PA,3,1,1,2023,2023,false,unresolved
-23 Pa. Const. Stat. § 6113.1,23 pa. const. stat. § 6113.1,Constitution,state_constitution,PA,3,3,1,2007,2007,false,unresolved
-26 Pa. Const. Stat. § 703,26 pa. const. stat. § 703,Constitution,state_constitution,PA,3,2,2,2020,2020,false,unresolved
-35 Pa. Const. Stat. § 780-113,35 pa. const. stat. § 780-113,Constitution,state_constitution,PA,3,2,1,2019,2019,false,unresolved
 4 Pa. Const. Ann. § 1209,4 pa. const. ann. § 1209,Constitution,state_constitution,PA,3,3,1,2011,2011,false,unresolved
-4 Pa. Const. Stat. § 1206,4 pa. const. stat. § 1206,Constitution,state_constitution,PA,3,3,1,2011,2011,false,unresolved
 42 Pa. Const. Ann. § 5524,42 pa. const. ann. § 5524,Constitution,state_constitution,PA,3,3,1,2023,2025,false,unresolved
-42 Pa. Const. Stat. Ann. § 5301,42 pa. const. stat. ann. § 5301,Constitution,state_constitution,PA,3,3,1,1997,2020,false,unresolved
-42 Pa. Const. Stat. § 8542,42 pa. const. stat. § 8542,Constitution,state_constitution,PA,3,3,2,2024,2025,false,unresolved
-42 Pa. Const. Stat. § 8550,42 pa. const. stat. § 8550,Constitution,state_constitution,PA,3,3,2,2024,2025,false,unresolved
-42 Pa. Const. Stat. § 9545,42 pa. const. stat. § 9545,Constitution,state_constitution,PA,3,3,3,2005,2022,false,unresolved
-42 Pa. Const.Stat.Ann. § 5103,42 pa. const.stat.ann. § 5103,Constitution,state_constitution,PA,3,3,2,1981,2001,false,unresolved
-42 Pa.Const.Stat.Ann. § 8371,42 pa.const.stat.ann. § 8371,Constitution,state_constitution,PA,3,1,1,1992,1992,false,unresolved
+5 Pa. Const. art. I § 1,5 pa. const. art. i § 1,Constitution,state_constitution,PA,3,1,1,2015,2023,true,exact
 73 Pa. Const. Stat. § 201-9.2,73 pa. const. stat. § 201-9.2,Constitution,state_constitution,PA,3,3,2,2008,2011,false,unresolved
-75 Pa. Const. Stat. § 1574,75 pa. const. stat. § 1574,Constitution,state_constitution,PA,3,2,2,2016,2026,false,unresolved
 "Const, art. XVI § 59","const, art. xvi § 59",Constitution,state_constitution,PA,3,3,2,1993,2017,false,unresolved
 "Const. Amend. XIV, Pa. Const. Art. I § 1","const. amend. xiv, pa. const. art. i § 1",Constitution,state_constitution,PA,3,3,1,2021,2021,false,unresolved
 Const. art. VIII § 18,const. art. viii § 18,Constitution,state_constitution,PA,3,2,2,1983,2017,false,unresolved
@@ -1234,8 +1185,6 @@ State Const. art. III § 27,state const. art. iii § 27,Constitution,state_const
 "1 L.Ed. 843. Art. I, Sec. 11, of the Pennsylvania Constitution, P.S. Art. I § 11","1 l.ed. 843. art. i, sec. 11, of the pennsylvania constitution, p.s. art. i § 11",Constitution,state_constitution,PA,2,2,1,1944,1944,false,unresolved
 "1 Pa. Const, art. I § 28","1 pa. const, art. i § 28",Constitution,state_constitution,PA,2,1,1,1993,1993,true,exact
 1 Pa. Const. Art. V § 26,1 pa. const. art. v § 26,Constitution,state_constitution,PA,2,1,1,2025,2025,false,unresolved
-1 Pa. Const. Stat. Ann. § 1925,1 pa. const. stat. ann. § 1925,Constitution,state_constitution,PA,2,2,2,1998,2006,false,unresolved
-1 Pa. Const. Stat. § 2310,1 pa. const. stat. § 2310,Constitution,state_constitution,PA,2,2,2,2019,2023,false,unresolved
 1 Pa. Const. art. 1 § 27,1 pa. const. art. 1 § 27,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
 1 Pa. Const. art. I § 10,1 pa. const. art. i § 10,Constitution,state_constitution,PA,2,1,1,2016,2016,true,exact
 1 Pa. Const. art. I § 11,1 pa. const. art. i § 11,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
@@ -1245,14 +1194,11 @@ State Const. art. III § 27,state const. art. iii § 27,Constitution,state_const
 1 Pa. Const. art. V § 9,1 pa. const. art. v § 9,Constitution,state_constitution,PA,2,1,1,2019,2019,true,exact
 1 Pa. Const. art. VIII § 1,1 pa. const. art. viii § 1,Constitution,state_constitution,PA,2,1,1,2024,2024,true,exact
 "1 Pa. Const., Art. VII § 6","1 pa. const., art. vii § 6",Constitution,state_constitution,PA,2,1,1,2012,2012,false,unresolved
-1 Pa. Const.Stat.Ann. § 1925,1 pa. const.stat.ann. § 1925,Constitution,state_constitution,PA,2,2,1,1992,1992,false,unresolved
-1 Pa. Const.Stat.Ann. § 1926,1 pa. const.stat.ann. § 1926,Constitution,state_constitution,PA,2,2,1,1988,1988,false,unresolved
 1 Pa.Const. Art. 9 § 4,1 pa.const. art. 9 § 4,Constitution,state_constitution,PA,2,1,1,2010,2010,true,exact
 "1 [Pa. Const., art. VIII § 1","1 [pa. const., art. viii § 1",Constitution,state_constitution,PA,2,1,1,2021,2021,false,unresolved
 "10 Pa. Const, art. 1 § 6","10 pa. const, art. 1 § 6",Constitution,state_constitution,PA,2,1,1,2003,2003,true,exact
 10 Pa. Const. art. I § 1,10 pa. const. art. i § 1,Constitution,state_constitution,PA,2,1,1,2025,2025,true,exact
 10 Pa. Const. art. I § 25,10 pa. const. art. i § 25,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
-"1022 (1979). Pa. Const, art. III § 32","1022 (1979). pa. const, art. iii § 32",Constitution,state_constitution,PA,2,1,1,1980,1980,false,unresolved
 11 (Pa. Const. art. V § 17,11 (pa. const. art. v § 17,Constitution,state_constitution,PA,2,1,1,2017,2017,false,unresolved
 "11 Pa. Const, art. I § 1","11 pa. const, art. i § 1",Constitution,state_constitution,PA,2,1,1,2011,2011,true,exact
 11 Pa. Const. Art. I § 27,11 pa. const. art. i § 27,Constitution,state_constitution,PA,2,1,1,1989,1989,true,exact
@@ -1261,51 +1207,30 @@ State Const. art. III § 27,state const. art. iii § 27,Constitution,state_const
 11 Pa. Const. art. I § 1,11 pa. const. art. i § 1,Constitution,state_constitution,PA,2,1,1,2022,2022,true,exact
 11 Pa. Const. art. I § 27,11 pa. const. art. i § 27,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
 11 Pa. Const. art. VIII § 1,11 pa. const. art. viii § 1,Constitution,state_constitution,PA,2,1,1,2017,2017,true,exact
-12 Pa. Const. Stat. Ann. § 5302,12 pa. const. stat. ann. § 5302,Constitution,state_constitution,PA,2,2,1,2017,2020,false,unresolved
 12 Pa. Const. Stat. Ann. § 5303-08,12 pa. const. stat. ann. § 5303-08,Constitution,state_constitution,PA,2,1,1,2009,2009,false,unresolved
-12 Pa. Const. Stat. Ann. § 5307,12 pa. const. stat. ann. § 5307,Constitution,state_constitution,PA,2,1,1,2018,2018,false,unresolved
 12 Pa. Const. art. I § 8,12 pa. const. art. i § 8,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
-13 Pa. Const. Stat. § 2725,13 pa. const. stat. § 2725,Constitution,state_constitution,PA,2,2,2,2024,2025,false,unresolved
-13 Pa. Const. Stat. § 4406,13 pa. const. stat. § 4406,Constitution,state_constitution,PA,2,2,1,2020,2022,false,unresolved
 "13 Pa. Const., Art. IX § 8","13 pa. const., art. ix § 8",Constitution,state_constitution,PA,2,1,1,2013,2013,false,unresolved
-13 Pa.Const.Stat.Ann. § 9301,13 pa.const.stat.ann. § 9301,Constitution,state_constitution,PA,2,1,1,1981,1981,false,unresolved
 14 Pa. Const. Art. VIII § 1,14 pa. const. art. viii § 1,Constitution,state_constitution,PA,2,1,1,1991,1991,true,exact
 14 Pa. Const. art. I § 27,14 pa. const. art. i § 27,Constitution,state_constitution,PA,2,1,1,2020,2020,true,exact
 15 Pa. 10 Stat. Const. § 410,15 pa. 10 stat. const. § 410,Constitution,state_constitution,PA,2,1,1,2021,2021,false,unresolved
 15 Pa. Const. art. V § 10,15 pa. const. art. v § 10,Constitution,state_constitution,PA,2,1,1,2018,2018,true,exact
 16 Pa. Const. art. I § 11,16 pa. const. art. i § 11,Constitution,state_constitution,PA,2,1,1,2025,2025,true,exact
 167-68 (Pa. Const. art. 1 § 1,167-68 (pa. const. art. 1 § 1,Constitution,state_constitution,PA,2,1,1,2026,2026,false,unresolved
-18 Pa. Const. Stat. Ann. § 3921,18 pa. const. stat. ann. § 3921,Constitution,state_constitution,PA,2,2,1,2017,2023,false,unresolved
-18 Pa. Const. Stat. Ann. § 6301,18 pa. const. stat. ann. § 6301,Constitution,state_constitution,PA,2,2,1,2016,2016,false,unresolved
-18 Pa. Const. Stat. § 2102,18 pa. const. stat. § 2102,Constitution,state_constitution,PA,2,2,1,2014,2014,false,unresolved
-18 Pa. Const. Stat. § 3929,18 pa. const. stat. § 3929,Constitution,state_constitution,PA,2,2,2,2006,2020,false,unresolved
-18 Pa. Const. Stat. § 4904,18 pa. const. stat. § 4904,Constitution,state_constitution,PA,2,2,2,2018,2019,false,unresolved
-18 Pa. Const. Stat. § 9125,18 pa. const. stat. § 9125,Constitution,state_constitution,PA,2,1,1,2007,2007,false,unresolved
-18 Pa. Const. Stat.Ann. § 2502,18 pa. const. stat.ann. § 2502,Constitution,state_constitution,PA,2,1,1,1992,1992,false,unresolved
-18 Pa. Const. Stat.Ann. § 314,18 pa. const. stat.ann. § 314,Constitution,state_constitution,PA,2,2,1,1992,1992,false,unresolved
 18 Pa. Const. StatAnn. § 2502,18 pa. const. statann. § 2502,Constitution,state_constitution,PA,2,1,1,1992,1992,false,unresolved
 18 Pa. Const. § 2705,18 pa. const. § 2705,Constitution,state_constitution,PA,2,1,1,2023,2023,false,unresolved
-18 Pa. Const.Stat.Ann. § 5101,18 pa. const.stat.ann. § 5101,Constitution,state_constitution,PA,2,2,1,1996,1996,false,unresolved
 18 Pa. Stat. and Const. Stat. Ann. § 4501,18 pa. stat. and const. stat. ann. § 4501,Constitution,state_constitution,PA,2,2,1,2023,2023,false,unresolved
-18 Pa.Const.Stat.Ann. § 106,18 pa.const.stat.ann. § 106,Constitution,state_constitution,PA,2,2,1,1978,1978,false,unresolved
-18 Pa.Const.Stat.Ann. § 1103,18 pa.const.stat.ann. § 1103,Constitution,state_constitution,PA,2,2,1,1978,1978,false,unresolved
-18 Pa.Const.Stat.Ann. § 1104,18 pa.const.stat.ann. § 1104,Constitution,state_constitution,PA,2,2,1,1978,1978,false,unresolved
 "2 (1963), Pa.Const. art. 9 § 4","2 (1963), pa.const. art. 9 § 4",Constitution,state_constitution,PA,2,1,1,1980,1980,false,unresolved
 "2 Pa. Const, art. VIII § 2","2 pa. const, art. viii § 2",Constitution,state_constitution,PA,2,1,1,1995,1995,true,exact
 2 Pa. Const. art. 1 § 1,2 pa. const. art. 1 § 1,Constitution,state_constitution,PA,2,1,1,2024,2024,true,exact
 2 Pa. Const. art. I § 11,2 pa. const. art. i § 11,Constitution,state_constitution,PA,2,1,1,2022,2022,true,exact
 2 Pa. Const. art. I § 26,2 pa. const. art. i § 26,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
 2 Pa. Const. art. V § 2,2 pa. const. art. v § 2,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
-20 Pa. Const. Stat. § 6111.2,20 pa. const. stat. § 6111.2,Constitution,state_constitution,PA,2,2,1,2012,2012,false,unresolved
 21 Pa. Const. Art. I § 8,21 pa. const. art. i § 8,Constitution,state_constitution,PA,2,1,1,2014,2014,true,exact
 21 Pa. Const. art. I § 1,21 pa. const. art. i § 1,Constitution,state_constitution,PA,2,1,1,2019,2019,true,exact
-"230 (1957). Pennsylvania Const, art. 9 § 4","230 (1957). pennsylvania const, art. 9 § 4",Constitution,state_constitution,PA,2,1,1,1977,1977,false,unresolved
 233 Pa. Const. art. VI § 2,233 pa. const. art. vi § 2,Constitution,state_constitution,PA,2,1,1,2004,2004,false,unresolved
-24 Pa. Const. Stat. § 10-1081,24 pa. const. stat. § 10-1081,Constitution,state_constitution,PA,2,2,1,2005,2005,false,unresolved
 24 Pa. Const. Stat. § 11-1123,24 pa. const. stat. § 11-1123,Constitution,state_constitution,PA,2,2,1,2005,2005,false,unresolved
 24 Pa. Const. Stat. § 1402,24 pa. const. stat. § 1402,Constitution,state_constitution,PA,2,2,1,2005,2005,false,unresolved
 24 Pa. Const. Stat. § 5-5-514,24 pa. const. stat. § 5-5-514,Constitution,state_constitution,PA,2,2,1,2005,2005,false,unresolved
-24 Pa. Const. Stat. § 5-514,24 pa. const. stat. § 5-514,Constitution,state_constitution,PA,2,2,1,2005,2005,false,unresolved
 24 Pa. Const. Stat. § 7-780,24 pa. const. stat. § 7-780,Constitution,state_constitution,PA,2,1,1,2001,2001,false,unresolved
 25 Pa. Const. Stat. § 2831,25 pa. const. stat. § 2831,Constitution,state_constitution,PA,2,1,1,2006,2006,false,unresolved
 282 Pa. Const. art. III § 14,282 pa. const. art. iii § 14,Constitution,state_constitution,PA,2,1,1,2018,2018,false,unresolved
@@ -1317,7 +1242,6 @@ State Const. art. III § 27,state const. art. iii § 27,Constitution,state_const
 3 Pa. Const. art. I § 5,3 pa. const. art. i § 5,Constitution,state_constitution,PA,2,1,1,2022,2022,true,exact
 3 Pa. Const. art. II § 1,3 pa. const. art. ii § 1,Constitution,state_constitution,PA,2,1,1,2024,2024,true,exact
 3 Pa. Const. art. V § 10,3 pa. const. art. v § 10,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
-30 Pa. Const. Stat. § 2506,30 pa. const. stat. § 2506,Constitution,state_constitution,PA,2,1,1,2014,2014,false,unresolved
 31 Pa. Const. art. VIII § 8,31 pa. const. art. viii § 8,Constitution,state_constitution,PA,2,1,1,2019,2019,true,exact
 "3148 [Pa. Const. of 1873, art. XVIII § 1","3148 [pa. const. of 1873, art. xviii § 1",Constitution,state_constitution,PA,2,2,1,2006,2006,false,unresolved
 32 Pa.Const. Art. 1 § 14,32 pa.const. art. 1 § 14,Constitution,state_constitution,PA,2,1,1,1981,1981,true,exact
@@ -1333,47 +1257,21 @@ State Const. art. III § 27,state const. art. iii § 27,Constitution,state_const
 "4 Pennsylvania Constitution, Pa. Const. art. V § 9","4 pennsylvania constitution, pa. const. art. v § 9",Constitution,state_constitution,PA,2,1,1,2024,2024,false,unresolved
 41 Pa. Const. art. IV § 20,41 pa. const. art. iv § 20,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
 42 Pa. Const. Stat § 8521,42 pa. const. stat § 8521,Constitution,state_constitution,PA,2,2,1,2024,2024,false,unresolved
-42 Pa. Const. Stat. Ann. § 8103,42 pa. const. stat. ann. § 8103,Constitution,state_constitution,PA,2,2,1,2005,2005,false,unresolved
-42 Pa. Const. Stat. Ann. § 8301,42 pa. const. stat. ann. § 8301,Constitution,state_constitution,PA,2,1,1,2013,2013,false,unresolved
 42 Pa. Const. Stat. Ann. § 9541-46,42 pa. const. stat. ann. § 9541-46,Constitution,state_constitution,PA,2,2,2,2013,2014,false,unresolved
-42 Pa. Const. Stat. § 1515,42 pa. const. stat. § 1515,Constitution,state_constitution,PA,2,2,1,2014,2014,false,unresolved
-42 Pa. Const. Stat. § 301,42 pa. const. stat. § 301,Constitution,state_constitution,PA,2,2,1,2014,2014,false,unresolved
-42 Pa. Const. Stat. § 321,42 pa. const. stat. § 321,Constitution,state_constitution,PA,2,2,1,2014,2014,false,unresolved
-42 Pa. Const. Stat. § 5322,42 pa. const. stat. § 5322,Constitution,state_constitution,PA,2,2,1,2024,2024,false,unresolved
-42 Pa. Const. Stat. § 5501,42 pa. const. stat. § 5501,Constitution,state_constitution,PA,2,2,1,2006,2006,false,unresolved
-42 Pa. Const. Stat. § 5525,42 pa. const. stat. § 5525,Constitution,state_constitution,PA,2,2,2,2012,2023,false,unresolved
-42 Pa. Const. Stat. § 5533,42 pa. const. stat. § 5533,Constitution,state_constitution,PA,2,1,1,2007,2007,false,unresolved
-42 Pa. Const. Stat. § 5554,42 pa. const. stat. § 5554,Constitution,state_constitution,PA,2,2,1,2007,2007,false,unresolved
-42 Pa. Const. Stat. § 8521,42 pa. const. stat. § 8521,Constitution,state_constitution,PA,2,2,2,2012,2016,false,unresolved
-42 Pa. Const. Stat. § 9134,42 pa. const. stat. § 9134,Constitution,state_constitution,PA,2,2,1,2007,2007,false,unresolved
-42 Pa. Const. Stat. § 9501,42 pa. const. stat. § 9501,Constitution,state_constitution,PA,2,2,1,1995,1995,false,unresolved
 42 Pa. Const. Stat. § 9541-46,42 pa. const. stat. § 9541-46,Constitution,state_constitution,PA,2,2,1,2012,2012,false,unresolved
-42 Pa. Const. Stat. § 9764,42 pa. const. stat. § 9764,Constitution,state_constitution,PA,2,1,1,2023,2023,false,unresolved
-42 Pa. Const. Stat.Ann. § 6801,42 pa. const. stat.ann. § 6801,Constitution,state_constitution,PA,2,1,1,1991,1991,false,unresolved
 42 Pa. Const. § 5322,42 pa. const. § 5322,Constitution,state_constitution,PA,2,1,1,1996,1996,false,unresolved
-42 Pa. Const.Stat. § 5322,42 pa. const.stat. § 5322,Constitution,state_constitution,PA,2,1,1,1999,1999,false,unresolved
-42 Pa. Const.Stat.Ann. § 1722,42 pa. const.stat.ann. § 1722,Constitution,state_constitution,PA,2,2,1,1994,1994,false,unresolved
-42 Pa. Const.Stat.Ann. § 5523,42 pa. const.stat.ann. § 5523,Constitution,state_constitution,PA,2,2,1,1984,1984,false,unresolved
-42 Pa.Const.Stat.Ann. § 5301,42 pa.const.stat.ann. § 5301,Constitution,state_constitution,PA,2,1,1,1994,1994,false,unresolved
-42 Pa.Const.Stat.Ann. § 5525,42 pa.const.stat.ann. § 5525,Constitution,state_constitution,PA,2,1,1,1991,1991,false,unresolved
-42 Pa.Const.Stat.Ann. § 5942,42 pa.const.stat.ann. § 5942,Constitution,state_constitution,PA,2,2,1,1982,1982,false,unresolved
-42 Pa.Const.Stat.Ann. § 9543,42 pa.const.stat.ann. § 9543,Constitution,state_constitution,PA,2,2,1,1989,1990,false,unresolved
-428 (1992). 2 Pa. Const. art. 1 § 5,428 (1992). 2 pa. const. art. 1 § 5,Constitution,state_constitution,PA,2,2,1,2025,2025,false,unresolved
 43 Pa. Const. Stat. Ann. § 260.2a,43 pa. const. stat. ann. § 260.2a,Constitution,state_constitution,PA,2,2,2,2016,2021,false,unresolved
 43 Pa. Const. Stat. § 165-1,43 pa. const. stat. § 165-1,Constitution,state_constitution,PA,2,2,2,2011,2021,false,unresolved
-43 Pa. Const.Stat.Ann. § 1423,43 pa. const.stat.ann. § 1423,Constitution,state_constitution,PA,2,1,1,2002,2002,false,unresolved
 43 Pa. Stat. and Const. Stat. Ann. § 260.2a,43 pa. stat. and const. stat. ann. § 260.2a,Constitution,state_constitution,PA,2,2,1,2021,2021,false,unresolved
 46 Pa. Const. art. I § 28,46 pa. const. art. i § 28,Constitution,state_constitution,PA,2,1,1,1993,1993,true,exact
 48 Pa. Const. Stat. § 951,48 pa. const. stat. § 951,Constitution,state_constitution,PA,2,2,1,2009,2009,false,unresolved
 48 Pa. Const. Stat. § 963,48 pa. const. stat. § 963,Constitution,state_constitution,PA,2,2,1,2009,2009,false,unresolved
 "5 Pa. Const, art. I § 28","5 pa. const, art. i § 28",Constitution,state_constitution,PA,2,1,1,1977,1977,true,exact
-5 Pa. Const. art. I § 1,5 pa. const. art. i § 1,Constitution,state_constitution,PA,2,1,1,2015,2015,true,exact
 5 Pa. Const. art. I § 26,5 pa. const. art. i § 26,Constitution,state_constitution,PA,2,1,1,2022,2022,true,exact
 5 Pa. Const. art. I § 7,5 pa. const. art. i § 7,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
 5 Pa. Const. art. VI § 4,5 pa. const. art. vi § 4,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
 "5 Pa. Const., art. I § 21","5 pa. const., art. i § 21",Constitution,state_constitution,PA,2,1,1,2007,2007,false,unresolved
 "5 Pennsylvania Constitution, Pa. Const. art. I § 1","5 pennsylvania constitution, pa. const. art. i § 1",Constitution,state_constitution,PA,2,1,1,2025,2025,false,unresolved
-504 U.S. 428 (1992). 2 Pa. Const. art. 1 § 5,504 u.s. 428 (1992). 2 pa. const. art. 1 § 5,Constitution,state_constitution,PA,2,2,1,2025,2025,false,unresolved
 6 Pa. Const. art. 1 § 14,6 pa. const. art. 1 § 14,Constitution,state_constitution,PA,2,1,1,2006,2006,true,exact
 6 Pa. Const. art. I § 3,6 pa. const. art. i § 3,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
 6 Pa. Const. art. I § 5,6 pa. const. art. i § 5,Constitution,state_constitution,PA,2,1,1,2025,2025,true,exact
@@ -1394,13 +1292,8 @@ State Const. art. III § 27,state const. art. iii § 27,Constitution,state_const
 7 Pa. Const. art. IX § 8,7 pa. const. art. ix § 8,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
 7 Pa. Const. art. VI § 6,7 pa. const. art. vi § 6,Constitution,state_constitution,PA,2,1,1,2023,2023,true,exact
 7-9 (Pa. Const. Art. 5 § 9,7-9 (pa. const. art. 5 § 9,Constitution,state_constitution,PA,2,1,1,2026,2026,false,unresolved
-72 Pa. Const. Stat. § 5860.611,72 pa. const. stat. § 5860.611,Constitution,state_constitution,PA,2,2,1,2019,2019,false,unresolved
 73 Pa. Const. Stat. § 201-1,73 pa. const. stat. § 201-1,Constitution,state_constitution,PA,2,2,1,2021,2022,false,unresolved
 73 Pa. Const. Stat. § 512,73 pa. const. stat. § 512,Constitution,state_constitution,PA,2,2,1,2024,2024,false,unresolved
-75 Pa. Const. Stat. § 1701,75 pa. const. stat. § 1701,Constitution,state_constitution,PA,2,2,1,2016,2020,false,unresolved
-75 Pa. Const. Stat. § 1702,75 pa. const. stat. § 1702,Constitution,state_constitution,PA,2,2,2,2016,2024,false,unresolved
-75 Pa. Const. Stat. § 1738,75 pa. const. stat. § 1738,Constitution,state_constitution,PA,2,2,1,2020,2023,false,unresolved
-75 Pa.Const.Stat.Ann. § 3731,75 pa.const.stat.ann. § 3731,Constitution,state_constitution,PA,2,2,1,1987,1987,false,unresolved
 78 Pa. Const. art. III § 30,78 pa. const. art. iii § 30,Constitution,state_constitution,PA,2,1,1,2018,2018,true,exact
 8 Pa. Const. art. 9 § 1,8 pa. const. art. 9 § 1,Constitution,state_constitution,PA,2,1,1,1965,1965,true,exact
 9 Pa. Const. art. I § 1,9 pa. const. art. i § 1,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
@@ -1430,7 +1323,6 @@ Const. of Pennsylvania Art. 1 § 9,const. of pennsylvania art. 1 § 9,Constituti
 "Constitution of Pennsylvania, article I, section 9","constitution of pennsylvania, article i, section 9",Constitution,state_constitution,PA,2,2,2,1922,1937,true,exact
 "Constitution of Pennsylvania, article VIII, sec. 1","constitution of pennsylvania, article viii, sec. 1",Constitution,state_constitution,PA,2,2,2,1937,1952,true,exact
 "District Judges. 6 Pa. Const, art. V § 1","district judges. 6 pa. const, art. v § 1",Constitution,state_constitution,PA,2,1,1,2007,2007,false,unresolved
-I. 13 Pa. Const. art. I § 3,i. 13 pa. const. art. i § 3,Constitution,state_constitution,PA,2,1,1,2024,2024,false,unresolved
 III. Const. art. IV § 9,iii. const. art. iv § 9,Constitution,state_constitution,PA,2,1,1,2008,2008,true,exact
 III. Const. art. VI § 8,iii. const. art. vi § 8,Constitution,state_constitution,PA,2,1,1,2016,2016,true,exact
 P.A. Const. art. I § 8,p.a. const. art. i § 8,Constitution,state_constitution,PA,2,1,1,2021,2021,true,exact
@@ -1488,7 +1380,6 @@ Pa. Const art. I § 2,pa. const art. i § 2,Constitution,state_constitution,PA,2
 "Pa. Const, art. III § 13","pa. const, art. iii § 13",Constitution,state_constitution,PA,2,1,1,2008,2008,true,exact
 "Pa. Const, art. III § 18","pa. const, art. iii § 18",Constitution,state_constitution,PA,2,1,1,1993,1993,true,exact
 "Pa. Const, art. III § 27","pa. const, art. iii § 27",Constitution,state_constitution,PA,2,1,1,2008,2008,true,exact
-"Pa. Const, art. III § 32","pa. const, art. iii § 32",Constitution,state_constitution,PA,2,1,1,1988,1988,true,exact
 "Pa. Const, art. IV § 12","pa. const, art. iv § 12",Constitution,state_constitution,PA,2,1,1,2017,2017,true,exact
 "Pa. Const, art. IV § 13","pa. const, art. iv § 13",Constitution,state_constitution,PA,2,1,1,2002,2002,true,exact
 "Pa. Const, art. IV § 4","pa. const, art. iv § 4",Constitution,state_constitution,PA,2,1,1,1998,1998,true,exact
@@ -1505,6 +1396,7 @@ Pa. Const art. I § 2,pa. const art. i § 2,Constitution,state_constitution,PA,2
 "Pa. Const, art. VII § 2","pa. const, art. vii § 2",Constitution,state_constitution,PA,2,1,1,2013,2013,true,exact
 "Pa. Const, art. VIII § 10","pa. const, art. viii § 10",Constitution,state_constitution,PA,2,1,1,2007,2007,true,exact
 "Pa. Const, art. VIII § 3","pa. const, art. viii § 3",Constitution,state_constitution,PA,2,1,1,1984,1984,true,exact
+"Pa. Const, art. X § 1","pa. const, art. x § 1",Constitution,state_constitution,PA,2,1,1,1965,1965,true,exact
 "Pa. Const, art. X § 4","pa. const, art. x § 4",Constitution,state_constitution,PA,2,1,1,1982,1982,true,exact
 "Pa. Const, of 1776, pt. 2 § 20","pa. const, of 1776, pt. 2 § 20",Constitution,state_constitution,PA,2,1,1,2013,2013,false,unresolved
 "Pa. Const. 1790, Art. 9 § 7","pa. const. 1790, art. 9 § 7",Constitution,state_constitution,PA,2,2,1,2025,2025,true,exact
@@ -1559,7 +1451,6 @@ Pa. Const. Article III § 3,pa. const. article iii § 3,Constitution,state_const
 Pa. Const. Sched. 1968 § 15,pa. const. sched. 1968 § 15,Constitution,state_constitution,PA,2,1,1,2007,2007,false,unresolved
 Pa. Const. Stat. Ann. § 8305,pa. const. stat. ann. § 8305,Constitution,state_constitution,PA,2,2,1,1990,1990,false,unresolved
 Pa. Const. Stat. Ann. § 8343,pa. const. stat. ann. § 8343,Constitution,state_constitution,PA,2,2,2,2017,2023,false,unresolved
-Pa. Const. Stat. Ann. § 9795.1,pa. const. stat. ann. § 9795.1,Constitution,state_constitution,PA,2,2,1,2010,2010,false,unresolved
 Pa. Const. Stat. § 8542,pa. const. stat. § 8542,Constitution,state_constitution,PA,2,1,1,2025,2025,false,unresolved
 Pa. Const. art 1 § 1,pa. const. art 1 § 1,Constitution,state_constitution,PA,2,2,1,2016,2016,true,exact
 Pa. Const. art 1 § 9,pa. const. art 1 § 9,Constitution,state_constitution,PA,2,2,1,2021,2021,true,exact
@@ -1833,6 +1724,7 @@ Pennsylvania (75 Pa. Const. Stat. Ann. § 3803,pennsylvania (75 pa. const. stat.
 Pennsylvania (75 Pa. Const. Stat. Ann. § 3804,pennsylvania (75 pa. const. stat. ann. § 3804,Constitution,state_constitution,PA,2,2,1,2011,2011,false,unresolved
 Pennsylvania (Const. Art. 1 § 1,pennsylvania (const. art. 1 § 1,Constitution,state_constitution,PA,2,1,1,1994,1994,false,unresolved
 "Pennsylvania (Pa. Const., Art. I § 9","pennsylvania (pa. const., art. i § 9",Constitution,state_constitution,PA,2,1,1,1984,1984,false,unresolved
+"Pennsylvania Const, art. 9 § 4","pennsylvania const, art. 9 § 4",Constitution,state_constitution,PA,2,1,1,1977,1977,true,exact
 "Pennsylvania Const, art. I § 28","pennsylvania const, art. i § 28",Constitution,state_constitution,PA,2,1,1,1982,1982,true,exact
 "Pennsylvania Const, art. V § 10","pennsylvania const, art. v § 10",Constitution,state_constitution,PA,2,1,1,2000,2000,true,exact
 Pennsylvania Const. Art. 1 § 11,pennsylvania const. art. 1 § 11,Constitution,state_constitution,PA,2,1,1,2019,2019,true,exact
@@ -2168,7 +2060,6 @@ Supreme Court. Pa.Const. Art. V § 18,supreme court. pa.const. art. v § 18,Cons
 "The Pennsylvania Constitution, article V, section 9","the pennsylvania constitution, article v, section 9",Constitution,state_constitution,PA,2,2,1,1991,1991,true,exact
 "U.S, Const.Amend. IV","u.s, const.amend. iv",Constitution,state_constitution,PA,2,2,1,1988,1988,false,unresolved
 UJS. Pa. Const. art. V § 10,ujs. pa. const. art. v § 10,Constitution,state_constitution,PA,2,1,1,2017,2017,false,unresolved
-"V. 3 Pa. Const, art. 1 § 9","v. 3 pa. const, art. 1 § 9",Constitution,state_constitution,PA,2,1,1,1974,1974,false,unresolved
 "V. and Pa. Const, art. I § 10","v. and pa. const, art. i § 10",Constitution,state_constitution,PA,2,1,1,2012,2012,false,unresolved
 "VI. Pa. Const. Art. V, Section","vi. pa. const. art. v, section",Constitution,state_constitution,PA,2,2,1,1992,1992,false,unresolved
 "W.V. Const, art. VI § 55","w.v. const, art. vi § 55",Constitution,state_constitution,PA,2,2,1,2017,2017,true,exact
@@ -2177,136 +2068,49 @@ UJS. Pa. Const. art. V § 10,ujs. pa. const. art. v § 10,Constitution,state_con
 W.V. Const. Art. VIII § 3,w.v. const. art. viii § 3,Constitution,state_constitution,PA,2,1,1,2015,2015,true,exact
 W.V. Const. art. VI § 55,w.v. const. art. vi § 55,Constitution,state_constitution,PA,2,2,1,2013,2017,true,exact
 W.V. Const. art. VI § 56,w.v. const. art. vi § 56,Constitution,state_constitution,PA,2,2,1,2013,2017,true,exact
-XIV. 8 Pa. Const. art. I § 13,xiv. 8 pa. const. art. i § 13,Constitution,state_constitution,PA,2,1,1,2024,2024,false,unresolved
 XIV. Pa. Const. Art. I § 28,xiv. pa. const. art. i § 28,Constitution,state_constitution,PA,2,1,1,1988,1988,true,exact
 "1 Constitution of Pennsylvania, Art. XIV § 8","1 constitution of pennsylvania, art. xiv § 8",Constitution,state_constitution,PA,1,1,1,1958,1958,false,unresolved
-1 Pa. Const.Stat.Ann. § 1921,1 pa. const.stat.ann. § 1921,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
 "1 Pa. Constitution, Article V § 9","1 pa. constitution, article v § 9",Constitution,state_constitution,PA,1,1,1,1970,1970,false,unresolved
 1 Pa. Stat. and Const. Stat. § 2310,1 pa. stat. and const. stat. § 2310,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
-1 Pa.Const.Stat.Ann. § 1933,1 pa.const.stat.ann. § 1933,Constitution,state_constitution,PA,1,1,1,1979,1979,false,unresolved
 1 Pennsylvania Constitution art. I § 1,1 pennsylvania constitution art. i § 1,Constitution,state_constitution,PA,1,1,1,1986,1986,false,unresolved
 1 [Pa. Const. art 1 § 1,1 [pa. const. art 1 § 1,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
 "1032 (Pa Ct of Judicial Discipline, 1995). Const 1963, art 6 § 30","1032 (pa ct of judicial discipline, 1995). const 1963, art 6 § 30",Constitution,state_constitution,PA,1,1,1,2006,2006,false,unresolved
 12 Pa. Const. Stat. Ann. § 2701,12 pa. const. stat. ann. § 2701,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
-12 Pa. Const. Stat. Ann. § 5109,12 pa. const. stat. ann. § 5109,Constitution,state_constitution,PA,1,1,1,2010,2010,false,unresolved
-12 Pa. Const. Stat. Ann. § 5301,12 pa. const. stat. ann. § 5301,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-12 Pa. Const. Stat. § 5304,12 pa. const. stat. § 5304,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
 12A Pa.Const.Stat. Ann. § 2-725,12a pa.const.stat. ann. § 2-725,Constitution,state_constitution,PA,1,1,1,1980,1980,false,unresolved
 12A Pa.Const.Stat. § 8-319,12a pa.const.stat. § 8-319,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
 12A Pa.Const.Stat.Ann. § 2-725,12a pa.const.stat.ann. § 2-725,Constitution,state_constitution,PA,1,1,1,1980,1980,false,unresolved
-13 Pa. Const. Stat. Ann. § 2313,13 pa. const. stat. ann. § 2313,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 13 Pa. Const. Stat. Ann. § 5503,13 pa. const. stat. ann. § 5503,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 13 Pa. Const. Stat. § 07,13 pa. const. stat. § 07,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-13 Pa. Const. Stat. § 1101,13 pa. const. stat. § 1101,Constitution,state_constitution,PA,1,1,1,2000,2000,false,unresolved
-13 Pa. Const. Stat. § 2206,13 pa. const. stat. § 2206,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-13 Pa. Const. Stat. § 2314,13 pa. const. stat. § 2314,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-13 Pa. Const. Stat. § 3104,13 pa. const. stat. § 3104,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
-13 Pa. Const. Stat. § 4102,13 pa. const. stat. § 4102,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
 13 Pa. Const. Stat. § 810,13 pa. const. stat. § 810,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-13 Pa. Const. Stat. § 9102,13 pa. const. stat. § 9102,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
-13 Pa. Const. Stat. § 9507,13 pa. const. stat. § 9507,Constitution,state_constitution,PA,1,1,1,2000,2000,false,unresolved
-13 Pa. Const.Stat. Ann. § 2714,13 pa. const.stat. ann. § 2714,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-13 Pa. Const.Stat. Ann. § 3305,13 pa. const.stat. ann. § 3305,Constitution,state_constitution,PA,1,1,1,1993,1993,false,unresolved
-13 Pa. Const.Stat. § 4201,13 pa. const.stat. § 4201,Constitution,state_constitution,PA,1,1,1,1994,1994,false,unresolved
-13 Pa. Const.Stat. § 4214,13 pa. const.stat. § 4214,Constitution,state_constitution,PA,1,1,1,1994,1994,false,unresolved
-13 Pa. Const.Stat.Ann. § 1201,13 pa. const.stat.ann. § 1201,Constitution,state_constitution,PA,1,1,1,1993,1993,false,unresolved
-13 Pa. Const.Stat.Ann. § 2712,13 pa. const.stat.ann. § 2712,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-13 Pa. Const.Stat.Ann. § 2715,13 pa. const.stat.ann. § 2715,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
 13 Pa. Stat. and Const. Stat. Ann. § 2A212,13 pa. stat. and const. stat. ann. § 2a212,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-13 Pa.Const. Stat.Ann. § 4401,13 pa.const. stat.ann. § 4401,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
 13 Pa.Const.Stat. § 6103,13 pa.const.stat. § 6103,Constitution,state_constitution,PA,1,1,1,1985,1985,false,unresolved
 13 Pa.Const.Stat. § 6105,13 pa.const.stat. § 6105,Constitution,state_constitution,PA,1,1,1,1985,1985,false,unresolved
 13 Pa.Const.Stat. § 6107,13 pa.const.stat. § 6107,Constitution,state_constitution,PA,1,1,1,1985,1985,false,unresolved
-13 Pa.Const.Stat. § 9501,13 pa.const.stat. § 9501,Constitution,state_constitution,PA,1,1,1,1992,1992,false,unresolved
-13 Pa.Const.Stat.Ann. § 1203,13 pa.const.stat.ann. § 1203,Constitution,state_constitution,PA,1,1,1,1992,1992,false,unresolved
-13 Pa.Const.Stat.Ann. § 2302,13 pa.const.stat.ann. § 2302,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
-13 Pa.Const.Stat.Ann. § 9302,13 pa.const.stat.ann. § 9302,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
 14 Pa. Const. Stat. § 707-08,14 pa. const. stat. § 707-08,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-15 Pa. Const. Stat. Ann. § 1726,15 pa. const. stat. ann. § 1726,Constitution,state_constitution,PA,1,1,1,2010,2010,false,unresolved
-15 Pa. Const. Stat. Ann. § 1733,15 pa. const. stat. ann. § 1733,Constitution,state_constitution,PA,1,1,1,2010,2010,false,unresolved
-15 Pa. Const. Stat. Ann. § 4141,15 pa. const. stat. ann. § 4141,Constitution,state_constitution,PA,1,1,1,2009,2009,false,unresolved
-15 Pa. Const. Stat. § 1705,15 pa. const. stat. § 1705,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-15 Pa. Const. Stat. § 1929,15 pa. const. stat. § 1929,Constitution,state_constitution,PA,1,1,1,2006,2006,false,unresolved
-15 Pa. Const. Stat. § 5705,15 pa. const. stat. § 5705,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-15 Pa. Const. Stat. § 5712,15 pa. const. stat. § 5712,Constitution,state_constitution,PA,1,1,1,2008,2008,false,unresolved
 "17 the Pennsylvania Constitution, PA. CONST. art. I § 17","17 the pennsylvania constitution, pa. const. art. i § 17",Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
 18 Pa. 11 Const. Stat. § 5704,18 pa. 11 const. stat. § 5704,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
 18 Pa. Const Stat. § 6105,18 pa. const stat. § 6105,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
 18 Pa. Const. Ann. § 5511,18 pa. const. ann. § 5511,Constitution,state_constitution,PA,1,1,1,2011,2011,false,unresolved
 18 Pa. Const. Stat § 3304,18 pa. const. stat § 3304,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
 18 Pa. Const. Stat. Ann. § 2501-02,18 pa. const. stat. ann. § 2501-02,Constitution,state_constitution,PA,1,1,1,2009,2009,false,unresolved
-18 Pa. Const. Stat. Ann. § 2502,18 pa. const. stat. ann. § 2502,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-18 Pa. Const. Stat. Ann. § 2702,18 pa. const. stat. ann. § 2702,Constitution,state_constitution,PA,1,1,1,2009,2009,false,unresolved
-18 Pa. Const. Stat. Ann. § 308,18 pa. const. stat. ann. § 308,Constitution,state_constitution,PA,1,1,1,2012,2012,false,unresolved
-18 Pa. Const. Stat. Ann. § 3103,18 pa. const. stat. ann. § 3103,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
 18 Pa. Const. Stat. Ann. § 3103-3144,18 pa. const. stat. ann. § 3103-3144,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-18 Pa. Const. Stat. Ann. § 3122,18 pa. const. stat. ann. § 3122,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-18 Pa. Const. Stat. Ann. § 3922,18 pa. const. stat. ann. § 3922,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-18 Pa. Const. Stat. Ann. § 7613,18 pa. const. stat. ann. § 7613,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-18 Pa. Const. Stat. Ann. § 908,18 pa. const. stat. ann. § 908,Constitution,state_constitution,PA,1,1,1,2009,2009,false,unresolved
-18 Pa. Const. Stat. Ann. § 910,18 pa. const. stat. ann. § 910,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-18 Pa. Const. Stat. § 106,18 pa. const. stat. § 106,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
-18 Pa. Const. Stat. § 1103,18 pa. const. stat. § 1103,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-18 Pa. Const. Stat. § 2301,18 pa. const. stat. § 2301,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-18 Pa. Const. Stat. § 2702,18 pa. const. stat. § 2702,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-18 Pa. Const. Stat. § 2706,18 pa. const. stat. § 2706,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-18 Pa. Const. Stat. § 3101,18 pa. const. stat. § 3101,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-18 Pa. Const. Stat. § 3123,18 pa. const. stat. § 3123,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-18 Pa. Const. Stat. § 3203,18 pa. const. stat. § 3203,Constitution,state_constitution,PA,1,1,1,1997,1997,false,unresolved
-18 Pa. Const. Stat. § 3304,18 pa. const. stat. § 3304,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
-18 Pa. Const. Stat. § 3501,18 pa. const. stat. § 3501,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
-18 Pa. Const. Stat. § 3502,18 pa. const. stat. § 3502,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
-18 Pa. Const. Stat. § 3503,18 pa. const. stat. § 3503,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-18 Pa. Const. Stat. § 3701,18 pa. const. stat. § 3701,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
-18 Pa. Const. Stat. § 3922,18 pa. const. stat. § 3922,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-18 Pa. Const. Stat. § 3928,18 pa. const. stat. § 3928,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-18 Pa. Const. Stat. § 4911,18 pa. const. stat. § 4911,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-18 Pa. Const. Stat. § 4915.1,18 pa. const. stat. § 4915.1,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-18 Pa. Const. Stat. § 5301,18 pa. const. stat. § 5301,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-18 Pa. Const. Stat. § 5553,18 pa. const. stat. § 5553,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-18 Pa. Const. Stat. § 5725,18 pa. const. stat. § 5725,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
-18 Pa. Const. Stat. § 6318,18 pa. const. stat. § 6318,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-18 Pa. Const. Stat. § 7611,18 pa. const. stat. § 7611,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
-18 Pa. Const. Stat. § 901,18 pa. const. stat. § 901,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-18 Pa. Const. Stat. § 9124,18 pa. const. stat. § 9124,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
 18 Pa. Const. Stat. § 9124.4,18 pa. const. stat. § 9124.4,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
 18 Pa. Const. Stat. § 9125.5,18 pa. const. stat. § 9125.5,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
-18 Pa. Const. Stat.Ann. § 6301,18 pa. const. stat.ann. § 6301,Constitution,state_constitution,PA,1,1,1,1994,1994,false,unresolved
-18 Pa. Const.Stat.Ann. § 3923,18 pa. const.stat.ann. § 3923,Constitution,state_constitution,PA,1,1,1,1978,1978,false,unresolved
-18 Pa. Const.Stat.Ann. § 901,18 pa. const.stat.ann. § 901,Constitution,state_constitution,PA,1,1,1,1984,1984,false,unresolved
 18 Pa. Stat. Const. Ann. § 2709,18 pa. stat. const. ann. § 2709,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
 18 Pa. Stat. and Const. Stat. Ann. § 2301,18 pa. stat. and const. stat. ann. § 2301,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
 18 Pa.Const.Stal.Ann. § 106,18 pa.const.stal.ann. § 106,Constitution,state_constitution,PA,1,1,1,1984,1984,false,unresolved
-18 Pa.Const.Stat. § 901,18 pa.const.stat. § 901,Constitution,state_constitution,PA,1,1,1,1979,1979,false,unresolved
-18 Pa.Const.Stat.Ann. § 3923,18 pa.const.stat.ann. § 3923,Constitution,state_constitution,PA,1,1,1,1978,1978,false,unresolved
 19 Pa.Const.Stat.Ann. § 1180-1,19 pa.const.stat.ann. § 1180-1,Constitution,state_constitution,PA,1,1,1,1989,1989,false,unresolved
 19 Pa.Const.Stat.Ann. § 1180-4,19 pa.const.stat.ann. § 1180-4,Constitution,state_constitution,PA,1,1,1,1989,1989,false,unresolved
 "2 Constitution of Pennsylvania, Art. XIV § 1","2 constitution of pennsylvania, art. xiv § 1",Constitution,state_constitution,PA,1,1,1,1958,1958,false,unresolved
 2 Pa. Const. art I § 6,2 pa. const. art i § 6,Constitution,state_constitution,PA,1,1,1,2016,2016,true,exact
 "2 Pa. Const., Art. I, Section","2 pa. const., art. i, section",Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 2 Pennsylvania Constitution Art. VIII § 1,2 pennsylvania constitution art. viii § 1,Constitution,state_constitution,PA,1,1,1,1986,1986,false,unresolved
-20 Pa. Const. Stat. Ann. § 3389,20 pa. const. stat. ann. § 3389,Constitution,state_constitution,PA,1,1,1,1998,1998,false,unresolved
-20 Pa. Const. Stat. Ann. § 6114,20 pa. const. stat. ann. § 6114,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
-20 Pa. Const. Stat. § 102,20 pa. const. stat. § 102,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
-20 Pa. Const.Stat. Ann. § 711,20 pa. const.stat. ann. § 711,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
-20 Pa. Const.Stat. Ann. § 712,20 pa. const.stat. ann. § 712,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
 20 Pa. Const.Stat. Ann. § 7142,20 pa. const.stat. ann. § 7142,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
-20 Pa. Const.Stat. Ann. § 722,20 pa. const.stat. ann. § 722,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
-20 Pa. Const.Stat.Ann. § 711,20 pa. const.stat.ann. § 711,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
-20 Pa.Const.Stat.Ann. § 102,20 pa.const.stat.ann. § 102,Constitution,state_constitution,PA,1,1,1,1979,1979,false,unresolved
-20 Pa.Const.Stat.Ann. § 8801,20 pa.const.stat.ann. § 8801,Constitution,state_constitution,PA,1,1,1,1980,1980,false,unresolved
 "2101 (Construction) of the Vehicle Code, 75 Pa.C.S. § 2101","2101 (construction) of the vehicle code, 75 pa.c.s. § 2101",Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
 "22 Article 1, Section 1 of the Pennsylvania Constitution, Pa. Const. art. I § 1","22 article 1, section 1 of the pennsylvania constitution, pa. const. art. i § 1",Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-23 Pa. Const. Stat. § 3502,23 pa. const. stat. § 3502,Constitution,state_constitution,PA,1,1,1,2003,2003,false,unresolved
-23 Pa. Const. Stat. § 4341,23 pa. const. stat. § 4341,Constitution,state_constitution,PA,1,1,1,2015,2015,false,unresolved
-23 Pa. Const. Stat. § 6102,23 pa. const. stat. § 6102,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-23 Pa. Const. Stat. § 6315,23 pa. const. stat. § 6315,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
-23 Pa. Const. Stat. § 6318,23 pa. const. stat. § 6318,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
 23 Pa. Stat. and Const. Stat. Ann. § 1103,23 pa. stat. and const. stat. ann. § 1103,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
-23 Pa.Const.Stat.Ann. § 6311,23 pa.const.stat.ann. § 6311,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
 232 Pa. Const. art. IX § 20,232 pa. const. art. ix § 20,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
 232 Pa. Const. art. IX § 21,232 pa. const. art. ix § 21,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-24 Pa. Const. Stat. § 13-1311,24 pa. const. stat. § 13-1311,Constitution,state_constitution,PA,1,1,1,2001,2001,false,unresolved
 24 Pa. Const. Stat. § 2070.9a,24 pa. const. stat. § 2070.9a,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
 24 Pa. Const. Stat. § 5-510,24 pa. const. stat. § 5-510,Constitution,state_constitution,PA,1,1,1,2011,2011,false,unresolved
 25 Pa. Const. Stat. and Con. Stat. Ann. § 2811,25 pa. const. stat. and con. stat. ann. § 2811,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
@@ -2315,10 +2119,8 @@ XIV. Pa. Const. Art. I § 28,xiv. pa. const. art. i § 28,Constitution,state_con
 25 Pa. Const. Stat. § 2911,25 pa. const. stat. § 2911,Constitution,state_constitution,PA,1,1,1,2006,2006,false,unresolved
 25 Pa. Const. Stat. § 2937,25 pa. const. stat. § 2937,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 26 Pa. Const. Stat. Ann. § 1-502,26 pa. const. stat. ann. § 1-502,Constitution,state_constitution,PA,1,1,1,2005,2005,false,unresolved
-26 Pa. Const. Stat. Ann. § 502,26 pa. const. stat. ann. § 502,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 26 Pa. Const. Stat. § 1-602,26 pa. const. stat. § 1-602,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
 26 Pa. Const. Stat. § 1-603,26 pa. const. stat. § 1-603,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-"280 (1947). Pa. Const, art. X § 1","280 (1947). pa. const, art. x § 1",Constitution,state_constitution,PA,1,1,1,1965,1965,false,unresolved
 "281 Pa. Const. of 1874, art. X § 1","281 pa. const. of 1874, art. x § 1",Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 3 Cf. 71 Pa. Const. Stat. Ann. § 5953.1,3 cf. 71 pa. const. stat. ann. § 5953.1,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
 3 Pa. Const. art. I § 1,3 pa. const. art. i § 1,Constitution,state_constitution,PA,1,1,1,2023,2023,true,exact
@@ -2331,104 +2133,46 @@ XIV. Pa. Const. Art. I § 28,xiv. pa. const. art. i § 28,Constitution,state_con
 35 Pa. Stat. and Const. Stat. Ann. § 780-113,35 pa. stat. and const. stat. ann. § 780-113,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
 35 Pa.Const.Stat. Ann. § 1680.405c,35 pa.const.stat. ann. § 1680.405c,Constitution,state_constitution,PA,1,1,1,1989,1989,false,unresolved
 35 Pa.Const.Stat.Ann. § 1680.405c,35 pa.const.stat.ann. § 1680.405c,Constitution,state_constitution,PA,1,1,1,1989,1989,false,unresolved
-"357 Pa. 329, 334, 54 A. 2d 277, 280 (1947). Pa. Const, art. X § 1","357 pa. 329, 334, 54 a. 2d 277, 280 (1947). pa. const, art. x § 1",Constitution,state_constitution,PA,1,1,1,1965,1965,false,unresolved
 39 Pa. Const.Stat. § 357,39 pa. const.stat. § 357,Constitution,state_constitution,PA,1,1,1,1986,1986,false,unresolved
 39 Pa.Const.Stat. § 357,39 pa.const.stat. § 357,Constitution,state_constitution,PA,1,1,1,1986,1986,false,unresolved
 "4 Article III, Section 31 of the Pennsylvania Constitution, Pa. Const. art. III § 31","4 article iii, section 31 of the pennsylvania constitution, pa. const. art. iii § 31",Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
-4 Pa. Const. Stat. Ann. § 502,4 pa. const. stat. ann. § 502,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 4 the Pennsylvania Constitution. Pa. Const. art. I § 11,4 the pennsylvania constitution. pa. const. art. i § 11,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 41 Pa. Const. Stat. § 101,41 pa. const. stat. § 101,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 41 Pa. Const. Stat. § 202,41 pa. const. stat. § 202,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
-41 Pa. Const.Stat.Ann. § 202,41 pa. const.stat.ann. § 202,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
 42 Pa. Const. S. § 42,42 pa. const. s. § 42,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
 42 Pa. Const. S. § 8541,42 pa. const. s. § 8541,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
 42 Pa. Const. S. § 8542,42 pa. const. s. § 8542,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
 42 Pa. Const. STAT. § 9541-46,42 pa. const. stat. § 9541-46,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
 42 Pa. Const. STAT. § 9711,42 pa. const. stat. § 9711,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-42 Pa. Const. Stat. Ann. § 4303,42 pa. const. stat. ann. § 4303,Constitution,state_constitution,PA,1,1,1,2008,2008,false,unresolved
-42 Pa. Const. Stat. Ann. § 5523,42 pa. const. stat. ann. § 5523,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-42 Pa. Const. Stat. Ann. § 5525,42 pa. const. stat. ann. § 5525,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-42 Pa. Const. Stat. Ann. § 5942,42 pa. const. stat. ann. § 5942,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-42 Pa. Const. Stat. Ann. § 5945.1,42 pa. const. stat. ann. § 5945.1,Constitution,state_constitution,PA,1,1,1,1986,1986,false,unresolved
-42 Pa. Const. Stat. Ann. § 6304,42 pa. const. stat. ann. § 6304,Constitution,state_constitution,PA,1,1,1,2010,2010,false,unresolved
-42 Pa. Const. Stat. Ann. § 7304,42 pa. const. stat. ann. § 7304,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-42 Pa. Const. Stat. Ann. § 7361,42 pa. const. stat. ann. § 7361,Constitution,state_constitution,PA,1,1,1,2011,2011,false,unresolved
-42 Pa. Const. Stat. Ann. § 7531,42 pa. const. stat. ann. § 7531,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-42 Pa. Const. Stat. Ann. § 8351,42 pa. const. stat. ann. § 8351,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
-42 Pa. Const. Stat. Ann. § 8541,42 pa. const. stat. ann. § 8541,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
-42 Pa. Const. Stat. Ann. § 9543,42 pa. const. stat. ann. § 9543,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
-42 Pa. Const. Stat. and Con. Stat. Ann. § 4502,42 pa. const. stat. and con. stat. ann. § 4502,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
-42 Pa. Const. Stat. § 4541,42 pa. const. stat. § 4541,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
-42 Pa. Const. Stat. § 5301,42 pa. const. stat. § 5301,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-42 Pa. Const. Stat. § 5529,42 pa. const. stat. § 5529,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-42 Pa. Const. Stat. § 5928,42 pa. const. stat. § 5928,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-42 Pa. Const. Stat. § 6355,42 pa. const. stat. § 6355,Constitution,state_constitution,PA,1,1,1,1998,1998,false,unresolved
-42 Pa. Const. Stat. § 8152,42 pa. const. stat. § 8152,Constitution,state_constitution,PA,1,1,1,2013,2013,false,unresolved
-42 Pa. Const. Stat. § 8324,42 pa. const. stat. § 8324,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
-42 Pa. Const. Stat. § 8343,42 pa. const. stat. § 8343,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-42 Pa. Const. Stat. § 8352,42 pa. const. stat. § 8352,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
 42 Pa. Const. Stat. § 8541-42,42 pa. const. stat. § 8541-42,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 42 Pa. Const. Stat. § 9501-9543,42 pa. const. stat. § 9501-9543,Constitution,state_constitution,PA,1,1,1,1995,1995,false,unresolved
 42 Pa. Const. Stat. § 9541-9546,42 pa. const. stat. § 9541-9546,Constitution,state_constitution,PA,1,1,1,2020,2020,false,unresolved
-42 Pa. Const. Stat. § 9711,42 pa. const. stat. § 9711,Constitution,state_constitution,PA,1,1,1,2001,2001,false,unresolved
-42 Pa. Const. Stat. § 9762,42 pa. const. stat. § 9762,Constitution,state_constitution,PA,1,1,1,2000,2000,false,unresolved
-42 Pa. Const. Stat. § 9765,42 pa. const. stat. § 9765,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
-42 Pa. Const. Stat. § 9795.1,42 pa. const. stat. § 9795.1,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
 42 Pa. Const. Stat. § 9799.11-9799.75,42 pa. const. stat. § 9799.11-9799.75,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-42 Pa. Const. Stat.Ann. § 6802,42 pa. const. stat.ann. § 6802,Constitution,state_constitution,PA,1,1,1,1991,1991,false,unresolved
-42 Pa. Const. Stat.Ann. § 9541,42 pa. const. stat.ann. § 9541,Constitution,state_constitution,PA,1,1,1,1992,1992,false,unresolved
-42 Pa. Const.Stat. § 8351,42 pa. const.stat. § 8351,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-42 Pa. Const.Stat. § 8521,42 pa. const.stat. § 8521,Constitution,state_constitution,PA,1,1,1,1984,1984,false,unresolved
-42 Pa. Const.Stat. § 9712,42 pa. const.stat. § 9712,Constitution,state_constitution,PA,1,1,1,1992,1992,false,unresolved
-42 Pa. Const.Stat.Ann. § 5524,42 pa. const.stat.ann. § 5524,Constitution,state_constitution,PA,1,1,1,1985,1985,false,unresolved
-42 Pa. Const.Stat.Ann. § 8351,42 pa. const.stat.ann. § 8351,Constitution,state_constitution,PA,1,1,1,1988,1988,false,unresolved
-42 Pa. Const.Stat.Ann. § 8541,42 pa. const.stat.ann. § 8541,Constitution,state_constitution,PA,1,1,1,1992,1992,false,unresolved
-42 Pa. Const.Stat.Ann. § 8550,42 pa. const.stat.ann. § 8550,Constitution,state_constitution,PA,1,1,1,1992,1992,false,unresolved
-42 Pa. Const.Stat.Ann. § 931,42 pa. const.stat.ann. § 931,Constitution,state_constitution,PA,1,1,1,1982,1982,false,unresolved
 42 Pa. Stat and Const. Stat. § 8522,42 pa. stat and const. stat. § 8522,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
 42 Pa. Stat. & Const. Stat. § 5525,42 pa. stat. & const. stat. § 5525,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 42 Pa. Stat. and Const. Stat. Ann. § 5524,42 pa. stat. and const. stat. ann. § 5524,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
 42 Pa. Stat. and Const. Stat. Ann. § 5525,42 pa. stat. and const. stat. ann. § 5525,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 42 Pa. Stat. and Const. Stat. Ann. § 8301,42 pa. stat. and const. stat. ann. § 8301,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
 42 Pa. Stat. and Const. Stat. Ann. § 8302,42 pa. stat. and const. stat. ann. § 8302,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
-42 Pa.Const. Stat.Ann. § 9762,42 pa.const. stat.ann. § 9762,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
-42 Pa.Const.Stat.Ann. § 8302,42 pa.const.stat.ann. § 8302,Constitution,state_constitution,PA,1,1,1,1977,1977,false,unresolved
-42 Pa.Const.Stat.Ann. § 8309,42 pa.const.stat.ann. § 8309,Constitution,state_constitution,PA,1,1,1,1977,1977,false,unresolved
-42 Pa.Const.Stat.Ann. § 8321,42 pa.const.stat.ann. § 8321,Constitution,state_constitution,PA,1,1,1,1980,1980,false,unresolved
 43 Pa. Const. Stat. Ann. § 955,43 pa. const. stat. ann. § 955,Constitution,state_constitution,PA,1,1,1,1999,1999,false,unresolved
 43 Pa. Const. Stat. Ann. § 963,43 pa. const. stat. ann. § 963,Constitution,state_constitution,PA,1,1,1,2012,2012,false,unresolved
 43 Pa. Const. Stat. § 1421,43 pa. const. stat. § 1421,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
 43 Pa. Const. Stat. § 28,43 pa. const. stat. § 28,Constitution,state_constitution,PA,1,1,1,2007,2007,false,unresolved
 43 Pa. Const. Stat. § 962,43 pa. const. stat. § 962,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
 43 Pa. Const.Stat. Ann. § 260.3,43 pa. const.stat. ann. § 260.3,Constitution,state_constitution,PA,1,1,1,1993,1993,false,unresolved
-43 Pa. Const.Stat.Ann. § 1424,43 pa. const.stat.ann. § 1424,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-43 Pa. Const.Stat.Ann. § 1425,43 pa. const.stat.ann. § 1425,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
 43 Pa. Stat. and Const. Stat. Ann. § 954,43 pa. stat. and const. stat. ann. § 954,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 "437 Pa. 463 (1970), and Pa. Const. art. I § 11","437 pa. 463 (1970), and pa. const. art. i § 11",Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-"439 (1962). Pa.Const. of 1874, art. III § 32","439 (1962). pa.const. of 1874, art. iii § 32",Constitution,state_constitution,PA,1,1,1,1982,1982,false,unresolved
-44 Pa. Const. Stat. Ann. § 2303,44 pa. const. stat. ann. § 2303,Constitution,state_constitution,PA,1,1,1,2006,2006,false,unresolved
-44 Pa. Const. Stat. Ann. § 2316,44 pa. const. stat. ann. § 2316,Constitution,state_constitution,PA,1,1,1,2006,2006,false,unresolved
 "46 Pa. Const. of 1874, art. II § 7","46 pa. const. of 1874, art. ii § 7",Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 "463 (1970), and Pa. Const. art. I § 11","463 (1970), and pa. const. art. i § 11",Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-"465 (1971). Pa. Const, art. I § 1","465 (1971). pa. const, art. i § 1",Constitution,state_constitution,PA,1,1,1,1984,1984,false,unresolved
-"465 (1971). Pa. Const, art. I § 26","465 (1971). pa. const, art. i § 26",Constitution,state_constitution,PA,1,1,1,1984,1984,false,unresolved
 "48 Pa. Const. of 1838, art. VI § 9","48 pa. const. of 1838, art. vi § 9",Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
 5 Pa. Const. Art. 5,5 pa. const. art. 5,Constitution,state_constitution,PA,1,1,1,1972,1972,true,container
 5 Pa. Const. art I § 1,5 pa. const. art i § 1,Constitution,state_constitution,PA,1,1,1,2021,2021,true,exact
 5 Pa. Const. art. V (establishing,5 pa. const. art. v (establishing,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 50 Pa. Stat. & Const. Stat. § 7302,50 pa. stat. & const. stat. § 7302,Constitution,state_constitution,PA,1,1,1,2022,2022,false,unresolved
-50 Pa.Const.Stat. § 7301,50 pa.const.stat. § 7301,Constitution,state_constitution,PA,1,1,1,1988,1988,false,unresolved
 53 Pa. Const. Stat. Ann. § 10508,53 pa. const. stat. ann. § 10508,Constitution,state_constitution,PA,1,1,1,2006,2006,false,unresolved
 53 Pa. Const. Stat. § 13152,53 pa. const. stat. § 13152,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-54 Pa. Const. Stat. § 1123,54 pa. const. stat. § 1123,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
-54 Pa. Const. Stat. § 1124,54 pa. const. stat. § 1124,Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
 "6 I Pa. Const. Article VIII, section","6 i pa. const. article viii, section",Constitution,state_constitution,PA,1,1,1,1977,1977,false,unresolved
 6 Pa. Const. art 5 § 9,6 pa. const. art 5 § 9,Constitution,state_constitution,PA,1,1,1,2017,2017,true,exact
-61 Pa. Const. Stat. § 6111,61 pa. const. stat. § 6111,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-61 Pa. Const. Stat. § 6137,61 pa. const. stat. § 6137,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
-62 Pa. Const. Stat. Ann. § 3931,62 pa. const. stat. ann. § 3931,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-62 Pa. Const. Stat. Ann. § 3939,62 pa. const. stat. ann. § 3939,Constitution,state_constitution,PA,1,1,1,2004,2004,false,unresolved
-65 Pa. Const. Stat. § 1101.1,65 pa. const. stat. § 1101.1,Constitution,state_constitution,PA,1,1,1,2008,2008,false,unresolved
 65 Pa. Const. Stat. § 67.102,65 pa. const. stat. § 67.102,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 "65 Pa. Const. art. I, Sec","65 pa. const. art. i, sec",Constitution,state_constitution,PA,1,1,1,1989,1989,false,unresolved
 "68 Pa. Const. of 1968, art. III § 18","68 pa. const. of 1968, art. iii § 18",Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
@@ -2436,9 +2180,7 @@ XIV. Pa. Const. Art. I § 28,xiv. pa. const. art. i § 28,Constitution,state_con
 "70 (1961). Constitution of Pennsylvania, Art. II § 17","70 (1961). constitution of pennsylvania, art. ii § 17",Constitution,state_constitution,PA,1,1,1,1972,1972,false,unresolved
 70 Pa. Const. Stat. § 1-401,70 pa. const. stat. § 1-401,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
 70 Pa. Const. Stat. § 1-408,70 pa. const. stat. § 1-408,Constitution,state_constitution,PA,1,1,1,2024,2024,false,unresolved
-71 Pa. Const. Stat. § 251,71 pa. const. stat. § 251,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 71 Pa. Const. Stat. § 61,71 pa. const. stat. § 61,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-71 Pa. Const. Stat. § 67.1,71 pa. const. stat. § 67.1,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 71 Pa. Const. Stat. § 732-201,71 pa. const. stat. § 732-201,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 71 Pa. Const. Stat. § 784.7,71 pa. const. stat. § 784.7,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
 73 Pa. Const. Stat. § 201-2,73 pa. const. stat. § 201-2,Constitution,state_constitution,PA,1,1,1,2008,2008,false,unresolved
@@ -2446,21 +2188,9 @@ XIV. Pa. Const. Art. I § 28,xiv. pa. const. art. i § 28,Constitution,state_con
 73 Pa. Const. Stat. § 2270.4,73 pa. const. stat. § 2270.4,Constitution,state_constitution,PA,1,1,1,2008,2008,false,unresolved
 73 Pa. Const. § 201,73 pa. const. § 201,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
 73 Pa. Const. § 201-2,73 pa. const. § 201-2,Constitution,state_constitution,PA,1,1,1,2002,2002,false,unresolved
-74 Pa. Const. Stat. Ann § 1711,74 pa. const. stat. ann § 1711,Constitution,state_constitution,PA,1,1,1,2010,2010,false,unresolved
-75 Pa. Const. Stat. Ann. § 1532,75 pa. const. stat. ann. § 1532,Constitution,state_constitution,PA,1,1,1,2018,2018,false,unresolved
-75 Pa. Const. Stat. Ann. § 1702,75 pa. const. stat. ann. § 1702,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved
-75 Pa. Const. Stat. Ann. § 1738,75 pa. const. stat. ann. § 1738,Constitution,state_constitution,PA,1,1,1,1996,1996,false,unresolved
-75 Pa. Const. Stat. Ann. § 3314,75 pa. const. stat. ann. § 3314,Constitution,state_constitution,PA,1,1,1,2019,2019,false,unresolved
-75 Pa. Const. Stat. § 1718,75 pa. const. stat. § 1718,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-75 Pa. Const. Stat. § 1724,75 pa. const. stat. § 1724,Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-75 Pa. Const. Stat. § 3802,75 pa. const. stat. § 3802,Constitution,state_constitution,PA,1,1,1,2025,2025,false,unresolved
-75 Pa. Const. Stat.Ann. § 1305,75 pa. const. stat.ann. § 1305,Constitution,state_constitution,PA,1,1,1,1991,1991,false,unresolved
-75 Pa.Const.Stat.Ann. § 1305,75 pa.const.stat.ann. § 1305,Constitution,state_constitution,PA,1,1,1,1991,1991,false,unresolved
 77 Pa. Const. Stat. Ann. § 531,77 pa. const. stat. ann. § 531,Constitution,state_constitution,PA,1,1,1,1998,1998,false,unresolved
 77 Pa. Const. Stat. Ann. § 711.1,77 pa. const. stat. ann. § 711.1,Constitution,state_constitution,PA,1,1,1,1998,1998,false,unresolved
 77 Pa.Const. Stat. § 772,77 pa.const. stat. § 772,Constitution,state_constitution,PA,1,1,1,1996,1996,false,unresolved
-77 Pa.Const. Stat.Ann. § 732,77 pa.const. stat.ann. § 732,Constitution,state_constitution,PA,1,1,1,1990,1990,false,unresolved
-77 Pa.Const.Stat.Ann. § 732,77 pa.const.stat.ann. § 732,Constitution,state_constitution,PA,1,1,1,1990,1990,false,unresolved
 "888 (1967). Article 6, Section 7 of the Pennsylvania Constitution (P.S. Const. Art. 6 § 7","888 (1967). article 6, section 7 of the pennsylvania constitution (p.s. const. art. 6 § 7",Constitution,state_constitution,PA,1,1,1,1984,1984,false,unresolved
 Commonwealth Const. art. III § 26,commonwealth const. art. iii § 26,Constitution,state_constitution,PA,1,1,1,1974,1974,false,unresolved
 Const Art. VII § 6,const art. vii § 6,Constitution,state_constitution,PA,1,1,1,2007,2007,true,exact
@@ -2942,6 +2672,7 @@ Pa.Const. art. IX § 9,pa.const. art. ix § 9,Constitution,state_constitution,PA
 Pa.Const. art. V § 7,pa.const. art. v § 7,Constitution,state_constitution,PA,1,1,1,1978,1978,true,exact
 Pa.Const. of 1776 § 29,pa.const. of 1776 § 29,Constitution,state_constitution,PA,1,1,1,1981,1981,false,unresolved
 "Pa.Const. of 1874, art. I § 7","pa.const. of 1874, art. i § 7",Constitution,state_constitution,PA,1,1,1,1982,1982,true,exact
+"Pa.Const. of 1874, art. III § 32","pa.const. of 1874, art. iii § 32",Constitution,state_constitution,PA,1,1,1,1982,1982,true,exact
 Pa.Const.Art I § 6,pa.const.art i § 6,Constitution,state_constitution,PA,1,1,1,2019,2019,true,exact
 Pa.Const.Stat.Ann. § 3701,pa.const.stat.ann. § 3701,Constitution,state_constitution,PA,1,1,1,1979,1979,false,unresolved
 Pa.Constitution Art. I § 6,pa.constitution art. i § 6,Constitution,state_constitution,PA,1,1,1,1992,1992,true,exact
@@ -3416,9 +3147,5 @@ The Pennsylvania Constitution Art. I,the pennsylvania constitution art. i,Consti
 "The Pennsylvania Constitution, article III § 14","the pennsylvania constitution, article iii § 14",Constitution,state_constitution,PA,1,1,1,1981,1981,true,exact
 "The Pennsylvania Constitution, article VIII, sec. 19","the pennsylvania constitution, article viii, sec. 19",Constitution,state_constitution,PA,1,1,1,1965,1965,false,unresolved
 "U.S, Const,amend. XIV § 1","u.s, const,amend. xiv § 1",Constitution,state_constitution,PA,1,1,1,2016,2016,false,unresolved
-"U.S. 784 (1969). Pa. Const., art. I § 10","u.s. 784 (1969). pa. const., art. i § 10",Constitution,state_constitution,PA,1,1,1,1985,1985,false,unresolved
 U.S.. Const. Amend. V,u.s.. const. amend. v,Constitution,state_constitution,PA,1,1,1,1996,1996,true,exact
 "W.V. Const, art. XII,-","w.v. const, art. xii,-",Constitution,state_constitution,PA,1,1,1,2017,2017,false,unresolved
-XIV. 5 Pa. Const. art. I § 1,xiv. 5 pa. const. art. i § 1,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-XIV. 5 Pa. Const. art. I § 11,xiv. 5 pa. const. art. i § 11,Constitution,state_constitution,PA,1,1,1,2023,2023,false,unresolved
-XIV. 8 Pa. Const. art. I § 1,xiv. 8 pa. const. art. i § 1,Constitution,state_constitution,PA,1,1,1,2021,2021,false,unresolved

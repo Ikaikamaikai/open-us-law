@@ -41,6 +41,7 @@ Ala. Const. 1901 § 142,ala. const. 1901 § 142,Constitution,state_constitution,
 "Ala. Const., art. I § 14","ala. const., art. i § 14",Constitution,state_constitution,AL,24,8,3,1985,2022,true,exact
 Alabama Const. art. 1 § 5,alabama const. art. 1 § 5,Constitution,state_constitution,AL,24,15,4,1973,1998,true,exact
 Alabama Const. art. VI § 142,alabama const. art. vi § 142,Constitution,state_constitution,AL,24,20,2,2006,2025,true,exact
+"Alabama Constitution, Art. I § 6","alabama constitution, art. i § 6",Constitution,state_constitution,AL,24,13,2,1974,2024,true,exact
 Ala. Const. 1901 § 150,ala. const. 1901 § 150,Constitution,state_constitution,AL,23,16,3,2007,2016,true,exact
 Ala. Const. Art. I § 6,ala. const. art. i § 6,Constitution,state_constitution,AL,23,13,4,1974,2023,true,exact
 Alabama Const. art. 1 § 11,alabama const. art. 1 § 11,Constitution,state_constitution,AL,23,19,3,1973,2025,true,exact
@@ -49,7 +50,6 @@ Alabama Const. art. IV § 110,alabama const. art. iv § 110,Constitution,state_c
 Alabama Const. art. IV § 65,alabama const. art. iv § 65,Constitution,state_constitution,AL,23,13,3,1984,2023,true,exact
 Alabama Const. art. VI § 139,alabama const. art. vi § 139,Constitution,state_constitution,AL,23,18,2,2005,2025,true,exact
 Alabama Const. § 14,alabama const. § 14,Constitution,state_constitution,AL,23,21,4,1947,2014,true,exact
-"Alabama Constitution, Art. I § 6","alabama constitution, art. i § 6",Constitution,state_constitution,AL,23,13,2,1974,2024,true,exact
 "Ala. Const, of 1901 § 14","ala. const, of 1901 § 14",Constitution,state_constitution,AL,22,20,2,2005,2014,false,unresolved
 Ala. Const. art VIII § 177,ala. const. art viii § 177,Constitution,state_constitution,AL,22,1,1,2020,2020,true,exact
 Ala. Const. art. I § 16,ala. const. art. i § 16,Constitution,state_constitution,AL,22,10,5,1983,2022,true,exact
@@ -195,6 +195,7 @@ Ala. Const. 1901 § 149,ala. const. 1901 § 149,Constitution,state_constitution,
 "Ala. Const. 1901, Article I § 6","ala. const. 1901, article i § 6",Constitution,state_constitution,AL,7,7,1,1992,1996,true,exact
 Ala. Const. amend. 328 § 6.01,ala. const. amend. 328 § 6.01,Constitution,state_constitution,AL,7,6,4,1993,2010,false,unresolved
 "Ala. Const. amend. 328, Sec","ala. const. amend. 328, sec",Constitution,state_constitution,AL,7,1,1,1995,1995,false,unresolved
+Ala. Const. art. 1 § 6,ala. const. art. 1 § 6,Constitution,state_constitution,AL,7,3,2,1979,1988,true,exact
 Ala. Const. art. XI § 217,ala. const. art. xi § 217,Constitution,state_constitution,AL,7,2,2,1984,1994,true,exact
 "Ala. Const. of 1901, Amend. No. 328 § 6.11","ala. const. of 1901, amend. no. 328 § 6.11",Constitution,state_constitution,AL,7,5,2,2000,2002,false,unresolved
 Ala. Const. § 43,ala. const. § 43,Constitution,state_constitution,AL,7,5,3,1996,2001,true,exact
@@ -206,6 +207,7 @@ Alabama Const. art. I § 26,alabama const. art. i § 26,Constitution,state_const
 Alabama Const. art. IV § 51,alabama const. art. iv § 51,Constitution,state_constitution,AL,7,2,2,2008,2016,true,exact
 Alabama Const. art. V § 113,alabama const. art. v § 113,Constitution,state_constitution,AL,7,4,2,1998,2017,true,exact
 Alabama Constitution § 10-2A-247,alabama constitution § 10-2a-247,Constitution,state_constitution,AL,7,7,1,1983,1994,false,unresolved
+Alabama Constitution § 6,alabama constitution § 6,Constitution,state_constitution,AL,7,6,2,1958,1980,true,exact
 "Alabama Constitution, Art. 13 § 256","alabama constitution, art. 13 § 256",Constitution,state_constitution,AL,7,4,2,1976,2003,false,unresolved
 Ala. Const of 1901 § 100,ala. const of 1901 § 100,Constitution,state_constitution,AL,6,2,1,1996,1996,true,exact
 "Ala. Const, art. I § 20","ala. const, art. i § 20",Constitution,state_constitution,AL,6,2,1,1990,1997,true,exact
@@ -258,7 +260,6 @@ Alabama Const. § 11,alabama const. § 11,Constitution,state_constitution,AL,6,5
 Alabama Const. § 47,alabama const. § 47,Constitution,state_constitution,AL,6,5,1,1974,1986,true,exact
 "Alabama Const., art. I § 13","alabama const., art. i § 13",Constitution,state_constitution,AL,6,3,2,2024,2024,true,exact
 Alabama Constitution and Code 1975 § 12-16-55,alabama constitution and code 1975 § 12-16-55,Constitution,state_constitution,AL,6,5,2,1987,1996,false,unresolved
-Alabama Constitution § 6,alabama constitution § 6,Constitution,state_constitution,AL,6,6,2,1958,1980,true,exact
 Alabama Constitution § 6-3-7,alabama constitution § 6-3-7,Constitution,state_constitution,AL,6,6,2,1981,1992,false,unresolved
 "Alabama Constitution, Art. 1 § 14","alabama constitution, art. 1 § 14",Constitution,state_constitution,AL,6,3,2,1995,2000,true,exact
 "Alabama Constitution, Art. 1 § 6","alabama constitution, art. 1 § 6",Constitution,state_constitution,AL,6,3,2,1940,2000,true,exact
@@ -279,7 +280,6 @@ Ala. Const. 1901 § 8,ala. const. 1901 § 8,Constitution,state_constitution,AL,5
 Ala. Const. Amend. 743,ala. const. amend. 743,Constitution,state_constitution,AL,5,2,1,2023,2024,false,unresolved
 Ala. Const. Art. IV § 45,ala. const. art. iv § 45,Constitution,state_constitution,AL,5,3,2,1983,1988,true,exact
 Ala. Const. amend. 328 § 6.13,ala. const. amend. 328 § 6.13,Constitution,state_constitution,AL,5,5,3,1989,1996,false,unresolved
-Ala. Const. art. 1 § 6,ala. const. art. 1 § 6,Constitution,state_constitution,AL,5,3,2,1979,1983,true,exact
 Ala. Const. art. I § 26,ala. const. art. i § 26,Constitution,state_constitution,AL,5,3,3,1977,2003,true,exact
 Ala. Const. art. IX § 199,ala. const. art. ix § 199,Constitution,state_constitution,AL,5,3,1,1983,2000,true,exact
 "Ala. Const. of 1819, art. I § 23","ala. const. of 1819, art. i § 23",Constitution,state_constitution,AL,5,4,4,2021,2025,false,unresolved
@@ -400,7 +400,9 @@ Ala. Const. § 63,ala. const. § 63,Constitution,state_constitution,AL,4,2,1,202
 "Ala. Const., Art. 6 § 5","ala. const., art. 6 § 5",Constitution,state_constitution,AL,4,2,1,1974,1974,false,unresolved
 "Ala. Const., Art. I § 28","ala. const., art. i § 28",Constitution,state_constitution,AL,4,2,1,2010,2010,true,exact
 "Ala. Const., Art. I § 3","ala. const., art. i § 3",Constitution,state_constitution,AL,4,1,1,2017,2017,true,exact
+"Ala. Const., Art. I § 5","ala. const., art. i § 5",Constitution,state_constitution,AL,4,1,1,1961,1961,true,exact
 "Ala. Const., Art. IV § 30","ala. const., art. iv § 30",Constitution,state_constitution,AL,4,2,1,1996,1996,false,unresolved
+"Ala. Const., Art. IV § 56","ala. const., art. iv § 56",Constitution,state_constitution,AL,4,1,1,1951,1951,true,exact
 "Ala. Const., Art. IV § 72","ala. const., art. iv § 72",Constitution,state_constitution,AL,4,1,1,1993,1993,true,exact
 "Ala. Const., Art. IV § 94","ala. const., art. iv § 94",Constitution,state_constitution,AL,4,1,1,1983,1983,true,exact
 "Ala. Const., Art. V § 138","ala. const., art. v § 138",Constitution,state_constitution,AL,4,2,1,1997,1997,true,exact
@@ -490,6 +492,7 @@ Ala. Const. 1875 § 7,ala. const. 1875 § 7,Constitution,state_constitution,AL,3
 Ala. Const. 1901 § 10,ala. const. 1901 § 10,Constitution,state_constitution,AL,3,3,2,1997,2005,true,exact
 Ala. Const. 1901 § 100,ala. const. 1901 § 100,Constitution,state_constitution,AL,3,2,1,1992,1992,true,exact
 Ala. Const. 1901 § 112,ala. const. 1901 § 112,Constitution,state_constitution,AL,3,3,2,1995,2016,true,exact
+Ala. Const. 1901 § 113,ala. const. 1901 § 113,Constitution,state_constitution,AL,3,2,1,1990,2017,true,exact
 Ala. Const. 1901 § 173,ala. const. 1901 § 173,Constitution,state_constitution,AL,3,1,1,2017,2017,true,exact
 Ala. Const. 1901 § 175,ala. const. 1901 § 175,Constitution,state_constitution,AL,3,3,1,2008,2014,true,exact
 Ala. Const. 1901 § 2,ala. const. 1901 § 2,Constitution,state_constitution,AL,3,2,1,2010,2013,true,exact
@@ -521,6 +524,7 @@ Ala. Const. art. IV § 96,ala. const. art. iv § 96,Constitution,state_constitut
 Ala. Const. of 1901 § 12,ala. const. of 1901 § 12,Constitution,state_constitution,AL,3,3,2,1965,1991,true,exact
 Ala. Const. of 1901 § 60,ala. const. of 1901 § 60,Constitution,state_constitution,AL,3,3,1,1986,1995,true,exact
 "Ala. Const. of 1901, Amend. 328 § 6.11","ala. const. of 1901, amend. 328 § 6.11",Constitution,state_constitution,AL,3,2,2,1991,2003,false,unresolved
+"Ala. Const. of 1901, Art. IV § 104","ala. const. of 1901, art. iv § 104",Constitution,state_constitution,AL,3,1,1,2003,2003,true,exact
 "Ala. Const. of 1901, Art. V § 112","ala. const. of 1901, art. v § 112",Constitution,state_constitution,AL,3,3,2,1997,1998,true,exact
 "Ala. Const. of 1901, Art. V § 138","ala. const. of 1901, art. v § 138",Constitution,state_constitution,AL,3,1,1,1997,1997,true,exact
 Ala. Const. § 256,ala. const. § 256,Constitution,state_constitution,AL,3,2,2,2008,2018,true,exact
@@ -605,8 +609,6 @@ Const. U.S. Art. I § 10,const. u.s. art. i § 10,Constitution,state_constitutio
 7 Ala.Const. Art. IV § 45,7 ala.const. art. iv § 45,Constitution,state_constitution,AL,2,1,1,1980,1980,true,exact
 899 Ala. Const. Art. I § 13,899 ala. const. art. i § 13,Constitution,state_constitution,AL,2,1,1,1993,1993,false,unresolved
 8: Alabama: Ala.Const. art. 1 § 16,8: alabama: ala.const. art. 1 § 16,Constitution,state_constitution,AL,2,1,1,1979,1979,false,unresolved
-923 (1965). Ala. Const. art. 1 § 6,923 (1965). ala. const. art. 1 § 6,Constitution,state_constitution,AL,2,1,1,1988,1988,false,unresolved
-996 (Ala.1982). Neb. Const. art. I § 13,996 (ala.1982). neb. const. art. i § 13,Constitution,state_constitution,AL,2,1,1,1991,1991,false,unresolved
 "ALABAMA. Ala. Const, art. I § 23","alabama. ala. const, art. i § 23",Constitution,state_constitution,AL,2,1,1,1990,1990,false,unresolved
 ALABAMA. Ala. Const. art. I § 23,alabama. ala. const. art. i § 23,Constitution,state_constitution,AL,2,1,1,1990,1990,false,unresolved
 "ARFA, Ala. Const. Art. I § 3.01","arfa, ala. const. art. i § 3.01",Constitution,state_constitution,AL,2,1,1,2017,2017,true,exact
@@ -680,7 +682,6 @@ Ala. Const. 1819 § 13,ala. const. 1819 § 13,Constitution,state_constitution,AL
 Ala. Const. 1901 (Off.Recomp.). Article IV § 110,ala. const. 1901 (off.recomp.). article iv § 110,Constitution,state_constitution,AL,2,2,1,2009,2009,false,unresolved
 Ala. Const. 1901 art. I § 11,ala. const. 1901 art. i § 11,Constitution,state_constitution,AL,2,2,1,1995,1995,true,exact
 Ala. Const. 1901 § 111.06,ala. const. 1901 § 111.06,Constitution,state_constitution,AL,2,2,2,2011,2011,true,exact
-Ala. Const. 1901 § 113,ala. const. 1901 § 113,Constitution,state_constitution,AL,2,2,1,2005,2017,true,exact
 Ala. Const. 1901 § 12-2-7,ala. const. 1901 § 12-2-7,Constitution,state_constitution,AL,2,2,2,2000,2004,false,unresolved
 Ala. Const. 1901 § 138,ala. const. 1901 § 138,Constitution,state_constitution,AL,2,1,1,2008,2008,true,exact
 Ala. Const. 1901 § 148,ala. const. 1901 § 148,Constitution,state_constitution,AL,2,2,1,2017,2017,true,exact
@@ -694,6 +695,7 @@ Ala. Const. 1901 § 44,ala. const. 1901 § 44,Constitution,state_constitution,AL
 Ala. Const. 1901 § 47,ala. const. 1901 § 47,Constitution,state_constitution,AL,2,2,1,1982,2010,true,exact
 Ala. Const. 1901 § 60,ala. const. 1901 § 60,Constitution,state_constitution,AL,2,2,1,2005,2023,true,exact
 Ala. Const. 1901 § 93,ala. const. 1901 § 93,Constitution,state_constitution,AL,2,2,1,1988,1993,true,exact
+Ala. Const. 1901 § 96,ala. const. 1901 § 96,Constitution,state_constitution,AL,2,1,1,1992,2003,true,exact
 "Ala. Const. 1901, Art. I § 11","ala. const. 1901, art. i § 11",Constitution,state_constitution,AL,2,2,1,1991,2003,true,exact
 "Ala. Const. 1901, Art. I § 22","ala. const. 1901, art. i § 22",Constitution,state_constitution,AL,2,2,2,1986,1995,true,exact
 "Ala. Const. 1901, Art. I § 32","ala. const. 1901, art. i § 32",Constitution,state_constitution,AL,2,1,1,2005,2005,true,exact
@@ -820,7 +822,6 @@ Ala. Const. of 1901 § 6,ala. const. of 1901 § 6,Constitution,state_constitutio
 "Ala. Const. of 1901, Art. I § 35","ala. const. of 1901, art. i § 35",Constitution,state_constitution,AL,2,2,1,1990,1991,true,exact
 "Ala. Const. of 1901, Art. I § 5","ala. const. of 1901, art. i § 5",Constitution,state_constitution,AL,2,2,1,2000,2000,true,exact
 "Ala. Const. of 1901, Art. I § 8","ala. const. of 1901, art. i § 8",Constitution,state_constitution,AL,2,2,1,1989,1991,true,exact
-"Ala. Const. of 1901, Art. IV § 104","ala. const. of 1901, art. iv § 104",Constitution,state_constitution,AL,2,1,1,2003,2003,true,exact
 "Ala. Const. of 1901, art. I § 14","ala. const. of 1901, art. i § 14",Constitution,state_constitution,AL,2,2,1,2000,2000,true,exact
 "Ala. Const. of 1901, art. I § 5","ala. const. of 1901, art. i § 5",Constitution,state_constitution,AL,2,2,1,1987,1987,true,exact
 "Ala. Const. of 1901, art. V § 112","ala. const. of 1901, art. v § 112",Constitution,state_constitution,AL,2,2,2,2001,2020,true,exact
@@ -851,12 +852,10 @@ Ala. Const. § 96,ala. const. § 96,Constitution,state_constitution,AL,2,1,1,199
 "Ala. Const., Art. I § 15","ala. const., art. i § 15",Constitution,state_constitution,AL,2,1,1,2025,2025,true,exact
 "Ala. Const., Art. I § 22","ala. const., art. i § 22",Constitution,state_constitution,AL,2,1,1,1989,1989,true,exact
 "Ala. Const., Art. I § 32","ala. const., art. i § 32",Constitution,state_constitution,AL,2,1,1,1979,1979,true,exact
-"Ala. Const., Art. I § 5","ala. const., art. i § 5",Constitution,state_constitution,AL,2,1,1,1961,1961,true,exact
 "Ala. Const., Art. I § 7","ala. const., art. i § 7",Constitution,state_constitution,AL,2,1,1,1990,1990,true,exact
 "Ala. Const., Art. IV § 106","ala. const., art. iv § 106",Constitution,state_constitution,AL,2,1,1,1992,1992,true,exact
 "Ala. Const., Art. IV § 110","ala. const., art. iv § 110",Constitution,state_constitution,AL,2,1,1,1987,1987,true,exact
 "Ala. Const., Art. IV § 53","ala. const., art. iv § 53",Constitution,state_constitution,AL,2,1,1,1982,1982,true,exact
-"Ala. Const., Art. IV § 56","ala. const., art. iv § 56",Constitution,state_constitution,AL,2,1,1,1951,1951,true,exact
 "Ala. Const., Art. IV § 65","ala. const., art. iv § 65",Constitution,state_constitution,AL,2,1,1,2014,2014,true,exact
 "Ala. Const., Art. IV § 95","ala. const., art. iv § 95",Constitution,state_constitution,AL,2,1,1,1986,1986,true,exact
 "Ala. Const., Art. VI § 152","ala. const., art. vi § 152",Constitution,state_constitution,AL,2,1,1,1997,1997,true,exact
@@ -924,6 +923,7 @@ Ala.Const. § 104,ala.const. § 104,Constitution,state_constitution,AL,2,2,1,195
 Ala.Const. § 106,ala.const. § 106,Constitution,state_constitution,AL,2,2,1,1975,1975,true,exact
 Ala.Const. § 14,ala.const. § 14,Constitution,state_constitution,AL,2,1,1,1973,1973,true,exact
 Ala.Const. § 169,ala.const. § 169,Constitution,state_constitution,AL,2,1,1,1975,1975,false,unresolved
+Ala.Const. § 177,ala.const. § 177,Constitution,state_constitution,AL,2,1,1,1963,1963,true,exact
 Ala.Const. § 93-94,ala.const. § 93-94,Constitution,state_constitution,AL,2,2,1,1956,1956,false,unresolved
 "Ala.Const., Art. 4 § 104","ala.const., art. 4 § 104",Constitution,state_constitution,AL,2,1,1,1975,1975,true,exact
 "Ala.Const., Art. 4 § 110","ala.const., art. 4 § 110",Constitution,state_constitution,AL,2,2,1,1975,1975,true,exact
@@ -1140,26 +1140,17 @@ F.S.A.Const. Art. 10 § 4,f.s.a.const. art. 10 § 4,Constitution,state_constitut
 "The Alabama Constitution, Art. 4 § 89","the alabama constitution, art. 4 § 89",Constitution,state_constitution,AL,2,2,1,1975,1975,true,exact
 "The Alabama Constitution, Art. I § 6","the alabama constitution, art. i § 6",Constitution,state_constitution,AL,2,2,1,2011,2012,true,exact
 "XXXVIII. 11 E.g., Ala. Const, art. VIII § 182","xxxviii. 11 e.g., ala. const, art. viii § 182",Constitution,state_constitution,AL,2,1,1,1978,1978,false,unresolved
-1 Ala.Const. § 177,1 ala.const. § 177,Constitution,state_constitution,AL,1,1,1,1963,1963,false,unresolved
 1 Ala.Const. § 178,1 ala.const. § 178,Constitution,state_constitution,AL,1,1,1,1963,1963,false,unresolved
 104 (14) of the Alabama Constitution. § 104,104 (14) of the alabama constitution. § 104,Constitution,state_constitution,AL,1,1,1,1978,1978,false,unresolved
 "11 Am. Crim. L. Rev. 721 (1973). 7 E.g., Ala. Const. art. VIII § 182","11 am. crim. l. rev. 721 (1973). 7 e.g., ala. const. art. viii § 182",Constitution,state_constitution,AL,1,1,1,1978,1978,false,unresolved
 1196 (5th Cir. 1969). Alabama Const. art. XII  § 232,1196 (5th cir. 1969). alabama const. art. xii § 232,Constitution,state_constitution,AL,1,1,1,2008,2008,false,unresolved
 "1361 Amend. 14, and the Alabama Constitution of 1901, art. 1 § 13","1361 amend. 14, and the alabama constitution of 1901, art. 1 § 13",Constitution,state_constitution,AL,1,1,1,1979,1979,false,unresolved
 "1361 Amend. 14, and the Alabama Constitution of 1901, art. 1 § 6","1361 amend. 14, and the alabama constitution of 1901, art. 1 § 6",Constitution,state_constitution,AL,1,1,1,1979,1979,false,unresolved
-3 Alabama Constitution § 6,3 alabama constitution § 6,Constitution,state_constitution,AL,1,1,1,1975,1975,false,unresolved
-"30 Am. Hist. Rev. 511 (1925). Ala. Const., Art. IV § 56","30 am. hist. rev. 511 (1925). ala. const., art. iv § 56",Constitution,state_constitution,AL,1,1,1,1951,1951,false,unresolved
-"342 U.S. 165. Ala. Const., Art. I § 5","342 u.s. 165. ala. const., art. i § 5",Constitution,state_constitution,AL,1,1,1,1961,1961,false,unresolved
 "357 (Ala. 1987), and Alabama Constitution of 1901 § 60","357 (ala. 1987), and alabama constitution of 1901 § 60",Constitution,state_constitution,AL,1,1,1,1990,1990,false,unresolved
 415 the Constitution of Alabama of 1901 and Ala. Code 1975 § 40-9-1,415 the constitution of alabama of 1901 and ala. code 1975 § 40-9-1,Constitution,state_constitution,AL,1,1,1,2000,2000,false,unresolved
-416 So. 2d 996 (Ala. 1982). Neb. Const. art. I § 13,416 so. 2d 996 (ala. 1982). neb. const. art. i § 13,Constitution,state_constitution,AL,1,1,1,1991,1991,false,unresolved
-"511 (1925). Ala. Const., Art. IV § 56","511 (1925). ala. const., art. iv § 56",Constitution,state_constitution,AL,1,1,1,1951,1951,false,unresolved
 "6 Ala. Const. Art. 1, Section","6 ala. const. art. 1, section",Constitution,state_constitution,AL,1,1,1,1964,1964,false,unresolved
 "7 E.g., Ala. Const. art. VIII § 182","7 e.g., ala. const. art. viii § 182",Constitution,state_constitution,AL,1,1,1,1978,1978,false,unresolved
 82-344 (Ala. Const. Art IV § 106,82-344 (ala. const. art iv § 106,Constitution,state_constitution,AL,1,1,1,1983,1983,false,unresolved
-"945 Ala. Const. of 1901, Art. IV § 104","945 ala. const. of 1901, art. iv § 104",Constitution,state_constitution,AL,1,1,1,2003,2003,false,unresolved
-96 Ala. Const. 1901 § 96,96 ala. const. 1901 § 96,Constitution,state_constitution,AL,1,1,1,1992,1992,false,unresolved
-996 (Ala. 1982). Neb. Const. art. I § 13,996 (ala. 1982). neb. const. art. i § 13,Constitution,state_constitution,AL,1,1,1,1991,1991,false,unresolved
 "A.R.C.P. Ala.Const. of 1901, art. I § 11","a.r.c.p. ala.const. of 1901, art. i § 11",Constitution,state_constitution,AL,1,1,1,1982,1982,false,unresolved
 Ala Const. § 106,ala const. § 106,Constitution,state_constitution,AL,1,1,1,1998,1998,true,exact
 Ala Const. § 6.03,ala const. § 6.03,Constitution,state_constitution,AL,1,1,1,1981,1981,false,unresolved
@@ -1330,7 +1321,6 @@ Ala. Const. 1901 § 71.01,ala. const. 1901 § 71.01,Constitution,state_constitut
 Ala. Const. 1901 § 82,ala. const. 1901 § 82,Constitution,state_constitution,AL,1,1,1,1998,1998,true,exact
 Ala. Const. 1901 § 89,ala. const. 1901 § 89,Constitution,state_constitution,AL,1,1,1,2002,2002,true,exact
 Ala. Const. 1901 § 93.12,ala. const. 1901 § 93.12,Constitution,state_constitution,AL,1,1,1,2013,2013,true,exact
-Ala. Const. 1901 § 96,ala. const. 1901 § 96,Constitution,state_constitution,AL,1,1,1,2003,2003,true,exact
 "Ala. Const. 1901, Amend. 328 § 6.04","ala. const. 1901, amend. 328 § 6.04",Constitution,state_constitution,AL,1,1,1,1997,1997,false,unresolved
 "Ala. Const. 1901, Amend. 328 § 6.11","ala. const. 1901, amend. 328 § 6.11",Constitution,state_constitution,AL,1,1,1,1992,1992,false,unresolved
 "Ala. Const. 1901, Amend. No. 328 § 6.10","ala. const. 1901, amend. no. 328 § 6.10",Constitution,state_constitution,AL,1,1,1,2005,2005,false,unresolved
@@ -1615,7 +1605,6 @@ Ala.Const. of 1901 § 14,ala.const. of 1901 § 14,Constitution,state_constitutio
 "Ala.Const. of 1901, Art. I § 35","ala.const. of 1901, art. i § 35",Constitution,state_constitution,AL,1,1,1,1991,1991,true,exact
 "Ala.Const. of 1901, art. I § 13","ala.const. of 1901, art. i § 13",Constitution,state_constitution,AL,1,1,1,1981,1981,true,exact
 "Ala.Const. of 1901, art. I § 6","ala.const. of 1901, art. i § 6",Constitution,state_constitution,AL,1,1,1,1991,1991,true,exact
-Ala.Const. § 177,ala.const. § 177,Constitution,state_constitution,AL,1,1,1,1963,1963,true,exact
 Ala.Const. § 184,ala.const. § 184,Constitution,state_constitution,AL,1,1,1,1963,1963,false,unresolved
 Ala.Const. § 6,ala.const. § 6,Constitution,state_constitution,AL,1,1,1,1962,1962,true,exact
 "Ala.Const., 1901 § 222","ala.const., 1901 § 222",Constitution,state_constitution,AL,1,1,1,1975,1975,false,unresolved
@@ -1830,6 +1819,7 @@ Alabama Constitution § 16-21-1,alabama constitution § 16-21-1,Constitution,sta
 Alabama Constitution § 182,alabama constitution § 182,Constitution,state_constitution,AL,1,1,1,1977,1977,false,unresolved
 Alabama Constitution § 214,alabama constitution § 214,Constitution,state_constitution,AL,1,1,1,2014,2014,true,exact
 Alabama Constitution § 22,alabama constitution § 22,Constitution,state_constitution,AL,1,1,1,1934,1934,true,exact
+Alabama Constitution § 220,alabama constitution § 220,Constitution,state_constitution,AL,1,1,1,2007,2007,true,exact
 Alabama Constitution § 224,alabama constitution § 224,Constitution,state_constitution,AL,1,1,1,2006,2006,true,exact
 Alabama Constitution § 234,alabama constitution § 234,Constitution,state_constitution,AL,1,1,1,1954,1954,false,unresolved
 Alabama Constitution § 235,alabama constitution § 235,Constitution,state_constitution,AL,1,1,1,1960,1960,true,exact
@@ -2078,10 +2068,8 @@ Const.U.S. XIV Amend. § 1,const.u.s. xiv amend. § 1,Constitution,state_constit
 "Constitution of the State of Alabama, art. V","constitution of the state of alabama, art. v",Constitution,state_constitution,AL,1,1,1,1861,1861,false,unresolved
 "Constitution of the United States, Art. III","constitution of the united states, art. iii",Constitution,state_constitution,AL,1,1,1,1979,1979,false,unresolved
 "FELONS Ala. Const. of 1901, art. VIII § 182","felons ala. const. of 1901, art. viii § 182",Constitution,state_constitution,AL,1,1,1,1993,1993,false,unresolved
-III. Alabama Constitution § 220,iii. alabama constitution § 220,Constitution,state_constitution,AL,1,1,1,2007,2007,false,unresolved
 J. Const. Ala. 1901 § 220,j. const. ala. 1901 § 220,Constitution,state_constitution,AL,1,1,1,1923,1923,false,unresolved
 "See Alabama Constitution, Art. 13 § 256","see alabama constitution, art. 13 § 256",Constitution,state_constitution,AL,1,1,1,1976,1976,false,unresolved
 The Alabama Constitution art. I § 14,the alabama constitution art. i § 14,Constitution,state_constitution,AL,1,1,1,1980,1980,true,exact
 "The Alabama Constitution, Art. 1","the alabama constitution, art. 1",Constitution,state_constitution,AL,1,1,1,1985,1985,true,container
 "UAS. Ala. Const, of 1901, Art. XIV § 264","uas. ala. const, of 1901, art. xiv § 264",Constitution,state_constitution,AL,1,1,1,1991,1991,false,unresolved
-"VI. Alabama Constitution, Art. I § 6","vi. alabama constitution, art. i § 6",Constitution,state_constitution,AL,1,1,1,1987,1987,false,unresolved

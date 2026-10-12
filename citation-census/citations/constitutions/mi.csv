@@ -198,6 +198,8 @@ Michigan Constitution. MCL 769.25a,michigan constitution. mcl 769.25a,Constituti
 Mich. Const. 1963 art. 1 § 17,mich. const. 1963 art. 1 § 17,Constitution,state_constitution,MI,5,1,1,2025,2025,true,exact
 "Mich. Const. 1963, art. 5 § 2","mich. const. 1963, art. 5 § 2",Constitution,state_constitution,MI,5,5,3,2001,2022,true,exact
 Mich. Const. art. V § 26,mich. const. art. v § 26,Constitution,state_constitution,MI,5,2,2,2008,2022,true,exact
+"Michigan Const 1963, art 1 § 15","michigan const 1963, art 1 § 15",Constitution,state_constitution,MI,5,4,2,1970,2001,true,exact
+"Michigan Const 1963, art 6 § 28","michigan const 1963, art 6 § 28",Constitution,state_constitution,MI,5,3,1,1976,2017,true,exact
 Michigan Const. art. 1 § 24,michigan const. art. 1 § 24,Constitution,state_constitution,MI,5,3,1,2008,2016,true,exact
 Michigan Const. art. I § 1,michigan const. art. i § 1,Constitution,state_constitution,MI,5,2,1,2025,2025,true,exact
 Michigan Const. art. II § 8,michigan const. art. ii § 8,Constitution,state_constitution,MI,5,1,1,2008,2008,true,exact
@@ -293,7 +295,7 @@ Mich.Const. art. 2 § 9,mich.const. art. 2 § 9,Constitution,state_constitution,
 Mich.Const. art. I § 15,mich.const. art. i § 15,Constitution,state_constitution,MI,4,1,1,1970,1970,true,exact
 "Michigan (Const., Art. 4 § 46","michigan (const., art. 4 § 46",Constitution,state_constitution,MI,4,2,1,1988,1988,false,unresolved
 "Michigan (Mich. Const., Art. II § 6","michigan (mich. const., art. ii § 6",Constitution,state_constitution,MI,4,2,1,1970,1970,false,unresolved
-"Michigan Const 1963, art 1 § 15","michigan const 1963, art 1 § 15",Constitution,state_constitution,MI,4,4,2,1970,2001,true,exact
+"Michigan Const 1963, art 1 § 20","michigan const 1963, art 1 § 20",Constitution,state_constitution,MI,4,3,2,1968,1971,true,exact
 "Michigan Const 1963, art 4 § 24","michigan const 1963, art 4 § 24",Constitution,state_constitution,MI,4,2,1,1984,1984,true,exact
 "Michigan Const 1963, art 4 § 25","michigan const 1963, art 4 § 25",Constitution,state_constitution,MI,4,4,1,1978,1979,true,exact
 "Michigan Const 1963, art 6 § 6","michigan const 1963, art 6 § 6",Constitution,state_constitution,MI,4,4,1,2007,2007,true,exact
@@ -360,8 +362,6 @@ Mich. Const. art. V § 3,mich. const. art. v § 3,Constitution,state_constitutio
 "Michigan Const 1963, art 1 § 11","michigan const 1963, art 1 § 11",Constitution,state_constitution,MI,3,3,1,1974,1987,true,exact
 "Michigan Const 1963, art 1 § 17","michigan const 1963, art 1 § 17",Constitution,state_constitution,MI,3,3,2,1969,1988,true,exact
 "Michigan Const 1963, art 1 § 2","michigan const 1963, art 1 § 2",Constitution,state_constitution,MI,3,3,1,1982,1987,true,exact
-"Michigan Const 1963, art 1 § 20","michigan const 1963, art 1 § 20",Constitution,state_constitution,MI,3,3,2,1968,1971,true,exact
-"Michigan Const 1963, art 6 § 28","michigan const 1963, art 6 § 28",Constitution,state_constitution,MI,3,3,1,1976,1983,true,exact
 "Michigan Const 1963, art 8 § 2","michigan const 1963, art 8 § 2",Constitution,state_constitution,MI,3,3,2,1971,1975,true,exact
 "Michigan Const. 1908, art. 2 § 16","michigan const. 1908, art. 2 § 16",Constitution,state_constitution,MI,3,3,1,1942,1947,false,unresolved
 Michigan Const. art. 1 § 13,michigan const. art. 1 § 13,Constitution,state_constitution,MI,3,3,1,1982,1989,true,exact
@@ -423,7 +423,6 @@ Michigan Constitution article II § 9,michigan constitution article ii § 9,Cons
 Michigan Constitution. § 54,michigan constitution. § 54,Constitution,state_constitution,MI,3,3,2,1988,1998,false,unresolved
 "OF POWERS Const 1963, art 3 § 2","of powers const 1963, art 3 § 2",Constitution,state_constitution,MI,3,3,1,1989,2018,false,unresolved
 VI. Mich. Const. 1963 Art 1 § 2,vi. mich. const. 1963 art 1 § 2,Constitution,state_constitution,MI,3,3,1,2023,2023,true,exact
-"170 (1981). Mich. Const, art. VI § 5","170 (1981). mich. const, art. vi § 5",Constitution,state_constitution,MI,2,1,1,1985,1985,false,unresolved
 "2 (Mich. Const, art. I § 26","2 (mich. const, art. i § 26",Constitution,state_constitution,MI,2,1,1,2012,2012,false,unresolved
 "2 Mich. Const, art. VIII § 5","2 mich. const, art. viii § 5",Constitution,state_constitution,MI,2,1,1,2011,2011,true,exact
 "22 (1818), Mich. Const., Art. I § 7","22 (1818), mich. const., art. i § 7",Constitution,state_constitution,MI,2,1,1,2015,2015,false,unresolved
@@ -431,7 +430,6 @@ VI. Mich. Const. 1963 Art 1 § 2,vi. mich. const. 1963 art 1 § 2,Constitution,s
 "4 Mich. Const., art. IX § 24","4 mich. const., art. ix § 24",Constitution,state_constitution,MI,2,1,1,1979,1979,false,unresolved
 "5 Mich. Const, art. VIII § 5","5 mich. const, art. viii § 5",Constitution,state_constitution,MI,2,1,1,2012,2012,true,exact
 "6 (1846), Mich.Const. art. I § 3","6 (1846), mich.const. art. i § 3",Constitution,state_constitution,MI,2,1,1,1981,1981,false,unresolved
-"74 (2002). Michigan Const 1963, art 6 § 28","74 (2002). michigan const 1963, art 6 § 28",Constitution,state_constitution,MI,2,2,1,2017,2017,false,unresolved
 "CRC (Const 1963, art 5 § 29","crc (const 1963, art 5 § 29",Constitution,state_constitution,MI,2,2,1,1976,1976,false,unresolved
 "Constitution of Michigan, art. 5 § 21","constitution of michigan, art. 5 § 21",Constitution,state_constitution,MI,2,1,1,1931,1931,false,unresolved
 "Constitution of Michigan, article 4","constitution of michigan, article 4",Constitution,state_constitution,MI,2,2,1,1933,1933,false,unresolved
@@ -492,6 +490,7 @@ Mich. Const art. IV § 27,mich. const art. iv § 27,Constitution,state_constitut
 "Mich. Const, art. VI § 23","mich. const, art. vi § 23",Constitution,state_constitution,MI,2,1,1,2015,2015,true,exact
 "Mich. Const, art. VI § 3","mich. const, art. vi § 3",Constitution,state_constitution,MI,2,1,1,1989,1989,true,exact
 "Mich. Const, art. VI § 4","mich. const, art. vi § 4",Constitution,state_constitution,MI,2,1,1,2010,2010,true,exact
+"Mich. Const, art. VI § 5","mich. const, art. vi § 5",Constitution,state_constitution,MI,2,1,1,1985,1985,true,exact
 "Mich. Const, art. VIII § 5-6","mich. const, art. viii § 5-6",Constitution,state_constitution,MI,2,1,1,2011,2011,false,unresolved
 "Mich. Const, art. VIL § 34","mich. const, art. vil § 34",Constitution,state_constitution,MI,2,1,1,2002,2002,false,unresolved
 "Mich. Const, art. XII § 3","mich. const, art. xii § 3",Constitution,state_constitution,MI,2,1,1,2014,2014,true,exact
@@ -868,15 +867,11 @@ Supreme Court. Mich. Const. art. VI § 5,supreme court. mich. const. art. vi § 
 "XIV. Const 1963, art 1 § 17","xiv. const 1963, art 1 § 17",Constitution,state_constitution,MI,2,2,2,1974,1984,false,unresolved
 "XTV and Const 1963, art 1 § 17","xtv and const 1963, art 1 § 17",Constitution,state_constitution,MI,2,2,2,2013,2014,false,unresolved
 1 Mich. Const. Art I § 20,1 mich. const. art i § 20,Constitution,state_constitution,MI,1,1,1,2003,2003,true,exact
-"1 Michigan Const 1963, art 1 § 15","1 michigan const 1963, art 1 § 15",Constitution,state_constitution,MI,1,1,1,1972,1972,false,unresolved
 "11 B. Michigan Constitution of 1963, Article 1 § 5","11 b. michigan constitution of 1963, article 1 § 5",Constitution,state_constitution,MI,1,1,1,1979,1979,false,unresolved
 "147 Mich. 540. Const. 1908, art. 10 § 21","147 mich. 540. const. 1908, art. 10 § 21",Constitution,state_constitution,MI,1,1,1,1939,1939,false,unresolved
-"16 CJS, Const Law § 133","16 cjs, const law § 133",Constitution,state_constitution,MI,1,1,1,1973,1973,false,unresolved
 "164 Mich. 415, 129 N.W. 713 (1911). Const 1963, art 8 § 5","164 mich. 415, 129 n.w. 713 (1911). const 1963, art 8 § 5",Constitution,state_constitution,MI,1,1,1,1999,1999,false,unresolved
 "170 (1981). Mich. Const. art. VI, Sec","170 (1981). mich. const. art. vi, sec",Constitution,state_constitution,MI,1,1,1,1985,1985,false,unresolved
 "2 MCLA Const 1963, art 9 § 3","2 mcla const 1963, art 9 § 3",Constitution,state_constitution,MI,1,1,1,1974,1974,false,unresolved
-"25 Mich.L. Rev. 24, 24 (1926). Wyo. Const, art. 1 § 5","25 mich.l. rev. 24, 24 (1926). wyo. const, art. 1 § 5",Constitution,state_constitution,MI,1,1,1,1989,1989,false,unresolved
-"25 Mich.L. Rev. 24, 24 (1926). Wyo. Const. art. 1 § 5","25 mich.l. rev. 24, 24 (1926). wyo. const. art. 1 § 5",Constitution,state_constitution,MI,1,1,1,1989,1989,false,unresolved
 "3 Const 1908, art III § 8","3 const 1908, art iii § 8",Constitution,state_constitution,MI,1,1,1,1974,1974,false,unresolved
 "3 Mich. Const. of 1885, art. I § 5","3 mich. const. of 1885, art. i § 5",Constitution,state_constitution,MI,1,1,1,2003,2003,false,unresolved
 "36 Mich.L.Rev. 385, 407 (1938). V. N.J.Const. (1947), Art. IV § VII","36 mich.l.rev. 385, 407 (1938). v. n.j.const. (1947), art. iv § vii",Constitution,state_constitution,MI,1,1,1,1981,1981,false,unresolved
@@ -1489,7 +1484,6 @@ Michigan State Const. art. II § 12,michigan state const. art. ii § 12,Constitu
 "THE OATH CLAUSE Const 1963, art 11 § 1","the oath clause const 1963, art 11 § 1",Constitution,state_constitution,MI,1,1,1,2018,2018,false,unresolved
 "The Michigan Constitution, Art. 6 § 13","the michigan constitution, art. 6 § 13",Constitution,state_constitution,MI,1,1,1,1995,1995,true,exact
 "VA Const, Art VIII § 4","va const, art viii § 4",Constitution,state_constitution,MI,1,1,1,2000,2000,true,exact
-"VI. Michigan Const 1963, art 1 § 20","vi. michigan const 1963, art 1 § 20",Constitution,state_constitution,MI,1,1,1,1971,1971,false,unresolved
 "VIII. Const 1963, art 1 § 16","viii. const 1963, art 1 § 16",Constitution,state_constitution,MI,1,1,1,1983,1983,false,unresolved
 "W. V.A. Const., Art. VIII, ง","w. v.a. const., art. viii, ง",Constitution,state_constitution,MI,1,1,1,2000,2000,false,unresolved
 "WEAVER, J. Const 1963, art 1 § 15","weaver, j. const 1963, art 1 § 15",Constitution,state_constitution,MI,1,1,1,2005,2005,false,unresolved

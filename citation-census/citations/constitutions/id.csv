@@ -1,7 +1,7 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 Idaho Const. art. I § 17,idaho const. art. i § 17,Constitution,state_constitution,ID,842,381,8,1979,2026,true,exact
 Idaho Const. art. I § 13,idaho const. art. i § 13,Constitution,state_constitution,ID,440,243,6,1949,2026,true,exact
-Idaho Const. art. 1 § 13,idaho const. art. 1 § 13,Constitution,state_constitution,ID,399,213,4,1952,2025,true,exact
+Idaho Const. art. 1 § 13,idaho const. art. 1 § 13,Constitution,state_constitution,ID,400,213,4,1952,2025,true,exact
 Idaho Const. art. 1 § 17,idaho const. art. 1 § 17,Constitution,state_constitution,ID,337,128,6,1964,2025,true,exact
 Idaho Const. art. 5 § 9,idaho const. art. 5 § 9,Constitution,state_constitution,ID,265,130,2,1950,2019,true,exact
 Idaho Const. art. V § 9,idaho const. art. v § 9,Constitution,state_constitution,ID,203,87,1,1950,2026,true,exact
@@ -19,9 +19,9 @@ Idaho Const. art. I § 8,idaho const. art. i § 8,Constitution,state_constitutio
 Idaho Const. art. 2 § 1,idaho const. art. 2 § 1,Constitution,state_constitution,ID,80,38,2,1962,2025,true,exact
 Idaho Const. art. I § 14,idaho const. art. i § 14,Constitution,state_constitution,ID,80,36,4,1955,2026,true,exact
 Idaho Const. art. VIII § 3,idaho const. art. viii § 3,Constitution,state_constitution,ID,77,22,2,1948,2021,true,exact
+Idaho Const. art. 8 § 3,idaho const. art. 8 § 3,Constitution,state_constitution,ID,70,19,2,1959,2018,true,exact
 Idaho Const. art. XII § 2,idaho const. art. xii § 2,Constitution,state_constitution,ID,70,24,2,1983,2023,true,exact
 Idaho Const. Art. 5 § 9,idaho const. art. 5 § 9,Constitution,state_constitution,ID,68,27,1,1959,1993,true,exact
-Idaho Const. art. 8 § 3,idaho const. art. 8 § 3,Constitution,state_constitution,ID,68,19,2,1959,2018,true,exact
 Idaho Const. art. 1 § 18,idaho const. art. 1 § 18,Constitution,state_constitution,ID,62,29,6,1971,2021,true,exact
 Idaho Const. art. I § 16,idaho const. art. i § 16,Constitution,state_constitution,ID,62,30,3,1979,2022,true,exact
 Idaho Const. art. I § 2,idaho const. art. i § 2,Constitution,state_constitution,ID,60,36,3,1972,2026,true,exact
@@ -259,6 +259,7 @@ Idaho Constitution art. 1 § 7,idaho constitution art. 1 § 7,Constitution,state
 "Idaho Constitution, Art. I § 7","idaho constitution, art. i § 7",Constitution,state_constitution,ID,8,2,2,1962,1995,true,exact
 "Idaho Constitution, art. 1 § 19","idaho constitution, art. 1 § 19",Constitution,state_constitution,ID,8,2,1,1968,1968,true,exact
 "Idaho Constitution, art. 2 § 1","idaho constitution, art. 2 § 1",Constitution,state_constitution,ID,8,4,2,1948,1992,true,exact
+"Idaho Constitution, art. 3 § 19","idaho constitution, art. 3 § 19",Constitution,state_constitution,ID,8,2,1,1973,1973,true,exact
 "Idaho Constitution, art. 3 § 5","idaho constitution, art. 3 § 5",Constitution,state_constitution,ID,8,2,1,1984,1984,true,exact
 Idaho State Const. art. 12 § 2,idaho state const. art. 12 § 2,Constitution,state_constitution,ID,8,2,1,1983,1983,false,unresolved
 "Idaho Const. Art. 1, Sec","idaho const. art. 1, sec",Constitution,state_constitution,ID,7,5,2,1965,1972,false,unresolved
@@ -269,6 +270,8 @@ Idaho Const. art. III § 29,idaho const. art. iii § 29,Constitution,state_const
 Idaho Const. art. XX § 1,idaho const. art. xx § 1,Constitution,state_constitution,ID,7,3,1,1988,2017,true,exact
 Idaho Const. art. XX § 2,idaho const. art. xx § 2,Constitution,state_constitution,ID,7,5,2,2001,2024,true,exact
 "Idaho Const., art. 3 § 20","idaho const., art. 3 § 20",Constitution,state_constitution,ID,7,3,1,1969,1973,true,exact
+"Idaho Constitution, Art. VII § 2","idaho constitution, art. vii § 2",Constitution,state_constitution,ID,7,1,1,1967,1967,true,exact
+"Idaho Constitution, Art. VII § 5","idaho constitution, art. vii § 5",Constitution,state_constitution,ID,7,2,1,1967,2004,true,exact
 "Idaho Constitution, art. 1 § 6","idaho constitution, art. 1 § 6",Constitution,state_constitution,ID,7,5,1,1985,1990,true,exact
 "Idaho Const, art. 1 § 1","idaho const, art. 1 § 1",Constitution,state_constitution,ID,6,3,1,1971,1993,true,exact
 "Idaho Const, art. 1 § 17","idaho const, art. 1 § 17",Constitution,state_constitution,ID,6,3,2,1961,1993,true,exact
@@ -307,6 +310,7 @@ Idaho Const. art. XVIII § 6,idaho const. art. xviii § 6,Constitution,state_con
 "Idaho Const., Art. I § 13","idaho const., art. i § 13",Constitution,state_constitution,ID,6,3,2,1948,1962,true,exact
 "Idaho Const., Art. I § 14","idaho const., art. i § 14",Constitution,state_constitution,ID,6,2,1,1961,1966,true,exact
 "Idaho Const., Art. I § 4","idaho const., art. i § 4",Constitution,state_constitution,ID,6,3,1,1996,2017,true,exact
+"Idaho Const., art. 1 § 11","idaho const., art. 1 § 11",Constitution,state_constitution,ID,6,2,2,1995,2021,true,exact
 "Idaho Const., art. 5 § 6","idaho const., art. 5 § 6",Constitution,state_constitution,ID,6,3,1,1989,1992,true,exact
 "Idaho Const., art. I § 10","idaho const., art. i § 10",Constitution,state_constitution,ID,6,3,1,2016,2016,true,exact
 "Idaho Const., art. I § 13","idaho const., art. i § 13",Constitution,state_constitution,ID,6,3,1,1972,1984,true,exact
@@ -322,10 +326,7 @@ Idaho Constitution art. I § 8,idaho constitution art. i § 8,Constitution,state
 "Idaho Constitution, Art. 1 § 7","idaho constitution, art. 1 § 7",Constitution,state_constitution,ID,6,3,1,1976,1982,true,exact
 "Idaho Constitution, Art. I § 18","idaho constitution, art. i § 18",Constitution,state_constitution,ID,6,3,1,1964,1976,true,exact
 "Idaho Constitution, Art. V § 9","idaho constitution, art. v § 9",Constitution,state_constitution,ID,6,3,1,1972,1976,true,exact
-"Idaho Constitution, Art. VII § 2","idaho constitution, art. vii § 2",Constitution,state_constitution,ID,6,1,1,1967,1967,true,exact
-"Idaho Constitution, Art. VII § 5","idaho constitution, art. vii § 5",Constitution,state_constitution,ID,6,2,1,1967,2004,true,exact
 "Idaho Constitution, art. 1 § 18","idaho constitution, art. 1 § 18",Constitution,state_constitution,ID,6,3,1,1964,1990,true,exact
-"Idaho Constitution, art. 3 § 19","idaho constitution, art. 3 § 19",Constitution,state_constitution,ID,6,2,1,1973,1973,true,exact
 "Idaho Constitution, art. 7 § 13","idaho constitution, art. 7 § 13",Constitution,state_constitution,ID,6,4,1,1992,2006,true,exact
 "Idaho Constitution, art. 8 § 3","idaho constitution, art. 8 § 3",Constitution,state_constitution,ID,6,2,1,1991,2010,true,exact
 "The Idaho Constitution, art. 12 § 2","the idaho constitution, art. 12 § 2",Constitution,state_constitution,ID,6,6,2,1983,1992,true,exact
@@ -431,7 +432,6 @@ Idaho Const. art. XXI § 4,idaho const. art. xxi § 4,Constitution,state_constit
 "Idaho Const., Art. V § 9","idaho const., art. v § 9",Constitution,state_constitution,ID,4,2,1,1957,1957,true,exact
 "Idaho Const., Art. XXI § 19","idaho const., art. xxi § 19",Constitution,state_constitution,ID,4,2,1,2001,2001,true,exact
 "Idaho Const., Article 8 § 3","idaho const., article 8 § 3",Constitution,state_constitution,ID,4,2,1,1970,1970,true,exact
-"Idaho Const., art. 1 § 11","idaho const., art. 1 § 11",Constitution,state_constitution,ID,4,2,2,1995,2021,true,exact
 "Idaho Const., art. 1 § 16","idaho const., art. 1 § 16",Constitution,state_constitution,ID,4,2,1,1979,1979,true,exact
 "Idaho Const., art. 1 § 2","idaho const., art. 1 § 2",Constitution,state_constitution,ID,4,2,2,1986,1990,true,exact
 "Idaho Const., art. 1 § 6","idaho const., art. 1 § 6",Constitution,state_constitution,ID,4,2,1,1969,1969,true,exact
@@ -450,6 +450,7 @@ Idaho Const. art. XXI § 4,idaho const. art. xxi § 4,Constitution,state_constit
 Idaho Const.Art. 5 § 11,idaho const.art. 5 § 11,Constitution,state_constitution,ID,4,2,1,1982,1982,true,exact
 Idaho Constitution Art. 1 § 17,idaho constitution art. 1 § 17,Constitution,state_constitution,ID,4,1,1,1993,1993,true,exact
 Idaho Constitution Art. 1 § 2,idaho constitution art. 1 § 2,Constitution,state_constitution,ID,4,2,1,2003,2003,true,exact
+Idaho Constitution Art. 5 § 1,idaho constitution art. 5 § 1,Constitution,state_constitution,ID,4,2,1,1969,1969,true,exact
 Idaho Constitution Art. I § 19,idaho constitution art. i § 19,Constitution,state_constitution,ID,4,2,1,1997,1997,true,exact
 Idaho Constitution Art. I § 8,idaho constitution art. i § 8,Constitution,state_constitution,ID,4,1,1,1962,1962,true,exact
 Idaho Constitution art. 1 § 18,idaho constitution art. 1 § 18,Constitution,state_constitution,ID,4,2,1,1990,1990,true,exact
@@ -472,6 +473,7 @@ Idaho Constitution art. I § 14,idaho constitution art. i § 14,Constitution,sta
 "Idaho Constitution, and I.C. § 18-301","idaho constitution, and i.c. § 18-301",Constitution,state_constitution,ID,4,4,2,1982,1997,false,unresolved
 "Idaho Constitution, art. 1","idaho constitution, art. 1",Constitution,state_constitution,ID,4,4,1,1919,2009,true,exact
 "Idaho Constitution, art. 1 § 1","idaho constitution, art. 1 § 1",Constitution,state_constitution,ID,4,3,1,1971,2023,true,exact
+"Idaho Constitution, art. 1 § 10","idaho constitution, art. 1 § 10",Constitution,state_constitution,ID,4,2,1,1956,1956,true,exact
 "Idaho Constitution, art. 1 § 2","idaho constitution, art. 1 § 2",Constitution,state_constitution,ID,4,2,1,1968,1968,true,exact
 "Idaho Constitution, art. 5 § 1","idaho constitution, art. 5 § 1",Constitution,state_constitution,ID,4,2,1,1968,1968,true,exact
 "Idaho Constitution, article II, section 1","idaho constitution, article ii, section 1",Constitution,state_constitution,ID,4,4,1,2015,2015,true,exact
@@ -489,6 +491,7 @@ Supreme Court. Idaho Const. art. V § 2,supreme court. idaho const. art. v § 2,
 "Idaho Const, art. 5 § 17","idaho const, art. 5 § 17",Constitution,state_constitution,ID,3,1,1,1979,1979,true,exact
 "Idaho Const, art. 5 § 25","idaho const, art. 5 § 25",Constitution,state_constitution,ID,3,1,1,1979,1979,true,exact
 "Idaho Const, art. 5 § 27","idaho const, art. 5 § 27",Constitution,state_constitution,ID,3,1,1,1979,1979,true,exact
+Idaho Const. Art. 1 § 18,idaho const. art. 1 § 18,Constitution,state_constitution,ID,3,1,1,1959,1973,true,exact
 Idaho Const. Art. 15 § 3,idaho const. art. 15 § 3,Constitution,state_constitution,ID,3,1,1,1964,1964,true,exact
 "Idaho Const. Art. III, secs","idaho const. art. iii, secs",Constitution,state_constitution,ID,3,2,1,1962,1962,false,unresolved
 Idaho Const. Art. XV § 7,idaho const. art. xv § 7,Constitution,state_constitution,ID,3,1,1,2011,2011,true,exact
@@ -519,7 +522,6 @@ Idaho Constitution Article IX § 6,idaho constitution article ix § 6,Constituti
 "Idaho Constitution, Art. 3","idaho constitution, art. 3",Constitution,state_constitution,ID,3,3,1,1954,1986,true,container
 "Idaho Constitution, Art. II","idaho constitution, art. ii",Constitution,state_constitution,ID,3,3,1,1941,1966,true,exact
 "Idaho Constitution, Article 1 § 14","idaho constitution, article 1 § 14",Constitution,state_constitution,ID,3,3,1,1964,1977,true,exact
-"Idaho Constitution, art. 1 § 10","idaho constitution, art. 1 § 10",Constitution,state_constitution,ID,3,2,1,1956,1956,true,exact
 "Idaho Constitution, art. 1 § 21","idaho constitution, art. 1 § 21",Constitution,state_constitution,ID,3,3,1,1971,2023,true,exact
 Idaho Constitution. Art. 5 § 13,idaho constitution. art. 5 § 13,Constitution,state_constitution,ID,3,3,1,1994,2015,true,exact
 Idaho Constitution. Article 1 § 5,idaho constitution. article 1 § 5,Constitution,state_constitution,ID,3,3,1,1964,2023,true,exact
@@ -529,15 +531,11 @@ Idaho Constitution. § 1,idaho constitution. § 1,Constitution,state_constitutio
 Idaho Constitution. § 9,idaho constitution. § 9,Constitution,state_constitution,ID,3,3,1,1983,2019,false,unresolved
 "The Idaho Constitution, art. 1 § 6","the idaho constitution, art. 1 § 6",Constitution,state_constitution,ID,3,3,1,1988,1990,true,exact
 1 Idaho Const. Art. III § 28,1 idaho const. art. iii § 28,Constitution,state_constitution,ID,2,1,1,2014,2014,true,exact
-1215 (1937). Idaho Constitution Art. 5 § 1,1215 (1937). idaho constitution art. 5 § 1,Constitution,state_constitution,ID,2,2,1,1969,1969,false,unresolved
 14 Idaho Const. art. IV § 10,14 idaho const. art. iv § 10,Constitution,state_constitution,ID,2,1,1,2017,2017,true,exact
 2 Idaho Const. art. III § 38,2 idaho const. art. iii § 38,Constitution,state_constitution,ID,2,1,1,2014,2014,false,unresolved
 3 Idaho Const. art. I § 13,3 idaho const. art. i § 13,Constitution,state_constitution,ID,2,1,1,2013,2013,true,exact
 308 Idaho Const. art. IX § 1,308 idaho const. art. ix § 1,Constitution,state_constitution,ID,2,1,1,2018,2018,false,unresolved
-"326-327 (1943). Idaho Constitution, art. 3 § 19","326-327 (1943). idaho constitution, art. 3 § 19",Constitution,state_constitution,ID,2,2,1,1973,1973,false,unresolved
-780 (1967). Idaho Const. Art. 1 § 18,780 (1967). idaho const. art. 1 § 18,Constitution,state_constitution,ID,2,1,1,1973,1973,false,unresolved
 "792 (1911) (emphasis added). Idaho Const, art. 9 § 2","792 (1911) (emphasis added). idaho const, art. 9 § 2",Constitution,state_constitution,ID,2,1,1,1993,1993,false,unresolved
-"8 Idaho Const., art. 1 § 11","8 idaho const., art. 1 § 11",Constitution,state_constitution,ID,2,1,1,2021,2021,false,unresolved
 9 Idaho Const. art. I § 5,9 idaho const. art. i § 5,Constitution,state_constitution,ID,2,1,1,2010,2010,true,exact
 "Ann.St. Idaho Const, art. 1 § 7","ann.st. idaho const, art. 1 § 7",Constitution,state_constitution,ID,2,1,1,1972,1972,false,unresolved
 Cal.Const. Art. XIV § 3,cal.const. art. xiv § 3,Constitution,state_constitution,ID,2,1,1,1960,1960,true,exact
@@ -732,7 +730,6 @@ Idaho Constitution Art. 1 § 18,idaho constitution art. 1 § 18,Constitution,sta
 Idaho Constitution Art. 1 § 7,idaho constitution art. 1 § 7,Constitution,state_constitution,ID,2,1,1,1965,1965,true,exact
 Idaho Constitution Art. 15 § 3,idaho constitution art. 15 § 3,Constitution,state_constitution,ID,2,1,1,1975,1975,true,exact
 Idaho Constitution Art. 3 § 16,idaho constitution art. 3 § 16,Constitution,state_constitution,ID,2,1,1,1961,1961,true,exact
-Idaho Constitution Art. 5 § 1,idaho constitution art. 5 § 1,Constitution,state_constitution,ID,2,2,1,1969,1969,true,exact
 Idaho Constitution Art. 9 § 7,idaho constitution art. 9 § 7,Constitution,state_constitution,ID,2,1,1,1984,1984,true,exact
 Idaho Constitution Art. I § 7,idaho constitution art. i § 7,Constitution,state_constitution,ID,2,1,1,1976,1976,true,exact
 Idaho Constitution Art. IV § 1,idaho constitution art. iv § 1,Constitution,state_constitution,ID,2,2,1,2003,2003,true,exact
@@ -778,6 +775,7 @@ Idaho Constitution § 1,idaho constitution § 1,Constitution,state_constitution,
 "Idaho Constitution, Art. I, sec. 18","idaho constitution, art. i, sec. 18",Constitution,state_constitution,ID,2,2,1,1957,1957,true,exact
 "Idaho Constitution, Art. III","idaho constitution, art. iii",Constitution,state_constitution,ID,2,2,1,1962,1962,true,container
 "Idaho Constitution, Art. V § 20","idaho constitution, art. v § 20",Constitution,state_constitution,ID,2,1,1,2024,2024,true,exact
+"Idaho Constitution, Art. VII § 3","idaho constitution, art. vii § 3",Constitution,state_constitution,ID,2,1,1,1967,1967,true,exact
 "Idaho Constitution, Art. VII § 6","idaho constitution, art. vii § 6",Constitution,state_constitution,ID,2,1,1,1967,1967,true,exact
 "Idaho Constitution, Article 7 § 4","idaho constitution, article 7 § 4",Constitution,state_constitution,ID,2,2,1,1989,1989,true,exact
 "Idaho Constitution, Article 7 § 5","idaho constitution, article 7 § 5",Constitution,state_constitution,ID,2,2,1,1989,1989,true,exact
@@ -877,11 +875,7 @@ M.S.A.Const. art. 9 § 1,m.s.a.const. art. 9 § 1,Constitution,state_constitutio
 "1 Constitution of Idaho, art. 14 § 3","1 constitution of idaho, art. 14 § 3",Constitution,state_constitution,ID,1,1,1,1912,1912,false,unresolved
 "16 Idaho Const. art. 21, Sec","16 idaho const. art. 21, sec",Constitution,state_constitution,ID,1,1,1,1994,1994,false,unresolved
 18 Idaho Constitution Article I § 18,18 idaho constitution article i § 18,Constitution,state_constitution,ID,1,1,1,2000,2000,false,unresolved
-"2 Idaho Constitution, art. 1 § 10","2 idaho constitution, art. 1 § 10",Constitution,state_constitution,ID,1,1,1,1956,1956,false,unresolved
 "300 U.S. 414, 428. 20 Constitution of Idaho, Art. 5 § 20","300 u.s. 414, 428. 20 constitution of idaho, art. 5 § 20",Constitution,state_constitution,ID,1,1,1,1940,1940,false,unresolved
-"36 Idaho 648, 213 P. 337 (1923). Idaho Constitution, Art. VII § 2","36 idaho 648, 213 p. 337 (1923). idaho constitution, art. vii § 2",Constitution,state_constitution,ID,1,1,1,1967,1967,false,unresolved
-"36 Idaho 648, 213 P. 337 (1923). Idaho Constitution, Art. VII § 3","36 idaho 648, 213 p. 337 (1923). idaho constitution, art. vii § 3",Constitution,state_constitution,ID,1,1,1,1967,1967,false,unresolved
-"36 Idaho 648, 213 P. 337 (1923). Idaho Constitution, Art. VII § 5","36 idaho 648, 213 p. 337 (1923). idaho constitution, art. vii § 5",Constitution,state_constitution,ID,1,1,1,1967,1967,false,unresolved
 "57 S. Ct. 319, 81 L.Ed. 453. 7 Constitution of Idaho, Art. 5 § 20","57 s. ct. 319, 81 l.ed. 453. 7 constitution of idaho, art. 5 § 20",Constitution,state_constitution,ID,1,1,1,1938,1938,false,unresolved
 6 Idaho Constitution and I.C. § 31-2003,6 idaho constitution and i.c. § 31-2003,Constitution,state_constitution,ID,1,1,1,1988,1988,false,unresolved
 8 Constitution. IDAHO CONST. art. II § 1,8 constitution. idaho const. art. ii § 1,Constitution,state_constitution,ID,1,1,1,2015,2015,false,unresolved
@@ -942,7 +936,6 @@ Idaho Const art V § 3,idaho const art v § 3,Constitution,state_constitution,ID
 "Idaho Const, of 1889, art. I § 11","idaho const, of 1889, art. i § 11",Constitution,state_constitution,ID,1,1,1,2016,2016,true,exact
 Idaho Const. Art V § 9,idaho const. art v § 9,Constitution,state_constitution,ID,1,1,1,2010,2010,true,exact
 Idaho Const. Art. 1 § 13-14,idaho const. art. 1 § 13-14,Constitution,state_constitution,ID,1,1,1,1985,1985,false,unresolved
-Idaho Const. Art. 1 § 18,idaho const. art. 1 § 18,Constitution,state_constitution,ID,1,1,1,1959,1959,true,exact
 Idaho Const. Art. 1 § M),idaho const. art. 1 § m),Constitution,state_constitution,ID,1,1,1,1977,1977,false,unresolved
 "Idaho Const. Art. 1, sec","idaho const. art. 1, sec",Constitution,state_constitution,ID,1,1,1,1973,1973,false,unresolved
 Idaho Const. Art. 15 § 6,idaho const. art. 15 § 6,Constitution,state_constitution,ID,1,1,1,2019,2019,true,exact
@@ -961,7 +954,6 @@ Idaho Const. art 5 § 9,idaho const. art 5 § 9,Constitution,state_constitution,
 Idaho Const. art I § 18,idaho const. art i § 18,Constitution,state_constitution,ID,1,1,1,2023,2023,true,exact
 Idaho Const. art XIII § 3,idaho const. art xiii § 3,Constitution,state_constitution,ID,1,1,1,2003,2003,true,exact
 Idaho Const. art XX § 1,idaho const. art xx § 1,Constitution,state_constitution,ID,1,1,1,2015,2015,true,exact
-Idaho Const. art. 1 § l3,idaho const. art. 1 § l3,Constitution,state_constitution,ID,1,1,1,2014,2014,false,unresolved
 "Idaho Const. art. 1, ง","idaho const. art. 1, ง",Constitution,state_constitution,ID,1,1,1,1998,1998,false,unresolved
 Idaho Const. art. 10 § 1,idaho const. art. 10 § 1,Constitution,state_constitution,ID,1,1,1,2021,2021,true,exact
 Idaho Const. art. 11 § 13,idaho const. art. 11 § 13,Constitution,state_constitution,ID,1,1,1,1959,1959,true,exact
@@ -1096,7 +1088,6 @@ Idaho Constitution § 72-608,idaho constitution § 72-608,Constitution,state_con
 "Idaho Constitution, Art. 9 § 7","idaho constitution, art. 9 § 7",Constitution,state_constitution,ID,1,1,1,1977,1977,true,exact
 "Idaho Constitution, Art. I § 14","idaho constitution, art. i § 14",Constitution,state_constitution,ID,1,1,1,1967,1967,true,exact
 "Idaho Constitution, Art. III, sec. 20","idaho constitution, art. iii, sec. 20",Constitution,state_constitution,ID,1,1,1,2007,2007,true,exact
-"Idaho Constitution, Art. VII § 3","idaho constitution, art. vii § 3",Constitution,state_constitution,ID,1,1,1,1967,1967,true,exact
 "Idaho Constitution, Art. X","idaho constitution, art. x",Constitution,state_constitution,ID,1,1,1,1966,1966,true,container
 "Idaho Constitution, Article 1 § 17","idaho constitution, article 1 § 17",Constitution,state_constitution,ID,1,1,1,1990,1990,true,exact
 "Idaho Constitution, Article 11 § 13","idaho constitution, article 11 § 13",Constitution,state_constitution,ID,1,1,1,1969,1969,true,exact

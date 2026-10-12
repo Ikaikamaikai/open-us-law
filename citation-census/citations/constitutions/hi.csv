@@ -3,7 +3,7 @@ Hawaii Const. art. I § 7,hawaii const. art. i § 7,Constitution,state_constitut
 Hawaii Const. art. I § 5,hawaii const. art. i § 5,Constitution,state_constitution,HI,154,102,9,1970,2016,true,exact
 Hawaii Const. art. I § 14,hawaii const. art. i § 14,Constitution,state_constitution,HI,113,85,4,1980,2016,true,exact
 Haw. Const. art. I § 5,haw. const. art. i § 5,Constitution,state_constitution,HI,101,46,4,1995,2025,true,exact
-Haw. Const. art. I § 14,haw. const. art. i § 14,Constitution,state_constitution,HI,96,42,4,1986,2026,true,exact
+Haw. Const. art. I § 14,haw. const. art. i § 14,Constitution,state_constitution,HI,98,42,4,1986,2026,true,exact
 Hawaii Const. art. I § 10,hawaii const. art. i § 10,Constitution,state_constitution,HI,93,65,7,1973,2020,true,exact
 Hawaii Const. art. I § 6,hawaii const. art. i § 6,Constitution,state_constitution,HI,68,30,3,1982,2016,true,exact
 Haw. Const. art. I § 7,haw. const. art. i § 7,Constitution,state_constitution,HI,56,20,3,1985,2025,true,exact
@@ -150,6 +150,7 @@ Haw. Const. art. X § 6,haw. const. art. x § 6,Constitution,state_constitution,
 Haw. Const. art. XVI § 1,haw. const. art. xvi § 1,Constitution,state_constitution,HI,6,2,1,2014,2018,true,exact
 Haw. Const. art. XVI § 7,haw. const. art. xvi § 7,Constitution,state_constitution,HI,6,2,1,2001,2006,true,exact
 "Haw. Const., art. XVI § 2","haw. const., art. xvi § 2",Constitution,state_constitution,HI,6,3,2,2010,2014,true,exact
+"Hawaii Const, art. I § 11","hawaii const, art. i § 11",Constitution,state_constitution,HI,6,2,2,1969,1974,true,exact
 "Hawaii Const, art. V § 6","hawaii const, art. v § 6",Constitution,state_constitution,HI,6,3,1,1971,1981,true,exact
 Hawaii Const. art. IX § 1,hawaii const. art. ix § 1,Constitution,state_constitution,HI,6,5,2,1989,2015,true,exact
 Hawaii Const. art. IX § 5,hawaii const. art. ix § 5,Constitution,state_constitution,HI,6,3,1,1976,1976,true,exact
@@ -228,7 +229,6 @@ Haw. Const. art. XVII § 3,haw. const. art. xvii § 3,Constitution,state_constit
 "Haw. Const., art. XII § 6","haw. const., art. xii § 6",Constitution,state_constitution,HI,4,2,1,1990,1990,true,exact
 Haw.Const. art. IV § 6,haw.const. art. iv § 6,Constitution,state_constitution,HI,4,1,1,1973,1973,true,exact
 "Hawaii Const, art. 1 § 5","hawaii const, art. 1 § 5",Constitution,state_constitution,HI,4,2,1,1975,1982,true,exact
-"Hawaii Const, art. I § 11","hawaii const, art. i § 11",Constitution,state_constitution,HI,4,2,2,1969,1974,true,exact
 "Hawaii Const, art. I § 5","hawaii const, art. i § 5",Constitution,state_constitution,HI,4,2,2,1981,1982,true,exact
 "Hawaii Const, art. I § 6","hawaii const, art. i § 6",Constitution,state_constitution,HI,4,2,2,1979,2001,true,exact
 "Hawaii Const, art. I § 8","hawaii const, art. i § 8",Constitution,state_constitution,HI,4,2,1,1973,1974,true,exact
@@ -365,6 +365,7 @@ Haw. Const. Art. I § 4,haw. const. art. i § 4,Constitution,state_constitution,
 Haw. Const. Art. I § 7,haw. const. art. i § 7,Constitution,state_constitution,HI,2,1,1,2024,2024,true,exact
 Haw. Const. Art. IV § 2,haw. const. art. iv § 2,Constitution,state_constitution,HI,2,1,1,2013,2013,true,exact
 Haw. Const. Art. V § 5,haw. const. art. v § 5,Constitution,state_constitution,HI,2,1,1,1984,1984,true,exact
+Haw. Const. Art. VI § 1,haw. const. art. vi § 1,Constitution,state_constitution,HI,2,1,1,2021,2021,true,exact
 Haw. Const. Art. VI § 3,haw. const. art. vi § 3,Constitution,state_constitution,HI,2,1,1,1997,1997,true,exact
 "Haw. Const. Art. VI, Sec","haw. const. art. vi, sec",Constitution,state_constitution,HI,2,2,2,1991,2016,false,unresolved
 "Haw. Const. Art. VI, sections","haw. const. art. vi, sections",Constitution,state_constitution,HI,2,1,1,2021,2021,false,unresolved
@@ -385,7 +386,6 @@ Haw. Const. art. I § 19,haw. const. art. i § 19,Constitution,state_constitutio
 Haw. Const. art. I § 2,haw. const. art. i § 2,Constitution,state_constitution,HI,2,1,1,2024,2024,true,exact
 Haw. Const. art. I § 23--which,haw. const. art. i § 23--which,Constitution,state_constitution,HI,2,1,1,2012,2012,false,unresolved
 Haw. Const. art. I § 61,haw. const. art. i § 61,Constitution,state_constitution,HI,2,1,1,2014,2014,false,unresolved
-Haw. Const. art. I § l4,haw. const. art. i § l4,Constitution,state_constitution,HI,2,1,1,2010,2010,false,unresolved
 "Haw. Const. art. I, sec","haw. const. art. i, sec",Constitution,state_constitution,HI,2,2,1,2002,2002,false,unresolved
 "Haw. Const. art. I, section","haw. const. art. i, section",Constitution,state_constitution,HI,2,1,1,2013,2013,false,unresolved
 "Haw. Const. art. I, ง","haw. const. art. i, ง",Constitution,state_constitution,HI,2,2,1,2000,2009,false,unresolved
@@ -517,7 +517,6 @@ State Const. art. XII § 7,state const. art. xii § 7,Constitution,state_constit
 "UH, Hawaii Constitution, Art. IX § 4","uh, hawaii constitution, art. ix § 4",Constitution,state_constitution,HI,2,2,1,1981,1981,false,unresolved
 "XII. Haw. Const, art. XVI § 7","xii. haw. const, art. xvi § 7",Constitution,state_constitution,HI,2,1,1,1992,1992,true,exact
 XII. Haw. Const. art. XVI § 7,xii. haw. const. art. xvi § 7,Constitution,state_constitution,HI,2,1,1,2001,2001,true,exact
-"XIV. Hawaii Const, art. I § 11","xiv. hawaii const, art. i § 11",Constitution,state_constitution,HI,2,1,1,1974,1974,false,unresolved
 "XVII. Haw. Const, art. XVII § 3","xvii. haw. const, art. xvii § 3",Constitution,state_constitution,HI,2,1,1,2005,2005,true,exact
 1 Haw. Const. art I § 10,1 haw. const. art i § 10,Constitution,state_constitution,HI,1,1,1,2012,2012,true,exact
 1 Haw. Const. art I § 14,1 haw. const. art i § 14,Constitution,state_constitution,HI,1,1,1,2012,2012,true,exact
@@ -536,7 +535,6 @@ XII. Haw. Const. art. XVI § 7,xii. haw. const. art. xvi § 7,Constitution,state
 "Constitution of the State of Hawaii, Art. III","constitution of the state of hawaii, art. iii",Constitution,state_constitution,HI,1,1,1,1981,1981,false,unresolved
 "Constitution of the State of Hawaii, article I, section 13","constitution of the state of hawaii, article i, section 13",Constitution,state_constitution,HI,1,1,1,1991,1991,true,exact
 "Constitution of the State of Hawaii, article VIII, section 2","constitution of the state of hawaii, article viii, section 2",Constitution,state_constitution,HI,1,1,1,1988,1988,true,exact
-"ECF Nos. 11-1, 13. Haw. Const. Art. VI § 1","ecf nos. 11-1, 13. haw. const. art. vi § 1",Constitution,state_constitution,HI,1,1,1,2021,2021,false,unresolved
 "FSM Const, art. IV, 6","fsm const, art. iv, 6",Constitution,state_constitution,HI,1,1,1,1984,1984,false,unresolved
 "Formerly Hawaii Constitution, art. I § 8","formerly hawaii constitution, art. i § 8",Constitution,state_constitution,HI,1,1,1,1979,1979,false,unresolved
 "HHCA and Haw. Const., Article XII § 1","hhca and haw. const., article xii § 1",Constitution,state_constitution,HI,1,1,1,2024,2024,false,unresolved
@@ -567,7 +565,6 @@ Haw. Const art. I,haw. const art. i,Constitution,state_constitution,HI,1,1,1,201
 Haw. Const. Art I § 14,haw. const. art i § 14,Constitution,state_constitution,HI,1,1,1,2013,2013,true,exact
 Haw. Const. Art. I,haw. const. art. i,Constitution,state_constitution,HI,1,1,1,2006,2006,true,container
 "Haw. Const. Art. I, sec","haw. const. art. i, sec",Constitution,state_constitution,HI,1,1,1,2012,2012,false,unresolved
-Haw. Const. Art. VI § 1,haw. const. art. vi § 1,Constitution,state_constitution,HI,1,1,1,2021,2021,true,exact
 "Haw. Const. Art. VIII, sec","haw. const. art. viii, sec",Constitution,state_constitution,HI,1,1,1,2006,2006,false,unresolved
 "Haw. Const. Art. XI, section","haw. const. art. xi, section",Constitution,state_constitution,HI,1,1,1,2006,2006,false,unresolved
 Haw. Const. art I § 4,haw. const. art i § 4,Constitution,state_constitution,HI,1,1,1,2018,2018,true,exact

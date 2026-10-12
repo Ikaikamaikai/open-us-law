@@ -5,10 +5,10 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 Missouri Const. art. I § 10,missouri const. art. i § 10,Constitution,state_constitution,MO,546,354,5,1948,2025,true,exact
 Missouri Const. art. V § 3,missouri const. art. v § 3,Constitution,state_constitution,MO,459,342,4,1954,2025,true,exact
 Missouri Const. art. I § 18,missouri const. art. i § 18,Constitution,state_constitution,MO,448,280,5,1956,2025,false,unresolved
-"Mo. Const, art. V § 10","mo. const, art. v § 10",Constitution,state_constitution,MO,401,198,4,1977,2017,true,exact
+"Mo. Const, art. V § 10","mo. const, art. v § 10",Constitution,state_constitution,MO,403,198,4,1977,2017,true,exact
 Missouri Const. art. I § 19,missouri const. art. i § 19,Constitution,state_constitution,MO,346,203,4,1953,2025,true,exact
 Mo. Const. art. V § 3,mo. const. art. v § 3,Constitution,state_constitution,MO,327,157,4,1979,2025,true,exact
-Mo. Const. art. V § 10,mo. const. art. v § 10,Constitution,state_constitution,MO,313,150,3,1977,2025,true,exact
+Mo. Const. art. V § 10,mo. const. art. v § 10,Constitution,state_constitution,MO,319,150,3,1977,2025,true,exact
 Missouri Const. art. I § 13,missouri const. art. i § 13,Constitution,state_constitution,MO,307,184,6,1947,2025,true,exact
 Missouri Const. art. I § 15,missouri const. art. i § 15,Constitution,state_constitution,MO,287,202,5,1960,2025,true,exact
 Missouri Const. art. V § 18,missouri const. art. v § 18,Constitution,state_constitution,MO,256,197,2,1979,2025,true,exact
@@ -64,8 +64,8 @@ Missouri Const. art. V § 4,missouri const. art. v § 4,Constitution,state_const
 Mo. Const. art. V § 14,mo. const. art. v § 14,Constitution,state_constitution,MO,59,28,4,1986,2024,true,exact
 Missouri Const. art. I § 23,missouri const. art. i § 23,Constitution,state_constitution,MO,58,30,4,1975,2025,true,exact
 Missouri Const. art. V § 11,missouri const. art. v § 11,Constitution,state_constitution,MO,58,37,2,1966,2025,true,exact
+Missouri Const. art. VI § 18,missouri const. art. vi § 18,Constitution,state_constitution,MO,57,31,5,1961,2025,true,exact
 "Mo. Const, art. I § 22","mo. const, art. i § 22",Constitution,state_constitution,MO,57,29,5,1978,2017,false,unresolved
-Missouri Const. art. VI § 18,missouri const. art. vi § 18,Constitution,state_constitution,MO,56,31,5,1961,2025,true,exact
 Missouri Const. art. III § 50,missouri const. art. iii § 50,Constitution,state_constitution,MO,54,19,3,1978,2025,true,exact
 "Mo. Const, art. I § 15","mo. const, art. i § 15",Constitution,state_constitution,MO,54,25,2,1983,2014,true,exact
 "Mo. Const, art. X § 6","mo. const, art. x § 6",Constitution,state_constitution,MO,54,9,3,1981,1991,true,exact
@@ -165,6 +165,7 @@ Missouri Const. art. III § 29,missouri const. art. iii § 29,Constitution,state
 Missouri Const. art. III § 49,missouri const. art. iii § 49,Constitution,state_constitution,MO,22,14,2,1991,2024,true,exact
 "Mo. Const, art. I § 5","mo. const, art. i § 5",Constitution,state_constitution,MO,22,7,4,1986,2004,true,exact
 Mo. Const. Art. I § 15,mo. const. art. i § 15,Constitution,state_constitution,MO,22,10,2,1973,2017,true,exact
+Mo. Const. Art. X § 6,mo. const. art. x § 6,Constitution,state_constitution,MO,22,6,2,1977,2011,true,exact
 Mo. Const. art. V § 1,mo. const. art. v § 1,Constitution,state_constitution,MO,22,10,3,1985,2025,true,exact
 "Mo. Const., Art. V § 4","mo. const., art. v § 4",Constitution,state_constitution,MO,22,11,3,1988,2002,true,exact
 "Mo. Const., art. V § 10","mo. const., art. v § 10",Constitution,state_constitution,MO,22,10,1,1979,1996,true,exact
@@ -182,7 +183,6 @@ Mo. Const. art. III § 38,mo. const. art. iii § 38,Constitution,state_constitut
 Mo.Const. art. V § 4,mo.const. art. v § 4,Constitution,state_constitution,MO,21,12,1,1980,1996,true,exact
 Missouri Const. art. VI § 30,missouri const. art. vi § 30,Constitution,state_constitution,MO,20,13,5,1988,2025,true,exact
 "Mo. Const, art. V § 11","mo. const, art. v § 11",Constitution,state_constitution,MO,20,9,2,1984,2015,true,exact
-Mo. Const. Art. X § 6,mo. const. art. x § 6,Constitution,state_constitution,MO,20,6,2,1977,2011,true,exact
 Mo. Const. art. I § 5,mo. const. art. i § 5,Constitution,state_constitution,MO,20,6,2,1985,1997,true,exact
 Mo. Const. art. II § 1,mo. const. art. ii § 1,Constitution,state_constitution,MO,20,8,2,1987,2015,true,exact
 Mo. Const. art. V § 4,mo. const. art. v § 4,Constitution,state_constitution,MO,20,10,2,1980,2024,true,exact
@@ -546,6 +546,7 @@ Mo. Const. Art. III § 2,mo. const. art. iii § 2,Constitution,state_constitutio
 Mo. Const. Art. III § 39,mo. const. art. iii § 39,Constitution,state_constitution,MO,6,2,2,1994,2013,true,exact
 Mo. Const. Art. IV § 41,mo. const. art. iv § 41,Constitution,state_constitution,MO,6,3,1,1988,1995,true,exact
 Mo. Const. Art. IV § 7,mo. const. art. iv § 7,Constitution,state_constitution,MO,6,3,2,2000,2009,true,exact
+Mo. Const. Art. V § 22,mo. const. art. v § 22,Constitution,state_constitution,MO,6,2,2,1949,1978,true,exact
 Mo. Const. Art. VI § 26,mo. const. art. vi § 26,Constitution,state_constitution,MO,6,3,1,1984,2016,true,exact
 Mo. Const. Art. X § 17,mo. const. art. x § 17,Constitution,state_constitution,MO,6,3,2,1987,1991,true,exact
 Mo. Const. Art. X § 23,mo. const. art. x § 23,Constitution,state_constitution,MO,6,2,2,1987,2010,true,exact
@@ -659,7 +660,6 @@ Supreme Court of Missouri. Mo.Const. art. V § 2,supreme court of missouri. mo.c
 "241 Missouri 18 Mo. Const., Art. VIII § 2","241 missouri 18 mo. const., art. viii § 2",Constitution,state_constitution,MO,4,2,1,2005,2005,false,unresolved
 3 Mo. Const. art. V § 3,3 mo. const. art. v § 3,Constitution,state_constitution,MO,4,2,1,2022,2022,true,exact
 4 Mo. Const. art. III § 51,4 mo. const. art. iii § 51,Constitution,state_constitution,MO,4,2,1,2015,2015,true,exact
-46 (Mo.App.1980). Mo. Const. art. V § 10,46 (mo.app.1980). mo. const. art. v § 10,Constitution,state_constitution,MO,4,2,1,1987,1987,false,unresolved
 7 Mo. Const. art. V § 3,7 mo. const. art. v § 3,Constitution,state_constitution,MO,4,2,1,2015,2015,true,exact
 I. Mo. Const. Art. I § 8,i. mo. const. art. i § 8,Constitution,state_constitution,MO,4,2,1,1989,2017,true,exact
 IV. Mo. Const. art. V § 3,iv. mo. const. art. v § 3,Constitution,state_constitution,MO,4,2,1,2020,2020,true,exact
@@ -781,13 +781,13 @@ Mo. Const. Art. IV § 22,mo. const. art. iv § 22,Constitution,state_constitutio
 Mo. Const. Art. IV § 29,mo. const. art. iv § 29,Constitution,state_constitution,MO,4,1,1,1983,1983,true,exact
 Mo. Const. Art. IV § 30,mo. const. art. iv § 30,Constitution,state_constitution,MO,4,2,1,1988,2000,true,exact
 Mo. Const. Art. V § 11,mo. const. art. v § 11,Constitution,state_constitution,MO,4,2,1,2018,2021,true,exact
-Mo. Const. Art. V § 22,mo. const. art. v § 22,Constitution,state_constitution,MO,4,2,2,1949,1978,true,exact
 Mo. Const. Art. V § 4.1,mo. const. art. v § 4.1,Constitution,state_constitution,MO,4,2,2,1990,1999,false,unresolved
 Mo. Const. Art. V § 6,mo. const. art. v § 6,Constitution,state_constitution,MO,4,2,1,1983,1985,true,exact
 Mo. Const. Art. VI § 22,mo. const. art. vi § 22,Constitution,state_constitution,MO,4,2,1,1977,1977,true,exact
 Mo. Const. Art. VI § 7,mo. const. art. vi § 7,Constitution,state_constitution,MO,4,2,2,1988,2023,true,exact
 Mo. Const. Art. VI § 8,mo. const. art. vi § 8,Constitution,state_constitution,MO,4,1,1,2022,2022,true,exact
 Mo. Const. Art. X,mo. const. art. x,Constitution,state_constitution,MO,4,4,2,1973,2013,true,container
+Mo. Const. Art. X § 13,mo. const. art. x § 13,Constitution,state_constitution,MO,4,1,1,1980,1983,true,exact
 Mo. Const. Art. X § 15,mo. const. art. x § 15,Constitution,state_constitution,MO,4,2,1,1992,1993,true,exact
 Mo. Const. Art. X § 6.1,mo. const. art. x § 6.1,Constitution,state_constitution,MO,4,1,1,1988,1988,false,unresolved
 Mo. Const. Art. X § 6.2,mo. const. art. x § 6.2,Constitution,state_constitution,MO,4,1,1,1996,1996,false,unresolved
@@ -1082,15 +1082,12 @@ V.A.M.S.Const. art. V § 3,v.a.m.s.const. art. v § 3,Constitution,state_constit
 "1 Mo. Const., Art. 5 § 22","1 mo. const., art. 5 § 22",Constitution,state_constitution,MO,2,1,1,1954,1954,false,unresolved
 102 (Mo.App.1980) (Mo. Const. art. I § 14,102 (mo.app.1980) (mo. const. art. i § 14,Constitution,state_constitution,MO,2,1,1,1996,1996,false,unresolved
 11 Mo. Const. art. VI § 19,11 mo. const. art. vi § 19,Constitution,state_constitution,MO,2,1,1,2014,2014,true,exact
-13 (Mo. banc 1978). Mo.Const. Art. X § 13,13 (mo. banc 1978). mo.const. art. x § 13,Constitution,state_constitution,MO,2,1,1,1980,1980,false,unresolved
-143 (1946). Mo.Const. Art. X § 6,143 (1946). mo.const. art. x § 6,Constitution,state_constitution,MO,2,1,1,1977,1977,false,unresolved
 15 Mo. Const. art. III § 51,15 mo. const. art. iii § 51,Constitution,state_constitution,MO,2,1,1,2015,2015,true,exact
 15 Mo. Const. art. X § 2,15 mo. const. art. x § 2,Constitution,state_constitution,MO,2,1,1,2015,2015,true,exact
 18 Mo. Const. art. X § 4,18 mo. const. art. x § 4,Constitution,state_constitution,MO,2,1,1,2020,2020,true,exact
 "1A (West 1959). Missouri Const., Art. 1 § 22","1a (west 1959). missouri const., art. 1 § 22",Constitution,state_constitution,MO,2,1,1,1979,1979,false,unresolved
 "2 Mo. Const, art. V § 18","2 mo. const, art. v § 18",Constitution,state_constitution,MO,2,1,1,1994,1994,true,exact
 "2 Mo. Const, art. V § 26","2 mo. const, art. v § 26",Constitution,state_constitution,MO,2,1,1,1993,1993,true,exact
-22 (Mo.1967). Mo.Const. Art. V § 22,22 (mo.1967). mo.const. art. v § 22,Constitution,state_constitution,MO,2,1,1,1974,1974,false,unresolved
 "241 Mo. Mo. Const., Art. VIII § 2","241 mo. mo. const., art. viii § 2",Constitution,state_constitution,MO,2,1,1,1988,1988,false,unresolved
 "3 Mo. Const, art. V § 24","3 mo. const, art. v § 24",Constitution,state_constitution,MO,2,1,1,1972,1972,true,exact
 "3 Mo. Const, art. V, sec","3 mo. const, art. v, sec",Constitution,state_constitution,MO,2,2,1,2006,2011,false,unresolved
@@ -1098,7 +1095,6 @@ V.A.M.S.Const. art. V § 3,v.a.m.s.const. art. v § 3,Constitution,state_constit
 3 Mo. Const. Art. I § 15,3 mo. const. art. i § 15,Constitution,state_constitution,MO,2,1,1,2011,2011,true,exact
 3 Mo. Const. art. V § 21,3 mo. const. art. v § 21,Constitution,state_constitution,MO,2,1,1,2010,2010,true,exact
 "3 Mo. Const. art. V, sec","3 mo. const. art. v, sec",Constitution,state_constitution,MO,2,2,1,2011,2013,false,unresolved
-37 (Mo.1955). Mo.Const. art. V § 10,37 (mo.1955). mo.const. art. v § 10,Constitution,state_constitution,MO,2,1,1,1986,1986,false,unresolved
 378 (Mo.App.1977) and Mo.Const. Art. V § 2,378 (mo.app.1977) and mo.const. art. v § 2,Constitution,state_constitution,MO,2,1,1,1980,1980,false,unresolved
 "4 Mo. Const, art. V, sec","4 mo. const, art. v, sec",Constitution,state_constitution,MO,2,2,1,2008,2016,false,unresolved
 4 Mo. Const. art. V § 10,4 mo. const. art. v § 10,Constitution,state_constitution,MO,2,1,1,2019,2019,true,exact
@@ -1110,7 +1106,6 @@ V.A.M.S.Const. art. V § 3,v.a.m.s.const. art. v § 3,Constitution,state_constit
 51 Mo. Const. § 361.040,51 mo. const. § 361.040,Constitution,state_constitution,MO,2,1,1,1984,1984,false,unresolved
 51 Mo. Const. § 620.010,51 mo. const. § 620.010,Constitution,state_constitution,MO,2,1,1,1984,1984,false,unresolved
 543 (Mo.App.1975) and Mo.Const. Art. V § 2,543 (mo.app.1975) and mo.const. art. v § 2,Constitution,state_constitution,MO,2,1,1,1980,1980,false,unresolved
-"805 (Mo.App.1986). Mo. Const, art. V § 10","805 (mo.app.1986). mo. const, art. v § 10",Constitution,state_constitution,MO,2,1,1,1987,1987,false,unresolved
 "A. Missouri Constitution, art. I § 22","a. missouri constitution, art. i § 22",Constitution,state_constitution,MO,2,2,1,1981,1981,false,unresolved
 "A. Mo. Const, art. I § 28","a. mo. const, art. i § 28",Constitution,state_constitution,MO,2,1,1,1989,1989,true,exact
 "AHC. Mo. Const. art. XIV, sec","ahc. mo. const. art. xiv, sec",Constitution,state_constitution,MO,2,2,1,2022,2022,false,unresolved
@@ -1527,7 +1522,6 @@ Mo. Const. Art. VI  § 13,mo. const. art. vi § 13,Constitution,state_constituti
 Mo. Const. Art. VI § 25,mo. const. art. vi § 25,Constitution,state_constitution,MO,2,1,1,2022,2022,true,exact
 Mo. Const. Art. VIII § 18,mo. const. art. viii § 18,Constitution,state_constitution,MO,2,1,1,1998,1998,true,exact
 Mo. Const. Art. X § 10,mo. const. art. x § 10,Constitution,state_constitution,MO,2,1,1,1994,1994,true,exact
-Mo. Const. Art. X § 13,mo. const. art. x § 13,Constitution,state_constitution,MO,2,1,1,1983,1983,true,exact
 Mo. Const. Art. X § 16,mo. const. art. x § 16,Constitution,state_constitution,MO,2,2,2,1991,1995,true,exact
 Mo. Const. Art. X § 16-24,mo. const. art. x § 16-24,Constitution,state_constitution,MO,2,2,1,1994,2010,false,unresolved
 Mo. Const. Art. X § 18,mo. const. art. x § 18,Constitution,state_constitution,MO,2,1,1,1903,1903,true,exact
@@ -1907,7 +1901,6 @@ Y.A.M.S. Const. Art. 10 § 22,y.a.m.s. const. art. 10 § 22,Constitution,state_c
 "10 Mo. Const, art. I, and","10 mo. const, art. i, and",Constitution,state_constitution,MO,1,1,1,1977,1977,false,unresolved
 "11 Mo. Const, art. X, sec","11 mo. const, art. x, sec",Constitution,state_constitution,MO,1,1,1,2009,2009,false,unresolved
 "15 Mo. Const. art. III, sec","15 mo. const. art. iii, sec",Constitution,state_constitution,MO,1,1,1,2016,2016,false,unresolved
-"16 CJS, Const. Law § 266","16 cjs, const. law § 266",Constitution,state_constitution,MO,1,1,1,1949,1949,false,unresolved
 "18 Mo. Const. art. V, sections","18 mo. const. art. v, sections",Constitution,state_constitution,MO,1,1,1,2013,2013,false,unresolved
 "2 Mo. Const art. V, section","2 mo. const art. v, section",Constitution,state_constitution,MO,1,1,1,2002,2002,false,unresolved
 "2 Mo. Const, art. V, sec","2 mo. const, art. v, sec",Constitution,state_constitution,MO,1,1,1,2017,2017,false,unresolved
@@ -2155,7 +2148,6 @@ Missouri Const. art. VI § 36,missouri const. art. vi § 36,Constitution,state_c
 Missouri Const. art. VI § 5,missouri const. art. vi § 5,Constitution,state_constitution,MO,1,1,1,2014,2014,true,exact
 Missouri Const. art. VI § 6,missouri const. art. vi § 6,Constitution,state_constitution,MO,1,1,1,1921,1921,true,exact
 Missouri Const. art. VI § 9,missouri const. art. vi § 9,Constitution,state_constitution,MO,1,1,1,1988,1988,true,exact
-Missouri Const. art. VI § l8,missouri const. art. vi § l8,Constitution,state_constitution,MO,1,1,1,2017,2017,false,unresolved
 Missouri Const. art. VII § 10,missouri const. art. vii § 10,Constitution,state_constitution,MO,1,1,1,2004,2004,true,exact
 Missouri Const. art. VII § 12,missouri const. art. vii § 12,Constitution,state_constitution,MO,1,1,1,2006,2006,true,exact
 Missouri Const. art. VIII § 23,missouri const. art. viii § 23,Constitution,state_constitution,MO,1,1,1,2017,2017,true,exact
@@ -2653,6 +2645,7 @@ Mo. Const. Art. III § 3(c)(1)b,mo. const. art. iii § 3(c)(1)b,Constitution,sta
 "Mo. Const. Art. IV, Section","mo. const. art. iv, section",Constitution,state_constitution,MO,1,1,1,2001,2001,false,unresolved
 Mo. Const. Art. IX,mo. const. art. ix,Constitution,state_constitution,MO,1,1,1,2018,2018,false,unresolved
 Mo. Const. Art. IX  § 5,mo. const. art. ix § 5,Constitution,state_constitution,MO,1,1,1,1977,1977,true,exact
+Mo. Const. Art. IX § 7,mo. const. art. ix § 7,Constitution,state_constitution,MO,1,1,1,1950,1950,true,exact
 "Mo. Const. Art. IX, Sec","mo. const. art. ix, sec",Constitution,state_constitution,MO,1,1,1,1987,1987,false,unresolved
 "Mo. Const. Art. IX, Section","mo. const. art. ix, section",Constitution,state_constitution,MO,1,1,1,1984,1984,false,unresolved
 Mo. Const. Art. TV § 15,mo. const. art. tv § 15,Constitution,state_constitution,MO,1,1,1,1999,1999,false,unresolved
@@ -2681,7 +2674,6 @@ Mo. Const. Art. X § 3,mo. const. art. x § 3,Constitution,state_constitution,MO
 "Mo. Const. Art. XI, sec","mo. const. art. xi, sec",Constitution,state_constitution,MO,1,1,1,1988,1988,false,unresolved
 "Mo. Const. Art. XII, sec","mo. const. art. xii, sec",Constitution,state_constitution,MO,1,1,1,2016,2016,false,unresolved
 Mo. Const. Art. XIV § 1,mo. const. art. xiv § 1,Constitution,state_constitution,MO,1,1,1,2023,2023,true,exact
-Mo. Const. Art.. IX § 7,mo. const. art.. ix § 7,Constitution,state_constitution,MO,1,1,1,1950,1950,false,unresolved
 "Mo. Const. Art.V, Sec","mo. const. art.v, sec",Constitution,state_constitution,MO,1,1,1,2004,2004,false,unresolved
 "Mo. Const. Article 5, Section","mo. const. article 5, section",Constitution,state_constitution,MO,1,1,1,2008,2008,false,unresolved
 "Mo. Const. Article III , Section","mo. const. article iii , section",Constitution,state_constitution,MO,1,1,1,1987,1987,false,unresolved

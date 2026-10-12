@@ -126,6 +126,7 @@ Georgia Constitution (Code Ann. § 2-5403,georgia constitution (code ann. § 2-5
 "Const., amend. XIV, sec","const., amend. xiv, sec",Constitution,state_constitution,GA,6,6,2,1992,1998,false,unresolved
 "Ga. Const, art. IV § 2","ga. const, art. iv § 2",Constitution,state_constitution,GA,6,3,2,1994,2015,true,container
 "Ga. Const, art. VI § 4","ga. const, art. vi § 4",Constitution,state_constitution,GA,6,1,1,2002,2002,true,container
+"Ga. Const, art. VI § 9","ga. const, art. vi § 9",Constitution,state_constitution,GA,6,2,2,1989,2016,true,container
 "Ga. Const. Art. 1, Sec","ga. const. art. 1, sec",Constitution,state_constitution,GA,6,6,3,1949,2022,false,unresolved
 Ga. Const. Art. 6 § 2,ga. const. art. 6 § 2,Constitution,state_constitution,GA,6,3,3,1983,2014,true,container
 Ga. Const. Art. 6 § 4,ga. const. art. 6 § 4,Constitution,state_constitution,GA,6,3,1,2003,2005,true,container
@@ -178,7 +179,6 @@ Georgia Constitution and O.C.G.A. § 13-8-2,georgia constitution and o.c.g.a. §
 "Ga. Const, art. 6 § 7","ga. const, art. 6 § 7",Constitution,state_constitution,GA,4,1,1,1995,1995,true,container
 "Ga. Const, art. V § 2","ga. const, art. v § 2",Constitution,state_constitution,GA,4,2,2,2002,2011,true,container
 "Ga. Const, art. VI § 2","ga. const, art. vi § 2",Constitution,state_constitution,GA,4,2,2,1998,2008,true,container
-"Ga. Const, art. VI § 9","ga. const, art. vi § 9",Constitution,state_constitution,GA,4,2,2,1989,2016,true,container
 "Ga. Const, art. VIII § 1","ga. const, art. viii § 1",Constitution,state_constitution,GA,4,2,2,1997,2012,true,container
 Ga. Const. Art. 1 § 3,ga. const. art. 1 § 3,Constitution,state_constitution,GA,4,2,2,1980,2017,true,container
 Ga. Const. Art. 1 § 4,ga. const. art. 1 § 4,Constitution,state_constitution,GA,4,2,1,2012,2012,true,container
@@ -659,7 +659,6 @@ III. 6 Ga. Const. Art. VI § VI,iii. 6 ga. const. art. vi § vi,Constitution,sta
 "The Georgia Constitution, Art. VI","the georgia constitution, art. vi",Constitution,state_constitution,GA,2,2,2,1997,2000,false,unresolved
 "The Georgia Constitution, Art. VII","the georgia constitution, art. vii",Constitution,state_constitution,GA,2,2,1,1974,1974,false,unresolved
 "VI. 1983 Ga. Const., Art. VI, Sec","vi. 1983 ga. const., art. vi, sec",Constitution,state_constitution,GA,2,2,1,2001,2002,false,unresolved
-"1 (2006). Ga. Const, art. VI § 9","1 (2006). ga. const, art. vi § 9",Constitution,state_constitution,GA,1,1,1,2012,2012,false,unresolved
 "1 Ga. Const, of 1983, art. IV § I","1 ga. const, of 1983, art. iv § i",Constitution,state_constitution,GA,1,1,1,2002,2002,false,unresolved
 "1 Ga. Const. Art. I, Sec","1 ga. const. art. i, sec",Constitution,state_constitution,GA,1,1,1,2023,2023,false,unresolved
 "1 Ga. Const., Art. I, Sec","1 ga. const., art. i, sec",Constitution,state_constitution,GA,1,1,1,2000,2000,false,unresolved
@@ -674,8 +673,6 @@ III. 6 Ga. Const. Art. VI § VI,iii. 6 ga. const. art. vi § vi,Constitution,sta
 "15 Ga. Const. Art. I, Sec","15 ga. const. art. i, sec",Constitution,state_constitution,GA,1,1,1,2013,2013,false,unresolved
 "15 Ga. Const. Art. III, Sec","15 ga. const. art. iii, sec",Constitution,state_constitution,GA,1,1,1,2003,2003,false,unresolved
 "15 Ga. Const. of 1983, Art. IX, Sec. VI, Par. IV. 16 OCGA § 36-82-60","15 ga. const. of 1983, art. ix, sec. vi, par. iv. 16 ocga § 36-82-60",Constitution,state_constitution,GA,1,1,1,2001,2001,false,unresolved
-"16 CJS 489, Const. Law § 153","16 cjs 489, const. law § 153",Constitution,state_constitution,GA,1,1,1,1986,1986,false,unresolved
-"16 CJS 489, Const. Law § 154","16 cjs 489, const. law § 154",Constitution,state_constitution,GA,1,1,1,1986,1986,false,unresolved
 "17 Ga. Const. of 1983, Art. I § II","17 ga. const. of 1983, art. i § ii",Constitution,state_constitution,GA,1,1,1,2018,2018,false,unresolved
 "19 Ga. Const. art. 1, Sec","19 ga. const. art. 1, sec",Constitution,state_constitution,GA,1,1,1,1993,1993,false,unresolved
 "2 (1), of the Constitution of Georgia, Code (Ann.) § 2-5402","2 (1), of the constitution of georgia, code (ann.) § 2-5402",Constitution,state_constitution,GA,1,1,1,1950,1950,false,unresolved
@@ -1258,7 +1255,6 @@ Georgia Ga. Const. art. II § 2-701,georgia ga. const. art. ii § 2-701,Constitu
 "III. Ga. Const, art. V, sec","iii. ga. const, art. v, sec",Constitution,state_constitution,GA,1,1,1,2003,2003,false,unresolved
 IY of the Georgia Constitution (Ga. Code Ann. § 2-103,iy of the georgia constitution (ga. code ann. § 2-103,Constitution,state_constitution,GA,1,1,1,1974,1974,false,unresolved
 IY of the Georgia Constitution (Ga. Code Ann. § 2-104,iy of the georgia constitution (ga. code ann. § 2-104,Constitution,state_constitution,GA,1,1,1,1974,1974,false,unresolved
-"L. Rev. 1 (2006). Ga. Const, art. VI § 9","l. rev. 1 (2006). ga. const, art. vi § 9",Constitution,state_constitution,GA,1,1,1,2012,2012,false,unresolved
 "Our Constitution, article I, section III","our constitution, article i, section iii",Constitution,state_constitution,GA,1,1,1,1953,1953,false,unresolved
 "Our Georgia Constitution, Art. I","our georgia constitution, art. i",Constitution,state_constitution,GA,1,1,1,1971,1971,false,unresolved
 Par.IX of the 1983 Georgia Constitution (Code Ann. § 2-209,par.ix of the 1983 georgia constitution (code ann. § 2-209,Constitution,state_constitution,GA,1,1,1,1983,1983,false,unresolved

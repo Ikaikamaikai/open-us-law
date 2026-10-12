@@ -136,6 +136,7 @@ Ohio Const. art. II § 1d,ohio const. art. ii § 1d,Constitution,state_constitut
 "Ohio Const., art. I § 4","ohio const., art. i § 4",Constitution,state_constitution,OH,12,4,2,1995,2026,true,exact
 Ohio Constitution and Crim. R. 43,ohio constitution and crim. r. 43,Constitution,state_constitution,OH,12,12,1,2000,2026,false,unresolved
 Ohio Constitution and Crim. R. 46,ohio constitution and crim. r. 46,Constitution,state_constitution,OH,12,7,2,2005,2022,false,unresolved
+Ohio Constitution and Ohio Rev. Code Ann. § 2929.05,ohio constitution and ohio rev. code ann. § 2929.05,Constitution,state_constitution,OH,12,3,1,1994,1995,true,exact
 Ohio Constitution § 5,ohio constitution § 5,Constitution,state_constitution,OH,12,12,2,1923,2021,false,unresolved
 Ohio Constitution. § 1,ohio constitution. § 1,Constitution,state_constitution,OH,12,12,2,1986,2019,false,unresolved
 Ohio Constitution. § 5,ohio constitution. § 5,Constitution,state_constitution,OH,12,12,2,1980,2020,false,unresolved
@@ -175,6 +176,7 @@ Ohio Constitution § 7,ohio constitution § 7,Constitution,state_constitution,OH
 "Ohio Constitution, Article I § 10","ohio constitution, article i § 10",Constitution,state_constitution,OH,9,5,2,2006,2025,true,exact
 "Ohio Constitution, and Crim. R. 43","ohio constitution, and crim. r. 43",Constitution,state_constitution,OH,9,6,2,2002,2025,false,unresolved
 "Ohio Const, art. I § 4","ohio const, art. i § 4",Constitution,state_constitution,OH,8,3,3,1996,2003,true,exact
+"Ohio Const, art. I § 7","ohio const, art. i § 7",Constitution,state_constitution,OH,8,3,3,1977,1999,true,exact
 Ohio Const. Art. 4 § 4,ohio const. art. 4 § 4,Constitution,state_constitution,OH,8,4,1,1967,2006,true,exact
 Ohio Const. Art. IV § 5,ohio const. art. iv § 5,Constitution,state_constitution,OH,8,3,3,1991,2015,true,exact
 Ohio Const. art. 1  § 10,ohio const. art. 1 § 10,Constitution,state_constitution,OH,8,3,1,1999,2006,true,exact
@@ -221,8 +223,8 @@ Ohio Constitution. § 15,ohio constitution. § 15,Constitution,state_constitutio
 "Const., art. XVI § 1","const., art. xvi § 1",Constitution,state_constitution,OH,6,3,2,1969,2024,false,unresolved
 "Ohio Const, art. 1 § 5","ohio const, art. 1 § 5",Constitution,state_constitution,OH,6,2,2,1972,2007,true,exact
 "Ohio Const, art. I § 1","ohio const, art. i § 1",Constitution,state_constitution,OH,6,3,3,1997,2016,true,exact
-"Ohio Const, art. I § 7","ohio const, art. i § 7",Constitution,state_constitution,OH,6,3,3,1977,1999,true,exact
 "Ohio Const, art. II § 4","ohio const, art. ii § 4",Constitution,state_constitution,OH,6,3,1,1990,1992,true,exact
+"Ohio Const, art. VI § 3","ohio const, art. vi § 3",Constitution,state_constitution,OH,6,2,2,1977,2012,true,exact
 "Ohio Const. Art. 1, Section","ohio const. art. 1, section",Constitution,state_constitution,OH,6,5,2,1964,2026,false,unresolved
 Ohio Const. Art. II § 1,ohio const. art. ii § 1,Constitution,state_constitution,OH,6,3,3,2002,2025,true,exact
 Ohio Const. Art. II § 1g,ohio const. art. ii § 1g,Constitution,state_constitution,OH,6,1,1,2020,2020,true,exact
@@ -255,8 +257,6 @@ Ohio Constitution Art. 1 § 10,ohio constitution art. 1 § 10,Constitution,state
 Ohio Constitution Art. I § 10,ohio constitution art. i § 10,Constitution,state_constitution,OH,6,3,2,2019,2021,true,exact
 Ohio Constitution Article 1 § 10,ohio constitution article 1 § 10,Constitution,state_constitution,OH,6,2,1,2023,2024,true,exact
 Ohio Constitution and Crim. R. 7,ohio constitution and crim. r. 7,Constitution,state_constitution,OH,6,6,1,2002,2022,false,unresolved
-Ohio Constitution and Ohio Rev. Code Ann. § 2929.05,ohio constitution and ohio rev. code ann. § 2929.05,Constitution,state_constitution,OH,6,3,1,1994,1995,true,exact
-Ohio Constitution and Ohio Rev.Code Ann. § 2929.05,ohio constitution and ohio rev.code ann. § 2929.05,Constitution,state_constitution,OH,6,3,1,1994,1995,false,unresolved
 Ohio Constitution art. II § 34a,ohio constitution art. ii § 34a,Constitution,state_constitution,OH,6,2,1,2025,2025,true,exact
 Ohio Constitution § 35,ohio constitution § 35,Constitution,state_constitution,OH,6,6,4,1943,2002,false,unresolved
 Ohio Constitution § 9,ohio constitution § 9,Constitution,state_constitution,OH,6,6,2,1923,2022,false,unresolved
@@ -293,7 +293,6 @@ Ohio Constitution § 26,ohio constitution § 26,Constitution,state_constitution,
 Ohio State Const. art. 1 § 10,ohio state const. art. 1 § 10,Constitution,state_constitution,OH,5,4,2,1990,2011,false,unresolved
 U.S. Federal Constitution and Article I § 2,u.s. federal constitution and article i § 2,Constitution,state_constitution,OH,5,1,1,2008,2008,false,unresolved
 "1 Ohio 18 Ohio Const., Art. V § 1","1 ohio 18 ohio const., art. v § 1",Constitution,state_constitution,OH,4,2,1,2005,2005,false,unresolved
-"2 (1851). Ohio Const, art. VI § 3","2 (1851). ohio const, art. vi § 3",Constitution,state_constitution,OH,4,2,2,1977,1978,false,unresolved
 6 Ohio Const. art. VI § 2,6 ohio const. art. vi § 2,Constitution,state_constitution,OH,4,2,1,2015,2015,true,exact
 Ohio (Ohio Const. art. I § 1,ohio (ohio const. art. i § 1,Constitution,state_constitution,OH,4,2,1,2016,2016,false,unresolved
 "Ohio Const, art. I § 11","ohio const, art. i § 11",Constitution,state_constitution,OH,4,2,2,1989,1990,true,exact
@@ -448,7 +447,6 @@ Ohio. Const.Art.I,ohio. const.art.i,Constitution,state_constitution,OH,3,1,1,201
 "1 Ohio Const., art. II § 35","1 ohio const., art. ii § 35",Constitution,state_constitution,OH,2,1,1,1981,1981,false,unresolved
 "1 Ohio Ohio Const., Art. V § 1","1 ohio ohio const., art. v § 1",Constitution,state_constitution,OH,2,1,1,1988,1988,false,unresolved
 10 Ohio Const. art. IV § 13,10 ohio const. art. iv § 13,Constitution,state_constitution,OH,2,1,1,1993,1993,true,exact
-"1044 (1977). 5 Ohio Const, art. I § 7","1044 (1977). 5 ohio const, art. i § 7",Constitution,state_constitution,OH,2,1,1,1978,1978,false,unresolved
 "13 Ohio Const., Art. I § 10","13 ohio const., art. i § 10",Constitution,state_constitution,OH,2,1,1,1959,1959,false,unresolved
 "136 Ohio Const., Art. II § 34a","136 ohio const., art. ii § 34a",Constitution,state_constitution,OH,2,1,1,2020,2020,false,unresolved
 "14 (1970), and Ohio Const., art. IV § 4","14 (1970), and ohio const., art. iv § 4",Constitution,state_constitution,OH,2,1,1,2025,2025,false,unresolved
@@ -481,7 +479,6 @@ Ohio Const art 15 § 11,ohio const art 15 § 11,Constitution,state_constitution,
 "Ohio Const, art. IV § 1","ohio const, art. iv § 1",Constitution,state_constitution,OH,2,1,1,1983,1983,true,exact
 "Ohio Const, art. IV § 20","ohio const, art. iv § 20",Constitution,state_constitution,OH,2,1,1,1986,1986,true,exact
 "Ohio Const, art. VI § 2","ohio const, art. vi § 2",Constitution,state_constitution,OH,2,1,1,2013,2013,true,exact
-"Ohio Const, art. VI § 3","ohio const, art. vi § 3",Constitution,state_constitution,OH,2,1,1,2012,2012,true,exact
 "Ohio Const, art. VII § 1","ohio const, art. vii § 1",Constitution,state_constitution,OH,2,1,1,1995,1995,true,exact
 "Ohio Const, art. VIII § 12","ohio const, art. viii § 12",Constitution,state_constitution,OH,2,1,1,2003,2003,true,exact
 "Ohio Const, art. VIII § 13","ohio const, art. viii § 13",Constitution,state_constitution,OH,2,1,1,1985,1985,true,exact

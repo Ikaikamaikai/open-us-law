@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 Iowa Const. art. I § 8,iowa const. art. i § 8,Constitution,state_constitution,IA,2080,547,8,1966,2026,true,exact
-Iowa Const. art. I § 10,iowa const. art. i § 10,Constitution,state_constitution,IA,963,371,3,1962,2026,true,exact
+Iowa Const. art. I § 10,iowa const. art. i § 10,Constitution,state_constitution,IA,964,371,3,1962,2026,true,exact
 Iowa Const. art. I § 9,iowa const. art. i § 9,Constitution,state_constitution,IA,862,448,8,1930,2026,true,exact
 Iowa Const. art. I § 17,iowa const. art. i § 17,Constitution,state_constitution,IA,638,212,14,1974,2024,true,exact
 Iowa Const. art. I § 6,iowa const. art. i § 6,Constitution,state_constitution,IA,423,190,9,1965,2026,true,exact
@@ -87,6 +87,7 @@ Iowa Const. art. III § 9,iowa const. art. iii § 9,Constitution,state_constitut
 "Iowa Constitution article I, section 10","iowa constitution article i, section 10",Constitution,state_constitution,IA,12,7,2,2006,2024,true,exact
 Const. Art. III § 16,const. art. iii § 16,Constitution,state_constitution,IA,11,4,3,1978,1993,true,exact
 "Iowa Const, art I § 8","iowa const, art i § 8",Constitution,state_constitution,IA,11,1,1,2015,2015,true,exact
+"Iowa Const, art. I § 24","iowa const, art. i § 24",Constitution,state_constitution,IA,11,3,2,1979,2000,true,exact
 Iowa Const. art I § 6,iowa const. art i § 6,Constitution,state_constitution,IA,11,5,2,2014,2018,true,exact
 Iowa Const. art. I § 11,iowa const. art. i § 11,Constitution,state_constitution,IA,11,7,3,1990,2025,true,exact
 Iowa Const. art. III § 34,iowa const. art. iii § 34,Constitution,state_constitution,IA,11,8,2,1970,2019,true,exact
@@ -105,7 +106,6 @@ Iowa Constitution art. V § 6,iowa constitution art. v § 6,Constitution,state_c
 "Iowa Constitution, article I, section 10","iowa constitution, article i, section 10",Constitution,state_constitution,IA,10,10,2,1979,2016,true,exact
 "Iowa Constitution, article I, section 8","iowa constitution, article i, section 8",Constitution,state_constitution,IA,10,10,2,2012,2020,true,exact
 "Iowa Constitution, article I, section 9","iowa constitution, article i, section 9",Constitution,state_constitution,IA,10,10,2,1971,2019,true,exact
-"Iowa Const, art. I § 24","iowa const, art. i § 24",Constitution,state_constitution,IA,9,3,2,1979,2000,true,exact
 "Iowa Const., art. V § 15","iowa const., art. v § 15",Constitution,state_constitution,IA,9,3,2,2011,2012,true,exact
 "Iowa Constitution, article I, section 1","iowa constitution, article i, section 1",Constitution,state_constitution,IA,9,9,1,1987,2022,true,exact
 "Iowa Constitution, article I, section 17","iowa constitution, article i, section 17",Constitution,state_constitution,IA,9,9,3,2016,2022,true,exact
@@ -290,7 +290,6 @@ Iowa Constitution Article I § 4,iowa constitution article i § 4,Constitution,s
 13 Iowa Const. art. III § 1,13 iowa const. art. iii § 1,Constitution,state_constitution,IA,2,1,1,2008,2008,true,exact
 "23 Iowa Const, art. I § 10","23 iowa const, art. i § 10",Constitution,state_constitution,IA,2,1,1,2016,2016,true,exact
 5 Iowa Const. art. 1 § 21,5 iowa const. art. 1 § 21,Constitution,state_constitution,IA,2,1,1,2016,2016,true,exact
-"567 (1951). Iowa Const, art. I § 24","567 (1951). iowa const, art. i § 24",Constitution,state_constitution,IA,2,1,1,1979,1979,false,unresolved
 "7 Iowa Const., art. V § 8","7 iowa const., art. v § 8",Constitution,state_constitution,IA,2,1,1,2019,2019,false,unresolved
 Cal.Const. Art. I § 4,cal.const. art. i § 4,Constitution,state_constitution,IA,2,1,1,1982,1982,true,exact
 "Const. Iowa, art. 1 § 8","const. iowa, art. 1 § 8",Constitution,state_constitution,IA,2,2,1,2018,2018,false,unresolved
@@ -523,7 +522,6 @@ Iowa Const. art. 7 § 2,iowa const. art. 7 § 2,Constitution,state_constitution,
 Iowa Const. art. I § 22,iowa const. art. i § 22,Constitution,state_constitution,IA,1,1,1,2005,2005,true,exact
 Iowa Const. art. I § 29,iowa const. art. i § 29,Constitution,state_constitution,IA,1,1,1,2025,2025,false,unresolved
 Iowa Const. art. I § 6).2,iowa const. art. i § 6).2,Constitution,state_constitution,IA,1,1,1,2018,2018,false,unresolved
-Iowa Const. art. I § l0,iowa const. art. i § l0,Constitution,state_constitution,IA,1,1,1,2018,2018,false,unresolved
 "Iowa Const. art. I, secs","iowa const. art. i, secs",Constitution,state_constitution,IA,1,1,1,2018,2018,false,unresolved
 "Iowa Const. art. I, Â","iowa const. art. i, â",Constitution,state_constitution,IA,1,1,1,2000,2000,false,unresolved
 Iowa Const. art. II § 4,iowa const. art. ii § 4,Constitution,state_constitution,IA,1,1,1,1982,1982,true,exact

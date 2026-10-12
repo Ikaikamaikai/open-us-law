@@ -93,13 +93,14 @@ N.C. Const. art. IV § 3,n.c. const. art. iv § 3,Constitution,state_constitutio
 N.C. Const. art. XIV § 5,n.c. const. art. xiv § 5,Constitution,state_constitution,NC,32,11,3,1998,2023,true,exact
 North Carolina Const. art. I § 22,north carolina const. art. i § 22,Constitution,state_constitution,NC,32,26,2,1983,2024,true,exact
 "N.C. Const, art. I § 25","n.c. const, art. i § 25",Constitution,state_constitution,NC,31,13,3,1974,2011,true,exact
+N.C. Const. Art. I § 23,n.c. const. art. i § 23,Constitution,state_constitution,NC,31,17,2,1977,2025,true,exact
 North Carolina Const. art. I § 16,north carolina const. art. i § 16,Constitution,state_constitution,NC,31,20,2,1981,2023,true,exact
 "N.C. Const, art. II § 5","n.c. const, art. ii § 5",Constitution,state_constitution,NC,30,12,5,1996,2017,true,exact
-N.C. Const. Art. I § 23,n.c. const. art. i § 23,Constitution,state_constitution,NC,30,17,2,1983,2025,true,exact
 North Carolina Const. art. 1 § 23,north carolina const. art. 1 § 23,Constitution,state_constitution,NC,30,24,3,1974,2022,true,exact
 North Carolina Const. art. XIV § 3,north carolina const. art. xiv § 3,Constitution,state_constitution,NC,29,12,3,1967,2002,true,exact
 "N.C. Const, art. I","n.c. const, art. i",Constitution,state_constitution,NC,28,13,5,1978,2017,true,container
 "N.C. Const, art. I § 15","n.c. const, art. i § 15",Constitution,state_constitution,NC,28,12,5,1997,2016,true,exact
+N.C. Const. Art. IV § 12,n.c. const. art. iv § 12,Constitution,state_constitution,NC,28,13,3,1975,2019,true,exact
 N.C. Const. art. VI § 10,n.c. const. art. vi § 10,Constitution,state_constitution,NC,28,7,2,1992,2022,true,exact
 N.C. Const. art. XI § 1,n.c. const. art. xi § 1,Constitution,state_constitution,NC,28,9,3,1991,2025,true,exact
 North Carolina Const. art. IV § 12,north carolina const. art. iv § 12,Constitution,state_constitution,NC,28,18,2,1978,2022,true,exact
@@ -107,7 +108,6 @@ North Carolina Const. art. IV § 12,north carolina const. art. iv § 12,Constitu
 N.C. Const. art. I § 3,n.c. const. art. i § 3,Constitution,state_constitution,NC,27,9,2,2002,2025,true,exact
 North Carolina Const. art. 1 § 27,north carolina const. art. 1 § 27,Constitution,state_constitution,NC,27,15,3,1984,2025,true,exact
 "N.C. Const, art. IX § 7","n.c. const, art. ix § 7",Constitution,state_constitution,NC,26,10,4,1988,2013,true,exact
-N.C. Const. Art. IV § 12,n.c. const. art. iv § 12,Constitution,state_constitution,NC,26,13,3,1975,2019,true,exact
 N.C. Const. art. 1 § 19,n.c. const. art. 1 § 19,Constitution,state_constitution,NC,26,15,3,1980,2025,true,exact
 North Carolina Const. art. II § 29,north carolina const. art. ii § 29,Constitution,state_constitution,NC,26,11,2,1942,2002,false,unresolved
 N.C. Const. Art. I § 14,n.c. const. art. i § 14,Constitution,state_constitution,NC,25,10,3,1993,2026,true,exact
@@ -541,6 +541,7 @@ N.C. Const. of 1868 art. IX § 4,n.c. const. of 1868 art. ix § 4,Constitution,s
 "N.C. Const., Art. V, sec","n.c. const., art. v, sec",Constitution,state_constitution,NC,3,2,1,1948,1949,false,unresolved
 "N.C. Const., art II § 1","n.c. const., art ii § 1",Constitution,state_constitution,NC,3,1,1,1972,1972,true,exact
 "N.C. Const., art. I § 27","n.c. const., art. i § 27",Constitution,state_constitution,NC,3,2,2,1998,2014,true,exact
+N.C. Constitution Art. I § 19,n.c. constitution art. i § 19,Constitution,state_constitution,NC,3,2,1,2007,2014,true,exact
 "N.C. Constitution, Art. II § 24","n.c. constitution, art. ii § 24",Constitution,state_constitution,NC,3,3,1,1975,1977,true,exact
 N.C. Constitution. Art I § 2,n.c. constitution. art i § 2,Constitution,state_constitution,NC,3,3,1,2020,2020,true,exact
 North Carolina Const. art. 1 § 34,north carolina const. art. 1 § 34,Constitution,state_constitution,NC,3,2,2,1987,2019,true,exact
@@ -767,12 +768,12 @@ N.C. Const. of 1868 art. XIV § 3,n.c. const. of 1868 art. xiv § 3,Constitution
 "N.C. Const., art. I § 30","n.c. const., art. i § 30",Constitution,state_constitution,NC,2,1,1,1995,1995,true,exact
 "N.C. Const., art. I, section","n.c. const., art. i, section",Constitution,state_constitution,NC,2,1,1,1987,1987,false,unresolved
 "N.C. Const., art. II § 24","n.c. const., art. ii § 24",Constitution,state_constitution,NC,2,1,1,1978,1978,true,exact
+"N.C. Const., art. IV § 1","n.c. const., art. iv § 1",Constitution,state_constitution,NC,2,1,1,1978,1978,true,exact
 "N.C. Const., art. VI, IN","n.c. const., art. vi, in",Constitution,state_constitution,NC,2,2,1,2022,2022,false,unresolved
 "N.C. Const., art. VII § 1","n.c. const., art. vii § 1",Constitution,state_constitution,NC,2,1,1,1992,1992,true,exact
 "N.C. Const., art. X § 2","n.c. const., art. x § 2",Constitution,state_constitution,NC,2,1,1,2000,2000,true,exact
 N.C. Constit. Art. II § 3,n.c. constit. art. ii § 3,Constitution,state_constitution,NC,2,2,1,1994,1994,false,unresolved
 N.C. Constit. Art. II § 5,n.c. constit. art. ii § 5,Constitution,state_constitution,NC,2,2,1,1994,1994,false,unresolved
-N.C. Constitution Art. I § 19,n.c. constitution art. i § 19,Constitution,state_constitution,NC,2,2,1,2007,2014,true,exact
 "N.C. Constitution, Art. 1 § 19","n.c. constitution, art. 1 § 19",Constitution,state_constitution,NC,2,2,1,1965,1967,true,exact
 "N.C. Constitution, Art. I § 8","n.c. constitution, art. i § 8",Constitution,state_constitution,NC,2,2,1,1970,1970,true,exact
 "N.C. Constitution, Art. IV § 8","n.c. constitution, art. iv § 8",Constitution,state_constitution,NC,2,2,1,1961,1966,true,exact
@@ -896,14 +897,10 @@ UNC. N.C. Const. art. V § 2,unc. n.c. const. art. v § 2,Constitution,state_con
 "1 E.g., N.C. Const. art. II § 2","1 e.g., n.c. const. art. ii § 2",Constitution,state_constitution,NC,1,1,1,2024,2024,false,unresolved
 "1 E.g., N.C. Const. art. II § 4","1 e.g., n.c. const. art. ii § 4",Constitution,state_constitution,NC,1,1,1,2024,2024,false,unresolved
 "112 N.C., 54. (9) Constitution, Article X § 4","112 n.c., 54. (9) constitution, article x § 4",Constitution,state_constitution,NC,1,1,1,1901,1901,false,unresolved
-"177 N.C. 508, 99 S.E. 432 (1919). N.C. Const., art. IV § 1","177 n.c. 508, 99 s.e. 432 (1919). n.c. const., art. iv § 1",Constitution,state_constitution,NC,1,1,1,1978,1978,false,unresolved
 "1973b (a) (1964 ed., Supp. III). 3 N.C. Const., Art. VI § 4","1973b (a) (1964 ed., supp. iii). 3 n.c. const., art. vi § 4",Constitution,state_constitution,NC,1,1,1,1969,1969,false,unresolved
 "3 N.C. Const. of 1868, art. IV § 1","3 n.c. const. of 1868, art. iv § 1",Constitution,state_constitution,NC,1,1,1,2025,2025,false,unresolved
 "3 N.C. Const., Art. VI § 4","3 n.c. const., art. vi § 4",Constitution,state_constitution,NC,1,1,1,1969,1969,false,unresolved
-319 (2003)). III. N.C. Constitution Art. I § 19,319 (2003)). iii. n.c. constitution art. i § 19,Constitution,state_constitution,NC,1,1,1,2014,2014,false,unresolved
-"346 U.S. 938, 98 L. Ed. 426 (1954). N.C. Const. Art. IV § 12","346 u.s. 938, 98 l. ed. 426 (1954). n.c. const. art. iv § 12",Constitution,state_constitution,NC,1,1,1,2012,2012,false,unresolved
 "422 U.S. 806, 45 L. Ed. 2d 562 (1975), and N.C. Const. art. I § 23","422 u.s. 806, 45 l. ed. 2d 562 (1975), and n.c. const. art. i § 23",Constitution,state_constitution,NC,1,1,1,2016,2016,false,unresolved
-426 (1954). N.C. Const. Art. IV § 12,426 (1954). n.c. const. art. iv § 12,Constitution,state_constitution,NC,1,1,1,2012,2012,false,unresolved
 "562 (1975), and N.C. Const. art. I § 23)","562 (1975), and n.c. const. art. i § 23)",Constitution,state_constitution,NC,1,1,1,2016,2016,false,unresolved
 "59 N.C. Const., Art. I, sec","59 n.c. const., art. i, sec",Constitution,state_constitution,NC,1,1,1,1939,1939,false,unresolved
 "6 N.C. Const, art. II § 2","6 n.c. const, art. ii § 2",Constitution,state_constitution,NC,1,1,1,2016,2016,true,exact
@@ -1044,7 +1041,6 @@ N.C. Const. Art. V § 7,n.c. const. art. v § 7,Constitution,state_constitution,
 "N.C. Const. Art. V, Sec","n.c. const. art. v, sec",Constitution,state_constitution,NC,1,1,1,1973,1973,false,unresolved
 N.C. Const. Art. X § 1-2,n.c. const. art. x § 1-2,Constitution,state_constitution,NC,1,1,1,2002,2002,false,unresolved
 N.C. Const. Art. XXXIX,n.c. const. art. xxxix,Constitution,state_constitution,NC,1,1,1,2024,2024,false,unresolved
-N.C. Const. Art.. I § 23,n.c. const. art.. i § 23,Constitution,state_constitution,NC,1,1,1,1977,1977,false,unresolved
 N.C. Const. art I. § 30,n.c. const. art i. § 30,Constitution,state_constitution,NC,1,1,1,2025,2025,false,unresolved
 N.C. Const. art III § 1,n.c. const. art iii § 1,Constitution,state_constitution,NC,1,1,1,2018,2018,true,exact
 N.C. Const. art III § 5,n.c. const. art iii § 5,Constitution,state_constitution,NC,1,1,1,2020,2020,true,exact
@@ -1210,8 +1206,8 @@ N.C. Constitution § 4,n.c. constitution § 4,Constitution,state_constitution,NC
 "N.C. Constitution, Art. II § 29","n.c. constitution, art. ii § 29",Constitution,state_constitution,NC,1,1,1,1961,1961,false,unresolved
 "N.C. Constitution, Art. IV § 13","n.c. constitution, art. iv § 13",Constitution,state_constitution,NC,1,1,1,1980,1980,true,exact
 "N.C. Constitution, Art. IX § 2","n.c. constitution, art. ix § 2",Constitution,state_constitution,NC,1,1,1,1967,1967,true,exact
+"N.C. Constitution, Art. VI § 9","n.c. constitution, art. vi § 9",Constitution,state_constitution,NC,1,1,1,1977,1977,true,exact
 "N.C. Constitution, Art. XIV § 4","n.c. constitution, art. xiv § 4",Constitution,state_constitution,NC,1,1,1,1961,1961,true,exact
-"N.C. Constitution, Art.. VI § 9","n.c. constitution, art.. vi § 9",Constitution,state_constitution,NC,1,1,1,1977,1977,false,unresolved
 "N.C. Constitution, Article I § 12","n.c. constitution, article i § 12",Constitution,state_constitution,NC,1,1,1,1967,1967,true,exact
 "N.C. Constitution, Article I § 19","n.c. constitution, article i § 19",Constitution,state_constitution,NC,1,1,1,2001,2001,true,exact
 "N.C. Constitution, Article I § 23","n.c. constitution, article i § 23",Constitution,state_constitution,NC,1,1,1,1977,1977,true,exact
@@ -1363,7 +1359,6 @@ North Carolina Constitutions. N.C.G.S. § 15A-2000,north carolina constitutions.
 "Our Constitution, Art. VIII, sec. 1","our constitution, art. viii, sec. 1",Constitution,state_constitution,NC,1,1,1,1913,1913,false,unresolved
 P.A. Const of 1776 § 38,p.a. const of 1776 § 38,Constitution,state_constitution,NC,1,1,1,2025,2025,false,unresolved
 "S., 151-1, N.C. Const., Art. 4, Sec","s., 151-1, n.c. const., art. 4, sec",Constitution,state_constitution,NC,1,1,1,1947,1947,false,unresolved
-"S.E. 432 (1919). N.C. Const., art. IV § 1","s.e. 432 (1919). n.c. const., art. iv § 1",Constitution,state_constitution,NC,1,1,1,1978,1978,false,unresolved
 "Superior Court Division. N.C. Const, art. IV § 1","superior court division. n.c. const, art. iv § 1",Constitution,state_constitution,NC,1,1,1,1991,1991,false,unresolved
 "Superior Court Division. N.C. Const, art. IV § 2","superior court division. n.c. const, art. iv § 2",Constitution,state_constitution,NC,1,1,1,1991,1991,false,unresolved
 "Supreme Court and the Court of Appeals.. N.C. Const., Art. IV § 5","supreme court and the court of appeals.. n.c. const., art. iv § 5",Constitution,state_constitution,NC,1,1,1,1970,1970,false,unresolved

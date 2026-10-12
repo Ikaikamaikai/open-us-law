@@ -149,6 +149,7 @@ Oregon Const. § 11,oregon const. § 11,Constitution,state_constitution,OR,9,6,1
 "Oregon Constitution, article I, section 8","oregon constitution, article i, section 8",Constitution,state_constitution,OR,9,9,2,1982,2000,true,exact
 Oregon State Const. art. I § 20,oregon state const. art. i § 20,Constitution,state_constitution,OR,9,7,3,1972,2018,false,unresolved
 Const. Or. Art. I § 11,const. or. art. i § 11,Constitution,state_constitution,OR,8,6,1,1902,1909,false,unresolved
+"Or. Const, art. 1 § 20","or. const, art. 1 § 20",Constitution,state_constitution,OR,8,3,2,1961,1991,true,exact
 "Or. Const, art. I § 10","or. const, art. i § 10",Constitution,state_constitution,OR,8,4,4,1999,2013,true,exact
 "Or. Const, art. I § 12","or. const, art. i § 12",Constitution,state_constitution,OR,8,4,4,1977,2003,true,exact
 "Or. Const, art. I § 14","or. const, art. i § 14",Constitution,state_constitution,OR,8,4,3,2003,2016,true,exact
@@ -189,12 +190,12 @@ Oregon Const. § 2,oregon const. § 2,Constitution,state_constitution,OR,7,6,1,1
 "Oregon Constitution, Art. IV § 20","oregon constitution, art. iv § 20",Constitution,state_constitution,OR,7,2,1,1970,1970,true,exact
 Oregon Constitution. § 11,oregon constitution. § 11,Constitution,state_constitution,OR,7,7,2,1968,2001,false,unresolved
 "Const., Art. VII § 3c","const., art. vii § 3c",Constitution,state_constitution,OR,6,3,1,1923,1929,false,unresolved
-"Or. Const, art. 1 § 20","or. const, art. 1 § 20",Constitution,state_constitution,OR,6,3,2,1961,1991,true,exact
 "Or. Const, art. VIII § 3","or. const, art. viii § 3",Constitution,state_constitution,OR,6,2,2,1997,2012,true,exact
 Or. Const. Art. I § 10,or. const. art. i § 10,Constitution,state_constitution,OR,6,3,1,1982,1988,true,exact
 Or. Const. Art. I § 11,or. const. art. i § 11,Constitution,state_constitution,OR,6,3,1,1993,2019,true,exact
 Or. Const. Art. I § 21,or. const. art. i § 21,Constitution,state_constitution,OR,6,3,2,1991,2023,true,exact
 Or. Const. art. 1 § 18,or. const. art. 1 § 18,Constitution,state_constitution,OR,6,3,2,1991,2025,true,exact
+Or. Const. art. 1 § 20,or. const. art. 1 § 20,Constitution,state_constitution,OR,6,2,2,1961,1991,true,exact
 Or. Const. art. I § 42,or. const. art. i § 42,Constitution,state_constitution,OR,6,2,2,2022,2025,true,exact
 Or. Const. art. IV § 15,or. const. art. iv § 15,Constitution,state_constitution,OR,6,3,2,2021,2024,true,exact
 Or. Const. art. XVII § 1,or. const. art. xvii § 1,Constitution,state_constitution,OR,6,3,2,2001,2007,true,exact
@@ -276,7 +277,6 @@ Or. Const. Art. IV § 30,or. const. art. iv § 30,Constitution,state_constitutio
 Or. Const. Art. VII (Amended) § 3,or. const. art. vii (amended) § 3,Constitution,state_constitution,OR,4,3,1,1983,1996,true,exact
 Or. Const. Art. XVII § 1,or. const. art. xvii § 1,Constitution,state_constitution,OR,4,2,2,1982,1993,true,exact
 Or. Const. art. 1 § 10,or. const. art. 1 § 10,Constitution,state_constitution,OR,4,2,2,1991,2000,true,exact
-Or. Const. art. 1 § 20,or. const. art. 1 § 20,Constitution,state_constitution,OR,4,2,2,1961,1991,true,exact
 Or. Const. art. I § 21,or. const. art. i § 21,Constitution,state_constitution,OR,4,2,2,1984,2005,true,exact
 Or. Const. art. I § 23,or. const. art. i § 23,Constitution,state_constitution,OR,4,1,1,1981,1981,true,exact
 "Or. Const. art. I, sec","or. const. art. i, sec",Constitution,state_constitution,OR,4,4,1,1977,1980,false,unresolved
@@ -399,6 +399,7 @@ Oregon Constitution and ORS 136.425,oregon constitution and ors 136.425,Constitu
 Oregon Constitution and ORS 138.230,oregon constitution and ors 138.230,Constitution,state_constitution,OR,3,3,2,1980,2003,true,exact
 "Oregon Constitution article I, section 18","oregon constitution article i, section 18",Constitution,state_constitution,OR,3,1,1,1982,1982,true,exact
 "Oregon Constitution, Art I § 37","oregon constitution, art i § 37",Constitution,state_constitution,OR,3,3,1,1962,1964,true,exact
+"Oregon Constitution, Art II § 14","oregon constitution, art ii § 14",Constitution,state_constitution,OR,3,2,1,1960,1972,true,exact
 "Oregon Constitution, Art IV § 7","oregon constitution, art iv § 7",Constitution,state_constitution,OR,3,1,1,1966,1966,true,exact
 "Oregon Constitution, Art VI § 10","oregon constitution, art vi § 10",Constitution,state_constitution,OR,3,3,2,1973,1978,true,exact
 "Oregon Constitution, Art XI § 12","oregon constitution, art xi § 12",Constitution,state_constitution,OR,3,3,1,1957,1960,true,exact
@@ -717,11 +718,11 @@ Oregon Constitution art. IV § 30,oregon constitution art. iv § 30,Constitution
 "Oregon Constitution article I, section 13","oregon constitution article i, section 13",Constitution,state_constitution,OR,2,2,1,1981,1981,true,exact
 Oregon Constitution of 1859 § 7,oregon constitution of 1859 § 7,Constitution,state_constitution,OR,2,2,1,1954,1954,false,unresolved
 Oregon Constitution § 13,oregon constitution § 13,Constitution,state_constitution,OR,2,2,1,2021,2021,false,unresolved
+"Oregon Constitution, Art 1 § 11","oregon constitution, art 1 § 11",Constitution,state_constitution,OR,2,1,1,1958,1964,true,exact
 "Oregon Constitution, Art 7 § 3","oregon constitution, art 7 § 3",Constitution,state_constitution,OR,2,2,1,1960,1960,false,unresolved
 "Oregon Constitution, Art 9 § 1","oregon constitution, art 9 § 1",Constitution,state_constitution,OR,2,2,1,1959,1959,true,exact
 "Oregon Constitution, Art I § 2","oregon constitution, art i § 2",Constitution,state_constitution,OR,2,2,2,1969,1975,true,exact
 "Oregon Constitution, Art I § 3","oregon constitution, art i § 3",Constitution,state_constitution,OR,2,2,2,1969,1975,true,exact
-"Oregon Constitution, Art II § 14","oregon constitution, art ii § 14",Constitution,state_constitution,OR,2,2,1,1960,1972,true,exact
 "Oregon Constitution, Art II § 2","oregon constitution, art ii § 2",Constitution,state_constitution,OR,2,2,1,1956,1970,true,exact
 "Oregon Constitution, Art IV § 8","oregon constitution, art iv § 8",Constitution,state_constitution,OR,2,1,1,1970,1970,true,exact
 "Oregon Constitution, Art V § 16","oregon constitution, art v § 16",Constitution,state_constitution,OR,2,2,1,1956,1972,true,exact
@@ -796,24 +797,19 @@ XJ.S. Const. Amend. XIV § 1,xj.s. const. amend. xiv § 1,Constitution,state_con
 "1 (2). Oregon (1857, amended 1906) Const. art. 4 § 1","1 (2). oregon (1857, amended 1906) const. art. 4 § 1",Constitution,state_constitution,OR,1,1,1,1940,1940,false,unresolved
 "1 Oregon Constitution, Art VII § 5","1 oregon constitution, art vii § 5",Constitution,state_constitution,OR,1,1,1,1978,1978,false,unresolved
 "111 Const, Art XIII § 14","111 const, art xiii § 14",Constitution,state_constitution,OR,1,1,1,2007,2007,false,unresolved
-"1148 (1971). Oregon Constitution, Art II § 14","1148 (1971). oregon constitution, art ii § 14",Constitution,state_constitution,OR,1,1,1,1972,1972,false,unresolved
 "2 Oregon Constitution, Art I § 11","2 oregon constitution, art i § 11",Constitution,state_constitution,OR,1,1,1,1979,1979,false,unresolved
 "2 Oregon Constitution, Article I § 10","2 oregon constitution, article i § 10",Constitution,state_constitution,OR,1,1,1,1986,1986,false,unresolved
 "2 Oregon Constitution, Article VIL (Amended) § 8","2 oregon constitution, article vil (amended) § 8",Constitution,state_constitution,OR,1,1,1,1981,1981,false,unresolved
-"225-26 (1988). Or. Const, art. 1 § 20","225-26 (1988). or. const, art. 1 § 20",Constitution,state_constitution,OR,1,1,1,1991,1991,false,unresolved
-225-26 (1988). Or. Const. art. 1 § 20,225-26 (1988). or. const. art. 1 § 20,Constitution,state_constitution,OR,1,1,1,1991,1991,false,unresolved
 "3 Oregon Constitution, Article VII (Amended) § 8","3 oregon constitution, article vii (amended) § 8",Constitution,state_constitution,OR,1,1,1,1981,1981,false,unresolved
 "3016 [Or. Const. of 1857, art XVII § 1","3016 [or. const. of 1857, art xvii § 1",Constitution,state_constitution,OR,1,1,1,2006,2006,false,unresolved
 "3016 [Or. Const. of 1857, art XVII § 2","3016 [or. const. of 1857, art xvii § 2",Constitution,state_constitution,OR,1,1,1,2006,2006,false,unresolved
 "3016 [Ore. Const. of 1857, art XVII § 1","3016 [ore. const. of 1857, art xvii § 1",Constitution,state_constitution,OR,1,1,1,2006,2006,false,unresolved
 "3016 [Ore. Const. of 1857, art XVII § 2","3016 [ore. const. of 1857, art xvii § 2",Constitution,state_constitution,OR,1,1,1,2006,2006,false,unresolved
-"329 (1954). Oregon Constitution, Art 1 § 11","329 (1954). oregon constitution, art 1 § 11",Constitution,state_constitution,OR,1,1,1,1964,1964,false,unresolved
 "381-82 (1957). Oregon Constitution, Art XI § 9-10","381-82 (1957). oregon constitution, art xi § 9-10",Constitution,state_constitution,OR,1,1,1,1976,1976,false,unresolved
 "4 Oregon Constitution, Art I § 11","4 oregon constitution, art i § 11",Constitution,state_constitution,OR,1,1,1,1978,1978,false,unresolved
 "4 Oregon Constitution, Article VII (Amended) § 8","4 oregon constitution, article vii (amended) § 8",Constitution,state_constitution,OR,1,1,1,1981,1981,false,unresolved
 "41: La.Crim.Proc. Code Ann. art. 782 (West 1967). Ore. Const, art. 1 § 11","41: la.crim.proc. code ann. art. 782 (west 1967). ore. const, art. 1 § 11",Constitution,state_constitution,OR,1,1,1,1972,1972,false,unresolved
 "50 P. 1009, Or. Const. Art. 1, Sec","50 p. 1009, or. const. art. 1, sec",Constitution,state_constitution,OR,1,1,1,1962,1962,false,unresolved
-680 (1962). Oregon Constitution Art IX § 1,680 (1962). oregon constitution art ix § 1,Constitution,state_constitution,OR,1,1,1,1977,1977,false,unresolved
 "7 Oregon Constitution, Article I § 11","7 oregon constitution, article i § 11",Constitution,state_constitution,OR,1,1,1,1979,1979,false,unresolved
 "782 (West 1967). Ore. Const, art. 1 § 11","782 (west 1967). ore. const, art. 1 § 11",Constitution,state_constitution,OR,1,1,1,1972,1972,false,unresolved
 "782 (West 1967). Ore. Const. art. 1, ง","782 (west 1967). ore. const. art. 1, ง",Constitution,state_constitution,OR,1,1,1,1972,1972,false,unresolved
@@ -1103,6 +1099,7 @@ Oregon Constitution 2 and ORS 132.110,oregon constitution 2 and ors 132.110,Cons
 Oregon Constitution 2 and ORS 19.125,oregon constitution 2 and ors 19.125,Constitution,state_constitution,OR,1,1,1,1981,1981,false,unresolved
 Oregon Constitution 8 and ORS 131.515,oregon constitution 8 and ors 131.515,Constitution,state_constitution,OR,1,1,1,1977,1977,false,unresolved
 Oregon Constitution Art I § 12,oregon constitution art i § 12,Constitution,state_constitution,OR,1,1,1,1964,1964,true,exact
+Oregon Constitution Art IX § 1,oregon constitution art ix § 1,Constitution,state_constitution,OR,1,1,1,1977,1977,true,exact
 Oregon Constitution Art. 1,oregon constitution art. 1,Constitution,state_constitution,OR,1,1,1,2019,2019,true,exact
 "Oregon Constitution Art. XI, sec. 10","oregon constitution art. xi, sec. 10",Constitution,state_constitution,OR,1,1,1,1977,1977,true,exact
 Oregon Constitution Article I § 32,oregon constitution article i § 32,Constitution,state_constitution,OR,1,1,1,1982,1982,true,exact
@@ -1135,10 +1132,8 @@ Oregon Constitution § 3,oregon constitution § 3,Constitution,state_constitutio
 Oregon Constitution § 34,oregon constitution § 34,Constitution,state_constitution,OR,1,1,1,2025,2025,false,unresolved
 Oregon Constitution § 6,oregon constitution § 6,Constitution,state_constitution,OR,1,1,1,1933,1933,false,unresolved
 Oregon Constitution § 9,oregon constitution § 9,Constitution,state_constitution,OR,1,1,1,1962,1962,false,unresolved
-"Oregon Constitution, 212-14 (1926). ORS 138.530","oregon constitution, 212-14 (1926). ors 138.530",Constitution,state_constitution,OR,1,1,1,1992,1992,false,unresolved
 "Oregon Constitution, Am. Art. VII § 3","oregon constitution, am. art. vii § 3",Constitution,state_constitution,OR,1,1,1,1977,1977,false,unresolved
 "Oregon Constitution, Art 1 § 10","oregon constitution, art 1 § 10",Constitution,state_constitution,OR,1,1,1,1960,1960,true,exact
-"Oregon Constitution, Art 1 § 11","oregon constitution, art 1 § 11",Constitution,state_constitution,OR,1,1,1,1958,1958,true,exact
 "Oregon Constitution, Art 1 § 20","oregon constitution, art 1 § 20",Constitution,state_constitution,OR,1,1,1,1960,1960,true,exact
 "Oregon Constitution, Art I § 17","oregon constitution, art i § 17",Constitution,state_constitution,OR,1,1,1,1976,1976,true,exact
 "Oregon Constitution, Art I § 19","oregon constitution, art i § 19",Constitution,state_constitution,OR,1,1,1,1977,1977,true,exact

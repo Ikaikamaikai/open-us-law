@@ -27,7 +27,7 @@ Delaware Const. art. I § 20,delaware const. art. i § 20,Constitution,state_con
 Del. Const. art. I § 8,del. const. art. i § 8,Constitution,state_constitution,DE,42,19,5,1989,2026,true,exact
 Delaware Const. art. IV § 19,delaware const. art. iv § 19,Constitution,state_constitution,DE,37,21,1,1965,2025,true,exact
 Delaware Const. art. IV § 12,delaware const. art. iv § 12,Constitution,state_constitution,DE,35,23,2,1997,2023,true,exact
-2 Del. Const. art. IV § 11,2 del. const. art. iv § 11,Constitution,state_constitution,DE,32,16,2,2014,2026,true,exact
+2 Del. Const. art. IV § 11,2 del. const. art. iv § 11,Constitution,state_constitution,DE,34,16,2,2014,2026,true,exact
 Delaware Const. art. II § 21,delaware const. art. ii § 21,Constitution,state_constitution,DE,32,7,2,1976,2021,true,exact
 Delaware Const. art. XV § 4,delaware const. art. xv § 4,Constitution,state_constitution,DE,32,5,3,1956,2022,true,exact
 "Del. Const, art. I § 6","del. const, art. i § 6",Constitution,state_constitution,DE,30,15,2,1991,2021,true,exact
@@ -81,6 +81,7 @@ Del. Const. Art. IV § 38,del. const. art. iv § 38,Constitution,state_constitut
 Del. Const. art. IV § 1,del. const. art. iv § 1,Constitution,state_constitution,DE,13,7,4,2007,2018,true,exact
 Delaware Const. art. II § 19,delaware const. art. ii § 19,Constitution,state_constitution,DE,13,7,3,1939,1986,true,exact
 Delaware Constitution and Delaware Supreme Court Rule 41,delaware constitution and delaware supreme court rule 41,Constitution,state_constitution,DE,13,13,2,1995,2026,false,unresolved
+3 Del. Const. art. IV § 11,3 del. const. art. iv § 11,Constitution,state_constitution,DE,12,5,1,2014,2021,true,exact
 "Del. Const, art. II § 16","del. const, art. ii § 16",Constitution,state_constitution,DE,12,5,2,1995,2011,true,exact
 "Del. Const, art. IV § 37","del. const, art. iv § 37",Constitution,state_constitution,DE,12,4,2,1987,2003,true,exact
 Del. Const. Art. IV § 7,del. const. art. iv § 7,Constitution,state_constitution,DE,12,6,3,1990,2021,true,exact
@@ -94,7 +95,6 @@ Del. Const. art. I § 5,del. const. art. i § 5,Constitution,state_constitution,
 Delaware Const. art. 1 § 4,delaware const. art. 1 § 4,Constitution,state_constitution,DE,11,6,2,1960,2022,true,exact
 Delaware Const. art. I § 1,delaware const. art. i § 1,Constitution,state_constitution,DE,11,6,4,1999,2024,true,exact
 Delaware Const. art. II § 25,delaware const. art. ii § 25,Constitution,state_constitution,DE,11,7,3,1964,2019,true,exact
-3 Del. Const. art. IV § 11,3 del. const. art. iv § 11,Constitution,state_constitution,DE,10,5,1,2014,2021,true,exact
 "Del. Const, art. I § 12","del. const, art. i § 12",Constitution,state_constitution,DE,10,4,3,2003,2014,true,exact
 "Del. Const, art. I § 4","del. const, art. i § 4",Constitution,state_constitution,DE,10,4,1,1991,2013,true,exact
 "Del. Const, art. I § 5","del. const, art. i § 5",Constitution,state_constitution,DE,10,4,3,1989,1996,true,exact
@@ -217,6 +217,7 @@ Delaware Constitution. Article I § 9,delaware constitution. article i § 9,Cons
 1 Del. Const. art. IV § 28,1 del. const. art. iv § 28,Constitution,state_constitution,DE,4,2,1,2016,2017,true,exact
 13 Del. Const. art. IV § 24,13 del. const. art. iv § 24,Constitution,state_constitution,DE,4,2,2,2022,2025,true,exact
 19 Del. Const. art. IV § 1,19 del. const. art. iv § 1,Constitution,state_constitution,DE,4,2,1,2020,2020,true,exact
+2 Del. Const. art. I § 7,2 del. const. art. i § 7,Constitution,state_constitution,DE,4,1,1,2022,2024,true,exact
 22 D.E. Const. Art. I § 6,22 d.e. const. art. i § 6,Constitution,state_constitution,DE,4,2,1,2016,2016,false,unresolved
 27 Del. Const. art. IV § 11,27 del. const. art. iv § 11,Constitution,state_constitution,DE,4,2,1,2022,2022,true,exact
 28 Del. Const. art. I § 6,28 del. const. art. i § 6,Constitution,state_constitution,DE,4,2,2,2023,2025,true,exact
@@ -352,13 +353,13 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 1 Del. Const. art. IV § 4,1 del. const. art. iv § 4,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 1 Del. Const. art. X § 1,1 del. const. art. x § 1,Constitution,state_constitution,DE,2,1,1,2018,2018,true,exact
 "10 Del. Const, art. I § 7","10 del. const, art. i § 7",Constitution,state_constitution,DE,2,1,1,1988,1988,true,exact
+10 Del. Const. Art. 1 § 6,10 del. const. art. 1 § 6,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
 10 Del. Const. art. 4 § 28,10 del. const. art. 4 § 28,Constitution,state_constitution,DE,2,1,1,2022,2022,true,exact
 10 Del. Const. art. I § 20,10 del. const. art. i § 20,Constitution,state_constitution,DE,2,1,1,2016,2016,true,exact
 10 Del. Const. art. I § 6,10 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
 10 Del. Const. art. I § 9,10 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2001,2001,true,exact
 101 Del. Const. art. IV § 10,101 del. const. art. iv § 10,Constitution,state_constitution,DE,2,1,1,2025,2025,false,unresolved
 102 Del. Const. art. 15 § 4,102 del. const. art. 15 § 4,Constitution,state_constitution,DE,2,1,1,2022,2022,false,unresolved
-103 (Hunt ed. 1910). 6 Del. Const. Art. 1 § 9,103 (hunt ed. 1910). 6 del. const. art. 1 § 9,Constitution,state_constitution,DE,2,1,1,2025,2025,false,unresolved
 103 Del. Const. art. 15 § 10,103 del. const. art. 15 § 10,Constitution,state_constitution,DE,2,1,1,2022,2022,false,unresolved
 103 Del. Const. art. II § 25,103 del. const. art. ii § 25,Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
 109 Del. Const. art. VIII § 9,109 del. const. art. viii § 9,Constitution,state_constitution,DE,2,1,1,2025,2025,false,unresolved
@@ -366,7 +367,6 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 11 Del. Const. art. IV § 24,11 del. const. art. iv § 24,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 "11 Del. Const., Art. IV § 2","11 del. const., art. iv § 2",Constitution,state_constitution,DE,2,1,1,2019,2019,false,unresolved
 1100 (Del. 1986) (internal citation omitted). 47 Del. Const. Art. 1 § 8,1100 (del. 1986) (internal citation omitted). 47 del. const. art. 1 § 8,Constitution,state_constitution,DE,2,1,1,2025,2025,false,unresolved
-1100 (Del. 1986). 46 Del. Const. art. I § 6,1100 (del. 1986). 46 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2021,2021,false,unresolved
 112 Del. Const. art. IV § 13,112 del. const. art. iv § 13,Constitution,state_constitution,DE,2,1,1,2017,2017,false,unresolved
 113 Del. Const. art. VIII § 9,113 del. const. art. viii § 9,Constitution,state_constitution,DE,2,1,1,2025,2025,false,unresolved
 114 Del. Const. art. I § 1,114 del. const. art. i § 1,Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
@@ -382,16 +382,18 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 15 Del. Const. art. IV § 2,15 del. const. art. iv § 2,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
 15 Del. Const. art. XVII § 1,15 del. const. art. xvii § 1,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 16 (Del. C. Ann. Const. Art. 4 § 19,16 (del. c. ann. const. art. 4 § 19,Constitution,state_constitution,DE,2,1,1,2016,2016,false,unresolved
+16 Del. Const. Art. I § 9,16 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
 167 Del. Const. art. XVII § 1,167 del. const. art. xvii § 1,Constitution,state_constitution,DE,2,1,1,2022,2022,false,unresolved
 18 Del. Const. art. VIII § 1,18 del. const. art. viii § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 "18 Del. Const., Art. 1 § 4","18 del. const., art. 1 § 4",Constitution,state_constitution,DE,2,1,1,2021,2021,false,unresolved
 "18 Del. Const., Art. IV § 7","18 del. const., art. iv § 7",Constitution,state_constitution,DE,2,1,1,2016,2016,false,unresolved
+19 Del. Const. art. I § 6,19 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
 19 Del. Const. art. III § 9,19 del. const. art. iii § 9,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 193 Del. Const. art. V § 4A,193 del. const. art. v § 4a,Constitution,state_constitution,DE,2,1,1,2022,2022,false,unresolved
 1: Del.Const. Art. 2 § 4,1: del.const. art. 2 § 4,Constitution,state_constitution,DE,2,1,1,1974,1974,false,unresolved
 "2 Del. Const, art. XV § 5","2 del. const, art. xv § 5",Constitution,state_constitution,DE,2,1,1,1995,1995,true,exact
 2 Del. Const. Art. I § 8,2 del. const. art. i § 8,Constitution,state_constitution,DE,2,1,1,1954,1954,true,exact
-2 Del. Const. art. I § 7,2 del. const. art. i § 7,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
+2 Del. Const. art. I § 6,2 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 2 Del. Const. art. II § 25,2 del. const. art. ii § 25,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
 2 Del. Const. art. IV § 10,2 del. const. art. iv § 10,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
 2 Del. Const. art. IV § 28,2 del. const. art. iv § 28,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
@@ -404,12 +406,14 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 25 Del. Const. art. II § 17B,25 del. const. art. ii § 17b,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 28 Del. Const. art. I § 9,28 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2022,2022,true,exact
 28 Del. Const. art. VI § 2,28 del. const. art. vi § 2,Constitution,state_constitution,DE,2,1,1,2021,2021,true,exact
+29 Del. Const. art. 1 § 8,29 del. const. art. 1 § 8,Constitution,state_constitution,DE,2,1,1,2016,2016,true,exact
 29 Del. Const. art. I § 9,29 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2016,2016,true,exact
 29 Del. Const. art. IV § 7,29 del. const. art. iv § 7,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
 3 Del. Const. Art. IV § 11,3 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
 3 Del. Const. art. IV § 110,3 del. const. art. iv § 110,Constitution,state_constitution,DE,2,1,1,2015,2015,false,unresolved
 3 Del. Const. art. IV § 9,3 del. const. art. iv § 9,Constitution,state_constitution,DE,2,1,1,2018,2018,true,exact
 "3 Del. Const., Art. I § 7","3 del. const., art. i § 7",Constitution,state_constitution,DE,2,1,1,1954,1954,false,unresolved
+30 Del. Const. Art. I § 6,30 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 30 Del. Const. art. V § 7,30 del. const. art. v § 7,Constitution,state_constitution,DE,2,1,1,2021,2021,true,exact
 302 Del. Const. art. I § 3,302 del. const. art. i § 3,Constitution,state_constitution,DE,2,1,1,2017,2017,false,unresolved
 31 Del. Const. Art. IX § 3,31 del. const. art. ix § 3,Constitution,state_constitution,DE,2,1,1,1993,1993,true,exact
@@ -425,10 +429,10 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 35 Del. Const. art. V § 1,35 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 35 Del. Const. art. VIII § 1,35 del. const. art. viii § 1,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 36 Del. Const. art. II § 1,36 del. const. art. ii § 1,Constitution,state_constitution,DE,2,1,1,2026,2026,true,exact
+37 Del. Const. art. I § 6,37 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
 37 Del. Const. art. IX § 1,37 del. const. art. ix § 1,Constitution,state_constitution,DE,2,1,1,2026,2026,true,exact
 "379 (Del.Supr.1969) Florida: Fla.Const., art. 1 § 14","379 (del.supr.1969) florida: fla.const., art. 1 § 14",Constitution,state_constitution,DE,2,1,1,1979,1979,false,unresolved
 38 Del. Const. Art. I § 7,38 del. const. art. i § 7,Constitution,state_constitution,DE,2,1,1,2021,2021,true,exact
-384 (1959). Del. Const. art. II § 18,384 (1959). del. const. art. ii § 18,Constitution,state_constitution,DE,2,1,1,1989,1989,false,unresolved
 39 Del. Const. art. V § 1,39 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 4 Del. Const. Art. IV § 11,4 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2018,2018,true,exact
 4 Del. Const. art. I § 6,4 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
@@ -439,35 +443,43 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 4 Del.Const. § 24,4 del.const. § 24,Constitution,state_constitution,DE,2,2,1,1971,1971,false,unresolved
 43 Del. Const. art. I § 3,43 del. const. art. i § 3,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 43 Del. Const. art. XVII § 1,43 del. const. art. xvii § 1,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
+44 Del. Const. art. V § 1,44 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 45 Del. Const. art. I § 9,45 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 45 Del. Const. art. V § 2,45 del. const. art. v § 2,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
+46 Del. Const. art. I § 6,46 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2021,2021,true,exact
 46 Del. Const. art. XVII § 1,46 del. const. art. xvii § 1,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 47 Del. Const. art. I § 6,47 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2016,2016,true,exact
 48 Del. Const. art. I § 8,48 del. const. art. i § 8,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
+5 Del. Const. Art. I § 12,5 del. const. art. i § 12,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
 5 Del. Const. Art. IV § 13,5 del. const. art. iv § 13,Constitution,state_constitution,DE,2,1,1,2021,2021,true,exact
 5 Del. Const. art. I § 9,5 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
 5 Del. Const. art. V § 1,5 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 52 Del. Const. art. XVII § 1,52 del. const. art. xvii § 1,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
+54 Del. Const. Art. I § 6,54 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 54 Del. Const. art. V § 1,54 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 55 Del. Const. art. I § 3,55 del. const. art. i § 3,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 55 Del. Const. art. I § 5,55 del. const. art. i § 5,Constitution,state_constitution,DE,2,1,1,2018,2018,true,exact
 55 Del. Const. art. IV § 19,55 del. const. art. iv § 19,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
 55 Del. Const. art. V § 1,55 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 58 Del. Const. art. V § 1,58 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
+6 Del. Const. Art. 1 § 9,6 del. const. art. 1 § 9,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 6 Del. Const. art. VIII § 1,6 del. const. art. viii § 1,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 60 Del. Const. art. IV § 13,60 del. const. art. iv § 13,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
 60 Del. Const. art. V § 1,60 del. const. art. v § 1,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 60 Del. Const. art. VIII § 1,60 del. const. art. viii § 1,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 61 Del. Const. art. I § 20,61 del. const. art. i § 20,Constitution,state_constitution,DE,2,1,1,2018,2018,true,exact
 62 Del. Const. art. I § 3,62 del. const. art. i § 3,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
-620 (Del. 1988). 7 Del. Const. art. IV § 11,620 (del. 1988). 7 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2014,2014,false,unresolved
 63 Del. Const. art. VIII § 1,63 del. const. art. viii § 1,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 "63 Del. Const., art. IV § 32","63 del. const., art. iv § 32",Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
 64 Del. Const. art. I § 4,64 del. const. art. i § 4,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
 65 Del. Const. art. V § 4A,65 del. const. art. v § 4a,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 "65 Del. Const., art. IV § 32","65 del. const., art. iv § 32",Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
 67 Del. Const. art. II § 1,67 del. const. art. ii § 1,Constitution,state_constitution,DE,2,1,1,2026,2026,true,exact
+68 Del. Const. art. I § 6,68 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
+69 Del. Const. art. IV § 13,69 del. const. art. iv § 13,Constitution,state_constitution,DE,2,1,1,2020,2020,true,exact
 7 Del. Const. art. I § 6,7 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2016,2016,true,exact
+7 Del. Const. art. I § 8,7 del. const. art. i § 8,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
+7 Del. Const. art. IV § 11,7 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2014,2014,true,exact
 7 Del. Const. art. IV § 24,7 del. const. art. iv § 24,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
 70 Del. Const. art. V § 4A,70 del. const. art. v § 4a,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 70 Del. Const. art. VIII § 1,70 del. const. art. viii § 1,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
@@ -481,16 +493,16 @@ Delaware Constitution and Superior Court Criminal Rule 31,delaware constitution 
 81 Del. Const. art. 1 § 9,81 del. const. art. 1 § 9,Constitution,state_constitution,DE,2,1,1,2022,2022,true,exact
 "84 Del. Const., art. IV § 32","84 del. const., art. iv § 32",Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
 866 (Del. 1999) (emphasis in original)). 46 Del. Const. Art. I § 6,866 (del. 1999) (emphasis in original)). 46 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2026,2026,false,unresolved
+87 Del. Const. art. I § 7,87 del. const. art. i § 7,Constitution,state_constitution,DE,2,1,1,2015,2015,true,exact
+88 Del. Const. art. I § 8,88 del. const. art. i § 8,Constitution,state_constitution,DE,2,1,1,2022,2022,true,exact
 9 Del. Const. art. I § 4,9 del. const. art. i § 4,Constitution,state_constitution,DE,2,1,1,2017,2017,true,exact
 9 Del. Const. art. IV § 11,9 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2016,2016,true,exact
 9 Del. Const. art. IV § 19,9 del. const. art. iv § 19,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 9 Del. Const. art. IV § 37,9 del. const. art. iv § 37,Constitution,state_constitution,DE,2,1,1,2023,2023,true,exact
 92 Del. Const. art. II § 25,92 del. const. art. ii § 25,Constitution,state_constitution,DE,2,1,1,2019,2019,true,exact
-927-28 (Del. 1996). 2 Del. Const. art. IV § 11,927-28 (del. 1996). 2 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2018,2018,false,unresolved
 94 Del. Const. art. I § 9,94 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2022,2022,true,exact
 95 Del. Const. art. I § 9,95 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 96 Del. Const. art. IX § 1,96 del. const. art. ix § 1,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
-983 (Del. 1976). 3 Del. Const. art. IV § 11,983 (del. 1976). 3 del. const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,2019,2019,false,unresolved
 "Const. art. II, III","const. art. ii, iii",Constitution,state_constitution,DE,2,2,1,2022,2022,false,unresolved
 "Constitution of Delaware, Art. 4 § 13","constitution of delaware, art. 4 § 13",Constitution,state_constitution,DE,2,2,1,1957,1957,false,unresolved
 "Constitution of Delaware, Art. I","constitution of delaware, art. i",Constitution,state_constitution,DE,2,2,2,1944,1975,false,unresolved
@@ -566,6 +578,7 @@ Del. Const. art. II § 12,del. const. art. ii § 12,Constitution,state_constitut
 Del. Const. art. II § 13,del. const. art. ii § 13,Constitution,state_constitution,DE,2,1,1,1991,1991,true,exact
 Del. Const. art. II § 14,del. const. art. ii § 14,Constitution,state_constitution,DE,2,1,1,1990,1990,true,exact
 Del. Const. art. II § 17B,del. const. art. ii § 17b,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
+Del. Const. art. II § 18,del. const. art. ii § 18,Constitution,state_constitution,DE,2,1,1,1989,1989,true,exact
 Del. Const. art. II § 19,del. const. art. ii § 19,Constitution,state_constitution,DE,2,1,1,2024,2024,true,exact
 Del. Const. art. II § 21,del. const. art. ii § 21,Constitution,state_constitution,DE,2,1,1,2013,2013,true,exact
 Del. Const. art. II § 2A,del. const. art. ii § 2a,Constitution,state_constitution,DE,2,1,1,2025,2025,true,exact
@@ -723,27 +736,14 @@ Delaware State Const. art. I § 20,delaware state const. art. i § 20,Constituti
 Delaware Supreme Court. Del.Const. art. IV § 11,delaware supreme court. del.const. art. iv § 11,Constitution,state_constitution,DE,2,1,1,1980,1980,false,unresolved
 "Delaware, Del. Const. art. I § 3","delaware, del. const. art. i § 3",Constitution,state_constitution,DE,2,1,1,2018,2018,true,exact
 "District of Delaware. Del. Const, art. IV § 11","district of delaware. del. const, art. iv § 11",Constitution,state_constitution,DE,2,1,1,1990,1990,false,unresolved
-IV. 10 Del. Const. Art. 1 § 6,iv. 10 del. const. art. 1 § 6,Constitution,state_constitution,DE,2,1,1,2015,2015,false,unresolved
-IV. 19 Del. Const. art. I § 6,iv. 19 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2019,2019,false,unresolved
-IV. 2 Del. Const. art. I § 6,iv. 2 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,false,unresolved
-IV. 30 Del. Const. Art. I § 6,iv. 30 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,false,unresolved
-IV. 37 Del. Const. art. I § 6,iv. 37 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
-IV. 54 Del. Const. Art. I § 6,iv. 54 del. const. art. i § 6,Constitution,state_constitution,DE,2,1,1,2024,2024,false,unresolved
 "Superior Court. Del. Const, art. IV § 11","superior court. del. const, art. iv § 11",Constitution,state_constitution,DE,2,1,1,1988,1988,false,unresolved
 Supr.Ct.R. 2 and Del. Const. art. IV § 12,supr.ct.r. 2 and del. const. art. iv § 12,Constitution,state_constitution,DE,2,1,1,1996,1996,false,unresolved
 "Supr.Ct.R. 2 and Del. Const., art. IV § 38","supr.ct.r. 2 and del. const., art. iv § 38",Constitution,state_constitution,DE,2,1,1,1996,1996,false,unresolved
 Supreme Court Rule 2 and Del. Const. art. IV § 12,supreme court rule 2 and del. const. art. iv § 12,Constitution,state_constitution,DE,2,2,1,1995,2000,false,unresolved
 "The Delaware Constitution, Art. I § 8","the delaware constitution, art. i § 8",Constitution,state_constitution,DE,2,2,1,1980,1980,true,exact
 "Title 30. Del. Const, art. VIII § 1","title 30. del. const, art. viii § 1",Constitution,state_constitution,DE,2,1,1,1985,1985,false,unresolved
-V. 29 Del. Const. art. 1 § 8,v. 29 del. const. art. 1 § 8,Constitution,state_constitution,DE,2,1,1,2016,2016,false,unresolved
-V. 7 Del. Const. art. I § 8,v. 7 del. const. art. i § 8,Constitution,state_constitution,DE,2,1,1,2019,2019,false,unresolved
-V. 88 Del. Const. art. I § 8,v. 88 del. const. art. i § 8,Constitution,state_constitution,DE,2,1,1,2022,2022,false,unresolved
-VI. 2 Del. Const. art. I § 7,vi. 2 del. const. art. i § 7,Constitution,state_constitution,DE,2,1,1,2022,2022,false,unresolved
-VI. 87 Del. Const. art. I § 7,vi. 87 del. const. art. i § 7,Constitution,state_constitution,DE,2,1,1,2015,2015,false,unresolved
 VID. Del. Const. art. I § 11,vid. del. const. art. i § 11,Constitution,state_constitution,DE,2,1,1,2020,2020,false,unresolved
 W.S.A. Const. Art. 1 § 25,w.s.a. const. art. 1 § 25,Constitution,state_constitution,DE,2,1,1,2012,2012,false,unresolved
-XI. 16 Del. Const. Art. I § 9,xi. 16 del. const. art. i § 9,Constitution,state_constitution,DE,2,1,1,2015,2015,false,unresolved
-XIV. 5 Del. Const. Art. I § 12,xiv. 5 del. const. art. i § 12,Constitution,state_constitution,DE,2,1,1,2023,2023,false,unresolved
 "1 Del. Const. Art. 4, Sec","1 del. const. art. 4, sec",Constitution,state_constitution,DE,1,1,1,1965,1965,false,unresolved
 1 Section 6 of the Delaware Constitution and 11 Del. C. § 2306,1 section 6 of the delaware constitution and 11 del. c. § 2306,Constitution,state_constitution,DE,1,1,1,2011,2011,false,unresolved
 1 Section 6 of the Delaware Constitution and 11 Del. C. § 2307,1 section 6 of the delaware constitution and 11 del. c. § 2307,Constitution,state_constitution,DE,1,1,1,2011,2011,false,unresolved
@@ -755,18 +755,16 @@ XIV. 5 Del. Const. Art. I § 12,xiv. 5 del. const. art. i § 12,Constitution,sta
 118 Del. Const. art. III § 1,118 del. const. art. iii § 1,Constitution,state_constitution,DE,1,1,1,2018,2018,false,unresolved
 118 Del. Const. art. III § 17,118 del. const. art. iii § 17,Constitution,state_constitution,DE,1,1,1,2018,2018,false,unresolved
 12 Del. Const. art I § 7,12 del. const. art i § 7,Constitution,state_constitution,DE,1,1,1,2020,2020,true,exact
-"129 A. 691, 694 (Del. Super. Ct. 1925). 44 Del. Const. art. V § 1","129 a. 691, 694 (del. super. ct. 1925). 44 del. const. art. v § 1",Constitution,state_constitution,DE,1,1,1,2024,2024,false,unresolved
-137 (1803)). 69 Del. Const. art. IV § 13,137 (1803)). 69 del. const. art. iv § 13,Constitution,state_constitution,DE,1,1,1,2020,2020,false,unresolved
 "157 Del. Const. of 1897, art. V § 4","157 del. const. of 1897, art. v § 4",Constitution,state_constitution,DE,1,1,1,2022,2022,false,unresolved
 "167 Del. Const. of 1831, art. VII § 11","167 del. const. of 1831, art. vii § 11",Constitution,state_constitution,DE,1,1,1,2018,2018,false,unresolved
 "19 (2d ed. 1993) ). Del. Const. of 1776. Del. Const. of 1792, art. VIII § 12","19 (2d ed. 1993) ). del. const. of 1776. del. const. of 1792, art. viii § 12",Constitution,state_constitution,DE,1,1,1,2018,2018,false,unresolved
 "19 (2d ed. 1993)). 156 Del. Const. of 1776. 157 Del. Const. of 1792, art. VIII § 12","19 (2d ed. 1993)). 156 del. const. of 1776. 157 del. const. of 1792, art. viii § 12",Constitution,state_constitution,DE,1,1,1,2018,2018,false,unresolved
+19 Del. Const. Art. I,19 del. const. art. i,Constitution,state_constitution,DE,1,1,1,2016,2016,true,container
 19 Del. Const. art.II § 25,19 del. const. art.ii § 25,Constitution,state_constitution,DE,1,1,1,2024,2024,true,exact
 2 Del. Const. Art IV § 11,2 del. const. art iv § 11,Constitution,state_constitution,DE,1,1,1,2017,2017,true,exact
 2 Del. Const. art IV § 11,2 del. const. art iv § 11,Constitution,state_constitution,DE,1,1,1,2017,2017,true,exact
 2 Del.Const. § 2A,2 del.const. § 2a,Constitution,state_constitution,DE,1,1,1,1970,1970,false,unresolved
 2 Del.Const. § 2B,2 del.const. § 2b,Constitution,state_constitution,DE,1,1,1,1970,1970,false,unresolved
-238 (1983)). 68 Del. Const. art. I § 6,238 (1983)). 68 del. const. art. i § 6,Constitution,state_constitution,DE,1,1,1,2024,2024,false,unresolved
 "285 U.S. 424. Del. Const., 1792, Art. I § 5","285 u.s. 424. del. const., 1792, art. i § 5",Constitution,state_constitution,DE,1,1,1,1957,1957,false,unresolved
 "3 Del. Const. Art. 4, Sec","3 del. const. art. 4, sec",Constitution,state_constitution,DE,1,1,1,1965,1965,false,unresolved
 37 Del. Const. art I § 11,37 del. const. art i § 11,Constitution,state_constitution,DE,1,1,1,2023,2023,true,exact
@@ -774,8 +772,6 @@ XIV. 5 Del. Const. Art. I § 12,xiv. 5 del. const. art. i § 12,Constitution,sta
 "4 Del. Const. § 30, Del.C.Ann.","4 del. const. § 30, del.c.ann",Constitution,state_constitution,DE,1,1,1,1967,1967,false,unresolved
 4 Del. Constitution § 28,4 del. constitution § 28,Constitution,state_constitution,DE,1,1,1,1965,1965,false,unresolved
 "41 Del. Const. of 1792, art. VI § 14","41 del. const. of 1792, art. vi § 14",Constitution,state_constitution,DE,1,1,1,2026,2026,false,unresolved
-"462 U.S. 213, 238 (1983)). 68 Del. Const. art. I § 6","462 u.s. 213, 238 (1983)). 68 del. const. art. i § 6",Constitution,state_constitution,DE,1,1,1,2024,2024,false,unresolved
-5 U.S. 137 (1803)). 69 Del. Const. art. IV § 13,5 u.s. 137 (1803)). 69 del. const. art. iv § 13,Constitution,state_constitution,DE,1,1,1,2020,2020,false,unresolved
 50 Del. Const. art. I  § 7,50 del. const. art. i § 7,Constitution,state_constitution,DE,1,1,1,2024,2024,true,exact
 "50 Del. Const. of 1792, art. I § 4","50 del. const. of 1792, art. i § 4",Constitution,state_constitution,DE,1,1,1,2021,2021,false,unresolved
 "53 Del.Laws, C. 293. Del. Const, art. IV § 37","53 del.laws, c. 293. del. const, art. iv § 37",Constitution,state_constitution,DE,1,1,1,1991,1991,false,unresolved
@@ -783,7 +779,6 @@ XIV. 5 Del. Const. Art. I § 12,xiv. 5 del. const. art. i § 12,Constitution,sta
 6 Del. Const. art IV § 11,6 del. const. art iv § 11,Constitution,state_constitution,DE,1,1,1,2014,2014,true,exact
 62 NHL Constitution § 6.3,62 nhl constitution § 6.3,Constitution,state_constitution,DE,1,1,1,2022,2022,false,unresolved
 69 Del. Const. of 1897 art. I § 5,69 del. const. of 1897 art. i § 5,Constitution,state_constitution,DE,1,1,1,2019,2019,false,unresolved
-694 (Del. Super. Ct. 1925). 44 Del. Const. art. V § 1,694 (del. super. ct. 1925). 44 del. const. art. v § 1,Constitution,state_constitution,DE,1,1,1,2024,2024,false,unresolved
 7 Del. Const. art. VII § 1,7 del. const. art. vii § 1,Constitution,state_constitution,DE,1,1,1,2019,2019,true,exact
 7 Del. Const. art. VII § 2,7 del. const. art. vii § 2,Constitution,state_constitution,DE,1,1,1,2019,2019,true,exact
 8 Super. Ct. R. 75. 9 Del. Const. Art. VII § 1,8 super. ct. r. 75. 9 del. const. art. vii § 1,Constitution,state_constitution,DE,1,1,1,2025,2025,false,unresolved
@@ -1049,6 +1044,5 @@ Supreme Court Rule 2 and Del. Const. art. IV. § 38,supreme court rule 2 and del
 "The Delaware Constitution, Art. VIII § 1","the delaware constitution, art. viii § 1",Constitution,state_constitution,DE,1,1,1,1967,1967,true,exact
 "The Delaware Constitution, Art. XVI","the delaware constitution, art. xvi",Constitution,state_constitution,DE,1,1,1,1964,1964,true,container
 "The Delaware Constitution, Art. XVI § 1","the delaware constitution, art. xvi § 1",Constitution,state_constitution,DE,1,1,1,1964,1964,true,exact
-V. 19 Del. Const. Art. I,v. 19 del. const. art. i,Constitution,state_constitution,DE,1,1,1,2016,2016,false,unresolved
 "VI. 8 Del. Const., Art. 1 § 7","vi. 8 del. const., art. 1 § 7",Constitution,state_constitution,DE,1,1,1,2021,2021,false,unresolved
 "W.V. Const., art. I","w.v. const., art. i",Constitution,state_constitution,DE,1,1,1,2017,2017,true,exact

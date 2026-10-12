@@ -20,7 +20,7 @@ Florida Const. art. I § 24,florida const. art. i § 24,Constitution,state_const
 Florida Const. art. VIII § 1,florida const. art. viii § 1,Constitution,state_constitution,FL,276,151,9,1969,2026,true,exact
 Florida Const. art. I § 22,florida const. art. i § 22,Constitution,state_constitution,FL,262,177,7,1974,2026,true,exact
 Florida Const. art. I § 10,florida const. art. i § 10,Constitution,state_constitution,FL,215,162,7,1970,2026,true,exact
-Fla. Const. art. V § 3,fla. const. art. v § 3,Constitution,state_constitution,FL,197,99,9,1971,2026,true,exact
+Fla. Const. art. V § 3,fla. const. art. v § 3,Constitution,state_constitution,FL,201,99,9,1971,2026,true,exact
 Florida Const. art. I § 14,florida const. art. i § 14,Constitution,state_constitution,FL,197,112,4,1969,2026,true,exact
 Florida Const. art. IX § 1,florida const. art. ix § 1,Constitution,state_constitution,FL,196,76,5,1950,2023,true,exact
 Florida Const. art. V § 5,florida const. art. v § 5,Constitution,state_constitution,FL,160,138,5,1958,2026,true,exact
@@ -28,9 +28,9 @@ Florida Const. art. I § 6,florida const. art. i § 6,Constitution,state_constit
 Florida Const. art. III § 11,florida const. art. iii § 11,Constitution,state_constitution,FL,143,63,6,1969,2024,true,exact
 Florida Const. art. VII § 4,florida const. art. vii § 4,Constitution,state_constitution,FL,143,81,6,1973,2024,true,exact
 Florida Const. art. VIII § 2,florida const. art. viii § 2,Constitution,state_constitution,FL,137,106,11,1970,2026,true,exact
+Fla. Const. art. V § 4,fla. const. art. v § 4,Constitution,state_constitution,FL,134,61,3,1968,2017,true,exact
 Florida Const. art. X § 13,florida const. art. x § 13,Constitution,state_constitution,FL,132,104,8,1976,2026,true,exact
 Florida Const. art. X § 25,florida const. art. x § 25,Constitution,state_constitution,FL,132,40,3,2006,2024,true,exact
-Fla. Const. art. V § 4,fla. const. art. v § 4,Constitution,state_constitution,FL,124,61,3,1968,2017,true,exact
 Florida Const. art. VII § 10,florida const. art. vii § 10,Constitution,state_constitution,FL,121,54,7,1972,2015,true,exact
 "Fla. Const, art. X § 4","fla. const, art. x § 4",Constitution,state_constitution,FL,116,38,13,1987,2017,true,exact
 Florida Const. art. VII § 1,florida const. art. vii § 1,Constitution,state_constitution,FL,112,78,4,1973,2024,true,exact
@@ -122,6 +122,7 @@ Fla. Const. Art. VIII § 1,fla. const. art. viii § 1,Constitution,state_constit
 Florida Const. art. V § 18,florida const. art. v § 18,Constitution,state_constitution,FL,26,17,2,1980,2018,true,exact
 Florida Const. art. I § 5,florida const. art. i § 5,Constitution,state_constitution,FL,25,22,5,1972,2025,true,exact
 Florida Const. art. III § 19,florida const. art. iii § 19,Constitution,state_constitution,FL,25,11,2,1994,2008,true,exact
+"Fla. Const, art. V § 4","fla. const, art. v § 4",Constitution,state_constitution,FL,24,10,2,1969,2017,true,exact
 Fla. Const. art. I § 22,fla. const. art. i § 22,Constitution,state_constitution,FL,24,8,4,1976,2025,true,exact
 "Fla. Const., art. VII § 10","fla. const., art. vii § 10",Constitution,state_constitution,FL,24,7,2,1971,2012,true,exact
 Florida Const. art. I § 27,florida const. art. i § 27,Constitution,state_constitution,FL,24,13,2,2011,2022,true,exact
@@ -129,7 +130,6 @@ Florida Const. art. X § 7,florida const. art. x § 7,Constitution,state_constit
 "Fla. Const, art. VI § 4","fla. const, art. vi § 4",Constitution,state_constitution,FL,23,6,3,2002,2004,true,exact
 Fla. Const. Art. 10 § 4,fla. const. art. 10 § 4,Constitution,state_constitution,FL,23,8,7,1968,2022,true,exact
 Fla. Const. art. III § 20,fla. const. art. iii § 20,Constitution,state_constitution,FL,23,7,5,1970,2025,true,exact
-"Fla. Const, art. V § 4","fla. const, art. v § 4",Constitution,state_constitution,FL,22,10,2,1969,2017,true,exact
 Fla. Const. art. I § 23,fla. const. art. i § 23,Constitution,state_constitution,FL,22,7,5,1983,2023,true,exact
 Fla. Const. art. III § 1,fla. const. art. iii § 1,Constitution,state_constitution,FL,22,9,2,1970,2024,true,exact
 Florida Const. art. IX § 6,florida const. art. ix § 6,Constitution,state_constitution,FL,22,16,2,1954,2008,true,exact
@@ -246,6 +246,7 @@ Florida Const. art. 1 § 22,florida const. art. 1 § 22,Constitution,state_const
 Florida Const. art. 2 § 8,florida const. art. 2 § 8,Constitution,state_constitution,FL,10,5,2,2016,2023,true,exact
 Florida Const. art. IX § 2,florida const. art. ix § 2,Constitution,state_constitution,FL,10,9,2,1981,2019,true,exact
 Florida Const. art. X § 10,florida const. art. x § 10,Constitution,state_constitution,FL,10,10,2,1972,2018,true,exact
+"Florida Constitution, Article V § 3","florida constitution, article v § 3",Constitution,state_constitution,FL,10,9,2,1967,1975,true,exact
 "Florida Constitution, F.S.A., and Rule 4.5","florida constitution, f.s.a., and rule 4.5",Constitution,state_constitution,FL,10,10,2,1962,1973,false,unresolved
 "Fla. Const, art. VIII § 1","fla. const, art. viii § 1",Constitution,state_constitution,FL,9,3,3,1982,2016,true,exact
 Fla. Const. Art. 5 § 3,fla. const. art. 5 § 3,Constitution,state_constitution,FL,9,4,4,1959,2007,true,exact
@@ -260,7 +261,6 @@ Florida Const. art. VII § 5,florida const. art. vii § 5,Constitution,state_con
 Florida Const. § 6,florida const. § 6,Constitution,state_constitution,FL,9,9,1,1962,1973,false,unresolved
 Florida Constitution and Fla. Stat. § 222.01,florida constitution and fla. stat. § 222.01,Constitution,state_constitution,FL,9,5,2,2007,2009,false,unresolved
 "Florida Constitution, Art. 1","florida constitution, art. 1",Constitution,state_constitution,FL,9,9,2,1971,1997,true,container
-"Florida Constitution, Article V § 3","florida constitution, article v § 3",Constitution,state_constitution,FL,9,9,2,1967,1975,true,exact
 "Florida Constitution, Article X § 4","florida constitution, article x § 4",Constitution,state_constitution,FL,9,7,3,1974,2018,true,exact
 Florida Constitution. Art. I § 9,florida constitution. art. i § 9,Constitution,state_constitution,FL,9,9,2,1982,2024,true,exact
 "Fla. Const, art. 8 § 1","fla. const, art. 8 § 1",Constitution,state_constitution,FL,8,2,2,1988,1998,true,exact
@@ -731,16 +731,8 @@ Florida Constitution. § 8,florida constitution. § 8,Constitution,state_constit
 "4 Fla. Const, art. IX § 1","4 fla. const, art. ix § 1",Constitution,state_constitution,FL,2,1,1,2017,2017,true,exact
 4 Fla. Const. art. I § 3,4 fla. const. art. i § 3,Constitution,state_constitution,FL,2,1,1,2018,2018,true,exact
 5 Fla. Const. art. X § 4,5 fla. const. art. x § 4,Constitution,state_constitution,FL,2,1,1,2021,2021,true,exact
-52 (Fla.App.lst 1972). Fla.Const. art. V § 4,52 (fla.app.lst 1972). fla.const. art. v § 4,Constitution,state_constitution,FL,2,1,1,1972,1972,false,unresolved
-"6 Fla.Jur. 330, Const.Law § 72","6 fla.jur. 330, const.law § 72",Constitution,state_constitution,FL,2,2,1,1962,1963,false,unresolved
 7 Fla. Const. art. X § 4,7 fla. const. art. x § 4,Constitution,state_constitution,FL,2,1,1,2008,2008,true,exact
-73 (Fla.App.3d 1972). Fla. Const. art. V § 4,73 (fla.app.3d 1972). fla. const. art. v § 4,Constitution,state_constitution,FL,2,1,1,1972,1972,false,unresolved
-771 (Fla. 1971). Fla. Const. art. V § 3,771 (fla. 1971). fla. const. art. v § 3,Constitution,state_constitution,FL,2,1,1,1973,1973,false,unresolved
-"791 (Fla. App.4th, 1971). Fla. Const. art. V § 3","791 (fla. app.4th, 1971). fla. const. art. v § 3",Constitution,state_constitution,FL,2,1,1,1973,1973,false,unresolved
-"841 (Fla. 1969). Fla. Const., art. VII § 1","841 (fla. 1969). fla. const., art. vii § 1",Constitution,state_constitution,FL,2,1,1,1971,1971,false,unresolved
-883 (Fla. 1950). Fla. Const. art. V § 4,883 (fla. 1950). fla. const. art. v § 4,Constitution,state_constitution,FL,2,1,1,1972,1972,false,unresolved
 "9 Florida Const., Art. I § 13","9 florida const., art. i § 13",Constitution,state_constitution,FL,2,1,1,2000,2000,false,unresolved
-908 (Fla. 1969). Fla. Const. art. V § 4,908 (fla. 1969). fla. const. art. v § 4,Constitution,state_constitution,FL,2,1,1,1972,1972,false,unresolved
 Const. Fla.R.Crim. P. 3.130,const. fla.r.crim. p. 3.130,Constitution,state_constitution,FL,2,2,1,1989,1990,false,unresolved
 "Const., Art. III § 5","const., art. iii § 5",Constitution,state_constitution,FL,2,1,1,1987,1987,false,unresolved
 "Const., Art. XII § 11","const., art. xii § 11",Constitution,state_constitution,FL,2,1,1,1987,1987,false,unresolved
@@ -983,6 +975,7 @@ Fla. Const. § 768.28,fla. const. § 768.28,Constitution,state_constitution,FL,2
 "Fla. Const., art. V § 6","fla. const., art. v § 6",Constitution,state_constitution,FL,2,1,1,1972,1972,true,exact
 "Fla. Const., art. V, F.S.A.","fla. const., art. v, f.s.a",Constitution,state_constitution,FL,2,1,1,1973,1973,false,unresolved
 "Fla. Const., art. V, sec","fla. const., art. v, sec",Constitution,state_constitution,FL,2,2,1,1976,1987,false,unresolved
+"Fla. Const., art. VII § 1","fla. const., art. vii § 1",Constitution,state_constitution,FL,2,1,1,1971,1971,true,exact
 "Fla. Const., art. X § 11.23","fla. const., art. x § 11.23",Constitution,state_constitution,FL,2,1,1,2020,2020,false,unresolved
 "Fla. Const., art. XVI § 16","fla. const., art. xvi § 16",Constitution,state_constitution,FL,2,1,1,1975,1975,false,unresolved
 Fla. Const.Art. I § 10,fla. const.art. i § 10,Constitution,state_constitution,FL,2,1,1,1982,1982,true,exact
@@ -1278,12 +1271,10 @@ U.S.A. Const. art. 4 § 1,u.s.a. const. art. 4 § 1,Constitution,state_constitut
 "1 Fla. Const, art. VI § 9","1 fla. const, art. vi § 9",Constitution,state_constitution,FL,1,1,1,2002,2002,false,unresolved
 "10 (a)-(d), Fla. Const. Article IX , s","10 (a)-(d), fla. const. article ix , s",Constitution,state_constitution,FL,1,1,1,1997,1997,false,unresolved
 "10 Fla. Const., art. V","10 fla. const., art. v",Constitution,state_constitution,FL,1,1,1,1976,1976,false,unresolved
-"103 Fla. 22, 137 So. 8 (1931). Fla.Const, art. V § 4","103 fla. 22, 137 so. 8 (1931). fla.const, art. v § 4",Constitution,state_constitution,FL,1,1,1,1972,1972,false,unresolved
 "11 Fla. Const., art. VIII § 2","11 fla. const., art. viii § 2",Constitution,state_constitution,FL,1,1,1,2003,2003,false,unresolved
 "11 Fla. Const., art. VIII § 6","11 fla. const., art. viii § 6",Constitution,state_constitution,FL,1,1,1,2003,2003,false,unresolved
 "129 (1971). Fla. Const., Art. V, Sec","129 (1971). fla. const., art. v, sec",Constitution,state_constitution,FL,1,1,1,1973,1973,false,unresolved
 14 Art. XVI Const. Art. V,14 art. xvi const. art. v,Constitution,state_constitution,FL,1,1,1,1931,1931,false,unresolved
-"145 Fla. 671, 200 So. 546 (1941). Fla. Const. art. V § 4","145 fla. 671, 200 so. 546 (1941). fla. const. art. v § 4",Constitution,state_constitution,FL,1,1,1,1971,1971,false,unresolved
 "16 Fla. Const., Art. VIII, Sec","16 fla. const., art. viii, sec",Constitution,state_constitution,FL,1,1,1,1990,1990,false,unresolved
 "2 Fla. Const, art. 5 § 5-6","2 fla. const, art. 5 § 5-6",Constitution,state_constitution,FL,1,1,1,1994,1994,false,unresolved
 2 So. 5. Fla. Const. Art. V § 11,2 so. 5. fla. const. art. v § 11,Constitution,state_constitution,FL,1,1,1,1974,1974,false,unresolved
@@ -1301,21 +1292,9 @@ U.S.A. Const. art. 4 § 1,u.s.a. const. art. 4 § 1,Constitution,state_constitut
 5 (a) of the Florida Constitution. § 445.004,5 (a) of the florida constitution. § 445.004,Constitution,state_constitution,FL,1,1,1,2008,2008,false,unresolved
 5 Fla. Const. art. X,5 fla. const. art. x,Constitution,state_constitution,FL,1,1,1,1990,1990,true,container
 500-01 (Fla. 1969)). Const. art. 1 § 35,500-01 (fla. 1969)). const. art. 1 § 35,Constitution,state_constitution,FL,1,1,1,1995,1995,false,unresolved
-546 (1941). Fla. Const. art. V § 4,546 (1941). fla. const. art. v § 4,Constitution,state_constitution,FL,1,1,1,1971,1971,false,unresolved
-"6 Fla. Jur., Const.Law § 1SS","6 fla. jur., const.law § 1ss",Constitution,state_constitution,FL,1,1,1,1966,1966,false,unresolved
-"6 Fla.Jur., Const. Law § 316","6 fla.jur., const. law § 316",Constitution,state_constitution,FL,1,1,1,1961,1961,false,unresolved
-"6 Fla.Jur., Const. Law § 52","6 fla.jur., const. law § 52",Constitution,state_constitution,FL,1,1,1,1958,1958,false,unresolved
-"6 Fla.Jur., Const.Law § 52","6 fla.jur., const.law § 52",Constitution,state_constitution,FL,1,1,1,1965,1965,false,unresolved
-"6 Fla.Jur., Const.Law § 60","6 fla.jur., const.law § 60",Constitution,state_constitution,FL,1,1,1,1969,1969,false,unresolved
-6 Fla.Jur.Const.Law § 164,6 fla.jur.const.law § 164,Constitution,state_constitution,FL,1,1,1,1963,1963,false,unresolved
-6 Fla.Jur.Const.Law § 297,6 fla.jur.const.law § 297,Constitution,state_constitution,FL,1,1,1,1963,1963,false,unresolved
-6 Fla.Jur.Constitutional Law § 54-59,6 fla.jur.constitutional law § 54-59,Constitution,state_constitution,FL,1,1,1,1973,1973,false,unresolved
-6 Fla.Jur.Constitutional Law § 75-87,6 fla.jur.constitutional law § 75-87,Constitution,state_constitution,FL,1,1,1,1973,1973,false,unresolved
 6 Fla.Juris.Constitutional Law § 71,6 fla.juris.constitutional law § 71,Constitution,state_constitution,FL,1,1,1,1960,1960,false,unresolved
 "684 (1980). Florida's Constitution, art. V § 15","684 (1980). florida's constitution, art. v § 15",Constitution,state_constitution,FL,1,1,1,1983,1983,false,unresolved
 "714 (Fla. 1967). Fla. Const., Article V, Section","714 (fla. 1967). fla. const., article v, section",Constitution,state_constitution,FL,1,1,1,1972,1972,false,unresolved
-"771 (Fla. 1971). Florida Constitution, Article V § 3","771 (fla. 1971). florida constitution, article v § 3",Constitution,state_constitution,FL,1,1,1,1974,1974,false,unresolved
-"8 (1931). Fla. Const, art. V § 4","8 (1931). fla. const, art. v § 4",Constitution,state_constitution,FL,1,1,1,1972,1972,false,unresolved
 "8 Fla. Const. art. X, sec","8 fla. const. art. x, sec",Constitution,state_constitution,FL,1,1,1,2010,2010,false,unresolved
 "8 Fla. Prac., Constr. § 3:8","8 fla. prac., constr. § 3:8",Constitution,state_constitution,FL,1,1,1,2008,2008,false,unresolved
 "Const. Art. III, section","const. art. iii, section",Constitution,state_constitution,FL,1,1,1,1971,1971,false,unresolved
@@ -1690,7 +1669,6 @@ Fla.Const.1968 § 9,fla.const.1968 § 9,Constitution,state_constitution,FL,1,1,1
 "Fla.Constitution, Art. V § 5","fla.constitution, art. v § 5",Constitution,state_constitution,FL,1,1,1,1968,1968,true,exact
 "Fla.Constitution, Article VII § 9","fla.constitution, article vii § 9",Constitution,state_constitution,FL,1,1,1,1972,1972,true,exact
 Fla.F.S.A. Const. 1885 § 22,fla.f.s.a. const. 1885 § 22,Constitution,state_constitution,FL,1,1,1,1970,1970,false,unresolved
-"Fla.Jur., Const. Law § 52","fla.jur., const. law § 52",Constitution,state_constitution,FL,1,1,1,1961,1961,false,unresolved
 "Florda Constitution, Art. III","florda constitution, art. iii",Constitution,state_constitution,FL,1,1,1,1959,1959,false,unresolved
 Florida (Fl. Const. art. III § 11,florida (fl. const. art. iii § 11,Constitution,state_constitution,FL,1,1,1,2008,2008,false,unresolved
 Florida (Fl. Const. art. III § 11(a)(12)),florida (fl. const. art. iii § 11(a)(12)),Constitution,state_constitution,FL,1,1,1,2008,2008,false,unresolved
@@ -2042,7 +2020,6 @@ Florida State Const. art. 2 § 9,florida state const. art. 2 § 9,Constitution,s
 Florida State Const. art. VII § 12,florida state const. art. vii § 12,Constitution,state_constitution,FL,1,1,1,1986,1986,false,unresolved
 "Florida State Constitution, Art. 10","florida state constitution, art. 10",Constitution,state_constitution,FL,1,1,1,1974,1974,false,unresolved
 "Florida State Constitution, Art. I","florida state constitution, art. i",Constitution,state_constitution,FL,1,1,1,1987,1987,false,unresolved
-"Florida Statutes (1999). Kan. Const., Art. 15  § 16","florida statutes (1999). kan. const., art. 15 § 16",Constitution,state_constitution,FL,1,1,1,2007,2007,false,unresolved
 "Florida Statutes, F.S.A., and Section 13, Article IX, Florida Constitution. § 200.45","florida statutes, f.s.a., and section 13, article ix, florida constitution. § 200.45",Constitution,state_constitution,FL,1,1,1,1965,1965,false,unresolved
 "Florida [Fla. Const. Art. V, Sec","florida [fla. const. art. v, sec",Constitution,state_constitution,FL,1,1,1,1997,1997,false,unresolved
 "Florida [Fla. Const. Art.V, Sec.3","florida [fla. const. art.v, sec.3",Constitution,state_constitution,FL,1,1,1,1997,1997,false,unresolved

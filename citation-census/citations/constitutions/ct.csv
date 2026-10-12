@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-"Conn. Const., art. I § 8","conn. const., art. i § 8",Constitution,state_constitution,CT,651,305,3,1969,2025,true,exact
-"Conn. Const., art. I § 19","conn. const., art. i § 19",Constitution,state_constitution,CT,120,58,2,1976,2025,true,exact
+"Conn. Const., art. I § 8","conn. const., art. i § 8",Constitution,state_constitution,CT,659,305,3,1969,2025,true,exact
+"Conn. Const., art. I § 19","conn. const., art. i § 19",Constitution,state_constitution,CT,125,58,2,1976,2025,true,exact
 "Conn. Const., art. I § 10","conn. const., art. i § 10",Constitution,state_constitution,CT,92,44,4,1981,2024,true,exact
 "Conn. Const., art. I § 7","conn. const., art. i § 7",Constitution,state_constitution,CT,74,37,3,1969,2025,true,exact
 "Conn. Const., art. V § 1","conn. const., art. v § 1",Constitution,state_constitution,CT,68,33,3,1974,2023,true,exact
@@ -14,9 +14,9 @@ Conn. Const. art. I § 20,conn. const. art. i § 20,Constitution,state_constitut
 Conn. Const. art. 1 § 8,conn. const. art. 1 § 8,Constitution,state_constitution,CT,32,16,6,1974,2023,true,exact
 "Conn. Const., art. VIII § 1","conn. const., art. viii § 1",Constitution,state_constitution,CT,26,10,1,1984,2015,true,exact
 "Conn. Const., art. II","conn. const., art. ii",Constitution,state_constitution,CT,24,20,3,1974,2025,true,exact
+"Conn. Const., art. I § 1","conn. const., art. i § 1",Constitution,state_constitution,CT,23,12,3,1979,2025,true,exact
 Conn. Const. art. I § 11,conn. const. art. i § 11,Constitution,state_constitution,CT,22,11,3,1974,2025,true,exact
 Conn. Const. Art. I § 9,conn. const. art. i § 9,Constitution,state_constitution,CT,21,9,3,1954,1962,true,exact
-"Conn. Const., art. I § 1","conn. const., art. i § 1",Constitution,state_constitution,CT,21,12,3,1979,2025,true,exact
 "Conn. Const, art. I § 8","conn. const, art. i § 8",Constitution,state_constitution,CT,20,9,5,1966,2014,true,exact
 Conn. Const. art. I § 15,conn. const. art. i § 15,Constitution,state_constitution,CT,20,7,5,1996,2024,true,exact
 "Conn. Const., art. I § 12","conn. const., art. i § 12",Constitution,state_constitution,CT,20,10,2,1985,2024,true,exact
@@ -185,16 +185,10 @@ Connecticut Constitution Art. I § 7,connecticut constitution art. i § 7,Consti
 "Connecticut Constitution, Article I § 7","connecticut constitution, article i § 7",Constitution,state_constitution,CT,3,1,1,2024,2024,true,exact
 "Connecticut Constitution, Article I § 9","connecticut constitution, article i § 9",Constitution,state_constitution,CT,3,1,1,2024,2024,true,exact
 "Connecticut State Constitution, article I","connecticut state constitution, article i",Constitution,state_constitution,CT,3,1,1,1993,1993,false,unresolved
-"1 Conn. Const., art. I § 19","1 conn. const., art. i § 19",Constitution,state_constitution,CT,2,1,1,2009,2009,false,unresolved
-"13 Conn. Const., art. I § 8","13 conn. const., art. i § 8",Constitution,state_constitution,CT,2,1,1,1982,1982,false,unresolved
 252 Conn. Const. art. VIII § 1,252 conn. const. art. viii § 1,Constitution,state_constitution,CT,2,1,1,2018,2018,false,unresolved
 "29 Conn. Const, art. IV § 10","29 conn. const, art. iv § 10",Constitution,state_constitution,CT,2,1,1,2006,2006,true,exact
 3 Conn. Const. art. I § 19,3 conn. const. art. i § 19,Constitution,state_constitution,CT,2,1,1,2016,2016,true,exact
-"3 Conn. Const., art. I § 8","3 conn. const., art. i § 8",Constitution,state_constitution,CT,2,1,1,1990,1990,false,unresolved
 "4 Conn. Const, art. I § 19","4 conn. const, art. i § 19",Constitution,state_constitution,CT,2,1,1,1977,1977,true,exact
-"5 Conn. Const., art. I § 1","5 conn. const., art. i § 1",Constitution,state_constitution,CT,2,1,1,1979,1979,false,unresolved
-"553 (1982). Conn. Const., art. I § 8","553 (1982). conn. const., art. i § 8",Constitution,state_constitution,CT,2,1,1,1984,1984,false,unresolved
-"7 Conn. Const., art. I § 19","7 conn. const., art. i § 19",Constitution,state_constitution,CT,2,1,1,1994,1994,false,unresolved
 C.G.S.A. Const. Art. I § 7,c.g.s.a. const. art. i § 7,Constitution,state_constitution,CT,2,1,1,2020,2020,true,exact
 "Conn. Conn. Const., Art. 9","conn. conn. const., art. 9",Constitution,state_constitution,CT,2,2,1,1988,1988,false,unresolved
 Conn. Const art. I § 8,conn. const art. i § 8,Constitution,state_constitution,CT,2,1,1,2001,2001,true,exact
@@ -351,7 +345,6 @@ Const. U.S. Art. IV § 1,const. u.s. art. iv § 1,Constitution,state_constitutio
 "XIV. Conn. Const., art. I § 8","xiv. conn. const., art. i § 8",Constitution,state_constitution,CT,2,1,1,1987,1987,true,exact
 "1 Conn. Const., art. II, 1965","1 conn. const., art. ii, 1965",Constitution,state_constitution,CT,1,1,1,1981,1981,false,unresolved
 "12 Conn. Const., amend. XXI","12 conn. const., amend. xxi",Constitution,state_constitution,CT,1,1,1,1999,1999,false,unresolved
-"13 Conn. Const., art. I § 19","13 conn. const., art. i § 19",Constitution,state_constitution,CT,1,1,1,1982,1982,false,unresolved
 "16 Conn. Const. Art. 1, Sec","16 conn. const. art. 1, sec",Constitution,state_constitution,CT,1,1,1,1995,1995,false,unresolved
 "2 Conn. Const., art. II","2 conn. const., art. ii",Constitution,state_constitution,CT,1,1,1,1981,1981,false,unresolved
 "27 Conn. Const., art. II (as","27 conn. const., art. ii (as",Constitution,state_constitution,CT,1,1,1,1986,1986,false,unresolved
@@ -360,9 +353,7 @@ Const. U.S. Art. IV § 1,const. u.s. art. iv § 1,Constitution,state_constitutio
 "39 Conn. Const., amend. XV § 3","39 conn. const., amend. xv § 3",Constitution,state_constitution,CT,1,1,1,2010,2010,false,unresolved
 "4 Conn. Const., art. V § 2","4 conn. const., art. v § 2",Constitution,state_constitution,CT,1,1,1,1979,1979,false,unresolved
 "4 Conn. Const., art. V § 6","4 conn. const., art. v § 6",Constitution,state_constitution,CT,1,1,1,1979,1979,false,unresolved
-"654 (1971). Conn. Const., art. I § 8","654 (1971). conn. const., art. i § 8",Constitution,state_constitution,CT,1,1,1,1991,1991,false,unresolved
 "7 Conn. Const., amend. XX § 1","7 conn. const., amend. xx § 1",Constitution,state_constitution,CT,1,1,1,2009,2009,false,unresolved
-"91 S. Ct. 1392, 28 L. Ed. 2d 654 (1971). Conn. Const., art. I § 8","91 s. ct. 1392, 28 l. ed. 2d 654 (1971). conn. const., art. i § 8",Constitution,state_constitution,CT,1,1,1,1991,1991,false,unresolved
 C.G.S. Const. Art. 2,c.g.s. const. art. 2,Constitution,state_constitution,CT,1,1,1,1982,1982,true,exact
 "C.G.S.A. Const. Art. 4, Secs","c.g.s.a. const. art. 4, secs",Constitution,state_constitution,CT,1,1,1,2019,2019,false,unresolved
 "Conn. 9 9 9 Comm. Const., art. V § 1","conn. 9 9 9 comm. const., art. v § 1",Constitution,state_constitution,CT,1,1,1,1981,1981,false,unresolved
