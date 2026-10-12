@@ -376,6 +376,7 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 75 Fed. Reg. 66,75 fed. reg. 66,Admin. Register,federal_register,US,33,28,17,2001,2023,true,register_reference
 75 Fed. Reg. 82,75 fed. reg. 82,Admin. Register,federal_register,US,33,24,8,2011,2025,true,register_reference
 77 Fed. Reg. 43,77 fed. reg. 43,Admin. Register,federal_register,US,33,31,16,2012,2025,true,register_reference
+78 Fed. Reg. 33,78 fed. reg. 33,Admin. Register,federal_register,US,33,28,8,2013,2023,true,exact
 80 Fed. Reg. 54,80 fed. reg. 54,Admin. Register,federal_register,US,33,27,14,2016,2025,true,register_reference
 81 Fed. Reg. 15,81 fed. reg. 15,Admin. Register,federal_register,US,33,14,3,2016,2022,true,register_reference
 81 Fed. Reg. 35,81 fed. reg. 35,Admin. Register,federal_register,US,33,30,6,2016,2023,true,register_reference
@@ -396,7 +397,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 73 Fed. Reg. 70,73 fed. reg. 70,Admin. Register,federal_register,US,32,18,10,2009,2021,true,register_reference
 77 Fed. Reg. 75,77 fed. reg. 75,Admin. Register,federal_register,US,32,26,6,2013,2023,false,unresolved
 78 Fed. Reg. 14,78 fed. reg. 14,Admin. Register,federal_register,US,32,25,8,2013,2025,true,register_reference
-78 Fed. Reg. 33,78 fed. reg. 33,Admin. Register,federal_register,US,32,28,8,2013,2023,true,exact
 78 Fed. Reg. 60,78 fed. reg. 60,Admin. Register,federal_register,US,32,29,18,2014,2025,true,register_reference
 81 Fed. Reg. 14,81 fed. reg. 14,Admin. Register,federal_register,US,32,31,14,2016,2025,true,register_reference
 81 Fed. Reg. 26,81 fed. reg. 26,Admin. Register,federal_register,US,32,25,9,2016,2025,true,register_reference
@@ -2058,7 +2058,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 90 Fed. Reg. 8331,90 fed. reg. 8331,Admin. Register,federal_register,US,11,8,2,2025,2025,true,exact
 90 Fed. Reg. 8805,90 fed. reg. 8805,Admin. Register,federal_register,US,11,6,2,2025,2026,false,unresolved
 13 Fed. Reg. 1471,13 fed. reg. 1471,Admin. Register,federal_register,US,10,3,1,1951,1951,false,unresolved
-14 Fed.Reserve Bull. 80,14 fed.reserve bull. 80,Admin. Register,state_register,US,10,2,2,1989,1989,false,unresolved
 32 Fed. Reg. 4001,32 fed. reg. 4001,Admin. Register,federal_register,US,10,10,6,2000,2023,false,unresolved
 33 Fed. Reg. 18558,33 fed. reg. 18558,Admin. Register,federal_register,US,10,3,1,2025,2025,false,unresolved
 34 Fed. Reg. 17605,34 fed. reg. 17605,Admin. Register,federal_register,US,10,10,5,1972,2018,false,unresolved
@@ -3473,7 +3472,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 50 Fed. Reg. 52281,50 fed. reg. 52281,Admin. Register,federal_register,US,6,6,1,1998,2000,false,unresolved
 50 Fed. Reg. 52309,50 fed. reg. 52309,Admin. Register,federal_register,US,6,3,1,1996,1996,false,unresolved
 50 Fed. Reg. 53420,50 fed. reg. 53420,Admin. Register,federal_register,US,6,6,1,1986,1990,false,unresolved
-50 Fed. Res. Bull. 1261,50 fed. res. bull. 1261,Admin. Register,state_register,US,6,3,1,1978,1978,false,unresolved
 51 Fed. Reg. 16305,51 fed. reg. 16305,Admin. Register,federal_register,US,6,6,1,1990,2004,false,unresolved
 51 Fed. Reg. 17942,51 fed. reg. 17942,Admin. Register,federal_register,US,6,6,1,2001,2002,false,unresolved
 51 Fed. Reg. 19937,51 fed. reg. 19937,Admin. Register,federal_register,US,6,2,1,2007,2007,false,unresolved
@@ -3574,7 +3572,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 61 Fed. Reg. 9,61 fed. reg. 9,Admin. Register,federal_register,US,6,6,3,1998,2019,true,exact
 61 Fed. Reg. 9783,61 fed. reg. 9783,Admin. Register,federal_register,US,6,3,1,2019,2019,true,register_reference
 61 Fed. Reg. 9907,61 fed. reg. 9907,Admin. Register,federal_register,US,6,3,1,2022,2022,true,register_reference
-61 Fed. Res. Bull. 806,61 fed. res. bull. 806,Admin. Register,state_register,US,6,2,1,1978,1978,false,unresolved
 62 Fed. Reg. 12274,62 fed. reg. 12274,Admin. Register,federal_register,US,6,6,2,2000,2023,true,exact
 62 Fed. Reg. 15,62 fed. reg. 15,Admin. Register,federal_register,US,6,6,6,1999,2021,true,exact
 62 Fed. Reg. 1970,62 fed. reg. 1970,Admin. Register,federal_register,US,6,6,2,1997,2003,false,unresolved
@@ -3905,7 +3902,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 25 Fed. Reg. 381,25 fed. reg. 381,Admin. Register,federal_register,US,5,5,2,1970,2013,false,unresolved
 25 Fed. Reg. 9578,25 fed. reg. 9578,Admin. Register,federal_register,US,5,4,1,1961,1963,false,unresolved
 26 Fed. Reg. 9158,26 fed. reg. 9158,Admin. Register,federal_register,US,5,5,4,1973,1993,false,unresolved
-26 Fed. Reserve Bull. 393,26 fed. reserve bull. 393,Admin. Register,state_register,US,5,3,2,1971,1986,false,unresolved
 29 Fed. Reg. 10415,29 fed. reg. 10415,Admin. Register,federal_register,US,5,4,2,1968,1973,false,unresolved
 29 Fed. Reg. 8356,29 fed. reg. 8356,Admin. Register,federal_register,US,5,4,3,1992,2012,false,unresolved
 30 Fed. Reg. 14505,30 fed. reg. 14505,Admin. Register,federal_register,US,5,5,2,1966,1996,false,unresolved
@@ -4524,7 +4520,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 19 Fed. Reg. 5852,19 fed. reg. 5852,Admin. Register,federal_register,US,4,4,1,2021,2021,false,unresolved
 2 Fed. Reg. 1331,2 fed. reg. 1331,Admin. Register,federal_register,US,4,4,1,1939,1970,false,unresolved
 2 Fed. Reg. 2685,2 fed. reg. 2685,Admin. Register,federal_register,US,4,3,1,1956,1956,false,unresolved
-2 Fed. Reserve Bull. 73,2 fed. reserve bull. 73,Admin. Register,state_register,US,4,4,1,1968,1993,false,unresolved
 20 Fed. Reg. 2175,20 fed. reg. 2175,Admin. Register,federal_register,US,4,4,2,2009,2011,false,unresolved
 20 Fed. Reg. 6460,20 fed. reg. 6460,Admin. Register,federal_register,US,4,4,2,2010,2013,false,unresolved
 20 Fed. Reg. 6512,20 fed. reg. 6512,Admin. Register,federal_register,US,4,2,1,1970,1970,false,unresolved
@@ -4533,7 +4528,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 22 Fed. Reg. 1051,22 fed. reg. 1051,Admin. Register,federal_register,US,4,4,1,1967,1967,false,unresolved
 22 Fed. Reg. 6205,22 fed. reg. 6205,Admin. Register,federal_register,US,4,3,1,1963,1963,false,unresolved
 22 Fed. Reg. 8362,22 fed. reg. 8362,Admin. Register,federal_register,US,4,4,1,1991,2006,false,unresolved
-22 Fed.Reserve Bull. 51,22 fed.reserve bull. 51,Admin. Register,state_register,US,4,2,1,1988,1988,false,unresolved
 23 Fed. Reg. 6345,23 fed. reg. 6345,Admin. Register,federal_register,US,4,2,1,2009,2009,false,unresolved
 23 Fed. Reg. 7965,23 fed. reg. 7965,Admin. Register,federal_register,US,4,3,1,1965,1965,false,unresolved
 24 Fed. Reg. 2053,24 fed. reg. 2053,Admin. Register,federal_register,US,4,4,1,1960,1962,false,unresolved
@@ -4831,7 +4825,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 49 Fed. Reg. 5956,49 fed. reg. 5956,Admin. Register,federal_register,US,4,4,1,1988,1991,false,unresolved
 49 Fed. Reg. 6,49 fed. reg. 6,Admin. Register,federal_register,US,4,4,4,1989,2025,false,unresolved
 49 Fed. Reg. 6175,49 fed. reg. 6175,Admin. Register,federal_register,US,4,2,1,1988,1988,false,unresolved
-49 Fed. Res. Bull. 633,49 fed. res. bull. 633,Admin. Register,state_register,US,4,3,1,1965,1965,false,unresolved
 5 Fed. Reg. 2421,5 fed. reg. 2421,Admin. Register,federal_register,US,4,3,3,1941,1960,false,unresolved
 50 Fed. Reg. 1056,50 fed. reg. 1056,Admin. Register,federal_register,US,4,4,1,2018,2023,false,unresolved
 50 Fed. Reg. 12068,50 fed. reg. 12068,Admin. Register,federal_register,US,4,2,1,2024,2024,false,unresolved
@@ -4878,7 +4871,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 52 Fed. Reg. 48411,52 fed. reg. 48411,Admin. Register,federal_register,US,4,3,1,2013,2015,false,unresolved
 52 Fed. Reg. 48524,52 fed. reg. 48524,Admin. Register,federal_register,US,4,3,1,1989,1993,false,unresolved
 52 Fed. Reg. 5738,52 fed. reg. 5738,Admin. Register,federal_register,US,4,4,3,1989,2015,false,unresolved
-52 Fed. Res. Bull. 198,52 fed. res. bull. 198,Admin. Register,state_register,US,4,2,1,1978,1978,false,unresolved
 53 Fed. Reg. 11970,53 fed. reg. 11970,Admin. Register,federal_register,US,4,4,3,1988,2014,false,unresolved
 53 Fed. Reg. 11979,53 fed. reg. 11979,Admin. Register,federal_register,US,4,4,1,1989,1997,false,unresolved
 53 Fed. Reg. 11980,53 fed. reg. 11980,Admin. Register,federal_register,US,4,2,1,1989,1989,false,unresolved
@@ -5034,7 +5026,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 61 Fed. Reg. 58730,61 fed. reg. 58730,Admin. Register,federal_register,US,4,3,3,2002,2003,false,unresolved
 61 Fed. Reg. 63,61 fed. reg. 63,Admin. Register,federal_register,US,4,4,2,2005,2011,false,unresolved
 61 Fed. Reg. 65053,61 fed. reg. 65053,Admin. Register,federal_register,US,4,4,3,2001,2016,true,exact
-61 Fed. Res. Bull. 673,61 fed. res. bull. 673,Admin. Register,state_register,US,4,2,1,1978,1978,false,unresolved
 62 Fed. Reg. 1150,62 fed. reg. 1150,Admin. Register,federal_register,US,4,4,1,2008,2012,true,exact
 62 Fed. Reg. 12842,62 fed. reg. 12842,Admin. Register,federal_register,US,4,2,1,2006,2006,false,unresolved
 62 Fed. Reg. 1494,62 fed. reg. 1494,Admin. Register,federal_register,US,4,2,1,2002,2002,true,exact
@@ -5172,7 +5163,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 68 Fed. Reg. 70402,68 fed. reg. 70402,Admin. Register,federal_register,US,4,4,3,2011,2023,true,exact
 68 Fed. Reg. 75136,68 fed. reg. 75136,Admin. Register,federal_register,US,4,1,1,2014,2014,true,exact
 68 Fed. Register 15,68 fed. register 15,Admin. Register,state_register,US,4,1,1,2005,2005,false,unresolved
-68 Fed. Res. Bull. 260,68 fed. res. bull. 260,Admin. Register,state_register,US,4,4,3,1987,1988,false,unresolved
 69 Fed. Reg. 13,69 fed. reg. 13,Admin. Register,federal_register,US,4,3,2,2004,2023,true,register_reference
 69 Fed. Reg. 1895,69 fed. reg. 1895,Admin. Register,federal_register,US,4,4,3,2005,2023,true,exact
 69 Fed. Reg. 1896,69 fed. reg. 1896,Admin. Register,federal_register,US,4,3,1,2009,2009,true,register_reference
@@ -5213,7 +5203,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 70 Fed. Reg. 77141,70 fed. reg. 77141,Admin. Register,federal_register,US,4,4,1,2010,2010,false,unresolved
 70 Fed. Reg. 9127,70 fed. reg. 9127,Admin. Register,federal_register,US,4,4,3,2016,2019,true,exact
 70 Fed. Reg. 944,70 fed. reg. 944,Admin. Register,federal_register,US,4,4,2,2009,2019,true,exact
-70 Fed. Res. Bull. 434,70 fed. res. bull. 434,Admin. Register,state_register,US,4,4,3,1987,1988,false,unresolved
 71 Fed. Reg. 11189,71 fed. reg. 11189,Admin. Register,federal_register,US,4,4,2,2007,2011,false,unresolved
 71 Fed. Reg. 23,71 fed. reg. 23,Admin. Register,federal_register,US,4,4,2,2011,2022,true,register_reference
 71 Fed. Reg. 28063,71 fed. reg. 28063,Admin. Register,federal_register,US,4,4,4,2006,2026,true,exact
@@ -5266,7 +5255,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 73 Fed. Reg. 67987,73 fed. reg. 67987,Admin. Register,federal_register,US,4,1,1,2011,2011,true,register_reference
 73 Fed. Reg. 72555,73 fed. reg. 72555,Admin. Register,federal_register,US,4,3,3,2009,2015,false,unresolved
 73 Fed. Reg. 74930,73 fed. reg. 74930,Admin. Register,federal_register,US,4,3,1,2013,2015,true,exact
-73 Fed.Reserve Bull. 138,73 fed.reserve bull. 138,Admin. Register,state_register,US,4,2,1,1988,1988,false,unresolved
 74 Fed. Reg. 12,74 fed. reg. 12,Admin. Register,federal_register,US,4,3,2,2011,2014,true,register_reference
 74 Fed. Reg. 1224,74 fed. reg. 1224,Admin. Register,federal_register,US,4,2,1,2009,2010,false,unresolved
 74 Fed. Reg. 1273,74 fed. reg. 1273,Admin. Register,federal_register,US,4,4,1,2010,2012,false,unresolved
@@ -6394,7 +6382,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 63 Fed. Reg. 8594,63 fed. reg. 8594,Admin. Register,federal_register,US,3,3,2,2009,2009,true,exact
 63 Fed. Reg. 8659,63 fed. reg. 8659,Admin. Register,federal_register,US,3,3,2,2009,2016,true,exact
 63 Fed. Reg. 8682,63 fed. reg. 8682,Admin. Register,federal_register,US,3,3,1,1999,1999,false,unresolved
-63 Fed. Res. Bull. 525,63 fed. res. bull. 525,Admin. Register,state_register,US,3,3,1,1984,1986,false,unresolved
 64 Fed. Reg. 1,64 fed. reg. 1,Admin. Register,federal_register,US,3,3,1,2003,2013,true,exact
 64 Fed. Reg. 12405,64 fed. reg. 12405,Admin. Register,federal_register,US,3,3,2,2000,2010,false,unresolved
 64 Fed. Reg. 1276,64 fed. reg. 1276,Admin. Register,federal_register,US,3,3,2,1999,2025,true,exact
@@ -6554,7 +6541,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 67 Fed. Reg. 77702,67 fed. reg. 77702,Admin. Register,federal_register,US,3,3,1,2021,2021,true,register_reference
 67 Fed. Reg. 9100,67 fed. reg. 9100,Admin. Register,federal_register,US,3,1,1,2009,2009,true,exact
 67 Fed. Reg. 9956,67 fed. reg. 9956,Admin. Register,federal_register,US,3,2,1,2007,2008,false,unresolved
-67 Fed. Res. Bull. 181,67 fed. res. bull. 181,Admin. Register,state_register,US,3,3,2,1987,1988,false,unresolved
 68 Fed. Reg. 10656,68 fed. reg. 10656,Admin. Register,federal_register,US,3,2,2,2024,2024,true,exact
 68 Fed. Reg. 11313,68 fed. reg. 11313,Admin. Register,federal_register,US,3,3,1,2006,2006,true,exact
 68 Fed. Reg. 11457,68 fed. reg. 11457,Admin. Register,federal_register,US,3,2,2,2016,2016,false,unresolved
@@ -6662,9 +6648,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 70 Fed. Reg. 69903,70 fed. reg. 69903,Admin. Register,federal_register,US,3,2,2,2010,2016,true,exact
 70 Fed. Reg. 70116,70 fed. reg. 70116,Admin. Register,federal_register,US,3,3,2,2009,2022,true,exact
 70 Fed. Reg. 8880,70 fed. reg. 8880,Admin. Register,federal_register,US,3,3,1,2007,2007,true,exact
-70 Fed. Res. Bull. 353,70 fed. res. bull. 353,Admin. Register,state_register,US,3,3,2,1985,2015,false,unresolved
-70 Fed. Res. Bull. 374,70 fed. res. bull. 374,Admin. Register,state_register,US,3,3,2,1985,2015,false,unresolved
-70 Fed. Res. Bull. 524,70 fed. res. bull. 524,Admin. Register,state_register,US,3,3,2,1985,2015,false,unresolved
 71 Fed. Reg. 1,71 fed. reg. 1,Admin. Register,federal_register,US,3,2,1,2006,2007,true,exact
 71 Fed. Reg. 1638,71 fed. reg. 1638,Admin. Register,federal_register,US,3,2,2,2006,2008,true,exact
 71 Fed. Reg. 1666,71 fed. reg. 1666,Admin. Register,federal_register,US,3,1,1,2007,2007,true,exact
@@ -7035,7 +7018,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 82 Fed. Reg. 7149,82 fed. reg. 7149,Admin. Register,federal_register,US,3,1,1,2024,2024,true,exact
 82 Fed. Reg. 7860,82 fed. reg. 7860,Admin. Register,federal_register,US,3,3,2,2023,2025,false,unresolved
 82 Fed. Reg. 9967,82 fed. reg. 9967,Admin. Register,federal_register,US,3,3,2,2019,2019,true,exact
-82 Fed. Res. Bull. 871,82 fed. res. bull. 871,Admin. Register,state_register,US,3,3,1,1998,1998,false,unresolved
 83 Fed. Reg. 15937,83 fed. reg. 15937,Admin. Register,federal_register,US,3,2,2,2018,2020,true,exact
 83 Fed. Reg. 191,83 fed. reg. 191,Admin. Register,federal_register,US,3,3,3,2020,2024,false,unresolved
 83 Fed. Reg. 2075,83 fed. reg. 2075,Admin. Register,federal_register,US,3,3,1,2019,2019,true,exact
@@ -7384,7 +7366,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 16 Fed. Reg. 6132,16 fed. reg. 6132,Admin. Register,federal_register,US,2,2,1,2005,2009,false,unresolved
 16 Fed. Reg. 8884,16 fed. reg. 8884,Admin. Register,federal_register,US,2,2,1,2013,2013,false,unresolved
 16 Fed. Reg. 9795,16 fed. reg. 9795,Admin. Register,federal_register,US,2,2,1,1959,1959,false,unresolved
-16 Fed. Res. Bull. 520,16 fed. res. bull. 520,Admin. Register,state_register,US,2,2,1,1986,1986,false,unresolved
 "16 Fed.Reg. 3690 (1951), 3 C.F.R. 431","16 fed.reg. 3690 (1951), 3 c.f.r. 431",Admin. Register,cfr,US,2,2,1,1956,1956,false,unresolved
 "16 Fed.Reg. 6419 (1951), 3 C.F.R. 766","16 fed.reg. 6419 (1951), 3 c.f.r. 766",Admin. Register,cfr,US,2,2,1,1974,1974,false,unresolved
 17 Fed. Reg. 11532,17 fed. reg. 11532,Admin. Register,federal_register,US,2,2,1,2025,2025,false,unresolved
@@ -7432,7 +7413,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 2 Fed. Reg. 614,2 fed. reg. 614,Admin. Register,federal_register,US,2,2,1,1939,1939,false,unresolved
 2 Fed. Reg. 616,2 fed. reg. 616,Admin. Register,federal_register,US,2,2,1,1939,1939,false,unresolved
 2 Fed. Reg. 633,2 fed. reg. 633,Admin. Register,federal_register,US,2,2,1,1980,1980,false,unresolved
-2 Fed.Reserve Bull. 259,2 fed.reserve bull. 259,Admin. Register,state_register,US,2,2,2,1989,1989,false,unresolved
 20 Fed. Reg. 17,20 fed. reg. 17,Admin. Register,federal_register,US,2,2,1,1962,1962,false,unresolved
 20 Fed. Reg. 22,20 fed. reg. 22,Admin. Register,federal_register,US,2,1,1,2023,2023,false,unresolved
 20 Fed. Reg. 28,20 fed. reg. 28,Admin. Register,federal_register,US,2,2,1,1990,1990,false,unresolved
@@ -7549,7 +7529,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 26 Fed. Reg. 7362,26 fed. reg. 7362,Admin. Register,federal_register,US,2,2,2,1983,2021,false,unresolved
 26 Fed. Reg. 7378,26 fed. reg. 7378,Admin. Register,federal_register,US,2,2,1,2026,2026,false,unresolved
 26 Fed. Reg. 7713,26 fed. reg. 7713,Admin. Register,federal_register,US,2,2,1,1974,1978,false,unresolved
-26 Fed.Reserve Bull. 393,26 fed.reserve bull. 393,Admin. Register,state_register,US,2,2,2,1969,1970,false,unresolved
 27 Fed. Reg. 10,27 fed. reg. 10,Admin. Register,federal_register,US,2,2,1,2017,2017,false,unresolved
 27 Fed. Reg. 10894,27 fed. reg. 10894,Admin. Register,federal_register,US,2,2,1,1968,1968,false,unresolved
 27 Fed. Reg. 1116,27 fed. reg. 1116,Admin. Register,federal_register,US,2,2,1,1984,1984,false,unresolved
@@ -8088,7 +8067,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 41 Fed. Reg. 784,41 fed. reg. 784,Admin. Register,federal_register,US,2,2,1,2002,2002,false,unresolved
 41 Fed. Reg. 8068,41 fed. reg. 8068,Admin. Register,federal_register,US,2,2,2,1976,1978,false,unresolved
 41 Fed. Reg. 9166,41 fed. reg. 9166,Admin. Register,federal_register,US,2,2,1,2010,2023,false,unresolved
-41 Fed. Reserve Bull. 142,41 fed. reserve bull. 142,Admin. Register,state_register,US,2,2,1,1971,1971,false,unresolved
 42 Fed. Reg. 10138,42 fed. reg. 10138,Admin. Register,federal_register,US,2,1,1,2013,2013,false,unresolved
 42 Fed. Reg. 11247,42 fed. reg. 11247,Admin. Register,federal_register,US,2,2,1,1977,1977,false,unresolved
 42 Fed. Reg. 11807,42 fed. reg. 11807,Admin. Register,federal_register,US,2,2,1,1977,1977,false,unresolved
@@ -8157,8 +8135,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 42 Fed. Reg. 64856,42 fed. reg. 64856,Admin. Register,federal_register,US,2,2,1,1996,1996,false,unresolved
 42 Fed. Reg. 65152,42 fed. reg. 65152,Admin. Register,federal_register,US,2,2,1,1987,1987,false,unresolved
 42 Fed. Reg. 7957,42 fed. reg. 7957,Admin. Register,federal_register,US,2,2,1,1977,1977,false,unresolved
-42 Fed. Reserve Bull. 228,42 fed. reserve bull. 228,Admin. Register,state_register,US,2,2,1,1971,1971,false,unresolved
-42 Fed.Reserve Bull. 228,42 fed.reserve bull. 228,Admin. Register,state_register,US,2,2,2,1969,1970,false,unresolved
 43 Fed. Reg. 10474,43 fed. reg. 10474,Admin. Register,federal_register,US,2,2,1,1978,1978,false,unresolved
 43 Fed. Reg. 10512,43 fed. reg. 10512,Admin. Register,federal_register,US,2,2,1,1984,1984,false,unresolved
 43 Fed. Reg. 11120,43 fed. reg. 11120,Admin. Register,federal_register,US,2,1,1,2014,2014,false,unresolved
@@ -9130,7 +9106,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 56 Fed. Reg. 8943,56 fed. reg. 8943,Admin. Register,federal_register,US,2,2,1,2010,2010,false,unresolved
 56 Fed. Reg. 8947,56 fed. reg. 8947,Admin. Register,federal_register,US,2,2,1,2010,2010,false,unresolved
 56 Fed. Reg. 9623,56 fed. reg. 9623,Admin. Register,federal_register,US,2,1,1,1995,1995,false,unresolved
-56 Fed. Res. Bull. 948,56 fed. res. bull. 948,Admin. Register,state_register,US,2,2,1,1978,1978,false,unresolved
 57 Fed. Reg. 1,57 fed. reg. 1,Admin. Register,federal_register,US,2,2,2,1997,2007,false,unresolved
 57 Fed. Reg. 10295,57 fed. reg. 10295,Admin. Register,federal_register,US,2,2,2,1996,2023,false,unresolved
 57 Fed. Reg. 1082,57 fed. reg. 1082,Admin. Register,federal_register,US,2,1,1,2008,2008,false,unresolved
@@ -9256,7 +9231,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 58 Fed. Reg. 8287,58 fed. reg. 8287,Admin. Register,federal_register,US,2,2,2,1993,1993,false,unresolved
 58 Fed. Reg. 9,58 fed. reg. 9,Admin. Register,federal_register,US,2,2,1,1995,2000,false,unresolved
 58 Fed. Reg. 9208,58 fed. reg. 9208,Admin. Register,federal_register,US,2,2,1,1996,1996,false,unresolved
-58 Fed. Res. Bull. 827,58 fed. res. bull. 827,Admin. Register,state_register,US,2,2,1,1978,1978,false,unresolved
 59 Fed. Reg. 11449,59 fed. reg. 11449,Admin. Register,federal_register,US,2,2,2,2003,2025,false,unresolved
 59 Fed. Reg. 14136,59 fed. reg. 14136,Admin. Register,federal_register,US,2,2,1,2001,2002,false,unresolved
 59 Fed. Reg. 14323,59 fed. reg. 14323,Admin. Register,federal_register,US,2,2,1,2000,2000,false,unresolved
@@ -9609,9 +9583,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 62 Fed. Reg. 9476,62 fed. reg. 9476,Admin. Register,federal_register,US,2,2,1,2010,2010,false,unresolved
 62 Fed. Reg. 9477,62 fed. reg. 9477,Admin. Register,federal_register,US,2,2,1,2010,2010,false,unresolved
 62 Fed. Reg. 9737,62 fed. reg. 9737,Admin. Register,federal_register,US,2,2,1,2001,2002,false,unresolved
-62 Fed. Res. Bull. 153,62 fed. res. bull. 153,Admin. Register,state_register,US,2,2,1,1978,1978,false,unresolved
-62 Fed. Res. Bull. 581,62 fed. res. bull. 581,Admin. Register,state_register,US,2,2,1,1979,1979,false,unresolved
-62 Fed. Res. Bull. 610,62 fed. res. bull. 610,Admin. Register,state_register,US,2,2,1,1978,1978,false,unresolved
 63 Fed. Reg. 11,63 fed. reg. 11,Admin. Register,federal_register,US,2,2,1,1999,2017,true,register_reference
 63 Fed. Reg. 12218,63 fed. reg. 12218,Admin. Register,federal_register,US,2,2,1,2002,2002,false,unresolved
 63 Fed. Reg. 12333,63 fed. reg. 12333,Admin. Register,federal_register,US,2,1,1,2011,2011,false,unresolved
@@ -9702,7 +9673,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 63 Fed. Reg. 8948,63 fed. reg. 8948,Admin. Register,federal_register,US,2,2,1,2001,2003,false,unresolved
 63 Fed. Reg. 8987,63 fed. reg. 8987,Admin. Register,federal_register,US,2,2,2,2018,2018,true,exact
 63 Fed. Reg. 9182,63 fed. reg. 9182,Admin. Register,federal_register,US,2,1,1,2001,2001,false,unresolved
-63 Fed. Res. Bull. 380,63 fed. res. bull. 380,Admin. Register,state_register,US,2,2,1,1979,1979,false,unresolved
 64 Fed. Reg. 101,64 fed. reg. 101,Admin. Register,federal_register,US,2,2,1,2001,2002,false,unresolved
 64 Fed. Reg. 116,64 fed. reg. 116,Admin. Register,federal_register,US,2,1,1,2001,2001,false,unresolved
 64 Fed. Reg. 12418,64 fed. reg. 12418,Admin. Register,federal_register,US,2,2,1,2009,2009,true,register_reference
@@ -9793,8 +9763,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 64 Fed. Reg. 8313,64 fed. reg. 8313,Admin. Register,federal_register,US,2,2,1,2001,2002,false,unresolved
 64 Fed. Reg. 856,64 fed. reg. 856,Admin. Register,federal_register,US,2,2,1,2006,2007,false,unresolved
 64 Fed. Reg. 8640,64 fed. reg. 8640,Admin. Register,federal_register,US,2,2,1,2004,2004,true,exact
-64 Fed. Res. Bull. 947,64 fed. res. bull. 947,Admin. Register,state_register,US,2,2,1,1979,1979,false,unresolved
-64 Fed.Reserve Bull. 222,64 fed.reserve bull. 222,Admin. Register,state_register,US,2,2,1,1988,1988,false,unresolved
 65 Fed. Reg. 1016,65 fed. reg. 1016,Admin. Register,federal_register,US,2,1,1,2020,2020,true,register_reference
 65 Fed. Reg. 10846,65 fed. reg. 10846,Admin. Register,federal_register,US,2,2,1,2010,2010,true,register_reference
 65 Fed. Reg. 1215,65 fed. reg. 1215,Admin. Register,federal_register,US,2,2,1,2024,2024,false,unresolved
@@ -9950,7 +9918,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 66 Fed. Reg. 7364,66 fed. reg. 7364,Admin. Register,federal_register,US,2,2,1,2010,2010,false,unresolved
 66 Fed. Reg. 7486,66 fed. reg. 7486,Admin. Register,federal_register,US,2,2,1,2007,2007,false,unresolved
 66 Fed. Reg. 8899,66 fed. reg. 8899,Admin. Register,federal_register,US,2,1,1,2001,2001,true,exact
-66 Fed.Reserve Bull. 444,66 fed.reserve bull. 444,Admin. Register,state_register,US,2,2,2,1989,1989,false,unresolved
 67 Fed. Reg. 10330,67 fed. reg. 10330,Admin. Register,federal_register,US,2,2,2,2011,2021,true,exact
 67 Fed. Reg. 10767,67 fed. reg. 10767,Admin. Register,federal_register,US,2,2,1,2003,2003,false,unresolved
 67 Fed. Reg. 11283,67 fed. reg. 11283,Admin. Register,federal_register,US,2,2,1,2007,2007,false,unresolved
@@ -10035,7 +10002,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 67 Fed. Reg. 9,67 fed. reg. 9,Admin. Register,federal_register,US,2,1,1,2011,2011,true,register_reference
 67 Fed. Reg. 9321,67 fed. reg. 9321,Admin. Register,federal_register,US,2,1,1,2013,2013,false,unresolved
 67 Fed. Reg. 9366,67 fed. reg. 9366,Admin. Register,federal_register,US,2,2,1,2007,2007,true,exact
-67 Fed.Res. Bull. 181,67 fed.res. bull. 181,Admin. Register,state_register,US,2,1,1,1987,1987,false,unresolved
 68 Fed. Reg. 10417,68 fed. reg. 10417,Admin. Register,federal_register,US,2,2,2,2006,2006,true,exact
 68 Fed. Reg. 10477,68 fed. reg. 10477,Admin. Register,federal_register,US,2,1,1,2021,2021,true,exact
 68 Fed. Reg. 11325,68 fed. reg. 11325,Admin. Register,federal_register,US,2,2,2,2005,2005,true,exact
@@ -10316,7 +10282,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 70 Fed. Reg. 8499,70 fed. reg. 8499,Admin. Register,federal_register,US,2,2,2,2005,2007,false,unresolved
 70 Fed. Reg. 9,70 fed. reg. 9,Admin. Register,federal_register,US,2,2,2,2011,2023,true,register_reference
 70 Fed. Reg. 9222,70 fed. reg. 9222,Admin. Register,federal_register,US,2,1,1,2006,2006,true,exact
-70 Fed.Res. Bull. 374,70 fed.res. bull. 374,Admin. Register,state_register,US,2,2,2,1984,1985,false,unresolved
 71 Fed. Reg. 12252,71 fed. reg. 12252,Admin. Register,federal_register,US,2,2,1,2013,2013,true,exact
 71 Fed. Reg. 12275,71 fed. reg. 12275,Admin. Register,federal_register,US,2,2,1,2007,2007,false,unresolved
 71 Fed. Reg. 132,71 fed. reg. 132,Admin. Register,federal_register,US,2,1,1,2006,2006,false,unresolved
@@ -10391,7 +10356,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 71 Fed. Reg. 89,71 fed. reg. 89,Admin. Register,federal_register,US,2,2,1,2006,2007,false,unresolved
 71 Fed. Reg. 9466,71 fed. reg. 9466,Admin. Register,federal_register,US,2,2,2,2013,2018,true,exact
 71 Fed. Reg. 9727,71 fed. reg. 9727,Admin. Register,federal_register,US,2,2,1,2010,2010,true,exact
-71 Fed. Res. Bull. 789,71 fed. res. bull. 789,Admin. Register,state_register,US,2,2,1,1999,1999,false,unresolved
 72 Fed. Reg. 10362,72 fed. reg. 10362,Admin. Register,federal_register,US,2,2,1,2019,2020,true,exact
 72 Fed. Reg. 10589,72 fed. reg. 10589,Admin. Register,federal_register,US,2,1,1,2025,2025,false,unresolved
 72 Fed. Reg. 1064,72 fed. reg. 1064,Admin. Register,federal_register,US,2,2,1,2013,2013,true,exact
@@ -10536,11 +10500,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 73 Fed. Reg. 9679,73 fed. reg. 9679,Admin. Register,federal_register,US,2,2,2,2023,2025,true,exact
 73 Fed. Reg. 9685,73 fed. reg. 9685,Admin. Register,federal_register,US,2,2,2,2012,2022,true,exact
 73 Fed. Reg. 9993,73 fed. reg. 9993,Admin. Register,federal_register,US,2,2,1,2009,2018,false,unresolved
-73 Fed. Res. Bull. 473,73 fed. res. bull. 473,Admin. Register,state_register,US,2,2,1,1999,1999,false,unresolved
-73 Fed. Res. Bull. 672,73 fed. res. bull. 672,Admin. Register,state_register,US,2,2,1,1987,1987,false,unresolved
-73 Fed. Res. Bull. 740,73 fed. res. bull. 740,Admin. Register,state_register,US,2,2,1,1987,1987,false,unresolved
-73 Fed.Reserve Bull. 473,73 fed.reserve bull. 473,Admin. Register,state_register,US,2,2,1,1988,1988,false,unresolved
-73 Fed.Reserve Bull. 607,73 fed.reserve bull. 607,Admin. Register,state_register,US,2,2,1,1988,1988,false,unresolved
 74 Fed. Reg. 1,74 fed. reg. 1,Admin. Register,federal_register,US,2,2,2,2011,2021,true,exact
 74 Fed. Reg. 10667,74 fed. reg. 10667,Admin. Register,federal_register,US,2,2,2,2009,2011,false,unresolved
 74 Fed. Reg. 10669,74 fed. reg. 10669,Admin. Register,federal_register,US,2,2,1,2009,2009,false,unresolved
@@ -10678,7 +10637,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 75 Fed. Reg. 8854,75 fed. reg. 8854,Admin. Register,federal_register,US,2,2,1,2023,2023,true,exact
 75 Fed. Reg. 9725,75 fed. reg. 9725,Admin. Register,federal_register,US,2,2,2,2018,2018,false,unresolved
 75 Fed. Register 75576,75 fed. register 75576,Admin. Register,state_register,US,2,2,1,2014,2014,true,exact
-75 Fed. Res. Bull. 333,75 fed. res. bull. 333,Admin. Register,state_register,US,2,2,1,2005,2005,false,unresolved
 76 Fed. Reg. 10688,76 fed. reg. 10688,Admin. Register,federal_register,US,2,2,1,2025,2025,true,register_reference
 76 Fed. Reg. 13277,76 fed. reg. 13277,Admin. Register,federal_register,US,2,2,2,2020,2020,false,unresolved
 76 Fed. Reg. 13286,76 fed. reg. 13286,Admin. Register,federal_register,US,2,2,2,2018,2021,true,exact
@@ -10994,9 +10952,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 79 Fed. Reg. 9,79 fed. reg. 9,Admin. Register,federal_register,US,2,2,2,2019,2022,true,register_reference
 79 Fed. Reg. 94,79 fed. reg. 94,Admin. Register,federal_register,US,2,2,1,2015,2026,false,unresolved
 79 Fed. Reg. 96,79 fed. reg. 96,Admin. Register,federal_register,US,2,2,1,2014,2015,false,unresolved
-79 Fed. Res. Bull. 160,79 fed. res. bull. 160,Admin. Register,state_register,US,2,2,1,1997,1997,false,unresolved
-79 Fed. Res. Bull. 247,79 fed. res. bull. 247,Admin. Register,state_register,US,2,2,1,1997,1997,false,unresolved
-79 Fed. Res. Bull. 569,79 fed. res. bull. 569,Admin. Register,state_register,US,2,2,1,2005,2005,false,unresolved
 8 Fed. Reg. 1038,8 fed. reg. 1038,Admin. Register,federal_register,US,2,2,1,1946,1946,false,unresolved
 8 Fed. Reg. 11041,8 fed. reg. 11041,Admin. Register,federal_register,US,2,2,1,1946,1946,false,unresolved
 8 Fed. Reg. 11850,8 fed. reg. 11850,Admin. Register,federal_register,US,2,2,1,1946,1946,false,unresolved
@@ -11099,7 +11054,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 80 Fed. Reg. 8592,80 fed. reg. 8592,Admin. Register,federal_register,US,2,2,1,2016,2016,false,unresolved
 80 Fed. Reg. 9,80 fed. reg. 9,Admin. Register,federal_register,US,2,2,1,2017,2017,true,register_reference
 80 Fed. Reg. 931,80 fed. reg. 931,Admin. Register,federal_register,US,2,2,2,2015,2016,true,exact
-80 Fed. Res. Bull. 571,80 fed. res. bull. 571,Admin. Register,state_register,US,2,2,1,2004,2004,false,unresolved
 81 Fed. Reg. 11496,81 fed. reg. 11496,Admin. Register,federal_register,US,2,2,1,2016,2016,true,exact
 81 Fed. Reg. 11648,81 fed. reg. 11648,Admin. Register,federal_register,US,2,2,1,2016,2016,true,exact
 81 Fed. Reg. 11813,81 fed. reg. 11813,Admin. Register,federal_register,US,2,1,1,2017,2017,true,exact
@@ -11215,7 +11169,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 81 Fed. Reg. 96335,81 fed. reg. 96335,Admin. Register,federal_register,US,2,2,1,2018,2018,true,exact
 81 Fed. Reg. 97,81 fed. reg. 97,Admin. Register,federal_register,US,2,2,2,2020,2020,false,unresolved
 81 Fed. Reg. 97099,81 fed. reg. 97099,Admin. Register,federal_register,US,2,1,1,2020,2020,true,exact
-81 Fed. Res. Bull. 467,81 fed. res. bull. 467,Admin. Register,state_register,US,2,2,1,1997,1997,false,unresolved
 82 Fed. Reg. 10959,82 fed. reg. 10959,Admin. Register,federal_register,US,2,2,1,2022,2022,true,exact
 82 Fed. Reg. 11101,82 fed. reg. 11101,Admin. Register,federal_register,US,2,2,2,2019,2024,false,unresolved
 82 Fed. Reg. 11218,82 fed. reg. 11218,Admin. Register,federal_register,US,2,1,1,2019,2019,false,unresolved
@@ -11369,8 +11322,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 84 Fed. Reg. 7734,84 fed. reg. 7734,Admin. Register,federal_register,US,2,1,1,2020,2020,true,register_reference
 84 Fed. Reg. 8,84 fed. reg. 8,Admin. Register,federal_register,US,2,2,2,2021,2024,false,unresolved
 84 Fed. Reg. 8464,84 fed. reg. 8464,Admin. Register,federal_register,US,2,1,1,2020,2020,true,exact
-84 Fed. Res. Bull. 241,84 fed. res. bull. 241,Admin. Register,state_register,US,2,2,1,2004,2004,false,unresolved
-84 Fed. Res. Bull. 985,84 fed. res. bull. 985,Admin. Register,state_register,US,2,2,1,1999,1999,false,unresolved
 85 Fed. Reg. 10714,85 fed. reg. 10714,Admin. Register,federal_register,US,2,1,1,2022,2022,false,unresolved
 85 Fed. Reg. 1100,85 fed. reg. 1100,Admin. Register,federal_register,US,2,1,1,2023,2023,true,exact
 85 Fed. Reg. 12855,85 fed. reg. 12855,Admin. Register,federal_register,US,2,2,1,2021,2021,true,exact
@@ -12158,7 +12109,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 22 Fed. Reg. 9765,22 fed. reg. 9765,Admin. Register,federal_register,US,1,1,1,2020,2020,false,unresolved
 22 Fed. Reg. 9795,22 fed. reg. 9795,Admin. Register,federal_register,US,1,1,1,2002,2002,false,unresolved
 22 Fed. Reg. 9805,22 fed. reg. 9805,Admin. Register,federal_register,US,1,1,1,2025,2025,false,unresolved
-22 Fed. Res. Bull. 51,22 fed. res. bull. 51,Admin. Register,state_register,US,1,1,1,1984,1984,false,unresolved
 23 Fed. Reg. 10432,23 fed. reg. 10432,Admin. Register,federal_register,US,1,1,1,2018,2018,false,unresolved
 23 Fed. Reg. 10434,23 fed. reg. 10434,Admin. Register,federal_register,US,1,1,1,2018,2018,false,unresolved
 23 Fed. Reg. 10476,23 fed. reg. 10476,Admin. Register,federal_register,US,1,1,1,1969,1969,false,unresolved
@@ -12288,7 +12238,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 26 Fed. Reg. 8355,26 fed. reg. 8355,Admin. Register,federal_register,US,1,1,1,2020,2020,false,unresolved
 26 Fed. Reg. 8356,26 fed. reg. 8356,Admin. Register,federal_register,US,1,1,1,2020,2020,false,unresolved
 26 Fed. Reg. 9310,26 fed. reg. 9310,Admin. Register,federal_register,US,1,1,1,1978,1978,false,unresolved
-"26 Fed.Reg. 12112 (Dec. 19, 1961). 8 C.F.R. 242.17","26 fed.reg. 12112 (dec. 19, 1961). 8 c.f.r. 242.17",Admin. Register,cfr,US,1,1,1,1962,1962,false,unresolved
 "26 Fed.Reg. 482-83, 22 CFR 53.3","26 fed.reg. 482-83, 22 cfr 53.3",Admin. Register,cfr,US,1,1,1,1966,1966,false,unresolved
 "26 Fed.Reserve Bull. 393 (1940), 12 C.F.R. 206.102","26 fed.reserve bull. 393 (1940), 12 c.f.r. 206.102",Admin. Register,cfr,US,1,1,1,1970,1970,false,unresolved
 27 Fed. Reg. 10925,27 fed. reg. 10925,Admin. Register,federal_register,US,1,1,1,1966,1966,false,unresolved
@@ -12324,7 +12273,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 27 Fed. Reg. 8590,27 fed. reg. 8590,Admin. Register,federal_register,US,1,1,1,2000,2000,false,unresolved
 27 Fed. Register 1085,27 fed. register 1085,Admin. Register,state_register,US,1,1,1,1963,1963,false,unresolved
 "27 Fed.Reg. 1085 (1962), 3 C.F.R. 1959-1963","27 fed.reg. 1085 (1962), 3 c.f.r. 1959-1963",Admin. Register,cfr,US,1,1,1,1989,1989,false,unresolved
-27 Fed.Reserve Bull. 399,27 fed.reserve bull. 399,Admin. Register,state_register,US,1,1,1,1946,1946,false,unresolved
 28 Fed. Reg. 10170,28 fed. reg. 10170,Admin. Register,federal_register,US,1,1,1,1995,1995,false,unresolved
 28 Fed. Reg. 10948,28 fed. reg. 10948,Admin. Register,federal_register,US,1,1,1,1982,1982,false,unresolved
 28 Fed. Reg. 11,28 fed. reg. 11,Admin. Register,federal_register,US,1,1,1,1999,1999,false,unresolved
@@ -12571,7 +12519,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 33 Fed. Reg. 8585,33 fed. reg. 8585,Admin. Register,federal_register,US,1,1,1,1970,1970,false,unresolved
 33 Fed. Reg. 9819,33 fed. reg. 9819,Admin. Register,federal_register,US,1,1,1,1972,1972,false,unresolved
 33 Fed. Reg. 9908,33 fed. reg. 9908,Admin. Register,federal_register,US,1,1,1,1972,1972,false,unresolved
-33 Fed. Res. Bull. 518,33 fed. res. bull. 518,Admin. Register,state_register,US,1,1,1,2018,2018,false,unresolved
 34 Fed. Reg. 1018,34 fed. reg. 1018,Admin. Register,federal_register,US,1,1,1,1974,1974,false,unresolved
 34 Fed. Reg. 1030,34 fed. reg. 1030,Admin. Register,federal_register,US,1,1,1,1973,1973,false,unresolved
 34 Fed. Reg. 11,34 fed. reg. 11,Admin. Register,federal_register,US,1,1,1,2023,2023,false,unresolved
@@ -12662,7 +12609,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 35 Fed. Reg. 9262,35 fed. reg. 9262,Admin. Register,federal_register,US,1,1,1,2006,2006,false,unresolved
 35 Fed. Reg. 9934,35 fed. reg. 9934,Admin. Register,federal_register,US,1,1,1,1988,1988,false,unresolved
 35 Fed. Register 5003,35 fed. register 5003,Admin. Register,state_register,US,1,1,1,1974,1974,false,unresolved
-35 Fed. Reserve Bull. 335,35 fed. reserve bull. 335,Admin. Register,state_register,US,1,1,1,1950,1950,false,unresolved
 "35 Fed.Reg. 1233, 29 C.F.R. 1607","35 fed.reg. 1233, 29 c.f.r. 1607",Admin. Register,cfr,US,1,1,1,1971,1971,false,unresolved
 "35 Fed.Reg. 12333, 29 C.F.R. 1607.5","35 fed.reg. 12333, 29 c.f.r. 1607.5",Admin. Register,cfr,US,1,1,1,1973,1973,false,unresolved
 35 Fed.Reg. 7390 (April 1970) 25 16 U.S.C. 461,35 fed.reg. 7390 (april 1970) 25 16 u.s.c. 461,Admin. Register,usc,US,1,1,1,1974,1974,false,unresolved
@@ -13024,7 +12970,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 38 Fed. Reg. 9537,38 fed. reg. 9537,Admin. Register,federal_register,US,1,1,1,1983,1983,false,unresolved
 38 Fed. Register 28759,38 fed. register 28759,Admin. Register,state_register,US,1,1,1,1974,1974,false,unresolved
 "38 Fed.Reg. 20550 (1973), 40 C.F.R. 1500","38 fed.reg. 20550 (1973), 40 c.f.r. 1500",Admin. Register,cfr,US,1,1,1,1975,1975,false,unresolved
-"38 Fed.Reg. 20550, 20552 (1973). 40 C.F.R. 1500.2","38 fed.reg. 20550, 20552 (1973). 40 c.f.r. 1500.2",Admin. Register,cfr,US,1,1,1,1974,1974,false,unresolved
 39 Fed. Reg. 1,39 fed. reg. 1,Admin. Register,federal_register,US,1,1,1,2022,2022,false,unresolved
 39 Fed. Reg. 10242,39 fed. reg. 10242,Admin. Register,federal_register,US,1,1,1,1985,1985,false,unresolved
 39 Fed. Reg. 10260,39 fed. reg. 10260,Admin. Register,federal_register,US,1,1,1,2013,2013,false,unresolved
@@ -13807,7 +13752,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 43 Fed. Reg. 9299,43 fed. reg. 9299,Admin. Register,federal_register,US,1,1,1,1981,1981,false,unresolved
 43 Fed. Reg. 9610,43 fed. reg. 9610,Admin. Register,federal_register,US,1,1,1,2010,2010,false,unresolved
 43 Fed. Reg. 966,43 fed. reg. 966,Admin. Register,federal_register,US,1,1,1,2019,2019,false,unresolved
-43 Fed. Res. Bull. 1014,43 fed. res. bull. 1014,Admin. Register,state_register,US,1,1,1,1980,1980,false,unresolved
 44 Fed. Reg. 10026,44 fed. reg. 10026,Admin. Register,federal_register,US,1,1,1,1980,1980,false,unresolved
 44 Fed. Reg. 10028,44 fed. reg. 10028,Admin. Register,federal_register,US,1,1,1,1980,1980,false,unresolved
 "44 Fed. Reg. 1053, 3 C.F.R. 263","44 fed. reg. 1053, 3 c.f.r. 263",Admin. Register,cfr,US,1,1,1,1983,1983,false,unresolved
@@ -14203,7 +14147,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 45 Fed. Reg. 9931,45 fed. reg. 9931,Admin. Register,federal_register,US,1,1,1,1984,1984,false,unresolved
 45 Fed. Register 55583,45 fed. register 55583,Admin. Register,state_register,US,1,1,1,1983,1983,false,unresolved
 "45 Fed.Reg. 3353 (Proposed January 17, 1980) 35 49 U.S.C.A. 10709","45 fed.reg. 3353 (proposed january 17, 1980) 35 49 u.s.c.a. 10709",Admin. Register,usc,US,1,1,1,1983,1983,false,unresolved
-45 Fed.Res. Bull. 917,45 fed.res. bull. 917,Admin. Register,state_register,US,1,1,1,1976,1976,false,unresolved
 46 Fed. Reg. 1,46 fed. reg. 1,Admin. Register,federal_register,US,1,1,1,2020,2020,false,unresolved
 46 Fed. Reg. 1220,46 fed. reg. 1220,Admin. Register,federal_register,US,1,1,1,1982,1982,false,unresolved
 46 Fed. Reg. 1246,46 fed. reg. 1246,Admin. Register,federal_register,US,1,1,1,1982,1982,false,unresolved
@@ -15180,8 +15123,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 51 Fed. Reg. 9950,51 fed. reg. 9950,Admin. Register,federal_register,US,1,1,1,2014,2014,false,unresolved
 51 Fed. Register 19694,51 fed. register 19694,Admin. Register,state_register,US,1,1,1,2017,2017,false,unresolved
 51 Fed. Register 23051,51 fed. register 23051,Admin. Register,state_register,US,1,1,1,1999,1999,false,unresolved
-51 Fed. Reserve Bull. 1212,51 fed. reserve bull. 1212,Admin. Register,state_register,US,1,1,1,1967,1967,false,unresolved
-51 Fed.Res. Bull. 1085,51 fed.res. bull. 1085,Admin. Register,state_register,US,1,1,1,1981,1981,false,unresolved
 52 Fed. Reg. 10017,52 fed. reg. 10017,Admin. Register,federal_register,US,1,1,1,2005,2005,false,unresolved
 52 Fed. Reg. 10066,52 fed. reg. 10066,Admin. Register,federal_register,US,1,1,1,1996,1996,false,unresolved
 52 Fed. Reg. 10094,52 fed. reg. 10094,Admin. Register,federal_register,US,1,1,1,1988,1988,false,unresolved
@@ -16387,8 +16328,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 59 Fed. Reg. 94,59 fed. reg. 94,Admin. Register,federal_register,US,1,1,1,2020,2020,false,unresolved
 59 Fed. Reg. 9534,59 fed. reg. 9534,Admin. Register,federal_register,US,1,1,1,1998,1998,false,unresolved
 59 Fed. Reg. 9956,59 fed. reg. 9956,Admin. Register,federal_register,US,1,1,1,1994,1994,false,unresolved
-59 Fed. Res. Bull. 364,59 fed. res. bull. 364,Admin. Register,state_register,US,1,1,1,1980,1980,false,unresolved
-59 Fed.Res. Bull. 539,59 fed.res. bull. 539,Admin. Register,state_register,US,1,1,1,1975,1975,false,unresolved
 6 Fed. Reg. 1015,6 fed. reg. 1015,Admin. Register,federal_register,US,1,1,1,2014,2014,false,unresolved
 "6 Fed. Reg. 1162, 1166, 38 C.F.R. 1941","6 fed. reg. 1162, 1166, 38 c.f.r. 1941",Admin. Register,cfr,US,1,1,1,1948,1948,false,unresolved
 6 Fed. Reg. 11939,6 fed. reg. 11939,Admin. Register,federal_register,US,1,1,1,2025,2025,false,unresolved
@@ -16586,7 +16525,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 60 Fed. Reg. 9852,60 fed. reg. 9852,Admin. Register,federal_register,US,1,1,1,1993,1993,false,unresolved
 60 Fed. Reg. 9950,60 fed. reg. 9950,Admin. Register,federal_register,US,1,1,1,2006,2006,true,register_reference
 60 Fed. Register 62172,60 fed. register 62172,Admin. Register,state_register,US,1,1,1,2012,2012,true,exact
-60 Fed. Res. Bull. 868,60 fed. res. bull. 868,Admin. Register,state_register,US,1,1,1,1986,1986,false,unresolved
 "60 Fed.Reg. 19825 (Apr. 17, 1995), 8 C.F.R. 333","60 fed.reg. 19825 (apr. 17, 1995), 8 c.f.r. 333",Admin. Register,cfr,US,1,1,1,2002,2002,false,unresolved
 61 Fed. Reg. 10012,61 fed. reg. 10012,Admin. Register,federal_register,US,1,1,1,1998,1998,true,exact
 61 Fed. Reg. 10068,61 fed. reg. 10068,Admin. Register,federal_register,US,1,1,1,1997,1997,true,exact
@@ -17192,7 +17130,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 63 Fed. Reg. 9177,63 fed. reg. 9177,Admin. Register,federal_register,US,1,1,1,2007,2007,false,unresolved
 63 Fed. Reg. 9362,63 fed. reg. 9362,Admin. Register,federal_register,US,1,1,1,2006,2006,false,unresolved
 63 Fed. Reg. 9632,63 fed. reg. 9632,Admin. Register,federal_register,US,1,1,1,2015,2015,true,exact
-63 Fed. Res. Bull. 280,63 fed. res. bull. 280,Admin. Register,state_register,US,1,1,1,1986,1986,false,unresolved
 64 Fed. Reg. 10081,64 fed. reg. 10081,Admin. Register,federal_register,US,1,1,1,2007,2007,true,register_reference
 64 Fed. Reg. 10082,64 fed. reg. 10082,Admin. Register,federal_register,US,1,1,1,2007,2007,true,register_reference
 64 Fed. Reg. 10085,64 fed. reg. 10085,Admin. Register,federal_register,US,1,1,1,2007,2007,true,register_reference
@@ -17564,6 +17501,7 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 65 Fed. Reg. 64556,65 fed. reg. 64556,Admin. Register,federal_register,US,1,1,1,2014,2014,true,exact
 65 Fed. Reg. 64586,65 fed. reg. 64586,Admin. Register,federal_register,US,1,1,1,2010,2010,true,register_reference
 65 Fed. Reg. 65616,65 fed. reg. 65616,Admin. Register,federal_register,US,1,1,1,2005,2005,true,exact
+65 Fed. Reg. 65678,65 fed. reg. 65678,Admin. Register,federal_register,US,1,1,1,2003,2003,true,exact
 65 Fed. Reg. 65831,65 fed. reg. 65831,Admin. Register,federal_register,US,1,1,1,2005,2005,false,unresolved
 65 Fed. Reg. 6587,65 fed. reg. 6587,Admin. Register,federal_register,US,1,1,1,2002,2002,false,unresolved
 65 Fed. Reg. 67068,65 fed. reg. 67068,Admin. Register,federal_register,US,1,1,1,2002,2002,true,exact
@@ -18398,9 +18336,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 69 Fed. Reg. 954,69 fed. reg. 954,Admin. Register,federal_register,US,1,1,1,2018,2018,true,exact
 69 Fed. Reg. 9618,69 fed. reg. 9618,Admin. Register,federal_register,US,1,1,1,2010,2010,true,exact
 69 Fed. Register 6,69 fed. register 6,Admin. Register,state_register,US,1,1,1,2007,2007,false,unresolved
-69 Fed. Res. Bull. 105,69 fed. res. bull. 105,Admin. Register,state_register,US,1,1,1,1984,1984,false,unresolved
-69 Fed. Res. Bull. 319,69 fed. res. bull. 319,Admin. Register,state_register,US,1,1,1,1991,1991,false,unresolved
-69 Fed. Res. Bull. 921,69 fed. res. bull. 921,Admin. Register,state_register,US,1,1,1,1986,1986,false,unresolved
 7 Fed. Reg. 10091,7 fed. reg. 10091,Admin. Register,federal_register,US,1,1,1,1944,1944,false,unresolved
 7 Fed. Reg. 10125,7 fed. reg. 10125,Admin. Register,federal_register,US,1,1,1,2025,2025,false,unresolved
 7 Fed. Reg. 105,7 fed. reg. 105,Admin. Register,federal_register,US,1,1,1,2013,2013,false,unresolved
@@ -18653,7 +18588,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 70 Fed. Reg. 8373,70 fed. reg. 8373,Admin. Register,federal_register,US,1,1,1,2015,2015,true,exact
 70 Fed. Reg. 9041,70 fed. reg. 9041,Admin. Register,federal_register,US,1,1,1,2013,2013,false,unresolved
 70 Fed. Reg. 9271,70 fed. reg. 9271,Admin. Register,federal_register,US,1,1,1,2017,2017,false,unresolved
-70 Fed.Res. Bull. 353,70 fed.res. bull. 353,Admin. Register,state_register,US,1,1,1,1984,1984,false,unresolved
 71 Fed. Reg. 12240,71 fed. reg. 12240,Admin. Register,federal_register,US,1,1,1,2013,2013,true,exact
 71 Fed. Reg. 12468,71 fed. reg. 12468,Admin. Register,federal_register,US,1,1,1,2014,2014,true,exact
 71 Fed. Reg. 138,71 fed. reg. 138,Admin. Register,federal_register,US,1,1,1,2007,2007,false,unresolved
@@ -18818,7 +18752,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 71 Fed. Reg. 9762,71 fed. reg. 9762,Admin. Register,federal_register,US,1,1,1,2009,2009,true,register_reference
 71 Fed. Reg. 9834,71 fed. reg. 9834,Admin. Register,federal_register,US,1,1,1,2007,2007,false,unresolved
 71 Fed. Reg. 9910,71 fed. reg. 9910,Admin. Register,federal_register,US,1,1,1,2010,2010,true,exact
-71 Fed.Res. Bull. 789,71 fed.res. bull. 789,Admin. Register,state_register,US,1,1,1,1989,1989,false,unresolved
 72 Fed. Reg. 10308,72 fed. reg. 10308,Admin. Register,federal_register,US,1,1,1,2023,2023,true,exact
 72 Fed. Reg. 10492,72 fed. reg. 10492,Admin. Register,federal_register,US,1,1,1,2010,2010,false,unresolved
 72 Fed. Reg. 10669,72 fed. reg. 10669,Admin. Register,federal_register,US,1,1,1,2010,2010,false,unresolved
@@ -19216,8 +19149,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 73 Fed. Reg. 9260,73 fed. reg. 9260,Admin. Register,federal_register,US,1,1,1,2008,2008,true,exact
 73 Fed. Reg. 9304,73 fed. reg. 9304,Admin. Register,federal_register,US,1,1,1,2008,2008,false,unresolved
 73 Fed. Register 28,73 fed. register 28,Admin. Register,state_register,US,1,1,1,2008,2008,false,unresolved
-73 Fed.Res. Bull. 162,73 fed.res. bull. 162,Admin. Register,state_register,US,1,1,1,1990,1990,false,unresolved
-73 Fed.Res. Bull. 876,73 fed.res. bull. 876,Admin. Register,state_register,US,1,1,1,1989,1989,false,unresolved
 74 Fed. Reg. 1092,74 fed. reg. 1092,Admin. Register,federal_register,US,1,1,1,2016,2016,true,exact
 74 Fed. Reg. 10983,74 fed. reg. 10983,Admin. Register,federal_register,US,1,1,1,2012,2012,false,unresolved
 74 Fed. Reg. 11349,74 fed. reg. 11349,Admin. Register,federal_register,US,1,1,1,2013,2013,false,unresolved
@@ -19361,7 +19292,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 74 Fed. Reg. 9753,74 fed. reg. 9753,Admin. Register,federal_register,US,1,1,1,2009,2009,false,unresolved
 74 Fed. Reg. 978,74 fed. reg. 978,Admin. Register,federal_register,US,1,1,1,2010,2010,false,unresolved
 74 Fed. Reg. 9787,74 fed. reg. 9787,Admin. Register,federal_register,US,1,1,1,2010,2010,false,unresolved
-74 Fed.Res. Bull. 192,74 fed.res. bull. 192,Admin. Register,state_register,US,1,1,1,1990,1990,false,unresolved
 75 Fed. Reg. 1013,75 fed. reg. 1013,Admin. Register,federal_register,US,1,1,1,2015,2015,false,unresolved
 75 Fed. Reg. 11230,75 fed. reg. 11230,Admin. Register,federal_register,US,1,1,1,2015,2015,false,unresolved
 75 Fed. Reg. 1180,75 fed. reg. 1180,Admin. Register,federal_register,US,1,1,1,2015,2015,true,exact
@@ -19676,8 +19606,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 76 Fed. Reg. 82116,76 fed. reg. 82116,Admin. Register,federal_register,US,1,1,1,2013,2013,true,exact
 76 Fed. Reg. 84,76 fed. reg. 84,Admin. Register,federal_register,US,1,1,1,2011,2011,true,exact
 76 Fed. Reg. 9457,76 fed. reg. 9457,Admin. Register,federal_register,US,1,1,1,2012,2012,true,register_reference
-76 Fed. Res. Bull. 1058,76 fed. res. bull. 1058,Admin. Register,state_register,US,1,1,1,2003,2003,false,unresolved
-76 Fed.Res. Bull. 977,76 fed.res. bull. 977,Admin. Register,state_register,US,1,1,1,1991,1991,false,unresolved
 77 Fed. Reg. 10038,77 fed. reg. 10038,Admin. Register,federal_register,US,1,1,1,2018,2018,true,exact
 77 Fed. Reg. 10195,77 fed. reg. 10195,Admin. Register,federal_register,US,1,1,1,2013,2013,false,unresolved
 77 Fed. Reg. 10655,77 fed. reg. 10655,Admin. Register,federal_register,US,1,1,1,2022,2022,true,register_reference
