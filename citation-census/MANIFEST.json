@@ -3,8 +3,8 @@
   {
    "path": "README.md",
    "rows": 0,
-   "bytes": 4092,
-   "sha256": "36622d43d11ec6b2050345bcab7c2c481310ec37febbb1a109ea7d0da9e7d37e"
+   "bytes": 6617,
+   "sha256": "4095392bab714b8aed02862dfedbb917c49495bccf83137e774a1bc29204b866"
   },
   {
    "path": "citations/administrative-registers/ak.csv",
@@ -32,9 +32,9 @@
   },
   {
    "path": "citations/administrative-registers/ca.csv",
-   "rows": 51,
-   "bytes": 5795,
-   "sha256": "54cd9a16a1c2c68d3f26aae35feccadd0dd24ab2e58351f551323bcca5dcbd88"
+   "rows": 50,
+   "bytes": 5688,
+   "sha256": "09c5aaf4615258c43f198a28456ae2da7cfc09849797ded3373d24af0ac898c7"
   },
   {
    "path": "citations/administrative-registers/co.csv",
@@ -44,9 +44,9 @@
   },
   {
    "path": "citations/administrative-registers/ct.csv",
-   "rows": 8,
-   "bytes": 1014,
-   "sha256": "ee68b196f9bc94b62752c35f654bd1195112119c690ea62b4bf7a5979cb55cd0"
+   "rows": 4,
+   "bytes": 562,
+   "sha256": "6f5f031a6f3f5297d9c76a011509dd51947fbd6feaba32f6aa0a2b1bb98946da"
   },
   {
    "path": "citations/administrative-registers/dc.csv",
@@ -62,9 +62,9 @@
   },
   {
    "path": "citations/administrative-registers/federal.csv",
-   "rows": 22017,
-   "bytes": 2318736,
-   "sha256": "960514f2eed099c8d9246c57b276c55f67a69aa088f49ffba94ed12b51268442"
+   "rows": 21945,
+   "bytes": 2310435,
+   "sha256": "12233e4d7a851c6fd58ea511ad5be10b1a49d264c7492ef86619f88019154a81"
   },
   {
    "path": "citations/administrative-registers/fl.csv",
@@ -194,9 +194,9 @@
   },
   {
    "path": "citations/administrative-registers/nm.csv",
-   "rows": 16,
-   "bytes": 1851,
-   "sha256": "849aaaac6e87f7ee707f17258cbf8c562ea1cde7df5cebf233dba67a3179fbdf"
+   "rows": 15,
+   "bytes": 1744,
+   "sha256": "917a789b30a904e37eb1cb9ccf0a82c6c199e76791bfb077ca6d55513c917b1d"
   },
   {
    "path": "citations/administrative-registers/nv.csv",
@@ -230,9 +230,9 @@
   },
   {
    "path": "citations/administrative-registers/pa.csv",
-   "rows": 230,
-   "bytes": 24326,
-   "sha256": "9360c460a05c4a2ec779cb14bc78119dd006f1c2d319578337fe85ba2c07a983"
+   "rows": 229,
+   "bytes": 24219,
+   "sha256": "5dd5b03006cb691de9fe99076675a53abac29567a2a3fe6cba61be7c348a86d0"
   },
   {
    "path": "citations/administrative-registers/pr.csv",
@@ -260,15 +260,15 @@
   },
   {
    "path": "citations/administrative-registers/tx.csv",
-   "rows": 1266,
-   "bytes": 133046,
-   "sha256": "e83df43ec054cdb61e9566c70391398b72ddbb26b4526fec15e547c0ad7ab170"
+   "rows": 1249,
+   "bytes": 131223,
+   "sha256": "680dd3764ab007cf2eea7acfb8254ba9971e29c7fadfb79ea863ab655fe7f7e7"
   },
   {
    "path": "citations/administrative-registers/unknown.csv",
-   "rows": 324,
-   "bytes": 32549,
-   "sha256": "9848baefa447664f250d4629b4646e0bb9992d4a2717f2d7271a31ea44f98144"
+   "rows": 317,
+   "bytes": 31838,
+   "sha256": "6e5e2050fb7c006a51c193d00e7c5b277c16ecce91c3698e79c8ea816a31b310"
   },
   {
    "path": "citations/administrative-registers/ut.csv",
@@ -290,33 +290,33 @@
   },
   {
    "path": "citations/administrative-registers/wa.csv",
-   "rows": 9,
-   "bytes": 1131,
-   "sha256": "31e55d52a0d4a171d05f40becd56c6205712541a763261bef147508e1059a609"
+   "rows": 8,
+   "bytes": 1022,
+   "sha256": "1e8b9b00810d3fcee3fbcbdc2f6ce43dd1f2fb41de90b214be4f511b2f8ec15e"
   },
   {
    "path": "citations/administrative-registers/wi.csv",
-   "rows": 58,
-   "bytes": 6498,
-   "sha256": "0b6612d392f83a0d136c0c385bed48efe2fa3790aebe7f6ab95bf02b0071627e"
+   "rows": 27,
+   "bytes": 3133,
+   "sha256": "81592302e9cdab05410f0044a372f470829f62067422022283ae6abe8954422c"
   },
   {
    "path": "citations/constitutions/ak.csv",
-   "rows": 1228,
-   "bytes": 158495,
-   "sha256": "4ccd8e2da721d59c477a0b7052dca6bb1e291b9544902c93b438d0da793d0706"
+   "rows": 1189,
+   "bytes": 151683,
+   "sha256": "5ce82bd0882ae67cec21034ad12e8f66642c37ce145d58a5bcb5b4ea2b7f4b32"
   },
   {
    "path": "citations/constitutions/al.csv",
-   "rows": 2086,
-   "bytes": 262742,
-   "sha256": "86dd31df80ce50dc16871f1e484c42d7432075b69edab777be21b5e032f20518"
+   "rows": 2074,
+   "bytes": 260972,
+   "sha256": "8cd5cd8405cf34cc51404be8b13a3f4852ec0173233e99934a2298cbec79beb7"
   },
   {
    "path": "citations/constitutions/ar.csv",
-   "rows": 2524,
-   "bytes": 318290,
-   "sha256": "0b5b58ec5abde89e4ee6f1b7c00d239e61d0e51cb209c9e4ee000410f9c9db91"
+   "rows": 2506,
+   "bytes": 315600,
+   "sha256": "508eb98cb8b7eff400355b9bbf496873464ea4fcf2381723338f5599038768b4"
   },
   {
    "path": "citations/constitutions/as.csv",
@@ -326,27 +326,27 @@
   },
   {
    "path": "citations/constitutions/az.csv",
-   "rows": 2828,
-   "bytes": 380643,
-   "sha256": "d1a2436304d3e64d9d1f74feda865186bab1163376788ac3d61ea5ea8324687f"
+   "rows": 2822,
+   "bytes": 379739,
+   "sha256": "6021d7ca80e3d6fa7894d96011be39fd43b41c72829c7a687cd62e7cdfb3484a"
   },
   {
    "path": "citations/constitutions/ca.csv",
-   "rows": 4553,
-   "bytes": 612706,
-   "sha256": "a7d0e2414299cffa5e1c6a0de57fe5ea27a59e59e6c7cdd16017d822d708eec2"
+   "rows": 4397,
+   "bytes": 591823,
+   "sha256": "a5b19544888c42f7dbb210561e1a1c3c839cc151cf6a4edb5e00a35d5b4d69cc"
   },
   {
    "path": "citations/constitutions/co.csv",
-   "rows": 2567,
-   "bytes": 329520,
-   "sha256": "5bfe5424b0f1955596b315e99afddc7c3af44661a5d1534f89837516cba2e40a"
+   "rows": 2547,
+   "bytes": 326095,
+   "sha256": "b77b3bf9c96752b723b2b5bdd36a55ea739c9587f341deb14ae5abdf8d61c4ea"
   },
   {
    "path": "citations/constitutions/ct.csv",
-   "rows": 577,
-   "bytes": 72589,
-   "sha256": "d5c8090772fa4b871de01b19a123783206cb8c7fd7b5ec46e3024d2b2b7a12e9"
+   "rows": 568,
+   "bytes": 71309,
+   "sha256": "2859990cf0550a9b562e5aa89a332f427e4497c444ebc21bb138d8297a8a8651"
   },
   {
    "path": "citations/constitutions/dc.csv",
@@ -356,75 +356,75 @@
   },
   {
    "path": "citations/constitutions/de.csv",
-   "rows": 1053,
-   "bytes": 132399,
-   "sha256": "c529405800639180690b9b52e13db6adeee060bc2ff5fd3028359d870cdbb353"
+   "rows": 1047,
+   "bytes": 130939,
+   "sha256": "17c17fcdaea536b44ea6c79c1016f94b265708f96254d473d72abd771dcb5084"
   },
   {
    "path": "citations/constitutions/federal.csv",
-   "rows": 9545,
-   "bytes": 1245326,
-   "sha256": "64cd0b784f6a1a15efe336e66e7620c67aaea56e3ff01980681ee6c0e13b1302"
+   "rows": 9229,
+   "bytes": 1194365,
+   "sha256": "325e3344abcbb13e3c7cca265b916e0496b3918f96aaea39a150bcf97df2b2ab"
   },
   {
    "path": "citations/constitutions/fl.csv",
-   "rows": 2085,
-   "bytes": 264640,
-   "sha256": "e2fb6b1380d199fe3d2110b710b05c1e932200da994eabdd156ff2cc8669652d"
+   "rows": 2062,
+   "bytes": 261210,
+   "sha256": "d203cd44232622faac7edcff6caf36a433a346324cf320674d16bf429f5d5451"
   },
   {
    "path": "citations/constitutions/ga.csv",
-   "rows": 1287,
-   "bytes": 192251,
-   "sha256": "744844405bba131e71d30413ea30b66475d1fe20505b2e08db4557b56198b637"
+   "rows": 1283,
+   "bytes": 191691,
+   "sha256": "87ffb7c0d2a91ebf7d0ec469a20c3f7cd288030c6c7daa72f8dcb82e58b6588a"
   },
   {
    "path": "citations/constitutions/hi.csv",
-   "rows": 737,
-   "bytes": 91047,
-   "sha256": "498c50d70c50deea5dd2527a420ff81c02316398ce5d1dc675e8840a8bfd47c8"
+   "rows": 734,
+   "bytes": 90633,
+   "sha256": "4373b5e6a165a111b03c271991558c4602b766382d26e7c55d40d090662fc4b6"
   },
   {
    "path": "citations/constitutions/ia.csv",
-   "rows": 616,
-   "bytes": 76212,
-   "sha256": "f96ef6cca4973b5765627f9a18069059fb4660f6e2ab438c010637d41bb44ef5"
+   "rows": 614,
+   "bytes": 75949,
+   "sha256": "ab90e4fc65d1bc64d353f8e761f2b91923161f9d669cde3baa8434f2882c53e6"
   },
   {
    "path": "citations/constitutions/id.csv",
-   "rows": 1201,
-   "bytes": 150675,
-   "sha256": "3af440cb5599d280a734c65247e249faee91fc77df98ef4a001d02910a2944cc"
+   "rows": 1192,
+   "bytes": 149195,
+   "sha256": "af2c40a50cba7f0d65813033a98fe3d8dd8b8a36f491332dcd376f7f88f0e413"
   },
   {
    "path": "citations/constitutions/il.csv",
-   "rows": 2155,
-   "bytes": 310725,
-   "sha256": "fa85f665cc54fc242d395817952ef75bbadc1348fe23dee2be8697fb87d6f34f"
+   "rows": 2114,
+   "bytes": 304869,
+   "sha256": "efe496f2a3a3e32af046e735cb1ac14361cadee8efbe7a68ce46f3bb84529959"
   },
   {
    "path": "citations/constitutions/in.csv",
-   "rows": 1486,
-   "bytes": 188002,
-   "sha256": "065edfedd0728b9367d72c22dc1ba13f627ef468e688be2e31900514c11092d5"
+   "rows": 1485,
+   "bytes": 187766,
+   "sha256": "84c6b994139529877238c6c047f245fbe838afd138660c85829f43da744002d7"
   },
   {
    "path": "citations/constitutions/ks.csv",
-   "rows": 608,
-   "bytes": 76174,
-   "sha256": "6c26f6fae15ea2fe443b2a21e2b50dc44b3c6d8ee6313536d39051c9fca828ee"
+   "rows": 601,
+   "bytes": 74953,
+   "sha256": "dd437962feb0476b4d593a1218be397d8ef1b875f34df22f299adc1554997ce7"
   },
   {
    "path": "citations/constitutions/ky.csv",
-   "rows": 970,
-   "bytes": 116158,
-   "sha256": "5a47c9b84d8bd263d58d4abf6574d6e2d51a4e136eb742e45d3d87dc99dc34a1"
+   "rows": 885,
+   "bytes": 106280,
+   "sha256": "ebdd0cdf4e5321d4f14534e81db3169688e5d506a9469088fdd932becf35e196"
   },
   {
    "path": "citations/constitutions/la.csv",
-   "rows": 5919,
-   "bytes": 748811,
-   "sha256": "fe3f34571a1dad5654034f2e2c4ac776db7392f2ab3bfdf238459dfdde8e2ca9"
+   "rows": 5787,
+   "bytes": 728333,
+   "sha256": "1492d7137fa398bcb8774de4164272f3fd708d0ab5969b802f052e926187a669"
   },
   {
    "path": "citations/constitutions/ma.csv",
@@ -434,45 +434,45 @@
   },
   {
    "path": "citations/constitutions/md.csv",
-   "rows": 1185,
-   "bytes": 152270,
-   "sha256": "280756ce815dfcdce1953802a9e94dd745a2c6fe57d51ae1e4d5866a3ed6e744"
+   "rows": 1177,
+   "bytes": 150978,
+   "sha256": "9df58ab31a205ff4d241ff661c6d03f867822e86936e29a81337dda38e6e0108"
   },
   {
    "path": "citations/constitutions/me.csv",
-   "rows": 837,
-   "bytes": 106383,
-   "sha256": "25d1f6100cc4d0db7ca4ef319958d7641fb4113bb72505bda22508a23f5f96f9"
+   "rows": 834,
+   "bytes": 105935,
+   "sha256": "314f1ee1cfb3737da9818c33ac99aef0a9fbd078a17f9655af26bb9f9ca3fd5a"
   },
   {
    "path": "citations/constitutions/mi.csv",
-   "rows": 1510,
-   "bytes": 203631,
-   "sha256": "672f65f37d8358d81dae142ef51e88d74bbb9c9b93c6d41f20011a1f4c89eb90"
+   "rows": 1504,
+   "bytes": 202667,
+   "sha256": "4c29a86349536f5006dd62573d68465dfaa795bd23724cb77820c1e59b63845f"
   },
   {
    "path": "citations/constitutions/mn.csv",
-   "rows": 1250,
-   "bytes": 158508,
-   "sha256": "5a51cc4de7a8ee5997096970a2e157c4ea2b73d9bb09c165a7f0e6d28e95290b"
+   "rows": 1229,
+   "bytes": 154913,
+   "sha256": "210c8e835fbdbbcac9bc406b15f8a48c0f9437f39a1238d82114ab74d8f4d86b"
   },
   {
    "path": "citations/constitutions/mo.csv",
-   "rows": 3043,
-   "bytes": 384317,
-   "sha256": "3658d663babb2e03e25eba1ea9ca1b5e1820afb31e69e0bca2b800e74598d306"
+   "rows": 3035,
+   "bytes": 383173,
+   "sha256": "fa797c475f44920b3b47555d2ebb97128cd9cf995bd2e3d286140f8d9d918d31"
   },
   {
    "path": "citations/constitutions/mp.csv",
-   "rows": 97,
-   "bytes": 12231,
-   "sha256": "f703f986177dc82f541151b292cbb186835c74b2360b05e06f6560d3bd46a4b8"
+   "rows": 96,
+   "bytes": 12003,
+   "sha256": "d8e24aaa8bf956c00a17589aaa17abb3ea3c5742cac30fc522b3a02a18cf4ed2"
   },
   {
    "path": "citations/constitutions/ms.csv",
-   "rows": 1577,
-   "bytes": 204578,
-   "sha256": "54335b53df68e24415b56dcae2624e827f016eae706f6d82a965631b52e3469c"
+   "rows": 1556,
+   "bytes": 201414,
+   "sha256": "c83998ac1d1dbd4a8f93a2cbbeea65dc9ab9d247bb74780628cd6ae80b9e42b6"
   },
   {
    "path": "citations/constitutions/mt.csv",
@@ -482,21 +482,21 @@
   },
   {
    "path": "citations/constitutions/nc.csv",
-   "rows": 1386,
-   "bytes": 184688,
-   "sha256": "a9555338e29bcde5de5069b4082296cf3323fcea54a49f820b82c143a24847cc"
+   "rows": 1381,
+   "bytes": 183822,
+   "sha256": "2a29c876ec46105eddc5d059d22ff750053fcce546fe2885e31e69925085cd54"
   },
   {
    "path": "citations/constitutions/nd.csv",
-   "rows": 872,
-   "bytes": 108211,
-   "sha256": "be521cf33ea1dba83b6ecfd375b393da5281042a58ffea5fc139024da27f1165"
+   "rows": 870,
+   "bytes": 107903,
+   "sha256": "45db4900f2b5cb2a89b87fb8e0366984f2d0571234cf3fe5a7b3b1dfd7ba8c65"
   },
   {
    "path": "citations/constitutions/ne.csv",
-   "rows": 1014,
-   "bytes": 128658,
-   "sha256": "4084f65b8fd1bb446e12567e10d9cb1a8ca63d82910757e4de2a0b9f0fa810a6"
+   "rows": 948,
+   "bytes": 118152,
+   "sha256": "61ff3761b8b52af525953dae6bc7a3a9cb0cea5bfc9bc2a8cd21cf783ed923f4"
   },
   {
    "path": "citations/constitutions/nh.csv",
@@ -506,57 +506,57 @@
   },
   {
    "path": "citations/constitutions/nj.csv",
-   "rows": 1485,
-   "bytes": 197683,
-   "sha256": "26c3743f389f942b637bc07535e50e1c66e8535453a9da42094e0e078f271087"
+   "rows": 1480,
+   "bytes": 197010,
+   "sha256": "ec9328ccee5122efe2959c7446d5b118f8b27bdc5f73b63b0293a0f2fbcf537b"
   },
   {
    "path": "citations/constitutions/nm.csv",
-   "rows": 1554,
-   "bytes": 195303,
-   "sha256": "c2b2512008a4926b6585e29c803da85719198391767f9b8596137f7b0ae96f0e"
+   "rows": 1552,
+   "bytes": 195011,
+   "sha256": "91d6e2eac44d934b9f41be285f5332326d619a2e64a6e0de0e00beca11da71fd"
   },
   {
    "path": "citations/constitutions/nv.csv",
-   "rows": 861,
-   "bytes": 105334,
-   "sha256": "672f0e5385d39d52ff305fb5df707b62e878627363ff18642803ce5ed6510030"
+   "rows": 838,
+   "bytes": 101839,
+   "sha256": "36b038ab23f7022476e384470a6df0d0a55fd953ffb41ac5a0fde715942064f8"
   },
   {
    "path": "citations/constitutions/ny.csv",
-   "rows": 2050,
-   "bytes": 258682,
-   "sha256": "446e8a9f4e31b5a2ea3bf4e60e2c891b46376c63aed03820ef7ebceef8b05714"
+   "rows": 2042,
+   "bytes": 257464,
+   "sha256": "e95026a3d8c08ff06025c08076f1e704324df2a0e86488df5c58ca98ecefe88f"
   },
   {
    "path": "citations/constitutions/oh.csv",
-   "rows": 1289,
-   "bytes": 166512,
-   "sha256": "8016a757243ab75bfe9d139dcc5c79713e8e3924ef5963ae8bf06610972672f2"
+   "rows": 1286,
+   "bytes": 166049,
+   "sha256": "60f21ad3226f7a44831a088d732241e4eb30723212e27fa9dfc3953a37bcd02c"
   },
   {
    "path": "citations/constitutions/ok.csv",
-   "rows": 3135,
-   "bytes": 398855,
-   "sha256": "2f55adf98fbe7e32802b858150f13f02ef7251ffdc6f51b6e6e36cd25c615c0e"
+   "rows": 3115,
+   "bytes": 395745,
+   "sha256": "724a3d7e4f402d2bc16770c90a2d7f60d565503e76f8ed8ef9ad22b597c36fca"
   },
   {
    "path": "citations/constitutions/or.csv",
-   "rows": 1305,
-   "bytes": 164361,
-   "sha256": "a93f3244fd0e0cc3135ad83d7829a46bc80533db18c509718661b862118c06d2"
+   "rows": 1300,
+   "bytes": 163539,
+   "sha256": "73c5d5fc9786ce2362fba3ef1b4fbba071c1586902cbe33419ae073e06c513f0"
   },
   {
    "path": "citations/constitutions/pa.csv",
-   "rows": 3423,
-   "bytes": 452347,
-   "sha256": "bf3126e3c9849072f96cbde10b9eebdf4be221856aa0ce19ba24ac5b1d941c3d"
+   "rows": 3150,
+   "bytes": 417162,
+   "sha256": "04bdc37e61f868fde584d5e81e7b3311737552d5b9200eea6b7673a4d2caf159"
   },
   {
    "path": "citations/constitutions/pr.csv",
    "rows": 202,
-   "bytes": 25190,
-   "sha256": "6485e7158b5a453011ea377de1994a9a4d7c772e31af1f2864e5b9f3b672fa84"
+   "bytes": 25160,
+   "sha256": "eaeff846f8d14c6fad4e490330b8963cb18e49df5549c707c945d75ced71a1e0"
   },
   {
    "path": "citations/constitutions/ri.csv",
@@ -566,153 +566,153 @@
   },
   {
    "path": "citations/constitutions/sc.csv",
-   "rows": 909,
-   "bytes": 116842,
-   "sha256": "1ce78d6657c966b86a47f95e9c1fe514fb65589962f656991b927c8b09913805"
+   "rows": 908,
+   "bytes": 116712,
+   "sha256": "05f0b6dccf87dd6e6870899fcd44a97294c723ec1c046ac116e2fec0d7bb3346"
   },
   {
    "path": "citations/constitutions/sd.csv",
-   "rows": 808,
-   "bytes": 103861,
-   "sha256": "41b6ee58604ad7fa73984c8e5fc11cf9e96cff24227f1926979a7d3780a5f3bd"
+   "rows": 800,
+   "bytes": 102479,
+   "sha256": "f8b3dc92bcc7cbce3e9e127b6243577a94df6350efbc17e904cf34489e6bb9c2"
   },
   {
    "path": "citations/constitutions/tn.csv",
-   "rows": 1262,
-   "bytes": 164812,
-   "sha256": "251b5f24a6c8767fd7c8de5cef459f68ad8cd3a84cedb8a668a00083354e1998"
+   "rows": 1250,
+   "bytes": 162764,
+   "sha256": "76b04aa5b46dddbbbb96ffddf55a3c744ef6552314126c848d901c7ec2e126fa"
   },
   {
    "path": "citations/constitutions/tx.csv",
-   "rows": 6163,
-   "bytes": 797187,
-   "sha256": "c8c3af4922977cb85b333548c9e8c40825b71d4046cdc31960460c99b102fb54"
+   "rows": 6092,
+   "bytes": 786425,
+   "sha256": "514e6cc24186d4bee4538105fbe5588b497c72183cde3849b3211fd7e5d2c252"
   },
   {
    "path": "citations/constitutions/unknown.csv",
-   "rows": 1573,
-   "bytes": 192520,
-   "sha256": "4c00ce16e10d3656398c7e6deab6c77ec9b01741ed56bc5fc72f67d451a2a43e"
+   "rows": 1572,
+   "bytes": 192380,
+   "sha256": "83d42cbc2d962522e8eefec5c5ab4af9f116ed42b27f80292ca6c922678f00f9"
   },
   {
    "path": "citations/constitutions/ut.csv",
-   "rows": 883,
-   "bytes": 111891,
-   "sha256": "07eae39f17b5846d5d193bf54fe22a9c8fe035133821b4e6140d96b158a6953a"
+   "rows": 879,
+   "bytes": 111292,
+   "sha256": "282dfd62b864784c8c89c666edaec13cc2929562469d63a7d70bad47b5c19632"
   },
   {
    "path": "citations/constitutions/va.csv",
-   "rows": 888,
-   "bytes": 110240,
-   "sha256": "03a1662f8894334b61a6e4a4f8f3c6c24786dd27fba0a01841ee5d68f755b756"
+   "rows": 887,
+   "bytes": 110102,
+   "sha256": "95304c06514dd60146a53e580d8962347d00eea2cef038a25678dfa4912d9ae2"
   },
   {
    "path": "citations/constitutions/vt.csv",
-   "rows": 281,
-   "bytes": 35587,
-   "sha256": "eb3fa977a517fe41a29c51d230b7d47be34ef33cea915c5e253733dd15f8c8a1"
+   "rows": 278,
+   "bytes": 35059,
+   "sha256": "ced6e9a20be25bbf705e081c3d848a94a7fe6ded5ce0d3b6740b3fc25407430d"
   },
   {
    "path": "citations/constitutions/wa.csv",
-   "rows": 1562,
-   "bytes": 212324,
-   "sha256": "16487788fd9db0ddc807ef141fd0fce4a9f36e8a781a93a8a834ce9f64c5ea98"
+   "rows": 1534,
+   "bytes": 207648,
+   "sha256": "4dcd5c66df28b42f9eb3a981f42dc92b1e25ccde7de35254bbe937735937fa65"
   },
   {
    "path": "citations/constitutions/wi.csv",
-   "rows": 1155,
-   "bytes": 146910,
-   "sha256": "7a8b8d5bbc9ed9d0572ce3b9e09295c3ef1079449784845b69f4323e404a6bf2"
+   "rows": 1144,
+   "bytes": 145154,
+   "sha256": "9f111d75402602268df4271fb62b9a26f18a2ed4627e8e5ac5a3b35668606c32"
   },
   {
    "path": "citations/constitutions/wv.csv",
-   "rows": 1692,
-   "bytes": 219369,
-   "sha256": "bc4e94a3233c89606f39bcb14c6b68b58f4ce0bc2ca10ee9424ec545b00a7453"
+   "rows": 1686,
+   "bytes": 218249,
+   "sha256": "bdb33600ab11422c54e570fca9052ee2afbddc20b2a422772437b167e2a89eb7"
   },
   {
    "path": "citations/constitutions/wy.csv",
-   "rows": 1001,
-   "bytes": 122942,
-   "sha256": "4b9ddac2451e140924b2979bdc2116699da59c9211c0689f0080f65f2d6665f2"
+   "rows": 992,
+   "bytes": 121556,
+   "sha256": "441c33eeef373eb3e6b74820cc7b30bf02d07bb84e8c5c0a0e164ca2ec130756"
   },
   {
    "path": "citations/court-rules/ak.csv",
-   "rows": 2862,
-   "bytes": 305740,
-   "sha256": "f1ce0b27c6accf398f689cdb977192e67626759e8573db51b8e2402e6f45cdde"
+   "rows": 2832,
+   "bytes": 301777,
+   "sha256": "59cc1cb624d60bce205602e07698162fda0277bdc7d429aff0b2c3d8f84fc5ec"
   },
   {
    "path": "citations/court-rules/al.csv",
-   "rows": 4860,
-   "bytes": 514608,
-   "sha256": "5a85d5323b811244525b30550d1d0be3d802838cb4de048c9da8058d8eb75a2d"
+   "rows": 4843,
+   "bytes": 512856,
+   "sha256": "047bc247e55297c0f55f8bd0e2d3bc8c90a98fd66897f9b69dd213cc232ddce3"
   },
   {
    "path": "citations/court-rules/ar.csv",
-   "rows": 3059,
-   "bytes": 338318,
-   "sha256": "7f36c8b15442f1218ce41e97f48f4ead120ac9cd73e8d1503d1debf2d3f2d5c5"
+   "rows": 3039,
+   "bytes": 335718,
+   "sha256": "d308fed5675c72560ec44c6090438d72ad1f477ae9dffe984a6a577b6bd4821d"
   },
   {
    "path": "citations/court-rules/as.csv",
-   "rows": 7,
-   "bytes": 1032,
-   "sha256": "1db422b52c1ccdf49a1b25218808de05c14640034c3d7feb7f98684413fd6d5f"
+   "rows": 6,
+   "bytes": 892,
+   "sha256": "df98ab8625276164001fbe55cb881b72ff9d3e826a94d3af01ecdb928f094ebb"
   },
   {
    "path": "citations/court-rules/az.csv",
-   "rows": 4222,
-   "bytes": 470510,
-   "sha256": "895fd57ec0e2173c81e80c3af74c8e41e85853644ca3a82dd099a5f45936a21c"
+   "rows": 4056,
+   "bytes": 454448,
+   "sha256": "b3794e16685f6ba056d6832ed8e6ece4d522247cf8ea91ec0a59be7a6955db48"
   },
   {
    "path": "citations/court-rules/ca.csv",
-   "rows": 5201,
-   "bytes": 601925,
-   "sha256": "8e670bf2360d69789b5c985191caf0c7c7f9d2cbcd88075b96ebf00ba1db59ae"
+   "rows": 4927,
+   "bytes": 572530,
+   "sha256": "3b1822a804feda2774b031a4f72f326b1fddd6a8b3e8c9186fa1a80c627136dd"
   },
   {
    "path": "citations/court-rules/co.csv",
-   "rows": 1370,
-   "bytes": 152451,
-   "sha256": "f1906ad23c452e1e71c09dcf92ef9e07be24e7b624b17dd5781e430f16be77d3"
+   "rows": 1332,
+   "bytes": 148637,
+   "sha256": "1976851d6c347661a9eba7e840eed37f85d289a13b1b191acb54589ba838f46a"
   },
   {
    "path": "citations/court-rules/ct.csv",
-   "rows": 2128,
-   "bytes": 209470,
-   "sha256": "65d5943fef4eb09dfdbbf4c9604668afed411662524bf89a496e793743a76d00"
+   "rows": 2122,
+   "bytes": 208584,
+   "sha256": "c375dbdbeec793a866a23d60195b03c5ec98f853c99e85cb3cc6ef4c38452c65"
   },
   {
    "path": "citations/court-rules/dc.csv",
-   "rows": 1462,
-   "bytes": 153583,
-   "sha256": "15615a9dca1ff3d421be76390df6e10c44026211d8e5cfb15fd0a1d4ad7c6968"
+   "rows": 1451,
+   "bytes": 152144,
+   "sha256": "06ce3195a950ed8fec6bb887627d2f4a6618ba0f9bd57f6fa6899b4b1b496fb6"
   },
   {
    "path": "citations/court-rules/de.csv",
-   "rows": 3369,
-   "bytes": 392548,
-   "sha256": "ac919cc8303d339d69ccbe4513f9f4a43e30765eea262f6d7e8dd87ec1dfb083"
+   "rows": 3241,
+   "bytes": 374223,
+   "sha256": "1f317040a113e4f3b54a10faccf0c62f6f144abd301bd1c9c4c665fb8f4af18d"
   },
   {
    "path": "citations/court-rules/federal.csv",
-   "rows": 39425,
-   "bytes": 4429291,
-   "sha256": "57c599460dd80b2c21ff59543718a380757e664b3b6cd6dac31bb0510d5c7c80"
+   "rows": 27410,
+   "bytes": 3087566,
+   "sha256": "68385728c1a532400939dd29d2cf75e625d86f6b8e825c9d21ebf687e0fcbb60"
   },
   {
    "path": "citations/court-rules/fl.csv",
-   "rows": 5793,
-   "bytes": 672021,
-   "sha256": "46ce155afbd3101f218b0c1cf6a88284342e77ec484e37628cf38b8df93f8636"
+   "rows": 5749,
+   "bytes": 665537,
+   "sha256": "aa331d30d88161d896d4af7fda69298f1098776f315f16b4f8d7721b7b71591d"
   },
   {
    "path": "citations/court-rules/ga.csv",
-   "rows": 1341,
-   "bytes": 137779,
-   "sha256": "071f7bc8f6127a77f65ef72dae19f5779a8435aace6b839b7fbba2424a8aa210"
+   "rows": 1337,
+   "bytes": 137265,
+   "sha256": "89171c93017235955aee450c00c7b093bbbd0e7a492cf3f06c8c78f9f0706f44"
   },
   {
    "path": "citations/court-rules/gu.csv",
@@ -722,183 +722,183 @@
   },
   {
    "path": "citations/court-rules/hi.csv",
-   "rows": 1189,
-   "bytes": 150988,
-   "sha256": "73630391315b33a9eb88e4becd15f09384b32131f55d1d88780881b728e381c2"
+   "rows": 1177,
+   "bytes": 149748,
+   "sha256": "a61b62cd6d3b7bce44db5e077e56ccf39e9f0d9330e88a2f38c60984ff596328"
   },
   {
    "path": "citations/court-rules/ia.csv",
-   "rows": 2864,
-   "bytes": 296796,
-   "sha256": "bcf618e8e56222766475bd16e6500d66a7a50fa343f2fb8d5bec337ff551cc82"
+   "rows": 2857,
+   "bytes": 295893,
+   "sha256": "4f070c8c686c68169fa1e3408c1d6c9ce74fb57fdbdea0d12f89cc49c042ff1a"
   },
   {
    "path": "citations/court-rules/id.csv",
-   "rows": 1342,
-   "bytes": 155644,
-   "sha256": "76b5935cfd6460fa8db60310b542023e1e1cd2fb62653793d283f9a777a38b14"
+   "rows": 1321,
+   "bytes": 152712,
+   "sha256": "23a6b330d08a9c81dd5080f80a90f0d83f98e0d8bb555523ec1bedd315d496d2"
   },
   {
    "path": "citations/court-rules/il.csv",
-   "rows": 4691,
-   "bytes": 536957,
-   "sha256": "6fded443d78cb305bfe0d177f2f63e73ad0e4b20b156a97c86f90d627813fc60"
+   "rows": 3832,
+   "bytes": 428168,
+   "sha256": "f34cd39c799dcbe293190073d1794c1b939a1da0eb81cddb9e74c5c2914c5f5e"
   },
   {
    "path": "citations/court-rules/in.csv",
-   "rows": 5271,
-   "bytes": 544236,
-   "sha256": "787af80ae440e3afd46141047e4a269bfcde4b08be9ec722f128aaf1879968e4"
+   "rows": 5173,
+   "bytes": 533042,
+   "sha256": "1d16d0914915280a4502d7688acef623123e7c7882872dcc6ed591d4396b8062"
   },
   {
    "path": "citations/court-rules/ks.csv",
-   "rows": 1588,
-   "bytes": 176091,
-   "sha256": "f4ff76e20512fca0c0dad93fe666f0f61e8bd57a45fb786c54c77fa3eee82223"
+   "rows": 1435,
+   "bytes": 160657,
+   "sha256": "7e45447f28e2fb13a1890d4814b19eaf2c12367f1712cb6b0a63216a554718e7"
   },
   {
    "path": "citations/court-rules/ky.csv",
-   "rows": 2106,
-   "bytes": 213584,
-   "sha256": "a408c26d3f3495759103aff3bb0306000786f737309df38650578474ed3c95a4"
+   "rows": 1007,
+   "bytes": 114364,
+   "sha256": "12787ea941b1bcf5ad5d540962b904e1dc8858ed93e76d2afa15c17985ac6d0b"
   },
   {
    "path": "citations/court-rules/la.csv",
-   "rows": 1716,
-   "bytes": 189275,
-   "sha256": "aa63a5a004b1521f80df12ad5a8cd4de4d6615ac1336617c88e46de46c7d125c"
+   "rows": 1713,
+   "bytes": 188937,
+   "sha256": "36cc0b9f0c06a28f8f3ef8d39ddbec94bea05a4a9402f052e284c9330c50fda9"
   },
   {
    "path": "citations/court-rules/ma.csv",
-   "rows": 5025,
-   "bytes": 510390,
-   "sha256": "61b058860630fdbb9ab21044597d0e2b3d3bda808ec85c067ce1cf9b2c332fbe"
+   "rows": 5000,
+   "bytes": 506398,
+   "sha256": "4d3a30e775ce9c58430e75be87b3c1822ed28d1a924c0c62890e5519c24d6f66"
   },
   {
    "path": "citations/court-rules/md.csv",
-   "rows": 6927,
-   "bytes": 692886,
-   "sha256": "c6d7b6a5b403cf85e0dfe593655642877ab44ba8d95a9e99aa068ff6a95a2eb7"
+   "rows": 6179,
+   "bytes": 613550,
+   "sha256": "286376dea86ec29fe7baa12b81e2034afca8d0273dd2726ebdfe8d4c9222815a"
   },
   {
    "path": "citations/court-rules/me.csv",
-   "rows": 2755,
-   "bytes": 292583,
-   "sha256": "ea055363d40117b5168b5be038a8e84df1acb9bff60de1881c3cc171767d1603"
+   "rows": 2750,
+   "bytes": 292063,
+   "sha256": "92ecc645b28b9328d697a060c0683c981ebde2c5b418921e457e8acc1e99124d"
   },
   {
    "path": "citations/court-rules/mi.csv",
-   "rows": 1740,
-   "bytes": 185956,
-   "sha256": "c100863c802d2e784e732fdb04a8a5ec12c0ed355af0e2f0fecc8accadd3b58d"
+   "rows": 1711,
+   "bytes": 182668,
+   "sha256": "4d86ba0789998fd4b50dd7262416d1a5c8ee7397b7c80e0a91194efaf866dfb1"
   },
   {
    "path": "citations/court-rules/mn.csv",
-   "rows": 5243,
-   "bytes": 553817,
-   "sha256": "19475252b3c1789525f46f2905b9de82f3185d903159b59744a813df9cee236b"
+   "rows": 5199,
+   "bytes": 547980,
+   "sha256": "9cc69020bb8d3d482a98b137c56518d83a816976f037cb3ba4f096270795e25f"
   },
   {
    "path": "citations/court-rules/mo.csv",
-   "rows": 4813,
-   "bytes": 541094,
-   "sha256": "b3b45e50be24c2aba41bf3cf02067ab75a95d2549f3e24bd709de48f58a7ca45"
+   "rows": 4758,
+   "bytes": 533668,
+   "sha256": "8da08bcf84839ef0e8fd7a2a8255663a107ddb1e804c50e506bc1878cecc7fd5"
   },
   {
    "path": "citations/court-rules/mp.csv",
-   "rows": 17,
-   "bytes": 2108,
-   "sha256": "64893f5fc7e269333209915cc464d7f6cd197711d996009375a4f6fe652e4ec0"
+   "rows": 14,
+   "bytes": 1760,
+   "sha256": "c5f3cc6cf539fcb1e99d5cc370cc047474d4998fb8771309ccea71f58e1cdc4c"
   },
   {
    "path": "citations/court-rules/ms.csv",
-   "rows": 2343,
-   "bytes": 259931,
-   "sha256": "58c68aae86aa33a613ce4f2507c9d387a5fea95313738219e99568c9d4fca4e5"
+   "rows": 2278,
+   "bytes": 253066,
+   "sha256": "a8f3a71253c555cfdb0255149820c198bd02f707ea107ea0c802771b39360837"
   },
   {
    "path": "citations/court-rules/mt.csv",
-   "rows": 1088,
-   "bytes": 119467,
-   "sha256": "19568088785dc82d33c5ec7d8efc8c5dac7608b047d37ffaa0ce8adab54230b7"
+   "rows": 1084,
+   "bytes": 118928,
+   "sha256": "e9dd18ff166c4e49aa42c5c08a51a6862f325bdbdafc9d3e5320bfebcbacc784"
   },
   {
    "path": "citations/court-rules/nc.csv",
-   "rows": 2517,
-   "bytes": 285378,
-   "sha256": "49011190a08b9f9342f3d8a6ae6b2cc4d258f14cbcf1d486f437b089eb8b2ed1"
+   "rows": 2512,
+   "bytes": 284666,
+   "sha256": "3c28a7e732d3ff6d2235ead7b4ef93d44b92b5ac88efb27dc7c18e26c6c2625a"
   },
   {
    "path": "citations/court-rules/nd.csv",
-   "rows": 3067,
-   "bytes": 323898,
-   "sha256": "c77c794eb8d0fe0515afaa7e317a9e9bd07f127f8a535f386858d7524c50168d"
+   "rows": 3023,
+   "bytes": 318730,
+   "sha256": "d1f4cfa6156edd85f44adc0f11fcb97df2325861da92218e315f47d34137c36c"
   },
   {
    "path": "citations/court-rules/ne.csv",
-   "rows": 862,
-   "bytes": 93550,
-   "sha256": "5c6ba8489287025afebd982538f8aefcd2819422688976ae2f77b8293d2909b8"
+   "rows": 858,
+   "bytes": 93126,
+   "sha256": "88445c0fd94d68090bb1262c63014041e9d023b817433ce6bc9cbd2bae39bbe0"
   },
   {
    "path": "citations/court-rules/nh.csv",
-   "rows": 1121,
-   "bytes": 112903,
-   "sha256": "f1af9ab05cf55022643a39cce4169280022260e366cac1cd0ba1379df86bdc91"
+   "rows": 1120,
+   "bytes": 112779,
+   "sha256": "6c9da0cc7cc9978fab53127af140f855fd20afc5f619409bbe94243727f3afa4"
   },
   {
    "path": "citations/court-rules/nj.csv",
-   "rows": 8861,
-   "bytes": 869238,
-   "sha256": "96fb135e4905b8ff125b3932150f2cd52b40eb81c3b0424216645b8546e88a73"
+   "rows": 6704,
+   "bytes": 659166,
+   "sha256": "e1c52e9a19270d2d7c21c10cc5bc166babcfd0a4fea703339270940b65379b52"
   },
   {
    "path": "citations/court-rules/nm.csv",
-   "rows": 938,
-   "bytes": 108408,
-   "sha256": "7d8be3b1fdb9c1c8d6d0d97ad35a9778dde528ea4ebd534f81895ef1dd62bec7"
+   "rows": 936,
+   "bytes": 108052,
+   "sha256": "c9c194f91a2f0e004ede7c66ca2362f3dff2de43e5745355a73296196199ddef"
   },
   {
    "path": "citations/court-rules/nv.csv",
-   "rows": 812,
-   "bytes": 87863,
-   "sha256": "7576f51b1e9f85f7d7b4eaebc977d3d8cb6ad6635e835146eb6a869220d074b1"
+   "rows": 809,
+   "bytes": 87431,
+   "sha256": "a9b92c5d7c024c2c47fca0883d2dc2d5a7c24e11afc3888aefd3184221aff42e"
   },
   {
    "path": "citations/court-rules/ny.csv",
-   "rows": 10346,
-   "bytes": 1142601,
-   "sha256": "b2710ab96ef2c995d3305a77780a4b2065cb08cf243245e547e4eae0ff710cd4"
+   "rows": 10166,
+   "bytes": 1121658,
+   "sha256": "b1cc74f5719bbddf24e94547687d6f3ec36d9ac8eb7cd2336f65764827c69d9a"
   },
   {
    "path": "citations/court-rules/oh.csv",
-   "rows": 3474,
-   "bytes": 362417,
-   "sha256": "1f32ddd7085e7a53504626d825eb089b65f8eec7772d1c69265b0ba9c7015596"
+   "rows": 3460,
+   "bytes": 360274,
+   "sha256": "0d37f8b309f7e34704dccb8a487c541d2dabf2c308d9221f3a0f4daaf7335010"
   },
   {
    "path": "citations/court-rules/ok.csv",
-   "rows": 747,
-   "bytes": 83723,
-   "sha256": "e20b8ce2a004f4a9516d0fa06217ef3c65a0e3dbc13fe849ae713a8bb6788fbe"
+   "rows": 735,
+   "bytes": 82577,
+   "sha256": "b769ae88864dedfd81c39763e87fbd8b0ce99a031b056faa377a56350187bf10"
   },
   {
    "path": "citations/court-rules/or.csv",
-   "rows": 441,
-   "bytes": 49256,
-   "sha256": "e3fd1bcd798f01d0221664a96740a5debce235a41b308943ddf7721e702c5698"
+   "rows": 435,
+   "bytes": 48254,
+   "sha256": "c23f8221e69500f0ae39114d4e5d72c0f090b805c2430a577b30bcceea6bc913"
   },
   {
    "path": "citations/court-rules/pa.csv",
-   "rows": 12640,
-   "bytes": 1426947,
-   "sha256": "01d27959dcf002f338e48388d05e7a8c12a51b471fa9853417c06ba72b0e1d71"
+   "rows": 12251,
+   "bytes": 1386178,
+   "sha256": "91c99345356d9148e3c4f98ba44b8bbf76c1ff7bdfc4831dc8573f7a051d6888"
   },
   {
    "path": "citations/court-rules/pr.csv",
-   "rows": 16008,
-   "bytes": 1590983,
-   "sha256": "5f09c8eade821811932b55485ba6e8c90a8bd871ab802baaf837ec2458707886"
+   "rows": 5893,
+   "bytes": 699046,
+   "sha256": "424f1b86ce3d8009957f27b134b5ea887717fa831bc7ec59b45e0482d37ff45e"
   },
   {
    "path": "citations/court-rules/ri.csv",
@@ -908,63 +908,63 @@
   },
   {
    "path": "citations/court-rules/sc.csv",
-   "rows": 2423,
-   "bytes": 247936,
-   "sha256": "560bd86267a26fd485c29a342211803aea5d168915e302b650885e43e60016da"
+   "rows": 2419,
+   "bytes": 247366,
+   "sha256": "12842c1556df5c873371fb9feae567e2d9d96a38bc4974c0a8e4ac35fd376be3"
   },
   {
    "path": "citations/court-rules/sd.csv",
-   "rows": 1870,
-   "bytes": 201383,
-   "sha256": "6f5c2cf767066a0c963ad900ec9f809cd683ecd8c24c99b53002d007db4cd40b"
+   "rows": 1836,
+   "bytes": 197391,
+   "sha256": "1146e1402a8ed303a968d0cdb0ca6131851a1de141690aceac3ba6438804fec9"
   },
   {
    "path": "citations/court-rules/tn.csv",
-   "rows": 5999,
-   "bytes": 682456,
-   "sha256": "a11f01cf1d077cc8551650ecf7b5414b08ce297616f98d156b8bd3320334f3fb"
+   "rows": 5910,
+   "bytes": 668995,
+   "sha256": "c512bf5b88cdc631abb922dbf0b2325ff33f133f3515d9dbc19baa94cc51bf1d"
   },
   {
    "path": "citations/court-rules/tx.csv",
-   "rows": 44304,
-   "bytes": 4650888,
-   "sha256": "0d966c3736e573e46ee92b92a031349ce61f7dc9be53c11f978dad8677706712"
+   "rows": 21029,
+   "bytes": 2405006,
+   "sha256": "6bf12ae72ca58e0f3d672772e1b4b2a9e92889d5a4128e81dab55e1225d6c424"
   },
   {
    "path": "citations/court-rules/unknown.csv",
-   "rows": 16290,
-   "bytes": 1633986,
-   "sha256": "390127d0b08915d262057e750bbd7244850bc6463081e96e2bfaf3ef17ef3282"
+   "rows": 15366,
+   "bytes": 1541082,
+   "sha256": "2117db1b4aed7cab31c60057d737c9250bdd2accace99df201443865bbb8b5d0"
   },
   {
    "path": "citations/court-rules/ut.csv",
-   "rows": 1836,
-   "bytes": 201694,
-   "sha256": "a3f12d626a7d7991e843d570f4fbf9916472b7790ef73f33cbfcad109b861ccf"
+   "rows": 1817,
+   "bytes": 199658,
+   "sha256": "10986d3e26bca8445a6c5fbaa961ab0e2ae157f1b3a14559708a0a090606a186"
   },
   {
    "path": "citations/court-rules/va.csv",
-   "rows": 1381,
-   "bytes": 147606,
-   "sha256": "d633f5f076ad774f2de5ac81bf78ba4731a0466473c53f11fc75ba9b1c140b05"
+   "rows": 1367,
+   "bytes": 145862,
+   "sha256": "5370fc0f99c5f5c085addda62753c591ade613061c646fca4aab34d1221147d7"
   },
   {
    "path": "citations/court-rules/vi.csv",
-   "rows": 727,
-   "bytes": 75288,
-   "sha256": "870d816968e60ef6c209d3b5c6b16f690bb2969db8257793b3c6fd4ea6595e81"
+   "rows": 711,
+   "bytes": 73707,
+   "sha256": "dcf0ae39b9d3e3b28664b52946226086f2f1c63629f2ecd436822129b968e21d"
   },
   {
    "path": "citations/court-rules/vt.csv",
-   "rows": 1485,
-   "bytes": 151227,
-   "sha256": "e1c996f2ad1bea44f43b2ac67a91917903512b318b5481c6f2de474b15c16c5c"
+   "rows": 1483,
+   "bytes": 150961,
+   "sha256": "2b0b82f6453583ccf1ffdc13aa7e7a92d776b5f03b55a933a3530736b8e872ba"
   },
   {
    "path": "citations/court-rules/wa.csv",
-   "rows": 1536,
-   "bytes": 171179,
-   "sha256": "132571258720324df4d9867adb832b82ba96cc1b0542adb902882c2bee6fb4ab"
+   "rows": 1524,
+   "bytes": 169789,
+   "sha256": "beb8a8dd9b9fe5081ed628c13b5ccce0123ab9046d602550d418f5b81623ef71"
   },
   {
    "path": "citations/court-rules/wi.csv",
@@ -974,15 +974,15 @@
   },
   {
    "path": "citations/court-rules/wv.csv",
-   "rows": 3397,
-   "bytes": 377591,
-   "sha256": "2c2158d54b9fe2038b6dadcf6cc8a1449fe3f4b9b7b72dc8ec3b8e32d4790843"
+   "rows": 3385,
+   "bytes": 376111,
+   "sha256": "38e8e6187bbc248e8916ff150592994aeceb073b87947f083964ce6a6107c5ff"
   },
   {
    "path": "citations/court-rules/wy.csv",
-   "rows": 863,
-   "bytes": 97998,
-   "sha256": "71526d1f7a0547924a8d0208e9b5e0e188cf2c6f16467d0d6473d700213f12e1"
+   "rows": 830,
+   "bytes": 94531,
+   "sha256": "c80cd21d4588a60a154f9af58c8cbabc1ddd87c58b8f5d0d5ba642cf051a04e3"
   },
   {
    "path": "citations/regulations/ak.csv",
@@ -992,9 +992,9 @@
   },
   {
    "path": "citations/regulations/al.csv",
-   "rows": 340,
-   "bytes": 44295,
-   "sha256": "5231fead41af9fb6ccc8a6375d68380155c18c62ae9fc26369dc70c84d2f165d"
+   "rows": 336,
+   "bytes": 43763,
+   "sha256": "cfd60037625e12eb08fd3326733589d950351d7304a445ea06d65b06058d91cd"
   },
   {
    "path": "citations/regulations/ar.csv",
@@ -1005,32 +1005,32 @@
   {
    "path": "citations/regulations/az.csv",
    "rows": 333,
-   "bytes": 40111,
-   "sha256": "4362919ab607c097ea87c674381a14eff1f7b25f69e965ab3bda6f695e7d134c"
+   "bytes": 40105,
+   "sha256": "567d469d726f31a028ededb404517ed5a80315aa05e56fae073a964ad40f2d18"
   },
   {
    "path": "citations/regulations/ca.csv",
-   "rows": 9283,
-   "bytes": 1205342,
-   "sha256": "0d245735b460a325e5ed1cf136ce6b22b83537cf33eca5cba75061beec45d524"
+   "rows": 9278,
+   "bytes": 1204576,
+   "sha256": "1edaa27bd259d9baa5fb080ec2e5168309c351f8e8bebf3e3b7587d5962dac34"
   },
   {
    "path": "citations/regulations/co.csv",
-   "rows": 1049,
-   "bytes": 119874,
-   "sha256": "9d7508f8566a02fffe71f9e8245c6d10287752c7130c918102130bc70993a340"
+   "rows": 1047,
+   "bytes": 119616,
+   "sha256": "992fce7d7871923f2f59ec208fa5d61b4954435ca891671212b079851d36a58f"
   },
   {
    "path": "citations/regulations/ct.csv",
-   "rows": 133,
-   "bytes": 16107,
-   "sha256": "1f8153175f3a0d0989089b90063d5e089a0c971e21e0a1d6379c71673b2a748f"
+   "rows": 131,
+   "bytes": 15829,
+   "sha256": "0f5f41557a0450f43af2931089f0d53e06eca44f83e4ace36316465e92ffcfc2"
   },
   {
    "path": "citations/regulations/dc.csv",
-   "rows": 4309,
-   "bytes": 445914,
-   "sha256": "77d39bad7969629f8d2806e60f1a3ca96c6ed10386eebca620e5cbae175fb5e6"
+   "rows": 4303,
+   "bytes": 445009,
+   "sha256": "8540a3ad8d7cc3348315d22a8b596d2775fa9721368bf3bb61b9aea2ca5d55c1"
   },
   {
    "path": "citations/regulations/de.csv",
@@ -1040,21 +1040,21 @@
   },
   {
    "path": "citations/regulations/federal.csv",
-   "rows": 140270,
-   "bytes": 12989005,
-   "sha256": "4d8e5e8c24cb78ac0c11a5398ce51be4d528813e58433c44d24adb6739ad0da2"
+   "rows": 128677,
+   "bytes": 11571187,
+   "sha256": "c99b4ef65470bdb4fcfa916c41f0ba7f1d1b374aed0d5fdcebfb197b5889d1dd"
   },
   {
    "path": "citations/regulations/fl.csv",
-   "rows": 1830,
-   "bytes": 224765,
-   "sha256": "f82de88ae0714a0ed4bec2571ba9af827f2e64d5c0bf97fc7fc7228ffcbba699"
+   "rows": 1825,
+   "bytes": 224021,
+   "sha256": "ed1430317870c7a7258020cc5d47b20ca5b9ff7b16902123411f3f2f91896f3a"
   },
   {
    "path": "citations/regulations/ga.csv",
    "rows": 344,
-   "bytes": 43615,
-   "sha256": "1275cbb863e682f55c49e7bc1de63da37cf569d9a4995f3e05a81c7a8828138e"
+   "bytes": 43609,
+   "sha256": "607bb7c35c5decfeceac4cecbe3af55b8d4b748da7cf06aa2c391a0470a8aca5"
   },
   {
    "path": "citations/regulations/gu.csv",
@@ -1064,15 +1064,15 @@
   },
   {
    "path": "citations/regulations/hi.csv",
-   "rows": 261,
-   "bytes": 30162,
-   "sha256": "94098717b424343ceb237c7e4d72d8322c91a5059dd7cddf759f1ac51e62cfb1"
+   "rows": 257,
+   "bytes": 29634,
+   "sha256": "ab991009680b4d106611d359418746cea8a08aad991dd50150e91021175f967c"
   },
   {
    "path": "citations/regulations/ia.csv",
-   "rows": 511,
-   "bytes": 59372,
-   "sha256": "78f4a954251efa6049a46de03112f96a794207d19d0f51d5ce4cd9e2ba0b2b3c"
+   "rows": 509,
+   "bytes": 59114,
+   "sha256": "6da5889e932d0249e39e3cfc1271be3a84a653b2c52a54da0b71e2d5f4848f57"
   },
   {
    "path": "citations/regulations/id.csv",
@@ -1082,45 +1082,45 @@
   },
   {
    "path": "citations/regulations/il.csv",
-   "rows": 2634,
-   "bytes": 280265,
-   "sha256": "ad5e19acb2f40b73b5b6de88f8bdd2f3b3e3b6a47074eb3966edbb7ed8681cf0"
+   "rows": 2633,
+   "bytes": 280147,
+   "sha256": "c04fdea4de9587e59181f9a2cce3f92faf751b5235c1280097baf97848e85a83"
   },
   {
    "path": "citations/regulations/in.csv",
    "rows": 583,
-   "bytes": 68701,
-   "sha256": "723dafa980b6171f7c63b016132cb46c6530341441da252d4da995ba021020fe"
+   "bytes": 68695,
+   "sha256": "875f71e6529711b6a9de403d99af0369a1e0a7cb0ddbdc1b559dc722b767a574"
   },
   {
    "path": "citations/regulations/ks.csv",
-   "rows": 199,
-   "bytes": 23201,
-   "sha256": "03fef2a05330eff313497bb9f4f6bad6add097b3cde2c2d18af84b0a1b663d70"
+   "rows": 198,
+   "bytes": 23081,
+   "sha256": "1084e15feac184316bee9568ff9f90d59101d176a1a91edd8d747c64e29c897c"
   },
   {
    "path": "citations/regulations/ky.csv",
-   "rows": 141,
-   "bytes": 16220,
-   "sha256": "d85454406d49a2b930a6a359ae4b034345d599b7e106353819dd23e6483d6762"
+   "rows": 140,
+   "bytes": 16084,
+   "sha256": "826c1036eab48e065a6a521c46b3ffb8d8c2b66e9019271a67232906f57ac198"
   },
   {
    "path": "citations/regulations/la.csv",
-   "rows": 617,
-   "bytes": 81665,
-   "sha256": "1cd76d525bd59b0d645c4b932fcb7b7df1542b34b18e3ef3ca04cff952801a0d"
+   "rows": 616,
+   "bytes": 81533,
+   "sha256": "35073a31ebf5ea1028346e1b8e4e219dd2fea26dbc3100c7ca172dc6ae4bee71"
   },
   {
    "path": "citations/regulations/ma.csv",
-   "rows": 5957,
-   "bytes": 691440,
-   "sha256": "99dc74ce4386815215014a46b23f9b0b4ded19fb3024863bab64cda0e9151c01"
+   "rows": 5941,
+   "bytes": 688618,
+   "sha256": "4383c1cc52cd0132562bb37a3d2edf589058b4fd972ca561736e2ef5d279d231"
   },
   {
    "path": "citations/regulations/md.csv",
-   "rows": 577,
-   "bytes": 72620,
-   "sha256": "2e6a7fcb84a7a6e29b2e139f06dd2d92864ef0e41501c2d4f5f069347f261258"
+   "rows": 575,
+   "bytes": 72310,
+   "sha256": "aaf7190e7df8f8fad193332e1713096745adc10c1f7d372fec1f80dc3ffe57ce"
   },
   {
    "path": "citations/regulations/me.csv",
@@ -1130,21 +1130,21 @@
   },
   {
    "path": "citations/regulations/mi.csv",
-   "rows": 212,
-   "bytes": 25364,
-   "sha256": "cb7715dff720f2741efa6484edc39b96354a3f39495970dbe1c0f1c88d629629"
+   "rows": 211,
+   "bytes": 25237,
+   "sha256": "696ad310a6ccb2dc9aedef18260cf9e1f67e5250c6586eb04b2d2b524fa39e2f"
   },
   {
    "path": "citations/regulations/mn.csv",
-   "rows": 45,
-   "bytes": 5507,
-   "sha256": "da161724eea0f2b3963b6045d0e213b313372dcf776292bd7b0464383b29660c"
+   "rows": 44,
+   "bytes": 5371,
+   "sha256": "682142f50227b44cee54e7c499c32114ca4b711c9835b4cf73e953e4cd823ca3"
   },
   {
    "path": "citations/regulations/mo.csv",
-   "rows": 221,
-   "bytes": 28783,
-   "sha256": "76ae116693bc25195381a85ac0ab2b546fe42df74704897226198d26dac7b076"
+   "rows": 217,
+   "bytes": 28263,
+   "sha256": "94eed9f42d7ff3813133e574bccbf16baec45291318ab4092c8b565f467168d7"
   },
   {
    "path": "citations/regulations/mp.csv",
@@ -1154,33 +1154,33 @@
   },
   {
    "path": "citations/regulations/ms.csv",
-   "rows": 240,
-   "bytes": 30206,
-   "sha256": "fdc23dd3be8a48a1aad1464ce78adb400502b4c8c5fc5f6b2fde1a485f2927e6"
+   "rows": 235,
+   "bytes": 29528,
+   "sha256": "025ff246707022388dabe57814b82c27cdc45acfb73747d8b88008272991376e"
   },
   {
    "path": "citations/regulations/mt.csv",
-   "rows": 128,
-   "bytes": 14661,
-   "sha256": "e5abdee435eb74956514059e3ccdf920db96259e0520bd130ee2602e1f2ed913"
+   "rows": 126,
+   "bytes": 14397,
+   "sha256": "315e2beb2d70903199508569c16085ab2ae1b6be35d2d83ccc3c209ffece2670"
   },
   {
    "path": "citations/regulations/nc.csv",
-   "rows": 1312,
-   "bytes": 160558,
-   "sha256": "af08644cdc059973a981bc621a9324f5859d9143a6972e7633d19ed39a210455"
+   "rows": 696,
+   "bytes": 85477,
+   "sha256": "2cad39277f50c514a87a03d36c52ea5880f7baad881e2450c2e662a06d225b7a"
   },
   {
    "path": "citations/regulations/nd.csv",
-   "rows": 433,
-   "bytes": 53856,
-   "sha256": "11421207d9d2db7b07fe9f3be8143cc0450912c94b9bb168bacf46f10e262b80"
+   "rows": 427,
+   "bytes": 52985,
+   "sha256": "1fb58c4cbab103daa363f4f01c093bfb7a2a0f310e791edee399dc46c49d7393"
   },
   {
    "path": "citations/regulations/ne.csv",
    "rows": 872,
-   "bytes": 123475,
-   "sha256": "13b44a145d561b933aa7c05e66c6d1d10d2f6643414375f33ad8896fd94aa7d6"
+   "bytes": 123445,
+   "sha256": "bf618f751bca8c2f4b925d1d65ea641de979da36812ff369b7cce163bf2b41c8"
   },
   {
    "path": "citations/regulations/nh.csv",
@@ -1190,33 +1190,33 @@
   },
   {
    "path": "citations/regulations/nj.csv",
-   "rows": 10103,
-   "bytes": 1024807,
-   "sha256": "579f73878927930347a0f8040639b7eecf07594572dde9af9f300c0a63c0edc0"
+   "rows": 10028,
+   "bytes": 1013518,
+   "sha256": "bf22a17bb48c3d49382467278474e2a40e07ddcb15a120f1b37a2a1583e11027"
   },
   {
    "path": "citations/regulations/nm.csv",
-   "rows": 1515,
-   "bytes": 196450,
-   "sha256": "97feefd5d7a0f8d64dfcdf09ac2b8d46feaa8bcaa2ee0f53db53ab00c89192bf"
+   "rows": 202,
+   "bytes": 25098,
+   "sha256": "5909dc266d43a45ff7daf36e90ce46b95948b09608d8b551138052008dd7f40c"
   },
   {
    "path": "citations/regulations/nv.csv",
-   "rows": 98,
-   "bytes": 11809,
-   "sha256": "1b673a22d8fa5d6b6a204142bdc3979c90d3fc1fa65a3beef8c38700d9f0dc1c"
+   "rows": 96,
+   "bytes": 11541,
+   "sha256": "87e61a82343a165aa095e134aaa1d9034630f1ef3878815ed74bf1400759ad8f"
   },
   {
    "path": "citations/regulations/ny.csv",
-   "rows": 19068,
-   "bytes": 1950319,
-   "sha256": "590c70be7a28a1c08c5aef34f07f5886d117189b320b46c2708c5ab352f08ecb"
+   "rows": 19048,
+   "bytes": 1947866,
+   "sha256": "c095e6198e62e2f2fb5dbacfeca9f575029ab0617098f48edbb086eb68330b37"
   },
   {
    "path": "citations/regulations/oh.csv",
-   "rows": 904,
-   "bytes": 106679,
-   "sha256": "9e3144ef514b7ef9431f856dad2ec40fade60ecb169431d83563985a9ab416e7"
+   "rows": 901,
+   "bytes": 106194,
+   "sha256": "50dee45d54ddbe9e139eba70d6df99479690062d8159da7ab0d6d45cccfb8042"
   },
   {
    "path": "citations/regulations/ok.csv",
@@ -1227,14 +1227,14 @@
   {
    "path": "citations/regulations/or.csv",
    "rows": 361,
-   "bytes": 41692,
-   "sha256": "de095c71459f30c3982363804e0b4acbb8c0278f4882c6d7dba5e7c0f28e5110"
+   "bytes": 41676,
+   "sha256": "3301a7b5dcdcf5d633a4a40ba046c8a272ee0fa3fb6bfecb301cace0e2c2963e"
   },
   {
    "path": "citations/regulations/pa.csv",
-   "rows": 5751,
-   "bytes": 601848,
-   "sha256": "4e96b27c6439008cbce43f23a3214a407c353ae910dad67dbc3dc5c78de2d50a"
+   "rows": 5734,
+   "bytes": 599588,
+   "sha256": "40890313d884125696de157a936d992ebc74676e318e83e0efab97cc5b8abf3e"
   },
   {
    "path": "citations/regulations/pr.csv",
@@ -1244,9 +1244,9 @@
   },
   {
    "path": "citations/regulations/ri.csv",
-   "rows": 118,
-   "bytes": 13748,
-   "sha256": "af102d1e6a716cb5b902dbc179a3b8dfda8b04484b455c49322126be22fa3259"
+   "rows": 116,
+   "bytes": 13482,
+   "sha256": "b4f9f354b003a26fe738d4727c953a2abe66c428844af47c4640754e9f6d1afe"
   },
   {
    "path": "citations/regulations/sc.csv",
@@ -1256,45 +1256,45 @@
   },
   {
    "path": "citations/regulations/sd.csv",
-   "rows": 70,
-   "bytes": 8582,
-   "sha256": "8b80c1ab17f1fdb600e1664ef3378bf44954a0633eb8a3e3fe1345885fb35ab4"
+   "rows": 69,
+   "bytes": 8406,
+   "sha256": "8aa542dcd9bce480ecc16fb56e131fbe366b4b0c527d366cbe7ac6ae1b0d0d70"
   },
   {
    "path": "citations/regulations/tn.csv",
-   "rows": 991,
-   "bytes": 136331,
-   "sha256": "1e60d6bd470a40302522448ce9be94c32dfbe4ea59acfc0cf243fb41747d0a24"
+   "rows": 989,
+   "bytes": 136065,
+   "sha256": "ee21c7f08abc98bf2d09ead606488ce11d2f288bace805e3c6c98b99067fc9ff"
   },
   {
    "path": "citations/regulations/tx.csv",
-   "rows": 6249,
-   "bytes": 728320,
-   "sha256": "c8387b7a631a4929f3c958e6c87d7e8370a66f92b2c48aec65db321c832e08a5"
+   "rows": 6245,
+   "bytes": 727786,
+   "sha256": "74fb13f2b354ddd7769b1379e2ff8d66f467761639855f5681c2936191060dc5"
   },
   {
    "path": "citations/regulations/unknown.csv",
-   "rows": 22701,
-   "bytes": 2413155,
-   "sha256": "1ade98a2a5750f8dcd7149c9d6bc91a3bfe695c78c5ac726f06996807bf88606"
+   "rows": 15314,
+   "bytes": 1488080,
+   "sha256": "9526105891af02eda342e7d111a4fd26d857524f2991373d8b800287917ffe56"
   },
   {
    "path": "citations/regulations/ut.csv",
-   "rows": 627,
-   "bytes": 73850,
-   "sha256": "8eff18171249e640028213463da76b5f7a0ba7eba4aced9e487a03456908b939"
+   "rows": 623,
+   "bytes": 73332,
+   "sha256": "83e7bf6a2f02b6c969c59d9608cfb800750a44c7d2bcbe65740fa74859c1c310"
   },
   {
    "path": "citations/regulations/va.csv",
-   "rows": 379,
-   "bytes": 45485,
-   "sha256": "18cc5c1ed0162cf19be7ced76bd4cc94ed1b9a22656915531e5e2228697cecaa"
+   "rows": 377,
+   "bytes": 45171,
+   "sha256": "e8969208af3f3cc6a26e7595cc8d5cc77eff5acdd29704ae68cec03f7341013b"
   },
   {
    "path": "citations/regulations/vi.csv",
-   "rows": 76,
-   "bytes": 9904,
-   "sha256": "fc3cbb64d0dc309bcaf0511394b2ab35ec3325d5c866542f23a9cca59fac4241"
+   "rows": 75,
+   "bytes": 9784,
+   "sha256": "f550616c0701e7960f9a2b1e6e09a30a32d41c906257affcfe25bcb9687c3400"
   },
   {
    "path": "citations/regulations/vt.csv",
@@ -1304,21 +1304,21 @@
   },
   {
    "path": "citations/regulations/wa.csv",
-   "rows": 603,
-   "bytes": 75624,
-   "sha256": "5e70ea6db9eed177352bbe836695761283ae5018aa427e80080ebf2326ae0d12"
+   "rows": 591,
+   "bytes": 73954,
+   "sha256": "09ec57d125d647ea59ba3f1079885f6b9633b018d287679e96dd7596aa78daff"
   },
   {
    "path": "citations/regulations/wi.csv",
-   "rows": 433,
-   "bytes": 53098,
-   "sha256": "fdd508e1fe3bb5971ba64423b4fe0dacc2d2431dc1d4aad5c3dccf41c2679a3a"
+   "rows": 432,
+   "bytes": 52960,
+   "sha256": "7f63a5ceb1b880f83899901f2793f5eefdd667f217ca60f60bce1dc089f38e9b"
   },
   {
    "path": "citations/regulations/wv.csv",
-   "rows": 508,
-   "bytes": 58973,
-   "sha256": "52dd2778521b6b792340cfaa11eeb4f9c05171d251d3134008d969e3ba2e0c59"
+   "rows": 507,
+   "bytes": 58837,
+   "sha256": "f5601b919b7212a91d4379e3fdcd9a098bef26e493dd09d0299d8f1f909e7333"
   },
   {
    "path": "citations/regulations/wy.csv",
@@ -1376,9 +1376,9 @@
   },
   {
    "path": "citations/session-laws/federal.csv",
-   "rows": 77646,
-   "bytes": 9029936,
-   "sha256": "c1addaa1c4f3bafc74312a1ffa8df601eb842c6ab3416cdd8e9189fa7531849c"
+   "rows": 77618,
+   "bytes": 9020002,
+   "sha256": "5ea8e235a661e1fa500d796b09f5df2bb93d66644681f5e700d2077deea6d6f8"
   },
   {
    "path": "citations/session-laws/fl.csv",
@@ -1413,8 +1413,8 @@
   {
    "path": "citations/session-laws/il.csv",
    "rows": 3530,
-   "bytes": 445089,
-   "sha256": "c74faa264e7fa8cfaea090d0b6389c1e2f1aaa7b4706b4b9c51a63c3d6f278fd"
+   "bytes": 444834,
+   "sha256": "ee4caafb9e7cd9de1099884226622cc7ce0297a0efe1a4d88e6713bc284f0ad7"
   },
   {
    "path": "citations/session-laws/in.csv",
@@ -1442,9 +1442,9 @@
   },
   {
    "path": "citations/session-laws/ma.csv",
-   "rows": 6573,
-   "bytes": 840770,
-   "sha256": "749b00477a02d2c30b1dacaedfa2f0145fff45c2dbfc95f5eae5cef092da1738"
+   "rows": 6498,
+   "bytes": 829313,
+   "sha256": "97cbf950c5b862cc481f5535025b2fed3040f4bef87e1ccd12b41a4f612f6d0b"
   },
   {
    "path": "citations/session-laws/md.csv",
@@ -1466,9 +1466,9 @@
   },
   {
    "path": "citations/session-laws/mn.csv",
-   "rows": 2176,
-   "bytes": 254199,
-   "sha256": "ac2e4ffa4c6735c06eef68e0e0e76447dae30d3d7a948d46c2cdd35b92a83684"
+   "rows": 2170,
+   "bytes": 253181,
+   "sha256": "3980412814cbdb9dfc5e9cc900fe06a3d5de9381429de657786beb86d074bc90"
   },
   {
    "path": "citations/session-laws/mo.csv",
@@ -1586,9 +1586,9 @@
   },
   {
    "path": "citations/session-laws/tx.csv",
-   "rows": 1842,
-   "bytes": 231698,
-   "sha256": "f0eda9fbbd5b2a83318ee65b8a83839870eb63839590e547995e57ecdc1194bf"
+   "rows": 1841,
+   "bytes": 231510,
+   "sha256": "f33df566214bd49d2c05b0b69920f194743c7f5084f3ef696191a5dcae43a148"
   },
   {
    "path": "citations/session-laws/unknown.csv",
@@ -1628,9 +1628,9 @@
   },
   {
    "path": "citations/session-laws/wi.csv",
-   "rows": 434,
-   "bytes": 51802,
-   "sha256": "5fcee24f3a94acc5b72de2118f0abdd7a1ca9c268987c9ac655aabafe5f0407b"
+   "rows": 433,
+   "bytes": 51616,
+   "sha256": "e258f1d6569b1de1b522315d15042828126e6eb73110fc7393d5a154747ea918"
   },
   {
    "path": "citations/session-laws/wv.csv",
@@ -1646,81 +1646,81 @@
   },
   {
    "path": "citations/statutes/ak.csv",
-   "rows": 4748,
-   "bytes": 513879,
-   "sha256": "cd56c6aa1d8aa000f67836cf3a2bf2896cd0096c5d08e88dc45acb097e42425c"
+   "rows": 4465,
+   "bytes": 480579,
+   "sha256": "fff7251ef5f31afd969c899ddf8beb09757793dd2239b62d29d0f7b9759933ae"
   },
   {
    "path": "citations/statutes/al.csv",
-   "rows": 26123,
-   "bytes": 2693607,
-   "sha256": "5dc1428c3e0fd74509a7d70c93de90aa62b6154e699dfdd0d6d00b696db2257f"
+   "rows": 24677,
+   "bytes": 2540892,
+   "sha256": "7a7f6cb0b4f3390866f28afe5149cd96132530bd072af56b868a890c84becf39"
   },
   {
    "path": "citations/statutes/ar.csv",
-   "rows": 38129,
-   "bytes": 4064872,
-   "sha256": "f6e87f5f3622b65c692b96560828940840632af041ec3e9d6ab00cc5142ed82d"
+   "rows": 37518,
+   "bytes": 3989352,
+   "sha256": "12d2fcfc3ee40ddf4b7c498551c23152bcbb2c07edd52b553727c6797ce932ec"
   },
   {
    "path": "citations/statutes/as.csv",
-   "rows": 1233,
-   "bytes": 118205,
-   "sha256": "a4f3eeb84eb526462e30acbbcae99b81f794e5736cc5f81ff6f1c63d760007f8"
+   "rows": 1190,
+   "bytes": 112929,
+   "sha256": "f4eff738699636911ef012423f0cdfced8fb3470e835c8430f2882d2e1ba2068"
   },
   {
    "path": "citations/statutes/az.csv",
-   "rows": 30393,
-   "bytes": 3134219,
-   "sha256": "e2deb3df150d045f2f85a61cfe630ced1e813785ebc95fcf9821a694177db532"
+   "rows": 29614,
+   "bytes": 3044632,
+   "sha256": "794cbabb0e2a4838ca3d85fc160988f6e368cbbc32c3408ac450f673b38bafb5"
   },
   {
    "path": "citations/statutes/ca.csv",
-   "rows": 85330,
-   "bytes": 9717997,
-   "sha256": "0e8d56c6274ef59d083b0fb1589e61fd56bca7cff09cb63dec55191e075c713a"
+   "rows": 77083,
+   "bytes": 8745916,
+   "sha256": "bbe9843a27f5662be7ecc4b5722ceb8894b4cd28e88e2517469b48450c3d83b2"
   },
   {
    "path": "citations/statutes/co.csv",
-   "rows": 24888,
-   "bytes": 2675007,
-   "sha256": "dc57aa39893899591482d044ec48bdadbb1594015bb372c7613db0642c6b0564"
+   "rows": 24526,
+   "bytes": 2634739,
+   "sha256": "e429ea29778f1d5f6047d683f2418002175d65db7adf75510659752924b9237b"
   },
   {
    "path": "citations/statutes/ct.csv",
-   "rows": 22171,
-   "bytes": 2496379,
-   "sha256": "c82f442f18cd3ec1f6acb7cb44a0fcf9e33ea8d1f68f9378aa10f87ae80717f7"
+   "rows": 21283,
+   "bytes": 2385600,
+   "sha256": "b679d733139bc328c5980246e0c08d6270ca7eee4865069e1ff3850ba5dbf4d3"
   },
   {
    "path": "citations/statutes/dc.csv",
-   "rows": 18127,
-   "bytes": 1874679,
-   "sha256": "673c29d1c76c9628689c583834f47b83ebf8f6f0f0f8e7fc05e282b14ad735e6"
+   "rows": 17912,
+   "bytes": 1846653,
+   "sha256": "32805b6a19cab4b13f89d92d04f46803f4edef26d3b101c45ef470aafa56d627"
   },
   {
    "path": "citations/statutes/de.csv",
-   "rows": 22980,
-   "bytes": 2332215,
-   "sha256": "4e371daeb7ec23b3dc9ae027d05238e8249a0d48775670cd3b64bd8b1ce8e108"
+   "rows": 22443,
+   "bytes": 2274983,
+   "sha256": "200924e6e82a436af82dbdea81e6b138e72f07f2075901c3401340e17b655274"
   },
   {
    "path": "citations/statutes/federal.csv",
-   "rows": 241949,
-   "bytes": 22750170,
-   "sha256": "adbe3cb75fe4ed5da8757d341396994cffc7cb3fb5d639d8effe68fdc979ba08"
+   "rows": 230799,
+   "bytes": 21313486,
+   "sha256": "494d57a7da59e445a4cd286bc8c9d21a8c27ae48e7e259d051fe218ba901879c"
   },
   {
    "path": "citations/statutes/fl.csv",
-   "rows": 34305,
-   "bytes": 3555661,
-   "sha256": "13bb28b4fc84f3cb2782fe191bd3abec22459c4164b3e90f638fdbcf4895155d"
+   "rows": 32677,
+   "bytes": 3364104,
+   "sha256": "5b86f97543519c4395a0280c2d0d77080b842a1a316f423cbc112c22e19d863e"
   },
   {
    "path": "citations/statutes/ga.csv",
-   "rows": 53741,
-   "bytes": 5188473,
-   "sha256": "b3e966c173d1a9bf014ab1970cefa61139bf1d9a17913fcc49146602dad6f69e"
+   "rows": 51062,
+   "bytes": 4911627,
+   "sha256": "5c5a7b4e138460954b830c211bda50558def4304c7cb50363ba2ece23252a9fc"
   },
   {
    "path": "citations/statutes/gu.csv",
@@ -1730,357 +1730,357 @@
   },
   {
    "path": "citations/statutes/hi.csv",
-   "rows": 21429,
-   "bytes": 2093053,
-   "sha256": "c6585928ab6c1ece67619837fb37d584f107f4e71e97c5b3dcabdfd5f2a54f86"
+   "rows": 20683,
+   "bytes": 2001897,
+   "sha256": "a2daf7bd75dadeba32c3cd9753872aea1b8bb1475d90fdfc7a4b3bac838635cc"
   },
   {
    "path": "citations/statutes/ia.csv",
-   "rows": 11755,
-   "bytes": 1162829,
-   "sha256": "b8ac84d1ee2379fd7cbf1ed9bc4e5d157d6215d6ade320410fcf325eda80b89a"
+   "rows": 11557,
+   "bytes": 1140699,
+   "sha256": "c196c3ea021637d8c3c4354fc99d58e11731358ba679b09877233ead9a5205dd"
   },
   {
    "path": "citations/statutes/id.csv",
-   "rows": 18767,
-   "bytes": 1812598,
-   "sha256": "9abd28faa80f8a8ca1d067464383c1b0964e9d6adb9c1dee32520a8b9934c657"
+   "rows": 17713,
+   "bytes": 1687448,
+   "sha256": "c35bd6118b5a602b7c6845f7ca88b569e9e45af47e7f15d65995ccf04ccf027c"
   },
   {
    "path": "citations/statutes/il.csv",
-   "rows": 34720,
-   "bytes": 3817023,
-   "sha256": "70f68522deacc7ac31ca712f4360e4246026614cfe5d48c5c16ce618850804a1"
+   "rows": 32697,
+   "bytes": 3609229,
+   "sha256": "a1d88735147b5b42a65deeb915f44d159c74519884a30dc123b68211b04e5052"
   },
   {
    "path": "citations/statutes/in.csv",
-   "rows": 68442,
-   "bytes": 6953764,
-   "sha256": "3e8b3a933f98d46de00bebecb7e7481ce310e6b8156ff610dd654031ef1122e6"
+   "rows": 66430,
+   "bytes": 6726737,
+   "sha256": "94f3d090bf3d4c1f78f87ffb80ef7dafa40196aa52a2e2365af9e0e1bc648f5e"
   },
   {
    "path": "citations/statutes/ks.csv",
-   "rows": 23414,
-   "bytes": 2349054,
-   "sha256": "6003bad955b156fd597063b7960db2a8e9fd0a4e3fc373fbdb9851a3b7d0789a"
+   "rows": 21932,
+   "bytes": 2180859,
+   "sha256": "6745eaf6fb23f4bbbaa7566c8fce4d3a9b1a0668ad6f94adc92b2e74d90385ec"
   },
   {
    "path": "citations/statutes/ky.csv",
-   "rows": 22007,
-   "bytes": 2067834,
-   "sha256": "4a2102c67f4e731f224b9c8f44d5c47c0f1b05d4cb08db43e0f7364494aec300"
+   "rows": 21303,
+   "bytes": 1985708,
+   "sha256": "7547ad9b9921a6189d5215144586fbfc9579a61fa7b54de69a0159a04583aa9f"
   },
   {
    "path": "citations/statutes/la.csv",
-   "rows": 35023,
-   "bytes": 3370075,
-   "sha256": "8539fa1409a8d9ebef9c9fc3fb03f780b5a0660cdc75c3e4181abad3562529e7"
+   "rows": 34684,
+   "bytes": 3330839,
+   "sha256": "7be99614447f46f912e3f2d3b2f51af693f3097328865f8f210fca644eebcd9b"
   },
   {
    "path": "citations/statutes/ma.csv",
-   "rows": 38765,
-   "bytes": 3989217,
-   "sha256": "1bda1f18b845553fef9788f64746f8995dda3045985290acddb38547d1ee11ed"
+   "rows": 37843,
+   "bytes": 3872151,
+   "sha256": "9f479ded3d7adf40b76be99ff58024d166d7885ae1077d819c9a6e4d61291460"
   },
   {
    "path": "citations/statutes/md.csv",
-   "rows": 45849,
-   "bytes": 5979275,
-   "sha256": "b969134a9807a3da7960f6c49f5bd21c7161b676b2a3071f2048b32bf430a31f"
+   "rows": 45523,
+   "bytes": 5938190,
+   "sha256": "e2983bb1bc75ac2e2116f633ae8100d6d8b4a5241a0dd9352c0a79df4cb7877c"
   },
   {
    "path": "citations/statutes/me.csv",
-   "rows": 27574,
-   "bytes": 2802231,
-   "sha256": "d6fdd7cca1ef3eeb8f53e1605e76e6a6490a81ea6d9379c693a0c65de573d0cd"
+   "rows": 26816,
+   "bytes": 2715545,
+   "sha256": "9fbfb8e7619ae470a2bbb9842eff980069ed00d35eb49696765f19fa16aeb3e3"
   },
   {
    "path": "citations/statutes/mi.csv",
-   "rows": 48706,
-   "bytes": 4689593,
-   "sha256": "49f652e933d636a66e916ac71aca0750e95bf38395411da42a97250521dce83a"
+   "rows": 44850,
+   "bytes": 4271380,
+   "sha256": "4313b852bb2c579d329e5a3f8ffc8bb52b40dea723aeb49b90073b48e8882cec"
   },
   {
    "path": "citations/statutes/mn.csv",
-   "rows": 40318,
-   "bytes": 4251515,
-   "sha256": "abde18bf9abca4f42da97b7ddf3df859580d3f54aad051800aa6d5aad1006ecd"
+   "rows": 38489,
+   "bytes": 4031885,
+   "sha256": "bb1f93cedd21153ac66a45db1c3a0343db4fe0fac07f81761fac740062148d92"
   },
   {
    "path": "citations/statutes/mo.csv",
-   "rows": 21234,
-   "bytes": 2239150,
-   "sha256": "de24999a78a17da043fb1b56cc7c04aab874634c9721d232c0368ff9b754166c"
+   "rows": 20496,
+   "bytes": 2157316,
+   "sha256": "5838e44cf6c1bdf2910c26befaff39f47daea46af219c8fe5a21d7487e24fc63"
   },
   {
    "path": "citations/statutes/mp.csv",
-   "rows": 811,
-   "bytes": 70837,
-   "sha256": "97c25fd420cb19462458b0b12e9f4a8c56cc29aa1a8023af3a87c7ac504539e5"
+   "rows": 798,
+   "bytes": 69098,
+   "sha256": "c2310e66148bac8fa6e2c0bd24bfcf809d531d2790c0779ecf3dc16d608eb80a"
   },
   {
    "path": "citations/statutes/ms.csv",
-   "rows": 21765,
-   "bytes": 2447049,
-   "sha256": "5d17243bf5f6a01e6132e6b4cb35478268369b57ee6e9e7179097582ebb30f92"
+   "rows": 20953,
+   "bytes": 2338571,
+   "sha256": "96f5d596b9b5bbb5e541bd32994102d612d46047c8a1f1c0f53c48089edebc1e"
   },
   {
    "path": "citations/statutes/mt.csv",
-   "rows": 7354,
-   "bytes": 801690,
-   "sha256": "8a1244c744754d16ce536ef6127060b6ac8c1f99d36e1ebfc78cc3c86959bbed"
+   "rows": 7255,
+   "bytes": 790058,
+   "sha256": "67cdb91226f6db966dcab16a77061addc81cecf5ab91a988494dce42d696e2e8"
   },
   {
    "path": "citations/statutes/nc.csv",
-   "rows": 38929,
-   "bytes": 4181527,
-   "sha256": "7e7f19c44786310a5db4346dc4b24551d6bded84163e8fe7361df7f61ae7c3b9"
+   "rows": 36654,
+   "bytes": 3885472,
+   "sha256": "380359704dbe4160c6cd41c9b775fd99721fd06cc7bfe059ab4148fe33ca2ebf"
   },
   {
    "path": "citations/statutes/nd.csv",
-   "rows": 12534,
-   "bytes": 1277180,
-   "sha256": "b41808c553cc8e32bb8e02ff0f9b9aa612ea5b21a8cfa12fd85feb7f4fe2b266"
+   "rows": 12179,
+   "bytes": 1236896,
+   "sha256": "115d281398e13009ecd5a8b8ecc23d0e3cbbeaa98124e583187f2184bb67652d"
   },
   {
    "path": "citations/statutes/ne.csv",
-   "rows": 20019,
-   "bytes": 2198413,
-   "sha256": "c8a6e8cb10e2fb6e9a5cd65a89f926b9fb536d75c3bfdb69087517d7cbb3ead0"
+   "rows": 19237,
+   "bytes": 2087157,
+   "sha256": "a702540a4567961b0036c0a8b1f1b06a4ab30f2721e858413609b2aa979418ab"
   },
   {
    "path": "citations/statutes/nh.csv",
-   "rows": 4583,
-   "bytes": 554266,
-   "sha256": "e575b2b36d24587666ece80d68dc0bc6ddd26f2b53631f54f35106278a8e43f1"
+   "rows": 4522,
+   "bytes": 546709,
+   "sha256": "b428b69e93e91c167f6f9b50bde4582b24ce36ebde90b8f7129276dde54ec3b6"
   },
   {
    "path": "citations/statutes/nj.csv",
-   "rows": 50215,
-   "bytes": 4986289,
-   "sha256": "f046f602acaa8814cd894ca769ee4cefb87dd7a8ade056e7d635bdcc73ce4fc5"
+   "rows": 48765,
+   "bytes": 4794733,
+   "sha256": "3fa7874db5a2a2b36ec7826399d4408a16a4266bdf766b6388b88963eb574b62"
   },
   {
    "path": "citations/statutes/nm.csv",
-   "rows": 16717,
-   "bytes": 1734743,
-   "sha256": "ada1662ce78d4d6098f001491e97f6b17785f95f626afb8953f476d1045bd098"
+   "rows": 16069,
+   "bytes": 1666506,
+   "sha256": "dfc28fd9d08e6d772ba6f1c7967bd0eba1b4a2bb88d6f858661f39a4bcc164ac"
   },
   {
    "path": "citations/statutes/nv.csv",
-   "rows": 16816,
-   "bytes": 1597263,
-   "sha256": "975740c31dcdab5ab61cf7b3ecfd54c728744236494d09c18ada297ed7bdef22"
+   "rows": 16205,
+   "bytes": 1523475,
+   "sha256": "45edb48fb15ad7648d1e694f2a5d7408060c8bf93504f7645685712d0ba72ec0"
   },
   {
    "path": "citations/statutes/ny.csv",
-   "rows": 57696,
-   "bytes": 6232038,
-   "sha256": "f9c2ed89e1598635e03a5984ff3d5eccce118d1c6cd63d598ab2f65e73c292aa"
+   "rows": 54385,
+   "bytes": 5853740,
+   "sha256": "f2c3ce2ac1ff201adf709af19476e455cd564c9188831f0ea86c835405098c3b"
   },
   {
    "path": "citations/statutes/oh.csv",
-   "rows": 41424,
-   "bytes": 4003986,
-   "sha256": "6d7921692242a86a53b59bb9b90db778383af215366b117fd031ca546329820a"
+   "rows": 40999,
+   "bytes": 3949899,
+   "sha256": "e9028f9ba651aa13882732a2a9cd8d3276700b43e0f67fa8a460b8a31f6d8abf"
   },
   {
    "path": "citations/statutes/ok.csv",
-   "rows": 73654,
-   "bytes": 7628197,
-   "sha256": "e364af63aa855563acc4a84ce99789dc0e41aa6d9c8fc957d32d2a8acdeac2c3"
+   "rows": 72351,
+   "bytes": 7497357,
+   "sha256": "e0bc0d162c4e7e44cbc4d9d3af5efe7d58e1416750d2fc423fc07ab14b58f5c0"
   },
   {
    "path": "citations/statutes/or.csv",
-   "rows": 37282,
-   "bytes": 3420899,
-   "sha256": "05f7e244ee12439e379e9f767bbbca3262363f4ab9e329aec2627758a4954537"
+   "rows": 34284,
+   "bytes": 3099458,
+   "sha256": "e39ea993d9b11870b2f6c4fe0d1f9879b7ca74c33a8bda0fceb3c69ce833367c"
   },
   {
    "path": "citations/statutes/pa.csv",
-   "rows": 108022,
-   "bytes": 11272288,
-   "sha256": "b7b1f00c3d9e6de311abc546d5b704b203ca937803ba9596fc7097fe4ed204fd"
+   "rows": 105620,
+   "bytes": 11019248,
+   "sha256": "cf7c74b39e00caeccf2ffee7f7994e6aa438c8642ec05758b6d91b51407b262a"
   },
   {
    "path": "citations/statutes/pr.csv",
-   "rows": 6672,
-   "bytes": 665907,
-   "sha256": "5b7d4ee62a04493baa1c2ffc8408c076888f38185b82f449c4979bd64afd7c26"
+   "rows": 6641,
+   "bytes": 662667,
+   "sha256": "736783a12d89c6cddecd46b09f186a3dd0a73fb30b5100282fcd7f22b2a721f4"
   },
   {
    "path": "citations/statutes/ri.csv",
-   "rows": 17890,
-   "bytes": 1979813,
-   "sha256": "8d63d66a61cc9a53c43c9a7802c02e5d42b38b4b2359b3972b59fb4c5988f6d1"
+   "rows": 17701,
+   "bytes": 1957518,
+   "sha256": "b6ed479cc83d24c91708f23e3ae9afda6e7fe797abddeae835d7fb5af737dc5a"
   },
   {
    "path": "citations/statutes/sc.csv",
-   "rows": 16407,
-   "bytes": 1770366,
-   "sha256": "c27168476ddadd75fcd83a01b284137b2a07bf6463032a34243db3bb3dcbbdd4"
+   "rows": 15402,
+   "bytes": 1658394,
+   "sha256": "5e694c9a11db2e7b663ecf87b0fb269b93013bc358cff765ad15d9cecdeafffa"
   },
   {
    "path": "citations/statutes/sd.csv",
-   "rows": 12491,
-   "bytes": 1117608,
-   "sha256": "f45a85d69e29122e7f9c25f831925fb46bd02bfcb44c5e83a82bcb9696bb571d"
+   "rows": 12284,
+   "bytes": 1094235,
+   "sha256": "6f948572e72f5fa7d04ce95b1372f301bba843f47a35a2373ab3cb8733eebd1f"
   },
   {
    "path": "citations/statutes/tn.csv",
-   "rows": 38420,
-   "bytes": 4152445,
-   "sha256": "db99576874715f1bac0e921d7df08264d7fe587e164fc9e5a7587a4846415bb3"
+   "rows": 36730,
+   "bytes": 3919932,
+   "sha256": "2bebb62adc38f6e871bcf74878e32d2ec6b70fa14bbe14705b63849b4090cb26"
   },
   {
    "path": "citations/statutes/tx.csv",
-   "rows": 153151,
-   "bytes": 18018009,
-   "sha256": "c8872f9e496dfb95f775b2c2ad4c5b47764256737297ca0796a7dde1feec1aa1"
+   "rows": 144716,
+   "bytes": 17045798,
+   "sha256": "f1dcf7be204f4b683a3a9ef77edf96a5ee929d90bf2e206a877de78b43ac310f"
   },
   {
    "path": "citations/statutes/unknown.csv",
-   "rows": 176069,
-   "bytes": 16809805,
-   "sha256": "cb7a331f85a4e896893ec179fd6c48370dc372ca4d10b50dd50b79ce4df132ae"
+   "rows": 162261,
+   "bytes": 15477069,
+   "sha256": "47cec0e668d275d48cb0bf6705d5552d3129ab654899b0fa5c2f65b94d3af350"
   },
   {
    "path": "citations/statutes/ut.csv",
-   "rows": 19005,
-   "bytes": 2071447,
-   "sha256": "4d6cd3b5c89c758ed0b1c388b83674de31d4c06864111157107ab3808cddd782"
+   "rows": 18291,
+   "bytes": 1991676,
+   "sha256": "049fa04f03300944c0caf1c680db8be4c934983434cbd78b0327560f14af1baa"
   },
   {
    "path": "citations/statutes/va.csv",
-   "rows": 34313,
-   "bytes": 3556850,
-   "sha256": "3e45d74e9661fa2bc11d3baa8a843e0b5d9d0ebc78b53ab2c9704a4df79bfbec"
+   "rows": 33772,
+   "bytes": 3487407,
+   "sha256": "2dc19c458ee151ac56510deb9336d2900b3e8262c963c4ce4875b0791c64720a"
   },
   {
    "path": "citations/statutes/vi.csv",
-   "rows": 3666,
-   "bytes": 373453,
-   "sha256": "51c8d210ea2efcda6f977170347d1c33b38549619f31c207aef94fcb5c29d80c"
+   "rows": 3557,
+   "bytes": 358913,
+   "sha256": "6d433b90605f1bec70a31c6bb8925460bc82d2323f1c34937ffe7b4beac533e8"
   },
   {
    "path": "citations/statutes/vt.csv",
-   "rows": 12779,
-   "bytes": 1226998,
-   "sha256": "d7c4ed2ea94e2d3a35b2fce7442a88b7885bdba32a8ccd95612b094c7cb28afc"
+   "rows": 12315,
+   "bytes": 1180175,
+   "sha256": "1dad4108c45fc2d3efba662a5f0e876116352b45514589de0ddffb6ccb55c6cb"
   },
   {
    "path": "citations/statutes/wa.csv",
-   "rows": 61265,
-   "bytes": 5904947,
-   "sha256": "ad68c43a4b6ecad4641d4c9a9d0f4e065475899e42e0ff5a52bb0ef6ef4e5891"
+   "rows": 56304,
+   "bytes": 5348706,
+   "sha256": "444420b3672e5b2cad78b64796692441f2ecf7e69908a6e8423f6710c1eb4276"
   },
   {
    "path": "citations/statutes/wi.csv",
-   "rows": 33303,
-   "bytes": 3376152,
-   "sha256": "be9e4100ccdd9d6e3af38dc80f7dcd1e564e3373f1afde3843cda8e4cb65bc86"
+   "rows": 31211,
+   "bytes": 3126366,
+   "sha256": "39cdb54cbaeab449d943c1bebef1b8f090a998030eee76e9446344ed61062855"
   },
   {
    "path": "citations/statutes/wv.csv",
-   "rows": 29654,
-   "bytes": 3088755,
-   "sha256": "f4ae41698d989531c931fb7583d7fde72bb44432b14c9678670014daab1ab594"
+   "rows": 28891,
+   "bytes": 2993525,
+   "sha256": "01a71c060a14f72531ab0cf0343e02755b1f0ac488adc543853489ca734f4c24"
   },
   {
    "path": "citations/statutes/wy.csv",
-   "rows": 18330,
-   "bytes": 1869335,
-   "sha256": "e40a3769ea9bfab519cd270fb71a56f9d4abdf37cea1202fe7f59cae83c94786"
+   "rows": 17995,
+   "bytes": 1830499,
+   "sha256": "bdae7041f56bc7169192ef9628dab8b5b26ec6a48447b4c3618d06de8fc261e2"
   },
   {
    "path": "samples/administrative-registers.csv",
    "rows": 100,
-   "bytes": 10663,
-   "sha256": "a11feba89fccd530f03fc0a8a6b6451f89ef743dc56c2ce58a4e47593481e28b"
+   "bytes": 10694,
+   "sha256": "4b7b433287518e4dc0cd394f04fc54550ebc6a57365fe88935ef6f9564a8ffa5"
   },
   {
    "path": "samples/constitutions.csv",
    "rows": 100,
-   "bytes": 12904,
-   "sha256": "57b949ce230554453679b14be7b1b0d5154e36e3285813483cd4006b6bd16597"
+   "bytes": 12976,
+   "sha256": "35945a98aed8f8c33318d557c8c7306939ab246f5aef62281523e2f755f49fc0"
   },
   {
    "path": "samples/court-rules.csv",
    "rows": 100,
-   "bytes": 10930,
-   "sha256": "00e0b6cd454f5ce7f52dd9907a5efb45c97ca01f7035c999337da5ad1faa1742"
+   "bytes": 11275,
+   "sha256": "13988c017d565c3fcfd8ec8b4a297d41874d3a1dd83ee8b966e9ef079881abc9"
   },
   {
    "path": "samples/regulations.csv",
    "rows": 100,
-   "bytes": 10046,
-   "sha256": "e4e997085118d6c68f9a0d4fc16f8fe634adfa052ce2373d0dc74a1717a8a43e"
+   "bytes": 9783,
+   "sha256": "b94921754fd7bfebb8f9d2c6f97f262e4bf8ffd65043777b034d24ceb1bf36ef"
   },
   {
    "path": "samples/session-laws.csv",
    "rows": 100,
-   "bytes": 12144,
-   "sha256": "4374ff29cf57e2943f1191d67e60733df83b110be5f460cf3d5e9b5b84524791"
+   "bytes": 11524,
+   "sha256": "7fb1d12cbfd394a56a410443848d26bc91ffbd984049e3af1dcbbb00456e7d9d"
   },
   {
    "path": "samples/statutes.csv",
    "rows": 100,
-   "bytes": 10307,
-   "sha256": "ccc2d191777c9dd5bd460ecc28b39d95446411b834e5b3650a37d2ae86702c64"
+   "bytes": 10673,
+   "sha256": "d4c9d2b515a25e6ad90a7fd9e2952739639163d5097318cca7dc20d975dd575b"
   },
   {
    "path": "stats/by_jurisdiction.csv",
    "rows": 331,
-   "bytes": 13206,
-   "sha256": "658a1b3e3db81a0b27b2ed20b5ae1c085afdfbbc151a8eba684034e12c00b8c9"
+   "bytes": 13205,
+   "sha256": "6e5506219212e8a623e7bacc00a6bf73632029d75bc243cdbbeafdc0359f439a"
   },
   {
    "path": "stats/by_type.csv",
    "rows": 6,
    "bytes": 372,
-   "sha256": "b6ac93c34de16e85e8599dc3ee72a27985a9bacafe766714ecf861e5ee619a0d"
+   "sha256": "23310a5206a6c7b2d436c8be44534bebca4202e81cd6dd82d92f981a022f2146"
   },
   {
    "path": "stats/summary.json",
    "rows": 1,
-   "bytes": 479,
-   "sha256": "6a42755416970bf803599477dc742f1d569f6efe73ae1a2d5ed68e59f7cb8753"
+   "bytes": 5029,
+   "sha256": "bc785895a2962e8a0b02217f3c93fd246539a5e8f28cba969c7353c946699333"
   },
   {
    "path": "stats/top_cited/administrative-registers.csv",
    "rows": 1000,
    "bytes": 106278,
-   "sha256": "4380d7ad0cd1c2b255f325a054622609a2ed9449e4598dfaa815c4c95d51b363"
+   "sha256": "2242b092e1624f365b0d0b293c2bdb771f26018f8b2e83dc336756a6d96cb9f4"
   },
   {
    "path": "stats/top_cited/constitutions.csv",
    "rows": 1000,
-   "bytes": 121041,
-   "sha256": "b0263fd6d8dc001557b8aabaedecd9a066201f3a77a39f386696f5a911c4f5a6"
+   "bytes": 121025,
+   "sha256": "9d3438061998fa231db309c47434b7b0e1fb10357828141e26c6145ba22b7cc4"
   },
   {
    "path": "stats/top_cited/court-rules.csv",
    "rows": 1000,
-   "bytes": 99812,
-   "sha256": "1a2670144774a9c8e691980009f6764b91e1d42104a1da74a1624be7c183d714"
+   "bytes": 99849,
+   "sha256": "daecd209a74d663c27bbcb90f372f58879ed00efa63ac76d754858d76a084d25"
   },
   {
    "path": "stats/top_cited/regulations.csv",
    "rows": 1000,
-   "bytes": 92394,
-   "sha256": "794f2cd00b760c676809617d8bca07036fb5f30052cb7a676989ef808ee30bbb"
+   "bytes": 92269,
+   "sha256": "c74fbf45368623bc3fc88b87b4d9bc2028447e710a754a3d1dc7b91fd9597933"
   },
   {
    "path": "stats/top_cited/session-laws.csv",
    "rows": 1000,
-   "bytes": 103525,
-   "sha256": "334d9049ac1174ab3cd1be96d9d871a2003fbc48d7112878796b657e4be04645"
+   "bytes": 103566,
+   "sha256": "ca2a59d6eb0326040a08d28cf256261b92a3bbd28005fc44e8d008011aff9fb3"
   },
   {
    "path": "stats/top_cited/statutes.csv",
    "rows": 1000,
-   "bytes": 89198,
-   "sha256": "d52bdfa1180da1bb43ede293a883d878c44ef55da07592a06292156cee7a1a68"
+   "bytes": 89262,
+   "sha256": "7b3861c30b1a15f41ddc3318156270774c6a363a80653790804a970e84fc0c56"
   }
  ]
 }

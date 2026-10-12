@@ -1,13 +1,17 @@
 {
  "built": "2026-10-10",
+ "cleaned": "2026-10-12",
  "source": "CourtListener opinions via a self-hosted mirror; 10,745,929 opinions read",
  "extractor_version": "0.6.0",
+ "noise_rules_version": "1.0.0",
  "rows_in": 3450046,
- "rows_published": 2950812,
- "occurrences_published": 35006606,
+ "rows_published_before_cleaning": 2950812,
+ "occurrences_before_cleaning": 35006606,
  "excluded_weak": 496867,
  "excluded_artifact": 2344,
  "excluded_publisher_or_url_noise": 23,
+ "rows_published": 2775821,
+ "occurrences_published": 34774058,
  "categories": [
   "administrative-registers",
   "constitutions",
@@ -16,5 +20,168 @@
   "session-laws",
   "statutes"
  ],
- "csv_files": 331
+ "csv_files": 331,
+ "cleaning": {
+  "removed_by_class": {
+   "bill": {
+    "rows": 2382,
+    "occurrences": 4921
+   },
+   "case_reporter": {
+    "rows": 55743,
+    "occurrences": 161571
+   },
+   "docket": {
+    "rows": 7647,
+    "occurrences": 11975
+   },
+   "treatise": {
+    "rows": 31108,
+    "occurrences": 54081
+   }
+  },
+  "removed_by_category": {
+   "administrative-registers": {
+    "rows": 132,
+    "occurrences": 256
+   },
+   "constitutions": {
+    "rows": 28,
+    "occurrences": 31
+   },
+   "court-rules": {
+    "rows": 36997,
+    "occurrences": 103080
+   },
+   "regulations": {
+    "rows": 19674,
+    "occurrences": 60051
+   },
+   "statutes": {
+    "rows": 40049,
+    "occurrences": 69130
+   }
+  },
+  "repairs": {
+   "merge:footnote_number": 24664,
+   "merge": 78111,
+   "merge:case_prefix": 22691,
+   "rewrite:code_word": 1457,
+   "rewrite": 7404,
+   "merge:case_prefix+footnote_number": 5716,
+   "merge:case_prefix+spacing": 1931,
+   "merge:case_prefix+descent": 2467,
+   "rewrite:case_prefix": 1536,
+   "merge:case_prefix+lead": 1013,
+   "rewrite:case_prefix+spacing": 23,
+   "merge:case_prefix+lead+spacing": 120,
+   "merge:case_prefix+punct": 5,
+   "merge:case_prefix+footnote_number+spacing": 199,
+   "rewrite:footnote_number": 2216,
+   "merge:footnote_number+spacing": 4805,
+   "merge:footnote_number+lead": 346,
+   "merge:code_word": 5388,
+   "rewrite:footnote_number+spacing": 67,
+   "merge:digits": 1071,
+   "merge:footnote_number+code_word": 12,
+   "merge:footnote_number+typo": 30,
+   "merge:footnote_number+punct": 10,
+   "merge:punct": 2301,
+   "merge:footnote_number+digits": 12,
+   "rewrite:digits": 514,
+   "rewrite:case_prefix+lead": 56,
+   "rewrite:case_prefix+descent": 170,
+   "rewrite:punct": 843,
+   "rewrite:case_prefix+footnote_number": 57,
+   "merge:case_prefix+punct+descent": 1,
+   "merge:case_prefix+digits": 21,
+   "merge:case_prefix+typo": 19,
+   "merge:case_prefix+code_word": 26,
+   "merge:typo": 3024,
+   "rewrite:case_prefix+lead+typo": 1,
+   "merge:case_prefix+lead+digits": 2,
+   "rewrite:footnote_number+digits": 1,
+   "rewrite:typo": 130,
+   "merge:case_prefix+lead+typo": 1,
+   "merge:case_prefix+lead+footnote_number": 6,
+   "rewrite:footnote_number+lead": 1,
+   "merge:case_prefix+footnote_number+lead": 3,
+   "rewrite:case_prefix+code_word": 1,
+   "rewrite:footnote_number+punct": 1,
+   "rewrite:case_prefix+lead+spacing": 1,
+   "rewrite:case_prefix+digits": 1,
+   "merge:case_prefix+lead+punct": 1,
+   "merge:case_prefix+lead+footnote_number+spacing": 1,
+   "merge:spacing": 762,
+   "merge:lead": 1180,
+   "rewrite:lead": 309,
+   "merge:lead+punct": 4,
+   "merge:lead+footnote_number": 173,
+   "merge:lead+descent": 51,
+   "merge:lead+footnote_number+spacing": 37,
+   "rewrite:lead+descent": 8,
+   "rewrite:lead+footnote_number": 3,
+   "merge:lead+digits": 4,
+   "rewrite:lead+spacing": 8,
+   "merge:lead+spacing": 10,
+   "merge:lead+footnote_number+lead": 2,
+   "merge:lead+code_word": 2
+  },
+  "repaired_occurrences": {
+   "merge": 142851,
+   "rewrite": 9151
+  },
+  "resolved_rows_before": 1303083,
+  "resolved_rows_after": 1310487,
+  "by_category": {
+   "administrative-registers": {
+    "rows_before": 26536,
+    "rows_after": 26401,
+    "occurrences_before": 115901,
+    "occurrences_after": 115643,
+    "resolved_rows_before": 9104,
+    "resolved_rows_after": 9105
+   },
+   "constitutions": {
+    "rows_before": 92493,
+    "rows_after": 90969,
+    "occurrences_before": 999367,
+    "occurrences_after": 998807,
+    "resolved_rows_before": 51462,
+    "resolved_rows_after": 51660
+   },
+   "court-rules": {
+    "rows_before": 271193,
+    "rows_after": 217843,
+    "occurrences_before": 5593498,
+    "occurrences_after": 5489366,
+    "resolved_rows_before": 81085,
+    "resolved_rows_after": 81406
+   },
+   "regulations": {
+    "rows_before": 245859,
+    "rows_after": 224732,
+    "occurrences_before": 2287487,
+    "occurrences_after": 2228734,
+    "resolved_rows_before": 116979,
+    "resolved_rows_after": 117399
+   },
+   "session-laws": {
+    "rows_before": 110093,
+    "rows_after": 109982,
+    "occurrences_before": 368516,
+    "occurrences_after": 369635,
+    "resolved_rows_before": 32970,
+    "resolved_rows_after": 33335
+   },
+   "statutes": {
+    "rows_before": 2204638,
+    "rows_after": 2105894,
+    "occurrences_before": 25641837,
+    "occurrences_after": 25571873,
+    "resolved_rows_before": 1011483,
+    "resolved_rows_after": 1017582
+   }
+  }
+ }
 }

@@ -384,6 +384,7 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 75 Fed. Reg. 66,75 fed. reg. 66,Admin. Register,federal_register,US,33,28,17,2001,2023,true,register_reference
 75 Fed. Reg. 82,75 fed. reg. 82,Admin. Register,federal_register,US,33,24,8,2011,2025,true,register_reference
 77 Fed. Reg. 43,77 fed. reg. 43,Admin. Register,federal_register,US,33,31,16,2012,2025,true,register_reference
+78 Fed. Reg. 33,78 fed. reg. 33,Admin. Register,federal_register,US,33,28,8,2013,2023,true,exact
 80 Fed. Reg. 54,80 fed. reg. 54,Admin. Register,federal_register,US,33,27,14,2016,2025,true,register_reference
 81 Fed. Reg. 15,81 fed. reg. 15,Admin. Register,federal_register,US,33,14,3,2016,2022,true,register_reference
 81 Fed. Reg. 35,81 fed. reg. 35,Admin. Register,federal_register,US,33,30,6,2016,2023,true,register_reference
@@ -404,7 +405,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 73 Fed. Reg. 70,73 fed. reg. 70,Admin. Register,federal_register,US,32,18,10,2009,2021,true,register_reference
 77 Fed. Reg. 75,77 fed. reg. 75,Admin. Register,federal_register,US,32,26,6,2013,2023,false,unresolved
 78 Fed. Reg. 14,78 fed. reg. 14,Admin. Register,federal_register,US,32,25,8,2013,2025,true,register_reference
-78 Fed. Reg. 33,78 fed. reg. 33,Admin. Register,federal_register,US,32,28,8,2013,2023,true,exact
 78 Fed. Reg. 60,78 fed. reg. 60,Admin. Register,federal_register,US,32,29,18,2014,2025,true,register_reference
 81 Fed. Reg. 14,81 fed. reg. 14,Admin. Register,federal_register,US,32,31,14,2016,2025,true,register_reference
 81 Fed. Reg. 26,81 fed. reg. 26,Admin. Register,federal_register,US,32,25,9,2016,2025,true,register_reference
