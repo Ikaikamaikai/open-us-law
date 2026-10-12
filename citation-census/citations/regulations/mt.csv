@@ -38,6 +38,7 @@ Mont. Admin. R. 37.50.901,mont. admin. r. 37.50.901,Regulation,state_regulation,
 Mont. Admin. R. 44.11.202,mont. admin. r. 44.11.202,Regulation,state_regulation,MT,4,2,2,2021,2022,true,exact
 Mont. Admin. R. 44.11.225,mont. admin. r. 44.11.225,Regulation,state_regulation,MT,4,2,1,2017,2017,true,exact
 Mont. Admin. Rule 12.6.1202,mont. admin. rule 12.6.1202,Regulation,state_regulation,MT,4,2,1,2010,2010,true,exact
+Mont.Admin. R. 12.6.1515,mont.admin. r. 12.6.1515,Regulation,state_regulation,MT,4,1,1,1994,1994,true,exact
 Mont.Admin. R. 16.20.1300-.1347,mont.admin. r. 16.20.1300-.1347,Regulation,state_regulation,MT,4,2,1,1996,1996,false,unresolved
 Mont. Admin. R. § 23.19.101,mont. admin. r. § 23.19.101,Regulation,state_regulation,MT,3,1,1,2020,2020,true,exact
 Mont. Admin. Rule § 42.4.802,mont. admin. rule § 42.4.802,Regulation,state_regulation,MT,3,3,1,2020,2022,true,exact
@@ -91,12 +92,10 @@ Mont. Admin. R. § 24.209.4,mont. admin. r. § 24.209.4,Regulation,state_regulat
 Mont. Admin. R. § 36.25.118,mont. admin. r. § 36.25.118,Regulation,state_regulation,MT,2,1,1,2022,2022,true,exact
 Mont. Admin. Rule 17.30.101,mont. admin. rule 17.30.101,Regulation,state_regulation,MT,2,1,1,2010,2010,true,exact
 Mont. Admin. Rule 42.30.101,mont. admin. rule 42.30.101,Regulation,state_regulation,MT,2,1,1,2019,2019,true,exact
-Mont.Admin. R. 10.-16.1207,mont.admin. r. 10.-16.1207,Regulation,state_regulation,MT,2,1,1,1992,1992,false,unresolved
+Mont.Admin. R. 10.16.1207,mont.admin. r. 10.16.1207,Regulation,state_regulation,MT,2,1,1,1992,1992,true,exact
 Mont.Admin. R. 12-320.1,mont.admin. r. 12-320.1,Regulation,state_regulation,MT,2,1,1,1996,1996,false,unresolved
-Mont.Admin. R. 12.-6.1515,mont.admin. r. 12.-6.1515,Regulation,state_regulation,MT,2,1,1,1994,1994,false,unresolved
-Mont.Admin. R. 12.6.1515,mont.admin. r. 12.6.1515,Regulation,state_regulation,MT,2,1,1,1994,1994,true,exact
 Mont.Admin. R. 20.25.901A,mont.admin. r. 20.25.901a,Regulation,state_regulation,MT,2,1,1,1994,1994,true,exact
-Mont.Admin. R. 38.5.-2502,mont.admin. r. 38.5.-2502,Regulation,state_regulation,MT,2,1,1,1990,1990,false,unresolved
+Mont.Admin. R. 38.5.2502,mont.admin. r. 38.5.2502,Regulation,state_regulation,MT,2,1,1,1990,1990,true,exact
 Mont.Admin. R. 42.34.101,mont.admin. r. 42.34.101,Regulation,state_regulation,MT,2,1,1,1990,1990,true,exact
 Mont.Admin.Code § S10270,mont.admin.code § s10270,Regulation,state_regulation,MT,2,2,1,1983,1983,false,unresolved
 Mont.Admin.Reg. § 26-2.10,mont.admin.reg. § 26-2.10,Regulation,state_regulation,MT,2,2,1,1983,1983,false,unresolved
@@ -105,7 +104,6 @@ Montana (Mont. Ins. Dept. Reg. § 6.6.1202-6.6.1203,montana (mont. ins. dept. re
 13 Mont.Admin.Code § 26-2.10,13 mont.admin.code § 26-2.10,Regulation,state_regulation,MT,1,1,1,1983,1983,false,unresolved
 284 I. C.C.R. 589,284 i. c.c.r. 589,Regulation,state_regulation,MT,1,1,1,1954,1954,false,unresolved
 284 I. C.C.R. 666,284 i. c.c.r. 666,Regulation,state_regulation,MT,1,1,1,1954,1954,false,unresolved
-"6 C.M.A. 776, 802, 21 C.M.R. 98","6 c.m.a. 776, 802, 21 c.m.r. 98",Regulation,state_regulation,MT,1,1,1,2003,2003,false,unresolved
 IRS Reg. § 1.162,irs reg. § 1.162,Regulation,state_regulation,MT,1,1,1,2002,2002,false,unresolved
 Mont. Admin. R. 1,mont. admin. r. 1,Regulation,state_regulation,MT,1,1,1,2023,2023,false,unresolved
 Mont. Admin. R. 24.16.6102,mont. admin. r. 24.16.6102,Regulation,state_regulation,MT,1,1,1,2015,2015,true,exact

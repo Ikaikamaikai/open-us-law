@@ -1183,6 +1183,7 @@ US Gov. Works. 16 TAC § 25.237,us gov. works. 16 tac § 25.237,Regulation,state
 30 Tex. Admin. Code § 111.207,30 tex. admin. code § 111.207,Regulation,state_regulation,TX,4,4,2,2006,2022,true,exact
 30 Tex. Admin. Code § 112.31,30 tex. admin. code § 112.31,Regulation,state_regulation,TX,4,2,1,2009,2009,true,exact
 30 Tex. Admin. Code § 113.2300,30 tex. admin. code § 113.2300,Regulation,state_regulation,TX,4,3,1,2022,2022,true,exact
+30 Tex. Admin. Code § 281.25,30 tex. admin. code § 281.25,Regulation,state_regulation,TX,4,1,1,2023,2023,true,exact
 30 Tex. Admin. Code § 285.50,30 tex. admin. code § 285.50,Regulation,state_regulation,TX,4,2,1,1999,2005,true,exact
 30 Tex. Admin. Code § 288.30,30 tex. admin. code § 288.30,Regulation,state_regulation,TX,4,1,1,2015,2015,true,exact
 30 Tex. Admin. Code § 291.131,30 tex. admin. code § 291.131,Regulation,state_regulation,TX,4,2,1,2008,2008,true,exact
@@ -1639,7 +1640,6 @@ US Gov. Works. 30 TAC § 101.302,us gov. works. 30 tac § 101.302,Regulation,sta
 30 Tex. Admin. Code § 216.8,30 tex. admin. code § 216.8,Regulation,state_regulation,TX,3,2,1,2000,2000,false,unresolved
 30 Tex. Admin. Code § 217.38,30 tex. admin. code § 217.38,Regulation,state_regulation,TX,3,3,1,2025,2025,true,exact
 30 Tex. Admin. Code § 279.1,30 tex. admin. code § 279.1,Regulation,state_regulation,TX,3,3,1,2005,2005,true,exact
-30 Tex. Admin. Code § 281.25,30 tex. admin. code § 281.25,Regulation,state_regulation,TX,3,1,1,2023,2023,true,exact
 30 Tex. Admin. Code § 285.91,30 tex. admin. code § 285.91,Regulation,state_regulation,TX,3,2,2,2001,2023,true,exact
 30 Tex. Admin. Code § 290.101,30 tex. admin. code § 290.101,Regulation,state_regulation,TX,3,3,1,2004,2004,true,exact
 30 Tex. Admin. Code § 290.103,30 tex. admin. code § 290.103,Regulation,state_regulation,TX,3,3,1,2004,2004,true,exact
@@ -2220,6 +2220,7 @@ US Gov. Works. 30 TAC § 305.66,us gov. works. 30 tac § 305.66,Regulation,state
 19 Tex.Admin.Code § 89.227,19 tex.admin.code § 89.227,Regulation,state_regulation,TX,2,2,1,1992,1992,false,unresolved
 19 Texas Admin. Code § 249.39,19 texas admin. code § 249.39,Regulation,state_regulation,TX,2,2,1,2006,2006,true,exact
 22 TAC § 167.4,22 tac § 167.4,Regulation,state_regulation,TX,2,1,1,2021,2021,false,unresolved
+22 TAC § 174.1,22 tac § 174.1,Regulation,state_regulation,TX,2,1,1,2015,2015,true,exact
 22 TAC § 174.8,22 tac § 174.8,Regulation,state_regulation,TX,2,1,1,2015,2015,false,unresolved
 22 TAC § 179.3,22 tac § 179.3,Regulation,state_regulation,TX,2,2,1,2009,2009,false,unresolved
 22 TAC § 203.1,22 tac § 203.1,Regulation,state_regulation,TX,2,2,1,2007,2007,true,exact
@@ -2743,7 +2744,7 @@ US Gov. Works. 30 TAC § 305.66,us gov. works. 30 tac § 305.66,Regulation,state
 37 Tex.Admin.Code § 143.51,37 tex.admin.code § 143.51,Regulation,state_regulation,TX,2,2,1,1993,1993,true,exact
 37 Tex.Admin.Code § 143.57,37 tex.admin.code § 143.57,Regulation,state_regulation,TX,2,2,1,1993,1993,true,exact
 37 Tex.Admin.Code § 145.41,37 tex.admin.code § 145.41,Regulation,state_regulation,TX,2,2,2,1987,1990,false,unresolved
-37 Tex.Admin.Code § 19.-1,37 tex.admin.code § 19.-1,Regulation,state_regulation,TX,2,1,1,1986,1986,false,unresolved
+37 Tex.Admin.Code § 19.1,37 tex.admin.code § 19.1,Regulation,state_regulation,TX,2,1,1,1986,1986,true,exact
 37 Tex.Admin.Code § 211.104,37 tex.admin.code § 211.104,Regulation,state_regulation,TX,2,2,1,1991,1991,false,unresolved
 37 Tex.Admin.Code § 273,37 tex.admin.code § 273,Regulation,state_regulation,TX,2,2,1,2000,2000,false,unresolved
 37 Tex.Admin.Code § 3.62,37 tex.admin.code § 3.62,Regulation,state_regulation,TX,2,2,1,2001,2001,false,unresolved
@@ -3967,7 +3968,6 @@ WMP. 31 Tex. Admin. Code § 65.26,wmp. 31 tex. admin. code § 65.26,Regulation,s
 20 Rules 30 Tex. Admin. Code § 297.19,20 rules 30 tex. admin. code § 297.19,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 20 Rules: 16 Tex. Admin. Code § 25.231,20 rules: 16 tex. admin. code § 25.231,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 20-21 Codes 22 Tex. Admin. Code § 882.3,20-21 codes 22 tex. admin. code § 882.3,Regulation,state_regulation,TX,1,1,1,2025,2025,false,unresolved
-"21 M.J. 960, 967 (A. C.M.R. 1986","21 m.j. 960, 967 (a. c.m.r. 1986",Regulation,state_regulation,TX,1,1,1,2005,2005,false,unresolved
 21 Regulations 1 Tex. Admin. Code § 391.101,21 regulations 1 tex. admin. code § 391.101,Regulation,state_regulation,TX,1,1,1,2025,2025,false,unresolved
 21 Regulations 1 Tex. Admin. Code § 391.209,21 regulations 1 tex. admin. code § 391.209,Regulation,state_regulation,TX,1,1,1,2025,2025,false,unresolved
 21 Regulations 30 Tex. Admin. Code § 55.1038,21 regulations 30 tex. admin. code § 55.1038,Regulation,state_regulation,TX,1,1,1,2025,2025,false,unresolved
@@ -3989,9 +3989,7 @@ WMP. 31 Tex. Admin. Code § 65.26,wmp. 31 tex. admin. code § 65.26,Regulation,s
 22 TAC § 163.14,22 tac § 163.14,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 22 TAC § 163.2,22 tac § 163.2,Regulation,state_regulation,TX,1,1,1,1986,1986,true,exact
 22 TAC § 170.3,22 tac § 170.3,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
-22 TAC § 174.1,22 tac § 174.1,Regulation,state_regulation,TX,1,1,1,2015,2015,true,exact
 22 TAC § 174.6,22 tac § 174.6,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
-22 TAC § 174.l,22 tac § 174.l,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 22 TAC § 176.1,22 tac § 176.1,Regulation,state_regulation,TX,1,1,1,2015,2015,true,exact
 22 TAC § 182.1,22 tac § 182.1,Regulation,state_regulation,TX,1,1,1,2025,2025,true,exact
 22 TAC § 182.3,22 tac § 182.3,Regulation,state_regulation,TX,1,1,1,2025,2025,true,exact
@@ -5034,7 +5032,6 @@ WMP. 31 Tex. Admin. Code § 65.26,wmp. 31 tex. admin. code § 65.26,Regulation,s
 34 Tex.Admin.Code § 3.548,34 tex.admin.code § 3.548,Regulation,state_regulation,TX,1,1,1,1989,1989,false,unresolved
 34 Tex.Admin.Code § 3.572,34 tex.admin.code § 3.572,Regulation,state_regulation,TX,1,1,1,1994,1994,false,unresolved
 34 Tex.Admin.Code § 3.7,34 tex.admin.code § 3.7,Regulation,state_regulation,TX,1,1,1,1994,1994,true,exact
-"36 M.J. 1050 (USAF, CMR 1993","36 m.j. 1050 (usaf, cmr 1993",Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 366 (Tex. 1983). 8 16 Tex. Admin. Code § 25.231,366 (tex. 1983). 8 16 tex. admin. code § 25.231,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 37 TAC 13.1,37 tac 13.1,Regulation,state_regulation,TX,1,1,1,2015,2015,true,exact
 37 TAC 145.2,37 tac 145.2,Regulation,state_regulation,TX,1,1,1,2015,2015,true,exact
@@ -5496,7 +5493,6 @@ WMP. 31 Tex. Admin. Code § 65.26,wmp. 31 tex. admin. code § 65.26,Regulation,s
 9 Tex. Admin. Code tit. 16 § 25.231,9 tex. admin. code tit. 16 § 25.231,Regulation,state_regulation,TX,1,1,1,2015,2015,true,exact
 9 Tex. Admin. Code § 153.14,9 tex. admin. code § 153.14,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
 9 Tex. Admin. Code § 61.1018,9 tex. admin. code § 61.1018,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
-956 (Tex. 1984))). 30 Tex. Admin. Code § 281.25,956 (tex. 1984))). 30 tex. admin. code § 281.25,Regulation,state_regulation,TX,1,1,1,2023,2023,false,unresolved
 A. 43 Tex. Admin. Code § 21.150,a. 43 tex. admin. code § 21.150,Regulation,state_regulation,TX,1,1,1,2025,2025,false,unresolved
 A. General Rules 30 TAC § 80.17,a. general rules 30 tac § 80.17,Regulation,state_regulation,TX,1,1,1,2025,2025,false,unresolved
 A. Yes. CCR 868,a. yes. ccr 868,Regulation,state_regulation,TX,1,1,1,2015,2015,false,unresolved
@@ -6184,7 +6180,7 @@ Tex.Admin.Code Ann. § 1037,tex.admin.code ann. § 1037,Regulation,state_regulat
 Tex.Admin.Code Rule 1.64,tex.admin.code rule 1.64,Regulation,state_regulation,TX,1,1,1,2017,2017,false,unresolved
 Tex.Admin.Code tit. 16 § 3.10,tex.admin.code tit. 16 § 3.10,Regulation,state_regulation,TX,1,1,1,1989,1989,true,exact
 Tex.Admin.Code tit. 22 § 681,tex.admin.code tit. 22 § 681,Regulation,state_regulation,TX,1,1,1,1997,1997,false,unresolved
-Tex.Admin.Code tit. 40 § 177.-5,tex.admin.code tit. 40 § 177.-5,Regulation,state_regulation,TX,1,1,1,1993,1993,false,unresolved
+Tex.Admin.Code tit. 40 § 177.5,tex.admin.code tit. 40 § 177.5,Regulation,state_regulation,TX,1,1,1,1993,1993,true,exact
 Tex.Admin.Code tit. 40 § 29.-1001,tex.admin.code tit. 40 § 29.-1001,Regulation,state_regulation,TX,1,1,1,1983,1983,false,unresolved
 Tex.Admin.Code tit. 40 § 29.603,tex.admin.code tit. 40 § 29.603,Regulation,state_regulation,TX,1,1,1,1983,1983,false,unresolved
 Tex.Admin.Code tit. 40 § 301.1,tex.admin.code tit. 40 § 301.1,Regulation,state_regulation,TX,1,1,1,1987,1987,false,unresolved

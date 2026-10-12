@@ -100,6 +100,7 @@ Iowa Admin.Code 670-13.1,iowa admin.code 670-13.1,Regulation,state_regulation,IA
 Iowa Admin.Code R. 291-20.6,iowa admin.code r. 291-20.6,Regulation,state_regulation,IA,4,2,1,1993,1993,false,unresolved
 Iowa Admin.Code R. 345-4.32,iowa admin.code r. 345-4.32,Regulation,state_regulation,IA,4,2,1,1991,1991,false,unresolved
 Iowa Code. 343 Iowa Admin.Code 4.35,iowa code. 343 iowa admin.code 4.35,Regulation,state_regulation,IA,4,2,1,1994,1994,false,unresolved
+199 Iowa Admin.Code 16.2,199 iowa admin.code 16.2,Regulation,state_regulation,IA,3,1,1,1989,1990,true,exact
 240 Iowa Admin.Code § 6.1,240 iowa admin.code § 6.1,Regulation,state_regulation,IA,3,3,1,1985,1987,false,unresolved
 345 Iowa Admin.Code § 3.24,345 iowa admin.code § 3.24,Regulation,state_regulation,IA,3,1,1,1989,1989,false,unresolved
 370 Iowa Admin.Code § 4.13,370 iowa admin.code § 4.13,Regulation,state_regulation,IA,3,1,1,1983,1983,false,unresolved
@@ -130,7 +131,6 @@ Iowa Admin.Code § 770-151.3,iowa admin.code § 770-151.3,Regulation,state_regul
 193E Iowa Admin.Code 1.23,193e iowa admin.code 1.23,Regulation,state_regulation,IA,2,1,1,1994,1994,false,unresolved
 193E Iowa Admin.Code 1.27,193e iowa admin.code 1.27,Regulation,state_regulation,IA,2,1,1,1990,1990,false,unresolved
 199 Iowa Admin. Code 20.11,199 iowa admin. code 20.11,Regulation,state_regulation,IA,2,1,1,1987,1987,true,exact
-199 Iowa Admin.Code 16.2,199 iowa admin.code 16.2,Regulation,state_regulation,IA,2,1,1,1989,1989,true,exact
 199 Iowa Admin.Code 19.10,199 iowa admin.code 19.10,Regulation,state_regulation,IA,2,1,1,1992,1992,true,exact
 199 Iowa Admin.Code 20.10,199 iowa admin.code 20.10,Regulation,state_regulation,IA,2,1,1,1987,1987,true,exact
 199 Iowa Admin.Code 22.14,199 iowa admin.code 22.14,Regulation,state_regulation,IA,2,1,1,1987,1987,false,unresolved
@@ -347,7 +347,7 @@ Iowa Admin.Code 441-200.3,iowa admin.code 441-200.3,Regulation,state_regulation,
 Iowa Admin.Code 491-7.1,iowa admin.code 491-7.1,Regulation,state_regulation,IA,2,1,1,1989,1989,false,unresolved
 Iowa Admin.Code 640-2.3,iowa admin.code 640-2.3,Regulation,state_regulation,IA,2,1,1,1987,1987,false,unresolved
 Iowa Admin.Code 701-41.4,iowa admin.code 701-41.4,Regulation,state_regulation,IA,2,1,1,1990,1990,false,unresolved
-Iowa Admin.Code 701-7.-8,iowa admin.code 701-7.-8,Regulation,state_regulation,IA,2,1,1,1990,1990,false,unresolved
+Iowa Admin.Code 701-7.8,iowa admin.code 701-7.8,Regulation,state_regulation,IA,2,1,1,1990,1990,true,exact
 Iowa Admin.Code 730-12.9,iowa admin.code 730-12.9,Regulation,state_regulation,IA,2,1,1,1983,1983,false,unresolved
 Iowa Admin.Code 820,iowa admin.code 820,Regulation,state_regulation,IA,2,2,1,1985,1986,false,unresolved
 Iowa Admin.Code R. 441.177,iowa admin.code r. 441.177,Regulation,state_regulation,IA,2,1,1,1994,1994,false,unresolved
@@ -364,14 +364,12 @@ Iowa Admin.Code § 701-43.1,iowa admin.code § 701-43.1,Regulation,state_regulat
 199 Iowa Admin. Code § 10.1,199 iowa admin. code § 10.1,Regulation,state_regulation,IA,1,1,1,1990,1990,true,exact
 199 Iowa Admin. Code § 16.1,199 iowa admin. code § 16.1,Regulation,state_regulation,IA,1,1,1,1990,1990,true,exact
 199 Iowa Admin. Code § 16.2,199 iowa admin. code § 16.2,Regulation,state_regulation,IA,1,1,1,1990,1990,true,exact
-199 Iowa Admin.Code 16.-2,199 iowa admin.code 16.-2,Regulation,state_regulation,IA,1,1,1,1990,1990,false,unresolved
 199 Iowa Admin.Code 19,199 iowa admin.code 19,Regulation,state_regulation,IA,1,1,1,1988,1988,false,unresolved
 199 Iowa Admin.Code § 30.1,199 iowa admin.code § 30.1,Regulation,state_regulation,IA,1,1,1,1989,1989,false,unresolved
 199 Iowa Admin.Code § 30.2,199 iowa admin.code § 30.2,Regulation,state_regulation,IA,1,1,1,1989,1989,false,unresolved
 199 Iowa Admin.Code § 8.1,199 iowa admin.code § 8.1,Regulation,state_regulation,IA,1,1,1,1988,1988,false,unresolved
 "2 Am. Law Reg. (N.S.), 715 § 23","2 am. law reg. (n.s.), 715 § 23",Regulation,state_regulation,IA,1,1,1,1865,1865,false,unresolved
 21 O. C.C.R. 261,21 o. c.c.r. 261,Regulation,state_regulation,IA,1,1,1,1915,1915,false,unresolved
-"22 C.M.A. 549, 552, 48 C.M.R. 34","22 c.m.a. 549, 552, 48 c.m.r. 34",Regulation,state_regulation,IA,1,1,1,1979,1979,false,unresolved
 22 O. C.C.R. 252,22 o. c.c.r. 252,Regulation,state_regulation,IA,1,1,1,1915,1915,false,unresolved
 240 Iowa Admin. Code § 6.1,240 iowa admin. code § 6.1,Regulation,state_regulation,IA,1,1,1,1986,1986,false,unresolved
 240 Iowa Admin.Code § 1.5,240 iowa admin.code § 1.5,Regulation,state_regulation,IA,1,1,1,1988,1988,false,unresolved

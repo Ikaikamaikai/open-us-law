@@ -1,7 +1,7 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 803 Code Mass. Regs. § 1.33,803 code mass. regs. § 1.33,Regulation,state_regulation,MA,544,121,2,2004,2026,true,exact
 803 Code Mass. Regs. § 1.40,803 code mass. regs. § 1.40,Regulation,state_regulation,MA,219,42,3,2006,2026,false,unresolved
-940 Code Mass. Regs. § 3.16,940 code mass. regs. § 3.16,Regulation,state_regulation,MA,121,58,8,1982,2025,true,exact
+940 Code Mass. Regs. § 3.16,940 code mass. regs. § 3.16,Regulation,state_regulation,MA,122,58,8,1982,2025,true,exact
 C.M.R. 11.02,c.m.r. 11.02,Regulation,state_regulation,MA,90,4,2,2000,2009,false,unresolved
 801 Code Mass. Regs. § 1.01,801 code mass. regs. § 1.01,Regulation,state_regulation,MA,89,44,3,1981,2025,true,exact
 103 Code Mass. Regs. § 430.25,103 code mass. regs. § 430.25,Regulation,state_regulation,MA,79,16,3,1990,2015,true,exact
@@ -18,11 +18,11 @@ CMR 3.16,cmr 3.16,Regulation,state_regulation,MA,58,22,3,1984,2024,false,unresol
 310 Code Mass. Regs. § 9.02,310 code mass. regs. § 9.02,Regulation,state_regulation,MA,49,20,3,1994,2025,true,exact
 130 Code Mass. Regs. § 450.204,130 code mass. regs. § 450.204,Regulation,state_regulation,MA,45,9,3,1998,2023,true,exact
 243 Code Mass. Regs. § 1.03,243 code mass. regs. § 1.03,Regulation,state_regulation,MA,44,21,2,1982,2020,true,exact
+804 Code Mass. Regs. § 1.03,804 code mass. regs. § 1.03,Regulation,state_regulation,MA,43,28,4,1990,2009,true,exact
 CMR 430.14,cmr 430.14,Regulation,state_regulation,MA,43,8,2,1993,1999,false,unresolved
 103 Code Mass. Regs. § 421.00,103 code mass. regs. § 421.00,Regulation,state_regulation,MA,42,16,3,1989,2016,false,unresolved
 130 Code Mass. Regs. § 520.019,130 code mass. regs. § 520.019,Regulation,state_regulation,MA,42,9,2,2007,2017,true,exact
 760 Code Mass. Regs. § 56.07,760 code mass. regs. § 56.07,Regulation,state_regulation,MA,42,10,3,2010,2025,true,exact
-804 Code Mass. Regs. § 1.03,804 code mass. regs. § 1.03,Regulation,state_regulation,MA,42,28,4,1990,2009,true,exact
 106 Code Mass. Regs. § 303.230,106 code mass. regs. § 303.230,Regulation,state_regulation,MA,41,5,2,1984,1996,false,unresolved
 CMR 1.03,cmr 1.03,Regulation,state_regulation,MA,41,20,4,1986,2009,false,unresolved
 CMR 1.01,cmr 1.01,Regulation,state_regulation,MA,40,11,3,1991,2025,false,unresolved
@@ -62,6 +62,7 @@ CMR 3.17,cmr 3.17,Regulation,state_regulation,MA,28,10,2,2005,2019,false,unresol
 940 Code Mass. Regs. § 7.04,940 code mass. regs. § 7.04,Regulation,state_regulation,MA,27,9,3,1994,2021,true,exact
 130 Code Mass. Regs. § 520.007,130 code mass. regs. § 520.007,Regulation,state_regulation,MA,26,11,4,2001,2025,true,exact
 804 Code Mass. Regs. § 1.15,804 code mass. regs. § 1.15,Regulation,state_regulation,MA,26,13,4,1991,2021,true,exact
+830 Code Mass. Regs. § 63.38.1,830 code mass. regs. § 63.38.1,Regulation,state_regulation,MA,26,3,2,2005,2017,true,exact
 C.M.R. 16.40,c.m.r. 16.40,Regulation,state_regulation,MA,26,2,1,1998,2009,false,unresolved
 501 Code Mass. Regs. § 2.41,501 code mass. regs. § 2.41,Regulation,state_regulation,MA,25,7,2,1992,2011,false,unresolved
 C.M.R. 516.005,c.m.r. 516.005,Regulation,state_regulation,MA,25,2,1,2003,2003,false,unresolved
@@ -104,7 +105,6 @@ CMR 433.404,cmr 433.404,Regulation,state_regulation,MA,20,2,1,2000,2021,false,un
 130 Code Mass. Regs. § 506.220,130 code mass. regs. § 506.220,Regulation,state_regulation,MA,19,2,1,1997,1999,false,unresolved
 803 Code Mass. Regs. § 1.03,803 code mass. regs. § 1.03,Regulation,state_regulation,MA,19,16,3,1997,2025,true,exact
 803 Code Mass. Regs. § 1.22,803 code mass. regs. § 1.22,Regulation,state_regulation,MA,19,12,3,2006,2017,true,exact
-830 Code Mass. Regs. § 63.38.1,830 code mass. regs. § 63.38.1,Regulation,state_regulation,MA,19,3,2,2005,2017,true,exact
 CMR 4.00,cmr 4.00,Regulation,state_regulation,MA,19,10,6,1984,2018,false,unresolved
 CMR 4.04,cmr 4.04,Regulation,state_regulation,MA,19,6,3,1991,2004,false,unresolved
 CMR 64H.25.1,cmr 64h.25.1,Regulation,state_regulation,MA,19,1,1,1996,1996,false,unresolved
@@ -192,6 +192,7 @@ CMR 505.160,cmr 505.160,Regulation,state_regulation,MA,15,1,1,1996,1996,false,un
 803 Code Mass. Regs. § 1.04,803 code mass. regs. § 1.04,Regulation,state_regulation,MA,14,8,2,2008,2025,true,exact
 803 Code Mass. Regs. § 2.04,803 code mass. regs. § 2.04,Regulation,state_regulation,MA,14,6,3,1995,2008,true,exact
 804 Code Mass. Regs. § 1.20,804 code mass. regs. § 1.20,Regulation,state_regulation,MA,14,6,3,2004,2021,true,exact
+830 Code Mass. Regs. § 63.39.1,830 code mass. regs. § 63.39.1,Regulation,state_regulation,MA,14,5,1,1994,2009,true,exact
 940 Code Mass. Regs. 3.16,940 code mass. regs. 3.16,Regulation,state_regulation,MA,14,11,5,1979,2017,true,exact
 940 Code of Mass. Regs. § 21.04,940 code of mass. regs. § 21.04,Regulation,state_regulation,MA,14,3,1,2001,2001,true,exact
 C.M.R. 7.40,c.m.r. 7.40,Regulation,state_regulation,MA,14,1,1,2002,2002,false,unresolved
@@ -278,7 +279,6 @@ CMR 9.01,cmr 9.01,Regulation,state_regulation,MA,12,3,1,1981,2007,false,unresolv
 801 Code Mass. Regs. § 1.02,801 code mass. regs. § 1.02,Regulation,state_regulation,MA,11,7,2,1984,2025,true,exact
 807 Code Mass. Regs. § 14.05,807 code mass. regs. § 14.05,Regulation,state_regulation,MA,11,1,1,2013,2013,true,exact
 830 Code Mass. Regs. § 62C.3.2,830 code mass. regs. § 62c.3.2,Regulation,state_regulation,MA,11,3,1,1993,2009,false,unresolved
-830 Code Mass. Regs. § 63.39.1,830 code mass. regs. § 63.39.1,Regulation,state_regulation,MA,11,5,1,1994,2009,true,exact
 940 Code Mass. Regs. § 10.03,940 code mass. regs. § 10.03,Regulation,state_regulation,MA,11,2,1,2019,2025,true,exact
 C.M.R. 10.06,c.m.r. 10.06,Regulation,state_regulation,MA,11,8,3,1995,2018,false,unresolved
 C.M.R. 405.18,c.m.r. 405.18,Regulation,state_regulation,MA,11,1,1,2001,2001,false,unresolved
@@ -432,6 +432,8 @@ CMR 25.00,cmr 25.00,Regulation,state_regulation,MA,9,3,3,2019,2024,false,unresol
 314 Code Mass. Regs. § 4.00,314 code mass. regs. § 4.00,Regulation,state_regulation,MA,8,4,2,1996,2011,false,unresolved
 314 Code Mass. Regs. § 5.00,314 code mass. regs. § 5.00,Regulation,state_regulation,MA,8,6,3,1988,2015,false,unresolved
 321 Code Mass. Regs. § 10.12,321 code mass. regs. § 10.12,Regulation,state_regulation,MA,8,2,1,2010,2014,true,exact
+454 Code Mass. Regs. § 10.00,454 code mass. regs. § 10.00,Regulation,state_regulation,MA,8,2,2,1997,1998,true,exact
+456 Code Mass. Regs. § 17.06,456 code mass. regs. § 17.06,Regulation,state_regulation,MA,8,6,2,1988,2000,true,exact
 501 Code Mass. Regs. § 2.57,501 code mass. regs. § 2.57,Regulation,state_regulation,MA,8,4,2,1995,2014,false,unresolved
 527 Code Mass. Regs. § 24.08,527 code mass. regs. § 24.08,Regulation,state_regulation,MA,8,1,1,2015,2015,false,unresolved
 540 Code Mass. Regs. § 4.03,540 code mass. regs. § 4.03,Regulation,state_regulation,MA,8,5,3,1991,2022,true,exact
@@ -504,6 +506,7 @@ Mass.Regs.Code tit. 940 § 3.16,mass.regs.code tit. 940 § 3.16,Regulation,state
 130 Code Mass. Regs. § 519.006,130 code mass. regs. § 519.006,Regulation,state_regulation,MA,7,4,2,2009,2016,true,exact
 211 Code Mass. Regs. § 38.03,211 code mass. regs. § 38.03,Regulation,state_regulation,MA,7,2,1,2008,2011,true,exact
 211 Code Mass. Regs. § 52.12,211 code mass. regs. § 52.12,Regulation,state_regulation,MA,7,1,1,2013,2013,true,exact
+220 Code Mass. Regs. § 6.06,220 code mass. regs. § 6.06,Regulation,state_regulation,MA,7,2,1,2004,2011,true,exact
 233 Code Mass. Regs. § 4.05,233 code mass. regs. § 4.05,Regulation,state_regulation,MA,7,2,1,1985,1998,true,exact
 233 Code Mass. Regs. § 4.09,233 code mass. regs. § 4.09,Regulation,state_regulation,MA,7,3,1,1985,1998,true,exact
 310 Code Mass. Regs. 10.02,310 code mass. regs. 10.02,Regulation,state_regulation,MA,7,5,3,1981,1994,true,exact
@@ -520,8 +523,6 @@ Mass.Regs.Code tit. 940 § 3.16,mass.regs.code tit. 940 § 3.16,Regulation,state
 452 Code Mass. Regs. § 1.07,452 code mass. regs. § 1.07,Regulation,state_regulation,MA,7,7,2,1999,2018,true,exact
 452 Code Mass. Regs. § 1.08,452 code mass. regs. § 1.08,Regulation,state_regulation,MA,7,6,2,1993,2011,true,exact
 452 Code Mass. Regs. § 3.02,452 code mass. regs. § 3.02,Regulation,state_regulation,MA,7,3,2,1991,2006,true,exact
-454 Code Mass. Regs. § 10.00,454 code mass. regs. § 10.00,Regulation,state_regulation,MA,7,2,2,1997,1998,true,exact
-456 Code Mass. Regs. § 17.06,456 code mass. regs. § 17.06,Regulation,state_regulation,MA,7,6,2,1988,2000,true,exact
 501 Code Mass. Regs. § 13.03,501 code mass. regs. § 13.03,Regulation,state_regulation,MA,7,1,1,2016,2016,true,exact
 501 Code Mass. Regs. § 2.39,501 code mass. regs. § 2.39,Regulation,state_regulation,MA,7,2,2,2006,2011,false,unresolved
 540 Code Mass. Regs. § 22.08,540 code mass. regs. § 22.08,Regulation,state_regulation,MA,7,1,1,2003,2003,true,exact
@@ -538,7 +539,6 @@ Mass.Regs.Code tit. 940 § 3.16,mass.regs.code tit. 940 § 3.16,Regulation,state
 803 Code Mass. Regs. § 1.41,803 code mass. regs. § 1.41,Regulation,state_regulation,MA,7,5,3,2006,2009,false,unresolved
 804 Code Mass. Regs. § 1.21,804 code mass. regs. § 1.21,Regulation,state_regulation,MA,7,4,2,2008,2012,true,exact
 830 Code Mass. Regs. 63.39.1,830 code mass. regs. 63.39.1,Regulation,state_regulation,MA,7,1,1,1997,1997,true,exact
-830 Code Mass. Regs. § 63.38.l,830 code mass. regs. § 63.38.l,Regulation,state_regulation,MA,7,2,2,2005,2008,false,unresolved
 830 Code Mass. Regs. § 64H,830 code mass. regs. § 64h,Regulation,state_regulation,MA,7,2,2,2007,2009,false,unresolved
 840 Code Mass. Regs. § 10.11,840 code mass. regs. § 10.11,Regulation,state_regulation,MA,7,3,2,2007,2013,true,exact
 930 Code Mass. Regs. § 3.01,930 code mass. regs. § 3.01,Regulation,state_regulation,MA,7,1,1,2004,2004,true,exact
@@ -590,7 +590,6 @@ Mass. Regs.Code tit. 940 § 3.16,mass. regs.code tit. 940 § 3.16,Regulation,sta
 220 Code Mass. Regs. § 1.03,220 code mass. regs. § 1.03,Regulation,state_regulation,MA,6,3,1,1993,2012,true,exact
 220 Code Mass. Regs. § 1.13,220 code mass. regs. § 1.13,Regulation,state_regulation,MA,6,2,1,2013,2014,true,exact
 220 Code Mass. Regs. § 45.03,220 code mass. regs. § 45.03,Regulation,state_regulation,MA,6,1,1,2002,2002,true,exact
-220 Code Mass. Regs. § 6.06,220 code mass. regs. § 6.06,Regulation,state_regulation,MA,6,2,1,2004,2011,true,exact
 220 Code Mass. Regs. § 8.03,220 code mass. regs. § 8.03,Regulation,state_regulation,MA,6,2,1,1993,1997,true,exact
 220 Mass. Code Regs. § 8.03,220 mass. code regs. § 8.03,Regulation,state_regulation,MA,6,2,2,2016,2017,true,exact
 243 Code Mass. Regs. § 1.01,243 code mass. regs. § 1.01,Regulation,state_regulation,MA,6,5,1,1982,2020,true,exact
@@ -693,6 +692,7 @@ Mass. Code Regs. 31.02,mass. code regs. 31.02,Regulation,state_regulation,MA,6,1
 Mass. Regs. § 27.03,mass. regs. § 27.03,Regulation,state_regulation,MA,6,1,1,1990,1990,false,unresolved
 Mass.Regs.Code ch. 247 § 7.00,mass.regs.code ch. 247 § 7.00,Regulation,state_regulation,MA,6,1,1,1987,1987,false,unresolved
 Mass.Regs.Code tit. 801 § 1.01,mass.regs.code tit. 801 § 1.01,Regulation,state_regulation,MA,6,1,1,1990,1990,false,unresolved
+Title 801 Code Mass. Regs. § 1.01,title 801 code mass. regs. § 1.01,Regulation,state_regulation,MA,6,4,1,1984,2013,true,exact
 Title 940 Code Mass. Regs. § 3.16,title 940 code mass. regs. § 3.16,Regulation,state_regulation,MA,6,6,2,1993,2006,true,exact
 103 Code Mass. Regs. 420.13,103 code mass. regs. 420.13,Regulation,state_regulation,MA,5,2,2,1983,1990,true,exact
 103 Code Mass. Regs. § 405.06,103 code mass. regs. § 405.06,Regulation,state_regulation,MA,5,3,2,2008,2023,true,exact
@@ -839,9 +839,9 @@ CMR 6.14,cmr 6.14,Regulation,state_regulation,MA,5,1,1,1998,1998,false,unresolve
 CMR 8.01,cmr 8.01,Regulation,state_regulation,MA,5,3,2,2000,2013,false,unresolved
 Mass. Regs. § 2.04,mass. regs. § 2.04,Regulation,state_regulation,MA,5,2,1,1986,1991,false,unresolved
 Mass.Regs.Code tit. 104 § 3.10,mass.regs.code tit. 104 § 3.10,Regulation,state_regulation,MA,5,2,2,1986,1991,false,unresolved
-Title 801 Code Mass. Regs. § 1.01,title 801 code mass. regs. § 1.01,Regulation,state_regulation,MA,5,4,1,1984,2013,true,exact
 102 Code Mass. Regs. 1.03,102 code mass. regs. 1.03,Regulation,state_regulation,MA,4,4,1,2021,2021,true,exact
 102 Code Mass. Regs. § 5.13,102 code mass. regs. § 5.13,Regulation,state_regulation,MA,4,2,1,2018,2019,false,unresolved
+103 Code Mass. Regs. 430.11,103 code mass. regs. 430.11,Regulation,state_regulation,MA,4,1,1,1997,1997,true,exact
 103 Code Mass. Regs. § 155.07,103 code mass. regs. § 155.07,Regulation,state_regulation,MA,4,2,1,2015,2015,true,exact
 103 Code Mass. Regs. § 403,103 code mass. regs. § 403,Regulation,state_regulation,MA,4,3,3,1994,2023,false,unresolved
 103 Code Mass. Regs. § 403.00,103 code mass. regs. § 403.00,Regulation,state_regulation,MA,4,2,1,2013,2015,false,unresolved
@@ -1171,7 +1171,6 @@ Title 243 Code Mass. Regs. § 1.03,title 243 code mass. regs. § 1.03,Regulation
 103 Code Mass. Regs. 411.10,103 code mass. regs. 411.10,Regulation,state_regulation,MA,3,1,1,1994,1994,true,exact
 103 Code Mass. Regs. 430.00,103 code mass. regs. 430.00,Regulation,state_regulation,MA,3,3,2,1993,1995,false,unresolved
 103 Code Mass. Regs. 430.09,103 code mass. regs. 430.09,Regulation,state_regulation,MA,3,1,1,1997,1997,true,exact
-103 Code Mass. Regs. 430.11,103 code mass. regs. 430.11,Regulation,state_regulation,MA,3,1,1,1997,1997,true,exact
 103 Code Mass. Regs. § 403.06,103 code mass. regs. § 403.06,Regulation,state_regulation,MA,3,1,1,2015,2015,true,exact
 103 Code Mass. Regs. § 420,103 code mass. regs. § 420,Regulation,state_regulation,MA,3,2,2,1999,2017,false,unresolved
 103 Code Mass. Regs. § 421.24,103 code mass. regs. § 421.24,Regulation,state_regulation,MA,3,3,1,2015,2015,true,exact
@@ -1357,6 +1356,7 @@ Title 243 Code Mass. Regs. § 1.03,title 243 code mass. regs. § 1.03,Regulation
 310 Code Mass. Regs. § 10.25,310 code mass. regs. § 10.25,Regulation,state_regulation,MA,3,3,3,2017,2018,true,exact
 310 Code Mass. Regs. § 15.001,310 code mass. regs. § 15.001,Regulation,state_regulation,MA,3,2,1,2005,2023,true,exact
 310 Code Mass. Regs. § 15.214,310 code mass. regs. § 15.214,Regulation,state_regulation,MA,3,2,1,2015,2023,true,exact
+310 Code Mass. Regs. § 15.301,310 code mass. regs. § 15.301,Regulation,state_regulation,MA,3,2,1,2005,2008,true,exact
 310 Code Mass. Regs. § 15.403,310 code mass. regs. § 15.403,Regulation,state_regulation,MA,3,1,1,2006,2006,true,exact
 310 Code Mass. Regs. § 16.01,310 code mass. regs. § 16.01,Regulation,state_regulation,MA,3,1,1,2014,2014,true,exact
 310 Code Mass. Regs. § 16.08,310 code mass. regs. § 16.08,Regulation,state_regulation,MA,3,3,2,2001,2014,true,exact
@@ -1490,7 +1490,6 @@ Title 243 Code Mass. Regs. § 1.03,title 243 code mass. regs. § 1.03,Regulation
 830 Code Mass. Regs. § 63.02,830 code mass. regs. § 63.02,Regulation,state_regulation,MA,3,2,1,1990,1997,false,unresolved
 830 Code Mass. Regs. § 63.30.2,830 code mass. regs. § 63.30.2,Regulation,state_regulation,MA,3,2,1,2004,2004,true,exact
 830 Code Mass. Regs. § 63.31.1,830 code mass. regs. § 63.31.1,Regulation,state_regulation,MA,3,1,1,2013,2013,true,exact
-830 Code Mass. Regs. § 63.39.l,830 code mass. regs. § 63.39.l,Regulation,state_regulation,MA,3,2,1,2001,2009,false,unresolved
 830 Mass. Code Regs. 62C.31A.1,830 mass. code regs. 62c.31a.1,Regulation,state_regulation,MA,3,3,1,2008,2008,true,exact
 840 Code Mass. Regs. § 10.06,840 code mass. regs. § 10.06,Regulation,state_regulation,MA,3,2,2,2000,2016,true,exact
 840 Code Mass. Regs. § 10.07,840 code mass. regs. § 10.07,Regulation,state_regulation,MA,3,3,2,2000,2016,true,exact
@@ -1596,6 +1595,7 @@ Title 501 Code Mass. Regs. § 17.02,title 501 code mass. regs. § 17.02,Regulati
 Title 521 Code Mass. Regs. § 5.11,title 521 code mass. regs. § 5.11,Regulation,state_regulation,MA,3,2,1,1987,1989,false,unresolved
 Title 603 Code Mass. Regs. § 41.03,title 603 code mass. regs. § 41.03,Regulation,state_regulation,MA,3,1,1,2005,2005,true,exact
 Title 760 Code Mass. Regs. § 6.08,title 760 code mass. regs. § 6.08,Regulation,state_regulation,MA,3,2,2,2011,2013,true,exact
+Title 830 Code Mass. Regs. § 63.39.1,title 830 code mass. regs. § 63.39.1,Regulation,state_regulation,MA,3,2,1,1997,2001,true,exact
 100 C.M.R. § 100.326,100 c.m.r. § 100.326,Regulation,state_regulation,MA,2,1,1,2016,2016,false,unresolved
 101 Code Mass. Regs. 8.06,101 code mass. regs. 8.06,Regulation,state_regulation,MA,2,2,1,1984,1984,false,unresolved
 101 Code Mass. Regs. § 10.06,101 code mass. regs. § 10.06,Regulation,state_regulation,MA,2,1,1,2007,2007,true,exact
@@ -2016,7 +2016,6 @@ Title 760 Code Mass. Regs. § 6.08,title 760 code mass. regs. § 6.08,Regulation
 310 Code Mass. Regs. § 15.216,310 code mass. regs. § 15.216,Regulation,state_regulation,MA,2,1,1,2023,2023,true,exact
 310 Code Mass. Regs. § 15.25,310 code mass. regs. § 15.25,Regulation,state_regulation,MA,2,1,1,1989,1989,false,unresolved
 310 Code Mass. Regs. § 15.260,310 code mass. regs. § 15.260,Regulation,state_regulation,MA,2,1,1,2024,2024,true,exact
-310 Code Mass. Regs. § 15.301,310 code mass. regs. § 15.301,Regulation,state_regulation,MA,2,2,1,2005,2008,true,exact
 310 Code Mass. Regs. § 15.354,310 code mass. regs. § 15.354,Regulation,state_regulation,MA,2,1,1,2006,2006,true,exact
 310 Code Mass. Regs. § 18.00,310 code mass. regs. § 18.00,Regulation,state_regulation,MA,2,2,2,1986,1990,false,unresolved
 310 Code Mass. Regs. § 22.01,310 code mass. regs. § 22.01,Regulation,state_regulation,MA,2,1,1,2021,2021,true,exact
@@ -2295,7 +2294,7 @@ Title 760 Code Mass. Regs. § 6.08,title 760 code mass. regs. § 6.08,Regulation
 830 Code Mass. Regs. § 64C.14.1,830 code mass. regs. § 64c.14.1,Regulation,state_regulation,MA,2,1,1,2008,2008,false,unresolved
 830 Code Mass. Regs. § 64G.1.1,830 code mass. regs. § 64g.1.1,Regulation,state_regulation,MA,2,1,1,2006,2006,true,exact
 830 Code Mass. Regs. § 64H.6.7,830 code mass. regs. § 64h.6.7,Regulation,state_regulation,MA,2,1,1,2003,2003,true,exact
-830 Code Mass. Regs. § 94.323.l,830 code mass. regs. § 94.323.l,Regulation,state_regulation,MA,2,1,1,1993,1993,false,unresolved
+830 Code Mass. Regs. § 94.323.1,830 code mass. regs. § 94.323.1,Regulation,state_regulation,MA,2,1,1,1993,1993,true,exact
 831 Code Mass. Regs. § 1.00,831 code mass. regs. § 1.00,Regulation,state_regulation,MA,2,2,1,2002,2010,false,unresolved
 831 Code Mass. Regs. § 1.01,831 code mass. regs. § 1.01,Regulation,state_regulation,MA,2,2,1,2001,2025,true,exact
 831 Code Mass. Regs. § 1.14,831 code mass. regs. § 1.14,Regulation,state_regulation,MA,2,1,1,2019,2019,true,exact
@@ -2330,6 +2329,7 @@ Title 760 Code Mass. Regs. § 6.08,title 760 code mass. regs. § 6.08,Regulation
 940 Code Mass. Regs. § 3:16,940 code mass. regs. § 3:16,Regulation,state_regulation,MA,2,2,1,1986,1986,false,unresolved
 940 Code Mass. Regs. § 4.08,940 code mass. regs. § 4.08,Regulation,state_regulation,MA,2,1,1,1999,1999,true,exact
 940 Code Mass. Regs. § 5.04,940 code mass. regs. § 5.04,Regulation,state_regulation,MA,2,2,1,1999,2016,true,exact
+940 Code Mass. Regs. § 6.01,940 code mass. regs. § 6.01,Regulation,state_regulation,MA,2,1,1,2004,2005,true,exact
 940 Code Mass. Regs. § 7.00,940 code mass. regs. § 7.00,Regulation,state_regulation,MA,2,2,1,1999,2020,false,unresolved
 940 Code Mass. Regs. § 8.04,940 code mass. regs. § 8.04,Regulation,state_regulation,MA,2,2,1,1993,1993,true,exact
 940 Code of Mass. Regs. § 21.07,940 code of mass. regs. § 21.07,Regulation,state_regulation,MA,2,2,1,2001,2001,true,exact
@@ -2787,7 +2787,6 @@ Title 760 Code Mass. Regs. § 31.07,title 760 code mass. regs. § 31.07,Regulati
 Title 803 Code Mass. Regs. § 1.40,title 803 code mass. regs. § 1.40,Regulation,state_regulation,MA,2,2,1,2006,2008,false,unresolved
 Title 830 Code Mass. Regs. § 62.5A,title 830 code mass. regs. § 62.5a,Regulation,state_regulation,MA,2,2,1,1996,2002,false,unresolved
 Title 830 Code Mass. Regs. § 62C.26.1,title 830 code mass. regs. § 62c.26.1,Regulation,state_regulation,MA,2,1,1,2001,2001,false,unresolved
-Title 830 Code Mass. Regs. § 63.39.1,title 830 code mass. regs. § 63.39.1,Regulation,state_regulation,MA,2,2,1,1997,1998,true,exact
 Title 940 Code Mass. Regs. § 3.05,title 940 code mass. regs. § 3.05,Regulation,state_regulation,MA,2,2,2,1999,2004,true,exact
 Title 940 Code Mass. Regs. § 3.17,title 940 code mass. regs. § 3.17,Regulation,state_regulation,MA,2,2,1,2000,2024,true,exact
 Title 940 Code Mass. Regs. § 5.05,title 940 code mass. regs. § 5.05,Regulation,state_regulation,MA,2,2,2,1995,2016,true,exact
@@ -2975,7 +2974,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 103 Code of Mass. Regs. 430.14,103 code of mass. regs. 430.14,Regulation,state_regulation,MA,1,1,1,1998,1998,true,exact
 103 Code of Mass. Regs. § 420.08,103 code of mass. regs. § 420.08,Regulation,state_regulation,MA,1,1,1,1997,1997,true,exact
 103 Code of Mass. Regs. § 430.22,103 code of mass. regs. § 430.22,Regulation,state_regulation,MA,1,1,1,1986,1986,true,exact
-"103 F.T.C. 110, 165 (1984). 940 Code Mass. Regs. § 6.01","103 f.t.c. 110, 165 (1984). 940 code mass. regs. § 6.01",Regulation,state_regulation,MA,1,1,1,2005,2005,false,unresolved
 103 Mass. Code Regs. 423.06,103 mass. code regs. 423.06,Regulation,state_regulation,MA,1,1,1,2009,2009,true,exact
 103 Mass. Code Regs. 464.01,103 mass. code regs. 464.01,Regulation,state_regulation,MA,1,1,1,2006,2006,true,exact
 103 Mass. Code Regs. 464.09,103 mass. code regs. 464.09,Regulation,state_regulation,MA,1,1,1,2006,2006,true,exact
@@ -3945,7 +3943,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 243 Mass. Code Regs. 1.03,243 mass. code regs. 1.03,Regulation,state_regulation,MA,1,1,1,2008,2008,true,exact
 243 Mass. Code Regs. 2.07,243 mass. code regs. 2.07,Regulation,state_regulation,MA,1,1,1,2026,2026,true,exact
 243 Mass. Code Regs. 3.02,243 mass. code regs. 3.02,Regulation,state_regulation,MA,1,1,1,2008,2008,true,exact
-244 (2008). 940 Code Mass. Regs. § 3.16,244 (2008). 940 code mass. regs. § 3.16,Regulation,state_regulation,MA,1,1,1,2018,2018,false,unresolved
 244 C.M.R. § 5.04,244 c.m.r. § 5.04,Regulation,state_regulation,MA,1,1,1,1984,1984,true,exact
 244 Code Mass. Regs. § 4.01,244 code mass. regs. § 4.01,Regulation,state_regulation,MA,1,1,1,1985,1985,true,exact
 244 Code Mass. Regs. § 4.04,244 code mass. regs. § 4.04,Regulation,state_regulation,MA,1,1,1,1985,1985,true,exact
@@ -4242,7 +4239,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 314 Code Mass. Regs. § 9.01,314 code mass. regs. § 9.01,Regulation,state_regulation,MA,1,1,1,1996,1996,true,exact
 314 Mass. Code Regs. § 9.09,314 mass. code regs. § 9.09,Regulation,state_regulation,MA,1,1,1,2017,2017,true,exact
 314 Mass. Code Regs. § 9.10,314 mass. code regs. § 9.10,Regulation,state_regulation,MA,1,1,1,2017,2017,true,exact
-"32 M.J. 579, 580 (A.F. C.M.R. 1990","32 m.j. 579, 580 (a.f. c.m.r. 1990",Regulation,state_regulation,MA,1,1,1,1996,1996,false,unresolved
 320 C.M.R. § 2.01,320 c.m.r. § 2.01,Regulation,state_regulation,MA,1,1,1,2007,2007,true,exact
 321 C.M.R. § 3.02,321 c.m.r. § 3.02,Regulation,state_regulation,MA,1,1,1,1993,1993,true,exact
 321 Code Mass. Regs. § 10.00,321 code mass. regs. § 10.00,Regulation,state_regulation,MA,1,1,1,2010,2010,false,unresolved
@@ -4282,12 +4278,8 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 350 Code Mass. Regs. § 2.01,350 code mass. regs. § 2.01,Regulation,state_regulation,MA,1,1,1,2013,2013,false,unresolved
 350 Code Mass. Regs. § 5.00,350 code mass. regs. § 5.00,Regulation,state_regulation,MA,1,1,1,2000,2000,false,unresolved
 36 Mass. Regs. § 1.33,36 mass. regs. § 1.33,Regulation,state_regulation,MA,1,1,1,2018,2018,false,unresolved
-"372 Mass. 79, 84 (1977). 454 Code Mass. Regs. § 10.00","372 mass. 79, 84 (1977). 454 code mass. regs. § 10.00",Regulation,state_regulation,MA,1,1,1,1998,1998,false,unresolved
 "380 Mass. 762, 782 (1980). 521 C.M.R. § 27.1","380 mass. 762, 782 (1980). 521 c.m.r. § 27.1",Regulation,state_regulation,MA,1,1,1,1996,1996,false,unresolved
 "382 Mass. 665, 677 (1981). 603 Code Mass. Regs. 28.00","382 mass. 665, 677 (1981). 603 code mass. regs. 28.00",Regulation,state_regulation,MA,1,1,1,1985,1985,false,unresolved
-"387 Mass. 879, 884 (1983). Title 452 Code Mass. Regs. § 1.02","387 mass. 879, 884 (1983). title 452 code mass. regs. § 1.02",Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
-"390 Mass. 399, 406 (1983). 103 Code Mass. Regs. 430.11","390 mass. 399, 406 (1983). 103 code mass. regs. 430.11",Regulation,state_regulation,MA,1,1,1,1997,1997,false,unresolved
-397 Mass. 498 (1986). 456 Code Mass. Regs. § 17.06,397 mass. 498 (1986). 456 code mass. regs. § 17.06,Regulation,state_regulation,MA,1,1,1,1988,1988,false,unresolved
 4 (c). 102 Code Mass. Regs. § 1.03,4 (c). 102 code mass. regs. § 1.03,Regulation,state_regulation,MA,1,1,1,2000,2000,false,unresolved
 4 Code Mass. Regs. Title 106 § 300,4 code mass. regs. title 106 § 300,Regulation,state_regulation,MA,1,1,1,1979,1979,false,unresolved
 4 Code Mass. Regs. Title 106 § 358,4 code mass. regs. title 106 § 358,Regulation,state_regulation,MA,1,1,1,1979,1979,false,unresolved
@@ -4306,14 +4298,9 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 402 Code Mass. Regs. § 17.01,402 code mass. regs. § 17.01,Regulation,state_regulation,MA,1,1,1,1982,1982,false,unresolved
 402 Code Mass. Regs. § 17.09,402 code mass. regs. § 17.09,Regulation,state_regulation,MA,1,1,1,1986,1986,false,unresolved
 "403 Mass. 616, 619 (1988). Title 760 Code Mass. Regs. § 31.01","403 mass. 616, 619 (1988). title 760 code mass. regs. § 31.01",Regulation,state_regulation,MA,1,1,1,2007,2007,false,unresolved
-"409 Mass. 770, 111 (1991). Title 310 Code Mass. Regs. § 9.07","409 mass. 770, 111 (1991). title 310 code mass. regs. § 9.07",Regulation,state_regulation,MA,1,1,1,2000,2000,false,unresolved
-"41 M.J. 855, 860 (A.F. C.M.R. 1994","41 m.j. 855, 860 (a.f. c.m.r. 1994",Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
-"415 Mass. 455, 457 (1993). Title 211 Code Mass. Regs. § 77.02","415 mass. 455, 457 (1993). title 211 code mass. regs. § 77.02",Regulation,state_regulation,MA,1,1,1,1999,1999,false,unresolved
-"423 Mass. 1021, 1022 (1996). 804 C.M.R. § 1.10","423 mass. 1021, 1022 (1996). 804 c.m.r. § 1.10",Regulation,state_regulation,MA,1,1,1,2004,2004,false,unresolved
 425 Code Mass. Regs. § 2.03,425 code mass. regs. § 2.03,Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
 425 Code Mass. Regs. § 2:02,425 code mass. regs. § 2:02,Regulation,state_regulation,MA,1,1,1,1991,1991,false,unresolved
 425 Code Mass. Regs. § 2:03,425 code mass. regs. § 2:03,Regulation,state_regulation,MA,1,1,1,1991,1991,false,unresolved
-"43 Mass. App. Ct. 300, 304 (1997). Title 801 Code Mass. Regs. § 1.01","43 mass. app. ct. 300, 304 (1997). title 801 code mass. regs. § 1.01",Regulation,state_regulation,MA,1,1,1,2013,2013,false,unresolved
 "43 Mass.App.Ct. 212, 220-222 (1997), and 804 Code Mass. Regs. § 1.03","43 mass.app.ct. 212, 220-222 (1997), and 804 code mass. regs. § 1.03",Regulation,state_regulation,MA,1,1,1,1997,1997,false,unresolved
 430 Code Mass. Regs. § 4.01,430 code mass. regs. § 4.01,Regulation,state_regulation,MA,1,1,1,2024,2024,true,exact
 430 Code Mass. Regs. § 9.01,430 code mass. regs. § 9.01,Regulation,state_regulation,MA,1,1,1,2002,2002,true,exact
@@ -4370,7 +4357,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 456 Code Mass. Regs. § 17.07,456 code mass. regs. § 17.07,Regulation,state_regulation,MA,1,1,1,1992,1992,true,exact
 456 Code Mass. Regs. § 17:06-17:15,456 code mass. regs. § 17:06-17:15,Regulation,state_regulation,MA,1,1,1,1992,1992,false,unresolved
 458 Code Mass. Regs. § 2.16,458 code mass. regs. § 2.16,Regulation,state_regulation,MA,1,1,1,2024,2024,true,exact
-"46 Mass. App. Ct. 229, 233 (1999). Title 840 Code Mass. Regs. § 10.13","46 mass. app. ct. 229, 233 (1999). title 840 code mass. regs. § 10.13",Regulation,state_regulation,MA,1,1,1,2004,2004,false,unresolved
 464 Code Mass. Regs. 27.02,464 code mass. regs. 27.02,Regulation,state_regulation,MA,1,1,1,2025,2025,false,unresolved
 467 Code Mass. Regs. § 15.03,467 code mass. regs. § 15.03,Regulation,state_regulation,MA,1,1,1,2018,2018,false,unresolved
 "480 Mass. 14, 19 (2018), 940 C.M.R. § 15.04","480 mass. 14, 19 (2018), 940 c.m.r. § 15.04",Regulation,state_regulation,MA,1,1,1,2020,2020,false,unresolved
@@ -4386,7 +4372,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 "5 IB, and 110 Code Mass. Regs. § 4.32","5 ib, and 110 code mass. regs. § 4.32",Regulation,state_regulation,MA,1,1,1,1997,1997,false,unresolved
 5 Mass. Regs. Code tit. 110 § 7.213,5 mass. regs. code tit. 110 § 7.213,Regulation,state_regulation,MA,1,1,1,1998,1998,false,unresolved
 5 Mass. Regs. § 1.33,5 mass. regs. § 1.33,Regulation,state_regulation,MA,1,1,1,2024,2024,false,unresolved
-"50 M.J. 609, 620 (N-M. C.M.R. 1999","50 m.j. 609, 620 (n-m. c.m.r. 1999",Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
 501 C.M.R. § 17.00,501 c.m.r. § 17.00,Regulation,state_regulation,MA,1,1,1,2020,2020,false,unresolved
 501 Code Mass. Regs. § 13.01,501 code mass. regs. § 13.01,Regulation,state_regulation,MA,1,1,1,2016,2016,true,exact
 501 Code Mass. Regs. § 2.01,501 code mass. regs. § 2.01,Regulation,state_regulation,MA,1,1,1,2011,2011,true,exact
@@ -4539,7 +4524,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 555 Code Mass. Regs. § 9.00,555 code mass. regs. § 9.00,Regulation,state_regulation,MA,1,1,1,2026,2026,false,unresolved
 555 Mass. Code Regs. § 7.05,555 mass. code regs. § 7.05,Regulation,state_regulation,MA,1,1,1,2024,2024,true,exact
 56 CMR § 56.02,56 cmr § 56.02,Regulation,state_regulation,MA,1,1,1,2021,2021,false,unresolved
-"56 Mass.App.Ct. 397, 399-401 (2002). 310 Code Mass. Regs. § 15.301","56 mass.app.ct. 397, 399-401 (2002). 310 code mass. regs. § 15.301",Regulation,state_regulation,MA,1,1,1,2008,2008,false,unresolved
 560 Code Mass. Regs. § 3.04,560 code mass. regs. § 3.04,Regulation,state_regulation,MA,1,1,1,2015,2015,true,exact
 6 Code Mass. Regs. § 1.33,6 code mass. regs. § 1.33,Regulation,state_regulation,MA,1,1,1,2025,2025,false,unresolved
 6 Code Mass. Regs. § 56.06,6 code mass. regs. § 56.06,Regulation,state_regulation,MA,1,1,1,2016,2016,false,unresolved
@@ -5048,7 +5032,7 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 830 Code Mass. Regs. § 62.10.1,830 code mass. regs. § 62.10.1,Regulation,state_regulation,MA,1,1,1,2016,2016,true,exact
 830 Code Mass. Regs. § 620.31A,830 code mass. regs. § 620.31a,Regulation,state_regulation,MA,1,1,1,1996,1996,false,unresolved
 830 Code Mass. Regs. § 62C.30.1,830 code mass. regs. § 62c.30.1,Regulation,state_regulation,MA,1,1,1,1988,1988,true,exact
-830 Code Mass. Regs. § 62C.31A.l,830 code mass. regs. § 62c.31a.l,Regulation,state_regulation,MA,1,1,1,1996,1996,false,unresolved
+830 Code Mass. Regs. § 62C.31A.1,830 code mass. regs. § 62c.31a.1,Regulation,state_regulation,MA,1,1,1,1996,1996,true,exact
 830 Code Mass. Regs. § 62C.78.1,830 code mass. regs. § 62c.78.1,Regulation,state_regulation,MA,1,1,1,1996,1996,false,unresolved
 830 Code Mass. Regs. § 63.38.3,830 code mass. regs. § 63.38.3,Regulation,state_regulation,MA,1,1,1,2002,2002,true,exact
 830 Code Mass. Regs. § 63.38.4,830 code mass. regs. § 63.38.4,Regulation,state_regulation,MA,1,1,1,2002,2002,true,exact
@@ -5056,12 +5040,12 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 830 Code Mass. Regs. § 64H.02,830 code mass. regs. § 64h.02,Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
 830 Code Mass. Regs. § 64H.03,830 code mass. regs. § 64h.03,Regulation,state_regulation,MA,1,1,1,1997,1997,false,unresolved
 830 Code Mass. Regs. § 64H.07,830 code mass. regs. § 64h.07,Regulation,state_regulation,MA,1,1,1,1986,1986,false,unresolved
+830 Code Mass. Regs. § 64H.1.1,830 code mass. regs. § 64h.1.1,Regulation,state_regulation,MA,1,1,1,1997,1997,true,exact
 830 Code Mass. Regs. § 64H.1.1-64H.1.3,830 code mass. regs. § 64h.1.1-64h.1.3,Regulation,state_regulation,MA,1,1,1,2007,2007,false,unresolved
 830 Code Mass. Regs. § 64H.1.6,830 code mass. regs. § 64h.1.6,Regulation,state_regulation,MA,1,1,1,1997,1997,true,exact
 830 Code Mass. Regs. § 64H.1.6-64H.8.1,830 code mass. regs. § 64h.1.6-64h.8.1,Regulation,state_regulation,MA,1,1,1,2007,2007,false,unresolved
 830 Code Mass. Regs. § 64H.6.4,830 code mass. regs. § 64h.6.4,Regulation,state_regulation,MA,1,1,1,2010,2010,true,exact
 830 Code Mass. Regs. § 64H.6.5,830 code mass. regs. § 64h.6.5,Regulation,state_regulation,MA,1,1,1,2007,2007,true,exact
-830 Code Mass. Regs. § 64H.l.l,830 code mass. regs. § 64h.l.l,Regulation,state_regulation,MA,1,1,1,1997,1997,false,unresolved
 830 Code Mass. Regs. § 65C.2.1,830 code mass. regs. § 65c.2.1,Regulation,state_regulation,MA,1,1,1,2003,2003,false,unresolved
 830 Mass. Code Regs. 62C.25.1,830 mass. code regs. 62c.25.1,Regulation,state_regulation,MA,1,1,1,2014,2014,true,exact
 830 Mass. Code Regs. 62C.37.1,830 mass. code regs. 62c.37.1,Regulation,state_regulation,MA,1,1,1,2014,2014,true,exact
@@ -5146,7 +5130,6 @@ Title V. 310 Code Mass. Regs. § 15.410,title v. 310 code mass. regs. § 15.410,
 940 Code Mass. Regs. § 317,940 code mass. regs. § 317,Regulation,state_regulation,MA,1,1,1,1998,1998,false,unresolved
 940 Code Mass. Regs. § 4.09,940 code mass. regs. § 4.09,Regulation,state_regulation,MA,1,1,1,1999,1999,true,exact
 940 Code Mass. Regs. § 5.07,940 code mass. regs. § 5.07,Regulation,state_regulation,MA,1,1,1,2016,2016,false,unresolved
-940 Code Mass. Regs. § 6.01,940 code mass. regs. § 6.01,Regulation,state_regulation,MA,1,1,1,2004,2004,true,exact
 940 Code Mass. Regs. § 6.11,940 code mass. regs. § 6.11,Regulation,state_regulation,MA,1,1,1,2009,2009,true,exact
 940 Code Mass. Regs. § 7.01,940 code mass. regs. § 7.01,Regulation,state_regulation,MA,1,1,1,1981,1981,true,exact
 940 Code Mass. Regs. § 7.02,940 code mass. regs. § 7.02,Regulation,state_regulation,MA,1,1,1,2021,2021,true,exact
@@ -5432,7 +5415,6 @@ COC. 503 C.M.R. § 2.09,coc. 503 c.m.r. § 2.09,Regulation,state_regulation,MA,1
 CPO. 103 Code Mass. Regs. § 420.09,cpo. 103 code mass. regs. § 420.09,Regulation,state_regulation,MA,1,1,1,2016,2016,false,unresolved
 Code.Mass. Regs. 310,code.mass. regs. 310,Regulation,state_regulation,MA,1,1,1,2001,2001,true,exact
 Code.Mass.Regs. 310 § 15.411,code.mass.regs. 310 § 15.411,Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
-D.P.U. 1669-C (1987). 220 Code Mass. Regs. § 6.06,d.p.u. 1669-c (1987). 220 code mass. regs. § 6.06,Regulation,state_regulation,MA,1,1,1,2004,2004,false,unresolved
 DCF. 110 Code Mass. Regs. § 12.09,dcf. 110 code mass. regs. § 12.09,Regulation,state_regulation,MA,1,1,1,2025,2025,false,unresolved
 DDU. 103 CMR 430.25,ddu. 103 cmr 430.25,Regulation,state_regulation,MA,1,1,1,1993,1993,false,unresolved
 DDU. 103 Code Mass. Regs. § 430.04,ddu. 103 code mass. regs. § 430.04,Regulation,state_regulation,MA,1,1,1,2015,2015,false,unresolved
@@ -5843,6 +5825,7 @@ Title 211 Code Mass. Regs. § 110.07,title 211 code mass. regs. § 110.07,Regula
 Title 211 Code Mass. Regs. § 110.08,title 211 code mass. regs. § 110.08,Regulation,state_regulation,MA,1,1,1,1988,1988,true,exact
 Title 211 Code Mass. Regs. § 133.05,title 211 code mass. regs. § 133.05,Regulation,state_regulation,MA,1,1,1,2017,2017,true,exact
 Title 211 Code Mass. Regs. § 34.00,title 211 code mass. regs. § 34.00,Regulation,state_regulation,MA,1,1,1,2000,2000,false,unresolved
+Title 211 Code Mass. Regs. § 77.02,title 211 code mass. regs. § 77.02,Regulation,state_regulation,MA,1,1,1,1999,1999,true,exact
 Title 220 Code Mass. Regs. § 1.03,title 220 code mass. regs. § 1.03,Regulation,state_regulation,MA,1,1,1,1993,1993,true,exact
 Title 220 Code Mass. Regs. § 2.08,title 220 code mass. regs. § 2.08,Regulation,state_regulation,MA,1,1,1,2003,2003,true,exact
 Title 220 Code Mass. Regs. § 45.04,title 220 code mass. regs. § 45.04,Regulation,state_regulation,MA,1,1,1,2002,2002,true,exact
@@ -5874,6 +5857,7 @@ Title 310 Code Mass. Regs. § 16.40,title 310 code mass. regs. § 16.40,Regulati
 Title 310 Code Mass. Regs. § 36.08,title 310 code mass. regs. § 36.08,Regulation,state_regulation,MA,1,1,1,2010,2010,true,exact
 Title 310 Code Mass. Regs. § 40.0022,title 310 code mass. regs. § 40.0022,Regulation,state_regulation,MA,1,1,1,2009,2009,true,exact
 Title 310 Code Mass. Regs. § 40.0926,title 310 code mass. regs. § 40.0926,Regulation,state_regulation,MA,1,1,1,2016,2016,true,exact
+Title 310 Code Mass. Regs. § 9.07,title 310 code mass. regs. § 9.07,Regulation,state_regulation,MA,1,1,1,2000,2000,true,exact
 Title 310 Code Mass. Regs. § 9.12,title 310 code mass. regs. § 9.12,Regulation,state_regulation,MA,1,1,1,2005,2005,true,exact
 Title 310 Code Mass. Regs. § 9.31,title 310 code mass. regs. § 9.31,Regulation,state_regulation,MA,1,1,1,2010,2010,true,exact
 Title 310 Code Mass. Regs. § 9.36,title 310 code mass. regs. § 9.36,Regulation,state_regulation,MA,1,1,1,2013,2013,true,exact
@@ -5889,6 +5873,7 @@ Title 321 Code Mass. Regs. § 3.02,title 321 code mass. regs. § 3.02,Regulation
 Title 350 Code Mass. Regs. § 13.01,title 350 code mass. regs. § 13.01,Regulation,state_regulation,MA,1,1,1,1996,1996,false,unresolved
 Title 402 Code Mass. Regs. § 17.09,title 402 code mass. regs. § 17.09,Regulation,state_regulation,MA,1,1,1,1986,1986,false,unresolved
 Title 430 Code Mass. Regs. § 4.04,title 430 code mass. regs. § 4.04,Regulation,state_regulation,MA,1,1,1,2002,2002,true,exact
+Title 452 Code Mass. Regs. § 1.02,title 452 code mass. regs. § 1.02,Regulation,state_regulation,MA,1,1,1,2001,2001,true,exact
 Title 452 Code Mass. Regs. § 1.10,title 452 code mass. regs. § 1.10,Regulation,state_regulation,MA,1,1,1,1999,1999,true,exact
 Title 454 Code Mass. Regs. § 27.02,title 454 code mass. regs. § 27.02,Regulation,state_regulation,MA,1,1,1,2019,2019,true,exact
 Title 454 Code Mass. Regs. § 27.03,title 454 code mass. regs. § 27.03,Regulation,state_regulation,MA,1,1,1,2019,2019,true,exact
@@ -5938,8 +5923,8 @@ Title 807 Code Mass. Regs. § 3.02,title 807 code mass. regs. § 3.02,Regulation
 Title 807 Code Mass. Regs. § 3.04,title 807 code mass. regs. § 3.04,Regulation,state_regulation,MA,1,1,1,2000,2000,true,exact
 Title 830 Code Mass. Regs. § 62.10.1,title 830 code mass. regs. § 62.10.1,Regulation,state_regulation,MA,1,1,1,2016,2016,true,exact
 Title 830 Code Mass. Regs. § 62C.37.1,title 830 code mass. regs. § 62c.37.1,Regulation,state_regulation,MA,1,1,1,1988,1988,false,unresolved
-Title 830 Code Mass. Regs. § 63.39.l,title 830 code mass. regs. § 63.39.l,Regulation,state_regulation,MA,1,1,1,2001,2001,false,unresolved
 Title 831 Code Mass. Regs. § 1.37,title 831 code mass. regs. § 1.37,Regulation,state_regulation,MA,1,1,1,2013,2013,true,exact
+Title 840 Code Mass. Regs. § 10.13,title 840 code mass. regs. § 10.13,Regulation,state_regulation,MA,1,1,1,2004,2004,true,exact
 Title 940 Code Mass. Regs. § 10.00,title 940 code mass. regs. § 10.00,Regulation,state_regulation,MA,1,1,1,2019,2019,true,exact
 Title 940 Code Mass. Regs. § 10.05,title 940 code mass. regs. § 10.05,Regulation,state_regulation,MA,1,1,1,2019,2019,true,exact
 Title 940 Code Mass. Regs. § 29.05,title 940 code mass. regs. § 29.05,Regulation,state_regulation,MA,1,1,1,2016,2016,true,exact
@@ -5953,6 +5938,5 @@ Title 980 Code Mass. Regs. § 7.04,title 980 code mass. regs. § 7.04,Regulation
 Title V. 310 Code Mass. Regs. § 15.002,title v. 310 code mass. regs. § 15.002,Regulation,state_regulation,MA,1,1,1,2006,2006,false,unresolved
 UFFI. Mass. Regs.Code tit. 105 § 650.000,uffi. mass. regs.code tit. 105 § 650.000,Regulation,state_regulation,MA,1,1,1,1991,1991,false,unresolved
 UFFI. Mass.Regs.Code tit. 105 § 650.000,uffi. mass.regs.code tit. 105 § 650.000,Regulation,state_regulation,MA,1,1,1,1992,1992,false,unresolved
-V. 804 Code Mass. Regs. § 1.03,v. 804 code mass. regs. § 1.03,Regulation,state_regulation,MA,1,1,1,1999,1999,false,unresolved
 WPA. 310 Code Mass. Regs. § 10.58,wpa. 310 code mass. regs. § 10.58,Regulation,state_regulation,MA,1,1,1,2004,2004,false,unresolved
 WPA. 310 Mass. Code Regs. § 10.58,wpa. 310 mass. code regs. § 10.58,Regulation,state_regulation,MA,1,1,1,2012,2012,false,unresolved

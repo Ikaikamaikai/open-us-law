@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-N.D. Admin. Code § 75-02-04.1-07,n.d. admin. code § 75-02-04.1-07,Regulation,state_regulation,ND,469,108,1,1996,2025,true,exact
-N.D. Admin. Code § 75-02-04.1-02,n.d. admin. code § 75-02-04.1-02,Regulation,state_regulation,ND,312,133,2,1996,2025,true,exact
+N.D. Admin. Code § 75-02-04.1-07,n.d. admin. code § 75-02-04.1-07,Regulation,state_regulation,ND,470,108,1,1996,2025,true,exact
+N.D. Admin. Code § 75-02-04.1-02,n.d. admin. code § 75-02-04.1-02,Regulation,state_regulation,ND,316,133,2,1996,2025,true,exact
 N.D. Admin. Code § 75-02-04.1-01,n.d. admin. code § 75-02-04.1-01,Regulation,state_regulation,ND,277,114,1,1996,2025,true,exact
 N.D. Sup. Ct. Admin. R. 7.2,n.d. sup. ct. admin. r. 7.2,Regulation,state_regulation,ND,254,49,1,1999,2025,true,exact
 N.D. Admin. Code § 75-02-04.1-09,n.d. admin. code § 75-02-04.1-09,Regulation,state_regulation,ND,199,79,2,1996,2026,true,exact
@@ -63,6 +63,7 @@ N.D. Sup. Ct. Admin. R. 13 § 10,n.d. sup. ct. admin. r. 13 § 10,Regulation,sta
 N.D. Sup. Ct. Admin. R. 52 § 2,n.d. sup. ct. admin. r. 52 § 2,Regulation,state_regulation,ND,11,2,1,2017,2017,true,exact
 N.D. Sup.Ct. Admin. R. 13 § 10,n.d. sup.ct. admin. r. 13 § 10,Regulation,state_regulation,ND,11,6,1,2001,2014,true,exact
 N.D. Admin. Code § 75-02-02.1-02.1,n.d. admin. code § 75-02-02.1-02.1,Regulation,state_regulation,ND,10,9,1,2001,2011,true,exact
+N.D. Admin. Code § 75-02-02.1-31.1,n.d. admin. code § 75-02-02.1-31.1,Regulation,state_regulation,ND,10,3,2,2001,2012,true,exact
 N.D. Admin. Code § 84-02-01-05,n.d. admin. code § 84-02-01-05,Regulation,state_regulation,ND,10,3,1,1990,1990,false,unresolved
 N.D. Admin. Code § 89-08-01-01,n.d. admin. code § 89-08-01-01,Regulation,state_regulation,ND,10,2,1,2012,2012,true,exact
 N.D. Admin. Code § 33-15-07-2,n.d. admin. code § 33-15-07-2,Regulation,state_regulation,ND,9,1,1,2019,2019,false,unresolved
@@ -74,7 +75,6 @@ N.D. Admin. Code § 4-07-20.1-02,n.d. admin. code § 4-07-20.1-02,Regulation,sta
 N.D. Admin. Code § 43-02-03-01,n.d. admin. code § 43-02-03-01,Regulation,state_regulation,ND,8,7,2,2000,2026,true,exact
 N.D. Admin. Code § 43-02-03-19.2,n.d. admin. code § 43-02-03-19.2,Regulation,state_regulation,ND,8,3,1,2017,2017,true,exact
 N.D. Admin. Code § 75-02-02.1-27,n.d. admin. code § 75-02-02.1-27,Regulation,state_regulation,ND,8,8,1,2002,2011,true,exact
-N.D. Admin. Code § 75-02-02.1-31.1,n.d. admin. code § 75-02-02.1-31.1,Regulation,state_regulation,ND,8,3,2,2001,2012,true,exact
 N.D. Admin. Code. § 75-02-04.1-07,n.d. admin. code. § 75-02-04.1-07,Regulation,state_regulation,ND,8,2,1,2004,2004,true,exact
 N.D. Admin.Code 75-02-04.1-07,n.d. admin.code 75-02-04.1-07,Regulation,state_regulation,ND,8,1,1,1998,1998,true,exact
 N.D. Admin.Code 75-02-04.1-10,n.d. admin.code 75-02-04.1-10,Regulation,state_regulation,ND,8,2,1,1998,1998,true,exact
@@ -142,7 +142,6 @@ N.D.Admin. Code § 75-02-04.1-06.1,n.d.admin. code § 75-02-04.1-06.1,Regulation
 N.D.Admin.Code § 75-02-04.1-01,n.d.admin.code § 75-02-04.1-01,Regulation,state_regulation,ND,4,4,1,1995,1995,true,exact
 N.D.Admin.Code § 75-02-04.1-05,n.d.admin.code § 75-02-04.1-05,Regulation,state_regulation,ND,4,2,1,1995,1995,true,exact
 N.D.Admin.Code § 75-02-04.1-06,n.d.admin.code § 75-02-04.1-06,Regulation,state_regulation,ND,4,2,1,1994,1995,true,exact
-769 (N.D.1996). N.D. Admin. Code § 75-02-04.1-02,769 (n.d.1996). n.d. admin. code § 75-02-04.1-02,Regulation,state_regulation,ND,3,3,1,1999,1999,false,unresolved
 N.D. Admin. Code § 24-02-01-02,n.d. admin. code § 24-02-01-02,Regulation,state_regulation,ND,3,1,1,2008,2008,false,unresolved
 N.D. Admin. Code § 27-02-14,n.d. admin. code § 27-02-14,Regulation,state_regulation,ND,3,1,1,2015,2015,false,unresolved
 N.D. Admin. Code § 33-16-01-01,n.d. admin. code § 33-16-01-01,Regulation,state_regulation,ND,3,3,1,2005,2008,false,unresolved
@@ -227,7 +226,6 @@ N.D. Admin. Code § 75-02-01.2-76,n.d. admin. code § 75-02-01.2-76,Regulation,s
 N.D. Admin. Code § 75-02-01.2-82,n.d. admin. code § 75-02-01.2-82,Regulation,state_regulation,ND,2,1,1,1999,1999,true,exact
 N.D. Admin. Code § 75-02-01.2-89,n.d. admin. code § 75-02-01.2-89,Regulation,state_regulation,ND,2,1,1,1999,1999,true,exact
 N.D. Admin. Code § 75-02-02.1-08,n.d. admin. code § 75-02-02.1-08,Regulation,state_regulation,ND,2,2,1,2001,2001,true,exact
-N.D. Admin. Code § 75-02-02.1-31.l,n.d. admin. code § 75-02-02.1-31.l,Regulation,state_regulation,ND,2,1,1,2001,2001,false,unresolved
 N.D. Admin. Code § 75-02-02.1-34,n.d. admin. code § 75-02-02.1-34,Regulation,state_regulation,ND,2,2,1,1998,1998,true,exact
 N.D. Admin. Code § 75-02-02.1-37,n.d. admin. code § 75-02-02.1-37,Regulation,state_regulation,ND,2,2,1,1998,1998,true,exact
 N.D. Admin. Code § 75-02-02.1-39,n.d. admin. code § 75-02-02.1-39,Regulation,state_regulation,ND,2,2,1,1998,1998,true,exact
@@ -282,12 +280,9 @@ N.D.Admin.Code § 92-01-02-07,n.d.admin.code § 92-01-02-07,Regulation,state_reg
 "N.D.C.C., and N.D. Sup.Ct. Admin. R. 7.2","n.d.c.c., and n.d. sup.ct. admin. r. 7.2",Regulation,state_regulation,ND,2,1,1,2001,2001,false,unresolved
 "0317 (1979)), North Dakota (N.D. Admin. Code § 45-03-10-04","0317 (1979)), north dakota (n.d. admin. code § 45-03-10-04",Regulation,state_regulation,ND,1,1,1,2004,2004,false,unresolved
 1 North Dakota Admin.Code § 84-02-01-05,1 north dakota admin.code § 84-02-01-05,Regulation,state_regulation,ND,1,1,1,1988,1988,false,unresolved
-"11 M.J. 730, 734 (A.F. C.M.R. 1981","11 m.j. 730, 734 (a.f. c.m.r. 1981",Regulation,state_regulation,ND,1,1,1,2013,2013,false,unresolved
-"11 M.J. 730, 734 (A.F. C.M.R.1981","11 m.j. 730, 734 (a.f. c.m.r.1981",Regulation,state_regulation,ND,1,1,1,2013,2013,false,unresolved
 1: N.D. Admin. Code § 75-02-04.1-07,1: n.d. admin. code § 75-02-04.1-07,Regulation,state_regulation,ND,1,1,1,2009,2009,false,unresolved
 417 (N.D.1994). 1 N.DAdmin. Code § 75-02-04.1-09,417 (n.d.1994). 1 n.dadmin. code § 75-02-04.1-09,Regulation,state_regulation,ND,1,1,1,1997,1997,false,unresolved
 60 N.D. Admin. Code § 46-02-07-02,60 n.d. admin. code § 46-02-07-02,Regulation,state_regulation,ND,1,1,1,2018,2018,false,unresolved
-769 (N.D. 1996). N.D. Admin. Code § 75-02-04.1-02,769 (n.d. 1996). n.d. admin. code § 75-02-04.1-02,Regulation,state_regulation,ND,1,1,1,1999,1999,false,unresolved
 9 N.D. Admin. Code § 75-02-04.1-02,9 n.d. admin. code § 75-02-04.1-02,Regulation,state_regulation,ND,1,1,1,2020,2020,false,unresolved
 C.J. 1 N.D. Admin. Code § 75-02-04.1-07,c.j. 1 n.d. admin. code § 75-02-04.1-07,Regulation,state_regulation,ND,1,1,1,2018,2018,false,unresolved
 N.D. Admin. Code § 04-7-19-015,n.d. admin. code § 04-7-19-015,Regulation,state_regulation,ND,1,1,1,2023,2023,false,unresolved
@@ -357,7 +352,6 @@ N.D. Admin. Code § 75-02-04.1-4,n.d. admin. code § 75-02-04.1-4,Regulation,sta
 N.D. Admin. Code § 75-02-04.1-9,n.d. admin. code § 75-02-04.1-9,Regulation,state_regulation,ND,1,1,1,2001,2001,false,unresolved
 N.D. Admin. Code § 75-02-04.1-G7,n.d. admin. code § 75-02-04.1-g7,Regulation,state_regulation,ND,1,1,1,2000,2000,false,unresolved
 N.D. Admin. Code § 75-02-04.142,n.d. admin. code § 75-02-04.142,Regulation,state_regulation,ND,1,1,1,2000,2000,false,unresolved
-N.D. Admin. Code § 75-02-04.l-07,n.d. admin. code § 75-02-04.l-07,Regulation,state_regulation,ND,1,1,1,2011,2011,false,unresolved
 N.D. Admin. Code § 75-02-06-02,n.d. admin. code § 75-02-06-02,Regulation,state_regulation,ND,1,1,1,1999,1999,true,exact
 N.D. Admin. Code § 75-02-06-02.5,n.d. admin. code § 75-02-06-02.5,Regulation,state_regulation,ND,1,1,1,2004,2004,true,exact
 N.D. Admin. Code § 75-02-06-OB,n.d. admin. code § 75-02-06-ob,Regulation,state_regulation,ND,1,1,1,1999,1999,false,unresolved

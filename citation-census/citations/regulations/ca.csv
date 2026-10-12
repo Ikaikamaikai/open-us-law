@@ -127,6 +127,7 @@ Cal. Code Regs. tit. 15 § 3485,cal. code regs. tit. 15 § 3485,Regulation,state
 "Cal. Code Regs., tit. 18 § 324","cal. code regs., tit. 18 § 324",Regulation,state_regulation,CA,20,15,3,1993,2020,true,exact
 "Cal. Code Regs., tit. 8 § 9785","cal. code regs., tit. 8 § 9785",Regulation,state_regulation,CA,20,8,1,2002,2013,true,exact
 "S.F. Admin. Code, ch. 37 § 37.9A","s.f. admin. code, ch. 37 § 37.9a",Regulation,state_regulation,CA,20,3,1,2006,2017,false,unresolved
+Cal. Code Regs. tit. 8 § 11050,cal. code regs. tit. 8 § 11050,Regulation,state_regulation,CA,19,14,9,2012,2025,true,exact
 Cal. Code Regs. § 20407,cal. code regs. § 20407,Regulation,state_regulation,CA,19,2,1,2019,2020,true,exact
 Cal. Code Regs. § 3491,cal. code regs. § 3491,Regulation,state_regulation,CA,19,6,3,2020,2023,true,exact
 "Cal. Code Regs., tit. 14 § 15301","cal. code regs., tit. 14 § 15301",Regulation,state_regulation,CA,19,13,3,1994,2024,true,exact
@@ -141,7 +142,6 @@ Cal. Code Regs. § 3491,cal. code regs. § 3491,Regulation,state_regulation,CA,1
 15 Cal. Code Regs. § 3482,15 cal. code regs. § 3482,Regulation,state_regulation,CA,18,13,2,2022,2025,true,exact
 Cal. Code Regs. tit. 15 § 3084.9,cal. code regs. tit. 15 § 3084.9,Regulation,state_regulation,CA,18,12,3,2019,2023,true,exact
 Cal. Code Regs. tit. 15 § 3335,cal. code regs. tit. 15 § 3335,Regulation,state_regulation,CA,18,10,3,2013,2025,true,exact
-Cal. Code Regs. tit. 8 § 11050,cal. code regs. tit. 8 § 11050,Regulation,state_regulation,CA,18,14,9,2012,2025,true,exact
 "Cal. Code Regs., tit. 13 § 2025","cal. code regs., tit. 13 § 2025",Regulation,state_regulation,CA,18,5,2,2018,2021,true,exact
 "Cal. Code Regs., tit. 14 § 15091","cal. code regs., tit. 14 § 15091",Regulation,state_regulation,CA,18,16,3,1997,2017,true,exact
 "Cal. Code Regs., tit. 15 § 3482","cal. code regs., tit. 15 § 3482",Regulation,state_regulation,CA,18,10,3,2003,2025,true,exact
@@ -174,6 +174,7 @@ Cal. Code Regs. tit. 2 § 11068,cal. code regs. tit. 2 § 11068,Regulation,state
 2 CCR § 11068,2 ccr § 11068,Regulation,state_regulation,CA,15,3,2,2015,2021,true,exact
 2 Cal. Code Regs. § 11068,2 cal. code regs. § 11068,Regulation,state_regulation,CA,15,5,4,2021,2025,true,exact
 "Cal. Admin. Code, tit. 8 § 20382","cal. admin. code, tit. 8 § 20382",Regulation,state_regulation,CA,15,3,1,1979,1981,true,exact
+Cal. Code Regs. tit. 15 § 3378,cal. code regs. tit. 15 § 3378,Regulation,state_regulation,CA,15,5,1,2012,2015,true,exact
 Cal. Code Regs. tit. 2 § 11065,cal. code regs. tit. 2 § 11065,Regulation,state_regulation,CA,15,10,5,2015,2025,true,exact
 Cal. Code Regs. tit. 20 § 1608,cal. code regs. tit. 20 § 1608,Regulation,state_regulation,CA,15,2,1,2005,2005,true,exact
 Cal. Code Regs. tit. 8 § 11140,cal. code regs. tit. 8 § 11140,Regulation,state_regulation,CA,15,8,6,2015,2022,true,exact
@@ -193,7 +194,6 @@ Cal. Code Regs. tit. 8 § 11140,cal. code regs. tit. 8 § 11140,Regulation,state
 "Cal. Code. Regs., tit. 18 § 462.180","cal. code. regs., tit. 18 § 462.180",Regulation,state_regulation,CA,15,3,1,2014,2014,false,unresolved
 8 Cal. Code Regs. § 11040,8 cal. code regs. § 11040,Regulation,state_regulation,CA,14,10,8,2009,2025,true,exact
 Cal. Code Regs. tit. 15 § 3321,cal. code regs. tit. 15 § 3321,Regulation,state_regulation,CA,14,9,3,2019,2025,true,exact
-Cal. Code Regs. tit. 15 § 3378,cal. code regs. tit. 15 § 3378,Regulation,state_regulation,CA,14,5,1,2012,2015,true,exact
 Cal. Code Regs. tit. 15 § 3487,cal. code regs. tit. 15 § 3487,Regulation,state_regulation,CA,14,10,2,2022,2025,true,exact
 Cal. Code Regs. tit. 5 § 6110,cal. code regs. tit. 5 § 6110,Regulation,state_regulation,CA,14,3,1,2009,2012,true,exact
 Cal. Code Regs. tit. 8 § 11010,cal. code regs. tit. 8 § 11010,Regulation,state_regulation,CA,14,9,4,2005,2023,true,exact
@@ -2071,7 +2071,7 @@ Title 28. 28 Cal. Admin. Code § 1300.74.72,title 28. 28 cal. admin. code § 130
 22 CCR § 50262.3,22 ccr § 50262.3,Regulation,state_regulation,CA,2,1,1,2004,2004,true,exact
 22 Cal. Admin. Code § 51207,22 cal. admin. code § 51207,Regulation,state_regulation,CA,2,2,1,1972,1972,true,exact
 22 Cal. Admin. Code § 72547,22 cal. admin. code § 72547,Regulation,state_regulation,CA,2,1,1,1986,1986,true,exact
-22 Cal. Admin.Code § 4340-l,22 cal. admin.code § 4340-l,Regulation,state_regulation,CA,2,1,1,1986,1986,false,unresolved
+22 Cal. Admin.Code § 4340-1,22 cal. admin.code § 4340-1,Regulation,state_regulation,CA,2,1,1,1986,1986,true,exact
 22 Cal. Code Regs. § 51304,22 cal. code regs. § 51304,Regulation,state_regulation,CA,2,1,1,2013,2013,true,exact
 22 Cal. Code Regs. § 64670,22 cal. code regs. § 64670,Regulation,state_regulation,CA,2,1,1,2026,2026,true,exact
 22 Cal. Code Regs. § 64674,22 cal. code regs. § 64674,Regulation,state_regulation,CA,2,1,1,2026,2026,true,exact
@@ -2091,7 +2091,6 @@ Title 28. 28 Cal. Admin. Code § 1300.74.72,title 28. 28 cal. admin. code § 130
 3 Cal. Code Regs. § 1391.5,3 cal. code regs. § 1391.5,Regulation,state_regulation,CA,2,1,1,2015,2015,true,exact
 "30501 (Cf. Cal. Code Regs., tit. 14 § 13500","30501 (cf. cal. code regs., tit. 14 § 13500",Regulation,state_regulation,CA,2,2,1,2014,2014,false,unresolved
 "309 (Cal. Code Regs., tit. 18 § 309","309 (cal. code regs., tit. 18 § 309",Regulation,state_regulation,CA,2,1,1,1997,1997,false,unresolved
-"33 M.J. 539, 541 (A.F. C.M.R.1991","33 m.j. 539, 541 (a.f. c.m.r.1991",Regulation,state_regulation,CA,2,2,2,1999,2002,false,unresolved
 "4 (Cal. Admin. Code, tit. 18 § 4","4 (cal. admin. code, tit. 18 § 4",Regulation,state_regulation,CA,2,1,1,1976,1976,false,unresolved
 "4 (Cal. Code Regs., tit. 8 § 11040","4 (cal. code regs., tit. 8 § 11040",Regulation,state_regulation,CA,2,2,1,2013,2020,false,unresolved
 4 C.C.R. § 2242,4 c.c.r. § 2242,Regulation,state_regulation,CA,2,2,2,2018,2018,true,exact
@@ -2725,6 +2724,7 @@ Cal. Code Regs. tit. 8 § 11,cal. code regs. tit. 8 § 11,Regulation,state_regul
 Cal. Code Regs. tit. 8 § 12,cal. code regs. tit. 8 § 12,Regulation,state_regulation,CA,2,2,1,2024,2024,true,exact
 Cal. Code Regs. tit. 8 § 20,cal. code regs. tit. 8 § 20,Regulation,state_regulation,CA,2,2,2,2020,2022,true,exact
 Cal. Code Regs. tit. 8 § 26,cal. code regs. tit. 8 § 26,Regulation,state_regulation,CA,2,2,2,2019,2024,true,exact
+Cal. Code Regs. tit. 8 § 342,cal. code regs. tit. 8 § 342,Regulation,state_regulation,CA,2,1,1,2021,2021,true,exact
 Cal. Code Regs. tit. 8 § 45.3.2,cal. code regs. tit. 8 § 45.3.2,Regulation,state_regulation,CA,2,2,1,2017,2017,false,unresolved
 Cal. Code Regs. tit. 8 § 9792.20,cal. code regs. tit. 8 § 9792.20,Regulation,state_regulation,CA,2,2,1,2017,2017,true,exact
 Cal. Code Regs. tit. 8 § 9792.27.8,cal. code regs. tit. 8 § 9792.27.8,Regulation,state_regulation,CA,2,1,1,2020,2020,true,exact
@@ -3788,7 +3788,6 @@ Title 16 of the California Code of Regulations (CCR) § 1399.523.5,title 16 of t
 "13 (Cal. Code Regs., tit. 16 § 834","13 (cal. code regs., tit. 16 § 834",Regulation,state_regulation,CA,1,1,1,2015,2015,false,unresolved
 "13 (“CCRAA”), California Civil Code § 1785","13 (“ccraa”), california civil code § 1785",Regulation,state_regulation,CA,1,1,1,2022,2022,false,unresolved
 "13 Branch. Cal. Code Regs., tit. 15 § 3999.229","13 branch. cal. code regs., tit. 15 § 3999.229",Regulation,state_regulation,CA,1,1,1,2020,2020,false,unresolved
-13 C.M.A. 278 [32 C.M.R. 278,13 c.m.a. 278 [32 c.m.r. 278,Regulation,state_regulation,CA,1,1,1,1993,1993,false,unresolved
 13 Cal. Code 7 Regs. § 115.04,13 cal. code 7 regs. § 115.04,Regulation,state_regulation,CA,1,1,1,2024,2024,false,unresolved
 13 Cal. Code Regs. tit. 13 § 2035,13 cal. code regs. tit. 13 § 2035,Regulation,state_regulation,CA,1,1,1,2023,2023,true,exact
 13 Cal. Code Regs. tit. 15 § 2281,13 cal. code regs. tit. 15 § 2281,Regulation,state_regulation,CA,1,1,1,2025,2025,true,exact
@@ -4387,7 +4386,6 @@ Title 16 of the California Code of Regulations (CCR) § 1399.523.5,title 16 of t
 "30 Cal. Code Regs., tit. 14 § 308","30 cal. code regs., tit. 14 § 308",Regulation,state_regulation,CA,1,1,1,2011,2011,true,exact
 3013 (Cal. Code Regs. Tit. 15 § 3013,3013 (cal. code regs. tit. 15 § 3013,Regulation,state_regulation,CA,1,1,1,2014,2014,false,unresolved
 "305 (Cal. Admin. Code, tit. 18 § 305","305 (cal. admin. code, tit. 18 § 305",Regulation,state_regulation,CA,1,1,1,1985,1985,false,unresolved
-"306 U.S. 493, 502 (1939)). 47 Cal. Code Regs. tit. 8 § 342","306 u.s. 493, 502 (1939)). 47 cal. code regs. tit. 8 § 342",Regulation,state_regulation,CA,1,1,1,2021,2021,false,unresolved
 31 C.M.R. 540,31 c.m.r. 540,Regulation,state_regulation,CA,1,1,1,1966,1966,false,unresolved
 "31 Cal. Code Regs., tit. 11 § 999.305","31 cal. code regs., tit. 11 § 999.305",Regulation,state_regulation,CA,1,1,1,2022,2022,true,exact
 "323 (Cal. Code Regs., tit. 4 § 323","323 (cal. code regs., tit. 4 § 323",Regulation,state_regulation,CA,1,1,1,2010,2010,false,unresolved
@@ -4444,7 +4442,6 @@ Title 16 of the California Code of Regulations (CCR) § 1399.523.5,title 16 of t
 "46 Cal. Code Regs., tit. 15 § 999.332","46 cal. code regs., tit. 15 § 999.332",Regulation,state_regulation,CA,1,1,1,2022,2022,false,unresolved
 "461 (Cal. Code Regs., tit. 18 § 324","461 (cal. code regs., tit. 18 § 324",Regulation,state_regulation,CA,1,1,1,2017,2017,false,unresolved
 "461 (Cal. Code Regs., tit. 18 § 461","461 (cal. code regs., tit. 18 § 461",Regulation,state_regulation,CA,1,1,1,2017,2017,false,unresolved
-"461 U.S. 352, 357 (1983). Cal. Code Regs. tit. 15 § 3378","461 u.s. 352, 357 (1983). cal. code regs. tit. 15 § 3378",Regulation,state_regulation,CA,1,1,1,2013,2013,false,unresolved
 "462 (Cal. Admin. Code, tit. 18 § 462","462 (cal. admin. code, tit. 18 § 462",Regulation,state_regulation,CA,1,1,1,1983,1983,false,unresolved
 "467 (Cal. Admin. Code, tit. 18 § 460","467 (cal. admin. code, tit. 18 § 460",Regulation,state_regulation,CA,1,1,1,1983,1983,false,unresolved
 "467 (Cal. Admin. Code, tit. 18 § 467","467 (cal. admin. code, tit. 18 § 467",Regulation,state_regulation,CA,1,1,1,1983,1983,false,unresolved
@@ -6663,7 +6660,6 @@ Cal. Code Regs. tit. 8 § 28,cal. code regs. tit. 8 § 28,Regulation,state_regul
 Cal. Code Regs. tit. 8 § 2810.3,cal. code regs. tit. 8 § 2810.3,Regulation,state_regulation,CA,1,1,1,2024,2024,false,unresolved
 Cal. Code Regs. tit. 8 § 3202,cal. code regs. tit. 8 § 3202,Regulation,state_regulation,CA,1,1,1,2011,2011,true,exact
 Cal. Code Regs. tit. 8 § 32994.1,cal. code regs. tit. 8 § 32994.1,Regulation,state_regulation,CA,1,1,1,2004,2004,false,unresolved
-Cal. Code Regs. tit. 8 § 342,cal. code regs. tit. 8 § 342,Regulation,state_regulation,CA,1,1,1,2021,2021,true,exact
 Cal. Code Regs. tit. 8 § 4436,cal. code regs. tit. 8 § 4436,Regulation,state_regulation,CA,1,1,1,2007,2007,true,exact
 Cal. Code Regs. tit. 8 § 5,cal. code regs. tit. 8 § 5,Regulation,state_regulation,CA,1,1,1,2024,2024,false,unresolved
 Cal. Code Regs. tit. 8 § 7,cal. code regs. tit. 8 § 7,Regulation,state_regulation,CA,1,1,1,2019,2019,false,unresolved
@@ -8589,7 +8585,6 @@ Cal. Code Regs. § 95487,cal. code regs. § 95487,Regulation,state_regulation,CA
 "Cal. Code Regs., tit., 16 § 16:301","cal. code regs., tit., 16 § 16:301",Regulation,state_regulation,CA,1,1,1,2001,2001,false,unresolved
 "Cal. Code Regs., tit., 16 § 16:390.6","cal. code regs., tit., 16 § 16:390.6",Regulation,state_regulation,CA,1,1,1,2001,2001,false,unresolved
 "Cal. Code Regs., tit., 28 § 1300.71","cal. code regs., tit., 28 § 1300.71",Regulation,state_regulation,CA,1,1,1,2016,2016,false,unresolved
-Cal. Code Regs.. tit. 8 § 11050,cal. code regs.. tit. 8 § 11050,Regulation,state_regulation,CA,1,1,1,2020,2020,false,unresolved
 Cal. Code Regs.Tit. 22 § 80001,cal. code regs.tit. 22 § 80001,Regulation,state_regulation,CA,1,1,1,2001,2001,true,exact
 "Cal. Code of 18 Regs., tit. 15 § 3370","cal. code of 18 regs., tit. 15 § 3370",Regulation,state_regulation,CA,1,1,1,2021,2021,false,unresolved
 Cal. Code of 28 Regs. tit. 15 § 3084.1,cal. code of 28 regs. tit. 15 § 3084.1,Regulation,state_regulation,CA,1,1,1,2020,2020,false,unresolved

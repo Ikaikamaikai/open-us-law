@@ -231,9 +231,9 @@ Or. Admin. R. 411-415-0070,or. admin. r. 411-415-0070,Regulation,state_regulatio
 Or. Admin. R. 411-450-0020,or. admin. r. 411-450-0020,Regulation,state_regulation,OR,2,1,1,2023,2023,true,exact
 Or. Admin. R. 411-450-060,or. admin. r. 411-450-060,Regulation,state_regulation,OR,2,1,1,2023,2023,false,unresolved
 Or. Admin. R. 413,or. admin. r. 413,Regulation,state_regulation,OR,2,1,1,2006,2006,false,unresolved
-Or. Admin. R. 413--060--0430,or. admin. r. 413--060--0430,Regulation,state_regulation,OR,2,1,1,2006,2006,false,unresolved
 Or. Admin. R. 413-015-0420,or. admin. r. 413-015-0420,Regulation,state_regulation,OR,2,1,1,2009,2009,true,exact
 Or. Admin. R. 413-015-0610,or. admin. r. 413-015-0610,Regulation,state_regulation,OR,2,1,1,2009,2009,false,unresolved
+Or. Admin. R. 413-060-0430,or. admin. r. 413-060-0430,Regulation,state_regulation,OR,2,1,1,2006,2006,true,exact
 Or. Admin. R. 413-130-0000,or. admin. r. 413-130-0000,Regulation,state_regulation,OR,2,1,1,2005,2005,true,exact
 Or. Admin. R. 413-130-0000et,or. admin. r. 413-130-0000et,Regulation,state_regulation,OR,2,1,1,2005,2005,false,unresolved
 Or. Admin. R. 436,or. admin. r. 436,Regulation,state_regulation,OR,2,1,1,2018,2018,false,unresolved
@@ -327,7 +327,7 @@ TAC. ORS 79.3020,tac. ors 79.3020,Regulation,state_regulation,OR,2,2,1,1987,1987
 1 Den. C.C.R. 387,1 den. c.c.r. 387,Regulation,state_regulation,OR,1,1,1,1910,1910,false,unresolved
 "430 U.S. 651, 658 (1977). Or. Admin. R. § 291","430 u.s. 651, 658 (1977). or. admin. r. § 291",Regulation,state_regulation,OR,1,1,1,2020,2020,false,unresolved
 FPDR Admin. Rule 5.7.03,fpdr admin. rule 5.7.03,Regulation,state_regulation,OR,1,1,1,2014,2014,false,unresolved
-IRC Reg. § 1.212-l,irc reg. § 1.212-l,Regulation,state_regulation,OR,1,1,1,1986,1986,false,unresolved
+IRC Reg. § 1.212-1,irc reg. § 1.212-1,Regulation,state_regulation,OR,1,1,1,1986,1986,true,exact
 "IRC, Reg. § 1.702-1","irc, reg. § 1.702-1",Regulation,state_regulation,OR,1,1,1,1971,1971,true,exact
 "MWA, Or. Admin. R. XXX","mwa, or. admin. r. xxx",Regulation,state_regulation,OR,1,1,1,2007,2007,false,unresolved
 Or. Admin. R. (“OAR”) § 340-200-0040,or. admin. r. (“oar”) § 340-200-0040,Regulation,state_regulation,OR,1,1,1,2015,2015,false,unresolved

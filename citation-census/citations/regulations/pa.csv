@@ -1,21 +1,21 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 210 Pa. Code § 69.414,210 pa. code § 69.414,Regulation,state_regulation,PA,2749,2688,3,2013,2026,true,exact
 "Superior Court, 210 Pa. Code § 65.37","superior court, 210 pa. code § 65.37",Regulation,state_regulation,PA,2461,2461,2,2017,2018,false,unresolved
-37 Pa. Code § 71.4,37 pa. code § 71.4,Regulation,state_regulation,PA,442,201,5,1978,2026,true,exact
+37 Pa. Code § 71.4,37 pa. code § 71.4,Regulation,state_regulation,PA,443,201,5,1978,2026,true,exact
 37 Pa. Code § 73.1,37 pa. code § 73.1,Regulation,state_regulation,PA,366,211,7,1988,2026,true,exact
-37 Pa. Code § 75.2,37 pa. code § 75.2,Regulation,state_regulation,PA,238,137,2,1983,2026,true,exact
+37 Pa. Code § 75.2,37 pa. code § 75.2,Regulation,state_regulation,PA,239,137,2,1983,2026,true,exact
 204 Pa. Code § 303.16,204 pa. code § 303.16,Regulation,state_regulation,PA,229,172,4,2011,2026,true,exact
 204 Pa. Code § 303.10,204 pa. code § 303.10,Regulation,state_regulation,PA,220,104,7,2000,2026,true,exact
-37 Pa. Code § 71.5,37 pa. code § 71.5,Regulation,state_regulation,PA,205,135,5,1978,2026,true,exact
+37 Pa. Code § 71.5,37 pa. code § 71.5,Regulation,state_regulation,PA,207,135,5,1978,2026,true,exact
 37 Pa. Code § 93.10,37 pa. code § 93.10,Regulation,state_regulation,PA,204,44,4,1987,2025,true,exact
 204 Pa. Code § 303.15,204 pa. code § 303.15,Regulation,state_regulation,PA,186,132,5,1999,2026,true,exact
 34 Pa. Code § 101.82,34 pa. code § 101.82,Regulation,state_regulation,PA,177,78,1,1977,2026,true,exact
 37 Pa. Code § 71.2,37 pa. code § 71.2,Regulation,state_regulation,PA,159,93,5,1978,2025,true,exact
 37 Pa. Code § 63.4,37 pa. code § 63.4,Regulation,state_regulation,PA,140,66,5,1976,2025,true,exact
 55 Pa. Code § 275.4,55 pa. code § 275.4,Regulation,state_regulation,PA,132,61,2,1979,2026,true,exact
-34 Pa. Code § 101.21,34 pa. code § 101.21,Regulation,state_regulation,PA,127,83,2,1975,2024,true,exact
+34 Pa. Code § 101.21,34 pa. code § 101.21,Regulation,state_regulation,PA,128,83,2,1975,2024,true,exact
 55 Pa. Code § 3490.4,55 pa. code § 3490.4,Regulation,state_regulation,PA,126,87,4,1987,2025,true,exact
-37 Pa. Code § 75.1,37 pa. code § 75.1,Regulation,state_regulation,PA,118,76,2,1983,2026,true,exact
+37 Pa. Code § 75.1,37 pa. code § 75.1,Regulation,state_regulation,PA,119,76,2,1983,2026,true,exact
 52 Pa. Code § 59.18,52 pa. code § 59.18,Regulation,state_regulation,PA,115,5,2,2017,2024,true,exact
 C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolved
 34 Pa. Code § 65.43a,34 pa. code § 65.43a,Regulation,state_regulation,PA,111,21,1,2014,2026,true,exact
@@ -43,7 +43,7 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 4 Pa. Code § 105.12,4 pa. code § 105.12,Regulation,state_regulation,PA,58,25,1,1985,2026,true,exact
 52 Pa. Code § 54.4,52 pa. code § 54.4,Regulation,state_regulation,PA,58,7,2,2017,2020,true,exact
 34 Pa. Code § 101.111,34 pa. code § 101.111,Regulation,state_regulation,PA,57,38,1,1974,2025,true,exact
-34 Pa. Code § 101.104,34 pa. code § 101.104,Regulation,state_regulation,PA,53,37,2,1974,2025,true,exact
+34 Pa. Code § 101.104,34 pa. code § 101.104,Regulation,state_regulation,PA,54,37,2,1974,2025,true,exact
 204 Pa. Code § 303.17,204 pa. code § 303.17,Regulation,state_regulation,PA,52,37,1,2015,2025,true,exact
 25 Pa. Code § 78a,25 pa. code § 78a,Regulation,state_regulation,PA,50,9,3,2018,2023,false,unresolved
 34 Pa. Code § 101.107,34 pa. code § 101.107,Regulation,state_regulation,PA,48,31,2,1981,2021,true,exact
@@ -128,6 +128,8 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 40 Pa. Code § 5.32,40 pa. code § 5.32,Regulation,state_regulation,PA,24,18,6,1974,2020,true,exact
 51 Pa. Code § 15.3,51 pa. code § 15.3,Regulation,state_regulation,PA,24,7,2,2017,2019,true,exact
 52 Pa. Code § 1017.5,52 pa. code § 1017.5,Regulation,state_regulation,PA,24,7,2,2016,2018,true,exact
+55 Pa. Code § 177.23,55 pa. code § 177.23,Regulation,state_regulation,PA,24,13,3,1978,1987,true,exact
+55 Pa. Code § 201.1,55 pa. code § 201.1,Regulation,state_regulation,PA,24,15,1,1979,2024,true,exact
 67 Pa. Code § 175.29,67 pa. code § 175.29,Regulation,state_regulation,PA,24,11,1,1983,2025,true,exact
 22 Pa. Code § 12.6,22 pa. code § 12.6,Regulation,state_regulation,PA,23,17,8,1977,2025,true,exact
 22 Pa. Code § 13.32,22 pa. code § 13.32,Regulation,state_regulation,PA,23,12,4,1979,1989,true,exact
@@ -136,8 +138,6 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 34 Pa. Code § 127.203,34 pa. code § 127.203,Regulation,state_regulation,PA,23,12,2,1999,2024,true,exact
 37 Pa. Code § 68.21,37 pa. code § 68.21,Regulation,state_regulation,PA,23,8,1,2020,2023,true,exact
 52 Pa. Code § 1017.24,52 pa. code § 1017.24,Regulation,state_regulation,PA,23,6,1,2016,2016,true,exact
-55 Pa. Code § 177.23,55 pa. code § 177.23,Regulation,state_regulation,PA,23,13,3,1978,1987,true,exact
-55 Pa. Code § 201.1,55 pa. code § 201.1,Regulation,state_regulation,PA,23,15,1,1979,2024,true,exact
 25 Pa. Code § 21.101,25 pa. code § 21.101,Regulation,state_regulation,PA,22,14,4,1980,1989,false,unresolved
 31 Pa. Code § 146.6,31 pa. code § 146.6,Regulation,state_regulation,PA,22,14,7,2002,2025,true,exact
 34 Pa. Code § 101.53,34 pa. code § 101.53,Regulation,state_regulation,PA,22,18,1,1979,2024,true,exact
@@ -146,6 +146,7 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 37 Pa. Code § 95.103,37 pa. code § 95.103,Regulation,state_regulation,PA,22,8,5,1981,1999,false,unresolved
 67 Pa. Code § 445.4,67 pa. code § 445.4,Regulation,state_regulation,PA,22,7,2,1988,2022,true,exact
 1 Pa. Code § 31.11,1 pa. code § 31.11,Regulation,state_regulation,PA,21,15,1,1984,2024,true,exact
+204 Pa. Code § 303.11,204 pa. code § 303.11,Regulation,state_regulation,PA,21,12,3,2011,2026,true,exact
 204 Pa. Code § 303.5,204 pa. code § 303.5,Regulation,state_regulation,PA,21,15,2,1984,2026,true,exact
 25 Pa. Code § 83.351,25 pa. code § 83.351,Regulation,state_regulation,PA,21,5,2,2006,2020,true,exact
 25 Pa. Code § 95.1,25 pa. code § 95.1,Regulation,state_regulation,PA,21,5,1,1978,1991,true,exact
@@ -165,7 +166,6 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 34 Pa. Code § 123.301,34 pa. code § 123.301,Regulation,state_regulation,PA,20,11,1,2004,2024,true,exact
 61 Pa. Code § 31.2,61 pa. code § 31.2,Regulation,state_regulation,PA,20,6,2,2023,2025,true,exact
 67 Pa. Code § 177.601,67 pa. code § 177.601,Regulation,state_regulation,PA,20,10,1,2016,2025,true,exact
-204 Pa. Code § 303.11,204 pa. code § 303.11,Regulation,state_regulation,PA,19,12,3,2011,2026,true,exact
 210 Pa. Code § 69.256,210 pa. code § 69.256,Regulation,state_regulation,PA,19,19,1,2017,2026,true,exact
 31 Pa. Code § 146.1,31 pa. code § 146.1,Regulation,state_regulation,PA,19,18,8,1981,2025,true,exact
 34 Pa. Code § 127.207,34 pa. code § 127.207,Regulation,state_regulation,PA,19,7,1,2011,2023,true,exact
@@ -292,6 +292,7 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 34 Pa. Code § 403.43,34 pa. code § 403.43,Regulation,state_regulation,PA,13,5,3,2009,2022,true,exact
 37 Pa. Code § 95.104,37 pa. code § 95.104,Regulation,state_regulation,PA,13,7,5,1980,1995,false,unresolved
 37 Pa. Code § 97.106,37 pa. code § 97.106,Regulation,state_regulation,PA,13,4,2,2019,2025,true,exact
+37 Pa. Code. § 73.1,37 pa. code. § 73.1,Regulation,state_regulation,PA,13,5,3,2019,2023,true,exact
 49 Pa. Code § 21.18,49 pa. code § 21.18,Regulation,state_regulation,PA,13,6,4,2010,2023,true,exact
 52 Pa. Code § 56.111,52 pa. code § 56.111,Regulation,state_regulation,PA,13,4,1,1982,2021,true,exact
 55 Pa. Code § 141.81,55 pa. code § 141.81,Regulation,state_regulation,PA,13,6,1,1979,2025,true,exact
@@ -320,7 +321,6 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 37 Pa. Code § 191.9b,37 pa. code § 191.9b,Regulation,state_regulation,PA,12,5,1,1985,1987,true,exact
 37 Pa. Code § 67.1,37 pa. code § 67.1,Regulation,state_regulation,PA,12,8,2,1987,2024,true,exact
 37 Pa. Code § 91.2,37 pa. code § 91.2,Regulation,state_regulation,PA,12,8,1,2016,2024,true,exact
-37 Pa. Code. § 73.1,37 pa. code. § 73.1,Regulation,state_regulation,PA,12,5,3,2019,2023,true,exact
 49 Pa. Code § 41.1,49 pa. code § 41.1,Regulation,state_regulation,PA,12,2,1,2016,2018,true,exact
 52 Pa. Code § 33.62,52 pa. code § 33.62,Regulation,state_regulation,PA,12,2,1,1979,1983,true,exact
 52 Pa. Code § 5.21,52 pa. code § 5.21,Regulation,state_regulation,PA,12,8,3,2016,2025,true,exact
@@ -359,7 +359,9 @@ C.C.R.C,c.c.r.c,Regulation,state_regulation,PA,114,30,6,1979,2025,false,unresolv
 55 Pa. Code § 257.22,55 pa. code § 257.22,Regulation,state_regulation,PA,11,5,1,1979,1982,true,exact
 55 Pa. Code § 3490.106,55 pa. code § 3490.106,Regulation,state_regulation,PA,11,8,2,1987,2021,true,exact
 55 Pa. Code § 41.31,55 pa. code § 41.31,Regulation,state_regulation,PA,11,4,2,2021,2024,true,exact
+55 Pa. Code § 505.2,55 pa. code § 505.2,Regulation,state_regulation,PA,11,4,1,1981,1983,true,exact
 61 Pa. Code § 3.4,61 pa. code § 3.4,Regulation,state_regulation,PA,11,4,3,2021,2024,true,exact
+67 Pa. Code § 175.67,67 pa. code § 175.67,Regulation,state_regulation,PA,11,5,2,2014,2026,true,exact
 67 Pa. Code § 177.651,67 pa. code § 177.651,Regulation,state_regulation,PA,11,7,3,2012,2024,true,exact
 67 Pa. Code § 445.6,67 pa. code § 445.6,Regulation,state_regulation,PA,11,4,1,1984,2021,true,exact
 C.C.R. 252,c.c.r. 252,Regulation,state_regulation,PA,11,6,6,1846,1942,false,unresolved
@@ -406,10 +408,8 @@ C.C.R. 252,c.c.r. 252,Regulation,state_regulation,PA,11,6,6,1846,1942,false,unre
 55 Pa. Code § 3130.91,55 pa. code § 3130.91,Regulation,state_regulation,PA,10,5,2,2010,2018,true,exact
 55 Pa. Code § 3490.223,55 pa. code § 3490.223,Regulation,state_regulation,PA,10,7,2,2020,2024,true,exact
 55 Pa. Code § 3490.67,55 pa. code § 3490.67,Regulation,state_regulation,PA,10,7,2,1988,2023,true,exact
-55 Pa. Code § 505.2,55 pa. code § 505.2,Regulation,state_regulation,PA,10,4,1,1981,1983,true,exact
 61 Pa. Code § 103.13,61 pa. code § 103.13,Regulation,state_regulation,PA,10,6,2,2012,2024,true,exact
 67 Pa. Code § 175.42,67 pa. code § 175.42,Regulation,state_regulation,PA,10,5,1,2018,2025,true,exact
-67 Pa. Code § 175.67,67 pa. code § 175.67,Regulation,state_regulation,PA,10,5,2,2014,2026,true,exact
 "Pennsylvania, 210 Pa. Code § 69.414","pennsylvania, 210 pa. code § 69.414",Regulation,state_regulation,PA,10,10,1,2020,2026,false,unresolved
 101 Pa. Code § 7.2,101 pa. code § 7.2,Regulation,state_regulation,PA,9,3,1,2024,2024,true,exact
 204 Pa. Code 303.15,204 pa. code 303.15,Regulation,state_regulation,PA,9,6,1,2014,2025,true,exact
@@ -427,6 +427,7 @@ C.C.R. 252,c.c.r. 252,Regulation,state_regulation,PA,11,6,6,1846,1942,false,unre
 25 Pa. Code § 86.202,25 pa. code § 86.202,Regulation,state_regulation,PA,9,2,2,1988,1995,true,exact
 28 Pa. Code § 201.29,28 pa. code § 201.29,Regulation,state_regulation,PA,9,3,2,1989,2021,true,exact
 31 Pa. Code § 56.1,31 pa. code § 56.1,Regulation,state_regulation,PA,9,7,2,1979,2024,true,exact
+31 Pa. Code § 59.9,31 pa. code § 59.9,Regulation,state_regulation,PA,9,3,1,1988,1988,true,exact
 34 Pa. Code § 101.102,34 pa. code § 101.102,Regulation,state_regulation,PA,9,9,1,1977,2025,true,exact
 34 Pa. Code § 121.18,34 pa. code § 121.18,Regulation,state_regulation,PA,9,6,2,1986,2021,true,exact
 34 Pa. Code § 123.202,34 pa. code § 123.202,Regulation,state_regulation,PA,9,4,2,2003,2024,true,exact
@@ -508,7 +509,6 @@ Pa. Code § 303.16,pa. code § 303.16,Regulation,state_regulation,PA,9,6,1,2015,
 28 Pa. Code § 1141.21,28 pa. code § 1141.21,Regulation,state_regulation,PA,8,6,3,2018,2021,true,exact
 28 Pa. Code § 211.12,28 pa. code § 211.12,Regulation,state_regulation,PA,8,5,4,1978,2020,true,exact
 31 Pa. Code 146.6,31 pa. code 146.6,Regulation,state_regulation,PA,8,3,3,2013,2021,true,exact
-31 Pa. Code § 59.9,31 pa. code § 59.9,Regulation,state_regulation,PA,8,3,1,1988,1988,true,exact
 31 Pa. Code § 66.53,31 pa. code § 66.53,Regulation,state_regulation,PA,8,5,3,1981,1991,true,exact
 31 Pa. Code § 69.55,31 pa. code § 69.55,Regulation,state_regulation,PA,8,4,3,1997,2015,true,exact
 34 Pa. Code § 101.112,34 pa. code § 101.112,Regulation,state_regulation,PA,8,8,1,1976,2025,true,exact
@@ -925,6 +925,7 @@ SCI. 37 Pa. Code § 71.4,sci. 37 pa. code § 71.4,Regulation,state_regulation,PA
 52 Pa. Code § 5.44,52 pa. code § 5.44,Regulation,state_regulation,PA,5,2,1,2017,2020,true,exact
 52 Pa. Code § 54.2,52 pa. code § 54.2,Regulation,state_regulation,PA,5,3,1,2017,2026,true,exact
 52 Pa. Code § 57.76,52 pa. code § 57.76,Regulation,state_regulation,PA,5,3,3,2022,2023,true,exact
+52 Pa.Admin.Code § 56.97,52 pa.admin.code § 56.97,Regulation,state_regulation,PA,5,1,1,1984,1984,true,exact
 55 Pa. Code § 107.4,55 pa. code § 107.4,Regulation,state_regulation,PA,5,1,1,2024,2024,true,exact
 55 Pa. Code § 1101.42,55 pa. code § 1101.42,Regulation,state_regulation,PA,5,3,2,1986,2022,true,exact
 55 Pa. Code § 1101.74,55 pa. code § 1101.74,Regulation,state_regulation,PA,5,4,2,1982,2024,true,exact
@@ -985,6 +986,7 @@ SCI. 37 Pa. Code § 71.4,sci. 37 pa. code § 71.4,Regulation,state_regulation,PA
 C.C.R. 513,c.c.r. 513,Regulation,state_regulation,PA,5,5,4,1894,1972,false,unresolved
 HIPAA and 28 Pa. Code § 115.27,hipaa and 28 pa. code § 115.27,Regulation,state_regulation,PA,5,2,2,2021,2022,false,unresolved
 Pa. Code 303.16,pa. code 303.16,Regulation,state_regulation,PA,5,5,1,2017,2026,false,unresolved
+Pa. Code 303.7,pa. code 303.7,Regulation,state_regulation,PA,5,3,1,1985,2023,true,exact
 Pa. Code 303.8,pa. code 303.8,Regulation,state_regulation,PA,5,3,1,2022,2026,true,exact
 Pa. Code 61.2,pa. code 61.2,Regulation,state_regulation,PA,5,1,1,2008,2008,false,unresolved
 Pa.R.A.P. 3716 and 210 Pa. Code § 69.414,pa.r.a.p. 3716 and 210 pa. code § 69.414,Regulation,state_regulation,PA,5,4,1,2022,2023,false,unresolved
@@ -1104,6 +1106,7 @@ Pa.R.A.P. 3716 and 210 Pa. Code § 69.414,pa.r.a.p. 3716 and 210 pa. code § 69.
 34 Pa. Code § 101.71,34 pa. code § 101.71,Regulation,state_regulation,PA,4,4,1,1974,1981,true,exact
 34 Pa. Code § 121,34 pa. code § 121,Regulation,state_regulation,PA,4,2,1,2018,2020,false,unresolved
 34 Pa. Code § 121.1,34 pa. code § 121.1,Regulation,state_regulation,PA,4,3,2,2015,2017,true,exact
+34 Pa. Code § 121.15,34 pa. code § 121.15,Regulation,state_regulation,PA,4,1,1,1983,2019,true,exact
 34 Pa. Code § 121.23,34 pa. code § 121.23,Regulation,state_regulation,PA,4,2,2,1977,2015,true,exact
 34 Pa. Code § 123.102,34 pa. code § 123.102,Regulation,state_regulation,PA,4,1,1,2005,2005,true,exact
 34 Pa. Code § 123.201,34 pa. code § 123.201,Regulation,state_regulation,PA,4,2,1,2017,2017,true,exact
@@ -1148,6 +1151,8 @@ Pa.R.A.P. 3716 and 210 Pa. Code § 69.414,pa.r.a.p. 3716 and 210 pa. code § 69.
 4 Pa. Code § 183.4,4 pa. code § 183.4,Regulation,state_regulation,PA,4,2,1,2024,2025,true,exact
 4 Pa. Code § 38.2,4 pa. code § 38.2,Regulation,state_regulation,PA,4,3,1,1979,1981,true,exact
 4 Pa. Code § 7.156,4 pa. code § 7.156,Regulation,state_regulation,PA,4,1,1,1986,1986,true,exact
+4 Pa. Code § 7.161,4 pa. code § 7.161,Regulation,state_regulation,PA,4,3,1,1986,1988,true,exact
+4 Pa. Code § 7.164,4 pa. code § 7.164,Regulation,state_regulation,PA,4,3,1,1986,1988,true,exact
 4 Pa. Code § 89.11,4 pa. code § 89.11,Regulation,state_regulation,PA,4,2,1,1985,1985,true,exact
 4 Pa. Code § 89.21,4 pa. code § 89.21,Regulation,state_regulation,PA,4,2,1,1985,2022,true,exact
 4 Pa. Code § 91.1,4 pa. code § 91.1,Regulation,state_regulation,PA,4,4,1,1985,1986,true,exact
@@ -1194,7 +1199,6 @@ Pa.R.A.P. 3716 and 210 Pa. Code § 69.414,pa.r.a.p. 3716 and 210 pa. code § 69.
 52 Pa. Code § 69.263,52 pa. code § 69.263,Regulation,state_regulation,PA,4,1,1,2024,2024,true,exact
 52 Pa. Code § 75.51,52 pa. code § 75.51,Regulation,state_regulation,PA,4,2,1,2016,2016,true,exact
 52 Pa. Code § 77.3,52 pa. code § 77.3,Regulation,state_regulation,PA,4,4,1,2024,2026,true,exact
-52 Pa.Admin.Code § 56.-97,52 pa.admin.code § 56.-97,Regulation,state_regulation,PA,4,1,1,1984,1984,false,unresolved
 55 Pa. Code 3130.21,55 pa. code 3130.21,Regulation,state_regulation,PA,4,1,1,2020,2020,true,exact
 55 Pa. Code 5100.23,55 pa. code 5100.23,Regulation,state_regulation,PA,4,2,1,2025,2025,true,exact
 55 Pa. Code § 105.1,55 pa. code § 105.1,Regulation,state_regulation,PA,4,2,2,1978,2025,true,exact
@@ -1445,7 +1449,6 @@ Pa. Code § 44.4,pa. code § 44.4,Regulation,state_regulation,PA,4,2,1,1989,1989
 34 Pa. Code § 101.86,34 pa. code § 101.86,Regulation,state_regulation,PA,3,2,2,1980,1985,true,exact
 34 Pa. Code § 101.89,34 pa. code § 101.89,Regulation,state_regulation,PA,3,3,1,1979,1986,true,exact
 34 Pa. Code § 121.14,34 pa. code § 121.14,Regulation,state_regulation,PA,3,2,1,2020,2025,true,exact
-34 Pa. Code § 121.15,34 pa. code § 121.15,Regulation,state_regulation,PA,3,1,1,2019,2019,true,exact
 34 Pa. Code § 121.21,34 pa. code § 121.21,Regulation,state_regulation,PA,3,3,1,1978,1980,true,exact
 34 Pa. Code § 121.22,34 pa. code § 121.22,Regulation,state_regulation,PA,3,1,1,2015,2015,true,exact
 34 Pa. Code § 121.24,34 pa. code § 121.24,Regulation,state_regulation,PA,3,3,2,1987,2004,true,exact
@@ -1517,8 +1520,6 @@ Pa. Code § 44.4,pa. code § 44.4,Regulation,state_regulation,PA,4,2,1,1989,1989
 4 Pa. Code § 255.5,4 pa. code § 255.5,Regulation,state_regulation,PA,3,1,1,2015,2015,true,exact
 4 Pa. Code § 27.12,4 pa. code § 27.12,Regulation,state_regulation,PA,3,2,1,1973,1975,true,exact
 4 Pa. Code § 602.22,4 pa. code § 602.22,Regulation,state_regulation,PA,3,1,1,2022,2022,false,unresolved
-4 Pa. Code § 7.161,4 pa. code § 7.161,Regulation,state_regulation,PA,3,3,1,1986,1988,true,exact
-4 Pa. Code § 7.164,4 pa. code § 7.164,Regulation,state_regulation,PA,3,3,1,1986,1988,true,exact
 4 Pa. Code § 99.15,4 pa. code § 99.15,Regulation,state_regulation,PA,3,3,1,1978,1983,true,exact
 4 Pa. Code § 99.21,4 pa. code § 99.21,Regulation,state_regulation,PA,3,2,1,1983,1988,true,exact
 40 Pa. Code § 13.101,40 pa. code § 13.101,Regulation,state_regulation,PA,3,3,1,1974,1979,true,exact
@@ -1643,7 +1644,7 @@ Pa. Code § 44.4,pa. code § 44.4,Regulation,state_regulation,PA,4,2,1,1989,1989
 58 Pa. Code § 165.185,58 pa. code § 165.185,Regulation,state_regulation,PA,3,2,1,1984,2017,true,exact
 58 Pa. Code § 183.357,58 pa. code § 183.357,Regulation,state_regulation,PA,3,2,1,1982,1985,true,exact
 58 Pa. Code § 183.457,58 pa. code § 183.457,Regulation,state_regulation,PA,3,1,1,2025,2025,true,exact
-58 Pa. Code § 421a.l,58 pa. code § 421a.l,Regulation,state_regulation,PA,3,2,2,2012,2020,false,unresolved
+58 Pa. Code § 421a.1,58 pa. code § 421a.1,Regulation,state_regulation,PA,3,2,2,2012,2020,true,exact
 58 Pa. Code § 433a,58 pa. code § 433a,Regulation,state_regulation,PA,3,1,1,2025,2025,false,unresolved
 58 Pa. Code § 465a,58 pa. code § 465a,Regulation,state_regulation,PA,3,1,1,2025,2025,false,unresolved
 58 Pa. Code § 494a,58 pa. code § 494a,Regulation,state_regulation,PA,3,3,2,2016,2018,false,unresolved
@@ -1694,7 +1695,6 @@ C.C.R. 656,c.c.r. 656,Regulation,state_regulation,PA,3,2,2,1878,1919,false,unres
 CSI. 52 Pa. Code § 102.3,csi. 52 pa. code § 102.3,Regulation,state_regulation,PA,3,3,2,2021,2023,true,exact
 GRAPP. 1 Pa. Code § 31.1,grapp. 1 pa. code § 31.1,Regulation,state_regulation,PA,3,3,1,2011,2018,true,exact
 Pa. Code 303.5,pa. code 303.5,Regulation,state_regulation,PA,3,2,1,2015,2016,false,unresolved
-Pa. Code 303.7,pa. code 303.7,Regulation,state_regulation,PA,3,3,1,2015,2023,true,exact
 Pa. Code 69.414,pa. code 69.414,Regulation,state_regulation,PA,3,3,1,2023,2025,false,unresolved
 Pa. Code Judicial Conduct 2.11,pa. code judicial conduct 2.11,Regulation,state_regulation,PA,3,3,1,2016,2025,false,unresolved
 Pa. Code ch. 134 § 1,pa. code ch. 134 § 1,Regulation,state_regulation,PA,3,2,1,2025,2026,false,unresolved
@@ -1749,7 +1749,6 @@ Pa. Code § 19-1500,pa. code § 19-1500,Regulation,state_regulation,PA,3,3,3,197
 116 Pa. Admin. Code 42.14,116 pa. admin. code 42.14,Regulation,state_regulation,PA,2,1,1,2018,2018,false,unresolved
 12 Pa. Code § 145.81,12 pa. code § 145.81,Regulation,state_regulation,PA,2,1,1,2004,2004,true,exact
 13 Pa. Code 63.2,13 pa. code 63.2,Regulation,state_regulation,PA,2,1,1,1991,1991,false,unresolved
-1344 (1989). 55 Pa. Code § 3140.17,1344 (1989). 55 pa. code § 3140.17,Regulation,state_regulation,PA,2,2,1,2008,2008,false,unresolved
 16 Pa. Code 42.62,16 pa. code 42.62,Regulation,state_regulation,PA,2,1,1,2010,2010,true,exact
 16 Pa. Code § 40.201,16 pa. code § 40.201,Regulation,state_regulation,PA,2,2,1,1985,1986,false,unresolved
 16 Pa. Code § 40.204,16 pa. code § 40.204,Regulation,state_regulation,PA,2,2,1,1986,1987,false,unresolved
@@ -1787,7 +1786,6 @@ Pa. Code § 19-1500,pa. code § 19-1500,Regulation,state_regulation,PA,3,3,3,197
 204 Pa. Code § 303.1-,204 pa. code § 303.1-,Regulation,state_regulation,PA,2,2,1,2017,2019,false,unresolved
 204 Pa. Code § 303.1-.9,204 pa. code § 303.1-.9,Regulation,state_regulation,PA,2,2,1,1988,1988,true,multiple
 204 Pa. Code § 303.1-303.14,204 pa. code § 303.1-303.14,Regulation,state_regulation,PA,2,1,1,2020,2020,false,unresolved
-204 Pa. Code § 303.ll,204 pa. code § 303.ll,Regulation,state_regulation,PA,2,2,1,2019,2023,false,unresolved
 204 Pa. Code § 303a.11,204 pa. code § 303a.11,Regulation,state_regulation,PA,2,1,1,2025,2025,true,exact
 204 Pa. Code § 309.1,204 pa. code § 309.1,Regulation,state_regulation,PA,2,2,2,2024,2025,true,exact
 204 Pa. Code § 311.1,204 pa. code § 311.1,Regulation,state_regulation,PA,2,2,1,2025,2026,true,exact
@@ -2312,7 +2310,6 @@ Pa. Code § 19-1500,pa. code § 19-1500,Regulation,state_regulation,PA,3,3,3,197
 40 Pa. Code § 9.103,40 pa. code § 9.103,Regulation,state_regulation,PA,2,2,1,1983,1983,true,exact
 40 Pa. Code § 9.104,40 pa. code § 9.104,Regulation,state_regulation,PA,2,2,1,1983,1983,true,exact
 40 Pa. Code § 9.21,40 pa. code § 9.21,Regulation,state_regulation,PA,2,2,2,1977,1984,true,exact
-42 (1991). 37 Pa. Code § 71.5,42 (1991). 37 pa. code § 71.5,Regulation,state_regulation,PA,2,2,1,1993,1993,false,unresolved
 42 Pa. Code 42.22,42 pa. code 42.22,Regulation,state_regulation,PA,2,1,1,2021,2021,false,unresolved
 44 Pa. Code § 44.4,44 pa. code § 44.4,Regulation,state_regulation,PA,2,2,1,1986,1986,false,unresolved
 49 Pa. Code § 13.1,49 pa. code § 13.1,Regulation,state_regulation,PA,2,1,1,1980,1980,true,exact
@@ -2501,6 +2498,7 @@ Pa. Code § 19-1500,pa. code § 19-1500,Regulation,state_regulation,PA,3,3,3,197
 55 Pa. Code § 3130.36,55 pa. code § 3130.36,Regulation,state_regulation,PA,2,1,1,2017,2017,true,exact
 55 Pa. Code § 3130.5,55 pa. code § 3130.5,Regulation,state_regulation,PA,2,2,1,2001,2001,true,exact
 55 Pa. Code § 3130.82,55 pa. code § 3130.82,Regulation,state_regulation,PA,2,1,1,2017,2017,true,exact
+55 Pa. Code § 3140.17,55 pa. code § 3140.17,Regulation,state_regulation,PA,2,2,1,2008,2008,true,exact
 55 Pa. Code § 3140.202.6,55 pa. code § 3140.202.6,Regulation,state_regulation,PA,2,2,1,2016,2016,false,unresolved
 55 Pa. Code § 3140.206,55 pa. code § 3140.206,Regulation,state_regulation,PA,2,1,1,2000,2000,true,exact
 55 Pa. Code § 3160.62,55 pa. code § 3160.62,Regulation,state_regulation,PA,2,1,1,2024,2024,false,unresolved
@@ -2712,7 +2710,6 @@ CMRS. 66 Pa. C.S. § 102,cmrs. 66 pa. c.s. § 102,Regulation,state_regulation,PA
 CONFERENCE. C.C.R.C,conference. c.c.r.c,Regulation,state_regulation,PA,2,1,1,2021,2021,false,unresolved
 DCA. 1 Pa. Code § 31.1,dca. 1 pa. code § 31.1,Regulation,state_regulation,PA,2,2,1,1987,1987,true,exact
 DHS. 55 Pa. Code § 3800.11,dhs. 55 pa. code § 3800.11,Regulation,state_regulation,PA,2,2,1,2020,2021,true,exact
-ECF No. 32. Title 246 Pa. Code § 1004,ecf no. 32. title 246 pa. code § 1004,Regulation,state_regulation,PA,2,2,1,2022,2022,false,unresolved
 "EO 2015-05, 4 Pa. Code § 7a.111","eo 2015-05, 4 pa. code § 7a.111",Regulation,state_regulation,PA,2,1,1,2021,2021,false,unresolved
 GIEP. 22 Pa. Code § 16.23,giep. 22 pa. code § 16.23,Regulation,state_regulation,PA,2,2,2,2017,2020,true,exact
 "MCC Regulations, 34 Pa. Code § 127.151","mcc regulations, 34 pa. code § 127.151",Regulation,state_regulation,PA,2,1,1,2025,2025,false,unresolved
@@ -2766,6 +2763,7 @@ Pennsylvania Bulletin. 34 Pa. Code § 127.152,pennsylvania bulletin. 34 pa. code
 RTKL. 34 Pa. Code § 403.85,rtkl. 34 pa. code § 403.85,Regulation,state_regulation,PA,2,1,1,2021,2021,true,exact
 SCI. 37 Pa. Code § 71.5,sci. 37 pa. code § 71.5,Regulation,state_regulation,PA,2,2,1,2017,2018,true,exact
 "Title 22 of the Pennsylvania Code, 22 Pa. Code § 16.63","title 22 of the pennsylvania code, 22 pa. code § 16.63",Regulation,state_regulation,PA,2,2,1,2017,2017,false,unresolved
+Title 246 Pa. Code § 1004,title 246 pa. code § 1004,Regulation,state_regulation,PA,2,2,1,2022,2022,true,exact
 Title 31 Pa. Code § 66.1-110,title 31 pa. code § 66.1-110,Regulation,state_regulation,PA,2,2,1,1980,1980,false,unresolved
 Title 37 Pa. Code § 95.103,title 37 pa. code § 95.103,Regulation,state_regulation,PA,2,2,1,1983,1983,false,unresolved
 Title 37 Pa. Code § 95.104,title 37 pa. code § 95.104,Regulation,state_regulation,PA,2,2,1,1983,1983,false,unresolved
@@ -2773,7 +2771,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 "WCJ Rules, 34 Pa. Code § 131.36","wcj rules, 34 pa. code § 131.36",Regulation,state_regulation,PA,2,1,1,2025,2025,false,unresolved
 1 Den. C.C.R. 559,1 den. c.c.r. 559,Regulation,state_regulation,PA,1,1,1,1853,1853,false,unresolved
 1 Denn. C.C.R. 69,1 denn. c.c.r. 69,Regulation,state_regulation,PA,1,1,1,1888,1888,false,unresolved
-1 M.J. 714 (A.F. C.M.R. 1975,1 m.j. 714 (a.f. c.m.r. 1975,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 1 P. C.C.R. 373,1 p. c.c.r. 373,Regulation,state_regulation,PA,1,1,1,1853,1853,false,unresolved
 1 Pa. Code (Code) § 31.1,1 pa. code (code) § 31.1,Regulation,state_regulation,PA,1,1,1,1988,1988,false,unresolved
 1 Pa. Code (Code) § 35.251,1 pa. code (code) § 35.251,Regulation,state_regulation,PA,1,1,1,1988,1988,false,unresolved
@@ -2862,7 +2859,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 10 Pa. Code § 59.1,10 pa. code § 59.1,Regulation,state_regulation,PA,1,1,1,2026,2026,true,exact
 10 Pa. Code § 59.8,10 pa. code § 59.8,Regulation,state_regulation,PA,1,1,1,2026,2026,true,exact
 10 Pa. Code § 7.1,10 pa. code § 7.1,Regulation,state_regulation,PA,1,1,1,1984,1984,true,exact
-1009 (1981). 55 Pa. Code § 177.23,1009 (1981). 55 pa. code § 177.23,Regulation,state_regulation,PA,1,1,1,1983,1983,false,unresolved
 101 Pa. Code § 1.1,101 pa. code § 1.1,Regulation,state_regulation,PA,1,1,1,2017,2017,false,unresolved
 101 Pa. Code § 101.363,101 pa. code § 101.363,Regulation,state_regulation,PA,1,1,1,2015,2015,false,unresolved
 101 Pa. Code § 11.5,101 pa. code § 11.5,Regulation,state_regulation,PA,1,1,1,2015,2015,true,exact
@@ -2893,7 +2889,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 "13 Pa. B. 2402 (1983), 55 Pa. Code § 1181.854","13 pa. b. 2402 (1983), 55 pa. code § 1181.854",Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 13 Pa. Code § 51.1,13 pa. code § 51.1,Regulation,state_regulation,PA,1,1,1,1981,1981,false,unresolved
 13 Pa. Code § 51.11,13 pa. code § 51.11,Regulation,state_regulation,PA,1,1,1,1981,1981,true,exact
-1324 (1980). 37 Pa. Code § 75.2,1324 (1980). 37 pa. code § 75.2,Regulation,state_regulation,PA,1,1,1,1983,1983,false,unresolved
 15 C.C.R.C,15 c.c.r.c,Regulation,state_regulation,PA,1,1,1,2015,2015,false,unresolved
 16 Pa. Code 44,16 pa. code 44,Regulation,state_regulation,PA,1,1,1,1997,1997,false,unresolved
 16 Pa. Code § 12301,16 pa. code § 12301,Regulation,state_regulation,PA,1,1,1,2024,2024,true,exact
@@ -2924,7 +2919,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 16 Pa. Code § 47.73,16 pa. code § 47.73,Regulation,state_regulation,PA,1,1,1,2017,2017,true,exact
 16 Pa. Code § 49.1,16 pa. code § 49.1,Regulation,state_regulation,PA,1,1,1,2024,2024,true,exact
 16 Pa. Code § 4a,16 pa. code § 4a,Regulation,state_regulation,PA,1,1,1,2018,2018,false,unresolved
-165 (1955). 34 Pa. Code § 101.104,165 (1955). 34 pa. code § 101.104,Regulation,state_regulation,PA,1,1,1,1980,1980,false,unresolved
 18 Pa. Code 3503,18 pa. code 3503,Regulation,state_regulation,PA,1,1,1,2018,2018,true,exact
 18 Pa. Code § 3934,18 pa. code § 3934,Regulation,state_regulation,PA,1,1,1,2020,2020,true,exact
 18 Pa. Code § 5503,18 pa. code § 5503,Regulation,state_regulation,PA,1,1,1,2020,2020,true,exact
@@ -3686,8 +3680,8 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 28 Pa.Admin. Code § 103.4,28 pa.admin. code § 103.4,Regulation,state_regulation,PA,1,1,1,1987,1987,true,exact
 28 Pa.Admin. Code § 107.11,28 pa.admin. code § 107.11,Regulation,state_regulation,PA,1,1,1,1987,1987,true,exact
 28 Pa.Admin.Code § 101.51,28 pa.admin.code § 101.51,Regulation,state_regulation,PA,1,1,1,1986,1986,true,exact
-28 Pa.Admin.Code § 107.-2,28 pa.admin.code § 107.-2,Regulation,state_regulation,PA,1,1,1,1986,1986,false,unresolved
 28 Pa.Admin.Code § 107.1,28 pa.admin.code § 107.1,Regulation,state_regulation,PA,1,1,1,1986,1986,true,exact
+28 Pa.Admin.Code § 107.2,28 pa.admin.code § 107.2,Regulation,state_regulation,PA,1,1,1,1986,1986,true,exact
 "28 Regulations, 34 Pa. Code § 127.401","28 regulations, 34 pa. code § 127.401",Regulation,state_regulation,PA,1,1,1,2023,2023,false,unresolved
 "292 (Purdon 1962), and 37 Pa.Admin.Code § 161.12","292 (purdon 1962), and 37 pa.admin.code § 161.12",Regulation,state_regulation,PA,1,1,1,1982,1982,false,unresolved
 3 Pa. Code § 123.102,3 pa. code § 123.102,Regulation,state_regulation,PA,1,1,1,2016,2016,false,unresolved
@@ -3700,7 +3694,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 3 W. C.C.R. 31,3 w. c.c.r. 31,Regulation,state_regulation,PA,1,1,1,1850,1850,false,unresolved
 3 W. C.C.R. 475,3 w. c.c.r. 475,Regulation,state_regulation,PA,1,1,1,1855,1855,false,unresolved
 3 W. C.C.R. 560,3 w. c.c.r. 560,Regulation,state_regulation,PA,1,1,1,1860,1860,false,unresolved
-30 Luz.L.Reg. 173 (1984). 18 Pa.C.S. § 509,30 luz.l.reg. 173 (1984). 18 pa.c.s. § 509,Regulation,state_regulation,PA,1,1,1,1991,1991,false,unresolved
 "30 Pa. Code, 58.1-.3","30 pa. code, 58.1-.3",Regulation,state_regulation,PA,1,1,1,1974,1974,false,unresolved
 30 TAC § 117.106,30 tac § 117.106,Regulation,state_regulation,PA,1,1,1,2007,2007,false,unresolved
 302 Pa. Code § 1.12-1201,302 pa. code § 1.12-1201,Regulation,state_regulation,PA,1,1,1,2003,2003,false,unresolved
@@ -4073,7 +4066,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 351 Pa. Code. § 6.6-100,351 pa. code. § 6.6-100,Regulation,state_regulation,PA,1,1,1,2015,2015,false,unresolved
 351 Pa.Admin.Code § 2.2-300,351 pa.admin.code § 2.2-300,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 "354 (1981), 34 Pa. Code § 101.21","354 (1981), 34 pa. code § 101.21",Regulation,state_regulation,PA,1,1,1,1983,1983,false,unresolved
-355 (1981). 34 Pa. Code § 101.21,355 (1981). 34 pa. code § 101.21,Regulation,state_regulation,PA,1,1,1,1982,1982,false,unresolved
 37 Pa. Admin. Code § 111.1,37 pa. admin. code § 111.1,Regulation,state_regulation,PA,1,1,1,1983,1983,true,exact
 37 Pa. Admin. Code § 93.11,37 pa. admin. code § 93.11,Regulation,state_regulation,PA,1,1,1,2013,2013,true,exact
 37 Pa. Admin.Code § 93.10,37 pa. admin.code § 93.10,Regulation,state_regulation,PA,1,1,1,1985,1985,true,exact
@@ -4166,7 +4158,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 37 Pa. Code § 75.2.4,37 pa. code § 75.2.4,Regulation,state_regulation,PA,1,1,1,2016,2016,false,unresolved
 37 Pa. Code § 75.2.5,37 pa. code § 75.2.5,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
 37 Pa. Code § 75.2.8,37 pa. code § 75.2.8,Regulation,state_regulation,PA,1,1,1,2019,2019,false,unresolved
-37 Pa. Code § 75.l,37 pa. code § 75.l,Regulation,state_regulation,PA,1,1,1,2026,2026,false,unresolved
 37 Pa. Code § 77.2,37 pa. code § 77.2,Regulation,state_regulation,PA,1,1,1,2020,2020,true,exact
 37 Pa. Code § 802.21,37 pa. code § 802.21,Regulation,state_regulation,PA,1,1,1,2024,2024,true,exact
 37 Pa. Code § 81.202,37 pa. code § 81.202,Regulation,state_regulation,PA,1,1,1,2021,2021,true,exact
@@ -4218,7 +4209,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 37 Pa. Code. § 71.2,37 pa. code. § 71.2,Regulation,state_regulation,PA,1,1,1,1978,1978,true,exact
 37 Pa. Code. § 71.3,37 pa. code. § 71.3,Regulation,state_regulation,PA,1,1,1,2022,2022,true,exact
 37 Pa. Code. § 71.5,37 pa. code. § 71.5,Regulation,state_regulation,PA,1,1,1,1988,1988,true,exact
-37 Pa. Code. § 73.l,37 pa. code. § 73.l,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
 37 Pa. Code. § 95.230,37 pa. code. § 95.230,Regulation,state_regulation,PA,1,1,1,2020,2020,true,exact
 37 Pa.Admin. Code § 95.104,37 pa.admin. code § 95.104,Regulation,state_regulation,PA,1,1,1,1985,1985,false,unresolved
 37 Pa.Admin.Code § 93.10,37 pa.admin.code § 93.10,Regulation,state_regulation,PA,1,1,1,1985,1985,true,exact
@@ -4294,8 +4284,8 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 4 Pa. Code § 7.28,4 pa. code § 7.28,Regulation,state_regulation,PA,1,1,1,1981,1981,true,exact
 4 Pa. Code § 7.31,4 pa. code § 7.31,Regulation,state_regulation,PA,1,1,1,1981,1981,true,exact
 4 Pa. Code § 7.505,4 pa. code § 7.505,Regulation,state_regulation,PA,1,1,1,2015,2015,true,exact
+4 Pa. Code § 7a.111,4 pa. code § 7a.111,Regulation,state_regulation,PA,1,1,1,2016,2016,true,exact
 4 Pa. Code § 7a.111-7a.117,4 pa. code § 7a.111-7a.117,Regulation,state_regulation,PA,1,1,1,2021,2021,false,unresolved
-4 Pa. Code § 7a.lll,4 pa. code § 7a.lll,Regulation,state_regulation,PA,1,1,1,2016,2016,false,unresolved
 4 Pa. Code § 803,4 pa. code § 803,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 4 Pa. Code § 89.5.9,4 pa. code § 89.5.9,Regulation,state_regulation,PA,1,1,1,2022,2022,false,unresolved
 4 Pa. Code § 9,4 pa. code § 9,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
@@ -4377,7 +4367,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 43 Pa. Code § 5.24,43 pa. code § 5.24,Regulation,state_regulation,PA,1,1,1,2019,2019,true,exact
 436 (Pa. 1992). 13 (GRAPP). 1 Pa. Code § 31.1,436 (pa. 1992). 13 (grapp). 1 pa. code § 31.1,Regulation,state_regulation,PA,1,1,1,2019,2019,false,unresolved
 436 (Pa. 1992). 13 (GRAPP). 1 Pa. Code § 35.251,436 (pa. 1992). 13 (grapp). 1 pa. code § 35.251,Regulation,state_regulation,PA,1,1,1,2019,2019,false,unresolved
-438 (1986). 37 Pa. Code § 71.4,438 (1986). 37 pa. code § 71.4,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 44 Pa. Code § 101,44 pa. code § 101,Regulation,state_regulation,PA,1,1,1,2025,2025,false,unresolved
 44 Pa. Code § 102,44 pa. code § 102,Regulation,state_regulation,PA,1,1,1,2025,2025,false,unresolved
 46 Pa. Code § 15.59,46 pa. code § 15.59,Regulation,state_regulation,PA,1,1,1,2020,2020,true,exact
@@ -4486,8 +4475,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 5 Pa. Code § 75.22,5 pa. code § 75.22,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
 5 Pa. Code § 75.24,5 pa. code § 75.24,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
 50 Pa. Code § 302,50 pa. code § 302,Regulation,state_regulation,PA,1,1,1,2022,2022,false,unresolved
-509 (1987). 4 Pa. Code § 7.161,509 (1987). 4 pa. code § 7.161,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
-509 (1987). 4 Pa. Code § 7.164,509 (1987). 4 pa. code § 7.164,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 51 Pa. Code § 12.12-401,51 pa. code § 12.12-401,Regulation,state_regulation,PA,1,1,1,1984,1984,false,unresolved
 51 Pa. Code § 2.14,51 pa. code § 2.14,Regulation,state_regulation,PA,1,1,1,1986,1986,true,exact
 51 Pa. Code § 2.31,51 pa. code § 2.31,Regulation,state_regulation,PA,1,1,1,1982,1982,false,unresolved
@@ -4678,7 +4665,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 52 Pa.Admin. Code § 56.152,52 pa.admin. code § 56.152,Regulation,state_regulation,PA,1,1,1,1984,1984,true,exact
 52 Pa.Admin. Code § 62.163,52 pa.admin. code § 62.163,Regulation,state_regulation,PA,1,1,1,1984,1984,false,unresolved
 52 Pa.Admin.Code § 56.141,52 pa.admin.code § 56.141,Regulation,state_regulation,PA,1,1,1,1984,1984,true,exact
-52 Pa.Admin.Code § 56.97,52 pa.admin.code § 56.97,Regulation,state_regulation,PA,1,1,1,1984,1984,true,exact
 525 Pa. Code § 245.41,525 pa. code § 245.41,Regulation,state_regulation,PA,1,1,1,2023,2023,false,unresolved
 525 Pa. Code § 245.42,525 pa. code § 245.42,Regulation,state_regulation,PA,1,1,1,2023,2023,false,unresolved
 53 Pa. Code § 1021.2,53 pa. code § 1021.2,Regulation,state_regulation,PA,1,1,1,2018,2018,false,unresolved
@@ -5091,8 +5077,8 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 58 Pa. Code § 31.14,58 pa. code § 31.14,Regulation,state_regulation,PA,1,1,1,1987,1987,false,unresolved
 58 Pa. Code § 318,58 pa. code § 318,Regulation,state_regulation,PA,1,1,1,1988,1988,false,unresolved
 58 Pa. Code § 401a,58 pa. code § 401a,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
-58 Pa. Code § 403a.l,58 pa. code § 403a.l,Regulation,state_regulation,PA,1,1,1,2017,2017,false,unresolved
-58 Pa. Code § 441a.l,58 pa. code § 441a.l,Regulation,state_regulation,PA,1,1,1,2011,2011,false,unresolved
+58 Pa. Code § 403a.1,58 pa. code § 403a.1,Regulation,state_regulation,PA,1,1,1,2017,2017,true,exact
+58 Pa. Code § 441a.1,58 pa. code § 441a.1,Regulation,state_regulation,PA,1,1,1,2011,2011,true,exact
 58 Pa. Code § 461a,58 pa. code § 461a,Regulation,state_regulation,PA,1,1,1,2013,2013,false,unresolved
 58 Pa. Code § 493a,58 pa. code § 493a,Regulation,state_regulation,PA,1,1,1,2023,2023,false,unresolved
 58 Pa. Code § 51.1,58 pa. code § 51.1,Regulation,state_regulation,PA,1,1,1,2024,2024,true,exact
@@ -5379,7 +5365,6 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 75 Pa. Code § 75.4,75 pa. code § 75.4,Regulation,state_regulation,PA,1,1,1,2011,2011,false,unresolved
 75 Pa. Code § 83.4,75 pa. code § 83.4,Regulation,state_regulation,PA,1,1,1,1983,1983,false,unresolved
 768 (1975). 6 67 Pa. Code § 77.24,768 (1975). 6 67 pa. code § 77.24,Regulation,state_regulation,PA,1,1,1,1988,1988,false,unresolved
-77 (1979). 55 Pa. Code § 201.1,77 (1979). 55 pa. code § 201.1,Regulation,state_regulation,PA,1,1,1,1981,1981,false,unresolved
 77 Pa. Code § 77.242,77 pa. code § 77.242,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
 "78a Regulations, 25 Pa. Code § 78a","78a regulations, 25 pa. code § 78a",Regulation,state_regulation,PA,1,1,1,2018,2018,false,unresolved
 "8 Dist. R. 395, 22 Pa. C.C.R. 499","8 dist. r. 395, 22 pa. c.c.r. 499",Regulation,state_regulation,PA,1,1,1,1925,1925,false,unresolved
@@ -5389,10 +5374,8 @@ Title 37 Pa. Code § 95.107,title 37 pa. code § 95.107,Regulation,state_regulat
 84 Pa. Code § 127.452,84 pa. code § 127.452,Regulation,state_regulation,PA,1,1,1,1999,1999,false,unresolved
 87 Pa. Code § 71.4,87 pa. code § 71.4,Regulation,state_regulation,PA,1,1,1,1979,1979,false,unresolved
 87 Pa. Code § 71.5,87 pa. code § 71.5,Regulation,state_regulation,PA,1,1,1,1985,1985,false,unresolved
-886 (1976). 34 Pa. Code § 121.15,886 (1976). 34 pa. code § 121.15,Regulation,state_regulation,PA,1,1,1,1983,1983,false,unresolved
 9 (3d Cir. 1982). 51 Pa. Code § 1.1,9 (3d cir. 1982). 51 pa. code § 1.1,Regulation,state_regulation,PA,1,1,1,1984,1984,false,unresolved
 9 Pa. Code § 95.98,9 pa. code § 95.98,Regulation,state_regulation,PA,1,1,1,2017,2017,false,unresolved
-917 (1987). 31 Pa. Code § 59.9,917 (1987). 31 pa. code § 59.9,Regulation,state_regulation,PA,1,1,1,1988,1988,false,unresolved
 97 Pa. Code § 93.10,97 pa. code § 93.10,Regulation,state_regulation,PA,1,1,1,2011,2011,false,unresolved
 AAL. 1 Pa. Code § 31.1,aal. 1 pa. code § 31.1,Regulation,state_regulation,PA,1,1,1,2016,2016,true,exact
 ADM 801 and 37 Pa. Code § 93.10,adm 801 and 37 pa. code § 93.10,Regulation,state_regulation,PA,1,1,1,2022,2022,false,unresolved
@@ -5544,6 +5527,7 @@ Pa. Code of Judicial Conduct Rule 2.8,pa. code of judicial conduct rule 2.8,Regu
 "Pa. Code of Judicial Conduct, Rule 2.11","pa. code of judicial conduct, rule 2.11",Regulation,state_regulation,PA,1,1,1,2017,2017,false,unresolved
 "Pa. Code of Judicial Conduct, Rule 2.3","pa. code of judicial conduct, rule 2.3",Regulation,state_regulation,PA,1,1,1,2017,2017,false,unresolved
 Pa. Code tit. 55 § 231.24,pa. code tit. 55 § 231.24,Regulation,state_regulation,PA,1,1,1,1980,1980,false,unresolved
+Pa. Code § 1-101,pa. code § 1-101,Regulation,state_regulation,PA,1,1,1,2025,2025,true,exact
 Pa. Code § 1.1-100-12.12-503,pa. code § 1.1-100-12.12-503,Regulation,state_regulation,PA,1,1,1,1999,1999,false,unresolved
 Pa. Code § 10-611,pa. code § 10-611,Regulation,state_regulation,PA,1,1,1,2024,2024,false,unresolved
 Pa. Code § 10-821b,pa. code § 10-821b,Regulation,state_regulation,PA,1,1,1,2018,2018,false,unresolved
@@ -5686,7 +5670,7 @@ Pennsylvania Supreme Court. 37 Pa. Code § 73.1,pennsylvania supreme court. 37 p
 Pennsylvania Turnpike. 67 Pa. Code § 445.4,pennsylvania turnpike. 67 pa. code § 445.4,Regulation,state_regulation,PA,1,1,1,2021,2021,false,unresolved
 "Pennsylvania, 25 Pa. Code § 75.263","pennsylvania, 25 pa. code § 75.263",Regulation,state_regulation,PA,1,1,1,1985,1985,false,unresolved
 R. 22. 37 Pa. Code § 63.5,r. 22. 37 pa. code § 63.5,Regulation,state_regulation,PA,1,1,1,1986,1986,false,unresolved
-RCRA. 25 Pa. Code § 261a.l,rcra. 25 pa. code § 261a.l,Regulation,state_regulation,PA,1,1,1,2009,2009,false,unresolved
+RCRA. 25 Pa. Code § 261a.1,rcra. 25 pa. code § 261a.1,Regulation,state_regulation,PA,1,1,1,2009,2009,true,exact
 RFEL. 204 Pa. Code § 303.4,rfel. 204 pa. code § 303.4,Regulation,state_regulation,PA,1,1,1,2015,2015,true,exact
 RRRI. 37 Pa. Code § 96.1,rrri. 37 pa. code § 96.1,Regulation,state_regulation,PA,1,1,1,2019,2019,true,exact
 RTKL. 52 Pa. Code § 102.3,rtkl. 52 pa. code § 102.3,Regulation,state_regulation,PA,1,1,1,2023,2023,true,exact
@@ -5749,4 +5733,3 @@ USMLE. 49 Pa. Code § 27,usmle. 49 pa. code § 27,Regulation,state_regulation,PA
 WCJ. 34 Pa. Code § 127.556,wcj. 34 pa. code § 127.556,Regulation,state_regulation,PA,1,1,1,2019,2019,true,exact
 WIC Program. (28 Pa. Code § 1107.1a,wic program. (28 pa. code § 1107.1a,Regulation,state_regulation,PA,1,1,1,2020,2020,false,unresolved
 Welfare Code (Code) 1 and 55 Pa. Code § 26.20,welfare code (code) 1 and 55 pa. code § 26.20,Regulation,state_regulation,PA,1,1,1,1989,1989,false,unresolved
-X. 67 Pa. Code § 175.67,x. 67 pa. code § 175.67,Regulation,state_regulation,PA,1,1,1,2016,2016,false,unresolved

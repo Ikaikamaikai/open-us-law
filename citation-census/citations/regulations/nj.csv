@@ -1,13 +1,13 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
-N.J.A.C. 4A:2-2.3,n.j.a.c. 4a:2-2.3,Regulation,state_regulation,NJ,591,183,4,1989,2026,true,exact
-N.J.A.C. 10A:4-4.1,n.j.a.c. 10a:4-4.1,Regulation,state_regulation,NJ,558,269,4,1987,2026,true,exact
-N.J.A.C. 10A:71-3.11,n.j.a.c. 10a:71-3.11,Regulation,state_regulation,NJ,335,106,4,1982,2026,true,exact
+N.J.A.C. 4A:2-2.3,n.j.a.c. 4a:2-2.3,Regulation,state_regulation,NJ,593,183,4,1989,2026,true,exact
+N.J.A.C. 10A:4-4.1,n.j.a.c. 10a:4-4.1,Regulation,state_regulation,NJ,560,269,4,1987,2026,true,exact
+N.J.A.C. 10A:71-3.11,n.j.a.c. 10a:71-3.11,Regulation,state_regulation,NJ,337,106,4,1982,2026,true,exact
 N.J.A.C. 10A:71-3.21,n.j.a.c. 10a:71-3.21,Regulation,state_regulation,NJ,249,91,3,1990,2026,true,exact
 N.J.A.C. 5:96,n.j.a.c. 5:96,Regulation,state_regulation,NJ,224,94,3,2010,2026,false,unresolved
 N.J.A.C. 10:71-4.10,n.j.a.c. 10:71-4.10,Regulation,state_regulation,NJ,218,42,3,2001,2025,true,exact
-N.J.A.C. 3A:10-7.3,n.j.a.c. 3a:10-7.3,Regulation,state_regulation,NJ,189,51,2,2017,2026,true,exact
-N.J.A.C. 12:17-9.1,n.j.a.c. 12:17-9.1,Regulation,state_regulation,NJ,178,80,2,1979,2026,true,exact
-N.J.A.C. 10A:4-9.15,n.j.a.c. 10a:4-9.15,Regulation,state_regulation,NJ,171,130,3,1987,2026,true,exact
+N.J.A.C. 12:17-9.1,n.j.a.c. 12:17-9.1,Regulation,state_regulation,NJ,191,80,2,1979,2026,true,exact
+N.J.A.C. 3A:10-7.3,n.j.a.c. 3a:10-7.3,Regulation,state_regulation,NJ,190,51,2,2017,2026,true,exact
+N.J.A.C. 10A:4-9.15,n.j.a.c. 10a:4-9.15,Regulation,state_regulation,NJ,176,130,3,1987,2026,true,exact
 N.J.A.C. 10A:71-6.11,n.j.a.c. 10a:71-6.11,Regulation,state_regulation,NJ,165,31,2,2003,2025,true,exact
 N.J.A.C. 18:12A-1.14,n.j.a.c. 18:12a-1.14,Regulation,state_regulation,NJ,164,29,3,2001,2026,true,exact
 N.J.A.C. 6A:32-7.5,n.j.a.c. 6a:32-7.5,Regulation,state_regulation,NJ,138,14,2,2011,2026,true,exact
@@ -20,55 +20,55 @@ N.J.A.C. 6A:32-2.1,n.j.a.c. 6a:32-2.1,Regulation,state_regulation,NJ,110,8,2,201
 N.J.A.C. 18:12-1.1,n.j.a.c. 18:12-1.1,Regulation,state_regulation,NJ,108,42,4,1980,2026,true,exact
 N.J.A.C. 5:94,n.j.a.c. 5:94,Regulation,state_regulation,NJ,108,28,3,2004,2024,false,unresolved
 N.J.A.C. 10:71-2.2,n.j.a.c. 10:71-2.2,Regulation,state_regulation,NJ,107,33,1,2002,2026,true,exact
+N.J.A.C. 12:17-9.3,n.j.a.c. 12:17-9.3,Regulation,state_regulation,NJ,107,35,2,2008,2026,true,exact
+N.J.A.C. 13:13-2.5,n.j.a.c. 13:13-2.5,Regulation,state_regulation,NJ,107,45,3,1991,2025,true,exact
 N.J.A.C. 1:1-12.5,n.j.a.c. 1:1-12.5,Regulation,state_regulation,NJ,107,76,2,1988,2025,true,exact
-N.J.A.C. 13:13-2.5,n.j.a.c. 13:13-2.5,Regulation,state_regulation,NJ,106,45,3,1991,2025,true,exact
-N.J.A.C. 12:17-9.3,n.j.a.c. 12:17-9.3,Regulation,state_regulation,NJ,105,35,2,2008,2026,true,exact
 N.J.A.C. 5:80-26.18,n.j.a.c. 5:80-26.18,Regulation,state_regulation,NJ,100,4,2,2010,2012,true,exact
 N.J.A.C. 6A:11-2.6,n.j.a.c. 6a:11-2.6,Regulation,state_regulation,NJ,96,12,2,2014,2024,true,exact
 N.J.A.C. 4A:7-3.1,n.j.a.c. 4a:7-3.1,Regulation,state_regulation,NJ,89,13,3,2010,2025,true,exact
 N.J.A.C. 6A:14-2.7,n.j.a.c. 6a:14-2.7,Regulation,state_regulation,NJ,88,31,3,1998,2025,true,exact
-N.J.A.C. 10A:4-9.13,n.j.a.c. 10a:4-9.13,Regulation,state_regulation,NJ,85,54,2,1995,2026,true,exact
+N.J.A.C. 10A:4-9.13,n.j.a.c. 10a:4-9.13,Regulation,state_regulation,NJ,86,54,2,1995,2026,true,exact
 N.J.A.C. 7:7-16.9,n.j.a.c. 7:7-16.9,Regulation,state_regulation,NJ,85,19,3,2015,2026,true,exact
 N.J.A.C. 7:26B,n.j.a.c. 7:26b,Regulation,state_regulation,NJ,84,66,5,1991,2026,true,container
 N.J.A.C. 10A:4-9.14,n.j.a.c. 10a:4-9.14,Regulation,state_regulation,NJ,78,47,3,1987,2026,true,exact
 N.J.A.C. 6:24-1.2,n.j.a.c. 6:24-1.2,Regulation,state_regulation,NJ,77,19,4,1980,2006,false,unresolved
 N.J.A.C. 11:3-5.6,n.j.a.c. 11:3-5.6,Regulation,state_regulation,NJ,76,19,1,1999,2025,true,exact
+N.J.A.C. 10A:3-7.1,n.j.a.c. 10a:3-7.1,Regulation,state_regulation,NJ,72,35,2,1993,2023,true,exact
 N.J.A.C. 4A:2-2.12,n.j.a.c. 4a:2-2.12,Regulation,state_regulation,NJ,72,13,2,1998,2026,true,exact
-N.J.A.C. 10A:3-7.1,n.j.a.c. 10a:3-7.1,Regulation,state_regulation,NJ,71,35,2,1993,2023,true,exact
 N.J.A.C. 11:3-29.4,n.j.a.c. 11:3-29.4,Regulation,state_regulation,NJ,71,20,3,1991,2024,true,exact
 N.J.A.C. 10:71-5.7,n.j.a.c. 10:71-5.7,Regulation,state_regulation,NJ,68,12,5,1997,2018,true,exact
 N.J.A.C. 4A:2-2.10,n.j.a.c. 4a:2-2.10,Regulation,state_regulation,NJ,68,13,2,1992,2025,true,exact
 N.J.A.C. 4A:4-4.8,n.j.a.c. 4a:4-4.8,Regulation,state_regulation,NJ,66,26,4,1990,2025,true,exact
 N.J.A.C. 7:27-5.2,n.j.a.c. 7:27-5.2,Regulation,state_regulation,NJ,66,4,2,1998,2014,true,exact
 N.J.A.C. 12:17-2.1,n.j.a.c. 12:17-2.1,Regulation,state_regulation,NJ,65,23,2,1975,2024,true,exact
+N.J.A.C. 13:1E-3.2,n.j.a.c. 13:1e-3.2,Regulation,state_regulation,NJ,65,9,2,2010,2026,true,exact
 N.J.A.C. 17:4-4.1,n.j.a.c. 17:4-4.1,Regulation,state_regulation,NJ,65,9,2,1998,2025,true,exact
 N.J.A.C. 1:1,n.j.a.c. 1:1,Regulation,state_regulation,NJ,65,38,4,1981,2026,true,container
-N.J.A.C. 13:1E-3.2,n.j.a.c. 13:1e-3.2,Regulation,state_regulation,NJ,64,9,2,2010,2026,true,exact
+N.J.A.C. 1:1-15.5,n.j.a.c. 1:1-15.5,Regulation,state_regulation,NJ,64,42,2,1985,2026,true,exact
 N.J.A.C. 11:5-6.2,n.j.a.c. 11:5-6.2,Regulation,state_regulation,NJ,63,11,2,1999,2022,true,exact
 N.J.A.C. 18:7-5.18,n.j.a.c. 18:7-5.18,Regulation,state_regulation,NJ,63,5,2,2017,2025,true,exact
-N.J.A.C. 1:1-15.5,n.j.a.c. 1:1-15.5,Regulation,state_regulation,NJ,63,42,2,1985,2026,true,exact
 N.J.A.C. 7:26B-1.9,n.j.a.c. 7:26b-1.9,Regulation,state_regulation,NJ,62,3,1,1991,1992,true,exact
 N.J.A.C. 13:35-6.5,n.j.a.c. 13:35-6.5,Regulation,state_regulation,NJ,61,26,2,1989,2025,true,exact
 N.J.A.C. 4A:3-3.2A.,n.j.a.c. 4a:3-3.2a,Regulation,state_regulation,NJ,59,4,2,2015,2018,true,exact
+N.J.A.C. 4A:4-6.1,n.j.a.c. 4a:4-6.1,Regulation,state_regulation,NJ,59,24,3,1990,2025,true,exact
 N.J.A.C. 10:71-4.4,n.j.a.c. 10:71-4.4,Regulation,state_regulation,NJ,58,23,2,1993,2025,true,exact
 N.J.A.C. 11:3-4,n.j.a.c. 11:3-4,Regulation,state_regulation,NJ,58,9,2,1999,2019,true,container
-N.J.A.C. 4A:4-6.1,n.j.a.c. 4a:4-6.1,Regulation,state_regulation,NJ,58,24,3,1990,2025,true,exact
 N.J.A.C. 18:12-2.2,n.j.a.c. 18:12-2.2,Regulation,state_regulation,NJ,57,29,2,1996,2026,true,exact
 N.J.A.C. 18:35-7.1,n.j.a.c. 18:35-7.1,Regulation,state_regulation,NJ,57,3,1,2026,2026,true,exact
 N.J.A.C. 6A:11-2.3,n.j.a.c. 6a:11-2.3,Regulation,state_regulation,NJ,57,11,2,2004,2024,true,exact
 N.J.A.C. 7:1B-1.1,n.j.a.c. 7:1b-1.1,Regulation,state_regulation,NJ,57,45,3,2013,2026,false,unresolved
+N.J.A.C. 10A:71-3.2,n.j.a.c. 10a:71-3.2,Regulation,state_regulation,NJ,56,30,2,1984,2025,true,exact
 N.J.A.C. 17:19-2.13,n.j.a.c. 17:19-2.13,Regulation,state_regulation,NJ,56,7,1,2003,2025,true,exact
-N.J.A.C. 10A:71-3.2,n.j.a.c. 10a:71-3.2,Regulation,state_regulation,NJ,55,30,2,1984,2025,true,exact
 N.J.A.C. 8:43E-10.4,n.j.a.c. 8:43e-10.4,Regulation,state_regulation,NJ,55,8,3,2012,2024,true,exact
 N.J.A.C. 10A:1-2.2,n.j.a.c. 10a:1-2.2,Regulation,state_regulation,NJ,54,26,2,2002,2024,true,exact
 N.J.A.C. 10A:2-6.1,n.j.a.c. 10a:2-6.1,Regulation,state_regulation,NJ,53,14,1,2008,2026,true,exact
 N.J.A.C. 10A:71-6.12,n.j.a.c. 10a:71-6.12,Regulation,state_regulation,NJ,53,18,3,2013,2026,true,exact
+N.J.A.C. 13:35-6.16,n.j.a.c. 13:35-6.16,Regulation,state_regulation,NJ,53,17,3,1980,2025,true,exact
 N.J.A.C. 18:12A-1.9,n.j.a.c. 18:12a-1.9,Regulation,state_regulation,NJ,53,23,4,1991,2023,true,exact
 N.J.A.C. 18:26-7.10,n.j.a.c. 18:26-7.10,Regulation,state_regulation,NJ,53,9,3,1974,2014,true,exact
 N.J.A.C. 4:1-8.14,n.j.a.c. 4:1-8.14,Regulation,state_regulation,NJ,53,19,3,1974,2001,false,unresolved
 N.J.A.C. 6A:14,n.j.a.c. 6a:14,Regulation,state_regulation,NJ,53,27,4,2000,2024,true,container
 N.J.A.C. 10:82-1.2,n.j.a.c. 10:82-1.2,Regulation,state_regulation,NJ,52,39,3,1980,2026,false,unresolved
-N.J.A.C. 13:35-6.16,n.j.a.c. 13:35-6.16,Regulation,state_regulation,NJ,52,17,3,1980,2025,true,exact
 N.J.A.C. 1:12-14.4,n.j.a.c. 1:12-14.4,Regulation,state_regulation,NJ,52,5,1,2018,2026,true,exact
 N.J.A.C. 7:7A-2.7,n.j.a.c. 7:7a-2.7,Regulation,state_regulation,NJ,52,11,2,1989,2013,true,exact
 N.J.A.C. 8:31B-3.31,n.j.a.c. 8:31b-3.31,Regulation,state_regulation,NJ,52,39,2,1988,2026,false,unresolved
@@ -81,20 +81,20 @@ N.J.A.C. 5:10-14.3,n.j.a.c. 5:10-14.3,Regulation,state_regulation,NJ,49,3,2,2018
 N.J.A.C. 13:35-4.2,n.j.a.c. 13:35-4.2,Regulation,state_regulation,NJ,48,4,2,1985,2018,true,exact
 N.J.A.C. 13:37-1.3,n.j.a.c. 13:37-1.3,Regulation,state_regulation,NJ,48,1,1,2016,2016,true,exact
 N.J.A.C. 19:16-5.7,n.j.a.c. 19:16-5.7,Regulation,state_regulation,NJ,48,12,2,1981,2014,true,exact
+N.J.A.C. 7:7A-1.4,n.j.a.c. 7:7a-1.4,Regulation,state_regulation,NJ,48,24,2,1989,2025,true,exact
 N.J.A.C. § 6A:14-2.7,n.j.a.c. § 6a:14-2.7,Regulation,state_regulation,NJ,48,12,2,2004,2022,true,exact
+N.J.A.C. 10:52-9.1,n.j.a.c. 10:52-9.1,Regulation,state_regulation,NJ,47,7,1,1994,2006,true,exact
 N.J.A.C. 10A:71-2.2,n.j.a.c. 10a:71-2.2,Regulation,state_regulation,NJ,47,15,2,2017,2026,true,exact
 N.J.A.C. 13:35-2.6,n.j.a.c. 13:35-2.6,Regulation,state_regulation,NJ,47,8,1,1999,2025,true,exact
 N.J.A.C. 13:44E-1.1,n.j.a.c. 13:44e-1.1,Regulation,state_regulation,NJ,47,9,2,1994,2008,true,exact
 N.J.A.C. 14:1-1.2,n.j.a.c. 14:1-1.2,Regulation,state_regulation,NJ,47,7,1,2000,2026,true,exact
-N.J.A.C. 7:7A-1.4,n.j.a.c. 7:7a-1.4,Regulation,state_regulation,NJ,47,24,2,1989,2025,true,exact
+N.J.A.C. 4A:2-1.1,n.j.a.c. 4a:2-1.1,Regulation,state_regulation,NJ,47,29,2,1990,2025,true,exact
 N.J.A.C. 7:7E-5B.6,n.j.a.c. 7:7e-5b.6,Regulation,state_regulation,NJ,47,2,1,2014,2014,false,unresolved
-N.J.A.C. 10:52-9.1,n.j.a.c. 10:52-9.1,Regulation,state_regulation,NJ,46,7,1,1994,2006,true,exact
 N.J.A.C. 10A:4-9.1,n.j.a.c. 10a:4-9.1,Regulation,state_regulation,NJ,46,43,1,2017,2026,true,exact
+N.J.A.C. 10A:71-7.12,n.j.a.c. 10a:71-7.12,Regulation,state_regulation,NJ,46,25,2,2014,2026,true,exact
 N.J.A.C. 1:1-18.8,n.j.a.c. 1:1-18.8,Regulation,state_regulation,NJ,46,19,2,1993,2026,true,exact
-N.J.A.C. 4A:2-1.1,n.j.a.c. 4a:2-1.1,Regulation,state_regulation,NJ,46,29,2,1990,2025,true,exact
 N.J.A.C. 10:72-4.4,n.j.a.c. 10:72-4.4,Regulation,state_regulation,NJ,45,3,2,2020,2021,true,exact
 N.J.A.C. 10A:4,n.j.a.c. 10a:4,Regulation,state_regulation,NJ,45,32,4,1995,2025,true,container
-N.J.A.C. 10A:71-7.12,n.j.a.c. 10a:71-7.12,Regulation,state_regulation,NJ,45,25,2,2014,2026,true,exact
 N.J.A.C. 10A:9-4.5,n.j.a.c. 10a:9-4.5,Regulation,state_regulation,NJ,45,18,1,1987,2025,true,exact
 N.J.A.C. 12:235-3.14,n.j.a.c. 12:235-3.14,Regulation,state_regulation,NJ,45,4,3,2007,2012,true,exact
 N.J.A.C. 18:12-10.1,n.j.a.c. 18:12-10.1,Regulation,state_regulation,NJ,45,18,4,1989,2025,true,exact
@@ -126,6 +126,7 @@ N.J.A.C. 7:7E-3.38,n.j.a.c. 7:7e-3.38,Regulation,state_regulation,NJ,40,3,1,1990
 N.J.A.C. § 6A:14-3.5,n.j.a.c. § 6a:14-3.5,Regulation,state_regulation,NJ,40,4,1,2006,2022,true,exact
 N.J.A.C. 10:81-3.41,n.j.a.c. 10:81-3.41,Regulation,state_regulation,NJ,39,6,2,1980,1988,false,unresolved
 N.J.A.C. 11:3-29,n.j.a.c. 11:3-29,Regulation,state_regulation,NJ,39,17,2,1991,2025,true,container
+N.J.A.C. 12:17-9.6,n.j.a.c. 12:17-9.6,Regulation,state_regulation,NJ,39,8,2,2007,2024,true,exact
 N.J.A.C. 14:18-3.10,n.j.a.c. 14:18-3.10,Regulation,state_regulation,NJ,39,4,2,1986,1988,true,exact
 N.J.A.C. 17:1-17.14,n.j.a.c. 17:1-17.14,Regulation,state_regulation,NJ,39,4,1,2018,2025,true,exact
 N.J.A.C. 17:2-4.1,n.j.a.c. 17:2-4.1,Regulation,state_regulation,NJ,39,10,1,1984,2024,true,exact
@@ -135,9 +136,9 @@ N.J.A.C. 7:26-1.4,n.j.a.c. 7:26-1.4,Regulation,state_regulation,NJ,39,22,4,1975,
 N.J.A.C. 7:26B-1.3,n.j.a.c. 7:26b-1.3,Regulation,state_regulation,NJ,39,7,3,1991,1992,true,exact
 N.J.A.C. 7:7-1.1,n.j.a.c. 7:7-1.1,Regulation,state_regulation,NJ,39,23,2,1985,2025,true,exact
 N.J.A.C. 7:7E-1.1,n.j.a.c. 7:7e-1.1,Regulation,state_regulation,NJ,39,24,3,1981,2014,false,unresolved
-N.J.A.C. 12:17-9.6,n.j.a.c. 12:17-9.6,Regulation,state_regulation,NJ,38,8,2,2007,2024,true,exact
 N.J.A.C. 12:56,n.j.a.c. 12:56,Regulation,state_regulation,NJ,38,2,1,2021,2021,true,container
 N.J.A.C. 13:45A-31.4,n.j.a.c. 13:45a-31.4,Regulation,state_regulation,NJ,38,4,2,2018,2020,true,exact
+N.J.A.C. 13:45A-5.1,n.j.a.c. 13:45a-5.1,Regulation,state_regulation,NJ,38,12,3,1979,2025,true,exact
 N.J.A.C. 16:47,n.j.a.c. 16:47,Regulation,state_regulation,NJ,38,4,2,1990,2023,true,container
 N.J.A.C. 18:7,n.j.a.c. 18:7,Regulation,state_regulation,NJ,38,27,3,1981,2013,true,container
 N.J.A.C. 5:25-5.5,n.j.a.c. 5:25-5.5,Regulation,state_regulation,NJ,38,8,2,1990,2008,true,exact
@@ -146,7 +147,7 @@ N.J.A.C. 7:26B-1.5,n.j.a.c. 7:26b-1.5,Regulation,state_regulation,NJ,38,5,1,1989
 N.J.A.C. § 7:26-6.5,n.j.a.c. § 7:26-6.5,Regulation,state_regulation,NJ,38,3,2,1997,2000,true,exact
 N.J.A.C. 10A:9-3.3,n.j.a.c. 10a:9-3.3,Regulation,state_regulation,NJ,37,13,1,2000,2021,true,exact
 N.J.A.C. 12:16-23.2,n.j.a.c. 12:16-23.2,Regulation,state_regulation,NJ,37,4,1,2021,2025,true,exact
-N.J.A.C. 13:45A-5.1,n.j.a.c. 13:45a-5.1,Regulation,state_regulation,NJ,37,12,3,1979,2025,true,exact
+N.J.A.C. 13:21-15.4,n.j.a.c. 13:21-15.4,Regulation,state_regulation,NJ,37,5,2,2018,2025,true,exact
 N.J.A.C. 17:3-4.1,n.j.a.c. 17:3-4.1,Regulation,state_regulation,NJ,37,6,1,1993,2024,true,exact
 N.J.A.C. 18:7-1.9,n.j.a.c. 18:7-1.9,Regulation,state_regulation,NJ,37,16,3,1983,2023,true,exact
 N.J. Admin. Code § 7:26B-2.1,n.j. admin. code § 7:26b-2.1,Regulation,state_regulation,NJ,36,4,1,2022,2022,true,exact
@@ -158,17 +159,16 @@ N.J.A.C. 10A:4-9.17,n.j.a.c. 10a:4-9.17,Regulation,state_regulation,NJ,36,18,1,2
 N.J.A.C. 11:3,n.j.a.c. 11:3,Regulation,state_regulation,NJ,36,23,3,1977,2025,true,container
 N.J.A.C. 13:2-23.1,n.j.a.c. 13:2-23.1,Regulation,state_regulation,NJ,36,19,3,1981,2020,true,exact
 N.J.A.C. 13:20-33.7,n.j.a.c. 13:20-33.7,Regulation,state_regulation,NJ,36,8,2,2001,2024,true,exact
-N.J.A.C. 13:21-15.4,n.j.a.c. 13:21-15.4,Regulation,state_regulation,NJ,36,5,2,2018,2025,true,exact
 N.J.A.C. 1:1-18.6,n.j.a.c. 1:1-18.6,Regulation,state_regulation,NJ,36,29,3,1988,2026,true,exact
 N.J.A.C. 5:92-15.1,n.j.a.c. 5:92-15.1,Regulation,state_regulation,NJ,36,6,2,1991,1993,false,unresolved
 N.J.A.C. 6A:16-2.2,n.j.a.c. 6a:16-2.2,Regulation,state_regulation,NJ,36,4,2,2003,2016,true,exact
+N.J.A.C. 7:26-6.7,n.j.a.c. 7:26-6.7,Regulation,state_regulation,NJ,36,8,3,1985,1996,true,exact
 N.J.A.C. 7:36-25.13,n.j.a.c. 7:36-25.13,Regulation,state_regulation,NJ,36,2,1,2022,2022,true,exact
 N.J.A.C. 8:33-4.1,n.j.a.c. 8:33-4.1,Regulation,state_regulation,NJ,36,14,2,1989,2022,true,exact
 N.J.Admin.Code tit. 13 § 2-24.4,n.j.admin.code tit. 13 § 2-24.4,Regulation,state_regulation,NJ,36,1,1,1986,1986,false,unresolved
 N.J.A.C. 10:133-1.3,n.j.a.c. 10:133-1.3,Regulation,state_regulation,NJ,35,21,2,1998,2019,false,unresolved
 N.J.A.C. 13:45A-26B.2,n.j.a.c. 13:45a-26b.2,Regulation,state_regulation,NJ,35,10,2,1999,2025,true,exact
 N.J.A.C. 5:97,n.j.a.c. 5:97,Regulation,state_regulation,NJ,35,5,3,2010,2022,false,unresolved
-N.J.A.C. 7:26-6.7,n.j.a.c. 7:26-6.7,Regulation,state_regulation,NJ,35,8,3,1985,1996,true,exact
 N.J.A.C. 7:7,n.j.a.c. 7:7,Regulation,state_regulation,NJ,35,17,2,1987,2025,true,container
 N.J.A.C. 10A:16-4.4,n.j.a.c. 10a:16-4.4,Regulation,state_regulation,NJ,34,4,2,1988,2020,true,exact
 N.J.A.C. 11:1-20,n.j.a.c. 11:1-20,Regulation,state_regulation,NJ,34,14,3,1986,2021,true,container
@@ -215,6 +215,7 @@ N.J.A.C. 11:3-4.2,n.j.a.c. 11:3-4.2,Regulation,state_regulation,NJ,29,13,1,1999,
 N.J.A.C. 11:3-5.1,n.j.a.c. 11:3-5.1,Regulation,state_regulation,NJ,29,16,1,1999,2025,true,exact
 N.J.A.C. 12:17-12.2,n.j.a.c. 12:17-12.2,Regulation,state_regulation,NJ,29,4,2,2007,2009,true,exact
 N.J.A.C. 13:51-1.6,n.j.a.c. 13:51-1.6,Regulation,state_regulation,NJ,29,2,1,1989,2003,true,exact
+N.J.A.C. 18:24-4.4,n.j.a.c. 18:24-4.4,Regulation,state_regulation,NJ,29,9,3,1981,2022,true,exact
 N.J.A.C. 18:35-1.3,n.j.a.c. 18:35-1.3,Regulation,state_regulation,NJ,29,11,2,1999,2021,true,exact
 N.J.A.C. 18:7-5.13,n.j.a.c. 18:7-5.13,Regulation,state_regulation,NJ,29,6,3,1992,2004,true,exact
 N.J.A.C. 6:19A-3.3,n.j.a.c. 6:19a-3.3,Regulation,state_regulation,NJ,29,5,2,2000,2002,false,unresolved
@@ -227,12 +228,12 @@ N.J.A.C. 10A:71-2.1,n.j.a.c. 10a:71-2.1,Regulation,state_regulation,NJ,28,8,2,19
 N.J.A.C. 13:19-13.1,n.j.a.c. 13:19-13.1,Regulation,state_regulation,NJ,28,7,3,1989,2003,true,exact
 N.J.A.C. 14:3-8.8,n.j.a.c. 14:3-8.8,Regulation,state_regulation,NJ,28,2,1,2009,2012,true,exact
 N.J.A.C. 18:2-2.7,n.j.a.c. 18:2-2.7,Regulation,state_regulation,NJ,28,8,3,1980,2021,true,exact
-N.J.A.C. 18:24-4.4,n.j.a.c. 18:24-4.4,Regulation,state_regulation,NJ,28,9,3,1981,2022,true,exact
 N.J.A.C. 5:92,n.j.a.c. 5:92,Regulation,state_regulation,NJ,28,11,2,1990,2025,false,unresolved
 N.J.A.C. 5:93-5.6,n.j.a.c. 5:93-5.6,Regulation,state_regulation,NJ,28,6,2,1996,2007,false,unresolved
 N.J.A.C. 7:7E-8.11,n.j.a.c. 7:7e-8.11,Regulation,state_regulation,NJ,28,12,2,1982,2018,false,unresolved
 N.J.A.C. 7:8-5.5,n.j.a.c. 7:8-5.5,Regulation,state_regulation,NJ,28,6,1,2006,2024,true,exact
 N.J.A.C. 10:71-4.8,n.j.a.c. 10:71-4.8,Regulation,state_regulation,NJ,27,12,2,1999,2021,true,exact
+N.J.A.C. 17:1-6.2,n.j.a.c. 17:1-6.2,Regulation,state_regulation,NJ,27,5,1,2019,2024,true,exact
 N.J.A.C. 17:9-1.3,n.j.a.c. 17:9-1.3,Regulation,state_regulation,NJ,27,8,2,1991,2024,true,exact
 N.J.A.C. 18:35,n.j.a.c. 18:35,Regulation,state_regulation,NJ,27,11,2,1982,2013,true,container
 N.J.A.C. 18:7-5.2,n.j.a.c. 18:7-5.2,Regulation,state_regulation,NJ,27,13,3,1982,2014,true,exact
@@ -249,7 +250,6 @@ N.J.A.C. 7:9B-1.4,n.j.a.c. 7:9b-1.4,Regulation,state_regulation,NJ,27,8,4,2003,2
 N.J.A.C. 10:129-7.3,n.j.a.c. 10:129-7.3,Regulation,state_regulation,NJ,26,12,1,2015,2025,false,unresolved
 N.J.A.C. 10A:71-3.18,n.j.a.c. 10a:71-3.18,Regulation,state_regulation,NJ,26,19,3,1988,2025,true,exact
 N.J.A.C. 11:3-29.5,n.j.a.c. 11:3-29.5,Regulation,state_regulation,NJ,26,7,1,2003,2020,true,exact
-N.J.A.C. 17:1-6.2,n.j.a.c. 17:1-6.2,Regulation,state_regulation,NJ,26,5,1,2019,2024,true,exact
 N.J.A.C. 17:2-6.1,n.j.a.c. 17:2-6.1,Regulation,state_regulation,NJ,26,20,2,1980,2025,true,exact
 N.J.A.C. 4A:2-1.5,n.j.a.c. 4a:2-1.5,Regulation,state_regulation,NJ,26,8,1,1992,2026,true,exact
 N.J.A.C. 4A:8-1.1,n.j.a.c. 4a:8-1.1,Regulation,state_regulation,NJ,26,11,2,1995,2024,true,exact
@@ -276,6 +276,7 @@ N.J.A.C. 8:30-14.1,n.j.a.c. 8:30-14.1,Regulation,state_regulation,NJ,25,9,3,1979
 N.J.A.C. § 11:22,n.j.a.c. § 11:22,Regulation,state_regulation,NJ,25,1,1,2022,2022,true,container
 N.J.A.C. 10:49-14.1,n.j.a.c. 10:49-14.1,Regulation,state_regulation,NJ,24,4,1,2004,2026,true,exact
 N.J.A.C. 12:20-4.1,n.j.a.c. 12:20-4.1,Regulation,state_regulation,NJ,24,14,1,2004,2026,true,exact
+N.J.A.C. 12:235-3.2,n.j.a.c. 12:235-3.2,Regulation,state_regulation,NJ,24,9,1,2017,2023,true,exact
 N.J.A.C. 12:56-7.1,n.j.a.c. 12:56-7.1,Regulation,state_regulation,NJ,24,4,2,2005,2022,true,exact
 N.J.A.C. 13:2-5.2,n.j.a.c. 13:2-5.2,Regulation,state_regulation,NJ,24,2,1,2007,2010,true,exact
 N.J.A.C. 4A:1-1.3,n.j.a.c. 4a:1-1.3,Regulation,state_regulation,NJ,24,13,2,1993,2024,true,exact
@@ -285,6 +286,7 @@ N.J.A.C. 5:25-3.10,n.j.a.c. 5:25-3.10,Regulation,state_regulation,NJ,24,9,1,1988
 N.J.A.C. 6:3-1.10,n.j.a.c. 6:3-1.10,Regulation,state_regulation,NJ,24,8,2,1979,2026,false,unresolved
 N.J.A.C. 6A,n.j.a.c. 6a,Regulation,state_regulation,NJ,24,18,3,2000,2023,false,unresolved
 N.J.A.C. 6A:16-7.1,n.j.a.c. 6a:16-7.1,Regulation,state_regulation,NJ,24,5,2,2012,2024,true,exact
+N.J.A.C. 6A:3-1.3,n.j.a.c. 6a:3-1.3,Regulation,state_regulation,NJ,24,8,1,2002,2025,true,exact
 N.J.A.C. 7:13-1.1,n.j.a.c. 7:13-1.1,Regulation,state_regulation,NJ,24,17,3,1980,2024,true,exact
 N.J.A.C. 7:7E-3.27,n.j.a.c. 7:7e-3.27,Regulation,state_regulation,NJ,24,6,1,1990,2014,false,unresolved
 N.J.A.C. 7:7E-7.2,n.j.a.c. 7:7e-7.2,Regulation,state_regulation,NJ,24,7,2,1982,2009,false,unresolved
@@ -294,7 +296,6 @@ N.J.A.C. 10:49-1.1,n.j.a.c. 10:49-1.1,Regulation,state_regulation,NJ,23,22,2,198
 N.J.A.C. 10A:18-9.6,n.j.a.c. 10a:18-9.6,Regulation,state_regulation,NJ,23,1,1,2007,2007,true,exact
 N.J.A.C. 11:1-20.2,n.j.a.c. 11:1-20.2,Regulation,state_regulation,NJ,23,11,3,1986,2020,true,exact
 N.J.A.C. 11:3-5.4,n.j.a.c. 11:3-5.4,Regulation,state_regulation,NJ,23,8,1,1999,2025,true,exact
-N.J.A.C. 12:235-3.2,n.j.a.c. 12:235-3.2,Regulation,state_regulation,NJ,23,9,1,2017,2023,true,exact
 N.J.A.C. 17:4-3.7,n.j.a.c. 17:4-3.7,Regulation,state_regulation,NJ,23,2,2,2018,2019,true,exact
 N.J.A.C. 18:35-1.12,n.j.a.c. 18:35-1.12,Regulation,state_regulation,NJ,23,8,2,1981,2001,false,unresolved
 N.J.A.C. 18:7-13.8,n.j.a.c. 18:7-13.8,Regulation,state_regulation,NJ,23,5,1,1991,2001,true,exact
@@ -302,7 +303,6 @@ N.J.A.C. 3A:10-8.1,n.j.a.c. 3a:10-8.1,Regulation,state_regulation,NJ,23,11,2,201
 N.J.A.C. 4A:2-6.2,n.j.a.c. 4a:2-6.2,Regulation,state_regulation,NJ,23,10,2,1999,2025,true,exact
 N.J.A.C. 4A:8-2.6,n.j.a.c. 4a:8-2.6,Regulation,state_regulation,NJ,23,11,2,2000,2023,true,exact
 N.J.A.C. 5:91-1,n.j.a.c. 5:91-1,Regulation,state_regulation,NJ,23,23,3,2007,2025,false,unresolved
-N.J.A.C. 6A:3-1.3,n.j.a.c. 6a:3-1.3,Regulation,state_regulation,NJ,23,8,1,2002,2025,true,exact
 N.J.A.C. 7:8-1.1,n.j.a.c. 7:8-1.1,Regulation,state_regulation,NJ,23,16,1,2006,2026,true,exact
 N.J.A.C. 9A:5-1.1,n.j.a.c. 9a:5-1.1,Regulation,state_regulation,NJ,23,5,2,2000,2012,true,exact
 N.J. Admin. Code § 6A:14-2.7,n.j. admin. code § 6a:14-2.7,Regulation,state_regulation,NJ,22,14,2,2015,2024,true,exact
@@ -345,6 +345,7 @@ N.J.A.C. 7:14A-3.1,n.j.a.c. 7:14a-3.1,Regulation,state_regulation,NJ,21,5,2,1989
 N.J.A.C. 7:26,n.j.a.c. 7:26,Regulation,state_regulation,NJ,21,18,4,1982,2024,true,container
 N.J.A.C. 7:7-9.7,n.j.a.c. 7:7-9.7,Regulation,state_regulation,NJ,21,2,1,2002,2019,true,exact
 N.J.A.C. 7:7A-7.1,n.j.a.c. 7:7a-7.1,Regulation,state_regulation,NJ,21,5,1,2003,2021,true,exact
+N.J.A.C. 8:43E-10.9,n.j.a.c. 8:43e-10.9,Regulation,state_regulation,NJ,21,9,3,2012,2024,true,exact
 N.J.A.C. 10:129-1.3,n.j.a.c. 10:129-1.3,Regulation,state_regulation,NJ,20,11,2,1989,2013,false,unresolved
 N.J.A.C. 10A:5-1.3,n.j.a.c. 10a:5-1.3,Regulation,state_regulation,NJ,20,7,2,1992,2021,true,exact
 N.J.A.C. 10A:72-3.6,n.j.a.c. 10a:72-3.6,Regulation,state_regulation,NJ,20,2,2,2016,2017,true,exact
@@ -354,9 +355,11 @@ N.J.A.C. 13:35-6.3,n.j.a.c. 13:35-6.3,Regulation,state_regulation,NJ,20,6,1,2004
 N.J.A.C. 13:4-10.2,n.j.a.c. 13:4-10.2,Regulation,state_regulation,NJ,20,9,1,2015,2025,true,exact
 N.J.A.C. 13:45A-26C.2,n.j.a.c. 13:45a-26c.2,Regulation,state_regulation,NJ,20,8,1,1996,2025,true,exact
 N.J.A.C. 16:47-1.1,n.j.a.c. 16:47-1.1,Regulation,state_regulation,NJ,20,14,2,1993,2024,true,exact
+N.J.A.C. 17:1-1.3,n.j.a.c. 17:1-1.3,Regulation,state_regulation,NJ,20,6,1,2020,2025,true,exact
 N.J.A.C. 17:2-6.3,n.j.a.c. 17:2-6.3,Regulation,state_regulation,NJ,20,8,1,2005,2023,true,exact
 N.J.A.C. 18:7-4.5,n.j.a.c. 18:7-4.5,Regulation,state_regulation,NJ,20,10,3,1981,1994,true,exact
 N.J.A.C. 4A:2-2.2,n.j.a.c. 4a:2-2.2,Regulation,state_regulation,NJ,20,17,3,1989,2024,true,exact
+N.J.A.C. 4A:3-1.2,n.j.a.c. 4a:3-1.2,Regulation,state_regulation,NJ,20,7,3,1991,2025,true,exact
 N.J.A.C. 6:28-2.7,n.j.a.c. 6:28-2.7,Regulation,state_regulation,NJ,20,10,4,1988,1995,false,unresolved
 N.J.A.C. 6:28-4.3,n.j.a.c. 6:28-4.3,Regulation,state_regulation,NJ,20,3,2,1983,1993,false,unresolved
 N.J.A.C. 6:29-3.3,n.j.a.c. 6:29-3.3,Regulation,state_regulation,NJ,20,1,1,1994,1994,false,unresolved
@@ -365,7 +368,6 @@ N.J.A.C. 7:20A-2.3,n.j.a.c. 7:20a-2.3,Regulation,state_regulation,NJ,20,1,1,2009
 N.J.A.C. 7:26-1.1,n.j.a.c. 7:26-1.1,Regulation,state_regulation,NJ,20,10,4,1979,2004,true,exact
 N.J.A.C. 7:26E-1.8,n.j.a.c. 7:26e-1.8,Regulation,state_regulation,NJ,20,12,3,2000,2026,true,exact
 N.J.A.C. 7:38-2.3,n.j.a.c. 7:38-2.3,Regulation,state_regulation,NJ,20,6,2,2013,2025,true,exact
-N.J.A.C. 8:43E-10.9,n.j.a.c. 8:43e-10.9,Regulation,state_regulation,NJ,20,9,3,2012,2024,true,exact
 N.J. Admin. Code § 6A:14,n.j. admin. code § 6a:14,Regulation,state_regulation,NJ,19,10,2,2020,2025,true,container
 N.J.A.C. 10:49-5.3,n.j.a.c. 10:49-5.3,Regulation,state_regulation,NJ,19,4,2,1982,2010,true,exact
 N.J.A.C. 10A:71-3.10,n.j.a.c. 10a:71-3.10,Regulation,state_regulation,NJ,19,18,1,2000,2022,true,exact
@@ -377,11 +379,10 @@ N.J.A.C. 13:45A-17.3,n.j.a.c. 13:45a-17.3,Regulation,state_regulation,NJ,19,4,3,
 N.J.A.C. 13:71-20.10,n.j.a.c. 13:71-20.10,Regulation,state_regulation,NJ,19,4,2,1985,1997,true,exact
 N.J.A.C. 14:10-6.3,n.j.a.c. 14:10-6.3,Regulation,state_regulation,NJ,19,1,1,2001,2001,true,exact
 N.J.A.C. 14:8-10.4,n.j.a.c. 14:8-10.4,Regulation,state_regulation,NJ,19,7,1,2024,2026,true,exact
-N.J.A.C. 17:1-1.3,n.j.a.c. 17:1-1.3,Regulation,state_regulation,NJ,19,6,1,2020,2025,true,exact
 N.J.A.C. 17:1-12.7,n.j.a.c. 17:1-12.7,Regulation,state_regulation,NJ,19,4,1,1989,2015,false,unresolved
 N.J.A.C. 19:25-12.1,n.j.a.c. 19:25-12.1,Regulation,state_regulation,NJ,19,5,2,1977,1980,true,exact
 N.J.A.C. 2:76-6.15,n.j.a.c. 2:76-6.15,Regulation,state_regulation,NJ,19,3,2,1994,2020,true,exact
-N.J.A.C. 4A:3-1.2,n.j.a.c. 4a:3-1.2,Regulation,state_regulation,NJ,19,7,3,1991,2025,true,exact
+N.J.A.C. 4A:3-4.21,n.j.a.c. 4a:3-4.21,Regulation,state_regulation,NJ,19,3,1,2017,2026,true,exact
 N.J.A.C. 5:26-8.4,n.j.a.c. 5:26-8.4,Regulation,state_regulation,NJ,19,4,2,1991,2014,true,exact
 N.J.A.C. 5:26-8.9,n.j.a.c. 5:26-8.9,Regulation,state_regulation,NJ,19,2,1,2024,2024,true,exact
 N.J.A.C. 7:26E-1.13,n.j.a.c. 7:26e-1.13,Regulation,state_regulation,NJ,19,7,1,2005,2025,true,exact
@@ -410,7 +411,6 @@ N.J.A.C. 19:45-1.11,n.j.a.c. 19:45-1.11,Regulation,state_regulation,NJ,18,4,1,19
 N.J.A.C. 19:45-1.27,n.j.a.c. 19:45-1.27,Regulation,state_regulation,NJ,18,2,1,1991,1991,false,unresolved
 N.J.A.C. 19:53-4.3,n.j.a.c. 19:53-4.3,Regulation,state_regulation,NJ,18,4,3,1995,1999,false,unresolved
 N.J.A.C. 4A:1-1.2,n.j.a.c. 4a:1-1.2,Regulation,state_regulation,NJ,18,11,4,1993,2026,true,exact
-N.J.A.C. 4A:3-4.21,n.j.a.c. 4a:3-4.21,Regulation,state_regulation,NJ,18,3,1,2017,2026,true,exact
 N.J.A.C. 4A:6-1.6,n.j.a.c. 4a:6-1.6,Regulation,state_regulation,NJ,18,3,2,1993,2000,true,exact
 N.J.A.C. 4A:8-1.5,n.j.a.c. 4a:8-1.5,Regulation,state_regulation,NJ,18,3,1,2000,2020,true,exact
 N.J.A.C. 5:23-2.16,n.j.a.c. 5:23-2.16,Regulation,state_regulation,NJ,18,9,3,1993,2025,true,exact
@@ -436,6 +436,7 @@ N.J.A.C. 17:1-6.1,n.j.a.c. 17:1-6.1,Regulation,state_regulation,NJ,17,8,1,2019,2
 N.J.A.C. 17:1-7.10,n.j.a.c. 17:1-7.10,Regulation,state_regulation,NJ,17,2,1,2018,2022,true,exact
 N.J.A.C. 17:3-6.3,n.j.a.c. 17:3-6.3,Regulation,state_regulation,NJ,17,8,2,1988,2024,true,exact
 N.J.A.C. 17:4-1.7,n.j.a.c. 17:4-1.7,Regulation,state_regulation,NJ,17,6,1,2008,2024,true,exact
+N.J.A.C. 18:38-1.3,n.j.a.c. 18:38-1.3,Regulation,state_regulation,NJ,17,5,3,1992,2023,true,exact
 N.J.A.C. 3A:5-4.3,n.j.a.c. 3a:5-4.3,Regulation,state_regulation,NJ,17,12,2,2017,2025,true,exact
 N.J.A.C. 5:10-1.1,n.j.a.c. 5:10-1.1,Regulation,state_regulation,NJ,17,13,2,1975,2025,true,exact
 N.J.A.C. 5:23-7.8,n.j.a.c. 5:23-7.8,Regulation,state_regulation,NJ,17,2,1,1992,1992,true,exact
@@ -464,7 +465,6 @@ N.J.A.C. 17:3-2.1,n.j.a.c. 17:3-2.1,Regulation,state_regulation,NJ,16,1,1,2026,2
 N.J.A.C. 17:4-6.7,n.j.a.c. 17:4-6.7,Regulation,state_regulation,NJ,16,10,2,1976,2021,true,exact
 N.J.A.C. 18:12,n.j.a.c. 18:12,Regulation,state_regulation,NJ,16,12,3,1984,2026,true,container
 N.J.A.C. 18:24-2.3,n.j.a.c. 18:24-2.3,Regulation,state_regulation,NJ,16,11,2,2000,2024,true,exact
-N.J.A.C. 18:38-1.3,n.j.a.c. 18:38-1.3,Regulation,state_regulation,NJ,16,5,3,1992,2023,true,exact
 N.J.A.C. 18:7-8.1,n.j.a.c. 18:7-8.1,Regulation,state_regulation,NJ,16,9,2,1990,2018,true,exact
 N.J.A.C. 19,n.j.a.c. 19,Regulation,state_regulation,NJ,16,11,4,1970,2024,false,unresolved
 N.J.A.C. 4A:2-2.1,n.j.a.c. 4a:2-2.1,Regulation,state_regulation,NJ,16,12,2,1989,2024,true,exact
@@ -518,6 +518,7 @@ N.J.A.C. 18:7-7.6,n.j.a.c. 18:7-7.6,Regulation,state_regulation,NJ,15,5,2,2004,2
 N.J.A.C. 19:45-1.25,n.j.a.c. 19:45-1.25,Regulation,state_regulation,NJ,15,5,1,1983,1992,false,unresolved
 N.J.A.C. 1:1-2.1,n.j.a.c. 1:1-2.1,Regulation,state_regulation,NJ,15,12,2,1989,2025,true,exact
 N.J.A.C. 1:30,n.j.a.c. 1:30,Regulation,state_regulation,NJ,15,7,2,1986,2011,true,container
+N.J.A.C. 1:30-6.3,n.j.a.c. 1:30-6.3,Regulation,state_regulation,NJ,15,4,1,2001,2025,true,exact
 N.J.A.C. 4:1-16.9,n.j.a.c. 4:1-16.9,Regulation,state_regulation,NJ,15,5,2,1978,1990,false,unresolved
 N.J.A.C. 4A:4-2.1,n.j.a.c. 4a:4-2.1,Regulation,state_regulation,NJ,15,8,2,2005,2025,true,exact
 N.J.A.C. 5:10-2.2,n.j.a.c. 5:10-2.2,Regulation,state_regulation,NJ,15,7,2,1975,2026,true,exact
@@ -559,8 +560,9 @@ N.J.A.C. 18:7-10.1,n.j.a.c. 18:7-10.1,Regulation,state_regulation,NJ,14,8,2,1982
 N.J.A.C. 18:7-8.5,n.j.a.c. 18:7-8.5,Regulation,state_regulation,NJ,14,7,2,1983,2014,true,exact
 N.J.A.C. 19:45-1.29,n.j.a.c. 19:45-1.29,Regulation,state_regulation,NJ,14,1,1,1991,1991,false,unresolved
 N.J.A.C. 1:1-18.4,n.j.a.c. 1:1-18.4,Regulation,state_regulation,NJ,14,9,1,1987,2025,true,exact
-N.J.A.C. 1:30-6.3,n.j.a.c. 1:30-6.3,Regulation,state_regulation,NJ,14,4,1,2001,2025,true,exact
 N.J.A.C. 3:1,n.j.a.c. 3:1,Regulation,state_regulation,NJ,14,2,1,1980,1980,true,container
+N.J.A.C. 4A:2-2.6,n.j.a.c. 4a:2-2.6,Regulation,state_regulation,NJ,14,5,2,1999,2022,true,exact
+N.J.A.C. 4A:3-4.1,n.j.a.c. 4a:3-4.1,Regulation,state_regulation,NJ,14,4,1,1991,2017,true,exact
 N.J.A.C. 4A:4-2.16,n.j.a.c. 4a:4-2.16,Regulation,state_regulation,NJ,14,2,2,1997,2006,true,exact
 N.J.A.C. 4A:4-6.3,n.j.a.c. 4a:4-6.3,Regulation,state_regulation,NJ,14,10,2,1991,2026,true,exact
 N.J.A.C. 4A:8-1.4,n.j.a.c. 4a:8-1.4,Regulation,state_regulation,NJ,14,8,2,1991,2023,true,exact
@@ -599,6 +601,7 @@ N.J.A.C. 11:3-15.1,n.j.a.c. 11:3-15.1,Regulation,state_regulation,NJ,13,9,2,1989
 N.J.A.C. 11:5-6.4,n.j.a.c. 11:5-6.4,Regulation,state_regulation,NJ,13,4,2,2009,2011,true,exact
 N.J.A.C. 12:17-11.5,n.j.a.c. 12:17-11.5,Regulation,state_regulation,NJ,13,5,1,2018,2026,true,exact
 N.J.A.C. 12:17-4.2,n.j.a.c. 12:17-4.2,Regulation,state_regulation,NJ,13,4,1,1984,2020,true,exact
+N.J.A.C. 12:235-3.5,n.j.a.c. 12:235-3.5,Regulation,state_regulation,NJ,13,4,2,2011,2026,true,exact
 N.J.A.C. 13:21-15.2,n.j.a.c. 13:21-15.2,Regulation,state_regulation,NJ,13,3,2,2019,2021,true,exact
 N.J.A.C. 13:21-15.5,n.j.a.c. 13:21-15.5,Regulation,state_regulation,NJ,13,2,1,2019,2021,true,exact
 N.J.A.C. 13:4-8.3,n.j.a.c. 13:4-8.3,Regulation,state_regulation,NJ,13,2,1,1974,1978,false,unresolved
@@ -615,7 +618,6 @@ N.J.A.C. 1:1-14.6,n.j.a.c. 1:1-14.6,Regulation,state_regulation,NJ,13,4,1,2018,2
 N.J.A.C. 3A:10-7.7,n.j.a.c. 3a:10-7.7,Regulation,state_regulation,NJ,13,7,2,2017,2025,true,exact
 N.J.A.C. 4:1,n.j.a.c. 4:1,Regulation,state_regulation,NJ,13,12,2,1972,1991,false,unresolved
 N.J.A.C. 4A:2-2,n.j.a.c. 4a:2-2,Regulation,state_regulation,NJ,13,4,1,2010,2025,true,container
-N.J.A.C. 4A:2-2.6,n.j.a.c. 4a:2-2.6,Regulation,state_regulation,NJ,13,5,2,1999,2022,true,exact
 N.J.A.C. 4A:3-1.3,n.j.a.c. 4a:3-1.3,Regulation,state_regulation,NJ,13,3,2,2016,2026,true,exact
 N.J.A.C. 5:10-5.1,n.j.a.c. 5:10-5.1,Regulation,state_regulation,NJ,13,4,2,2011,2025,true,exact
 N.J.A.C. 5:105-2.3,n.j.a.c. 5:105-2.3,Regulation,state_regulation,NJ,13,2,1,2019,2024,true,exact
@@ -651,20 +653,22 @@ N.J.A.C. 10:81-2.7,n.j.a.c. 10:81-2.7,Regulation,state_regulation,NJ,12,3,1,1983
 N.J.A.C. 10A:1-4.1,n.j.a.c. 10a:1-4.1,Regulation,state_regulation,NJ,12,5,1,2009,2021,true,exact
 N.J.A.C. 10A:23,n.j.a.c. 10a:23,Regulation,state_regulation,NJ,12,8,2,2004,2007,false,unresolved
 N.J.A.C. 10A:71-7.16,n.j.a.c. 10a:71-7.16,Regulation,state_regulation,NJ,12,8,3,1987,2026,true,exact
+N.J.A.C. 10A:72-14.1,n.j.a.c. 10a:72-14.1,Regulation,state_regulation,NJ,12,3,1,2019,2024,true,exact
 N.J.A.C. 10A:72-3.3,n.j.a.c. 10a:72-3.3,Regulation,state_regulation,NJ,12,2,2,2016,2017,true,exact
 N.J.A.C. 10A:9-4.6,n.j.a.c. 10a:9-4.6,Regulation,state_regulation,NJ,12,5,1,2019,2022,true,exact
 N.J.A.C. 11:3-5,n.j.a.c. 11:3-5,Regulation,state_regulation,NJ,12,7,2,2002,2025,true,container
 N.J.A.C. 11:5-3.8,n.j.a.c. 11:5-3.8,Regulation,state_regulation,NJ,12,3,2,2000,2024,true,exact
 N.J.A.C. 12:17-4.1,n.j.a.c. 12:17-4.1,Regulation,state_regulation,NJ,12,4,1,2018,2020,true,exact
-N.J.A.C. 12:235-3.5,n.j.a.c. 12:235-3.5,Regulation,state_regulation,NJ,12,4,2,2011,2026,true,exact
 N.J.A.C. 13:30-8.4A,n.j.a.c. 13:30-8.4a,Regulation,state_regulation,NJ,12,1,1,2021,2021,true,exact
 N.J.A.C. 13:35,n.j.a.c. 13:35,Regulation,state_regulation,NJ,12,11,3,1978,2024,true,container
 N.J.A.C. 13:39A-2.1,n.j.a.c. 13:39a-2.1,Regulation,state_regulation,NJ,12,5,2,1988,2002,true,exact
 N.J.A.C. 13:45A-7.1,n.j.a.c. 13:45a-7.1,Regulation,state_regulation,NJ,12,3,1,1981,2017,false,unresolved
+N.J.A.C. 13:51-3.5,n.j.a.c. 13:51-3.5,Regulation,state_regulation,NJ,12,7,3,1974,2023,true,exact
 N.J.A.C. 13:60-2.1,n.j.a.c. 13:60-2.1,Regulation,state_regulation,NJ,12,3,1,2008,2020,true,exact
 N.J.A.C. 14:2-4.2,n.j.a.c. 14:2-4.2,Regulation,state_regulation,NJ,12,1,1,2017,2017,true,exact
 N.J.A.C. 17:1-7.5,n.j.a.c. 17:1-7.5,Regulation,state_regulation,NJ,12,1,1,2018,2018,true,exact
 N.J.A.C. 17:19-2.1,n.j.a.c. 17:19-2.1,Regulation,state_regulation,NJ,12,6,1,2002,2025,true,exact
+N.J.A.C. 18:15-1.1,n.j.a.c. 18:15-1.1,Regulation,state_regulation,NJ,12,11,2,1982,2024,true,exact
 N.J.A.C. 18:24-10.3,n.j.a.c. 18:24-10.3,Regulation,state_regulation,NJ,12,5,2,1982,1998,true,exact
 N.J.A.C. 18:24-12.3,n.j.a.c. 18:24-12.3,Regulation,state_regulation,NJ,12,4,2,1987,2007,true,exact
 N.J.A.C. 18:24-5.2,n.j.a.c. 18:24-5.2,Regulation,state_regulation,NJ,12,7,2,1973,2019,true,exact
@@ -676,6 +680,7 @@ N.J.A.C. 1:1-1,n.j.a.c. 1:1-1,Regulation,state_regulation,NJ,12,10,3,1982,2024,t
 N.J.A.C. 4:1-8.15,n.j.a.c. 4:1-8.15,Regulation,state_regulation,NJ,12,7,2,1975,1981,false,unresolved
 N.J.A.C. 4A:2-2.7,n.j.a.c. 4a:2-2.7,Regulation,state_regulation,NJ,12,9,1,1989,2025,true,exact
 N.J.A.C. 4A:2-2.8,n.j.a.c. 4a:2-2.8,Regulation,state_regulation,NJ,12,6,1,1989,2024,true,exact
+N.J.A.C. 5:23-2.15,n.j.a.c. 5:23-2.15,Regulation,state_regulation,NJ,12,7,1,1984,2025,true,exact
 N.J.A.C. 5:23-7.95,n.j.a.c. 5:23-7.95,Regulation,state_regulation,NJ,12,2,1,1992,1992,false,unresolved
 N.J.A.C. 5:92-1.1,n.j.a.c. 5:92-1.1,Regulation,state_regulation,NJ,12,11,3,1988,2022,false,unresolved
 N.J.A.C. 5:92-7.1,n.j.a.c. 5:92-7.1,Regulation,state_regulation,NJ,12,5,2,1990,2002,false,unresolved
@@ -687,6 +692,7 @@ N.J.A.C. 6A:7-1.4,n.j.a.c. 6a:7-1.4,Regulation,state_regulation,NJ,12,3,2,2005,2
 N.J.A.C. 7:14-8.8,n.j.a.c. 7:14-8.8,Regulation,state_regulation,NJ,12,1,1,2007,2007,true,exact
 N.J.A.C. 7:1C-2.1,n.j.a.c. 7:1c-2.1,Regulation,state_regulation,NJ,12,2,1,2026,2026,true,exact
 N.J.A.C. 7:26-5.4,n.j.a.c. 7:26-5.4,Regulation,state_regulation,NJ,12,6,2,1977,2025,true,exact
+N.J.A.C. 7:26-5.5,n.j.a.c. 7:26-5.5,Regulation,state_regulation,NJ,12,4,1,1983,2025,true,exact
 N.J.A.C. 7:27-18.1,n.j.a.c. 7:27-18.1,Regulation,state_regulation,NJ,12,6,1,1987,2013,true,exact
 N.J.A.C. 7:7-1.4,n.j.a.c. 7:7-1.4,Regulation,state_regulation,NJ,12,3,1,2002,2021,true,exact
 N.J.A.C. 7:7E-1.6,n.j.a.c. 7:7e-1.6,Regulation,state_regulation,NJ,12,5,1,1984,2014,false,unresolved
@@ -708,7 +714,6 @@ N.J.A.C. 10A:20-4.10,n.j.a.c. 10a:20-4.10,Regulation,state_regulation,NJ,11,4,2,
 N.J.A.C. 10A:3-5.10,n.j.a.c. 10a:3-5.10,Regulation,state_regulation,NJ,11,6,1,2005,2025,true,exact
 N.J.A.C. 10A:71-4.1,n.j.a.c. 10a:71-4.1,Regulation,state_regulation,NJ,11,8,2,1988,2025,true,exact
 N.J.A.C. 10A:71-6.9,n.j.a.c. 10a:71-6.9,Regulation,state_regulation,NJ,11,2,1,2020,2024,true,exact
-N.J.A.C. 10A:72-14.1,n.j.a.c. 10a:72-14.1,Regulation,state_regulation,NJ,11,3,1,2019,2022,true,exact
 N.J.A.C. 10A:9-4.2,n.j.a.c. 10a:9-4.2,Regulation,state_regulation,NJ,11,10,1,2000,2021,true,exact
 N.J.A.C. 10A:9-5.1,n.j.a.c. 10a:9-5.1,Regulation,state_regulation,NJ,11,7,2,1995,2021,true,exact
 N.J.A.C. 11:3-1.19,n.j.a.c. 11:3-1.19,Regulation,state_regulation,NJ,11,5,2,1978,1984,false,unresolved
@@ -725,7 +730,6 @@ N.J.A.C. 13:35-7.1,n.j.a.c. 13:35-7.1,Regulation,state_regulation,NJ,11,5,2,1977
 N.J.A.C. 13:35-8.24,n.j.a.c. 13:35-8.24,Regulation,state_regulation,NJ,11,1,1,1978,1978,true,exact
 N.J.A.C. 13:4-2.3,n.j.a.c. 13:4-2.3,Regulation,state_regulation,NJ,11,4,3,1988,2004,true,exact
 N.J.A.C. 13:51-3.2,n.j.a.c. 13:51-3.2,Regulation,state_regulation,NJ,11,5,2,1989,2011,true,exact
-N.J.A.C. 13:51-3.5,n.j.a.c. 13:51-3.5,Regulation,state_regulation,NJ,11,7,3,1974,2023,true,exact
 N.J.A.C. 13:70-31,n.j.a.c. 13:70-31,Regulation,state_regulation,NJ,11,4,2,1985,1986,true,container
 N.J.A.C. 13:71-23.1,n.j.a.c. 13:71-23.1,Regulation,state_regulation,NJ,11,5,3,1990,2018,true,exact
 N.J.A.C. 14A:20-1.1,n.j.a.c. 14a:20-1.1,Regulation,state_regulation,NJ,11,9,2,1987,2019,false,unresolved
@@ -734,7 +738,6 @@ N.J.A.C. 17:1-3.1,n.j.a.c. 17:1-3.1,Regulation,state_regulation,NJ,11,2,2,2019,2
 N.J.A.C. 17:1-4.1,n.j.a.c. 17:1-4.1,Regulation,state_regulation,NJ,11,1,1,2025,2025,true,exact
 N.J.A.C. 17:12-3.3,n.j.a.c. 17:12-3.3,Regulation,state_regulation,NJ,11,3,1,2010,2018,true,exact
 N.J.A.C. 17:2-6.7,n.j.a.c. 17:2-6.7,Regulation,state_regulation,NJ,11,7,2,1980,2026,true,exact
-N.J.A.C. 18:15-1.1,n.j.a.c. 18:15-1.1,Regulation,state_regulation,NJ,11,11,2,1982,2024,true,exact
 N.J.A.C. 18:35-1.5,n.j.a.c. 18:35-1.5,Regulation,state_regulation,NJ,11,3,1,2010,2013,true,exact
 N.J.A.C. 19:11-1.1,n.j.a.c. 19:11-1.1,Regulation,state_regulation,NJ,11,8,3,1974,2010,true,exact
 N.J.A.C. 19:31-8.3,n.j.a.c. 19:31-8.3,Regulation,state_regulation,NJ,11,3,2,2010,2018,false,unresolved
@@ -743,13 +746,11 @@ N.J.A.C. 1:1-16.3,n.j.a.c. 1:1-16.3,Regulation,state_regulation,NJ,11,6,2,1982,2
 N.J.A.C. 1:1-4.1,n.j.a.c. 1:1-4.1,Regulation,state_regulation,NJ,11,9,1,1988,2025,true,exact
 N.J.A.C. 1:1-9.7,n.j.a.c. 1:1-9.7,Regulation,state_regulation,NJ,11,1,1,1982,1982,true,exact
 N.J.A.C. 4A:3-3.9,n.j.a.c. 4a:3-3.9,Regulation,state_regulation,NJ,11,9,3,1991,2024,true,exact
-N.J.A.C. 4A:3-4.1,n.j.a.c. 4a:3-4.1,Regulation,state_regulation,NJ,11,4,1,1991,2017,true,exact
 N.J.A.C. 4A:3-4.9,n.j.a.c. 4a:3-4.9,Regulation,state_regulation,NJ,11,2,1,2018,2018,true,exact
 N.J.A.C. 4A:4-5.2,n.j.a.c. 4a:4-5.2,Regulation,state_regulation,NJ,11,7,2,1998,2026,true,exact
 N.J.A.C. 4A:4-6.4,n.j.a.c. 4a:4-6.4,Regulation,state_regulation,NJ,11,5,2,1997,2025,true,exact
 N.J.A.C. 4A:4-7.10,n.j.a.c. 4a:4-7.10,Regulation,state_regulation,NJ,11,3,1,1993,2019,true,exact
 N.J.A.C. 5:19-6.5,n.j.a.c. 5:19-6.5,Regulation,state_regulation,NJ,11,2,1,2002,2004,true,exact
-N.J.A.C. 5:23-2.15,n.j.a.c. 5:23-2.15,Regulation,state_regulation,NJ,11,7,1,1984,2025,true,exact
 N.J.A.C. 5:30-16.5,n.j.a.c. 5:30-16.5,Regulation,state_regulation,NJ,11,2,1,1980,1980,false,unresolved
 N.J.A.C. 5:70-3.1,n.j.a.c. 5:70-3.1,Regulation,state_regulation,NJ,11,5,2,2011,2017,true,exact
 N.J.A.C. 5:80-5.10,n.j.a.c. 5:80-5.10,Regulation,state_regulation,NJ,11,3,2,1987,1989,true,exact
@@ -761,7 +762,6 @@ N.J.A.C. 7:14A-1.8,n.j.a.c. 7:14a-1.8,Regulation,state_regulation,NJ,11,5,2,1984
 N.J.A.C. 7:1A-1.1,n.j.a.c. 7:1a-1.1,Regulation,state_regulation,NJ,11,3,1,1974,1977,true,exact
 N.J.A.C. 7:26-16.3,n.j.a.c. 7:26-16.3,Regulation,state_regulation,NJ,11,2,1,2018,2025,true,exact
 N.J.A.C. 7:26-16.5,n.j.a.c. 7:26-16.5,Regulation,state_regulation,NJ,11,3,1,1988,1996,true,exact
-N.J.A.C. 7:26-5.5,n.j.a.c. 7:26-5.5,Regulation,state_regulation,NJ,11,4,1,1998,2025,true,exact
 N.J.A.C. 7:26B-10.1,n.j.a.c. 7:26b-10.1,Regulation,state_regulation,NJ,11,5,1,1989,2012,false,unresolved
 N.J.A.C. 7:26C-2.3,n.j.a.c. 7:26c-2.3,Regulation,state_regulation,NJ,11,4,2,2017,2024,true,exact
 N.J.A.C. 7:7-9.1,n.j.a.c. 7:7-9.1,Regulation,state_regulation,NJ,11,2,1,2002,2023,true,exact
@@ -795,6 +795,7 @@ N.J.A.C. 10A:4-11.5,n.j.a.c. 10a:4-11.5,Regulation,state_regulation,NJ,10,8,1,19
 N.J.A.C. 10A:6-2.5,n.j.a.c. 10a:6-2.5,Regulation,state_regulation,NJ,10,2,2,1990,2017,true,exact
 N.J.A.C. 10A:71-3.7,n.j.a.c. 10a:71-3.7,Regulation,state_regulation,NJ,10,8,2,1986,2026,true,exact
 N.J.A.C. 10A:71-6.6,n.j.a.c. 10a:71-6.6,Regulation,state_regulation,NJ,10,6,2,2013,2025,true,exact
+N.J.A.C. 10A:71-7.19A,n.j.a.c. 10a:71-7.19a,Regulation,state_regulation,NJ,10,2,2,2019,2020,true,exact
 N.J.A.C. 10A:9-3.1,n.j.a.c. 10a:9-3.1,Regulation,state_regulation,NJ,10,9,1,2000,2019,true,exact
 N.J.A.C. 10A:9-4.8,n.j.a.c. 10a:9-4.8,Regulation,state_regulation,NJ,10,5,2,1987,2020,true,exact
 N.J.A.C. 11:20-9.6,n.j.a.c. 11:20-9.6,Regulation,state_regulation,NJ,10,3,2,2002,2004,false,unresolved
@@ -805,6 +806,7 @@ N.J.A.C. 12:235-10.9,n.j.a.c. 12:235-10.9,Regulation,state_regulation,NJ,10,1,1,
 N.J.A.C. 12:235-3.16,n.j.a.c. 12:235-3.16,Regulation,state_regulation,NJ,10,3,1,2011,2022,true,exact
 N.J.A.C. 13:13-1.3,n.j.a.c. 13:13-1.3,Regulation,state_regulation,NJ,10,10,2,1991,2025,true,exact
 N.J.A.C. 13:13-4.12,n.j.a.c. 13:13-4.12,Regulation,state_regulation,NJ,10,2,1,2012,2012,true,exact
+N.J.A.C. 13:2-23.6,n.j.a.c. 13:2-23.6,Regulation,state_regulation,NJ,10,4,1,1985,2000,true,exact
 N.J.A.C. 13:35-7.2,n.j.a.c. 13:35-7.2,Regulation,state_regulation,NJ,10,4,2,1979,1985,true,exact
 N.J.A.C. 13:45A-7.2,n.j.a.c. 13:45a-7.2,Regulation,state_regulation,NJ,10,3,1,1981,1986,false,unresolved
 N.J.A.C. 13:70-14.21,n.j.a.c. 13:70-14.21,Regulation,state_regulation,NJ,10,1,1,1981,1981,true,exact
@@ -854,6 +856,7 @@ N.J.A.C. 6A:8-5.2,n.j.a.c. 6a:8-5.2,Regulation,state_regulation,NJ,10,1,1,2024,2
 N.J.A.C. 7:13-2.2,n.j.a.c. 7:13-2.2,Regulation,state_regulation,NJ,10,3,2,2006,2021,true,exact
 N.J.A.C. 7:13-5.5,n.j.a.c. 7:13-5.5,Regulation,state_regulation,NJ,10,2,1,2023,2024,true,exact
 N.J.A.C. 7:1J-2.7,n.j.a.c. 7:1j-2.7,Regulation,state_regulation,NJ,10,2,1,1997,1997,true,exact
+N.J.A.C. 7:2-2.5,n.j.a.c. 7:2-2.5,Regulation,state_regulation,NJ,10,1,1,2022,2022,true,exact
 N.J.A.C. 7:25-2.26,n.j.a.c. 7:25-2.26,Regulation,state_regulation,NJ,10,3,1,2001,2018,true,exact
 N.J.A.C. 7:26-1,n.j.a.c. 7:26-1,Regulation,state_regulation,NJ,10,9,1,1981,1997,true,container
 N.J.A.C. 7:26-2.4,n.j.a.c. 7:26-2.4,Regulation,state_regulation,NJ,10,5,1,1981,1992,true,exact
@@ -888,8 +891,9 @@ N.J.A.C. 10A:2-2.2,n.j.a.c. 10a:2-2.2,Regulation,state_regulation,NJ,9,6,2,1997,
 N.J.A.C. 10A:20-4.2,n.j.a.c. 10a:20-4.2,Regulation,state_regulation,NJ,9,8,3,1997,2020,true,exact
 N.J.A.C. 10A:20-4.21,n.j.a.c. 10a:20-4.21,Regulation,state_regulation,NJ,9,5,3,1998,2006,true,exact
 N.J.A.C. 10A:3-5.11,n.j.a.c. 10a:3-5.11,Regulation,state_regulation,NJ,9,6,1,2018,2025,true,exact
+N.J.A.C. 10A:31-3.13,n.j.a.c. 10a:31-3.13,Regulation,state_regulation,NJ,9,4,2,1982,1983,true,exact
 N.J.A.C. 10A:71-3.15,n.j.a.c. 10a:71-3.15,Regulation,state_regulation,NJ,9,7,2,1988,2022,true,exact
-N.J.A.C. 10A:71-7.19A,n.j.a.c. 10a:71-7.19a,Regulation,state_regulation,NJ,9,2,2,2019,2020,true,exact
+N.J.A.C. 10A:71-3.54,n.j.a.c. 10a:71-3.54,Regulation,state_regulation,NJ,9,1,1,2019,2019,true,exact
 N.J.A.C. 10A:72-11.1,n.j.a.c. 10a:72-11.1,Regulation,state_regulation,NJ,9,4,2,2016,2020,true,exact
 N.J.A.C. 11:1,n.j.a.c. 11:1,Regulation,state_regulation,NJ,9,4,3,1994,2009,true,container
 N.J.A.C. 11:17D-2.5,n.j.a.c. 11:17d-2.5,Regulation,state_regulation,NJ,9,1,1,2019,2019,true,exact
@@ -902,7 +906,7 @@ N.J.A.C. 12:18-2.10,n.j.a.c. 12:18-2.10,Regulation,state_regulation,NJ,9,1,1,197
 N.J.A.C. 12:23-5.1,n.j.a.c. 12:23-5.1,Regulation,state_regulation,NJ,9,3,1,2001,2017,true,exact
 N.J.A.C. 12:235-3.11,n.j.a.c. 12:235-3.11,Regulation,state_regulation,NJ,9,5,1,1990,2022,true,exact
 N.J.A.C. 12:56-3.1,n.j.a.c. 12:56-3.1,Regulation,state_regulation,NJ,9,5,4,1999,2025,true,exact
-N.J.A.C. 13:2-23.6,n.j.a.c. 13:2-23.6,Regulation,state_regulation,NJ,9,4,1,1985,2000,true,exact
+N.J.A.C. 13:19-11.1,n.j.a.c. 13:19-11.1,Regulation,state_regulation,NJ,9,6,2,1984,2021,true,exact
 N.J.A.C. 13:2-23.7,n.j.a.c. 13:2-23.7,Regulation,state_regulation,NJ,9,4,2,1979,1984,true,exact
 N.J.A.C. 13:2-33.1,n.j.a.c. 13:2-33.1,Regulation,state_regulation,NJ,9,2,1,1980,1983,true,exact
 N.J.A.C. 13:21-15.3,n.j.a.c. 13:21-15.3,Regulation,state_regulation,NJ,9,2,1,2001,2019,true,exact
@@ -982,7 +986,6 @@ N.J.A.C. 7:1A-1.3,n.j.a.c. 7:1a-1.3,Regulation,state_regulation,NJ,9,2,1,1974,19
 N.J.A.C. 7:1E,n.j.a.c. 7:1e,Regulation,state_regulation,NJ,9,5,1,1992,2011,true,container
 N.J.A.C. 7:1E-1.6,n.j.a.c. 7:1e-1.6,Regulation,state_regulation,NJ,9,4,3,1992,2000,true,exact
 N.J.A.C. 7:1I-1.5,n.j.a.c. 7:1i-1.5,Regulation,state_regulation,NJ,9,4,2,1990,1997,true,exact
-N.J.A.C. 7:2-2.5,n.j.a.c. 7:2-2.5,Regulation,state_regulation,NJ,9,1,1,2022,2022,true,exact
 N.J.A.C. 7:20A-1.3,n.j.a.c. 7:20a-1.3,Regulation,state_regulation,NJ,9,1,1,2009,2009,true,exact
 N.J.A.C. 7:26B-5.4,n.j.a.c. 7:26b-5.4,Regulation,state_regulation,NJ,9,2,2,2024,2025,true,exact
 N.J.A.C. 7:26H-1.6,n.j.a.c. 7:26h-1.6,Regulation,state_regulation,NJ,9,5,2,1997,2025,true,exact
@@ -1012,7 +1015,6 @@ N.J.A.C. 8:87,n.j.a.c. 8:87,Regulation,state_regulation,NJ,9,2,2,2011,2019,false
 N.J.A.C. 9:2-3.5,n.j.a.c. 9:2-3.5,Regulation,state_regulation,NJ,9,3,2,1981,1982,false,unresolved
 N.J.A.C. § 6:28-2.10,n.j.a.c. § 6:28-2.10,Regulation,state_regulation,NJ,9,4,2,1993,1998,false,unresolved
 N.J.A.C. § 6A:14-2.5,n.j.a.c. § 6a:14-2.5,Regulation,state_regulation,NJ,9,3,2,2008,2019,true,exact
-"158 N.J. Super. 172, 174 (App. Div. 1978)). N.J.A.C. 12:17-9.1","158 n.j. super. 172, 174 (app. div. 1978)). n.j.a.c. 12:17-9.1",Regulation,state_regulation,NJ,8,8,1,2016,2021,false,unresolved
 N.J. Admin. Code 10A:31-3.12,n.j. admin. code 10a:31-3.12,Regulation,state_regulation,NJ,8,1,1,2009,2009,true,exact
 N.J. Admin. Code § 1.1,n.j. admin. code § 1.1,Regulation,state_regulation,NJ,8,6,3,2009,2024,false,unresolved
 N.J. Admin. Code § 10A:17-5.8,n.j. admin. code § 10a:17-5.8,Regulation,state_regulation,NJ,8,1,1,2021,2021,true,exact
@@ -1025,6 +1027,7 @@ N.J.A.C. 10:60-3.3,n.j.a.c. 10:60-3.3,Regulation,state_regulation,NJ,8,4,1,2018,
 N.J.A.C. 10:63-1.23,n.j.a.c. 10:63-1.23,Regulation,state_regulation,NJ,8,1,1,1986,1986,false,unresolved
 N.J.A.C. 10:63-3.20,n.j.a.c. 10:63-3.20,Regulation,state_regulation,NJ,8,3,3,1984,1991,false,unresolved
 N.J.A.C. 10:71-2.1,n.j.a.c. 10:71-2.1,Regulation,state_regulation,NJ,8,6,1,2006,2025,true,exact
+N.J.A.C. 10:71-3.11,n.j.a.c. 10:71-3.11,Regulation,state_regulation,NJ,8,5,2,1987,2024,true,exact
 N.J.A.C. 10:78-2.1,n.j.a.c. 10:78-2.1,Regulation,state_regulation,NJ,8,2,1,2019,2021,true,exact
 N.J.A.C. 10:81-3.40,n.j.a.c. 10:81-3.40,Regulation,state_regulation,NJ,8,2,2,1987,1988,false,unresolved
 N.J.A.C. 10A:1-11,n.j.a.c. 10a:1-11,Regulation,state_regulation,NJ,8,8,1,2017,2026,true,container
@@ -1033,7 +1036,6 @@ N.J.A.C. 10A:18-6.3,n.j.a.c. 10a:18-6.3,Regulation,state_regulation,NJ,8,4,2,199
 N.J.A.C. 10A:3-9.13,n.j.a.c. 10a:3-9.13,Regulation,state_regulation,NJ,8,4,1,1996,2018,true,exact
 N.J.A.C. 10A:31-2.8,n.j.a.c. 10a:31-2.8,Regulation,state_regulation,NJ,8,4,3,1982,1989,false,unresolved
 N.J.A.C. 10A:71-3.5,n.j.a.c. 10a:71-3.5,Regulation,state_regulation,NJ,8,2,2,1987,1992,true,exact
-N.J.A.C. 10A:71-3.54,n.j.a.c. 10a:71-3.54,Regulation,state_regulation,NJ,8,1,1,2019,2019,true,exact
 N.J.A.C. 10A:71-4.2,n.j.a.c. 10a:71-4.2,Regulation,state_regulation,NJ,8,5,2,1988,2020,true,exact
 N.J.A.C. 10A:71-7.18,n.j.a.c. 10a:71-7.18,Regulation,state_regulation,NJ,8,6,1,2014,2025,true,exact
 N.J.A.C. 11:1-20.1,n.j.a.c. 11:1-20.1,Regulation,state_regulation,NJ,8,4,1,1986,2020,true,exact
@@ -1046,7 +1048,6 @@ N.J.A.C. 12:17-12.4,n.j.a.c. 12:17-12.4,Regulation,state_regulation,NJ,8,3,1,201
 N.J.A.C. 12:17-5.1,n.j.a.c. 12:17-5.1,Regulation,state_regulation,NJ,8,6,1,2015,2026,true,exact
 N.J.A.C. 12:56-4.3,n.j.a.c. 12:56-4.3,Regulation,state_regulation,NJ,8,1,1,1982,1982,true,exact
 N.J.A.C. 13:18-7.7,n.j.a.c. 13:18-7.7,Regulation,state_regulation,NJ,8,3,2,1983,1986,false,unresolved
-N.J.A.C. 13:19-11.1,n.j.a.c. 13:19-11.1,Regulation,state_regulation,NJ,8,6,2,1985,2021,true,exact
 N.J.A.C. 13:45A-1.1,n.j.a.c. 13:45a-1.1,Regulation,state_regulation,NJ,8,8,2,1978,2011,true,exact
 N.J.A.C. 13:48-9.6,n.j.a.c. 13:48-9.6,Regulation,state_regulation,NJ,8,1,1,1990,1990,false,unresolved
 N.J.A.C. 13:51,n.j.a.c. 13:51,Regulation,state_regulation,NJ,8,5,1,1983,2018,true,container
@@ -1103,6 +1104,7 @@ N.J.A.C. 5:23-2.30,n.j.a.c. 5:23-2.30,Regulation,state_regulation,NJ,8,4,2,1992,
 N.J.A.C. 5:23-6.2,n.j.a.c. 5:23-6.2,Regulation,state_regulation,NJ,8,3,2,2009,2025,true,exact
 N.J.A.C. 5:23-7.18,n.j.a.c. 5:23-7.18,Regulation,state_regulation,NJ,8,2,1,1992,1992,true,exact
 N.J.A.C. 5:25-3.1,n.j.a.c. 5:25-3.1,Regulation,state_regulation,NJ,8,4,1,1988,2002,true,exact
+N.J.A.C. 5:25-3.4,n.j.a.c. 5:25-3.4,Regulation,state_regulation,NJ,8,2,2,1984,2006,true,exact
 N.J.A.C. 5:27-1.1,n.j.a.c. 5:27-1.1,Regulation,state_regulation,NJ,8,7,2,1987,2021,true,exact
 N.J.A.C. 5:70-3,n.j.a.c. 5:70-3,Regulation,state_regulation,NJ,8,1,1,2020,2020,true,container
 N.J.A.C. 5:80-26.5,n.j.a.c. 5:80-26.5,Regulation,state_regulation,NJ,8,4,1,2016,2020,true,exact
@@ -1181,7 +1183,6 @@ N.J.A.C. 10:41-3.2,n.j.a.c. 10:41-3.2,Regulation,state_regulation,NJ,7,1,1,2012,
 N.J.A.C. 10:49-10,n.j.a.c. 10:49-10,Regulation,state_regulation,NJ,7,7,1,2018,2021,true,container
 N.J.A.C. 10:52-1.2,n.j.a.c. 10:52-1.2,Regulation,state_regulation,NJ,7,4,2,1978,2017,true,exact
 N.J.A.C. 10:71-2.5,n.j.a.c. 10:71-2.5,Regulation,state_regulation,NJ,7,3,1,2006,2021,true,exact
-N.J.A.C. 10:71-3.11,n.j.a.c. 10:71-3.11,Regulation,state_regulation,NJ,7,5,2,1987,2024,true,exact
 N.J.A.C. 10:71-3.21,n.j.a.c. 10:71-3.21,Regulation,state_regulation,NJ,7,7,1,2018,2025,false,unresolved
 N.J.A.C. 10:71-5.4,n.j.a.c. 10:71-5.4,Regulation,state_regulation,NJ,7,4,2,1993,2007,true,exact
 N.J.A.C. 10:71-5.5,n.j.a.c. 10:71-5.5,Regulation,state_regulation,NJ,7,2,2,1993,2021,true,exact
@@ -1198,8 +1199,8 @@ N.J.A.C. 10A:20-4.42,n.j.a.c. 10a:20-4.42,Regulation,state_regulation,NJ,7,2,1,2
 N.J.A.C. 10A:20-4.5,n.j.a.c. 10a:20-4.5,Regulation,state_regulation,NJ,7,4,1,2006,2020,true,exact
 N.J.A.C. 10A:26-6.3,n.j.a.c. 10a:26-6.3,Regulation,state_regulation,NJ,7,4,2,2002,2021,false,unresolved
 N.J.A.C. 10A:3-6.1,n.j.a.c. 10a:3-6.1,Regulation,state_regulation,NJ,7,4,2,2017,2024,true,exact
-N.J.A.C. 10A:31-3.13,n.j.a.c. 10a:31-3.13,Regulation,state_regulation,NJ,7,4,2,1982,1983,true,exact
 N.J.A.C. 10A:71-3.3,n.j.a.c. 10a:71-3.3,Regulation,state_regulation,NJ,7,5,2,1984,1993,true,exact
+N.J.A.C. 10A:71-7.17B,n.j.a.c. 10a:71-7.17b,Regulation,state_regulation,NJ,7,4,1,2004,2019,true,exact
 N.J.A.C. 10A:71-7.5,n.j.a.c. 10a:71-7.5,Regulation,state_regulation,NJ,7,4,2,1999,2022,true,exact
 N.J.A.C. 10A:72-11.5,n.j.a.c. 10a:72-11.5,Regulation,state_regulation,NJ,7,3,1,2014,2020,true,exact
 N.J.A.C. 10A:72-14.2,n.j.a.c. 10a:72-14.2,Regulation,state_regulation,NJ,7,2,1,2019,2023,true,exact
@@ -1335,6 +1336,7 @@ N.J.A.C. 7:9B-1.1,n.j.a.c. 7:9b-1.1,Regulation,state_regulation,NJ,7,5,2,2002,20
 N.J.A.C. 8:31B-3.1,n.j.a.c. 8:31b-3.1,Regulation,state_regulation,NJ,7,7,2,1986,1991,true,exact
 N.J.A.C. 8:31B-3.41,n.j.a.c. 8:31b-3.41,Regulation,state_regulation,NJ,7,5,3,1987,1992,false,unresolved
 N.J.A.C. 8:33-1.2,n.j.a.c. 8:33-1.2,Regulation,state_regulation,NJ,7,4,1,1997,2020,true,exact
+N.J.A.C. 8:33-3.5,n.j.a.c. 8:33-3.5,Regulation,state_regulation,NJ,7,4,2,1987,2025,true,exact
 N.J.A.C. 8:33-4.14,n.j.a.c. 8:33-4.14,Regulation,state_regulation,NJ,7,5,1,1989,1997,true,exact
 N.J.A.C. 8:33-4.15,n.j.a.c. 8:33-4.15,Regulation,state_regulation,NJ,7,4,2,1997,2020,true,exact
 N.J.A.C. 8:33-5.1,n.j.a.c. 8:33-5.1,Regulation,state_regulation,NJ,7,4,1,2002,2020,true,exact
@@ -1397,7 +1399,6 @@ N.J.A.C. 10A:71-1.5,n.j.a.c. 10a:71-1.5,Regulation,state_regulation,NJ,6,4,1,201
 N.J.A.C. 10A:71-2.11,n.j.a.c. 10a:71-2.11,Regulation,state_regulation,NJ,6,5,2,1984,2022,true,exact
 N.J.A.C. 10A:71-3.20,n.j.a.c. 10a:71-3.20,Regulation,state_regulation,NJ,6,4,2,2018,2026,true,exact
 N.J.A.C. 10A:71-6.13,n.j.a.c. 10a:71-6.13,Regulation,state_regulation,NJ,6,2,2,2016,2017,true,exact
-N.J.A.C. 10A:71-7.17B,n.j.a.c. 10a:71-7.17b,Regulation,state_regulation,NJ,6,4,1,2004,2019,true,exact
 N.J.A.C. 10A:72-14.4,n.j.a.c. 10a:72-14.4,Regulation,state_regulation,NJ,6,3,1,2019,2024,true,exact
 N.J.A.C. 10A:72-3.5,n.j.a.c. 10a:72-3.5,Regulation,state_regulation,NJ,6,2,2,2016,2017,true,exact
 N.J.A.C. 10A:72-3.9,n.j.a.c. 10a:72-3.9,Regulation,state_regulation,NJ,6,2,2,2016,2017,true,exact
@@ -1435,12 +1436,14 @@ N.J.A.C. 13:45A-17.1,n.j.a.c. 13:45a-17.1,Regulation,state_regulation,NJ,6,5,2,2
 N.J.A.C. 13:45A-9.2,n.j.a.c. 13:45a-9.2,Regulation,state_regulation,NJ,6,5,2,2001,2020,true,exact
 N.J.A.C. 13:45A-9.6,n.j.a.c. 13:45a-9.6,Regulation,state_regulation,NJ,6,2,2,2024,2024,true,exact
 N.J.A.C. 13:45H-10.1,n.j.a.c. 13:45h-10.1,Regulation,state_regulation,NJ,6,4,1,2017,2019,true,exact
+N.J.A.C. 13:48-9.3,n.j.a.c. 13:48-9.3,Regulation,state_regulation,NJ,6,1,1,1990,1990,true,exact
 N.J.A.C. 13:51-3.4,n.j.a.c. 13:51-3.4,Regulation,state_regulation,NJ,6,4,1,1989,1994,true,exact
 N.J.A.C. 13:54-1.12,n.j.a.c. 13:54-1.12,Regulation,state_regulation,NJ,6,5,2,2003,2026,true,exact
 N.J.A.C. 13:54-3.9,n.j.a.c. 13:54-3.9,Regulation,state_regulation,NJ,6,1,1,2005,2005,true,exact
 N.J.A.C. 13:60-1.3,n.j.a.c. 13:60-1.3,Regulation,state_regulation,NJ,6,2,2,2020,2023,true,exact
 N.J.A.C. 13:69E-1.15,n.j.a.c. 13:69e-1.15,Regulation,state_regulation,NJ,6,2,1,2024,2024,true,exact
 N.J.A.C. 13:70-14A.ll,n.j.a.c. 13:70-14a.ll,Regulation,state_regulation,NJ,6,1,1,1985,1985,false,unresolved
+N.J.A.C. 13:70-4.15,n.j.a.c. 13:70-4.15,Regulation,state_regulation,NJ,6,1,1,1995,1995,true,exact
 N.J.A.C. 14:18-11.8,n.j.a.c. 14:18-11.8,Regulation,state_regulation,NJ,6,1,1,1980,1980,true,exact
 N.J.A.C. 14:3-1.3,n.j.a.c. 14:3-1.3,Regulation,state_regulation,NJ,6,3,1,2021,2024,true,exact
 N.J.A.C. 14:3-11.8,n.j.a.c. 14:3-11.8,Regulation,state_regulation,NJ,6,1,1,1994,1994,false,unresolved
@@ -1454,6 +1457,7 @@ N.J.A.C. 17:4-2.1,n.j.a.c. 17:4-2.1,Regulation,state_regulation,NJ,6,5,2,1978,20
 N.J.A.C. 17:46-1.3,n.j.a.c. 17:46-1.3,Regulation,state_regulation,NJ,6,3,1,2023,2026,true,exact
 N.J.A.C. 18:12-1.l,n.j.a.c. 18:12-1.l,Regulation,state_regulation,NJ,6,5,2,1993,2008,false,unresolved
 N.J.A.C. 18:12-5.1,n.j.a.c. 18:12-5.1,Regulation,state_regulation,NJ,6,5,2,1983,1991,false,unresolved
+N.J.A.C. 18:12A-1.12,n.j.a.c. 18:12a-1.12,Regulation,state_regulation,NJ,6,4,1,1988,2025,true,exact
 N.J.A.C. 18:12A-1.15,n.j.a.c. 18:12a-1.15,Regulation,state_regulation,NJ,6,5,1,1986,2021,true,exact
 N.J.A.C. 18:15-3.2,n.j.a.c. 18:15-3.2,Regulation,state_regulation,NJ,6,4,1,1980,2005,true,exact
 N.J.A.C. 18:24-24.2,n.j.a.c. 18:24-24.2,Regulation,state_regulation,NJ,6,2,2,1982,1983,false,unresolved
@@ -1474,6 +1478,7 @@ N.J.A.C. 19:48-1.3,n.j.a.c. 19:48-1.3,Regulation,state_regulation,NJ,6,3,1,1987,
 N.J.A.C. 19:53-1.1,n.j.a.c. 19:53-1.1,Regulation,state_regulation,NJ,6,3,2,1988,2000,false,unresolved
 N.J.A.C. 19:53-4.6,n.j.a.c. 19:53-4.6,Regulation,state_regulation,NJ,6,4,3,1995,1999,false,unresolved
 N.J.A.C. 19:9-2.12,n.j.a.c. 19:9-2.12,Regulation,state_regulation,NJ,6,4,1,2019,2026,true,exact
+N.J.A.C. 1:1-15.10,n.j.a.c. 1:1-15.10,Regulation,state_regulation,NJ,6,2,1,2018,2019,true,exact
 N.J.A.C. 1:1-15.2,n.j.a.c. 1:1-15.2,Regulation,state_regulation,NJ,6,6,1,1984,2025,true,exact
 N.J.A.C. 1:1-17.1,n.j.a.c. 1:1-17.1,Regulation,state_regulation,NJ,6,4,2,1990,2018,true,exact
 N.J.A.C. 1:1-18.1,n.j.a.c. 1:1-18.1,Regulation,state_regulation,NJ,6,5,2,2014,2025,true,exact
@@ -1496,7 +1501,6 @@ N.J.A.C. 5:105-2.2,n.j.a.c. 5:105-2.2,Regulation,state_regulation,NJ,6,3,1,2008,
 N.J.A.C. 5:23-4.14,n.j.a.c. 5:23-4.14,Regulation,state_regulation,NJ,6,1,1,2002,2002,true,exact
 N.J.A.C. 5:23-6.31,n.j.a.c. 5:23-6.31,Regulation,state_regulation,NJ,6,1,1,2021,2021,true,exact
 N.J.A.C. 5:24-1.1,n.j.a.c. 5:24-1.1,Regulation,state_regulation,NJ,6,5,1,1980,1992,true,exact
-N.J.A.C. 5:25-3.4,n.j.a.c. 5:25-3.4,Regulation,state_regulation,NJ,6,2,2,2002,2006,true,exact
 N.J.A.C. 5:34-4.3,n.j.a.c. 5:34-4.3,Regulation,state_regulation,NJ,6,2,1,2010,2017,true,exact
 N.J.A.C. 5:34-9.2,n.j.a.c. 5:34-9.2,Regulation,state_regulation,NJ,6,2,1,2009,2009,true,exact
 N.J.A.C. 5:35-1.4,n.j.a.c. 5:35-1.4,Regulation,state_regulation,NJ,6,2,1,2019,2020,true,exact
@@ -1539,6 +1543,7 @@ N.J.A.C. 7:13-5.2,n.j.a.c. 7:13-5.2,Regulation,state_regulation,NJ,6,3,1,1985,20
 N.J.A.C. 7:13-5.4,n.j.a.c. 7:13-5.4,Regulation,state_regulation,NJ,6,2,1,1989,2012,true,exact
 N.J.A.C. 7:13-6.7,n.j.a.c. 7:13-6.7,Regulation,state_regulation,NJ,6,1,1,2024,2024,true,exact
 N.J.A.C. 7:14A-17.4,n.j.a.c. 7:14a-17.4,Regulation,state_regulation,NJ,6,2,1,2017,2021,true,exact
+N.J.A.C. 7:14A-2.5,n.j.a.c. 7:14a-2.5,Regulation,state_regulation,NJ,6,5,2,1987,2008,true,exact
 N.J.A.C. 7:15-5.23,n.j.a.c. 7:15-5.23,Regulation,state_regulation,NJ,6,1,1,1991,1991,true,exact
 N.J.A.C. 7:1B,n.j.a.c. 7:1b,Regulation,state_regulation,NJ,6,2,1,2013,2017,false,unresolved
 N.J.A.C. 7:1C-6.3,n.j.a.c. 7:1c-6.3,Regulation,state_regulation,NJ,6,2,1,2026,2026,true,exact
@@ -1576,7 +1581,6 @@ N.J.A.C. 7:9A-2.1,n.j.a.c. 7:9a-2.1,Regulation,state_regulation,NJ,6,1,1,2025,20
 N.J.A.C. 7:lB-2.2,n.j.a.c. 7:lb-2.2,Regulation,state_regulation,NJ,6,1,1,2013,2013,false,unresolved
 N.J.A.C. 8:31B-3.72,n.j.a.c. 8:31b-3.72,Regulation,state_regulation,NJ,6,2,1,1986,1990,false,unresolved
 N.J.A.C. 8:31B-4.32,n.j.a.c. 8:31b-4.32,Regulation,state_regulation,NJ,6,2,2,1986,1990,true,exact
-N.J.A.C. 8:33-3.5,n.j.a.c. 8:33-3.5,Regulation,state_regulation,NJ,6,4,2,1987,2025,true,exact
 N.J.A.C. 8:33E,n.j.a.c. 8:33e,Regulation,state_regulation,NJ,6,1,1,2020,2020,true,container
 N.J.A.C. 8:33E-1.1,n.j.a.c. 8:33e-1.1,Regulation,state_regulation,NJ,6,3,1,1987,2020,true,exact
 N.J.A.C. 8:43E-10.7,n.j.a.c. 8:43e-10.7,Regulation,state_regulation,NJ,6,5,2,2012,2019,true,exact
@@ -1679,6 +1683,7 @@ N.J.A.C. 13-.70-14A.10,n.j.a.c. 13-.70-14a.10,Regulation,state_regulation,NJ,5,1
 N.J.A.C. 13:18-3.11,n.j.a.c. 13:18-3.11,Regulation,state_regulation,NJ,5,1,1,2000,2000,true,exact
 N.J.A.C. 13:1E-,n.j.a.c. 13:1e-,Regulation,state_regulation,NJ,5,2,2,2018,2021,false,unresolved
 N.J.A.C. 13:2-17.3,n.j.a.c. 13:2-17.3,Regulation,state_regulation,NJ,5,1,1,2022,2022,true,exact
+N.J.A.C. 13:2-23.13,n.j.a.c. 13:2-23.13,Regulation,state_regulation,NJ,5,1,1,1985,1985,true,exact
 N.J.A.C. 13:2-24.1,n.j.a.c. 13:2-24.1,Regulation,state_regulation,NJ,5,2,1,1980,1983,true,exact
 N.J.A.C. 13:21-21.10,n.j.a.c. 13:21-21.10,Regulation,state_regulation,NJ,5,2,1,2001,2017,true,exact
 N.J.A.C. 13:21-8.2,n.j.a.c. 13:21-8.2,Regulation,state_regulation,NJ,5,5,2,2012,2025,true,exact
@@ -1698,9 +1703,9 @@ N.J.A.C. 13:45A-21.2,n.j.a.c. 13:45a-21.2,Regulation,state_regulation,NJ,5,3,2,1
 N.J.A.C. 13:45A-31.5,n.j.a.c. 13:45a-31.5,Regulation,state_regulation,NJ,5,3,2,2018,2020,true,exact
 N.J.A.C. 13:45B-1.2,n.j.a.c. 13:45b-1.2,Regulation,state_regulation,NJ,5,2,1,2001,2015,true,exact
 N.J.A.C. 13:54-2.1,n.j.a.c. 13:54-2.1,Regulation,state_regulation,NJ,5,5,1,2003,2026,true,exact
+N.J.A.C. 13:55-1.11,n.j.a.c. 13:55-1.11,Regulation,state_regulation,NJ,5,2,1,1983,2019,true,exact
 N.J.A.C. 13:59-1,n.j.a.c. 13:59-1,Regulation,state_regulation,NJ,5,3,1,2000,2020,true,container
 N.J.A.C. 13:59-1.3,n.j.a.c. 13:59-1.3,Regulation,state_regulation,NJ,5,1,1,2000,2000,true,exact
-N.J.A.C. 13:70-4.15,n.j.a.c. 13:70-4.15,Regulation,state_regulation,NJ,5,1,1,1995,1995,true,exact
 N.J.A.C. 13:71-2.3,n.j.a.c. 13:71-2.3,Regulation,state_regulation,NJ,5,4,1,1989,2021,true,exact
 N.J.A.C. 13:71-23.3A,n.j.a.c. 13:71-23.3a,Regulation,state_regulation,NJ,5,1,1,2001,2001,true,exact
 N.J.A.C. 13:71-5.2,n.j.a.c. 13:71-5.2,Regulation,state_regulation,NJ,5,3,2,1982,1983,true,exact
@@ -1730,7 +1735,6 @@ N.J.A.C. 17:9-6.1,n.j.a.c. 17:9-6.1,Regulation,state_regulation,NJ,5,2,1,2001,20
 N.J.A.C. 18,n.j.a.c. 18,Regulation,state_regulation,NJ,5,4,1,1973,2014,false,unresolved
 N.J.A.C. 18:12-2.1,n.j.a.c. 18:12-2.1,Regulation,state_regulation,NJ,5,5,1,1992,2009,true,exact
 N.J.A.C. 18:12A-,n.j.a.c. 18:12a-,Regulation,state_regulation,NJ,5,4,2,2017,2022,false,unresolved
-N.J.A.C. 18:12A-1.12,n.j.a.c. 18:12a-1.12,Regulation,state_regulation,NJ,5,4,1,2017,2025,true,exact
 N.J.A.C. 18:15-4.4,n.j.a.c. 18:15-4.4,Regulation,state_regulation,NJ,5,3,1,1981,2005,true,exact
 N.J.A.C. 18:24-13.2,n.j.a.c. 18:24-13.2,Regulation,state_regulation,NJ,5,1,1,1997,1997,true,exact
 N.J.A.C. 18:24-2.14,n.j.a.c. 18:24-2.14,Regulation,state_regulation,NJ,5,1,1,1985,1985,true,exact
@@ -1767,7 +1771,6 @@ N.J.A.C. 19:9-2.13,n.j.a.c. 19:9-2.13,Regulation,state_regulation,NJ,5,2,1,2019,
 N.J.A.C. 19:9-2.2,n.j.a.c. 19:9-2.2,Regulation,state_regulation,NJ,5,3,2,2024,2025,true,exact
 N.J.A.C. 1:1-1.3,n.j.a.c. 1:1-1.3,Regulation,state_regulation,NJ,5,5,2,1991,2025,true,exact
 N.J.A.C. 1:1-13.1,n.j.a.c. 1:1-13.1,Regulation,state_regulation,NJ,5,5,3,1982,2019,true,exact
-N.J.A.C. 1:1-15.10,n.j.a.c. 1:1-15.10,Regulation,state_regulation,NJ,5,2,1,2018,2019,true,exact
 N.J.A.C. 1:1-15.8,n.j.a.c. 1:1-15.8,Regulation,state_regulation,NJ,5,4,1,1984,2025,true,exact
 N.J.A.C. 1:1-5.4,n.j.a.c. 1:1-5.4,Regulation,state_regulation,NJ,5,5,2,1982,2020,true,exact
 N.J.A.C. 1:1-8.1,n.j.a.c. 1:1-8.1,Regulation,state_regulation,NJ,5,1,1,2001,2001,true,exact
@@ -1851,7 +1854,6 @@ N.J.A.C. 7,n.j.a.c. 7,Regulation,state_regulation,NJ,5,5,2,1992,2019,false,unres
 N.J.A.C. 7:13-1,n.j.a.c. 7:13-1,Regulation,state_regulation,NJ,5,4,2,2018,2025,true,container
 N.J.A.C. 7:13-12.5,n.j.a.c. 7:13-12.5,Regulation,state_regulation,NJ,5,3,1,2020,2024,true,exact
 N.J.A.C. 7:13-4.7,n.j.a.c. 7:13-4.7,Regulation,state_regulation,NJ,5,2,1,1985,1989,false,unresolved
-N.J.A.C. 7:14A-2.5,n.j.a.c. 7:14a-2.5,Regulation,state_regulation,NJ,5,5,2,1988,2008,true,exact
 N.J.A.C. 7:14A-8.1,n.j.a.c. 7:14a-8.1,Regulation,state_regulation,NJ,5,2,2,1990,2005,true,exact
 N.J.A.C. 7:15-4.1,n.j.a.c. 7:15-4.1,Regulation,state_regulation,NJ,5,1,1,1991,1991,true,exact
 N.J.A.C. 7:1D-3.2,n.j.a.c. 7:1d-3.2,Regulation,state_regulation,NJ,5,2,1,2017,2020,true,exact
@@ -1942,7 +1944,7 @@ N.J.A.C. § 1:6A-10.1,n.j.a.c. § 1:6a-10.1,Regulation,state_regulation,NJ,5,4,1
 N.J.A.C. § 5:23-2.32,n.j.a.c. § 5:23-2.32,Regulation,state_regulation,NJ,5,1,1,2021,2021,true,exact
 N.J.A.C. § 5:93-9.17,n.j.a.c. § 5:93-9.17,Regulation,state_regulation,NJ,5,1,1,2017,2017,false,unresolved
 N.J.A.C. § 6:28-6.5,n.j.a.c. § 6:28-6.5,Regulation,state_regulation,NJ,5,1,1,2000,2000,false,unresolved
-N.J.A.C. § 7:26-2D.l,n.j.a.c. § 7:26-2d.l,Regulation,state_regulation,NJ,5,1,1,2007,2007,false,unresolved
+N.J.A.C. § 7:26-2D.1,n.j.a.c. § 7:26-2d.1,Regulation,state_regulation,NJ,5,1,1,2007,2007,true,exact
 "New Jersey Uniform Fire Code (UFC), N.J.A.C. 5:70-1.1","new jersey uniform fire code (ufc), n.j.a.c. 5:70-1.1",Regulation,state_regulation,NJ,5,3,2,2014,2021,true,exact
 OAL. N.J.A.C. 6A:14-2.7,oal. n.j.a.c. 6a:14-2.7,Regulation,state_regulation,NJ,5,5,1,2022,2024,true,exact
 OF N.J.A.C. 5:96,of n.j.a.c. 5:96,Regulation,state_regulation,NJ,5,2,1,2013,2015,false,unresolved
@@ -2091,7 +2093,6 @@ N.J.A.C. 13:19-10.3,n.j.a.c. 13:19-10.3,Regulation,state_regulation,NJ,4,1,1,199
 N.J.A.C. 13:19-10.6,n.j.a.c. 13:19-10.6,Regulation,state_regulation,NJ,4,4,1,1986,2021,true,exact
 N.J.A.C. 13:2,n.j.a.c. 13:2,Regulation,state_regulation,NJ,4,4,2,1980,2007,true,container
 N.J.A.C. 13:2-19.11,n.j.a.c. 13:2-19.11,Regulation,state_regulation,NJ,4,3,2,2007,2019,true,exact
-N.J.A.C. 13:2-23.13,n.j.a.c. 13:2-23.13,Regulation,state_regulation,NJ,4,1,1,1985,1985,true,exact
 N.J.A.C. 13:20-44.20,n.j.a.c. 13:20-44.20,Regulation,state_regulation,NJ,4,1,1,2020,2020,true,exact
 N.J.A.C. 13:21-1.3,n.j.a.c. 13:21-1.3,Regulation,state_regulation,NJ,4,1,1,2007,2007,true,exact
 N.J.A.C. 13:21-15.7,n.j.a.c. 13:21-15.7,Regulation,state_regulation,NJ,4,2,2,2018,2021,true,exact
@@ -2118,13 +2119,11 @@ N.J.A.C. 13:45A-28.8,n.j.a.c. 13:45a-28.8,Regulation,state_regulation,NJ,4,1,1,2
 N.J.A.C. 13:45A-31.2,n.j.a.c. 13:45a-31.2,Regulation,state_regulation,NJ,4,2,1,2018,2018,true,exact
 N.J.A.C. 13:45B-1.1,n.j.a.c. 13:45b-1.1,Regulation,state_regulation,NJ,4,3,1,2001,2015,true,exact
 N.J.A.C. 13:45H-1.7,n.j.a.c. 13:45h-1.7,Regulation,state_regulation,NJ,4,2,1,2019,2019,true,exact
-N.J.A.C. 13:48-9.3,n.j.a.c. 13:48-9.3,Regulation,state_regulation,NJ,4,1,1,1990,1990,true,exact
 N.J.A.C. 13:51-1.14,n.j.a.c. 13:51-1.14,Regulation,state_regulation,NJ,4,2,1,2003,2006,true,exact
 N.J.A.C. 13:54-1.11,n.j.a.c. 13:54-1.11,Regulation,state_regulation,NJ,4,1,1,2003,2003,true,exact
 N.J.A.C. 13:54-1.5,n.j.a.c. 13:54-1.5,Regulation,state_regulation,NJ,4,3,2,2016,2026,true,exact
 N.J.A.C. 13:54-2.5,n.j.a.c. 13:54-2.5,Regulation,state_regulation,NJ,4,2,2,2003,2020,true,exact
 N.J.A.C. 13:54-6.5,n.j.a.c. 13:54-6.5,Regulation,state_regulation,NJ,4,2,1,2003,2005,true,exact
-N.J.A.C. 13:55-1.11,n.j.a.c. 13:55-1.11,Regulation,state_regulation,NJ,4,2,1,1983,2019,true,exact
 N.J.A.C. 13:55A-3.7,n.j.a.c. 13:55a-3.7,Regulation,state_regulation,NJ,4,3,1,2019,2021,true,exact
 N.J.A.C. 13:59-2.1,n.j.a.c. 13:59-2.1,Regulation,state_regulation,NJ,4,3,2,2012,2021,true,exact
 N.J.A.C. 13:60,n.j.a.c. 13:60,Regulation,state_regulation,NJ,4,2,2,2020,2023,true,container
@@ -2195,6 +2194,7 @@ N.J.A.C. 18:30-6.8,n.j.a.c. 18:30-6.8,Regulation,state_regulation,NJ,4,2,1,1981,
 N.J.A.C. 18:35-1.6,n.j.a.c. 18:35-1.6,Regulation,state_regulation,NJ,4,2,1,2023,2023,true,exact
 N.J.A.C. 18:35-11.6,n.j.a.c. 18:35-11.6,Regulation,state_regulation,NJ,4,4,2,2018,2021,true,exact
 N.J.A.C. 18:7-1.16,n.j.a.c. 18:7-1.16,Regulation,state_regulation,NJ,4,1,1,2006,2006,true,exact
+N.J.A.C. 18:7-1.8,n.j.a.c. 18:7-1.8,Regulation,state_regulation,NJ,4,2,1,1983,2023,true,exact
 N.J.A.C. 18:7-5.1,n.j.a.c. 18:7-5.1,Regulation,state_regulation,NJ,4,2,1,1992,1994,true,exact
 N.J.A.C. 19:14-10.2,n.j.a.c. 19:14-10.2,Regulation,state_regulation,NJ,4,3,2,1978,2018,true,exact
 N.J.A.C. 19:14-4.8,n.j.a.c. 19:14-4.8,Regulation,state_regulation,NJ,4,2,1,2022,2024,true,exact
@@ -2840,7 +2840,6 @@ N.J.A.C. 18:30-3.5,n.j.a.c. 18:30-3.5,Regulation,state_regulation,NJ,3,1,1,1983,
 N.J.A.C. 18:30-9.1,n.j.a.c. 18:30-9.1,Regulation,state_regulation,NJ,3,1,1,1983,1983,false,unresolved
 N.J.A.C. 18:35-7,n.j.a.c. 18:35-7,Regulation,state_regulation,NJ,3,3,1,2026,2026,true,container
 N.J.A.C. 18:5-8.9,n.j.a.c. 18:5-8.9,Regulation,state_regulation,NJ,3,1,1,2025,2025,true,exact
-N.J.A.C. 18:7-1.8,n.j.a.c. 18:7-1.8,Regulation,state_regulation,NJ,3,2,1,1985,2023,true,exact
 N.J.A.C. 18:7-11.5,n.j.a.c. 18:7-11.5,Regulation,state_regulation,NJ,3,2,1,1986,1991,true,exact
 N.J.A.C. 18:7-4.15,n.j.a.c. 18:7-4.15,Regulation,state_regulation,NJ,3,3,2,1983,1995,true,exact
 N.J.A.C. 18:7-8.9,n.j.a.c. 18:7-8.9,Regulation,state_regulation,NJ,3,2,2,1982,1984,true,exact
@@ -2934,7 +2933,6 @@ N.J.A.C. 4A:10-1.1,n.j.a.c. 4a:10-1.1,Regulation,state_regulation,NJ,3,2,1,2002,
 N.J.A.C. 4A:2-3.2,n.j.a.c. 4a:2-3.2,Regulation,state_regulation,NJ,3,2,1,2020,2022,true,exact
 N.J.A.C. 4A:2-6.1,n.j.a.c. 4a:2-6.1,Regulation,state_regulation,NJ,3,3,1,2018,2019,true,exact
 N.J.A.C. 4A:2.2.12,n.j.a.c. 4a:2.2.12,Regulation,state_regulation,NJ,3,1,1,2025,2025,false,unresolved
-N.J.A.C. 4A:3-4.-1,n.j.a.c. 4a:3-4.-1,Regulation,state_regulation,NJ,3,1,1,1991,1991,false,unresolved
 N.J.A.C. 4A:3-5.2,n.j.a.c. 4a:3-5.2,Regulation,state_regulation,NJ,3,1,1,1990,1990,true,exact
 N.J.A.C. 4A:4-2,n.j.a.c. 4a:4-2,Regulation,state_regulation,NJ,3,3,2,2015,2021,true,container
 N.J.A.C. 4A:4-2.15,n.j.a.c. 4a:4-2.15,Regulation,state_regulation,NJ,3,3,2,2000,2025,true,exact
@@ -2977,6 +2975,7 @@ N.J.A.C. 5:23-2.21,n.j.a.c. 5:23-2.21,Regulation,state_regulation,NJ,3,3,2,2005,
 N.J.A.C. 5:23-2.24,n.j.a.c. 5:23-2.24,Regulation,state_regulation,NJ,3,3,2,2008,2023,true,exact
 N.J.A.C. 5:23-2.35,n.j.a.c. 5:23-2.35,Regulation,state_regulation,NJ,3,2,1,1984,1995,true,exact
 N.J.A.C. 5:23-2.37,n.j.a.c. 5:23-2.37,Regulation,state_regulation,NJ,3,1,1,1984,1984,true,exact
+N.J.A.C. 5:23-2.5,n.j.a.c. 5:23-2.5,Regulation,state_regulation,NJ,3,2,1,1980,1985,true,exact
 N.J.A.C. 5:23-2.7,n.j.a.c. 5:23-2.7,Regulation,state_regulation,NJ,3,2,2,1982,2002,true,exact
 N.J.A.C. 5:23-3.11,n.j.a.c. 5:23-3.11,Regulation,state_regulation,NJ,3,3,2,1986,1988,true,exact
 N.J.A.C. 5:23-5.6,n.j.a.c. 5:23-5.6,Regulation,state_regulation,NJ,3,1,1,1980,1980,true,exact
@@ -2987,6 +2986,8 @@ N.J.A.C. 5:25-2.1,n.j.a.c. 5:25-2.1,Regulation,state_regulation,NJ,3,3,2,2008,20
 N.J.A.C. 5:25-3.2,n.j.a.c. 5:25-3.2,Regulation,state_regulation,NJ,3,2,2,1984,2002,true,exact
 N.J.A.C. 5:26,n.j.a.c. 5:26,Regulation,state_regulation,NJ,3,2,1,2024,2024,true,container
 N.J.A.C. 5:26-7.2,n.j.a.c. 5:26-7.2,Regulation,state_regulation,NJ,3,2,2,1993,2016,true,exact
+N.J.A.C. 5:26-8.10,n.j.a.c. 5:26-8.10,Regulation,state_regulation,NJ,3,1,1,2024,2024,true,exact
+N.J.A.C. 5:26-8.8,n.j.a.c. 5:26-8.8,Regulation,state_regulation,NJ,3,1,1,2024,2024,true,exact
 N.J.A.C. 5:27-1.9,n.j.a.c. 5:27-1.9,Regulation,state_regulation,NJ,3,1,1,2017,2017,true,exact
 N.J.A.C. 5:27-3.3,n.j.a.c. 5:27-3.3,Regulation,state_regulation,NJ,3,3,2,1987,2020,true,exact
 N.J.A.C. 5:27-4.1,n.j.a.c. 5:27-4.1,Regulation,state_regulation,NJ,3,2,1,1987,2017,true,exact
@@ -3140,7 +3141,7 @@ N.J.A.C. 7:26G-2.5,n.j.a.c. 7:26g-2.5,Regulation,state_regulation,NJ,3,1,1,2004,
 N.J.A.C. 7:26G-3.3,n.j.a.c. 7:26g-3.3,Regulation,state_regulation,NJ,3,2,2,1999,2004,true,exact
 N.J.A.C. 7:26H-6.1,n.j.a.c. 7:26h-6.1,Regulation,state_regulation,NJ,3,1,1,2017,2017,true,exact
 N.J.A.C. 7:27,n.j.a.c. 7:27,Regulation,state_regulation,NJ,3,2,1,1976,1989,true,container
-N.J.A.C. 7:27-16.-3,n.j.a.c. 7:27-16.-3,Regulation,state_regulation,NJ,3,1,1,1989,1989,false,unresolved
+N.J.A.C. 7:27-16.3,n.j.a.c. 7:27-16.3,Regulation,state_regulation,NJ,3,1,1,1989,1989,true,exact
 N.J.A.C. 7:27-18.3,n.j.a.c. 7:27-18.3,Regulation,state_regulation,NJ,3,3,1,1995,2026,true,exact
 N.J.A.C. 7:27-27.6,n.j.a.c. 7:27-27.6,Regulation,state_regulation,NJ,3,1,1,2007,2007,true,exact
 N.J.A.C. 7:27-8.1,n.j.a.c. 7:27-8.1,Regulation,state_regulation,NJ,3,2,1,1990,2001,true,exact
@@ -3325,7 +3326,6 @@ New Jersey NYCRR 603.3,new jersey nycrr 603.3,Regulation,state_regulation,NJ,3,3
 1 N.J.A.C. 10A:4-5.1,1 n.j.a.c. 10a:4-5.1,Regulation,state_regulation,NJ,2,2,1,2020,2021,false,unresolved
 12 Section (b)(10) of N.J.A.C. 7:36-25.13,12 section (b)(10) of n.j.a.c. 7:36-25.13,Regulation,state_regulation,NJ,2,2,1,2022,2022,false,unresolved
 "130 (1982), and PERC, N.J.A.C. 19:16-5.7","130 (1982), and perc, n.j.a.c. 19:16-5.7",Regulation,state_regulation,NJ,2,2,2,1994,1996,false,unresolved
-"139 N.J. 188, 192 (1995). N.J.A.C. 10A:4-9.15","139 n.j. 188, 192 (1995). n.j.a.c. 10a:4-9.15",Regulation,state_regulation,NJ,2,2,1,2020,2020,false,unresolved
 14 N.J.Admin.Reg. § 1459,14 n.j.admin.reg. § 1459,Regulation,state_regulation,NJ,2,1,1,1983,1983,false,unresolved
 18 N.J. Admin. Code § 7:7A-3.1,18 n.j. admin. code § 7:7a-3.1,Regulation,state_regulation,NJ,2,2,1,2016,2017,false,unresolved
 2 N.J.A.C. 10:49-10.3,2 n.j.a.c. 10:49-10.3,Regulation,state_regulation,NJ,2,2,1,2021,2021,false,unresolved
@@ -3341,7 +3341,6 @@ New Jersey NYCRR 603.3,new jersey nycrr 603.3,Regulation,state_regulation,NJ,3,3
 4 N.J.A.C. 10A:71-3.11,4 n.j.a.c. 10a:71-3.11,Regulation,state_regulation,NJ,2,2,1,2017,2017,false,unresolved
 40 N.J. Admin. Code § 7.7A-15:16,40 n.j. admin. code § 7.7a-15:16,Regulation,state_regulation,NJ,2,2,1,2016,2017,false,unresolved
 43 N.J. Reg. § 1625,43 n.j. reg. § 1625,Regulation,state_regulation,NJ,2,1,1,2016,2016,false,unresolved
-"442 U.S. 1, 10 (1979)). N.J.A.C. 10A:71-3.11","442 u.s. 1, 10 (1979)). n.j.a.c. 10a:71-3.11",Regulation,state_regulation,NJ,2,1,1,2022,2022,false,unresolved
 5 N.J.A.C. 18:12-1.1,5 n.j.a.c. 18:12-1.1,Regulation,state_regulation,NJ,2,2,1,2026,2026,false,unresolved
 5 N.J.A.C. 3A:10-7.3,5 n.j.a.c. 3a:10-7.3,Regulation,state_regulation,NJ,2,2,1,2018,2025,false,unresolved
 6 N.J.A.C. 7:7-16.9,6 n.j.a.c. 7:7-16.9,Regulation,state_regulation,NJ,2,2,1,2015,2015,false,unresolved
@@ -3395,6 +3394,7 @@ IRS. N.J.A.C. 18:7-13.8,irs. n.j.a.c. 18:7-13.8,Regulation,state_regulation,NJ,2
 MCCA. N.J.A.C. 10:49-1.1,mcca. n.j.a.c. 10:49-1.1,Regulation,state_regulation,NJ,2,2,1,2007,2007,true,exact
 MPAP. N.J.A.C. 7:7-16.9,mpap. n.j.a.c. 7:7-16.9,Regulation,state_regulation,NJ,2,2,1,2015,2015,true,exact
 MWD. N.J.A.C. 10:89-5.2,mwd. n.j.a.c. 10:89-5.2,Regulation,state_regulation,NJ,2,2,1,1982,1982,false,unresolved
+N.J Admin. Code § 6A:14-1.1,n.j admin. code § 6a:14-1.1,Regulation,state_regulation,NJ,2,1,1,2005,2005,true,exact
 N.J. Admin. Code 10:71-4.10,n.j. admin. code 10:71-4.10,Regulation,state_regulation,NJ,2,1,1,2017,2017,true,exact
 N.J. Admin. Code 10A:18-3.2,n.j. admin. code 10a:18-3.2,Regulation,state_regulation,NJ,2,1,1,2024,2024,true,exact
 N.J. Admin. Code 10A:18-3.4,n.j. admin. code 10a:18-3.4,Regulation,state_regulation,NJ,2,1,1,2024,2024,true,exact
@@ -3712,7 +3712,6 @@ N.J.A.C. 10A:31-13.24,n.j.a.c. 10a:31-13.24,Regulation,state_regulation,NJ,2,1,1
 N.J.A.C. 10A:31-21.8,n.j.a.c. 10a:31-21.8,Regulation,state_regulation,NJ,2,1,1,2024,2024,true,exact
 N.J.A.C. 10A:31-22.2,n.j.a.c. 10a:31-22.2,Regulation,state_regulation,NJ,2,2,2,1997,2020,true,exact
 N.J.A.C. 10A:31-25.22,n.j.a.c. 10a:31-25.22,Regulation,state_regulation,NJ,2,2,1,2018,2018,true,exact
-N.J.A.C. 10A:31-3.-13,n.j.a.c. 10a:31-3.-13,Regulation,state_regulation,NJ,2,1,1,1983,1983,false,unresolved
 N.J.A.C. 10A:31-3.5,n.j.a.c. 10a:31-3.5,Regulation,state_regulation,NJ,2,1,1,1988,1988,true,exact
 N.J.A.C. 10A:31-5.1,n.j.a.c. 10a:31-5.1,Regulation,state_regulation,NJ,2,2,1,1989,1989,true,exact
 N.J.A.C. 10A:31-7.1,n.j.a.c. 10a:31-7.1,Regulation,state_regulation,NJ,2,2,1,2017,2024,true,exact
@@ -4189,6 +4188,7 @@ N.J.A.C. 18:24-25.1,n.j.a.c. 18:24-25.1,Regulation,state_regulation,NJ,2,2,1,198
 N.J.A.C. 18:24-5.6,n.j.a.c. 18:24-5.6,Regulation,state_regulation,NJ,2,2,1,1981,2017,true,exact
 N.J.A.C. 18:24-6.2,n.j.a.c. 18:24-6.2,Regulation,state_regulation,NJ,2,1,1,1982,1982,true,exact
 N.J.A.C. 18:24-6.4,n.j.a.c. 18:24-6.4,Regulation,state_regulation,NJ,2,1,1,1982,1982,true,exact
+N.J.A.C. 18:24-7.8,n.j.a.c. 18:24-7.8,Regulation,state_regulation,NJ,2,1,1,1996,1996,true,exact
 N.J.A.C. 18:26-10.12,n.j.a.c. 18:26-10.12,Regulation,state_regulation,NJ,2,1,1,2010,2010,true,exact
 N.J.A.C. 18:26-11.1,n.j.a.c. 18:26-11.1,Regulation,state_regulation,NJ,2,1,1,1996,1996,true,exact
 N.J.A.C. 18:26-12.12,n.j.a.c. 18:26-12.12,Regulation,state_regulation,NJ,2,1,1,1996,1996,true,exact
@@ -4386,7 +4386,6 @@ N.J.A.C. 4A4-1.1,n.j.a.c. 4a4-1.1,Regulation,state_regulation,NJ,2,2,1,2010,2010
 N.J.A.C. 4A:10-2.1,n.j.a.c. 4a:10-2.1,Regulation,state_regulation,NJ,2,2,1,1998,1998,true,exact
 N.J.A.C. 4A:17-4:4.1,n.j.a.c. 4a:17-4:4.1,Regulation,state_regulation,NJ,2,2,1,2015,2015,false,unresolved
 N.J.A.C. 4A:2-1.7,n.j.a.c. 4a:2-1.7,Regulation,state_regulation,NJ,2,2,1,1993,2017,true,exact
-N.J.A.C. 4A:2-2.-3,n.j.a.c. 4a:2-2.-3,Regulation,state_regulation,NJ,2,2,2,1989,1990,false,unresolved
 N.J.A.C. 4A:2-2.3a,n.j.a.c. 4a:2-2.3a,Regulation,state_regulation,NJ,2,1,1,2004,2004,false,unresolved
 N.J.A.C. 4A:2-3,n.j.a.c. 4a:2-3,Regulation,state_regulation,NJ,2,2,1,2017,2020,true,container
 N.J.A.C. 4A:2-3.7,n.j.a.c. 4a:2-3.7,Regulation,state_regulation,NJ,2,2,1,2020,2022,true,exact
@@ -4456,7 +4455,6 @@ N.J.A.C. 5:21-4-3,n.j.a.c. 5:21-4-3,Regulation,state_regulation,NJ,2,2,1,1999,19
 N.J.A.C. 5:21-5.1,n.j.a.c. 5:21-5.1,Regulation,state_regulation,NJ,2,2,2,1999,2010,true,exact
 N.J.A.C. 5:21-7.5,n.j.a.c. 5:21-7.5,Regulation,state_regulation,NJ,2,2,1,2005,2008,true,exact
 N.J.A.C. 5:23-12.1,n.j.a.c. 5:23-12.1,Regulation,state_regulation,NJ,2,1,1,2018,2018,true,exact
-N.J.A.C. 5:23-2.5,n.j.a.c. 5:23-2.5,Regulation,state_regulation,NJ,2,2,1,1980,1984,true,exact
 N.J.A.C. 5:23-2.9,n.j.a.c. 5:23-2.9,Regulation,state_regulation,NJ,2,2,1,1981,2000,true,exact
 N.J.A.C. 5:23-3.10,n.j.a.c. 5:23-3.10,Regulation,state_regulation,NJ,2,1,1,1986,1986,true,exact
 N.J.A.C. 5:23-3.18,n.j.a.c. 5:23-3.18,Regulation,state_regulation,NJ,2,1,1,1988,1988,true,exact
@@ -4469,7 +4467,6 @@ N.J.A.C. 5:24,n.j.a.c. 5:24,Regulation,state_regulation,NJ,2,2,2,1983,1988,true,
 N.J.A.C. 5:24-1.6,n.j.a.c. 5:24-1.6,Regulation,state_regulation,NJ,2,2,1,1987,1988,true,exact
 N.J.A.C. 5:24-5.5,n.j.a.c. 5:24-5.5,Regulation,state_regulation,NJ,2,1,1,1990,1990,false,unresolved
 N.J.A.C. 5:25-1.4,n.j.a.c. 5:25-1.4,Regulation,state_regulation,NJ,2,1,1,2002,2002,true,exact
-N.J.A.C. 5:25-3.-4,n.j.a.c. 5:25-3.-4,Regulation,state_regulation,NJ,2,1,1,1984,1984,false,unresolved
 N.J.A.C. 5:25-3.1a,n.j.a.c. 5:25-3.1a,Regulation,state_regulation,NJ,2,1,1,1987,1987,false,unresolved
 N.J.A.C. 5:25-3.3,n.j.a.c. 5:25-3.3,Regulation,state_regulation,NJ,2,2,2,1984,1991,true,exact
 N.J.A.C. 5:25A-1.3,n.j.a.c. 5:25a-1.3,Regulation,state_regulation,NJ,2,1,1,1993,1993,false,unresolved
@@ -4477,8 +4474,6 @@ N.J.A.C. 5:26-3.1,n.j.a.c. 5:26-3.1,Regulation,state_regulation,NJ,2,2,1,1989,19
 N.J.A.C. 5:26-4.1,n.j.a.c. 5:26-4.1,Regulation,state_regulation,NJ,2,2,1,1993,1997,true,exact
 N.J.A.C. 5:26-6.6,n.j.a.c. 5:26-6.6,Regulation,state_regulation,NJ,2,1,1,1991,1991,true,exact
 N.J.A.C. 5:26-7.1,n.j.a.c. 5:26-7.1,Regulation,state_regulation,NJ,2,1,1,1993,1993,true,exact
-N.J.A.C. 5:26-8.10,n.j.a.c. 5:26-8.10,Regulation,state_regulation,NJ,2,1,1,2024,2024,true,exact
-N.J.A.C. 5:26-8.8,n.j.a.c. 5:26-8.8,Regulation,state_regulation,NJ,2,1,1,2024,2024,true,exact
 N.J.A.C. 5:26-9.2,n.j.a.c. 5:26-9.2,Regulation,state_regulation,NJ,2,2,1,1990,1992,true,exact
 N.J.A.C. 5:27-6.1,n.j.a.c. 5:27-6.1,Regulation,state_regulation,NJ,2,1,1,1987,1987,true,exact
 N.J.A.C. 5:27-7.3,n.j.a.c. 5:27-7.3,Regulation,state_regulation,NJ,2,2,1,1990,1990,true,exact
@@ -4937,8 +4932,8 @@ N.J.A.C. 8:31B-3.17,n.j.a.c. 8:31b-3.17,Regulation,state_regulation,NJ,2,2,1,198
 N.J.A.C. 8:31B-3.18,n.j.a.c. 8:31b-3.18,Regulation,state_regulation,NJ,2,2,2,1985,1991,true,exact
 N.J.A.C. 8:31B-3.37,n.j.a.c. 8:31b-3.37,Regulation,state_regulation,NJ,2,2,1,1988,1990,false,unresolved
 N.J.A.C. 8:31B-3.39,n.j.a.c. 8:31b-3.39,Regulation,state_regulation,NJ,2,1,1,1992,1992,false,unresolved
-N.J.A.C. 8:31B-4.-16,n.j.a.c. 8:31b-4.-16,Regulation,state_regulation,NJ,2,1,1,1983,1983,false,unresolved
 N.J.A.C. 8:31B-4.1,n.j.a.c. 8:31b-4.1,Regulation,state_regulation,NJ,2,1,1,2021,2021,true,exact
+N.J.A.C. 8:31B-4.16,n.j.a.c. 8:31b-4.16,Regulation,state_regulation,NJ,2,1,1,1983,1983,true,exact
 N.J.A.C. 8:31B-4.38,n.j.a.c. 8:31b-4.38,Regulation,state_regulation,NJ,2,2,1,1988,1988,true,exact
 N.J.A.C. 8:31B-7.1,n.j.a.c. 8:31b-7.1,Regulation,state_regulation,NJ,2,2,1,1988,1988,false,unresolved
 N.J.A.C. 8:31b,n.j.a.c. 8:31b,Regulation,state_regulation,NJ,2,2,1,1988,1993,true,container
@@ -5223,7 +5218,6 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 10 N.J.A.C. 7:7-9.2,10 n.j.a.c. 7:7-9.2,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 "10 N.J.Tax 402, 405-06 (Tax 1989). N.J.A.C. 18:35-1.12","10 n.j.tax 402, 405-06 (tax 1989). n.j.a.c. 18:35-1.12",Regulation,state_regulation,NJ,1,1,1,1994,1994,false,unresolved
 "10 N.J.Tax. 402, 409 (Tax Ct.1989). N.J.A.C. 18:35-1.12","10 n.j.tax. 402, 409 (tax ct.1989). n.j.a.c. 18:35-1.12",Regulation,state_regulation,NJ,1,1,1,1992,1992,false,unresolved
-"109 N.J. 575, 587 (1988)). N.J.A.C. 4A:2-1.1","109 n.j. 575, 587 (1988)). n.j.a.c. 4a:2-1.1",Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 11 N.J.A.C. 10:164-1.5,11 n.j.a.c. 10:164-1.5,Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 11 N.J.A.C. 11:5-3.8,11 n.j.a.c. 11:5-3.8,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 11 N.J.A.C. 17:1-1.13,11 n.j.a.c. 17:1-1.13,Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
@@ -5231,7 +5225,6 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 11 N.J.A.C. 6:28-2.1,11 n.j.a.c. 6:28-2.1,Regulation,state_regulation,NJ,1,1,1,1995,1995,false,unresolved
 11 N.J.A.C. 7:26E-1.13,11 n.j.a.c. 7:26e-1.13,Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
 11 N.J.Admin.Code § 19:25-8.5,11 n.j.admin.code § 19:25-8.5,Regulation,state_regulation,NJ,1,1,1,1981,1981,false,unresolved
-115 N.J. 190 (1989). N.J.A.C. 12:235-3.2,115 n.j. 190 (1989). n.j.a.c. 12:235-3.2,Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
 12 N.J.A.C. 11:3-5.6,12 n.j.a.c. 11:3-5.6,Regulation,state_regulation,NJ,1,1,1,2015,2015,false,unresolved
 12 N.J.A.C. 13:13-2.5,12 n.j.a.c. 13:13-2.5,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 12 N.J.A.C. 13:21-15.4,12 n.j.a.c. 13:21-15.4,Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
@@ -5239,26 +5232,20 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 12 N.J.A.C. 18:26-7.10,12 n.j.a.c. 18:26-7.10,Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
 12 N.J.A.C. 5:14A-12.6,12 n.j.a.c. 5:14a-12.6,Regulation,state_regulation,NJ,1,1,1,2016,2016,false,unresolved
 12 N.J.A.C. I3:45A-9.1,12 n.j.a.c. i3:45a-9.1,Regulation,state_regulation,NJ,1,1,1,2015,2015,false,unresolved
-"120 N.J. 465, 472 (1990). N.J.A.C. 1:1-15.10","120 n.j. 465, 472 (1990). n.j.a.c. 1:1-15.10",Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 "126 N.J. Super. 53, 63 (App. Div. 1973). N.J.A.C. 17:21-4.2","126 n.j. super. 53, 63 (app. div. 1973). n.j.a.c. 17:21-4.2",Regulation,state_regulation,NJ,1,1,1,1974,1974,false,unresolved
-1265 (7th Cir. 1985)). N.J.A.C. 12:235-3.5,1265 (7th cir. 1985)). n.j.a.c. 12:235-3.5,Regulation,state_regulation,NJ,1,1,1,2026,2026,false,unresolved
-"127 N.J. 500, 513 (1992)). N.J.A.C. 4A:3-4.21","127 n.j. 500, 513 (1992)). n.j.a.c. 4a:3-4.21",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
 1272 IN THE MATTER OF REPEAL OF N.J.A.C. 6:28,1272 in the matter of repeal of n.j.a.c. 6:28,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 128 F. 1015 C.C.R.I,128 f. 1015 c.c.r.i,Regulation,state_regulation,NJ,1,1,1,1962,1962,false,unresolved
 128 F. 800 C.C.R.I,128 f. 800 c.c.r.i,Regulation,state_regulation,NJ,1,1,1,1962,1962,false,unresolved
-"13 N.J. 431, 435 (1953)). N.J.A.C. 12:17-9.1","13 n.j. 431, 435 (1953)). n.j.a.c. 12:17-9.1",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 13 N.J. Admin. Code § 16:32-1.1,13 n.j. admin. code § 16:32-1.1,Regulation,state_regulation,NJ,1,1,1,2006,2006,false,unresolved
 13 N.J.A.C. 10A:4-9.9,13 n.j.a.c. 10a:4-9.9,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 13 N.J.A.C. 14:8-2.9,13 n.j.a.c. 14:8-2.9,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 "13 N.J.R. 254 (May 7, 1981), and N.J.A.C. 1:1","13 n.j.r. 254 (may 7, 1981), and n.j.a.c. 1:1",Regulation,state_regulation,NJ,1,1,1,1982,1982,false,unresolved
 "135 F. 833, 835-6 C.C.R.I","135 f. 833, 835-6 c.c.r.i",Regulation,state_regulation,NJ,1,1,1,1962,1962,false,unresolved
 "1350 (1987), N.J. Admin.Code tit. 8 § 33","1350 (1987), n.j. admin.code tit. 8 § 33",Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
-14 (2001). N.J.A.C. 1:1-15.5,14 (2001). n.j.a.c. 1:1-15.5,Regulation,state_regulation,NJ,1,1,1,2002,2002,false,unresolved
 14 F. C.C.R. 8515,14 f. c.c.r. 8515,Regulation,state_regulation,NJ,1,1,1,2004,2004,false,unresolved
 14 N.J. Admin. Code § 10A:18-3.4,14 n.j. admin. code § 10a:18-3.4,Regulation,state_regulation,NJ,1,1,1,2006,2006,false,unresolved
 14 N.J.A.C. 10:44A-2.7,14 n.j.a.c. 10:44a-2.7,Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 14 N.J.A.C. 10:71-4.4,14 n.j.a.c. 10:71-4.4,Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
-"140 N.J. 366, 378 (1995). N.J.A.C. 10A:16-1.5","140 n.j. 366, 378 (1995). n.j.a.c. 10a:16-1.5",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 1414 (d) and N.J.A.C. 6A:14-3.7,1414 (d) and n.j.a.c. 6a:14-3.7,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 "1415 (1)(2)(B)(iii), N.J.A.C. § 6A14-2.1","1415 (1)(2)(b)(iii), n.j.a.c. § 6a14-2.1",Regulation,state_regulation,NJ,1,1,1,2004,2004,false,unresolved
 15 F. C.C.R. 23184,15 f. c.c.r. 23184,Regulation,state_regulation,NJ,1,1,1,2004,2004,false,unresolved
@@ -5267,9 +5254,6 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 15 N.J.A.C. 8:40-3.7,15 n.j.a.c. 8:40-3.7,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 "150 (1977)), New Jersey (N.J. Admin. Code Title 11 § 1-4.2","150 (1977)), new jersey (n.j. admin. code title 11 § 1-4.2",Regulation,state_regulation,NJ,1,1,1,2004,2004,false,unresolved
 "150 (1977)), New Jersey (N.J. Admin. Code Title 11 § 1-4.3","150 (1977)), new jersey (n.j. admin. code title 11 § 1-4.3",Regulation,state_regulation,NJ,1,1,1,2004,2004,false,unresolved
-"158 N.J. Super. 172, 174 (App. A-1387-19 8 Div. 1978)). N.J.A.C. 12:17-9.1","158 n.j. super. 172, 174 (app. a-1387-19 8 div. 1978)). n.j.a.c. 12:17-9.1",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
-"158 N.J. Super. 172, 174 (App. Div. 1978)). N.J.A.C. 12:17-9.3","158 n.j. super. 172, 174 (app. div. 1978)). n.j.a.c. 12:17-9.3",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
-"158 N.J. Super. 172, 174 (App. Div. 1978). N.J.A.C. 12:17-9.1","158 n.j. super. 172, 174 (app. div. 1978). n.j.a.c. 12:17-9.1",Regulation,state_regulation,NJ,1,1,1,2022,2022,false,unresolved
 16 N.J.A.C. 12:17-11.5,16 n.j.a.c. 12:17-11.5,Regulation,state_regulation,NJ,1,1,1,2026,2026,false,unresolved
 16 N.J.A.C. 13:2-19.11,16 n.j.a.c. 13:2-19.11,Regulation,state_regulation,NJ,1,1,1,2007,2007,false,unresolved
 16 N.J.A.C. 3A:51-7.1,16 n.j.a.c. 3a:51-7.1,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
@@ -5277,7 +5261,6 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 16 N.J.A.C. § 6A:14-2.10,16 n.j.a.c. § 6a:14-2.10,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 16 N.J.Admin.Code § 19:25-8.-6,16 n.j.admin.code § 19:25-8.-6,Regulation,state_regulation,NJ,1,1,1,1981,1981,false,unresolved
 16 N.J.Admin.Code § 7:26B-9.2,16 n.j.admin.code § 7:26b-9.2,Regulation,state_regulation,NJ,1,1,1,1991,1991,false,unresolved
-"168 N.J. 387, 392-93 (2001)). N.J.A.C. 5:26-8.8","168 n.j. 387, 392-93 (2001)). n.j.a.c. 5:26-8.8",Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 168 N.J.A.C. § 10A:9-3.1,168 n.j.a.c. § 10a:9-3.1,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 17 C.C.R. § 54000,17 c.c.r. § 54000,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
 17 N.J.A.C. 10A:18-9.1,17 n.j.a.c. 10a:18-9.1,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
@@ -5286,14 +5269,10 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 177 IN THE MATTER OF N.J.A.C. 11:1-20,177 in the matter of n.j.a.c. 11:1-20,Regulation,state_regulation,NJ,1,1,1,1986,1986,false,unresolved
 18 N.J.A.C. 11:5-4.1,18 n.j.a.c. 11:5-4.1,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 18 N.J.R. 1388-94. N.J.A.C. 11:1-20.3,18 n.j.r. 1388-94. n.j.a.c. 11:1-20.3,Regulation,state_regulation,NJ,1,1,1,1987,1987,false,unresolved
-"189 N.J. 478, 491 (2007)). N.J.A.C. 5:26-8.10","189 n.j. 478, 491 (2007)). n.j.a.c. 5:26-8.10",Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
-"191 N.J. 38, 48 (2007)). N.J.A.C. 10A:4-4.1","191 n.j. 38, 48 (2007)). n.j.a.c. 10a:4-4.1",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
 "194 N.J. 534, 543 (2008)). 6 N.J.A.C. 1:12-14.4","194 n.j. 534, 543 (2008)). 6 n.j.a.c. 1:12-14.4",Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
-"194 N.J. 534, 543-44 (2008)). N.J.A.C. 12:17-9.3","194 n.j. 534, 543-44 (2008)). n.j.a.c. 12:17-9.3",Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 198 (App.Div.2002). Chapter 7 N.J.A.C. 7:7,198 (app.div.2002). chapter 7 n.j.a.c. 7:7,Regulation,state_regulation,NJ,1,1,1,2009,2009,false,unresolved
 198 N.J. 311 IN RE N.J.A.C. 10:71-4.7,198 n.j. 311 in re n.j.a.c. 10:71-4.7,Regulation,state_regulation,NJ,1,1,1,2009,2009,false,unresolved
 2 (2) N.J.A.C. 6:24-1.2,2 (2) n.j.a.c. 6:24-1.2,Regulation,state_regulation,NJ,1,1,1,1992,1992,false,unresolved
-2 (Oct. 1998)). N.J.A.C. 18:15-1.1,2 (oct. 1998)). n.j.a.c. 18:15-1.1,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 2 Fed. Tax. Reg. § 1.6013-4,2 fed. tax. reg. § 1.6013-4,Regulation,state_regulation,NJ,1,1,1,1974,1974,false,unresolved
 2 N.J. Admin. Code tit. 28 § 6:28,2 n.j. admin. code tit. 28 § 6:28,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
 2 N.J. Admin. Code § 10A:1-4.6,2 n.j. admin. code § 10a:1-4.6,Regulation,state_regulation,NJ,1,1,1,2010,2010,false,unresolved
@@ -5348,43 +5327,28 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 20 N.J.A.C. 13:13-2.8,20 n.j.a.c. 13:13-2.8,Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
 20 N.J.A.C. 5:10-5.1,20 n.j.a.c. 5:10-5.1,Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 20 N.J.A.C. § 6A:14-2.10,20 n.j.a.c. § 6a:14-2.10,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
-"205 N.J. Super. 18, 22 (App. Div. 1985). N.J.A.C. 4A:2-2.6","205 n.j. super. 18, 22 (app. div. 1985). n.j.a.c. 4a:2-2.6",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
-"206 N.J. 14, 27 (2011). N.J.A.C. 10:97-8.3","206 n.j. 14, 27 (2011). n.j.a.c. 10:97-8.3",Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
-"206 N.J.Super. 11, 25-31 (App.Div.1985). N.J.A.C. 13:45A-5.1","206 n.j.super. 11, 25-31 (app.div.1985). n.j.a.c. 13:45a-5.1",Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 "21 N.J. 28, 49-50 (1956). N.J.A.C. 13","21 n.j. 28, 49-50 (1956). n.j.a.c. 13",Regulation,state_regulation,NJ,1,1,1,1972,1972,false,unresolved
 21 N.J.A.C. 6A:32-2.1,21 n.j.a.c. 6a:32-2.1,Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 21 N.J.A.C. 7:26B-1.8,21 n.j.a.c. 7:26b-1.8,Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 21 N.J.R. 1107 N.J.A.C. 18:24-1.4,21 n.j.r. 1107 n.j.a.c. 18:24-1.4,Regulation,state_regulation,NJ,1,1,1,2012,2012,false,unresolved
 "214 N.J. 199, 213, 220-23 (2013), and N.J.A.C. 5:23A-1.5","214 n.j. 199, 213, 220-23 (2013), and n.j.a.c. 5:23a-1.5",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
-216 (1991). N.J.A.C. 13:70-4.15,216 (1991). n.j.a.c. 13:70-4.15,Regulation,state_regulation,NJ,1,1,1,1995,1995,false,unresolved
-"218 N.J. Super. 1, 5 (App Div. 1985)). N.J.A.C. 13:21-15.4","218 n.j. super. 1, 5 (app div. 1985)). n.j.a.c. 13:21-15.4",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
-"219 N.J. 449, 468 (2014). N.J.A.C. 8:43E-10.9","219 n.j. 449, 468 (2014). n.j.a.c. 8:43e-10.9",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 22 N.J. Admin. Code § 1.1,22 n.j. admin. code § 1.1,Regulation,state_regulation,NJ,1,1,1,2023,2023,false,unresolved
 22 N.J. Admin. Code § 13:5,22 n.j. admin. code § 13:5,Regulation,state_regulation,NJ,1,1,1,2023,2023,false,unresolved
 22 N.J. Admin. Code § 2.7,22 n.j. admin. code § 2.7,Regulation,state_regulation,NJ,1,1,1,2023,2023,false,unresolved
 22 N.J.A.C. 6A:16-2.2,22 n.j.a.c. 6a:16-2.2,Regulation,state_regulation,NJ,1,1,1,2016,2016,false,unresolved
 "22 N.J.R. 1876 (June 18, 1990). N.J.A.C. 6:3-1.12","22 n.j.r. 1876 (june 18, 1990). n.j.a.c. 6:3-1.12",Regulation,state_regulation,NJ,1,1,1,1994,1994,false,unresolved
-"220 N.J. 423, 429 (2015)). N.J.A.C. 10A:71-3.54","220 n.j. 423, 429 (2015)). n.j.a.c. 10a:71-3.54",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
-"227 N.J. 482, 499 (2017)). N.J.A.C. 13:13-2.5","227 n.j. 482, 499 (2017)). n.j.a.c. 13:13-2.5",Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
-"228 N.J. 204, 221 (2017). N.J.A.C. 10A:72-14.1","228 n.j. 204, 221 (2017). n.j.a.c. 10a:72-14.1",Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 23 N.J.A.C. 11:5-4.4,23 n.j.a.c. 11:5-4.4,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 23 N.J.A.C. 7:7-9.5,23 n.j.a.c. 7:7-9.5,Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
-233 N.J. 296 (2018). N.J.A.C. 12:17-9.1,233 n.j. 296 (2018). n.j.a.c. 12:17-9.1,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 24 N.J.A.C. 6:8-4.3,24 n.j.a.c. 6:8-4.3,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
 24 N.J.A.C. 6A:16-7.7,24 n.j.a.c. 6a:16-7.7,Regulation,state_regulation,NJ,1,1,1,2023,2023,false,unresolved
-"24 N.J.R. 626, 630 (1992). N.J.A.C. 13:35-6.16","24 n.j.r. 626, 630 (1992). n.j.a.c. 13:35-6.16",Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
-246 N.J. 462 (2021). N.J.A.C. 13:1E-3.2,246 n.j. 462 (2021). n.j.a.c. 13:1e-3.2,Regulation,state_regulation,NJ,1,1,1,2026,2026,false,unresolved
 25 N.J.A.C. 13:54-2.2,25 n.j.a.c. 13:54-2.2,Regulation,state_regulation,NJ,1,1,1,2016,2016,false,unresolved
 25 N.J.A.C. 7:26E-1.8,25 n.j.a.c. 7:26e-1.8,Regulation,state_regulation,NJ,1,1,1,2026,2026,false,unresolved
 25 N.J.A.C. 8:86,25 n.j.a.c. 8:86,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 "25 N.J.R. 4759 (October 18, 1993) (adopting amendment). N.J.A.C. 19:25-6.5","25 n.j.r. 4759 (october 18, 1993) (adopting amendment). n.j.a.c. 19:25-6.5",Regulation,state_regulation,NJ,1,1,1,2008,2008,false,unresolved
 26 N.J.A.C. 11:17A-4.11,26 n.j.a.c. 11:17a-4.11,Regulation,state_regulation,NJ,1,1,1,2023,2023,false,unresolved
 27 N.J.A.C. 10:71-5.7,27 n.j.a.c. 10:71-5.7,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
-"27 N.J.R. 908 (March 6,1995). N.J.A.C. 10:52-9.1","27 n.j.r. 908 (march 6,1995). n.j.a.c. 10:52-9.1",Regulation,state_regulation,NJ,1,1,1,2002,2002,false,unresolved
 28 N.J.A.C. 8:33E-1.4,28 n.j.a.c. 8:33e-1.4,Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
 29 N.J.A.C. 9:1-1.2,29 n.j.a.c. 9:1-1.2,Regulation,state_regulation,NJ,1,1,1,1981,1981,false,unresolved
-298 (1981)). N.J.A.C. 13:48-9.3,298 (1981)). n.j.a.c. 13:48-9.3,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
-298 N.J. Super. 79 (1997)). N.J.A.C. 10A:4-9.13,298 n.j. super. 79 (1997)). n.j.a.c. 10a:4-9.13,Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
 3 N.J.A.C. 10:120-2.9,3 n.j.a.c. 10:120-2.9,Regulation,state_regulation,NJ,1,1,1,1996,1996,false,unresolved
 3 N.J.A.C. 10:71-4.10,3 n.j.a.c. 10:71-4.10,Regulation,state_regulation,NJ,1,1,1,2006,2006,false,unresolved
 3 N.J.A.C. 10:78-3.2,3 n.j.a.c. 10:78-3.2,Regulation,state_regulation,NJ,1,1,1,2011,2011,false,unresolved
@@ -5432,19 +5396,14 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 30 N.J.A.C. 10A:71-2.1,30 n.j.a.c. 10a:71-2.1,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 30 N.J.A.C. 13:1E-3.2,30 n.j.a.c. 13:1e-3.2,Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
 30 N.J.R. 3211. N.J.A.C. 11:3-4.5,30 n.j.r. 3211. n.j.a.c. 11:3-4.5,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
-"302 N.J. Super. 509, 521 (App. Div. 1997)). N.J.A.C. 7:2-2.5","302 n.j. super. 509, 521 (app. div. 1997)). n.j.a.c. 7:2-2.5",Regulation,state_regulation,NJ,1,1,1,2022,2022,false,unresolved
-"309 N.J. Super. 66, 71 (App. Div. 1998). N.J.A.C. 10A:71-3.2","309 n.j. super. 66, 71 (app. div. 1998). n.j.a.c. 10a:71-3.2",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 31 N.J.A.C. 11:5-4.4,31 n.j.a.c. 11:5-4.4,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 31 N.J.A.C. 5:105-1.6,31 n.j.a.c. 5:105-1.6,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 "31 N.J.R. 780 (March 15, 1999), N.J.A.C. 18:35-1.3","31 n.j.r. 780 (march 15, 1999), n.j.a.c. 18:35-1.3",Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
-"314 N.J. Super. 149, 155 (App. Div. 1998). N.J.A.C. 3A:10-7.3","314 n.j. super. 149, 155 (app. div. 1998). n.j.a.c. 3a:10-7.3",Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
 32 N.J.A.C. 3:ll-9.3,32 n.j.a.c. 3:ll-9.3,Regulation,state_regulation,NJ,1,1,1,1977,1977,false,unresolved
 34 N.J. Reg. § 3043,34 n.j. reg. § 3043,Regulation,state_regulation,NJ,1,1,1,2003,2003,false,unresolved
 34 N.J.A.C. 19.53-4.3,34 n.j.a.c. 19.53-4.3,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
-341 (1981). N.J.A.C. 7:26-6.7,341 (1981). n.j.a.c. 7:26-6.7,Regulation,state_regulation,NJ,1,1,1,1994,1994,false,unresolved
 36 N.J.A.C. 19:53-4.4,36 n.j.a.c. 19:53-4.4,Regulation,state_regulation,NJ,1,1,1,1998,1998,false,unresolved
 371 (App.Div.1974) N.J.A.C. 18:26-7.10,371 (app.div.1974) n.j.a.c. 18:26-7.10,Regulation,state_regulation,NJ,1,1,1,2011,2011,false,unresolved
-397 (1957). N.J.A.C. 18:24-8.2,397 (1957). n.j.a.c. 18:24-8.2,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 4 B. C.C.R. 230,4 b. c.c.r. 230,Regulation,state_regulation,NJ,1,1,1,1857,1857,false,unresolved
 4 F. C.C.R. 2088,4 f. c.c.r. 2088,Regulation,state_regulation,NJ,1,1,1,2006,2006,false,unresolved
 4 N.J.A.C. 10:120A-1.3,4 n.j.a.c. 10:120a-1.3,Regulation,state_regulation,NJ,1,1,1,2015,2015,false,unresolved
@@ -5486,9 +5445,7 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 4 W. C.C.R. 386,4 w. c.c.r. 386,Regulation,state_regulation,NJ,1,1,1,1847,1847,false,unresolved
 4 Was. C.C.R. 500,4 was. c.c.r. 500,Regulation,state_regulation,NJ,1,1,1,1853,1853,false,unresolved
 41 Court. N.J.A.C. 18:12A-1.6,41 court. n.j.a.c. 18:12a-1.6,Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
-"44 N.J. 589, 599 (1965)). N.J.A.C. 10A:4-9.15","44 n.j. 589, 599 (1965)). n.j.a.c. 10a:4-9.15",Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
 44 N.J.A.C. 19:47-8.2,44 n.j.a.c. 19:47-8.2,Regulation,state_regulation,NJ,1,1,1,2000,2000,false,unresolved
-"46 N.J. Super. 162, 167-68 (App. Div. 1957)). N.J.A.C. 10A:71-7.19A","46 n.j. super. 162, 167-68 (app. div. 1957)). n.j.a.c. 10a:71-7.19a",Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 46 N.J.A.C. 19:53-4.4,46 n.j.a.c. 19:53-4.4,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
 48 N.J.A.C. 7:25-5.29,48 n.j.a.c. 7:25-5.29,Regulation,state_regulation,NJ,1,1,1,1997,1997,false,unresolved
 4D Other. N.J.A.C. 18:12-2.1,4d other. n.j.a.c. 18:12-2.1,Regulation,state_regulation,NJ,1,1,1,2009,2009,false,unresolved
@@ -5522,12 +5479,9 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 5 N.J.A.C. 7:28-27.5,5 n.j.a.c. 7:28-27.5,Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 5 N.J.A.C. 7:7-12.5,5 n.j.a.c. 7:7-12.5,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 5 N.J.A.C. 7:7a-1.3,5 n.j.a.c. 7:7a-1.3,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
-5 N.J.R. 246 (1973). N.J.A.C. 18:24-4.4,5 n.j.r. 246 (1973). n.j.a.c. 18:24-4.4,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 "5 N.J.Tax 144, 153 (Tax Ct.1983), and N.J.A.C. 18:24-4.4","5 n.j.tax 144, 153 (tax ct.1983), and n.j.a.c. 18:24-4.4",Regulation,state_regulation,NJ,1,1,1,1987,1987,false,unresolved
-54 N.J. 315 (1969)). N.J.A.C. 10A:71-7.17B,54 n.j. 315 (1969)). n.j.a.c. 10a:71-7.17b,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
 543 (App.Div.1989) and N.J.A.C. 10:19-4.2,543 (app.div.1989) and n.j.a.c. 10:19-4.2,Regulation,state_regulation,NJ,1,1,1,1997,1997,false,unresolved
 "577 (1983)), and N.J.A.C. 11:5-6.2","577 (1983)), and n.j.a.c. 11:5-6.2",Regulation,state_regulation,NJ,1,1,1,2003,2003,false,unresolved
-584 (1963). 4. N.J.A.C. 13:48-9.3,584 (1963). 4. n.j.a.c. 13:48-9.3,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
 "6 N.J. 573, 575 (A. C.M.R.1978","6 n.j. 573, 575 (a. c.m.r.1978",Regulation,state_regulation,NJ,1,1,1,1979,1979,false,unresolved
 6 N.J. Admin. Code § 11:24-8.7,6 n.j. admin. code § 11:24-8.7,Regulation,state_regulation,NJ,1,1,1,2008,2008,false,unresolved
 6 N.J. Admin. Code § 13:2-23.6,6 n.j. admin. code § 13:2-23.6,Regulation,state_regulation,NJ,1,1,1,2006,2006,false,unresolved
@@ -5559,16 +5513,10 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 6 N.J.A.C. 8:33-4.1,6 n.j.a.c. 8:33-4.1,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 62 N.J.A.C. 2:76-6.15,62 n.j.a.c. 2:76-6.15,Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 639 (App.Div.2002). 4 N.J.A.C. 11:20-9.5,639 (app.div.2002). 4 n.j.a.c. 11:20-9.5,Regulation,state_regulation,NJ,1,1,1,2004,2004,false,unresolved
-"64 N.J. 85, 93 (1973)). III. N.J.A.C. 6A:3-1.3","64 n.j. 85, 93 (1973)). iii. n.j.a.c. 6a:3-1.3",Regulation,state_regulation,NJ,1,1,1,2017,2017,false,unresolved
-"64 N.J. 85, 93 (1973)). N.J.A.C. 10A:4-4.1","64 n.j. 85, 93 (1973)). n.j.a.c. 10a:4-4.1",Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
-"64 N.J. 85, 93 (1973)). N.J.A.C. 10A:4-9.15","64 n.j. 85, 93 (1973)). n.j.a.c. 10a:4-9.15",Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
-"64 N.J. Super. 242, 248 (App.Div. 1960). N.J.A.C. 13:2-23.13","64 n.j. super. 242, 248 (app.div. 1960). n.j.a.c. 13:2-23.13",Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 65 N.J.A.C. § 7:26-6.5,65 n.j.a.c. § 7:26-6.5,Regulation,state_regulation,NJ,1,1,1,1997,1997,false,unresolved
 67 N.J. 496 (1975). 3 N.J.A.C. 10A:4-10.1,67 n.j. 496 (1975). 3 n.j.a.c. 10a:4-10.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,false,unresolved
-686 (1980). N.J.A.C. 10A:3-7.1,686 (1980). n.j.a.c. 10a:3-7.1,Regulation,state_regulation,NJ,1,1,1,2005,2005,false,unresolved
 686 IN THE MATTER OF N.J.A.C. 14A:20-1.1,686 in the matter of n.j.a.c. 14a:20-1.1,Regulation,state_regulation,NJ,1,1,1,2009,2009,false,unresolved
 69 N.J.A.C. 10A:18-9.1,69 n.j.a.c. 10a:18-9.1,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
-"7 N.J. Tax 99, 105 (Tax 1984). N.J.A.C. 18:38-1.3","7 n.j. tax 99, 105 (tax 1984). n.j.a.c. 18:38-1.3",Regulation,state_regulation,NJ,1,1,1,1992,1992,false,unresolved
 7 N.J.A.C. 10:48-1.6,7 n.j.a.c. 10:48-1.6,Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 7 N.J.A.C. 10:82-5.12,7 n.j.a.c. 10:82-5.12,Regulation,state_regulation,NJ,1,1,1,1977,1977,false,unresolved
 7 N.J.A.C. 10A:5-2.11,7 n.j.a.c. 10a:5-2.11,Regulation,state_regulation,NJ,1,1,1,2020,2020,false,unresolved
@@ -5587,9 +5535,7 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 7 N.J.A.C. § 7E,7 n.j.a.c. § 7e,Regulation,state_regulation,NJ,1,1,1,1994,1994,false,unresolved
 73 N.J.A.C. 7:26-16.4,73 n.j.a.c. 7:26-16.4,Regulation,state_regulation,NJ,1,1,1,1986,1986,false,unresolved
 730 AND 731: N.J.A.C. 7:13-10.1,730 and 731: n.j.a.c. 7:13-10.1,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
-752 (1988). N.J.A.C. 12:17-9.6,752 (1988). n.j.a.c. 12:17-9.6,Regulation,state_regulation,NJ,1,1,1,2007,2007,false,unresolved
 "76 N.J. 560, 568 (1978). N.J.A.C. 11:3-7.7","76 n.j. 560, 568 (1978). n.j.a.c. 11:3-7.7",Regulation,state_regulation,NJ,1,1,1,1983,1983,false,unresolved
-795 (1978). N.J.A.C. 18:24-7.8,795 (1978). n.j.a.c. 18:24-7.8,Regulation,state_regulation,NJ,1,1,1,1996,1996,false,unresolved
 8 N.J. 694 (A.F. C.M.R. 1979,8 n.j. 694 (a.f. c.m.r. 1979,Regulation,state_regulation,NJ,1,1,1,1980,1980,false,unresolved
 8 N.J. Admin. Code § 8:36-1.3,8 n.j. admin. code § 8:36-1.3,Regulation,state_regulation,NJ,1,1,1,2020,2020,true,exact
 8 N.J.A.C. 10:155-1.14,8 n.j.a.c. 10:155-1.14,Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
@@ -5599,11 +5545,8 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 8 N.J.A.C. 5:105-1.6,8 n.j.a.c. 5:105-1.6,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 8 N.J.A.C. 6A:11-2.1,8 n.j.a.c. 6a:11-2.1,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 "8 N.J.Tax 338, 351-352 (Tax Ct.1986), and N.J.A.C. 18:24-7.2","8 n.j.tax 338, 351-352 (tax ct.1986), and n.j.a.c. 18:24-7.2",Regulation,state_regulation,NJ,1,1,1,1987,1987,false,unresolved
-"81 N.J. 571, 579-80 (1980). N.J.A.C. 10A:4-9.15","81 n.j. 571, 579-80 (1980). n.j.a.c. 10a:4-9.15",Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
-"81 N.J. 571, 580 (1980). N.J.A.C. 10A:71-7.12","81 n.j. 571, 580 (1980). n.j.a.c. 10a:71-7.12",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
 "82 N.J. 214, 230 (1980). N.J.A.C. 5:10-19.4","82 n.j. 214, 230 (1980). n.j.a.c. 5:10-19.4",Regulation,state_regulation,NJ,1,1,1,1981,1981,false,unresolved
 82 N.J.A.C. 7:26-16.14,82 n.j.a.c. 7:26-16.14,Regulation,state_regulation,NJ,1,1,1,1986,1986,false,unresolved
-"85 N.J. 325, 334 (1981)). N.J.A.C. 17:1-1.3","85 n.j. 325, 334 (1981)). n.j.a.c. 17:1-1.3",Regulation,state_regulation,NJ,1,1,1,2025,2025,false,unresolved
 87 N.J.A.C. 5:92-6.1,87 n.j.a.c. 5:92-6.1,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
 88 N.J.A.C. 7:26-16.14,88 n.j.a.c. 7:26-16.14,Regulation,state_regulation,NJ,1,1,1,1986,1986,false,unresolved
 9 N.J.A.C. 10:133-1.3,9 n.j.a.c. 10:133-1.3,Regulation,state_regulation,NJ,1,1,1,2008,2008,false,unresolved
@@ -5618,8 +5561,6 @@ UHAC N.J.A.C. 5:80-26.d,uhac n.j.a.c. 5:80-26.d,Regulation,state_regulation,NJ,2
 "9 N.J.R. 279-280, N.J.A.C. 11:1-7.1","9 n.j.r. 279-280, n.j.a.c. 11:1-7.1",Regulation,state_regulation,NJ,1,1,1,1978,1978,false,unresolved
 90 N.J.A.C. 13:51-4.3,90 n.j.a.c. 13:51-4.3,Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 959 (1989). N.J.A.C. 5:92-6.1,959 (1989). n.j.a.c. 5:92-6.1,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
-97 (Ch.Div. 1974). N.J.A.C. 17:20-3.1,97 (ch.div. 1974). n.j.a.c. 17:20-3.1,Regulation,state_regulation,NJ,1,1,1,1997,1997,false,unresolved
-997 (App.Div.2000). N.J.A.C. 1:30-6.3,997 (app.div.2000). n.j.a.c. 1:30-6.3,Regulation,state_regulation,NJ,1,1,1,2001,2001,false,unresolved
 A. N.J.A.C. 11:17A-4.2,a. n.j.a.c. 11:17a-4.2,Regulation,state_regulation,NJ,1,1,1,2023,2023,true,exact
 A. N.J.A.C. 11:3-15.6,a. n.j.a.c. 11:3-15.6,Regulation,state_regulation,NJ,1,1,1,1989,1989,true,exact
 A. N.J.A.C. 18:2-5.8,a. n.j.a.c. 18:2-5.8,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,exact
@@ -5692,7 +5633,7 @@ CDF. N.J.A.C. 7:7A-16.7,cdf. n.j.a.c. 7:7a-16.7,Regulation,state_regulation,NJ,1
 CFA and N.J.A.C. 13:45A-16,cfa and n.j.a.c. 13:45a-16,Regulation,state_regulation,NJ,1,1,1,2013,2013,false,unresolved
 "CFA, N.J.A.C. 13:45","cfa, n.j.a.c. 13:45",Regulation,state_regulation,NJ,1,1,1,2008,2008,true,container
 "CFA, N.J.A.C. 13:45A-9.6","cfa, n.j.a.c. 13:45a-9.6",Regulation,state_regulation,NJ,1,1,1,2024,2024,true,exact
-"CFA, N.J.A.C. § 13:45A-26B.l","cfa, n.j.a.c. § 13:45a-26b.l",Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
+"CFA, N.J.A.C. § 13:45A-26B.1","cfa, n.j.a.c. § 13:45a-26b.1",Regulation,state_regulation,NJ,1,1,1,2014,2014,true,exact
 "CFA, N.J.A.C. § 26B","cfa, n.j.a.c. § 26b",Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
 CFA. N.J.A.C. 13:45A-5.4,cfa. n.j.a.c. 13:45a-5.4,Regulation,state_regulation,NJ,1,1,1,2018,2018,true,exact
 CFCS. N.J.A.C. 6A:10A-2,cfcs. n.j.a.c. 6a:10a-2,Regulation,state_regulation,NJ,1,1,1,2010,2010,false,unresolved
@@ -5833,9 +5774,6 @@ MLUL. N.J.A.C. 16:47-11.1,mlul. n.j.a.c. 16:47-11.1,Regulation,state_regulation,
 MMT. N.J.A.C. 12:235-3.2,mmt. n.j.a.c. 12:235-3.2,Regulation,state_regulation,NJ,1,1,1,2019,2019,true,exact
 MRO. N.J.A.C. 11:3-5.6,mro. n.j.a.c. 11:3-5.6,Regulation,state_regulation,NJ,1,1,1,1999,1999,true,exact
 "MSB, N.J.A.C. 4A:2-2.8","msb, n.j.a.c. 4a:2-2.8",Regulation,state_regulation,NJ,1,1,1,2005,2005,true,exact
-N.J Admin. Code § 6A:14-1.1,n.j admin. code § 6a:14-1.1,Regulation,state_regulation,NJ,1,1,1,2005,2005,true,exact
-N.J Admin. Code § 6A:14-l.l,n.j admin. code § 6a:14-l.l,Regulation,state_regulation,NJ,1,1,1,2005,2005,false,unresolved
-"N.J. 477, 492 (2005)). N.J.A.C. 17:1-6.2","n.j. 477, 492 (2005)). n.j.a.c. 17:1-6.2",Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 "N.J. Admin. Code (""N.J.A.C.”) § 6:28-1","n.j. admin. code (""n.j.a.c.”) § 6:28-1",Regulation,state_regulation,NJ,1,1,1,1998,1998,false,unresolved
 N.J. Admin. Code 6A,n.j. admin. code 6a,Regulation,state_regulation,NJ,1,1,1,2011,2011,false,unresolved
 N.J. Admin. Code Tit. 5 § 26-8.3,n.j. admin. code tit. 5 § 26-8.3,Regulation,state_regulation,NJ,1,1,1,2016,2016,false,unresolved
@@ -6402,7 +6340,6 @@ N.J.A.C. 10:71-1.4,n.j.a.c. 10:71-1.4,Regulation,state_regulation,NJ,1,1,1,2021,
 N.J.A.C. 10:71-110,n.j.a.c. 10:71-110,Regulation,state_regulation,NJ,1,1,1,2005,2005,false,unresolved
 N.J.A.C. 10:71-13,n.j.a.c. 10:71-13,Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
 N.J.A.C. 10:71-20,n.j.a.c. 10:71-20,Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
-N.J.A.C. 10:71-3.-11,n.j.a.c. 10:71-3.-11,Regulation,state_regulation,NJ,1,1,1,1987,1987,false,unresolved
 N.J.A.C. 10:71-3.10,n.j.a.c. 10:71-3.10,Regulation,state_regulation,NJ,1,1,1,2014,2014,true,exact
 N.J.A.C. 10:71-3.13,n.j.a.c. 10:71-3.13,Regulation,state_regulation,NJ,1,1,1,2021,2021,true,exact
 N.J.A.C. 10:71-3.17,n.j.a.c. 10:71-3.17,Regulation,state_regulation,NJ,1,1,1,2019,2019,false,unresolved
@@ -6496,6 +6433,7 @@ N.J.A.C. 10:91-18.23,n.j.a.c. 10:91-18.23,Regulation,state_regulation,NJ,1,1,1,1
 N.J.A.C. 10:91-3.1,n.j.a.c. 10:91-3.1,Regulation,state_regulation,NJ,1,1,1,1993,1993,true,exact
 N.J.A.C. 10:94-4.42,n.j.a.c. 10:94-4.42,Regulation,state_regulation,NJ,1,1,1,1979,1979,false,unresolved
 N.J.A.C. 10:97,n.j.a.c. 10:97,Regulation,state_regulation,NJ,1,1,1,2025,2025,true,container
+N.J.A.C. 10:97-8.3,n.j.a.c. 10:97-8.3,Regulation,state_regulation,NJ,1,1,1,2020,2020,true,exact
 N.J.A.C. 10:9A-4.19,n.j.a.c. 10:9a-4.19,Regulation,state_regulation,NJ,1,1,1,1979,1979,false,unresolved
 N.J.A.C. 10:A-4,n.j.a.c. 10:a-4,Regulation,state_regulation,NJ,1,1,1,1999,1999,false,unresolved
 N.J.A.C. 10:A20-4.38,n.j.a.c. 10:a20-4.38,Regulation,state_regulation,NJ,1,1,1,1998,1998,false,unresolved
@@ -6524,6 +6462,7 @@ N.J.A.C. 10A:10-3,n.j.a.c. 10a:10-3,Regulation,state_regulation,NJ,1,1,1,2007,20
 N.J.A.C. 10A:10-3.11,n.j.a.c. 10a:10-3.11,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
 N.J.A.C. 10A:11-11,n.j.a.c. 10a:11-11,Regulation,state_regulation,NJ,1,1,1,2008,2008,false,unresolved
 N.J.A.C. 10A:13-3.1,n.j.a.c. 10a:13-3.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,exact
+N.J.A.C. 10A:16-1.5,n.j.a.c. 10a:16-1.5,Regulation,state_regulation,NJ,1,1,1,2019,2019,true,exact
 N.J.A.C. 10A:16-12.2,n.j.a.c. 10a:16-12.2,Regulation,state_regulation,NJ,1,1,1,2023,2023,true,exact
 N.J.A.C. 10A:16-2.11,n.j.a.c. 10a:16-2.11,Regulation,state_regulation,NJ,1,1,1,2025,2025,true,exact
 N.J.A.C. 10A:16-2.18,n.j.a.c. 10a:16-2.18,Regulation,state_regulation,NJ,1,1,1,2024,2024,true,exact
@@ -6538,8 +6477,8 @@ N.J.A.C. 10A:18-2.1,n.j.a.c. 10a:18-2.1,Regulation,state_regulation,NJ,1,1,1,200
 N.J.A.C. 10A:18-3.2,n.j.a.c. 10a:18-3.2,Regulation,state_regulation,NJ,1,1,1,1989,1989,true,exact
 N.J.A.C. 10A:18-4.11,n.j.a.c. 10a:18-4.11,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
 N.J.A.C. 10A:18-4.12,n.j.a.c. 10a:18-4.12,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
-N.J.A.C. 10A:18-5.-4,n.j.a.c. 10a:18-5.-4,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 N.J.A.C. 10A:18-5.2,n.j.a.c. 10a:18-5.2,Regulation,state_regulation,NJ,1,1,1,1995,1995,true,exact
+N.J.A.C. 10A:18-5.4,n.j.a.c. 10a:18-5.4,Regulation,state_regulation,NJ,1,1,1,1989,1989,true,exact
 N.J.A.C. 10A:18-5.5,n.j.a.c. 10a:18-5.5,Regulation,state_regulation,NJ,1,1,1,2018,2018,true,exact
 N.J.A.C. 10A:18-5.6,n.j.a.c. 10a:18-5.6,Regulation,state_regulation,NJ,1,1,1,2017,2017,true,exact
 N.J.A.C. 10A:18-7-2.7,n.j.a.c. 10a:18-7-2.7,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
@@ -6873,7 +6812,6 @@ N.J.A.C. 12:16-22.3,n.j.a.c. 12:16-22.3,Regulation,state_regulation,NJ,1,1,1,199
 N.J.A.C. 12:16-22.4,n.j.a.c. 12:16-22.4,Regulation,state_regulation,NJ,1,1,1,1999,1999,true,exact
 N.J.A.C. 12:16-23.26,n.j.a.c. 12:16-23.26,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 N.J.A.C. 12:16-4.1,n.j.a.c. 12:16-4.1,Regulation,state_regulation,NJ,1,1,1,2019,2019,true,exact
-N.J.A.C. 12:17--9.1,n.j.a.c. 12:17--9.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,false,unresolved
 N.J.A.C. 12:17-1.2,n.j.a.c. 12:17-1.2,Regulation,state_regulation,NJ,1,1,1,1977,1977,false,unresolved
 N.J.A.C. 12:17-14.1,n.j.a.c. 12:17-14.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,exact
 N.J.A.C. 12:17-14.4,n.j.a.c. 12:17-14.4,Regulation,state_regulation,NJ,1,1,1,2024,2024,true,exact
@@ -7014,7 +6952,6 @@ N.J.A.C. 13:18-4.19,n.j.a.c. 13:18-4.19,Regulation,state_regulation,NJ,1,1,1,200
 N.J.A.C. 13:18-8.11,n.j.a.c. 13:18-8.11,Regulation,state_regulation,NJ,1,1,1,2000,2000,false,unresolved
 N.J.A.C. 13:19-1.1,n.j.a.c. 13:19-1.1,Regulation,state_regulation,NJ,1,1,1,1989,1989,true,exact
 N.J.A.C. 13:19-10.5,n.j.a.c. 13:19-10.5,Regulation,state_regulation,NJ,1,1,1,1993,1993,true,exact
-N.J.A.C. 13:19-11.-1,n.j.a.c. 13:19-11.-1,Regulation,state_regulation,NJ,1,1,1,1984,1984,false,unresolved
 N.J.A.C. 13:19-12.1,n.j.a.c. 13:19-12.1,Regulation,state_regulation,NJ,1,1,1,2000,2000,true,exact
 N.J.A.C. 13:19-13.-1.Accordingly,n.j.a.c. 13:19-13.-1.accordingly,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 N.J.A.C. 13:19-13.1-13.3,n.j.a.c. 13:19-13.1-13.3,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
@@ -7034,7 +6971,6 @@ N.J.A.C. 13:2-19.12,n.j.a.c. 13:2-19.12,Regulation,state_regulation,NJ,1,1,1,200
 N.J.A.C. 13:2-19.15,n.j.a.c. 13:2-19.15,Regulation,state_regulation,NJ,1,1,1,2019,2019,true,exact
 N.J.A.C. 13:2-2.14,n.j.a.c. 13:2-2.14,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
 N.J.A.C. 13:2-21.7,n.j.a.c. 13:2-21.7,Regulation,state_regulation,NJ,1,1,1,1977,1977,true,exact
-N.J.A.C. 13:2-23.-6,n.j.a.c. 13:2-23.-6,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 N.J.A.C. 13:2-23.16,n.j.a.c. 13:2-23.16,Regulation,state_regulation,NJ,1,1,1,1993,1993,true,exact
 N.J.A.C. 13:2-23.32-60-day,n.j.a.c. 13:2-23.32-60-day,Regulation,state_regulation,NJ,1,1,1,2007,2007,false,unresolved
 N.J.A.C. 13:2-24.10,n.j.a.c. 13:2-24.10,Regulation,state_regulation,NJ,1,1,1,1981,1981,true,exact
@@ -7527,6 +7463,7 @@ N.J.A.C. 17:2-7.2,n.j.a.c. 17:2-7.2,Regulation,state_regulation,NJ,1,1,1,2024,20
 N.J.A.C. 17:2-8.13,n.j.a.c. 17:2-8.13,Regulation,state_regulation,NJ,1,1,1,2000,2000,true,exact
 N.J.A.C. 17:20,n.j.a.c. 17:20,Regulation,state_regulation,NJ,1,1,1,2014,2014,true,container
 N.J.A.C. 17:20-10.1,n.j.a.c. 17:20-10.1,Regulation,state_regulation,NJ,1,1,1,1983,1983,true,exact
+N.J.A.C. 17:20-3.1,n.j.a.c. 17:20-3.1,Regulation,state_regulation,NJ,1,1,1,1997,1997,true,exact
 N.J.A.C. 17:20-4.2,n.j.a.c. 17:20-4.2,Regulation,state_regulation,NJ,1,1,1,1986,1986,true,exact
 N.J.A.C. 17:20-4.5,n.j.a.c. 17:20-4.5,Regulation,state_regulation,NJ,1,1,1,1993,1993,true,exact
 N.J.A.C. 17:20-6.1,n.j.a.c. 17:20-6.1,Regulation,state_regulation,NJ,1,1,1,1983,1983,true,exact
@@ -7614,7 +7551,6 @@ N.J.A.C. 18:12-7.4,n.j.a.c. 18:12-7.4,Regulation,state_regulation,NJ,1,1,1,1986,
 N.J.A.C. 18:12-l,n.j.a.c. 18:12-l,Regulation,state_regulation,NJ,1,1,1,1984,1984,false,unresolved
 N.J.A.C. 18:12.1.1,n.j.a.c. 18:12.1.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,false,unresolved
 N.J.A.C. 18:122A-1.15,n.j.a.c. 18:122a-1.15,Regulation,state_regulation,NJ,1,1,1,1997,1997,false,unresolved
-N.J.A.C. 18:12A-1.-12,n.j.a.c. 18:12a-1.-12,Regulation,state_regulation,NJ,1,1,1,1988,1988,false,unresolved
 N.J.A.C. 18:12A-1.10,n.j.a.c. 18:12a-1.10,Regulation,state_regulation,NJ,1,1,1,1998,1998,true,exact
 N.J.A.C. 18:12A-1.12b,n.j.a.c. 18:12a-1.12b,Regulation,state_regulation,NJ,1,1,1,1996,1996,false,unresolved
 N.J.A.C. 18:12A-1.13,n.j.a.c. 18:12a-1.13,Regulation,state_regulation,NJ,1,1,1,2017,2017,true,exact
@@ -7690,7 +7626,7 @@ N.J.A.C. 18:24-6.1,n.j.a.c. 18:24-6.1,Regulation,state_regulation,NJ,1,1,1,1982,
 N.J.A.C. 18:24-6.3,n.j.a.c. 18:24-6.3,Regulation,state_regulation,NJ,1,1,1,1982,1982,true,exact
 N.J.A.C. 18:24-7.2,n.j.a.c. 18:24-7.2,Regulation,state_regulation,NJ,1,1,1,1986,1986,true,exact
 N.J.A.C. 18:24-7.5,n.j.a.c. 18:24-7.5,Regulation,state_regulation,NJ,1,1,1,1999,1999,true,exact
-N.J.A.C. 18:24-7.8,n.j.a.c. 18:24-7.8,Regulation,state_regulation,NJ,1,1,1,1996,1996,true,exact
+N.J.A.C. 18:24-8.2,n.j.a.c. 18:24-8.2,Regulation,state_regulation,NJ,1,1,1,1985,1985,true,exact
 N.J.A.C. 18:25-5.7,n.j.a.c. 18:25-5.7,Regulation,state_regulation,NJ,1,1,1,1982,1982,false,unresolved
 N.J.A.C. 18:26-11.29,n.j.a.c. 18:26-11.29,Regulation,state_regulation,NJ,1,1,1,1988,1988,true,exact
 N.J.A.C. 18:26-2.10,n.j.a.c. 18:26-2.10,Regulation,state_regulation,NJ,1,1,1,2012,2012,true,exact
@@ -7759,7 +7695,6 @@ N.J.A.C. 18:5-8.2,n.j.a.c. 18:5-8.2,Regulation,state_regulation,NJ,1,1,1,2009,20
 N.J.A.C. 18:6,n.j.a.c. 18:6,Regulation,state_regulation,NJ,1,1,1,2014,2014,true,container
 N.J.A.C. 18:6-2.1,n.j.a.c. 18:6-2.1,Regulation,state_regulation,NJ,1,1,1,2014,2014,true,exact
 N.J.A.C. 18:6-2.2,n.j.a.c. 18:6-2.2,Regulation,state_regulation,NJ,1,1,1,2014,2014,true,exact
-N.J.A.C. 18:7-1.-8,n.j.a.c. 18:7-1.-8,Regulation,state_regulation,NJ,1,1,1,1983,1983,false,unresolved
 N.J.A.C. 18:7-1.12,n.j.a.c. 18:7-1.12,Regulation,state_regulation,NJ,1,1,1,2006,2006,true,exact
 N.J.A.C. 18:7-1.7,n.j.a.c. 18:7-1.7,Regulation,state_regulation,NJ,1,1,1,1982,1982,true,exact
 N.J.A.C. 18:7-10A,n.j.a.c. 18:7-10a,Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
@@ -7862,7 +7797,7 @@ N.J.A.C. 19:25-17.3,n.j.a.c. 19:25-17.3,Regulation,state_regulation,NJ,1,1,1,201
 N.J.A.C. 19:25-26.1,n.j.a.c. 19:25-26.1,Regulation,state_regulation,NJ,1,1,1,2010,2010,true,exact
 N.J.A.C. 19:25-4.5,n.j.a.c. 19:25-4.5,Regulation,state_regulation,NJ,1,1,1,1997,1997,true,exact
 N.J.A.C. 19:25-4.6,n.j.a.c. 19:25-4.6,Regulation,state_regulation,NJ,1,1,1,2018,2018,true,exact
-N.J.A.C. 19:25-8.-2,n.j.a.c. 19:25-8.-2,Regulation,state_regulation,NJ,1,1,1,1991,1991,false,unresolved
+N.J.A.C. 19:25-8.2,n.j.a.c. 19:25-8.2,Regulation,state_regulation,NJ,1,1,1,1991,1991,true,exact
 N.J.A.C. 19:25-8.6,n.j.a.c. 19:25-8.6,Regulation,state_regulation,NJ,1,1,1,2012,2012,true,exact
 N.J.A.C. 19:25-9.1,n.j.a.c. 19:25-9.1,Regulation,state_regulation,NJ,1,1,1,2018,2018,true,exact
 N.J.A.C. 19:3-1.1,n.j.a.c. 19:3-1.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,exact
@@ -8019,7 +7954,7 @@ N.J.A.C. 1:1_,n.j.a.c. 1:1_,Regulation,state_regulation,NJ,1,1,1,1994,1994,false
 N.J.A.C. 1:30-1,n.j.a.c. 1:30-1,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,container
 N.J.A.C. 1:30-1.1,n.j.a.c. 1:30-1.1,Regulation,state_regulation,NJ,1,1,1,2024,2024,true,exact
 N.J.A.C. 1:30-2.7,n.j.a.c. 1:30-2.7,Regulation,state_regulation,NJ,1,1,1,2021,2021,true,exact
-N.J.A.C. 1:30-3.-1,n.j.a.c. 1:30-3.-1,Regulation,state_regulation,NJ,1,1,1,1984,1984,false,unresolved
+N.J.A.C. 1:30-3.1,n.j.a.c. 1:30-3.1,Regulation,state_regulation,NJ,1,1,1,1984,1984,true,exact
 N.J.A.C. 1:30-4.1,n.j.a.c. 1:30-4.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,exact
 N.J.A.C. 1:30-4.2,n.j.a.c. 1:30-4.2,Regulation,state_regulation,NJ,1,1,1,2009,2009,true,exact
 N.J.A.C. 1:30-5.2,n.j.a.c. 1:30-5.2,Regulation,state_regulation,NJ,1,1,1,2022,2022,true,exact
@@ -8246,7 +8181,6 @@ N.J.A.C. 4A:2-5.2,n.j.a.c. 4a:2-5.2,Regulation,state_regulation,NJ,1,1,1,1998,19
 N.J.A.C. 4A:2-6:1,n.j.a.c. 4a:2-6:1,Regulation,state_regulation,NJ,1,1,1,2013,2013,false,unresolved
 N.J.A.C. 4A:2.2,n.j.a.c. 4a:2.2,Regulation,state_regulation,NJ,1,1,1,2011,2011,false,unresolved
 N.J.A.C. 4A:2d-4.1,n.j.a.c. 4a:2d-4.1,Regulation,state_regulation,NJ,1,1,1,2022,2022,false,unresolved
-N.J.A.C. 4A:3-1.-2,n.j.a.c. 4a:3-1.-2,Regulation,state_regulation,NJ,1,1,1,1991,1991,false,unresolved
 N.J.A.C. 4A:3-1.1,n.j.a.c. 4a:3-1.1,Regulation,state_regulation,NJ,1,1,1,2026,2026,true,exact
 N.J.A.C. 4A:3-3,n.j.a.c. 4a:3-3,Regulation,state_regulation,NJ,1,1,1,2013,2013,true,container
 N.J.A.C. 4A:3-3.1,n.j.a.c. 4a:3-3.1,Regulation,state_regulation,NJ,1,1,1,2000,2000,true,exact
@@ -8267,7 +8201,6 @@ N.J.A.C. 4A:4-2.3,n.j.a.c. 4a:4-2.3,Regulation,state_regulation,NJ,1,1,1,2005,20
 N.J.A.C. 4A:4-2.4,n.j.a.c. 4a:4-2.4,Regulation,state_regulation,NJ,1,1,1,1993,1993,true,exact
 N.J.A.C. 4A:4-3.8,n.j.a.c. 4a:4-3.8,Regulation,state_regulation,NJ,1,1,1,1990,1990,true,exact
 N.J.A.C. 4A:4-4.85,n.j.a.c. 4a:4-4.85,Regulation,state_regulation,NJ,1,1,1,1998,1998,false,unresolved
-N.J.A.C. 4A:4-6.-1,n.j.a.c. 4a:4-6.-1,Regulation,state_regulation,NJ,1,1,1,1991,1991,false,unresolved
 N.J.A.C. 4A:4-6.4A,n.j.a.c. 4a:4-6.4a,Regulation,state_regulation,NJ,1,1,1,2018,2018,false,unresolved
 N.J.A.C. 4A:4-7.1,n.j.a.c. 4a:4-7.1,Regulation,state_regulation,NJ,1,1,1,1994,1994,true,exact
 N.J.A.C. 4A:4-7.4,n.j.a.c. 4a:4-7.4,Regulation,state_regulation,NJ,1,1,1,2000,2000,true,exact
@@ -8376,8 +8309,6 @@ N.J.A.C. 5:21-6.2,n.j.a.c. 5:21-6.2,Regulation,state_regulation,NJ,1,1,1,1999,19
 N.J.A.C. 5:21-8.1,n.j.a.c. 5:21-8.1,Regulation,state_regulation,NJ,1,1,1,1999,1999,true,exact
 N.J.A.C. 5:23-1.2,n.j.a.c. 5:23-1.2,Regulation,state_regulation,NJ,1,1,1,2025,2025,true,exact
 N.J.A.C. 5:23-2,n.j.a.c. 5:23-2,Regulation,state_regulation,NJ,1,1,1,2019,2019,true,container
-N.J.A.C. 5:23-2.-15,n.j.a.c. 5:23-2.-15,Regulation,state_regulation,NJ,1,1,1,1984,1984,false,unresolved
-N.J.A.C. 5:23-2.-5,n.j.a.c. 5:23-2.-5,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 N.J.A.C. 5:23-2.15A,n.j.a.c. 5:23-2.15a,Regulation,state_regulation,NJ,1,1,1,2021,2021,true,exact
 N.J.A.C. 5:23-2.15A.,n.j.a.c. 5:23-2.15a,Regulation,state_regulation,NJ,1,1,1,2013,2013,true,exact
 N.J.A.C. 5:23-2.29,n.j.a.c. 5:23-2.29,Regulation,state_regulation,NJ,1,1,1,2008,2008,true,exact
@@ -8916,7 +8847,6 @@ N.J.A.C. 7:14A-16.3,n.j.a.c. 7:14a-16.3,Regulation,state_regulation,NJ,1,1,1,202
 N.J.A.C. 7:14A-17.1,n.j.a.c. 7:14a-17.1,Regulation,state_regulation,NJ,1,1,1,2025,2025,true,exact
 N.J.A.C. 7:14A-17.2,n.j.a.c. 7:14a-17.2,Regulation,state_regulation,NJ,1,1,1,2008,2008,true,exact
 N.J.A.C. 7:14A-17.3,n.j.a.c. 7:14a-17.3,Regulation,state_regulation,NJ,1,1,1,2006,2006,true,exact
-N.J.A.C. 7:14A-2.-5,n.j.a.c. 7:14a-2.-5,Regulation,state_regulation,NJ,1,1,1,1987,1987,false,unresolved
 N.J.A.C. 7:14A-2.7,n.j.a.c. 7:14a-2.7,Regulation,state_regulation,NJ,1,1,1,1988,1988,true,exact
 N.J.A.C. 7:14A-2.8,n.j.a.c. 7:14a-2.8,Regulation,state_regulation,NJ,1,1,1,2020,2020,true,exact
 N.J.A.C. 7:14A-22.18,n.j.a.c. 7:14a-22.18,Regulation,state_regulation,NJ,1,1,1,1997,1997,true,exact
@@ -8929,9 +8859,9 @@ N.J.A.C. 7:14A-6.2,n.j.a.c. 7:14a-6.2,Regulation,state_regulation,NJ,1,1,1,2020,
 N.J.A.C. 7:14A-6.4,n.j.a.c. 7:14a-6.4,Regulation,state_regulation,NJ,1,1,1,2020,2020,true,exact
 N.J.A.C. 7:14A-7.1,n.j.a.c. 7:14a-7.1,Regulation,state_regulation,NJ,1,1,1,2000,2000,true,exact
 N.J.A.C. 7:14A-7.5,n.j.a.c. 7:14a-7.5,Regulation,state_regulation,NJ,1,1,1,1992,1992,true,exact
-N.J.A.C. 7:14A-8.-6,n.j.a.c. 7:14a-8.-6,Regulation,state_regulation,NJ,1,1,1,1988,1988,false,unresolved
 N.J.A.C. 7:14A-8.3,n.j.a.c. 7:14a-8.3,Regulation,state_regulation,NJ,1,1,1,1990,1990,true,exact
 N.J.A.C. 7:14A-8.4,n.j.a.c. 7:14a-8.4,Regulation,state_regulation,NJ,1,1,1,1990,1990,true,exact
+N.J.A.C. 7:14A-8.6,n.j.a.c. 7:14a-8.6,Regulation,state_regulation,NJ,1,1,1,1988,1988,true,exact
 N.J.A.C. 7:14A.,n.j.a.c. 7:14a,Regulation,state_regulation,NJ,1,1,1,1996,1996,true,container
 N.J.A.C. 7:14A.22.9,n.j.a.c. 7:14a.22.9,Regulation,state_regulation,NJ,1,1,1,1997,1997,false,unresolved
 N.J.A.C. 7:14B-13.1,n.j.a.c. 7:14b-13.1,Regulation,state_regulation,NJ,1,1,1,2001,2001,true,exact
@@ -9040,7 +8970,6 @@ N.J.A.C. 7:26-3A.10,n.j.a.c. 7:26-3a.10,Regulation,state_regulation,NJ,1,1,1,199
 N.J.A.C. 7:26-3A.12,n.j.a.c. 7:26-3a.12,Regulation,state_regulation,NJ,1,1,1,1997,1997,true,exact
 N.J.A.C. 7:26-3A.16,n.j.a.c. 7:26-3a.16,Regulation,state_regulation,NJ,1,1,1,1997,1997,true,exact
 N.J.A.C. 7:26-3A.19,n.j.a.c. 7:26-3a.19,Regulation,state_regulation,NJ,1,1,1,1995,1995,true,exact
-N.J.A.C. 7:26-5.-5,n.j.a.c. 7:26-5.-5,Regulation,state_regulation,NJ,1,1,1,1983,1983,false,unresolved
 N.J.A.C. 7:26-5.6,n.j.a.c. 7:26-5.6,Regulation,state_regulation,NJ,1,1,1,1983,1983,true,exact
 N.J.A.C. 7:26-6.5q,n.j.a.c. 7:26-6.5q,Regulation,state_regulation,NJ,1,1,1,1994,1994,false,unresolved
 N.J.A.C. 7:26-6.9,n.j.a.c. 7:26-6.9,Regulation,state_regulation,NJ,1,1,1,1995,1995,true,exact
@@ -9223,7 +9152,6 @@ N.J.A.C. 7:7-9.44,n.j.a.c. 7:7-9.44,Regulation,state_regulation,NJ,1,1,1,2024,20
 N.J.A.C. 7:7-9.47,n.j.a.c. 7:7-9.47,Regulation,state_regulation,NJ,1,1,1,2024,2024,true,exact
 N.J.A.C. 7:7-l.l,n.j.a.c. 7:7-l.l,Regulation,state_regulation,NJ,1,1,1,2005,2005,false,unresolved
 N.J.A.C. 7:77.4,n.j.a.c. 7:77.4,Regulation,state_regulation,NJ,1,1,1,2010,2010,false,unresolved
-N.J.A.C. 7:7A-1.-4,n.j.a.c. 7:7a-1.-4,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 N.J.A.C. 7:7A-1.8,n.j.a.c. 7:7a-1.8,Regulation,state_regulation,NJ,1,1,1,1977,1977,false,unresolved
 N.J.A.C. 7:7A-10,n.j.a.c. 7:7a-10,Regulation,state_regulation,NJ,1,1,1,2019,2019,true,container
 N.J.A.C. 7:7A-10.9,n.j.a.c. 7:7a-10.9,Regulation,state_regulation,NJ,1,1,1,2004,2004,true,exact
@@ -9365,10 +9293,10 @@ N.J.A.C. 8:31A,n.j.a.c. 8:31a,Regulation,state_regulation,NJ,1,1,1,2007,2007,tru
 N.J.A.C. 8:31A-1.2,n.j.a.c. 8:31a-1.2,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
 N.J.A.C. 8:31A-2.1,n.j.a.c. 8:31a-2.1,Regulation,state_regulation,NJ,1,1,1,2007,2007,true,exact
 N.J.A.C. 8:31A-2.3,n.j.a.c. 8:31a-2.3,Regulation,state_regulation,NJ,1,1,1,1979,1979,true,exact
-N.J.A.C. 8:31B-3.-12,n.j.a.c. 8:31b-3.-12,Regulation,state_regulation,NJ,1,1,1,1983,1983,false,unresolved
 N.J.A.C. 8:31B-3.-39,n.j.a.c. 8:31b-3.-39,Regulation,state_regulation,NJ,1,1,1,1988,1988,false,unresolved
 N.J.A.C. 8:31B-3.1-3.83,n.j.a.c. 8:31b-3.1-3.83,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
 N.J.A.C. 8:31B-3.1-7.8,n.j.a.c. 8:31b-3.1-7.8,Regulation,state_regulation,NJ,1,1,1,1990,1990,false,unresolved
+N.J.A.C. 8:31B-3.12,n.j.a.c. 8:31b-3.12,Regulation,state_regulation,NJ,1,1,1,1983,1983,true,exact
 N.J.A.C. 8:31B-3.27,n.j.a.c. 8:31b-3.27,Regulation,state_regulation,NJ,1,1,1,1991,1991,true,exact
 N.J.A.C. 8:31B-3.32,n.j.a.c. 8:31b-3.32,Regulation,state_regulation,NJ,1,1,1,1983,1983,false,unresolved
 N.J.A.C. 8:31B-3.4,n.j.a.c. 8:31b-3.4,Regulation,state_regulation,NJ,1,1,1,1987,1987,true,exact
@@ -9400,7 +9328,6 @@ N.J.A.C. 8:33-2.11,n.j.a.c. 8:33-2.11,Regulation,state_regulation,NJ,1,1,1,1989,
 N.J.A.C. 8:33-2.2,n.j.a.c. 8:33-2.2,Regulation,state_regulation,NJ,1,1,1,1978,1978,true,exact
 N.J.A.C. 8:33-2.4,n.j.a.c. 8:33-2.4,Regulation,state_regulation,NJ,1,1,1,1977,1977,true,exact
 N.J.A.C. 8:33-2.7,n.j.a.c. 8:33-2.7,Regulation,state_regulation,NJ,1,1,1,1984,1984,false,unresolved
-N.J.A.C. 8:33-3.-5,n.j.a.c. 8:33-3.-5,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 N.J.A.C. 8:33-3.10,n.j.a.c. 8:33-3.10,Regulation,state_regulation,NJ,1,1,1,2008,2008,true,exact
 N.J.A.C. 8:33-3.7,n.j.a.c. 8:33-3.7,Regulation,state_regulation,NJ,1,1,1,1987,1987,true,exact
 N.J.A.C. 8:33-3.8,n.j.a.c. 8:33-3.8,Regulation,state_regulation,NJ,1,1,1,1987,1987,true,exact
@@ -9904,7 +9831,7 @@ N.J.Admin.Code § 11.1,n.j.admin.code § 11.1,Regulation,state_regulation,NJ,1,1
 N.J.Admin.Code § 11:5,n.j.admin.code § 11:5,Regulation,state_regulation,NJ,1,1,1,1988,1988,true,container
 N.J.Admin.Code § 13:70-14A,n.j.admin.code § 13:70-14a,Regulation,state_regulation,NJ,1,1,1,1999,1999,true,container
 N.J.Admin.Code § 19:25-8.5,n.j.admin.code § 19:25-8.5,Regulation,state_regulation,NJ,1,1,1,1981,1981,true,exact
-N.J.Admin.Code § 19:41-9.-4,n.j.admin.code § 19:41-9.-4,Regulation,state_regulation,NJ,1,1,1,1986,1986,false,unresolved
+N.J.Admin.Code § 19:41-9.4,n.j.admin.code § 19:41-9.4,Regulation,state_regulation,NJ,1,1,1,1986,1986,true,exact
 N.J.Admin.Code § 2.1,n.j.admin.code § 2.1,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 N.J.Admin.Code § 2.2,n.j.admin.code § 2.2,Regulation,state_regulation,NJ,1,1,1,1985,1985,false,unresolved
 N.J.Admin.Code § 2:52-6.1,n.j.admin.code § 2:52-6.1,Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
@@ -10036,7 +9963,6 @@ RPS. N.J.A.C. 14:8-2.8,rps. n.j.a.c. 14:8-2.8,Regulation,state_regulation,NJ,1,1
 RSP. N.J.A.C. 7:28-27.7,rsp. n.j.a.c. 7:28-27.7,Regulation,state_regulation,NJ,1,1,1,2018,2018,true,exact
 RTF. N.J.A.C. 18:16-6.1,rtf. n.j.a.c. 18:16-6.1,Regulation,state_regulation,NJ,1,1,1,2009,2009,false,unresolved
 "RULES, N.J.A.C. 7:20A-1.1","rules, n.j.a.c. 7:20a-1.1",Regulation,state_regulation,NJ,1,1,1,2009,2009,true,exact
-"S.Ct. 126, 127, 70 L.Ed. 322, 328 (1926). N.J.A.C. 13:51-3.5","s.ct. 126, 127, 70 l.ed. 322, 328 (1926). n.j.a.c. 13:51-3.5",Regulation,state_regulation,NJ,1,1,1,1989,1989,false,unresolved
 "SADC, N.J.A.C. 2:76-1.5","sadc, n.j.a.c. 2:76-1.5",Regulation,state_regulation,NJ,1,1,1,2002,2002,true,exact
 SADC. N.J.A.C. 2:76-6.15,sadc. n.j.a.c. 2:76-6.15,Regulation,state_regulation,NJ,1,1,1,2018,2018,true,exact
 SAV N.J.A.C. 7:7-16.2,sav n.j.a.c. 7:7-16.2,Regulation,state_regulation,NJ,1,1,1,2021,2021,true,exact
@@ -10052,7 +9978,6 @@ SWMA and N.J.A.C. 7:26-2.8,swma and n.j.a.c. 7:26-2.8,Regulation,state_regulatio
 "Superior Court, Appellate Division. N.J. Admin. Code § 17:9-1.3","superior court, appellate division. n.j. admin. code § 17:9-1.3",Regulation,state_regulation,NJ,1,1,1,2024,2024,false,unresolved
 "Superior Court, N.J.A.C. 1:1-14.14","superior court, n.j.a.c. 1:1-14.14",Regulation,state_regulation,NJ,1,1,1,2021,2021,false,unresolved
 Superior Court. N.J. Admin. Code § 5:23-2.32,superior court. n.j. admin. code § 5:23-2.32,Regulation,state_regulation,NJ,1,1,1,2012,2012,false,unresolved
-"T.P.M., 189 N.J.Super. 360 (App.Div.1983). N.J.A.C. 13:55-1.11","t.p.m., 189 n.j.super. 360 (app.div.1983). n.j.a.c. 13:55-1.11",Regulation,state_regulation,NJ,1,1,1,1983,1983,false,unresolved
 TCCWNA. 8 N.J.A.C. § 13:45A-26B,tccwna. 8 n.j.a.c. § 13:45a-26b,Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
 TCCWNA. 8 N.J.A.C. § 26B,tccwna. 8 n.j.a.c. § 26b,Regulation,state_regulation,NJ,1,1,1,2014,2014,false,unresolved
 "TCO, N.J.A.C. 5:26-6.5","tco, n.j.a.c. 5:26-6.5",Regulation,state_regulation,NJ,1,1,1,1990,1990,true,exact

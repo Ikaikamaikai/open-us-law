@@ -607,7 +607,6 @@ citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,firs
 "392 Neb. Admin. Code, ch. 4 § 002.03D","392 neb. admin. code, ch. 4 § 002.03d",Regulation,state_regulation,NE,1,1,1,2005,2005,true,exact
 "395 Neb. Admin. Code, ch. 10 § 003.02","395 neb. admin. code, ch. 10 § 003.02",Regulation,state_regulation,NE,1,1,1,2020,2020,true,exact
 "395 Neb. Admin. Code, ch. 10 § 003.02A","395 neb. admin. code, ch. 10 § 003.02a",Regulation,state_regulation,NE,1,1,1,2020,2020,true,exact
-"403 (1980). Neb. Admin. Code tit. 177, ch. 1 § 008.05","403 (1980). neb. admin. code tit. 177, ch. 1 § 008.05",Regulation,state_regulation,NE,1,1,1,1988,1988,false,unresolved
 "404 Neb. Admin. Code, ch. 4 § 006","404 neb. admin. code, ch. 4 § 006",Regulation,state_regulation,NE,1,1,1,2021,2021,false,unresolved
 "410 Neb. Admin. Code, ch. 3 § 002","410 neb. admin. code, ch. 3 § 002",Regulation,state_regulation,NE,1,1,1,1995,1995,true,exact
 "410 Neb. Admin. Code, ch. 3 § 002.01A","410 neb. admin. code, ch. 3 § 002.01a",Regulation,state_regulation,NE,1,1,1,1995,1995,true,exact
@@ -817,6 +816,7 @@ I.R.C. Regs. § 1.265-2,i.r.c. regs. § 1.265-2,Regulation,state_regulation,NE,1
 "Neb. Admin. Code tit. 177, ch. 1 § 007.04A3","neb. admin. code tit. 177, ch. 1 § 007.04a3",Regulation,state_regulation,NE,1,1,1,1986,1986,true,exact
 "Neb. Admin. Code tit. 177, ch. 1 § 007.04C","neb. admin. code tit. 177, ch. 1 § 007.04c",Regulation,state_regulation,NE,1,1,1,1987,1987,true,exact
 "Neb. Admin. Code tit. 177, ch. 1 § 007.06B","neb. admin. code tit. 177, ch. 1 § 007.06b",Regulation,state_regulation,NE,1,1,1,1987,1987,true,exact
+"Neb. Admin. Code tit. 177, ch. 1 § 008.05","neb. admin. code tit. 177, ch. 1 § 008.05",Regulation,state_regulation,NE,1,1,1,1988,1988,true,exact
 "Neb. Admin. Code tit. 182, ch. 2 § 005-02A2","neb. admin. code tit. 182, ch. 2 § 005-02a2",Regulation,state_regulation,NE,1,1,1,1986,1986,false,unresolved
 "Neb. Admin. Code tit. 182, ch. 2 § 005.01B","neb. admin. code tit. 182, ch. 2 § 005.01b",Regulation,state_regulation,NE,1,1,1,1986,1986,false,unresolved
 "Neb. Admin. Code tit. 182, ch. 2 § 006.09","neb. admin. code tit. 182, ch. 2 § 006.09",Regulation,state_regulation,NE,1,1,1,1989,1989,false,unresolved

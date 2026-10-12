@@ -356,6 +356,7 @@ Fla. Admin. Code Rule 10-5.10,fla. admin. code rule 10-5.10,Regulation,state_reg
 Fla. Admin. Code Rule 10-5.11,fla. admin. code rule 10-5.11,Regulation,state_regulation,FL,4,3,1,1986,1987,false,unresolved
 Fla. Admin. Code Rule 17-4.02,fla. admin. code rule 17-4.02,Regulation,state_regulation,FL,4,2,1,1983,1985,false,unresolved
 Fla. Admin. Code Rule 18-21.004,fla. admin. code rule 18-21.004,Regulation,state_regulation,FL,4,2,1,2010,2010,true,exact
+Fla. Admin. Code Rule 23-21.002,fla. admin. code rule 23-21.002,Regulation,state_regulation,FL,4,1,1,1989,1990,true,exact
 Fla. Admin. Code Rule 28-4.05,fla. admin. code rule 28-4.05,Regulation,state_regulation,FL,4,2,1,1977,1982,false,unresolved
 Fla. Admin. Code Rule 28-5.111,fla. admin. code rule 28-5.111,Regulation,state_regulation,FL,4,4,1,1982,1987,false,unresolved
 Fla. Admin. Code Rule 61B-17.009,fla. admin. code rule 61b-17.009,Regulation,state_regulation,FL,4,1,1,2009,2009,true,exact
@@ -405,7 +406,6 @@ Fla. Admin. Code Rule 12C-1.15,fla. admin. code rule 12c-1.15,Regulation,state_r
 Fla. Admin. Code Rule 16B-33.02,fla. admin. code rule 16b-33.02,Regulation,state_regulation,FL,3,1,1,1986,1986,false,unresolved
 Fla. Admin. Code Rule 17-2.600,fla. admin. code rule 17-2.600,Regulation,state_regulation,FL,3,1,1,1991,1991,false,unresolved
 Fla. Admin. Code Rule 17-4.28,fla. admin. code rule 17-4.28,Regulation,state_regulation,FL,3,2,2,1985,1985,false,unresolved
-Fla. Admin. Code Rule 23-21.002,fla. admin. code rule 23-21.002,Regulation,state_regulation,FL,3,1,1,1989,1989,true,exact
 Fla. Admin. Code Rule 23-21.010,fla. admin. code rule 23-21.010,Regulation,state_regulation,FL,3,2,1,1989,1994,true,exact
 Fla. Admin. Code Rule 25-17.083,fla. admin. code rule 25-17.083,Regulation,state_regulation,FL,3,1,1,1992,1992,false,unresolved
 Fla. Admin. Code Rule 28-5.106,fla. admin. code rule 28-5.106,Regulation,state_regulation,FL,3,3,1,1982,1991,false,unresolved
@@ -1133,6 +1133,7 @@ Fla.Admin.Code Rule 10C-7.-481,fla.admin.code rule 10c-7.-481,Regulation,state_r
 Fla.Admin.Code Rule 10M-12.001,fla.admin.code rule 10m-12.001,Regulation,state_regulation,FL,2,1,1,1987,1987,false,unresolved
 Fla.Admin.Code Rule 11D-8.003,fla.admin.code rule 11d-8.003,Regulation,state_regulation,FL,2,1,1,1996,1996,true,exact
 Fla.Admin.Code Rule 11D-8.006,fla.admin.code rule 11d-8.006,Regulation,state_regulation,FL,2,1,1,1996,1996,true,exact
+Fla.Admin.Code Rule 12B-4.053,fla.admin.code rule 12b-4.053,Regulation,state_regulation,FL,2,1,1,1987,1991,true,exact
 Fla.Admin.Code Rule 12C-1.15,fla.admin.code rule 12c-1.15,Regulation,state_regulation,FL,2,2,2,1978,1980,false,unresolved
 Fla.Admin.Code Rule 14-10.06,fla.admin.code rule 14-10.06,Regulation,state_regulation,FL,2,2,1,1978,1983,false,unresolved
 Fla.Admin.Code Rule 17-25.027,fla.admin.code rule 17-25.027,Regulation,state_regulation,FL,2,1,1,1988,1988,false,unresolved
@@ -1176,11 +1177,7 @@ QF. Fla. Admin. Code R. 25-17.0832,qf. fla. admin. code r. 25-17.0832,Regulation
 RELIEF A. CCRC,relief a. ccrc,Regulation,state_regulation,FL,2,2,1,2017,2017,false,unresolved
 10 Fla.Admin.Code § 33-8.03,10 fla.admin.code § 33-8.03,Regulation,state_regulation,FL,1,1,1,1984,1984,false,unresolved
 11 (...continued) Regulations. Fla. Admin. Code. R. 68D-23.102,11 (...continued) regulations. fla. admin. code. r. 68d-23.102,Regulation,state_regulation,FL,1,1,1,2011,2011,false,unresolved
-"12 M.J. 978, 979 (A.F. C.M.R. 1982","12 m.j. 978, 979 (a.f. c.m.r. 1982",Regulation,state_regulation,FL,1,1,1,2018,2018,false,unresolved
 2 Fla. Admin. Code. R. 65A-1.900,2 fla. admin. code. r. 65a-1.900,Regulation,state_regulation,FL,1,1,1,2018,2018,true,exact
-"20 M.J. 758, 761 (A.F. C.M.R. 1985","20 m.j. 758, 761 (a.f. c.m.r. 1985",Regulation,state_regulation,FL,1,1,1,2018,2018,false,unresolved
-"25 M.J. 856, 858 (A.F. C.M.R. 1988","25 m.j. 856, 858 (a.f. c.m.r. 1988",Regulation,state_regulation,FL,1,1,1,2018,2018,false,unresolved
-263 So. 2d 579 (Fla. 1972). Fla. Admin. Code R. 12D-8.006,263 so. 2d 579 (fla. 1972). fla. admin. code r. 12d-8.006,Regulation,state_regulation,FL,1,1,1,2021,2021,false,unresolved
 3 F. C.C.R. 4319,3 f. c.c.r. 4319,Regulation,state_regulation,FL,1,1,1,1997,1997,false,unresolved
 "572 So. 2d 895 (Fla. 1990) (Barkett, J.). 3 CCRC","572 so. 2d 895 (fla. 1990) (barkett, j.). 3 ccrc",Regulation,state_regulation,FL,1,1,1,2008,2008,false,unresolved
 8 Fla.Admin.Code § 33.8.05,8 fla.admin.code § 33.8.05,Regulation,state_regulation,FL,1,1,1,1984,1984,false,unresolved
@@ -1252,6 +1249,7 @@ Fla. Admin. Code Ann. § 62D,fla. admin. code ann. § 62d,Regulation,state_regul
 "Fla. Admin. Code Ann., Rule 12A-1.051","fla. admin. code ann., rule 12a-1.051",Regulation,state_regulation,FL,1,1,1,2008,2008,true,exact
 Fla. Admin. Code C,fla. admin. code c,Regulation,state_regulation,FL,1,1,1,1993,1993,false,unresolved
 Fla. Admin. Code Ch. 28-5. Rule 28-5.202,fla. admin. code ch. 28-5. rule 28-5.202,Regulation,state_regulation,FL,1,1,1,1995,1995,false,unresolved
+Fla. Admin. Code R. 12D-8.006,fla. admin. code r. 12d-8.006,Regulation,state_regulation,FL,1,1,1,2021,2021,true,exact
 Fla. Admin. Code R. 4,fla. admin. code r. 4,Regulation,state_regulation,FL,1,1,1,2003,2003,false,unresolved
 Fla. Admin. Code R. 69L-34. Rule 69L-,fla. admin. code r. 69l-34. rule 69l-,Regulation,state_regulation,FL,1,1,1,2019,2019,false,unresolved
 Fla. Admin. Code R. XX,fla. admin. code r. xx,Regulation,state_regulation,FL,1,1,1,2001,2001,false,unresolved
@@ -1678,12 +1676,10 @@ Fla.Admin.Code Rule 11D-8.001,fla.admin.code rule 11d-8.001,Regulation,state_reg
 Fla.Admin.Code Rule 11D-8.004,fla.admin.code rule 11d-8.004,Regulation,state_regulation,FL,1,1,1,1996,1996,true,exact
 Fla.Admin.Code Rule 11D-8.005,fla.admin.code rule 11d-8.005,Regulation,state_regulation,FL,1,1,1,1996,1996,false,unresolved
 Fla.Admin.Code Rule 120-1.15,fla.admin.code rule 120-1.15,Regulation,state_regulation,FL,1,1,1,1978,1978,false,unresolved
-Fla.Admin.Code Rule 12B-4.-053,fla.admin.code rule 12b-4.-053,Regulation,state_regulation,FL,1,1,1,1987,1987,false,unresolved
-Fla.Admin.Code Rule 12B-4.-054,fla.admin.code rule 12b-4.-054,Regulation,state_regulation,FL,1,1,1,1987,1987,false,unresolved
-Fla.Admin.Code Rule 12B-4.053,fla.admin.code rule 12b-4.053,Regulation,state_regulation,FL,1,1,1,1991,1991,true,exact
+Fla.Admin.Code Rule 12B-4.054,fla.admin.code rule 12b-4.054,Regulation,state_regulation,FL,1,1,1,1987,1987,true,exact
 Fla.Admin.Code Rule 12B-8.001,fla.admin.code rule 12b-8.001,Regulation,state_regulation,FL,1,1,1,1996,1996,true,exact
 Fla.Admin.Code Rule 12C,fla.admin.code rule 12c,Regulation,state_regulation,FL,1,1,1,1978,1978,false,unresolved
-Fla.Admin.Code Rule 12D-2.-006,fla.admin.code rule 12d-2.-006,Regulation,state_regulation,FL,1,1,1,1988,1988,false,unresolved
+Fla.Admin.Code Rule 12D-2.006,fla.admin.code rule 12d-2.006,Regulation,state_regulation,FL,1,1,1,1988,1988,true,exact
 Fla.Admin.Code Rule 12D-5.002,fla.admin.code rule 12d-5.002,Regulation,state_regulation,FL,1,1,1,1989,1989,true,exact
 Fla.Admin.Code Rule 13D-11.0041,fla.admin.code rule 13d-11.0041,Regulation,state_regulation,FL,1,1,1,1989,1989,false,unresolved
 Fla.Admin.Code Rule 13M-1.015,fla.admin.code rule 13m-1.015,Regulation,state_regulation,FL,1,1,1,1992,1992,false,unresolved
@@ -1724,7 +1720,6 @@ Fla.Admin.Code Rule 22M-2.09,fla.admin.code rule 22m-2.09,Regulation,state_regul
 Fla.Admin.Code Rule 23-19,fla.admin.code rule 23-19,Regulation,state_regulation,FL,1,1,1,1982,1982,false,unresolved
 Fla.Admin.Code Rule 23-19.-02,fla.admin.code rule 23-19.-02,Regulation,state_regulation,FL,1,1,1,1982,1982,false,unresolved
 Fla.Admin.Code Rule 23-19.04,fla.admin.code rule 23-19.04,Regulation,state_regulation,FL,1,1,1,1983,1983,false,unresolved
-Fla.Admin.Code Rule 23-21.-002,fla.admin.code rule 23-21.-002,Regulation,state_regulation,FL,1,1,1,1990,1990,false,unresolved
 Fla.Admin.Code Rule 23-21.11,fla.admin.code rule 23-21.11,Regulation,state_regulation,FL,1,1,1,1982,1982,false,unresolved
 Fla.Admin.Code Rule 23-21.155,fla.admin.code rule 23-21.155,Regulation,state_regulation,FL,1,1,1,1986,1986,false,unresolved
 Fla.Admin.Code Rule 23-22.0006,fla.admin.code rule 23-22.0006,Regulation,state_regulation,FL,1,1,1,1992,1992,false,unresolved

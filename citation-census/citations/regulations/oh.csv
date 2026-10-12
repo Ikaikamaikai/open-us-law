@@ -1,6 +1,6 @@
 citation,citation_key,type,subtype,jurisdiction,occurrences,opinions,courts,first_year,last_year,resolved,answer_kind
 Ohio Admin. Code § 5120-9-31,ohio admin. code § 5120-9-31,Regulation,state_regulation,OH,217,74,4,1999,2025,true,exact
-Ohio Admin. Code 5120-9-31,ohio admin. code 5120-9-31,Regulation,state_regulation,OH,98,9,4,2011,2025,true,exact
+Ohio Admin. Code 5120-9-31,ohio admin. code 5120-9-31,Regulation,state_regulation,OH,100,9,4,2001,2025,true,exact
 Ohio Admin. Code 3701-53-05,ohio admin. code 3701-53-05,Regulation,state_regulation,OH,54,9,2,2004,2016,true,exact
 Ohio Admin. Code 5101:1-39-07,ohio admin. code 5101:1-39-07,Regulation,state_regulation,OH,54,1,1,2012,2012,false,unresolved
 Ohio Admin.Code 3701-53-07,ohio admin.code 3701-53-07,Regulation,state_regulation,OH,46,2,1,2013,2013,true,exact
@@ -71,6 +71,7 @@ Ohio Admin.Code 5120-2-10,ohio admin.code 5120-2-10,Regulation,state_regulation,
 Ohio Admin. Code § 3745-31-05,ohio admin. code § 3745-31-05,Regulation,state_regulation,OH,9,4,2,2012,2024,true,exact
 Ohio Admin. Code § 4301:1-1-52,ohio admin. code § 4301:1-1-52,Regulation,state_regulation,OH,9,3,1,2008,2008,true,exact
 Ohio Admin. Code § 5101:3-27-02,ohio admin. code § 5101:3-27-02,Regulation,state_regulation,OH,9,3,1,2008,2009,false,unresolved
+Ohio Admin. Code § 5120-9-02,ohio admin. code § 5120-9-02,Regulation,state_regulation,OH,9,5,1,1999,2003,true,exact
 Ohio Admin. Code § 5120-9-13,ohio admin. code § 5120-9-13,Regulation,state_regulation,OH,9,9,3,1998,2024,false,unresolved
 ODRC. Ohio Admin. Code § 5120-9-31,odrc. ohio admin. code § 5120-9-31,Regulation,state_regulation,OH,8,8,2,2019,2025,false,unresolved
 Ohio Admin. Code 1301:8-7-16,ohio admin. code 1301:8-7-16,Regulation,state_regulation,OH,8,1,1,2007,2007,true,exact
@@ -95,7 +96,6 @@ Ohio Admin. Code § 3745-31-01,ohio admin. code § 3745-31-01,Regulation,state_r
 Ohio Admin. Code § 4112-5-02,ohio admin. code § 4112-5-02,Regulation,state_regulation,OH,7,5,1,1999,2023,true,exact
 Ohio Admin. Code § 4112-5-08,ohio admin. code § 4112-5-08,Regulation,state_regulation,OH,7,7,3,2003,2020,true,exact
 Ohio Admin. Code § 4123:1-5-07,ohio admin. code § 4123:1-5-07,Regulation,state_regulation,OH,7,1,1,2020,2020,true,exact
-Ohio Admin. Code § 5120-9-02,ohio admin. code § 5120-9-02,Regulation,state_regulation,OH,7,5,1,1999,2003,true,exact
 Ohio Admin.Code § 5120-9-19,ohio admin.code § 5120-9-19,Regulation,state_regulation,OH,7,3,1,1986,1989,true,exact
 L. C.C.R. 15,l. c.c.r. 15,Regulation,state_regulation,OH,6,5,3,1987,2025,false,unresolved
 Ohio Admin. Code 109:4-3-10,ohio admin. code 109:4-3-10,Regulation,state_regulation,OH,6,3,2,2002,2025,true,exact
@@ -222,6 +222,7 @@ Ohio Admin. Code § 5120:1-1-36,ohio admin. code § 5120:1-1-36,Regulation,state
 Ohio Admin. Code § 5120:1-8-09,ohio admin. code § 5120:1-8-09,Regulation,state_regulation,OH,4,2,1,2023,2024,true,exact
 Ohio Admin. Code § 5120:1-8-17,ohio admin. code § 5120:1-8-17,Regulation,state_regulation,OH,4,3,2,2020,2021,true,exact
 Ohio Admin. Code § 5160-12-02.3,ohio admin. code § 5160-12-02.3,Regulation,state_regulation,OH,4,1,1,2018,2018,true,exact
+Ohio Admin. Code § 5501:2-2-02,ohio admin. code § 5501:2-2-02,Regulation,state_regulation,OH,4,2,2,2020,2022,true,exact
 Ohio Admin.Code 109:4-3-01,ohio admin.code 109:4-3-01,Regulation,state_regulation,OH,4,1,1,2019,2019,true,exact
 Ohio Admin.Code 145-5-15,ohio admin.code 145-5-15,Regulation,state_regulation,OH,4,2,1,2017,2018,false,unresolved
 Ohio Admin.Code 3301-89-01,ohio admin.code 3301-89-01,Regulation,state_regulation,OH,4,1,1,2020,2020,false,unresolved
@@ -262,7 +263,6 @@ Ohio Admin. Code § 5120-9-03,ohio admin. code § 5120-9-03,Regulation,state_reg
 Ohio Admin. Code § 5120-9-04,ohio admin. code § 5120-9-04,Regulation,state_regulation,OH,3,1,1,2023,2023,true,exact
 Ohio Admin. Code § 5120-9-18,ohio admin. code § 5120-9-18,Regulation,state_regulation,OH,3,3,1,2021,2023,false,unresolved
 Ohio Admin. Code § 5120:1-1-10,ohio admin. code § 5120:1-1-10,Regulation,state_regulation,OH,3,3,1,2001,2003,true,exact
-Ohio Admin. Code § 5501:2-2-02,ohio admin. code § 5501:2-2-02,Regulation,state_regulation,OH,3,2,2,2020,2022,true,exact
 Ohio Admin. Code § 901:12,ohio admin. code § 901:12,Regulation,state_regulation,OH,3,3,1,2023,2023,false,unresolved
 Ohio Admin.Code § 123:1-19-01,ohio admin.code § 123:1-19-01,Regulation,state_regulation,OH,3,1,1,1994,1994,false,unresolved
 Ohio Admin.Code § 3770:1-7-100,ohio admin.code § 3770:1-7-100,Regulation,state_regulation,OH,3,1,1,1999,1999,false,unresolved
@@ -279,12 +279,10 @@ Ohio Admin.Code § 5120:1-10-01,ohio admin.code § 5120:1-10-01,Regulation,state
 17 Ohio Admin. Code 3701-53-02,17 ohio admin. code 3701-53-02,Regulation,state_regulation,OH,2,1,1,2008,2008,false,unresolved
 21 Ohio Admin. Code 5101:2-14-02,21 ohio admin. code 5101:2-14-02,Regulation,state_regulation,OH,2,1,1,2021,2021,false,unresolved
 25 Ohio Admin. Code 5101:2-14-04,25 ohio admin. code 5101:2-14-04,Regulation,state_regulation,OH,2,1,1,2021,2021,false,unresolved
-296 (5th ed.1999). Ohio Admin. Code § 5120-9-02,296 (5th ed.1999). ohio admin. code § 5120-9-02,Regulation,state_regulation,OH,2,2,1,2002,2002,false,unresolved
 4 Ohio Admin. Code 4501:2-10-01,4 ohio admin. code 4501:2-10-01,Regulation,state_regulation,OH,2,1,1,2025,2025,false,unresolved
 4 Ohio Admin. Code 5123:2-1-11,4 ohio admin. code 5123:2-1-11,Regulation,state_regulation,OH,2,1,1,2017,2017,false,unresolved
 4 Ohio Admin.Code 3301-89,4 ohio admin.code 3301-89,Regulation,state_regulation,OH,2,1,1,2020,2020,false,unresolved
 531 (6th Cir.1999) (citation omitted). Ohio Admin.Code 4901:3-1-04,531 (6th cir.1999) (citation omitted). ohio admin.code 4901:3-1-04,Regulation,state_regulation,OH,2,1,1,2001,2001,false,unresolved
-69 (1998). Ohio Admin. Code 5120-9-31,69 (1998). ohio admin. code 5120-9-31,Regulation,state_regulation,OH,2,1,1,2001,2001,false,unresolved
 8 C.C.R. 480,8 c.c.r. 480,Regulation,state_regulation,OH,2,2,2,1894,1894,true,exact
 BCGD Proc.Reg. § 10,bcgd proc.reg. § 10,Regulation,state_regulation,OH,2,2,1,2004,2004,false,unresolved
 BCGD Proc.Reg. § 9,bcgd proc.reg. § 9,Regulation,state_regulation,OH,2,2,1,2001,2001,false,unresolved
@@ -582,7 +580,6 @@ Ohio Revised Code R.C. § 3319.20,ohio revised code r.c. § 3319.20,Regulation,s
 4 C.C.R. 49,4 c.c.r. 49,Regulation,state_regulation,OH,1,1,1,1892,1892,false,unresolved
 4 O. C.C.R. 156,4 o. c.c.r. 156,Regulation,state_regulation,OH,1,1,1,1893,1893,false,unresolved
 4 Ohio Admin.Code § 3769-08-9,4 ohio admin.code § 3769-08-9,Regulation,state_regulation,OH,1,1,1,1992,1992,false,unresolved
-"453 U.S. 490, 502 (1981). Ohio Admin. Code § 5501:2-2-02","453 u.s. 490, 502 (1981). ohio admin. code § 5501:2-2-02",Regulation,state_regulation,OH,1,1,1,2020,2020,false,unresolved
 5 C.C.R. 16,5 c.c.r. 16,Regulation,state_regulation,OH,1,1,1,1891,1891,false,unresolved
 5 C.C.R. 256,5 c.c.r. 256,Regulation,state_regulation,OH,1,1,1,1894,1894,false,unresolved
 5 O. C.C.R. 340,5 o. c.c.r. 340,Regulation,state_regulation,OH,1,1,1,1894,1894,false,unresolved

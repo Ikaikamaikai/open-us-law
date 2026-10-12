@@ -90,13 +90,13 @@ NYCRR 130-1.2,nycrr 130-1.2,Regulation,state_regulation,NY,315,252,12,1990,2026,
 NYCRR 202.16,nycrr 202.16,Regulation,state_regulation,NY,299,209,10,1986,2026,true,exact
 22 NYCRR 202.59,22 nycrr 202.59,Regulation,state_regulation,NY,294,141,4,1986,2023,true,exact
 DR 1-102 (A) (8) (22 NYCRR 1200.3,dr 1-102 (a) (8) (22 nycrr 1200.3,Regulation,state_regulation,NY,294,153,1,1994,1999,false,unresolved
+22 NYCRR § 130-1.1,22 nycrr § 130-1.1,Regulation,state_regulation,NY,290,109,23,1994,2026,true,exact
 NYCRR 251-3.1,nycrr 251-3.1,Regulation,state_regulation,NY,288,246,6,1983,2025,true,repaired
 NYCRR 65-4.10,nycrr 65-4.10,Regulation,state_regulation,NY,288,91,8,2004,2026,true,repaired
 7 NYCRR 251-3.1,7 nycrr 251-3.1,Regulation,state_regulation,NY,287,245,5,1983,2025,true,exact
 22 NYCRR 202.17,22 nycrr 202.17,Regulation,state_regulation,NY,286,141,8,1986,2025,true,exact
 NYCRR 65-1.1,nycrr 65-1.1,Regulation,state_regulation,NY,281,177,15,2003,2026,true,repaired
 22 NYCRR 202.16,22 nycrr 202.16,Regulation,state_regulation,NY,278,200,6,1986,2025,true,exact
-22 NYCRR § 130-1.1,22 nycrr § 130-1.1,Regulation,state_regulation,NY,278,109,23,1994,2026,true,exact
 NYCRR 691.4,nycrr 691.4,Regulation,state_regulation,NY,271,228,5,1974,2020,true,repaired
 NYCRR 23-1.21,nycrr 23-1.21,Regulation,state_regulation,NY,269,131,7,1974,2026,true,repaired
 22 NYCRR 691.4,22 nycrr 691.4,Regulation,state_regulation,NY,267,225,2,1981,2020,true,exact
@@ -309,12 +309,12 @@ NYCRR 65.10,nycrr 65.10,Regulation,state_regulation,NY,91,49,6,1975,2024,false,u
 22 NYCRR 670.9,22 nycrr 670.9,Regulation,state_regulation,NY,90,90,1,1997,2026,true,exact
 NYCRR 670.9,nycrr 670.9,Regulation,state_regulation,NY,90,90,1,1997,2026,false,unresolved
 12 NYCRR 23-1.16,12 nycrr 23-1.16,Regulation,state_regulation,NY,89,44,4,1996,2026,true,exact
+NYCRR 86-2.14,nycrr 86-2.14,Regulation,state_regulation,NY,89,55,3,1979,2024,true,repaired
 10 NYCRR 86-2.14,10 nycrr 86-2.14,Regulation,state_regulation,NY,88,55,3,1979,2024,true,exact
 22 NYCRR 202.12-a,22 nycrr 202.12-a,Regulation,state_regulation,NY,88,55,2,2011,2026,false,unresolved
 N.Y. City Admin. Code § 8-107,n.y. city admin. code § 8-107,Regulation,state_regulation,NY,88,65,5,1998,2025,false,unresolved
 NYCRR 1250.7,nycrr 1250.7,Regulation,state_regulation,NY,88,81,3,2019,2026,true,exact
 NYCRR 82.5,nycrr 82.5,Regulation,state_regulation,NY,88,42,4,1978,2024,false,unresolved
-NYCRR 86-2.14,nycrr 86-2.14,Regulation,state_regulation,NY,88,55,3,1979,2024,true,repaired
 NYCRR 60-1.1,nycrr 60-1.1,Regulation,state_regulation,NY,87,46,5,1992,2021,false,unresolved
 NYCRR 691.7,nycrr 691.7,Regulation,state_regulation,NY,87,74,1,1981,2017,true,repaired
 11 NYCRR 65.10,11 nycrr 65.10,Regulation,state_regulation,NY,86,48,6,1975,2024,false,unresolved
@@ -416,6 +416,7 @@ NYCRR 670.20,nycrr 670.20,Regulation,state_regulation,NY,68,65,1,1982,2003,false
 22 NYCRR 1200.11,22 nycrr 1200.11,Regulation,state_regulation,NY,67,54,5,1994,2016,false,unresolved
 22 NYCRR 1250.9,22 nycrr 1250.9,Regulation,state_regulation,NY,67,66,2,2018,2026,true,exact
 22 NYCRR 130.1-1,22 nycrr 130.1-1,Regulation,state_regulation,NY,67,28,7,1994,2025,false,unresolved
+22 NYCRR § 216.1,22 nycrr § 216.1,Regulation,state_regulation,NY,67,51,6,2010,2026,true,exact
 9 NYCRR 2520.11,9 nycrr 2520.11,Regulation,state_regulation,NY,67,46,6,1989,2025,true,exact
 NYCRR 254.1,nycrr 254.1,Regulation,state_regulation,NY,67,59,4,1984,2025,false,unresolved
 NYCRR 301.4,nycrr 301.4,Regulation,state_regulation,NY,67,52,5,1981,2021,false,unresolved
@@ -427,13 +428,13 @@ NYCRR 500.9,nycrr 500.9,Regulation,state_regulation,NY,66,61,2,1969,2016,true,ex
 NYCRR 65-2.4,nycrr 65-2.4,Regulation,state_regulation,NY,66,44,7,2002,2026,true,repaired
 NYCRR 81.1,nycrr 81.1,Regulation,state_regulation,NY,66,37,9,1986,2026,true,exact
 11 NYCRR 65-2.4,11 nycrr 65-2.4,Regulation,state_regulation,NY,65,43,6,2002,2026,true,exact
-22 NYCRR § 216.1,22 nycrr § 216.1,Regulation,state_regulation,NY,65,51,6,2010,2026,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 22 § 500.27,n.y. comp. codes r. & regs. tit. 22 § 500.27,Regulation,state_regulation,NY,65,53,5,2006,2026,true,exact
 NYCRR 23-1.30,nycrr 23-1.30,Regulation,state_regulation,NY,65,30,3,1982,2025,true,repaired
 NYCRR 324.3,nycrr 324.3,Regulation,state_regulation,NY,65,15,2,1999,2023,false,unresolved
 18 NYCRR 360-4.10,18 nycrr 360-4.10,Regulation,state_regulation,NY,64,27,5,1994,2020,true,exact
 7 NYCRR 254.1,7 nycrr 254.1,Regulation,state_regulation,NY,64,56,3,1984,2025,true,exact
 22 NYCRR 1000.3,22 nycrr 1000.3,Regulation,state_regulation,NY,63,61,1,1972,2017,true,exact
+NYCRR 1022.5,nycrr 1022.5,Regulation,state_regulation,NY,63,37,1,1976,1994,true,repaired
 NYCRR 202.8-g,nycrr 202.8-g,Regulation,state_regulation,NY,63,38,5,2022,2026,true,repaired
 NYCRR 23-9.4,nycrr 23-9.4,Regulation,state_regulation,NY,63,34,4,1996,2025,true,repaired
 NYCRR 270.3,nycrr 270.3,Regulation,state_regulation,NY,63,61,3,1976,2023,false,unresolved
@@ -456,7 +457,6 @@ NYCRR 86-2.30,nycrr 86-2.30,Regulation,state_regulation,NY,62,20,3,1991,2025,tru
 7 NYCRR 301.4,7 nycrr 301.4,Regulation,state_regulation,NY,61,49,3,1981,2021,true,exact
 N.Y.C. Admin. Code § 8-130,n.y.c. admin. code § 8-130,Regulation,state_regulation,NY,61,45,5,2006,2025,false,unresolved
 NYCRR 1010.5,nycrr 1010.5,Regulation,state_regulation,NY,61,50,4,1988,2022,true,repaired
-NYCRR 1022.5,nycrr 1022.5,Regulation,state_regulation,NY,61,37,1,1976,1994,true,repaired
 NYCRR 1200,nycrr 1200,Regulation,state_regulation,NY,61,38,12,1993,2026,false,unresolved
 NYCRR 130,nycrr 130,Regulation,state_regulation,NY,61,37,7,1989,2026,false,unresolved
 NYCRR 221.2,nycrr 221.2,Regulation,state_regulation,NY,61,27,5,2007,2026,true,exact
@@ -537,6 +537,7 @@ NYCRR 701.2,nycrr 701.2,Regulation,state_regulation,NY,53,39,5,1971,2025,false,u
 22 NYCRR 221.2,22 nycrr 221.2,Regulation,state_regulation,NY,52,25,4,2007,2026,true,exact
 9 NYCRR 8004.2,9 nycrr 8004.2,Regulation,state_regulation,NY,52,26,5,1980,2023,true,exact
 NYCRR 208.42,nycrr 208.42,Regulation,state_regulation,NY,52,31,7,1986,2026,true,exact
+NYCRR § 130-1.1,nycrr § 130-1.1,Regulation,state_regulation,NY,52,9,4,2024,2025,true,exact
 12 NYCRR 300.5,12 nycrr 300.5,Regulation,state_regulation,NY,50,32,1,1987,2025,true,exact
 22 NYCRR 1400.5,22 nycrr 1400.5,Regulation,state_regulation,NY,50,21,4,1994,2024,true,exact
 22 NYCRR 205.4,22 nycrr 205.4,Regulation,state_regulation,NY,50,23,6,1987,2025,true,exact
@@ -550,7 +551,7 @@ NYCRR 205.4,nycrr 205.4,Regulation,state_regulation,NY,50,23,6,1987,2025,true,ex
 NYCRR 23-1.15,nycrr 23-1.15,Regulation,state_regulation,NY,50,32,3,1996,2026,true,repaired
 NYCRR 603.15,nycrr 603.15,Regulation,state_regulation,NY,50,34,5,1980,2022,false,unresolved
 NYCRR 80.1,nycrr 80.1,Regulation,state_regulation,NY,50,32,7,1973,2026,true,exact
-NYCRR § 130-1.1,nycrr § 130-1.1,Regulation,state_regulation,NY,50,9,4,2024,2025,true,exact
+NYCRR 86-2.2,nycrr 86-2.2,Regulation,state_regulation,NY,50,26,3,1979,2022,true,repaired
 10 NYCRR 59.5,10 nycrr 59.5,Regulation,state_regulation,NY,49,22,9,1974,2019,true,exact
 10 NYCRR 86-2.2,10 nycrr 86-2.2,Regulation,state_regulation,NY,49,26,3,1979,2022,true,exact
 12 NYCRR 23-1.15,12 nycrr 23-1.15,Regulation,state_regulation,NY,49,32,3,1996,2026,true,exact
@@ -563,7 +564,6 @@ DR 5-101 (a) (22 NYCRR 1200.20,dr 5-101 (a) (22 nycrr 1200.20,Regulation,state_r
 NYCRR 11.9,nycrr 11.9,Regulation,state_regulation,NY,49,21,2,2011,2018,false,unresolved
 NYCRR 131.4,nycrr 131.4,Regulation,state_regulation,NY,49,24,7,1972,2012,true,exact
 NYCRR 415.3,nycrr 415.3,Regulation,state_regulation,NY,49,17,4,1988,2024,false,unresolved
-NYCRR 86-2.2,nycrr 86-2.2,Regulation,state_regulation,NY,49,26,3,1979,2022,true,repaired
 22 NYCRR 1000.4,22 nycrr 1000.4,Regulation,state_regulation,NY,48,41,2,1970,2018,true,exact
 4 NYCRR 5.9,4 nycrr 5.9,Regulation,state_regulation,NY,48,17,3,1993,2022,true,exact
 NYCRR 369.2,nycrr 369.2,Regulation,state_regulation,NY,48,36,8,1972,2021,false,unresolved
@@ -687,6 +687,7 @@ NYCRR 66-1.1,nycrr 66-1.1,Regulation,state_regulation,NY,40,4,3,2021,2026,true,r
 7 NYCRR 261.3,7 nycrr 261.3,Regulation,state_regulation,NY,39,22,3,1975,2022,true,exact
 9 NYCRR 6204.1,9 nycrr 6204.1,Regulation,state_regulation,NY,39,27,5,1980,2025,true,exact
 DR 9-102 (B) (1) (22 NYCRR 1200.46,dr 9-102 (b) (1) (22 nycrr 1200.46,Regulation,state_regulation,NY,39,37,1,1993,1999,false,unresolved
+N.Y. Comp. Codes R. & Regs. tit. 8 § 200.1,n.y. comp. codes r. & regs. tit. 8 § 200.1,Regulation,state_regulation,NY,39,17,5,2003,2024,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 8 § 200.1,n.y. comp.codes r. & regs. tit. 8 § 200.1,Regulation,state_regulation,NY,39,16,4,1997,2016,true,exact
 NYCRR 136.1,nycrr 136.1,Regulation,state_regulation,NY,39,23,6,1991,2015,false,unresolved
 NYCRR 142-2.4,nycrr 142-2.4,Regulation,state_regulation,NY,39,23,5,2007,2026,true,repaired
@@ -706,7 +707,6 @@ NYCRR 701.3,nycrr 701.3,Regulation,state_regulation,NY,39,30,5,1970,2025,false,u
 90 (4) (d) and NYCRR 691.7,90 (4) (d) and nycrr 691.7,Regulation,state_regulation,NY,38,36,1,1985,2015,false,unresolved
 DR 7-101 (a) (3) (22 NYCRR 1200.32,dr 7-101 (a) (3) (22 nycrr 1200.32,Regulation,state_regulation,NY,38,38,1,2000,2015,false,unresolved
 DR 9-102 (E) (22 NYCRR 1200.46,dr 9-102 (e) (22 nycrr 1200.46,Regulation,state_regulation,NY,38,36,1,1993,2000,false,unresolved
-N.Y. Comp. Codes R. & Regs. tit. 8 § 200.1,n.y. comp. codes r. & regs. tit. 8 § 200.1,Regulation,state_regulation,NY,38,17,5,2003,2024,true,exact
 NYCRR 202.44,nycrr 202.44,Regulation,state_regulation,NY,38,21,3,1990,2025,true,exact
 NYCRR 324.2,nycrr 324.2,Regulation,state_regulation,NY,38,13,2,2013,2022,false,unresolved
 NYCRR 465.5,nycrr 465.5,Regulation,state_regulation,NY,38,21,6,1978,2021,false,unresolved
@@ -802,6 +802,7 @@ NYCRR 86-1.11,nycrr 86-1.11,Regulation,state_regulation,NY,34,7,2,1987,1998,true
 10 NYCRR 86-1.11,10 nycrr 86-1.11,Regulation,state_regulation,NY,33,7,2,1987,1998,true,exact
 11 NYCRR 65,11 nycrr 65,Regulation,state_regulation,NY,33,22,9,2000,2026,false,unresolved
 12 NYCRR 23-9.8,12 nycrr 23-9.8,Regulation,state_regulation,NY,33,15,2,2004,2022,true,exact
+12 NYCRR § 23-1.5,12 nycrr § 23-1.5,Regulation,state_regulation,NY,33,14,5,2018,2025,true,exact
 18 NYCRR 351.26,18 nycrr 351.26,Regulation,state_regulation,NY,33,22,4,1969,2022,true,exact
 18 NYCRR 360.8,18 nycrr 360.8,Regulation,state_regulation,NY,33,23,2,1975,1989,false,unresolved
 18 NYCRR 385.11,18 nycrr 385.11,Regulation,state_regulation,NY,33,3,2,2013,2016,true,exact
@@ -823,7 +824,6 @@ NYCRR 701.4,nycrr 701.4,Regulation,state_regulation,NY,33,20,4,1979,2025,false,u
 10 NYCRR § 416.9,10 nycrr § 416.9,Regulation,state_regulation,NY,32,3,1,1982,1982,false,unresolved
 11 NYCRR 65.11,11 nycrr 65.11,Regulation,state_regulation,NY,32,11,2,1982,2005,false,unresolved
 12 NYCRR 300.18,12 nycrr 300.18,Regulation,state_regulation,NY,32,29,1,1968,2025,true,exact
-12 NYCRR § 23-1.5,12 nycrr § 23-1.5,Regulation,state_regulation,NY,32,14,5,2018,2025,true,exact
 18 NYCRR 432.2,18 nycrr 432.2,Regulation,state_regulation,NY,32,17,6,1986,2018,true,exact
 22 NYCRR 600.11,22 nycrr 600.11,Regulation,state_regulation,NY,32,27,5,1972,2017,true,exact
 7 NYCRR 251-1.6,7 nycrr 251-1.6,Regulation,state_regulation,NY,32,21,3,1986,2025,true,exact
@@ -1212,6 +1212,7 @@ NYCRR 96.1,nycrr 96.1,Regulation,state_regulation,NY,22,10,1,1980,1997,false,unr
 10 NYCRR 600.5,10 nycrr 600.5,Regulation,state_regulation,NY,21,10,3,1977,1991,true,exact
 10 NYCRR 96.1,10 nycrr 96.1,Regulation,state_regulation,NY,21,10,1,1980,1997,true,exact
 11 NYCRR 60-1.2,11 nycrr 60-1.2,Regulation,state_regulation,NY,21,10,3,1993,2019,true,exact
+12 NYCRR § 23-2.1,12 nycrr § 23-2.1,Regulation,state_regulation,NY,21,7,3,2024,2026,true,exact
 18 NYCRR 369.3,18 nycrr 369.3,Regulation,state_regulation,NY,21,8,4,1972,2021,true,exact
 18 NYCRR 601.3,18 nycrr 601.3,Regulation,state_regulation,NY,21,8,1,2011,2015,true,exact
 20 NYCRR 526.7,20 nycrr 526.7,Regulation,state_regulation,NY,21,13,2,1979,2026,true,exact
@@ -1419,6 +1420,7 @@ New York City Admin. Code § 8-107,new york city admin. code § 8-107,Regulation
 12 NYCRR § 142-2.4,12 nycrr § 142-2.4,Regulation,state_regulation,NY,18,11,3,2012,2025,true,exact
 12 NYCRR § 23-1.21,12 nycrr § 23-1.21,Regulation,state_regulation,NY,18,8,4,2018,2025,true,exact
 12 NYCRR § 23-1.8,12 nycrr § 23-1.8,Regulation,state_regulation,NY,18,2,1,2025,2025,true,exact
+12 NYCRR § 23-9.2,12 nycrr § 23-9.2,Regulation,state_regulation,NY,18,4,2,2023,2024,true,exact
 18 NYCRR 358-4.1,18 nycrr 358-4.1,Regulation,state_regulation,NY,18,4,2,1995,2016,true,exact
 18 NYCRR 360.16,18 nycrr 360.16,Regulation,state_regulation,NY,18,15,3,1968,1993,false,unresolved
 18 NYCRR 360.23,18 nycrr 360.23,Regulation,state_regulation,NY,18,10,1,1975,1989,false,unresolved
@@ -1511,7 +1513,6 @@ NYCRR § 525.9,nycrr § 525.9,Regulation,state_regulation,NY,18,1,1,2021,2021,fa
 10 NYCRR § 415.1,10 nycrr § 415.1,Regulation,state_regulation,NY,17,4,2,1982,2024,true,exact
 11 NYCRR 60.2,11 nycrr 60.2,Regulation,state_regulation,NY,17,14,3,1965,1997,false,unresolved
 12 NYCRR 300.7,12 nycrr 300.7,Regulation,state_regulation,NY,17,17,2,2001,2015,true,exact
-12 NYCRR § 23-9.2,12 nycrr § 23-9.2,Regulation,state_regulation,NY,17,4,2,2023,2024,true,exact
 13 NYCRR 18.1,13 nycrr 18.1,Regulation,state_regulation,NY,17,11,3,1984,2020,true,exact
 13 NYCRR 18.7,13 nycrr 18.7,Regulation,state_regulation,NY,17,2,2,1986,1987,true,exact
 13 NYCRR 300.17,13 nycrr 300.17,Regulation,state_regulation,NY,17,6,3,1988,1990,true,exact
@@ -2222,7 +2223,6 @@ NYCRR § 86-2.21,nycrr § 86-2.21,Regulation,state_regulation,NY,12,1,1,1990,199
 12 NYCRR 23-4.3,12 nycrr 23-4.3,Regulation,state_regulation,NY,11,11,1,1995,2025,true,exact
 12 NYCRR 23.8,12 nycrr 23.8,Regulation,state_regulation,NY,11,8,3,1963,1981,false,unresolved
 12 NYCRR § 146-1.6,12 nycrr § 146-1.6,Regulation,state_regulation,NY,11,8,2,2011,2025,true,exact
-12 NYCRR § 23-2.1,12 nycrr § 23-2.1,Regulation,state_regulation,NY,11,7,3,2024,2026,true,exact
 13 NYCRR 22.3,13 nycrr 22.3,Regulation,state_regulation,NY,11,5,3,1995,2020,true,exact
 14 NYCRR 541.9,14 nycrr 541.9,Regulation,state_regulation,NY,11,6,3,1993,2021,true,exact
 16 NYCRR 6-1.3,16 nycrr 6-1.3,Regulation,state_regulation,NY,11,3,2,2014,2025,true,exact
@@ -2257,7 +2257,6 @@ NYCRR § 86-2.21,nycrr § 86-2.21,Regulation,state_regulation,NY,12,1,1,1990,199
 22 NYCRR 700.5,22 nycrr 700.5,Regulation,state_regulation,NY,11,11,2,1979,2012,true,exact
 22 NYCRR 7200.1,22 nycrr 7200.1,Regulation,state_regulation,NY,11,10,4,1986,2025,true,exact
 22 NYCRR § 130-1.3,22 nycrr § 130-1.3,Regulation,state_regulation,NY,11,6,2,2019,2025,true,exact
-22 NYCRR § 130-1.l,22 nycrr § 130-1.l,Regulation,state_regulation,NY,11,8,4,2019,2026,false,unresolved
 22 NYCRR § 205.50,22 nycrr § 205.50,Regulation,state_regulation,NY,11,3,2,2005,2006,true,exact
 4 NYCRR 201.9,4 nycrr 201.9,Regulation,state_regulation,NY,11,6,2,1974,2016,true,exact
 4 NYCRR 66.1,4 nycrr 66.1,Regulation,state_regulation,NY,11,6,3,1977,1991,true,exact
@@ -2402,7 +2401,6 @@ NYCRR § 23-1.5,nycrr § 23-1.5,Regulation,state_regulation,NY,11,2,2,2024,2025,
 12 NYCRR 701.4,12 nycrr 701.4,Regulation,state_regulation,NY,10,7,1,1991,2025,true,exact
 12 NYCRR § 142,12 nycrr § 142,Regulation,state_regulation,NY,10,9,5,2018,2025,true,container
 12 NYCRR § 23-1.13,12 nycrr § 23-1.13,Regulation,state_regulation,NY,10,6,4,2018,2024,true,exact
-12 NYCRR § 23-2.l,12 nycrr § 23-2.l,Regulation,state_regulation,NY,10,1,1,2026,2026,false,unresolved
 14 NYCRR 633.11,14 nycrr 633.11,Regulation,state_regulation,NY,10,7,4,1989,2012,true,exact
 14 NYCRR 853.20,14 nycrr 853.20,Regulation,state_regulation,NY,10,4,1,2005,2017,true,exact
 15 NYCRR 20.15,15 nycrr 20.15,Regulation,state_regulation,NY,10,7,3,1977,2010,true,exact
@@ -3903,6 +3901,7 @@ N.Y. Comp. Codes R. & Regs. tit. 12 § 137-1.5,n.y. comp. codes r. & regs. tit. 
 N.Y. Comp. Codes R. & Regs. tit. 16 § 895.4,n.y. comp. codes r. & regs. tit. 16 § 895.4,Regulation,state_regulation,NY,6,5,4,2016,2019,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 17 § 855.1,n.y. comp. codes r. & regs. tit. 17 § 855.1,Regulation,state_regulation,NY,6,1,1,2022,2022,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 22 § 1200,n.y. comp. codes r. & regs. tit. 22 § 1200,Regulation,state_regulation,NY,6,6,3,2010,2024,false,unresolved
+N.Y. Comp. Codes R. & Regs. tit. 7 § 304.1-.14,n.y. comp. codes r. & regs. tit. 7 § 304.1-.14,Regulation,state_regulation,NY,6,3,2,1999,2017,true,multiple
 N.Y. Comp. Codes R. & Regs. tit. 8 § 279.4,n.y. comp. codes r. & regs. tit. 8 § 279.4,Regulation,state_regulation,NY,6,3,2,2021,2022,true,exact
 "N.Y. Comp. Codes R. & Regs. tit. 8, 175.24","n.y. comp. codes r. & regs. tit. 8, 175.24",Regulation,state_regulation,NY,6,1,1,2000,2000,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 9 § 595.4,n.y. comp. codes r. & regs. tit. 9 § 595.4,Regulation,state_regulation,NY,6,2,2,2001,2005,false,unresolved
@@ -4144,6 +4143,7 @@ Title 10 NYCRR § 763.5,title 10 nycrr § 763.5,Regulation,state_regulation,NY,6
 1 NYCRR 221.9,1 nycrr 221.9,Regulation,state_regulation,NY,5,3,3,1965,1975,true,exact
 1-102 (A) (4) and DR 9-102 (B) (22 NYCRR 1200.3,1-102 (a) (4) and dr 9-102 (b) (22 nycrr 1200.3,Regulation,state_regulation,NY,5,5,1,1997,1999,false,unresolved
 1-104 (c) and DR 1-102 (a) (7) (22 NYCRR 1200.5,1-104 (c) and dr 1-102 (a) (7) (22 nycrr 1200.5,Regulation,state_regulation,NY,5,5,1,2013,2016,false,unresolved
+10 N.Y. Comp.Codes R. & Regs. § 5-1.1,10 n.y. comp.codes r. & regs. § 5-1.1,Regulation,state_regulation,NY,5,4,1,2006,2010,true,exact
 10 NYCRR 1001.4,10 nycrr 1001.4,Regulation,state_regulation,NY,5,2,2,2009,2018,true,exact
 10 NYCRR 1002.2,10 nycrr 1002.2,Regulation,state_regulation,NY,5,3,2,2015,2018,true,exact
 10 NYCRR 1004.6,10 nycrr 1004.6,Regulation,state_regulation,NY,5,1,1,2022,2022,true,exact
@@ -4665,6 +4665,7 @@ NYCRR 400.1,nycrr 400.1,Regulation,state_regulation,NY,5,3,2,2011,2019,false,unr
 NYCRR 4043.12,nycrr 4043.12,Regulation,state_regulation,NY,5,3,2,2013,2014,true,repaired
 NYCRR 405.24,nycrr 405.24,Regulation,state_regulation,NY,5,3,3,1997,2013,true,repaired
 NYCRR 4120.13,nycrr 4120.13,Regulation,state_regulation,NY,5,4,1,2009,2010,true,repaired
+NYCRR 4120.5,nycrr 4120.5,Regulation,state_regulation,NY,5,3,2,1977,1982,true,repaired
 NYCRR 418-1.8,nycrr 418-1.8,Regulation,state_regulation,NY,5,4,2,2012,2024,true,repaired
 NYCRR 419.7,nycrr 419.7,Regulation,state_regulation,NY,5,3,1,2022,2025,false,unresolved
 NYCRR 431.18,nycrr 431.18,Regulation,state_regulation,NY,5,1,1,2019,2019,true,repaired
@@ -4841,7 +4842,6 @@ Supreme Court (22 NYCRR § 202.70,supreme court (22 nycrr § 202.70,Regulation,s
 1 NYCRR 21.17,1 nycrr 21.17,Regulation,state_regulation,NY,4,2,1,1990,1990,true,exact
 1 NYCRR 370.1,1 nycrr 370.1,Regulation,state_regulation,NY,4,2,1,2025,2025,true,exact
 1 NYCRR 44.4,1 nycrr 44.4,Regulation,state_regulation,NY,4,3,2,1983,1983,true,exact
-10 N.Y. Comp.Codes R. & Regs. § 5-1.1,10 n.y. comp.codes r. & regs. § 5-1.1,Regulation,state_regulation,NY,4,4,1,2006,2010,true,exact
 10 NYCRR 128-8.2,10 nycrr 128-8.2,Regulation,state_regulation,NY,4,2,1,2007,2009,true,exact
 10 NYCRR 15.20,10 nycrr 15.20,Regulation,state_regulation,NY,4,3,1,1971,1972,true,exact
 10 NYCRR 2.6,10 nycrr 2.6,Regulation,state_regulation,NY,4,4,2,1984,2007,true,exact
@@ -4942,6 +4942,7 @@ Supreme Court (22 NYCRR § 202.70,supreme court (22 nycrr § 202.70,Regulation,s
 12 NYCRR § 146-3.1,12 nycrr § 146-3.1,Regulation,state_regulation,NY,4,4,2,2012,2025,true,exact
 12 NYCRR § 23,12 nycrr § 23,Regulation,state_regulation,NY,4,3,3,2010,2024,true,container
 12 NYCRR § 23-1.22,12 nycrr § 23-1.22,Regulation,state_regulation,NY,4,3,2,2024,2025,true,exact
+12 NYCRR § 23-5.1,12 nycrr § 23-5.1,Regulation,state_regulation,NY,4,3,1,2024,2024,true,exact
 "12 New York Codes, Rules and Regulations (“NYCRR”) § 137-1.7","12 new york codes, rules and regulations (“nycrr”) § 137-1.7",Regulation,state_regulation,NY,4,4,1,2019,2021,false,unresolved
 "12 New York Codes, Rules and Regulations (“NYCRR”) § 142-2.4","12 new york codes, rules and regulations (“nycrr”) § 142-2.4",Regulation,state_regulation,NY,4,4,1,2019,2021,false,unresolved
 13 NYCRR 400.4,13 nycrr 400.4,Regulation,state_regulation,NY,4,2,1,2010,2016,true,exact
@@ -5486,6 +5487,7 @@ N.Y.City Admin.Code § 26-405,n.y.city admin.code § 26-405,Regulation,state_reg
 N.Y.City Admin.Code § 26-406,n.y.city admin.code § 26-406,Regulation,state_regulation,NY,4,2,1,1992,1992,false,unresolved
 N.Y.City Admin.Code § 26-509,n.y.city admin.code § 26-509,Regulation,state_regulation,NY,4,2,1,1992,1992,false,unresolved
 N.Y.Comp. Codes R. & Regs. tit. 12 § 601.7,n.y.comp. codes r. & regs. tit. 12 § 601.7,Regulation,state_regulation,NY,4,1,1,1993,1993,true,exact
+N.Y.Comp. Codes R. & Regs. tit. 22 § 500.17,n.y.comp. codes r. & regs. tit. 22 § 500.17,Regulation,state_regulation,NY,4,2,1,1987,1994,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 12 § 601.7,n.y.comp.codes r. & regs. tit. 12 § 601.7,Regulation,state_regulation,NY,4,1,1,1993,1993,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 18 § 540.6,n.y.comp.codes r. & regs. tit. 18 § 540.6,Regulation,state_regulation,NY,4,2,1,1993,1993,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 22 § 1200.21,n.y.comp.codes r. & regs. tit. 22 § 1200.21,Regulation,state_regulation,NY,4,2,1,1996,1999,false,unresolved
@@ -5704,7 +5706,6 @@ NYCRR 405.1021,nycrr 405.1021,Regulation,state_regulation,NY,4,1,1,1982,1982,fal
 NYCRR 405.1026,nycrr 405.1026,Regulation,state_regulation,NY,4,4,2,1984,1988,true,repaired
 NYCRR 405.6,nycrr 405.6,Regulation,state_regulation,NY,4,3,3,1996,2007,false,unresolved
 NYCRR 405.8,nycrr 405.8,Regulation,state_regulation,NY,4,4,3,1986,2011,false,unresolved
-NYCRR 4120.5,nycrr 4120.5,Regulation,state_regulation,NY,4,3,2,1977,1982,true,repaired
 NYCRR 4121.5,nycrr 4121.5,Regulation,state_regulation,NY,4,3,3,1975,1984,true,repaired
 NYCRR 414.18,nycrr 414.18,Regulation,state_regulation,NY,4,3,1,1982,1982,true,repaired
 NYCRR 415.15,nycrr 415.15,Regulation,state_regulation,NY,4,2,1,2008,2009,false,unresolved
@@ -6029,7 +6030,6 @@ Title 18 NYCRR § 421.3,title 18 nycrr § 421.3,Regulation,state_regulation,NY,4
 12 NYCRR § 146-3.5,12 nycrr § 146-3.5,Regulation,state_regulation,NY,3,3,2,2021,2025,true,exact
 12 NYCRR § 2.2,12 nycrr § 2.2,Regulation,state_regulation,NY,3,2,2,2021,2025,false,unresolved
 12 NYCRR § 23-1.12,12 nycrr § 23-1.12,Regulation,state_regulation,NY,3,2,2,2024,2024,true,exact
-12 NYCRR § 23-5.1,12 nycrr § 23-5.1,Regulation,state_regulation,NY,3,3,1,2024,2024,true,exact
 12 NYCRR § 442.2,12 nycrr § 442.2,Regulation,state_regulation,NY,3,1,1,2018,2018,true,exact
 "12 New York Codes, Rules and Regulations (“NYCRR”) § 142","12 new york codes, rules and regulations (“nycrr”) § 142",Regulation,state_regulation,NY,3,3,2,2016,2023,false,unresolved
 1229-c (1) (a) and NYCRR 416.6,1229-c (1) (a) and nycrr 416.6,Regulation,state_regulation,NY,3,3,1,2017,2017,false,unresolved
@@ -6781,6 +6781,7 @@ N.Y. Comp. Codes R. & Regs. tit. 12 § 146-2.18,n.y. comp. codes r. & regs. tit.
 N.Y. Comp. Codes R. & Regs. tit. 12 § 146-2.7,n.y. comp. codes r. & regs. tit. 12 § 146-2.7,Regulation,state_regulation,NY,3,3,2,2019,2022,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 12 § 23-1.21,n.y. comp. codes r. & regs. tit. 12 § 23-1.21,Regulation,state_regulation,NY,3,1,1,2024,2024,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 12 § 23-1.25,n.y. comp. codes r. & regs. tit. 12 § 23-1.25,Regulation,state_regulation,NY,3,1,1,2024,2024,true,exact
+N.Y. Comp. Codes R. & Regs. tit. 12 § 56-2.1,n.y. comp. codes r. & regs. tit. 12 § 56-2.1,Regulation,state_regulation,NY,3,2,1,2001,2014,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 12 § 921-1.1,n.y. comp. codes r. & regs. tit. 12 § 921-1.1,Regulation,state_regulation,NY,3,2,1,2023,2024,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 18 § 352.7,n.y. comp. codes r. & regs. tit. 18 § 352.7,Regulation,state_regulation,NY,3,2,1,2022,2024,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 18 § 487.7,n.y. comp. codes r. & regs. tit. 18 § 487.7,Regulation,state_regulation,NY,3,1,1,2009,2009,true,exact
@@ -6797,7 +6798,7 @@ N.Y. Comp. Codes R. & Regs. tit. 7 § 1700.3,n.y. comp. codes r. & regs. tit. 7 
 N.Y. Comp. Codes R. & Regs. tit. 7 § 253.6,n.y. comp. codes r. & regs. tit. 7 § 253.6,Regulation,state_regulation,NY,3,2,2,2021,2024,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 7 § 254.5,n.y. comp. codes r. & regs. tit. 7 § 254.5,Regulation,state_regulation,NY,3,3,1,2006,2015,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 7 § 301.4,n.y. comp. codes r. & regs. tit. 7 § 301.4,Regulation,state_regulation,NY,3,2,2,2021,2024,true,exact
-N.Y. Comp. Codes R. & Regs. tit. 7 § 304.1-.14,n.y. comp. codes r. & regs. tit. 7 § 304.1-.14,Regulation,state_regulation,NY,3,3,2,1999,2017,true,multiple
+N.Y. Comp. Codes R. & Regs. tit. 7 § 305.1-.6,n.y. comp. codes r. & regs. tit. 7 § 305.1-.6,Regulation,state_regulation,NY,3,2,2,2004,2014,true,multiple
 N.Y. Comp. Codes R. & Regs. tit. 7 § 701.1,n.y. comp. codes r. & regs. tit. 7 § 701.1,Regulation,state_regulation,NY,3,3,2,2003,2019,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 8 § 200,n.y. comp. codes r. & regs. tit. 8 § 200,Regulation,state_regulation,NY,3,1,1,2024,2024,false,unresolved
 N.Y. Comp. Codes R. & Regs. tit. 8 § 61.18,n.y. comp. codes r. & regs. tit. 8 § 61.18,Regulation,state_regulation,NY,3,1,1,2023,2023,true,exact
@@ -6842,7 +6843,6 @@ N.Y. Comp.Codes R. & Regs. tit. 3 § 4.1,n.y. comp.codes r. & regs. tit. 3 § 4.
 N.Y. Comp.Codes R. & Regs. tit. 7 § 1900.4,n.y. comp.codes r. & regs. tit. 7 § 1900.4,Regulation,state_regulation,NY,3,2,1,1996,2006,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 7 § 1904.1,n.y. comp.codes r. & regs. tit. 7 § 1904.1,Regulation,state_regulation,NY,3,2,1,2006,2006,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 7 § 254.7,n.y. comp.codes r. & regs. tit. 7 § 254.7,Regulation,state_regulation,NY,3,1,1,2025,2025,true,exact
-N.Y. Comp.Codes R. & Regs. tit. 7 § 304.1-.14,n.y. comp.codes r. & regs. tit. 7 § 304.1-.14,Regulation,state_regulation,NY,3,3,2,2000,2014,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 7 § 701,n.y. comp.codes r. & regs. tit. 7 § 701,Regulation,state_regulation,NY,3,3,1,2002,2004,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 8 § 100.2,n.y. comp.codes r. & regs. tit. 8 § 100.2,Regulation,state_regulation,NY,3,2,2,1998,2014,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 8 § 100.5,n.y. comp.codes r. & regs. tit. 8 § 100.5,Regulation,state_regulation,NY,3,2,2,2001,2012,true,exact
@@ -6917,7 +6917,6 @@ N.Y.Comp.Codes R. & Regs. tit. 10 § 46,n.y.comp.codes r. & regs. tit. 10 § 46,
 N.Y.Comp.Codes R. & Regs. tit. 18 § 360.10,n.y.comp.codes r. & regs. tit. 18 § 360.10,Regulation,state_regulation,NY,3,3,2,1992,1993,false,unresolved
 N.Y.Comp.Codes R. & Regs. tit. 18 § 515.2,n.y.comp.codes r. & regs. tit. 18 § 515.2,Regulation,state_regulation,NY,3,3,1,1993,1995,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 22 § 40.1,n.y.comp.codes r. & regs. tit. 22 § 40.1,Regulation,state_regulation,NY,3,1,1,1991,1991,true,exact
-N.Y.Comp.Codes R. & Regs. tit. 22 § 500.-17,n.y.comp.codes r. & regs. tit. 22 § 500.-17,Regulation,state_regulation,NY,3,2,1,1994,1994,false,unresolved
 N.Y.Comp.Codes R. & Regs. tit. 7 § 251-1.6,n.y.comp.codes r. & regs. tit. 7 § 251-1.6,Regulation,state_regulation,NY,3,2,2,1995,1995,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 253.9,n.y.comp.codes r. & regs. tit. 7 § 253.9,Regulation,state_regulation,NY,3,1,1,1996,1996,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 254.5,n.y.comp.codes r. & regs. tit. 7 § 254.5,Regulation,state_regulation,NY,3,2,2,1995,1998,true,exact
@@ -8465,7 +8464,6 @@ Tax Law and NYCRR 2800.7,tax law and nycrr 2800.7,Regulation,state_regulation,NY
 22 NYCRR § 205.83,22 nycrr § 205.83,Regulation,state_regulation,NY,2,2,1,2006,2007,true,exact
 22 NYCRR § 207.36,22 nycrr § 207.36,Regulation,state_regulation,NY,2,1,1,2025,2025,true,exact
 22 NYCRR § 207.48,22 nycrr § 207.48,Regulation,state_regulation,NY,2,2,1,2025,2025,true,exact
-22 NYCRR § 216.l,22 nycrr § 216.l,Regulation,state_regulation,NY,2,2,1,2024,2024,false,unresolved
 22 NYCRR § 23-1.13,22 nycrr § 23-1.13,Regulation,state_regulation,NY,2,2,1,2024,2024,false,unresolved
 22 NYCRR § 23-9.2,22 nycrr § 23-9.2,Regulation,state_regulation,NY,2,1,1,2024,2024,false,unresolved
 22 NYCRR § 25.20,22 nycrr § 25.20,Regulation,state_regulation,NY,2,1,1,1993,1993,true,exact
@@ -9287,7 +9285,6 @@ N.Y. Comp. Codes R. & Regs. tit. 12 § 23-1.16,n.y. comp. codes r. & regs. tit. 
 N.Y. Comp. Codes R. & Regs. tit. 12 § 23-1.7,n.y. comp. codes r. & regs. tit. 12 § 23-1.7,Regulation,state_regulation,NY,2,2,2,2024,2024,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 12 § 500.27,n.y. comp. codes r. & regs. tit. 12 § 500.27,Regulation,state_regulation,NY,2,2,1,2013,2013,false,unresolved
 N.Y. Comp. Codes R. & Regs. tit. 12 § 56-12.1,n.y. comp. codes r. & regs. tit. 12 § 56-12.1,Regulation,state_regulation,NY,2,2,1,2001,2001,true,exact
-N.Y. Comp. Codes R. & Regs. tit. 12 § 56-2.1,n.y. comp. codes r. & regs. tit. 12 § 56-2.1,Regulation,state_regulation,NY,2,2,1,2001,2001,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 14 § 375.1,n.y. comp. codes r. & regs. tit. 14 § 375.1,Regulation,state_regulation,NY,2,1,1,2010,2010,false,unresolved
 N.Y. Comp. Codes R. & Regs. tit. 14 § 375.8,n.y. comp. codes r. & regs. tit. 14 § 375.8,Regulation,state_regulation,NY,2,1,1,2010,2010,false,unresolved
 N.Y. Comp. Codes R. & Regs. tit. 14 § 540.9,n.y. comp. codes r. & regs. tit. 14 § 540.9,Regulation,state_regulation,NY,2,1,1,2000,2000,true,exact
@@ -9449,6 +9446,7 @@ N.Y. Comp.Codes R. & Regs. tit. 19 § 205.1,n.y. comp.codes r. & regs. tit. 19 �
 N.Y. Comp.Codes R. & Regs. tit. 21 § 1050,n.y. comp.codes r. & regs. tit. 21 § 1050,Regulation,state_regulation,NY,2,1,1,2009,2009,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 21 § 9600,n.y. comp.codes r. & regs. tit. 21 § 9600,Regulation,state_regulation,NY,2,2,1,2005,2005,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 21 § 9600.1,n.y. comp.codes r. & regs. tit. 21 § 9600.1,Regulation,state_regulation,NY,2,2,1,1999,2000,true,exact
+N.Y. Comp.Codes R. & Regs. tit. 22 § 1023.2,n.y. comp.codes r. & regs. tit. 22 § 1023.2,Regulation,state_regulation,NY,2,1,1,2008,2008,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 22 § 1200.15,n.y. comp.codes r. & regs. tit. 22 § 1200.15,Regulation,state_regulation,NY,2,2,1,1996,1999,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 22 § 1200.21,n.y. comp.codes r. & regs. tit. 22 § 1200.21,Regulation,state_regulation,NY,2,2,1,2009,2015,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 22 § 1200.22,n.y. comp.codes r. & regs. tit. 22 § 1200.22,Regulation,state_regulation,NY,2,2,1,2002,2004,false,unresolved
@@ -9458,7 +9456,10 @@ N.Y. Comp.Codes R. & Regs. tit. 22 § 603.7,n.y. comp.codes r. & regs. tit. 22 �
 N.Y. Comp.Codes R. & Regs. tit. 22 § 612.2,n.y. comp.codes r. & regs. tit. 22 § 612.2,Regulation,state_regulation,NY,2,2,1,2004,2004,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 22 § 612.4,n.y. comp.codes r. & regs. tit. 22 § 612.4,Regulation,state_regulation,NY,2,2,1,2004,2004,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 22 § 612.6,n.y. comp.codes r. & regs. tit. 22 § 612.6,Regulation,state_regulation,NY,2,1,1,2005,2005,true,exact
+N.Y. Comp.Codes R. & Regs. tit. 22 § 622.2,n.y. comp.codes r. & regs. tit. 22 § 622.2,Regulation,state_regulation,NY,2,1,1,2008,2008,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 22 § 691.11,n.y. comp.codes r. & regs. tit. 22 § 691.11,Regulation,state_regulation,NY,2,2,1,2008,2012,true,exact
+N.Y. Comp.Codes R. & Regs. tit. 22 § 694.2,n.y. comp.codes r. & regs. tit. 22 § 694.2,Regulation,state_regulation,NY,2,1,1,2008,2008,true,exact
+N.Y. Comp.Codes R. & Regs. tit. 22 § 823.2,n.y. comp.codes r. & regs. tit. 22 § 823.2,Regulation,state_regulation,NY,2,1,1,2008,2008,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 3 § 406.3,n.y. comp.codes r. & regs. tit. 3 § 406.3,Regulation,state_regulation,NY,2,2,1,1999,1999,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 4 § 201.9,n.y. comp.codes r. & regs. tit. 4 § 201.9,Regulation,state_regulation,NY,2,1,1,2008,2008,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 4 § 4.5,n.y. comp.codes r. & regs. tit. 4 § 4.5,Regulation,state_regulation,NY,2,2,2,2011,2012,true,exact
@@ -9479,7 +9480,6 @@ N.Y. Comp.Codes R. & Regs. tit. 7 § 253.9,n.y. comp.codes r. & regs. tit. 7 § 
 N.Y. Comp.Codes R. & Regs. tit. 7 § 301.1-.7,n.y. comp.codes r. & regs. tit. 7 § 301.1-.7,Regulation,state_regulation,NY,2,2,2,1999,2005,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 7 § 302.1,n.y. comp.codes r. & regs. tit. 7 § 302.1,Regulation,state_regulation,NY,2,1,1,2006,2006,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 7 § 304.7,n.y. comp.codes r. & regs. tit. 7 § 304.7,Regulation,state_regulation,NY,2,2,2,2001,2009,true,exact
-N.Y. Comp.Codes R. & Regs. tit. 7 § 305.1-.6,n.y. comp.codes r. & regs. tit. 7 § 305.1-.6,Regulation,state_regulation,NY,2,2,2,2004,2014,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 7 § 701.3,n.y. comp.codes r. & regs. tit. 7 § 701.3,Regulation,state_regulation,NY,2,2,2,2003,2009,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 8 § 120.6,n.y. comp.codes r. & regs. tit. 8 § 120.6,Regulation,state_regulation,NY,2,2,2,2006,2014,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 8 § 66.1,n.y. comp.codes r. & regs. tit. 8 § 66.1,Regulation,state_regulation,NY,2,2,1,2006,2006,true,exact
@@ -9502,10 +9502,6 @@ N.Y. Comp.Codes R. & Regs. § 8003.2,n.y. comp.codes r. & regs. § 8003.2,Regula
 "N.Y. Comp.Codes R. & Regs., tit. 22 § 1200.29","n.y. comp.codes r. & regs., tit. 22 § 1200.29",Regulation,state_regulation,NY,2,1,1,2009,2009,false,unresolved
 "N.Y. Comp.Codes R. & Regs., tit. 22 § 500.17","n.y. comp.codes r. & regs., tit. 22 § 500.17",Regulation,state_regulation,NY,2,1,1,2000,2000,true,exact
 "N.Y. Comp.Codes R. & Regs., tit. 7 § 304.1","n.y. comp.codes r. & regs., tit. 7 § 304.1",Regulation,state_regulation,NY,2,2,1,1998,1998,true,exact
-N.Y. Comp.Codes R. & Regs.. tit. 22 § 1023.2,n.y. comp.codes r. & regs.. tit. 22 § 1023.2,Regulation,state_regulation,NY,2,1,1,2008,2008,false,unresolved
-N.Y. Comp.Codes R. & Regs.. tit. 22 § 622.2,n.y. comp.codes r. & regs.. tit. 22 § 622.2,Regulation,state_regulation,NY,2,1,1,2008,2008,false,unresolved
-N.Y. Comp.Codes R. & Regs.. tit. 22 § 694.2,n.y. comp.codes r. & regs.. tit. 22 § 694.2,Regulation,state_regulation,NY,2,1,1,2008,2008,false,unresolved
-N.Y. Comp.Codes R. & Regs.. tit. 22 § 823.2,n.y. comp.codes r. & regs.. tit. 22 § 823.2,Regulation,state_regulation,NY,2,1,1,2008,2008,false,unresolved
 N.Y. Comp.Codes R. Regs. tit. 12 § 137-2.1,n.y. comp.codes r. regs. tit. 12 § 137-2.1,Regulation,state_regulation,NY,2,1,1,2011,2011,false,unresolved
 N.Y. Comp.Codes R. Regs. tit. 12 § 137-2.2,n.y. comp.codes r. regs. tit. 12 § 137-2.2,Regulation,state_regulation,NY,2,1,1,2011,2011,false,unresolved
 N.Y. Comp.Codes R. Regs. tit. 12 § 146-2.19,n.y. comp.codes r. regs. tit. 12 § 146-2.19,Regulation,state_regulation,NY,2,2,1,2013,2013,false,unresolved
@@ -9519,6 +9515,7 @@ N.Y.Admin.Code tit. 18 § 423.1,n.y.admin.code tit. 18 § 423.1,Regulation,state
 N.Y.Admin.Code tit. 18 § 425.2,n.y.admin.code tit. 18 § 425.2,Regulation,state_regulation,NY,2,2,1,1983,1983,true,exact
 N.Y.Admin.Code tit. 18 § 427.2,n.y.admin.code tit. 18 § 427.2,Regulation,state_regulation,NY,2,2,1,1983,1983,true,exact
 N.Y.Admin.Code tit. 18 § 428.8,n.y.admin.code tit. 18 § 428.8,Regulation,state_regulation,NY,2,2,1,1983,1983,true,exact
+N.Y.Admin.Code tit. 18 § 430.12,n.y.admin.code tit. 18 § 430.12,Regulation,state_regulation,NY,2,1,1,1983,1983,true,exact
 N.Y.Admin.Code tit. 18 § 430.5,n.y.admin.code tit. 18 § 430.5,Regulation,state_regulation,NY,2,2,1,1983,1983,true,exact
 N.Y.Admin.Code tit. 18 § 430.9,n.y.admin.code tit. 18 § 430.9,Regulation,state_regulation,NY,2,2,1,1983,1983,true,exact
 N.Y.Admin.Code tit. 18 § 431.13,n.y.admin.code tit. 18 § 431.13,Regulation,state_regulation,NY,2,2,1,1983,1983,true,exact
@@ -9685,6 +9682,7 @@ N.Y.Comp.Codes R. & Regs. tit. 22 § 520.4,n.y.comp.codes r. & regs. tit. 22 § 
 N.Y.Comp.Codes R. & Regs. tit. 3 § 86.4,n.y.comp.codes r. & regs. tit. 3 § 86.4,Regulation,state_regulation,NY,2,1,1,1994,1994,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 251-5.1,n.y.comp.codes r. & regs. tit. 7 § 251-5.1,Regulation,state_regulation,NY,2,2,2,1993,1996,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 254.1,n.y.comp.codes r. & regs. tit. 7 § 254.1,Regulation,state_regulation,NY,2,2,2,1994,2000,true,exact
+N.Y.Comp.Codes R. & Regs. tit. 7 § 254.6,n.y.comp.codes r. & regs. tit. 7 § 254.6,Regulation,state_regulation,NY,2,1,1,1991,1995,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 254.8,n.y.comp.codes r. & regs. tit. 7 § 254.8,Regulation,state_regulation,NY,2,2,2,1994,1995,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 254.9,n.y.comp.codes r. & regs. tit. 7 § 254.9,Regulation,state_regulation,NY,2,1,1,1996,1996,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 300.2,n.y.comp.codes r. & regs. tit. 7 § 300.2,Regulation,state_regulation,NY,2,2,2,1994,1997,true,exact
@@ -9733,7 +9731,6 @@ NYCRR 1010.3,nycrr 1010.3,Regulation,state_regulation,NY,2,2,1,1992,2006,true,re
 NYCRR 1013.4,nycrr 1013.4,Regulation,state_regulation,NY,2,2,2,1975,1975,false,unresolved
 NYCRR 1015.5,nycrr 1015.5,Regulation,state_regulation,NY,2,1,1,1991,1991,true,repaired
 NYCRR 102.7,nycrr 102.7,Regulation,state_regulation,NY,2,1,1,1988,1988,false,unresolved
-NYCRR 1022.-5,nycrr 1022.-5,Regulation,state_regulation,NY,2,1,1,1982,1982,false,unresolved
 NYCRR 1022.13,nycrr 1022.13,Regulation,state_regulation,NY,2,2,2,1969,1969,false,unresolved
 NYCRR 1022.16,nycrr 1022.16,Regulation,state_regulation,NY,2,1,1,1981,1981,false,unresolved
 NYCRR 1022.24,nycrr 1022.24,Regulation,state_regulation,NY,2,2,1,2015,2015,false,unresolved
@@ -10683,7 +10680,6 @@ NYCRR tit. 8 § 200.6,nycrr tit. 8 § 200.6,Regulation,state_regulation,NY,2,1,1
 NYCRR § 100.3,nycrr § 100.3,Regulation,state_regulation,NY,2,1,1,2026,2026,true,exact
 NYCRR § 1022.84,nycrr § 1022.84,Regulation,state_regulation,NY,2,1,1,1994,1994,false,unresolved
 NYCRR § 1202.1,nycrr § 1202.1,Regulation,state_regulation,NY,2,1,1,2022,2022,false,unresolved
-NYCRR § 130-1.l,nycrr § 130-1.l,Regulation,state_regulation,NY,2,1,1,2024,2024,false,unresolved
 NYCRR § 142-2.18,nycrr § 142-2.18,Regulation,state_regulation,NY,2,1,1,2017,2017,true,repaired
 NYCRR § 142-2.4,nycrr § 142-2.4,Regulation,state_regulation,NY,2,1,1,2017,2017,true,repaired
 NYCRR § 142-2.5,nycrr § 142-2.5,Regulation,state_regulation,NY,2,1,1,2016,2016,true,repaired
@@ -10843,8 +10839,7 @@ Title VII and New York City Admin. Code § 8-107,title vii and new york city adm
 10 N.Y. Comp.Codes R. & Regs. § 1002,10 n.y. comp.codes r. & regs. § 1002,Regulation,state_regulation,NY,1,1,1,2014,2014,false,unresolved
 10 N.Y. Comp.Codes R. & Regs. § 128-3.1,10 n.y. comp.codes r. & regs. § 128-3.1,Regulation,state_regulation,NY,1,1,1,2000,2000,true,exact
 10 N.Y. Comp.Codes R. & Regs. § 128-4.5,10 n.y. comp.codes r. & regs. § 128-4.5,Regulation,state_regulation,NY,1,1,1,2000,2000,false,unresolved
-10 N.Y. Comp.Codes R. & Regs. § 5-l.l,10 n.y. comp.codes r. & regs. § 5-l.l,Regulation,state_regulation,NY,1,1,1,2006,2006,false,unresolved
-10 N.Y. Comp.Codes R. & Regs. § 58-l.l,10 n.y. comp.codes r. & regs. § 58-l.l,Regulation,state_regulation,NY,1,1,1,2010,2010,false,unresolved
+10 N.Y. Comp.Codes R. & Regs. § 58-1.1,10 n.y. comp.codes r. & regs. § 58-1.1,Regulation,state_regulation,NY,1,1,1,2010,2010,true,exact
 10 N.Y. Comp.Codes R. & Regs. § 86-4.4,10 n.y. comp.codes r. & regs. § 86-4.4,Regulation,state_regulation,NY,1,1,1,2010,2010,true,exact
 10 N.Y. Comp.Codes R. & Regs. § 91.4,10 n.y. comp.codes r. & regs. § 91.4,Regulation,state_regulation,NY,1,1,1,2002,2002,true,exact
 "10 N.Y.Admin.Code, tit. 10 § 86-1.11","10 n.y.admin.code, tit. 10 § 86-1.11",Regulation,state_regulation,NY,1,1,1,1984,1984,true,exact
@@ -11538,7 +11533,6 @@ Title VII and New York City Admin. Code § 8-107,title vii and new york city adm
 12 NYCRR § 23-2.5,12 nycrr § 23-2.5,Regulation,state_regulation,NY,1,1,1,2018,2018,true,exact
 12 NYCRR § 23-3.2,12 nycrr § 23-3.2,Regulation,state_regulation,NY,1,1,1,2024,2024,true,exact
 12 NYCRR § 23-5.3,12 nycrr § 23-5.3,Regulation,state_regulation,NY,1,1,1,2019,2019,true,exact
-12 NYCRR § 23-5.l,12 nycrr § 23-5.l,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 12 NYCRR § 23-6.2-6.3,12 nycrr § 23-6.2-6.3,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 12 NYCRR § 23-8.1-8.2,12 nycrr § 23-8.1-8.2,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 12 NYCRR § 23-8.2,12 nycrr § 23-8.2,Regulation,state_regulation,NY,1,1,1,2004,2004,true,exact
@@ -13000,7 +12994,6 @@ Title VII and New York City Admin. Code § 8-107,title vii and new york city adm
 22 NYCRR § 1250.2,22 nycrr § 1250.2,Regulation,state_regulation,NY,1,1,1,2022,2022,true,exact
 22 NYCRR § 13,22 nycrr § 13,Regulation,state_regulation,NY,1,1,1,2024,2024,true,exact
 22 NYCRR § 130-1.1.1,22 nycrr § 130-1.1.1,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
-22 NYCRR § 130-l.l,22 nycrr § 130-l.l,Regulation,state_regulation,NY,1,1,1,1999,1999,false,unresolved
 22 NYCRR § 130.1,22 nycrr § 130.1,Regulation,state_regulation,NY,1,1,1,2024,2024,true,exact
 22 NYCRR § 130.1.l,22 nycrr § 130.1.l,Regulation,state_regulation,NY,1,1,1,2025,2025,false,unresolved
 22 NYCRR § 130.2.1,22 nycrr § 130.2.1,Regulation,state_regulation,NY,1,1,1,2026,2026,false,unresolved
@@ -15041,7 +15034,6 @@ Health Law and NYCRR 86-2.15,health law and nycrr 86-2.15,Regulation,state_regul
 Health Law and NYCRR 86-2.7,health law and nycrr 86-2.7,Regulation,state_regulation,NY,1,1,1,1983,1983,false,unresolved
 Health Law and NYCRR 98-1.5,health law and nycrr 98-1.5,Regulation,state_regulation,NY,1,1,1,2001,2001,false,unresolved
 "Health Law, and NYCRR 730.6","health law, and nycrr 730.6",Regulation,state_regulation,NY,1,1,1,1983,1983,false,unresolved
-I. 12 NYCRR § 23-1.5,i. 12 nycrr § 23-1.5,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 I. N.Y.C. Admin. Code § 20-489,i. n.y.c. admin. code § 20-489,Regulation,state_regulation,NY,1,1,1,2009,2009,false,unresolved
 I. NYCRR 202.21,i. nycrr 202.21,Regulation,state_regulation,NY,1,1,1,2025,2025,true,exact
 IAS. NYCRR 202.3,ias. nycrr 202.3,Regulation,state_regulation,NY,1,1,1,1987,1987,false,unresolved
@@ -15051,7 +15043,6 @@ IDEA. 8 N.Y. Comp. Codes R. & Regs. (“N.Y.C.R.R.”) § 200.5,idea. 8 n.y. com
 IEP. (8 NYCRR § 200.3,iep. (8 nycrr § 200.3,Regulation,state_regulation,NY,1,1,1,2007,2007,false,unresolved
 IGRC. 7 N.Y. Comp. Codes R. & Regs. § 701.5,igrc. 7 n.y. comp. codes r. & regs. § 701.5,Regulation,state_regulation,NY,1,1,1,2010,2010,false,unresolved
 "IGRC. N.Y. Comp. Codes R. & Regs., tit. 7 § 701.5","igrc. n.y. comp. codes r. & regs., tit. 7 § 701.5",Regulation,state_regulation,NY,1,1,1,2021,2021,false,unresolved
-II. 12 NYCRR § 23-9.2,ii. 12 nycrr § 23-9.2,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 II. NYCRR 202.21,ii. nycrr 202.21,Regulation,state_regulation,NY,1,1,1,2025,2025,true,exact
 III. NYCRR 11.9,iii. nycrr 11.9,Regulation,state_regulation,NY,1,1,1,2013,2013,false,unresolved
 III. NYCRR 8005.20,iii. nycrr 8005.20,Regulation,state_regulation,NY,1,1,1,2012,2012,true,repaired
@@ -15629,7 +15620,6 @@ N.Y. Comp. Codes R. & Regs. tit. 7 § 301.5,n.y. comp. codes r. & regs. tit. 7 �
 N.Y. Comp. Codes R. & Regs. tit. 7 § 301.7,n.y. comp. codes r. & regs. tit. 7 § 301.7,Regulation,state_regulation,NY,1,1,1,2020,2020,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 7 § 303.3,n.y. comp. codes r. & regs. tit. 7 § 303.3,Regulation,state_regulation,NY,1,1,1,1999,1999,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 7 § 304.1-14,n.y. comp. codes r. & regs. tit. 7 § 304.1-14,Regulation,state_regulation,NY,1,1,1,2004,2004,false,unresolved
-N.Y. Comp. Codes R. & Regs. tit. 7 § 305.1-.6,n.y. comp. codes r. & regs. tit. 7 § 305.1-.6,Regulation,state_regulation,NY,1,1,1,2004,2004,true,multiple
 N.Y. Comp. Codes R. & Regs. tit. 7 § 305.1-6,n.y. comp. codes r. & regs. tit. 7 § 305.1-6,Regulation,state_regulation,NY,1,1,1,2017,2017,false,unresolved
 N.Y. Comp. Codes R. & Regs. tit. 7 § 330.1,n.y. comp. codes r. & regs. tit. 7 § 330.1,Regulation,state_regulation,NY,1,1,1,2009,2009,true,exact
 N.Y. Comp. Codes R. & Regs. tit. 7 § 701.9,n.y. comp. codes r. & regs. tit. 7 § 701.9,Regulation,state_regulation,NY,1,1,1,2017,2017,true,exact
@@ -15906,7 +15896,6 @@ N.Y. Comp.Codes R. & Regs. tit. 12 § 300.1,n.y. comp.codes r. & regs. tit. 12 �
 N.Y. Comp.Codes R. & Regs. tit. 12 § 300.22,n.y. comp.codes r. & regs. tit. 12 § 300.22,Regulation,state_regulation,NY,1,1,1,2009,2009,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 12 § 56,n.y. comp.codes r. & regs. tit. 12 § 56,Regulation,state_regulation,NY,1,1,1,2003,2003,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 12 § 56-2.1,n.y. comp.codes r. & regs. tit. 12 § 56-2.1,Regulation,state_regulation,NY,1,1,1,2014,2014,true,exact
-N.Y. Comp.Codes R. & Regs. tit. 12 § 56-2.l,n.y. comp.codes r. & regs. tit. 12 § 56-2.l,Regulation,state_regulation,NY,1,1,1,2014,2014,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 12 § 921-1.1,n.y. comp.codes r. & regs. tit. 12 § 921-1.1,Regulation,state_regulation,NY,1,1,1,2012,2012,true,exact
 "N.Y. Comp.Codes R. & Regs. tit. 12, 921-6.2","n.y. comp.codes r. & regs. tit. 12, 921-6.2",Regulation,state_regulation,NY,1,1,1,2011,2011,true,exact
 "N.Y. Comp.Codes R. & Regs. tit. 12, 921-6.3","n.y. comp.codes r. & regs. tit. 12, 921-6.3",Regulation,state_regulation,NY,1,1,1,2011,2011,true,exact
@@ -16020,7 +16009,6 @@ N.Y. Comp.Codes R. & Regs. tit. 8 § 125.9,n.y. comp.codes r. & regs. tit. 8 § 
 N.Y. Comp.Codes R. & Regs. tit. 8 § 200,n.y. comp.codes r. & regs. tit. 8 § 200,Regulation,state_regulation,NY,1,1,1,2006,2006,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 8 § 200.5Cj,n.y. comp.codes r. & regs. tit. 8 § 200.5cj,Regulation,state_regulation,NY,1,1,1,2013,2013,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 8 § 200.7,n.y. comp.codes r. & regs. tit. 8 § 200.7,Regulation,state_regulation,NY,1,1,1,2014,2014,true,exact
-N.Y. Comp.Codes R. & Regs. tit. 8 § 200.l,n.y. comp.codes r. & regs. tit. 8 § 200.l,Regulation,state_regulation,NY,1,1,1,2014,2014,false,unresolved
 N.Y. Comp.Codes R. & Regs. tit. 8 § 279.1,n.y. comp.codes r. & regs. tit. 8 § 279.1,Regulation,state_regulation,NY,1,1,1,2010,2010,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 8 § 279.10,n.y. comp.codes r. & regs. tit. 8 § 279.10,Regulation,state_regulation,NY,1,1,1,2015,2015,true,exact
 N.Y. Comp.Codes R. & Regs. tit. 8 § 279.12,n.y. comp.codes r. & regs. tit. 8 § 279.12,Regulation,state_regulation,NY,1,1,1,2008,2008,true,exact
@@ -16102,6 +16090,7 @@ N.Y.Admin. Code Title 18 § 352.5,n.y.admin. code title 18 § 352.5,Regulation,s
 N.Y.Admin. Code Title 7 § 251.6,n.y.admin. code title 7 § 251.6,Regulation,state_regulation,NY,1,1,1,1988,1988,false,unresolved
 N.Y.Admin. Code tit. 13 § 18.3,n.y.admin. code tit. 13 § 18.3,Regulation,state_regulation,NY,1,1,1,1986,1986,true,exact
 N.Y.Admin. Code tit. 15 § 32.9,n.y.admin. code tit. 15 § 32.9,Regulation,state_regulation,NY,1,1,1,1984,1984,true,exact
+N.Y.Admin. Code tit. 18 § 430.11,n.y.admin. code tit. 18 § 430.11,Regulation,state_regulation,NY,1,1,1,1983,1983,true,exact
 N.Y.Admin. Code tit. 7 § 100.15,n.y.admin. code tit. 7 § 100.15,Regulation,state_regulation,NY,1,1,1,1987,1987,true,exact
 N.Y.Admin. Code tit. 7 § 304,n.y.admin. code tit. 7 § 304,Regulation,state_regulation,NY,1,1,1,1986,1986,false,unresolved
 N.Y.Admin.Code T. § 405.8,n.y.admin.code t. § 405.8,Regulation,state_regulation,NY,1,1,1,1982,1982,false,unresolved
@@ -16127,10 +16116,7 @@ N.Y.Admin.Code tit. 18 § 416.2,n.y.admin.code tit. 18 § 416.2,Regulation,state
 N.Y.Admin.Code tit. 18 § 416.3,n.y.admin.code tit. 18 § 416.3,Regulation,state_regulation,NY,1,1,1,1982,1982,true,exact
 N.Y.Admin.Code tit. 18 § 418.1,n.y.admin.code tit. 18 § 418.1,Regulation,state_regulation,NY,1,1,1,1982,1982,false,unresolved
 N.Y.Admin.Code tit. 18 § 418.7,n.y.admin.code tit. 18 § 418.7,Regulation,state_regulation,NY,1,1,1,1982,1982,false,unresolved
-N.Y.Admin.Code tit. 18 § 430.-12,n.y.admin.code tit. 18 § 430.-12,Regulation,state_regulation,NY,1,1,1,1983,1983,false,unresolved
-N.Y.Admin.Code tit. 18 § 430.-ll,n.y.admin.code tit. 18 § 430.-ll,Regulation,state_regulation,NY,1,1,1,1983,1983,false,unresolved
 N.Y.Admin.Code tit. 18 § 430.11,n.y.admin.code tit. 18 § 430.11,Regulation,state_regulation,NY,1,1,1,1983,1983,true,exact
-N.Y.Admin.Code tit. 18 § 430.12,n.y.admin.code tit. 18 § 430.12,Regulation,state_regulation,NY,1,1,1,1983,1983,true,exact
 N.Y.Admin.Code tit. 1A § 24-1.1,n.y.admin.code tit. 1a § 24-1.1,Regulation,state_regulation,NY,1,1,1,1988,1988,false,unresolved
 N.Y.Admin.Code tit. 1A § 24-1.5,n.y.admin.code tit. 1a § 24-1.5,Regulation,state_regulation,NY,1,1,1,1988,1988,false,unresolved
 N.Y.Admin.Code tit. 7 § 300.3,n.y.admin.code tit. 7 § 300.3,Regulation,state_regulation,NY,1,1,1,1987,1987,true,exact
@@ -16138,7 +16124,7 @@ N.Y.Admin.Code tit. 9 § 75021.-1,n.y.admin.code tit. 9 § 75021.-1,Regulation,s
 N.Y.Admin.Code § 25-305,n.y.admin.code § 25-305,Regulation,state_regulation,NY,1,1,1,1990,1990,false,unresolved
 N.Y.Admin.Code § 435-6.0,n.y.admin.code § 435-6.0,Regulation,state_regulation,NY,1,1,1,1975,1975,false,unresolved
 N.Y.Admin.Code § 8-502,n.y.admin.code § 8-502,Regulation,state_regulation,NY,1,1,1,1998,1998,false,unresolved
-"N.Y.Admin.Code, tit. 14 § 681.-12","n.y.admin.code, tit. 14 § 681.-12",Regulation,state_regulation,NY,1,1,1,1984,1984,false,unresolved
+"N.Y.Admin.Code, tit. 14 § 681.12","n.y.admin.code, tit. 14 § 681.12",Regulation,state_regulation,NY,1,1,1,1984,1984,true,exact
 N.Y.C Admin. Code § 10-1105,n.y.c admin. code § 10-1105,Regulation,state_regulation,NY,1,1,1,2025,2025,false,unresolved
 N.Y.C Admin. Code § 27-2004,n.y.c admin. code § 27-2004,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 N.Y.C Admin. Code § 504,n.y.c admin. code § 504,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
@@ -16514,7 +16500,6 @@ N.Y.Comp. Codes R. & Regs. tit. 21 § 452,n.y.comp. codes r. & regs. tit. 21 § 
 N.Y.Comp. Codes R. & Regs. tit. 22 § 1200.20,n.y.comp. codes r. & regs. tit. 22 § 1200.20,Regulation,state_regulation,NY,1,1,1,1995,1995,false,unresolved
 N.Y.Comp. Codes R. & Regs. tit. 22 § 1200.33,n.y.comp. codes r. & regs. tit. 22 § 1200.33,Regulation,state_regulation,NY,1,1,1,2007,2007,false,unresolved
 N.Y.Comp. Codes R. & Regs. tit. 22 § 1200.46,n.y.comp. codes r. & regs. tit. 22 § 1200.46,Regulation,state_regulation,NY,1,1,1,1992,1992,false,unresolved
-N.Y.Comp. Codes R. & Regs. tit. 22 § 500.17,n.y.comp. codes r. & regs. tit. 22 § 500.17,Regulation,state_regulation,NY,1,1,1,1987,1987,true,exact
 N.Y.Comp. Codes R. & Regs. tit. 4 § 28,n.y.comp. codes r. & regs. tit. 4 § 28,Regulation,state_regulation,NY,1,1,1,1991,1991,false,unresolved
 N.Y.Comp. Codes R. & Regs. tit. 7 § 253.5,n.y.comp. codes r. & regs. tit. 7 § 253.5,Regulation,state_regulation,NY,1,1,1,1988,1988,true,exact
 N.Y.Comp. Codes R. & Regs. tit. 7 § 253.8,n.y.comp. codes r. & regs. tit. 7 § 253.8,Regulation,state_regulation,NY,1,1,1,1996,1996,true,exact
@@ -16615,8 +16600,6 @@ N.Y.Comp.Codes R. & Regs. tit. 7 § 220.1-220.6,n.y.comp.codes r. & regs. tit. 7
 N.Y.Comp.Codes R. & Regs. tit. 7 § 251-2.2,n.y.comp.codes r. & regs. tit. 7 § 251-2.2,Regulation,state_regulation,NY,1,1,1,1994,1994,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 251-3.1,n.y.comp.codes r. & regs. tit. 7 § 251-3.1,Regulation,state_regulation,NY,1,1,1,1999,1999,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 253.7,n.y.comp.codes r. & regs. tit. 7 § 253.7,Regulation,state_regulation,NY,1,1,1,1996,1996,true,exact
-N.Y.Comp.Codes R. & Regs. tit. 7 § 254.-6,n.y.comp.codes r. & regs. tit. 7 § 254.-6,Regulation,state_regulation,NY,1,1,1,1991,1991,false,unresolved
-N.Y.Comp.Codes R. & Regs. tit. 7 § 254.6,n.y.comp.codes r. & regs. tit. 7 § 254.6,Regulation,state_regulation,NY,1,1,1,1995,1995,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 254.7,n.y.comp.codes r. & regs. tit. 7 § 254.7,Regulation,state_regulation,NY,1,1,1,1996,1996,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 301.2,n.y.comp.codes r. & regs. tit. 7 § 301.2,Regulation,state_regulation,NY,1,1,1,1994,1994,true,exact
 N.Y.Comp.Codes R. & Regs. tit. 7 § 301.4,n.y.comp.codes r. & regs. tit. 7 § 301.4,Regulation,state_regulation,NY,1,1,1,1998,1998,true,exact
@@ -17801,7 +17784,6 @@ NYCRR 4111.11,nycrr 4111.11,Regulation,state_regulation,NY,1,1,1,2022,2022,true,
 NYCRR 4116.11,nycrr 4116.11,Regulation,state_regulation,NY,1,1,1,2022,2022,true,repaired
 NYCRR 4116.4,nycrr 4116.4,Regulation,state_regulation,NY,1,1,1,1987,1987,true,repaired
 NYCRR 4119.11,nycrr 4119.11,Regulation,state_regulation,NY,1,1,1,1993,1993,true,repaired
-NYCRR 4120.-5,nycrr 4120.-5,Regulation,state_regulation,NY,1,1,1,1977,1977,false,unresolved
 NYCRR 4120.1,nycrr 4120.1,Regulation,state_regulation,NY,1,1,1,2009,2009,true,repaired
 NYCRR 4120.171,nycrr 4120.171,Regulation,state_regulation,NY,1,1,1,2014,2014,false,unresolved
 NYCRR 413ff,nycrr 413ff,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
@@ -18476,7 +18458,7 @@ NYCRR 750-2.5,nycrr 750-2.5,Regulation,state_regulation,NY,1,1,1,2011,2011,true,
 NYCRR 750-2.8,nycrr 750-2.8,Regulation,state_regulation,NY,1,1,1,2011,2011,true,repaired
 NYCRR 750.31,nycrr 750.31,Regulation,state_regulation,NY,1,1,1,1973,1973,false,unresolved
 NYCRR 750.8,nycrr 750.8,Regulation,state_regulation,NY,1,1,1,1969,1969,true,repaired
-NYCRR 7502.-1,nycrr 7502.-1,Regulation,state_regulation,NY,1,1,1,1986,1986,false,unresolved
+NYCRR 7502.1,nycrr 7502.1,Regulation,state_regulation,NY,1,1,1,1986,1986,true,repaired
 NYCRR 751,nycrr 751,Regulation,state_regulation,NY,1,1,1,1985,1985,false,unresolved
 NYCRR 751.1,nycrr 751.1,Regulation,state_regulation,NY,1,1,1,1989,1989,false,unresolved
 NYCRR 751.2,nycrr 751.2,Regulation,state_regulation,NY,1,1,1,2001,2001,false,unresolved
@@ -18644,8 +18626,6 @@ NYCRR 86-1.4,nycrr 86-1.4,Regulation,state_regulation,NY,1,1,1,1980,1980,true,re
 NYCRR 86-1.5,nycrr 86-1.5,Regulation,state_regulation,NY,1,1,1,1984,1984,true,repaired
 NYCRR 86-1.50,nycrr 86-1.50,Regulation,state_regulation,NY,1,1,1,1991,1991,true,repaired
 NYCRR 86-2,nycrr 86-2,Regulation,state_regulation,NY,1,1,1,1984,1984,false,unresolved
-NYCRR 86-2.-14,nycrr 86-2.-14,Regulation,state_regulation,NY,1,1,1,1984,1984,false,unresolved
-NYCRR 86-2.-2,nycrr 86-2.-2,Regulation,state_regulation,NY,1,1,1,1989,1989,false,unresolved
 NYCRR 86-2.11-86-2.13,nycrr 86-2.11-86-2.13,Regulation,state_regulation,NY,1,1,1,2024,2024,false,unresolved
 NYCRR 86-2.29,nycrr 86-2.29,Regulation,state_regulation,NY,1,1,1,1979,1979,true,repaired
 NYCRR 86-2.6,nycrr 86-2.6,Regulation,state_regulation,NY,1,1,1,1982,1982,true,repaired
