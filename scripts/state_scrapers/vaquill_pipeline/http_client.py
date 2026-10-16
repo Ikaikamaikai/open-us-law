@@ -345,6 +345,13 @@ _HARD_SITE_HINTS = (
     # HTTPS 443 drops packets to international egress. Must be fetched through
     # a US residential proxy or the scraping service. Verified 2026-05-12.
     "codes.ohio.gov",
+    # HI Legislature (Hawaii Revised Statutes) is behind Cloudflare WAF with a
+    # hard IP-reputation block — "Sorry, you have been blocked" even with a full
+    # browser UA or Playwright. Datacenter and cloud-egress IPs are rejected;
+    # must be fetched through the scraping service (SCRAPER_SERVICE_API_KEY) or a
+    # residential US proxy. Verified 2026-10-16.
+    "capitol.hawaii.gov",
+    "www.capitol.hawaii.gov",
 )
 
 
