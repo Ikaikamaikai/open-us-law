@@ -11,6 +11,7 @@ cannot be read from the PDF itself is skipped, not guessed.
 Output: OUT/har_sections.jsonl (one section per line), OUT/har_pdfs.csv (crawl log).
 Progress is saved to OUT/har_partial.jsonl after every PDF; rerunning resumes where it stopped.
 Usage:  python3 scrape_har.py OUT [--workers 4]
+        python3 scrape_har.py OUT --merge-only   (use what has been collected so far)
 """
 import csv
 import hashlib
@@ -192,6 +193,9 @@ def main():
     workers = int(sys.argv[sys.argv.index("--workers") + 1]) if "--workers" in sys.argv else 4
     out.mkdir(parents=True, exist_ok=True)
     links_path, partial = out / "pdf_links.json", out / "har_partial.jsonl"
+    if "--merge-only" in sys.argv:
+        merge(out, partial)
+        return
     if links_path.exists():
         pdfs = {u: tuple(v) for u, v in json.loads(links_path.read_text()).items()}
     else:
@@ -216,6 +220,11 @@ def main():
             pf.flush()
             if n % 25 == 0:
                 print(f"{n}/{len(work)}", flush=True)
+    merge(out, partial)
+
+
+def merge(out, partial):
+    """Write har_sections.jsonl (best PDF per chapter) and har_pdfs.csv from the progress file."""
     by_chapter, log = {}, []
     for line in open(partial):
         r = json.loads(line)

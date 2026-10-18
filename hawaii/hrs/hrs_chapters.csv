@@ -230,13 +230,13 @@ division,division_name,title,title_name,subtitle,subtitle_name,chapter,chapter_t
 1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,180C,,Soil Erosion and Sediment Control,in_force,180C-1,15
 1,Government,12,Conservation and Resources,3,Mining and Minerals,181,,Strip Mining,in_force,181-1,15
 1,Government,12,Conservation and Resources,3,Mining and Minerals,182,,Reservation and Disposition of Government Mineral Rights,in_force,182-1,15
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,183,,"Forest Reserves, Water Development, Zoning",in_force,,15
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,183B,,Hawaiian Fishponds,in_force,183B-1,15
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,183C,,Conservation District,in_force,183C-1,15
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,183D,,Wildlife,in_force,,15
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,184,,State Parks and Recreation Areas,in_force,,16
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,185,,Land Fire Protection Law,in_force,185-1,16
-1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation,186,,Tree Farms,in_force,186-1,16
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183,,"Forest Reserves, Water Development, Zoning",in_force,,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183B,,Hawaiian Fishponds,in_force,183B-1,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183C,,Conservation District,in_force,183C-1,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183D,,Wildlife,in_force,,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,184,,State Parks and Recreation Areas,in_force,,16
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,185,,Land Fire Protection Law,in_force,185-1,16
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,186,,Tree Farms,in_force,186-1,16
 1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,187,,General Provisions Relating to Aquatic Resources and Wildlife,repealed,,16
 1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,187A,,Aquatic Resources,in_force,,16
 1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,188,,Fishing Rights and Regulations,in_force,,16
@@ -907,7 +907,7 @@ division,division_name,title,title_name,subtitle,subtitle_name,chapter,chapter_t
 3,Property; Family,29,Decedents' Estates,,,536,,Wills,repealed,,59
 3,Property; Family,29,Decedents' Estates,,,537,,Uniform Testamentary Additions to Trusts Act,repealed,,59
 3,Property; Family,29,Decedents' Estates,,,538,,Disclaimers,repealed,,59
-3,Property; Family,29,Decedents' Estates,,,539,,Uniform Transfer-on-Death (TOD),in_force,,59
+3,Property; Family,29,Decedents' Estates,,,539,,Uniform Transfer-on-Death (TOD) Security Registration Act,in_force,539-1,59
 3,Property; Family,30,Guardians and Trustees,,,551,,Guardians and Wards,in_force,,59
 3,Property; Family,30,Guardians and Trustees,,,551A,,Office of the Public Guardian,in_force,551A-1,59
 3,Property; Family,30,Guardians and Trustees,,,551D,,Uniform Durable Power of Attorney Act,repealed,,59
@@ -968,7 +968,7 @@ division,division_name,title,title_name,subtitle,subtitle_name,chapter,chapter_t
 4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,604,,District Courts,in_force,604-1,64
 4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,604A,,Environmental Courts,in_force,604A-1,64
 4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,605,,Attorneys,in_force,605-1,64
-4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,606,,"Clerks, Reporters, Interpreters, Etc",in_force,606-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,606,,"Clerks, Reporters, Interpreters, Etc.",in_force,606-1,64
 4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,607,,Costs and Fees,in_force,607-1,64
 4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,608,,Expenses and Salaries,in_force,608-1,64
 4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,609,,Jurors,repealed,,64

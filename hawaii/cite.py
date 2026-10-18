@@ -142,9 +142,12 @@ HRS_IN_NOTE = re.compile(HRS_NUM)
 
 def hrs_in_note(note):
     """'HRS §§431:2-201, 431:10A-304' -> ['431:2-201', '431:10a-304'] (HRS numbers only)."""
-    if not note or "HRS" not in note.upper():
+    if not note:
         return []
-    part = note.split("HRS", 1)[1]
+    m = re.search(r"\bH\.?\s*R\.?\s*S\.?", note, re.I)
+    if not m:
+        return []
+    part = note[m.end():]
     part = re.split(r"\b(?:U\.?S\.?C|C\.?F\.?R|SLH|Pub\.? ?L)\b", part)[0]
     return [n.lower() for n in HRS_IN_NOTE.findall(part)]
 

@@ -207,6 +207,34 @@ def outline(con, chapter):
     return {"chapter": dict(ch), "parts": parts, "sections": secs}
 
 
+def not_here(con, q):
+    """What the official directories say about a citation this database does not hold."""
+    key = (keys_for_query(q) or [norm(q)])[0]
+    info = {"citation": q.strip(), "key": key, "listed": None, "how_to_get": None}
+    m = re.match(r"^har (\d+)-([\d.]+[a-z]?)-", key)
+    if m:
+        row = con.execute("select * from har_chapter where title=? and lower(chapter)=?", (m.group(1), m.group(2))).fetchone()
+        if row:
+            info["listed"] = (f"HAR chapter {row['title']}-{row['chapter']} is listed by the LRB directory as "
+                              f"“{row['chapter_name']}” ({row['title_name']})"
+                              + (", repealed" if row["repealed"] == 1 else "") + ".")
+        info["how_to_get"] = ("Its text has not been collected yet. Run har/scrape_har.py data/har (it resumes) "
+                              "and then build.py.")
+        return info
+    m = re.match(r"^haw rev stat ([\w:.]+)-", key)
+    if m:
+        chap = m.group(1).split(":")[0].upper()
+        row = con.execute("select * from hrs_chapter where upper(chapter)=?", (chap,)).fetchone()
+        if row:
+            info["listed"] = (f"HRS chapter {row['chapter']} is “{row['chapter_name']}” (Title {row['title']}, "
+                              f"{row['title_name']}), {row['status'].replace('_', ' ')} in the official Table of Contents.")
+        info["how_to_get"] = ("This copy of the HRS does not have this section. Run hrs/fill_missing.py "
+                              f"{key.split(' ')[-1].upper()} on your computer, then build.py.")
+        return info
+    info["how_to_get"] = "Not in the sources loaded here."
+    return info
+
+
 def gaps(con):
     q = {
         "chapters listed in force with no sections here":
@@ -366,7 +394,9 @@ def answer(con, q):
             out["sections"] = rows[:50]
             out["read_as"] = f"Read {rows[0]['citation']}" + (f" (+{len(rows) - 1} more)" if len(rows) > 1 else "")
             return out
-        intent = out["intent"] = "find"
+        out["not_here"] = not_here(con, obj)
+        out["read_as"] = f"{out['not_here']['citation']} is not in this database"
+        return out
     if intent == "define":
         out["definitions"] = define_term(con, obj)
         out["read_as"] = f'Definitions of "{obj}" written in the law'
@@ -514,6 +544,12 @@ def p_answer(a, con):
             print(f"  implemented by {len(rules)} administrative rule section(s): " + ", ".join(r["citation"] for r in rules[:12]))
         if cb:
             print("  cited by: " + ", ".join(c["citation"] for c in cb if c["kind"] == "cites")[:600])
+    if a.get("not_here"):
+        n = a["not_here"]
+        print(f"  {B}{n['citation']}{R} is not in this database.")
+        if n.get("listed"):
+            print(f"  {n['listed']}")
+        print(f"  {n['how_to_get']}\n")
     if a.get("act"):
         x = a["act"]
         print(f"{B}Session Laws of {x['year']}, Act {x['act']}{R}  ({len(x['targets'])} entries in the Table of Disposition)")

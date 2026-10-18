@@ -19,14 +19,16 @@ from pathlib import Path
 
 CHAP_NUM = r"\d{1,3}[A-Z]{0,2}"
 CHAPTER = re.compile(rf"^\s{{0,4}}({CHAP_NUM})(?:\s+to\s+({CHAP_NUM}))?\s+(\S.*)$")
-PART = re.compile(r"^\s+Part\s+([IVXLC]+[A-Z]?|\d+[A-Z]?)\.\s+(.*)$")
+PART = re.compile(r"^\s+Part\s+([IVXLC]+[A-Z]?|\d+[A-Z]?)\.\s*(\S.*)$")
 ARTICLE = re.compile(r"^\s{0,3}Article\s+([IVXLC]+[A-Z]?|\d+[A-Z]?)\s+(.*)$")
 SMALL = {"and", "of", "the", "for", "to", "in", "on", "or", "a", "an", "by", "with"}
 WRAP_COL = 48
 DIVISION = re.compile(r"^\s*DIVISION\s+(\d+)\.\s+(.+?)\s*$")
 TITLE = re.compile(r"^\s*TITLE\s+(\d+[A-Z]?)\s*$")
 SUBTITLE = re.compile(r"^\s*Subtitle\s+(\d+)\.\s+(.+?)\s*$")
-LEADER = re.compile(r"\.{2,}\s*([\dA-Z][\w:.-]*)\s*$")
+SECNUM = r"\d+[A-Z]{0,2}(?::\d+[A-Z]{0,2})?-\d+(?:\.\d+)?[A-Z]?"
+LEADER = re.compile(rf"(?:\.+\s*|\s+)({SECNUM})\s*$")
+LETTERED = re.compile(r"^\s+(?:Subpart\s+)?([A-Z]|\d{1,2})\.\s+(\S.*)$")
 HEADER = re.compile(r"^\s*Chapter(?:\s+Section)?\s*$")
 FOOTER = re.compile(r"^\s*\d{1,3}\s*$")
 
@@ -46,7 +48,7 @@ def status_of(name):
         return "repealed"
     if "(renumbered)" in low or "--(renumbered" in low:
         return "renumbered"
-    if "reserved for expansion" in low:
+    if "reserved for expansion" in low or re.fullmatch(r"\(?reserved\)?\.?", low.strip()):
         return "reserved"
     return "in_force"
 
@@ -59,7 +61,8 @@ def title_case(s):
 def is_open(line):
     """The line's length if its text may continue on the next line, else 0."""
     t = line.rstrip()
-    return 0 if LEADER.search(t) or t.endswith(")") else len(t)
+    closed = LEADER.search(t) or re.search(r"\((?:Repealed|Renumbered|Reserved)\)$", t, re.I)
+    return 0 if closed else len(t)
 
 
 def name_col(line, name):
@@ -69,17 +72,23 @@ def name_col(line, name):
 def continues(entry, line):
     """A wrapped line either ran to the margin, or is indented one space past where the name starts (hanging indent)."""
     last = entry["_open"]
-    if not last:
+    if not last or LETTERED.match(line):
         return False
     indent = len(line) - len(line.lstrip())
-    return last >= WRAP_COL or (last >= 34 and indent == entry["_col"] + 1)
+    reach = 2 if entry["_kind"] == "chapter" else 3   # "Part VIII." pushes its name left of its siblings'
+    if not entry["_col"] + 1 <= indent <= entry["_col"] + reach:
+        return False
+    return bool(LEADER.search(line)) or last >= 34
 
 
 def clean(name):
     name = re.sub(r"\s+", " ", name).strip()
+    name = re.sub(rf"(?:\.+\s*|\s+){SECNUM}\s*$", "", name).strip()
     name = re.sub(r"\.{2,}.*$", "", name).strip()
     name = re.sub(r"\s*-*\(?(Repealed|Renumbered)\)?\s*$", "", name, flags=re.I).strip(" -")
-    return name
+    if re.search(r"\bEtc$", name):
+        return name + "."
+    return name.rstrip(".").strip()
 
 
 def parse(pdf):
@@ -114,7 +123,7 @@ def parse(pdf):
             parts.append(e)
         e.pop("_kind")
 
-    in_appendix = False
+    in_appendix = subtitle_open = False
     for page, line in page_lines(pdf):
         if not started:
             if DIVISION.match(line):
@@ -129,7 +138,7 @@ def parse(pdf):
             continue
         if HEADER.match(line):
             finish()
-            expect_title_name = False
+            expect_title_name = subtitle_open = False
             continue
         m = DIVISION.match(line)
         if m:
@@ -151,7 +160,12 @@ def parse(pdf):
             finish()
             expect_title_name = False
             sub, sub_name = m.group(1), m.group(2)
+            subtitle_open = True
             continue
+        if subtitle_open and not CHAPTER.match(line):
+            sub_name = f"{sub_name} {line.strip()}"     # a centered subtitle heading that wraps
+            continue
+        subtitle_open = False
         if expect_title_name and line.strip().isupper():
             title_name = line.strip() if not title_name else f"{title_name} {line.strip()}"
             continue
@@ -182,14 +196,22 @@ def parse(pdf):
                      "title_name": title_case(title_name) if title_name else "", "subtitle": sub or "",
                      "subtitle_name": sub_name or "", "chapter": chap, "chapter_to": m.group(2) or "", "page": page}
             continue
+        m = LETTERED.match(line)
+        if m and chap:
+            finish()
+            entry = {"_kind": "part", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)),
+                     "chapter": chap, "article": art or "", "article_name": "", "part": m.group(1), "part_name": "",
+                     "kind": "subpart", "page": page}
+            continue
+        if chap and line.strip().isupper() and not re.search(r"\d", line):
+            finish()
+            continue            # e.g. "REFERENCE TABLE": a caption, not part of the outline
         if chap and line.startswith(" "):
             # an indented heading without a Part number (e.g. "Preamble", or ch. 231's unnumbered groups)
             finish()
             entry = {"_kind": "part", "_raw": line.strip(), "_open": is_open(line), "_col": name_col(line, line.strip()), "chapter": chap, "article": art or "",
                      "article_name": "", "part": "", "part_name": "", "kind": "unnumbered", "page": page}
             continue
-        if sub and sub_name and not chap:
-            sub_name = f"{sub_name} {line.strip()}"
     finish()
     # article rows carry their own name into their parts
     names = {}

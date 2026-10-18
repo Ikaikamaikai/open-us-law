@@ -43,10 +43,14 @@ def rows_from_pdf(pdf_path):
             for key in keys:
                 ws = sorted(lines[key], key=lambda w: w["x0"])
                 text = " ".join(w["text"] for w in ws)
+                header_sides = set()
                 if "SESSION LAWS OF" in text:
-                    yield pno, None, "YEAR", re.search(r"(\d{4})", text).group(1), "", False
-                    continue
+                    yield pno, None, "YEAR", re.search(r"SESSION LAWS OF (\d{4})", text).group(1), "", False
+                    hw = next(w for w in ws if w["text"] == "SESSION")
+                    header_sides.add(0 if hw["x0"] < acts[1] - 6 else 1)
                 for side in (0, 1):
+                    if side in header_sides:
+                        continue
                     lo = acts[side] - 6
                     hi = acts[1] - 6 if side == 0 else page.width
                     sw = [w for w in ws if lo <= w["x0"] < hi]
