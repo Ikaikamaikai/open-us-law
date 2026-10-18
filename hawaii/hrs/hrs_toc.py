@@ -48,7 +48,7 @@ def status_of(name):
         return "repealed"
     if "(renumbered)" in low or "--(renumbered" in low:
         return "renumbered"
-    if "reserved for expansion" in low or re.fullmatch(r"\(?reserved\)?\.?", low.strip()):
+    if "reserved for expansion" in low or "(reserved)" in low or re.fullmatch(r"reserved\.?", clean(name).lower()):
         return "reserved"
     return "in_force"
 
@@ -69,16 +69,33 @@ def name_col(line, name):
     return line.find(name[:12]) if name else -1
 
 
-def continues(entry, line):
-    """A wrapped line either ran to the margin, or is indented one space past where the name starts (hanging indent)."""
+CONNECTOR = re.compile(r"(?:\b(?:and|of|the|for|to|in|on|or|with|by|a|an|from|under)|[,;:-])$", re.I)
+
+
+def labelled(line):
+    return bool(LETTERED.match(line) or PART.match(line) or ARTICLE.match(line) or CHAPTER.match(line))
+
+
+def continues(entry, line, nxt, page):
+    """Is this line the rest of the open entry's name? A wrapped line sits one to three columns past where the name
+    starts (at the name's own column if the name visibly breaks mid-phrase). A line that starts a run of same-indent
+    lines each with its own section number is a list of sub-headings, not a wrap. Across a page break the columns
+    shift, so the indent test is dropped there."""
     last = entry["_open"]
-    if not last or LETTERED.match(line):
+    if not last or labelled(line):
         return False
     indent = len(line) - len(line.lstrip())
-    reach = 2 if entry["_kind"] == "chapter" else 3   # "Part VIII." pushes its name left of its siblings'
-    if not entry["_col"] + 1 <= indent <= entry["_col"] + reach:
+    has_leader = bool(LEADER.search(line))
+    if has_leader and nxt is not None and not labelled(nxt) and LEADER.search(nxt) \
+            and len(nxt) - len(nxt.lstrip()) == indent:
         return False
-    return bool(LEADER.search(line)) or last >= 34
+    if page != entry["_page"]:
+        return has_leader or last >= 34
+    reach = 2 if entry["_kind"] == "chapter" else 3   # "Part VIII." pushes its name left of its siblings
+    low = entry["_col"] if CONNECTOR.search(entry["_last"]) else entry["_col"] + 1
+    if not low <= indent <= entry["_col"] + reach:
+        return False
+    return has_leader or last >= 34
 
 
 def clean(name):
@@ -107,10 +124,15 @@ def parse(pdf):
         raw = e.pop("_raw")
         e.pop("_open", None)
         e.pop("_col", None)
+        e.pop("_page", None)
+        e.pop("_last", None)
         m = LEADER.search(raw)
         e["first_section"] = m.group(1) if m else ""
         e["status"] = status_of(raw)
         name = clean(raw)
+        if name.isupper():
+            name = title_case(name)                      # "RULES OF THE ROAD" -> "Rules of the Road"
+        name = re.sub(r"^\((Reserved)\)$", r"\1", name)
         if e.get("kind") == "unnumbered":
             sm = re.match(r"^([A-Z]|\d{1,2})\.\s+(.*)$", name)
             if sm:
@@ -124,7 +146,10 @@ def parse(pdf):
         e.pop("_kind")
 
     in_appendix = subtitle_open = False
-    for page, line in page_lines(pdf):
+    lines = [(p, l) for p, l in page_lines(pdf)]
+    content = [i for i, (p, l) in enumerate(lines) if l.strip() and not FOOTER.match(l)]
+    following = {a: lines[b][1] for a, b in zip(content, content[1:])}
+    for idx, (page, line) in enumerate(lines):
         if not started:
             if DIVISION.match(line):
                 started = True
@@ -169,29 +194,30 @@ def parse(pdf):
         if expect_title_name and line.strip().isupper():
             title_name = line.strip() if not title_name else f"{title_name} {line.strip()}"
             continue
-        if entry is not None and continues(entry, line) and not PART.match(line) and not ARTICLE.match(line) \
-                and not CHAPTER.match(line):
+        if entry is not None and continues(entry, line, following.get(idx), page):
+            if page != entry["_page"]:
+                entry["_col"], entry["_page"] = len(line) - len(line.lstrip()) - 1, page
             entry["_raw"] += " " + line.strip()
-            entry["_open"] = is_open(line)
+            entry["_open"], entry["_last"] = is_open(line), line.strip()
             continue
         m = ARTICLE.match(line)
         if m and chap:
             finish()
             art = m.group(1)
-            entry = {"_kind": "article", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)), "chapter": chap, "article": art,
+            entry = {"_kind": "article", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)), "_page": page, "_last": line.strip(), "chapter": chap, "article": art,
                      "article_name": "", "part": "", "part_name": "", "kind": "article", "page": page}
             continue
         m = PART.match(line)
         if m and chap:
             finish()
-            entry = {"_kind": "part", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)), "chapter": chap, "article": art or "",
+            entry = {"_kind": "part", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)), "_page": page, "_last": line.strip(), "chapter": chap, "article": art or "",
                      "article_name": "", "part": m.group(1), "part_name": "", "kind": "part", "page": page}
             continue
         m = CHAPTER.match(line)
         if m and title:
             finish()
             chap, art = m.group(1), None
-            entry = {"_kind": "chapter", "_raw": m.group(3), "_open": is_open(line), "_col": name_col(line, m.group(3)), "division": div,
+            entry = {"_kind": "chapter", "_raw": m.group(3), "_open": is_open(line), "_col": name_col(line, m.group(3)), "_page": page, "_last": line.strip(), "division": div,
                      "division_name": div_name, "title": title,
                      "title_name": title_case(title_name) if title_name else "", "subtitle": sub or "",
                      "subtitle_name": sub_name or "", "chapter": chap, "chapter_to": m.group(2) or "", "page": page}
@@ -199,17 +225,17 @@ def parse(pdf):
         m = LETTERED.match(line)
         if m and chap:
             finish()
-            entry = {"_kind": "part", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)),
+            entry = {"_kind": "part", "_raw": m.group(2), "_open": is_open(line), "_col": name_col(line, m.group(2)), "_page": page, "_last": line.strip(),
                      "chapter": chap, "article": art or "", "article_name": "", "part": m.group(1), "part_name": "",
                      "kind": "subpart", "page": page}
             continue
-        if chap and line.strip().isupper() and not re.search(r"\d", line):
+        if chap and line.strip().isupper() and not re.search(r"\d", line) and not line.startswith(" "):
             finish()
-            continue            # e.g. "REFERENCE TABLE": a caption, not part of the outline
+            continue            # e.g. "REFERENCE TABLE" at the margin: a caption, not part of the outline
         if chap and line.startswith(" "):
             # an indented heading without a Part number (e.g. "Preamble", or ch. 231's unnumbered groups)
             finish()
-            entry = {"_kind": "part", "_raw": line.strip(), "_open": is_open(line), "_col": name_col(line, line.strip()), "chapter": chap, "article": art or "",
+            entry = {"_kind": "part", "_raw": line.strip(), "_open": is_open(line), "_col": name_col(line, line.strip()), "_page": page, "_last": line.strip(), "chapter": chap, "article": art or "",
                      "article_name": "", "part": "", "part_name": "", "kind": "unnumbered", "page": page}
             continue
     finish()

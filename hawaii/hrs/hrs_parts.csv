@@ -25,8 +25,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 11,part,,,XI,Election Contests,in_force,11-171,2
 11,part,,,XII,Expenses,in_force,,2
 11,subpart,,,A,Election Expenses,in_force,11-181,2
-11,subpart,,,B,Election Campaign Contributions and,in_force,,2
-11,unnumbered,,,,Expenditures,repealed,,2
+11,subpart,,,B,Election Campaign Contributions and Expenditures,repealed,,2
 11,part,,,XIII,Campaign Finance,in_force,,2
 11,subpart,,,A,General Provisions,in_force,11-301,2
 11,subpart,,,B,Campaign Spending Commission,in_force,11-311,2
@@ -571,6 +570,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 291,part,,,IV,Parking for Electric Vehicles,in_force,291-71,24
 291C,part,,,I,General Provisions,in_force,291C-1,24
 291C,part,,,II,Collisions and Collision Reports,in_force,291C-11,24
+291C,unnumbered,,,,Rules of the Road,in_force,,24
 291C,part,,,III,Obedience to and Effect of Traffic Laws,in_force,291C-21,24
 291C,part,,,IV,"Traffic Signs, Signals and Markings",in_force,291C-31,24
 291C,part,,,V,Driving on Right Side of Roadway; Overtaking and Passing; Use of Roadway,in_force,291C-41,25
@@ -976,8 +976,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 392,part,,,IV,Trust Fund for Disability Benefits,in_force,392-61,38
 392,part,,,V,Determinations,in_force,,38
 392,subpart,,,A,Appeal Procedure,in_force,392-71,38
-392,subpart,,,B,Determinations Relating to Wage,in_force,,38
-392,unnumbered,,,,Withholding,in_force,392-86,39
+392,subpart,,,B,Determinations Relating to Wage Withholding,in_force,392-86,38
 392,part,,,VI,Enforcement,in_force,392-91,39
 392,part,,,VII,Miscellaneous Provisions,in_force,392-101,39
 393,part,,,I,Short Title; Purpose; Definitions,in_force,393-1,39
@@ -1079,8 +1078,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 414,part,,,XII,Merger and Share Exchange,in_force,414-310,41
 414,part,,,XIII,Sale of Assets,in_force,414-331,41
 414,part,,,XIV,Dissenters' Rights,in_force,,41
-414,subpart,,,A,Right to Dissent and Obtain Payment,in_force,,41
-414,unnumbered,,,,for Shares,in_force,414-341,42
+414,subpart,,,A,Right to Dissent and Obtain Payment for Shares,in_force,414-341,41
 414,subpart,,,B,Procedure for Exercise of Dissenters' Rights,in_force,414-351,42
 414,subpart,,,C,Judicial Appraisal of Shares,in_force,414-371,42
 414,part,,,XV,Dissolution,in_force,,42
@@ -1330,6 +1328,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 432E,part,,,II,General Policies,in_force,432E-3,48
 432E,part,,,III,Reporting and Other Provisions,in_force,432E-9,48
 432E,part,,,IV,External Review of Health Insurance Determinations,in_force,432E-31,48
+435,unnumbered,,,,Reference Table,in_force,,48
 435E,part,,,I,Cooperative Indemnity,in_force,435E-1,48
 435E,part,,,II,Trust Agreements,in_force,435E-11,48
 435E,part,,,III,"Board of Trustees, Members",in_force,435E-31,48
@@ -1368,8 +1367,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 480J,part,,,I,General Provisions,in_force,480J-1,51
 480J,part,,,II,Licensing,in_force,480J-31,51
 481,part,,,I,Unfair Practices Act,in_force,481-1,51
-481,part,,,II,Sale of United States Surplus,in_force,,51
-481,unnumbered,,,,Goods,in_force,481-21,52
+481,part,,,II,Sale of United States Surplus Goods,in_force,481-21,51
 481B,part,,,I,Miscellaneous Provisions,in_force,481B-1,52
 481B,part,,,II,Cybersquatting,in_force,481B-21,52
 482,part,,,I,General Provisions,in_force,482-1,52
@@ -1515,7 +1513,8 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 502,part,,,X,Veterans Certificates,in_force,502-101,56
 502,part,,,XI,Other Provisions,in_force,502-111,56
 502,part,,,XII,Uniform Real Property Electronic Recording Act,in_force,502-121,56
-507,part,,,I,"Liens, Generally Animals, Care of",in_force,507-1,57
+507,part,,,I,"Liens, Generally",in_force,,57
+507,unnumbered,,,,"Animals, Care of",in_force,507-1,57
 507,unnumbered,,,,"Dentists, Doctors, Hospitals",in_force,507-4,57
 507,unnumbered,,,,Bailee,in_force,507-5,57
 507,unnumbered,,,,Hotels,repealed,,57
@@ -1645,7 +1644,7 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 560,part,V,Guardianship and Protective Proceedings,6,Incapacitated Persons Sterilization Rights,in_force,560:5-601,61
 560,article,VI,Nonprobate Transfers,,,in_force,,62
 560,part,VI,Nonprobate Transfers,1,Multiple-Party Accounts,in_force,560:6-101,62
-560,part,VI,Nonprobate Transfers,2,(Reserved),in_force,560:6-201,62
+560,part,VI,Nonprobate Transfers,2,Reserved,reserved,560:6-201,62
 560,article,VII,Trust Administration,,,repealed,,62
 560,article,VIII,Effective Date and Repealer,,,in_force,,62
 560,part,VIII,Effective Date and Repealer,1,"Effect of Act 200, Session Laws of Hawaii 1976",in_force,560:8-101,62
@@ -1668,12 +1667,10 @@ chapter,kind,article,article_name,part,part_name,status,first_section,page
 576B,article,4,Establishment of Support Order or Determination of Parentage,,,in_force,576B-401,62
 576B,article,5,Enforcement of Support Order Without Registration,,,in_force,576B-501,62
 576B,article,6,"Registration, Enforcement, and Modification of Support Order",,,in_force,,62
-576B,part,6,,I,Registration for Enforcement of Support Order,in_force,576B-601,62
-576B,part,6,,II,Contest of Validity or Enforcement,in_force,576B-605,62
-576B,part,6,,III,Registration and Modification of,in_force,,62
-576B,unnumbered,6,,,Child Support Order of Another,in_force,,63
-576B,unnumbered,6,,,State,in_force,576B-609,63
-576B,part,6,,IV,Registration and Modification of Foreign Child Support Order,in_force,576B-615,63
+576B,part,6,"Registration, Enforcement, and Modification of Support Order",I,Registration for Enforcement of Support Order,in_force,576B-601,62
+576B,part,6,"Registration, Enforcement, and Modification of Support Order",II,Contest of Validity or Enforcement,in_force,576B-605,62
+576B,part,6,"Registration, Enforcement, and Modification of Support Order",III,Registration and Modification of Child Support Order of Another State,in_force,576B-609,62
+576B,part,6,"Registration, Enforcement, and Modification of Support Order",IV,Registration and Modification of Foreign Child Support Order,in_force,576B-615,63
 576B,article,7,Support Proceeding Under Convention,,,in_force,576B-701,63
 576B,article,8,Interstate Rendition,,,in_force,576B-801,63
 576B,article,9,Miscellaneous Provisions,,,in_force,576B-901,63

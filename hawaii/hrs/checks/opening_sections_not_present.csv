@@ -837,7 +837,7 @@ chapter,level,label,first_section,toc_page
 392,part,III Provision for Temporary Disability Insurance Benefits,392-41,38
 392,part,IV Trust Fund for Disability Benefits,392-61,38
 392,subpart,A Appeal Procedure,392-71,38
-392,unnumbered, Withholding,392-86,39
+392,subpart,B Determinations Relating to Wage Withholding,392-86,38
 392,part,VI Enforcement,392-91,39
 393,part,I Short Title; Purpose; Definitions,393-1,39
 393,part,II Mandatory Coverage,393-11,39
@@ -915,7 +915,7 @@ chapter,level,label,first_section,toc_page
 414,part,III Incorporation,414-31,41
 414,part,XII Merger and Share Exchange,414-310,41
 414,part,XIII Sale of Assets,414-331,41
-414,unnumbered, for Shares,414-341,42
+414,subpart,A Right to Dissent and Obtain Payment for Shares,414-341,41
 414,subpart,B Procedure for Exercise of Dissenters' Rights,414-351,42
 414,subpart,C Judicial Appraisal of Shares,414-371,42
 414,subpart,A Voluntary Dissolution,414-381,42
@@ -1162,7 +1162,7 @@ chapter,level,label,first_section,toc_page
 468L,part,II Charter Tour Operators,468L-21,51
 480,part,I Antitrust Provisions,480-1,51
 481,part,I Unfair Practices Act,481-1,51
-481,unnumbered, Goods,481-21,52
+481,part,II Sale of United States Surplus Goods,481-21,51
 481B,part,I Miscellaneous Provisions,481B-1,52
 481B,part,II Cybersquatting,481B-21,52
 482,part,I General Provisions,482-1,52
@@ -1287,7 +1287,7 @@ chapter,level,label,first_section,toc_page
 502,part,VII Records of Acknowledgments,502-71,56
 502,part,"VIII Requirement and Effect of Acknowledging, Recording, Not Recording",502-81,56
 502,part,IX Prior Records,502-91,56
-507,part,"I Liens, Generally Animals, Care of",507-1,57
+507,unnumbered," Animals, Care of",507-1,57
 507,unnumbered," Laundries, Cleaners",507-13,57
 507,unnumbered, Personal Property,507-18,57
 507,unnumbered," Dentists, Doctors, Hospitals",507-4,57
@@ -1386,7 +1386,6 @@ chapter,level,label,first_section,toc_page
 560,part,4 Protection of Property of Protected Person,560:5-401,61
 560,part,6 Incapacitated Persons Sterilization Rights,560:5-601,61
 560,part,1 Multiple-Party Accounts,560:6-101,62
-560,part,2 (Reserved),560:6-201,62
 560,part,"1 Effect of Act 200, Session Laws of Hawaii 1976",560:8-101,62
 560,part,"2 Effect of Act 288, Session Laws of Hawaii 1996",560:8-201,62
 560,part,"3 Effect of Act 161, Session Laws of Hawaii 2004",560:8-301,62
@@ -1409,7 +1408,7 @@ chapter,level,label,first_section,toc_page
 576B,article,5 Enforcement of Support Order Without Registration,576B-501,62
 576B,part,I Registration for Enforcement of Support Order,576B-601,62
 576B,part,II Contest of Validity or Enforcement,576B-605,62
-576B,unnumbered,6 State,576B-609,63
+576B,part,III Registration and Modification of Child Support Order of Another State,576B-609,62
 576B,part,IV Registration and Modification of Foreign Child Support Order,576B-615,63
 576B,article,7 Support Proceeding Under Convention,576B-701,63
 576B,article,8 Interstate Rendition,576B-801,63
