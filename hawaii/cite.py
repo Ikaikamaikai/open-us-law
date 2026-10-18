@@ -30,6 +30,7 @@ ALIASES = [
     (r"\bdcrcp\b", "haw dist ct r civ p"),
     (r"\bhrpc\b", "haw r prof conduct"),
     (r"\brsch\b", "haw r sup ct"),
+    (r"\bhre\b", "haw r evid"),
     (r"\bfrcp\b", "fed r civ p"),
     (r"\bfrcrp\b", "fed r crim p"),
     (r"\bfrap\b", "fed r app p"),
@@ -163,7 +164,7 @@ def hrs_order(num):
     return (int(m.group(3)) if m.group(3) else -1, m.group(4) or "", float(m.group(5)), m.group(6) or "")
 
 
-HRS_FILE = re.compile(r"HRS_0*(\d+)([A-Za-z]*)-((?:\d{4}[A-Za-z]?-)?)0*(\d+)([A-Za-z]?)((?:_\d{4})*)\.htm$")
+HRS_FILE = re.compile(r"HRS_0*(\d+)([A-Za-z]*)-((?:\d{4}[A-Za-z]?-)?)0*(\d+)([A-Za-z]?)((?:_\d{4})*)(?:\.docx)?\.htm$", re.I)
 
 
 def hrs_number_from_url(url):

@@ -52,10 +52,15 @@ def load_parquet(db, path, corpus, snapshot):
     for row in con.sql(q).fetchall():
         (citation, number, heading, tnum, tname, chap, cname, path_, status, year, amended, text, url) = row
         prov = f"vaquill open-us-law {snapshot}"
-        if corpus == "hrs" and not HRS_NUM_PARTS.match((number or "").upper()):
+        glued = re.match(r"^(.*?\d)([A-Z][a-z]{2,})$", number or "")
+        if corpus == "hrs" and (glued or not HRS_NUM_PARTS.match((number or "").upper())):
             fixed = hrs_number_from_url(url)
             if fixed:
                 prov += f"; section number repaired from source URL (was '{number}')"
+                if glued:                                   # "206E-202District" + "established; ..." -> "District established; ..."
+                    heading = f"{glued.group(2)} {heading or ''}".strip()
+                elif heading and re.match(r"^[\dA-Z]*[-\s]*[\d.]+[A-Z]?\s+\S", heading) and heading[0].isdigit():
+                    heading = re.sub(r"^[\dA-Z]*[-\s]*[\d.]+[A-Z]?\s+", "", heading)
                 number, citation = fixed, f"Haw. Rev. Stat. § {fixed}"
                 chap = re.split(r"[-:]", fixed)[0]
         if corpus == "usc" and number is None:
@@ -127,11 +132,16 @@ def load_har(db, data):
 def load_hrs_fill(db, data):
     """Sections fetched by hrs/fill_missing.py. Never replaces a section already loaded."""
     path = data / "law" / "hrs_fill.jsonl"
+    if not path.exists():
+        path = HERE / "hrs" / "hrs_fill.jsonl.gz"        # the fetched copy kept in the repository
     n = 0
     if not path.exists():
         return 0
-    for line in open(path):
+    import gzip
+    dashes = str.maketrans({"\u2010": "-", "\u2011": "-", "\u2012": "-", "\u2013": "-", "\u2212": "-", "\u00ad": ""})
+    for line in (gzip.open(path, "rt") if path.suffix == ".gz" else open(path)):
         r = json.loads(line)
+        r["text"], r["heading"] = r["text"].translate(dashes), r["heading"].translate(dashes)
         num = r["number"]
         chap = re.split(r"[-:]", num)[0]
         cur = db.execute(
@@ -139,7 +149,32 @@ def load_hrs_fill(db, data):
             "last_amended_year,text,source_url,provenance) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (f"hrs:{num}", "hrs", "HI", r["citation"], norm(r["citation"]), num, r["heading"], chap, ord_of(num),
              r.get("status", "in_force"), None, r["text"], r["source_url"],
-             f"fetched {r.get('fetched', '')} from {r.get('fetched_from', r['source_url'])}"))
+             f"fetched {r.get('fetched', '')} from {r.get('fetched_from', r['source_url'])}"
+             + (f"; the page prints the number as {r['printed_number']}" if r.get("printed_number") else "")))
+        n += cur.rowcount
+    return n
+
+
+def load_hrs_refresh(db, data):
+    """Current text from the Legislature for sections whose text here predates a 2025 act (hrs/fill_missing.py --refresh).
+    Applied only when the fetched page is newer: its history note cites the 2025 session, or it marks the section repealed."""
+    path = data / "law" / "hrs_refresh.jsonl"
+    if not path.exists():
+        path = HERE / "hrs" / "hrs_refresh.jsonl.gz"
+    if not path.exists():
+        return 0
+    import gzip
+    dashes = str.maketrans({"\u2010": "-", "\u2011": "-", "\u2012": "-", "\u2013": "-", "\u2212": "-", "\u00ad": ""})
+    n = 0
+    for line in (gzip.open(path, "rt") if path.suffix == ".gz" else open(path)):
+        r = json.loads(line)
+        text, heading = r["text"].translate(dashes), r["heading"].translate(dashes)
+        if not (re.search(r"\bL\s*2025\b", text) or r.get("status") != "in_force"):
+            continue
+        cur = db.execute(
+            "update section set heading=?, text=?, status=?, source_url=?, provenance=provenance || ? where id=?",
+            (heading, text, r.get("status", "in_force"), r["source_url"],
+             f"; text refreshed {r.get('fetched', '')} from {r.get('fetched_from', r['source_url'])}", f"hrs:{r['number']}"))
         n += cur.rowcount
     return n
 
@@ -387,6 +422,9 @@ def main():
         if filled:
             print(f"filled  {filled} HRS sections from hrs/fill_missing.py")
             counts["hrs"] += filled
+        refreshed = load_hrs_refresh(db, data)
+        if refreshed:
+            print(f"refresh {refreshed} HRS sections updated to the Legislature's current text")
         print("outline HRS TOC %d chapters, %d parts; 2025 session law table %d rows" % load_hrs_outline(db))
     har_n, har_ch = load_har(db, data)
     counts["har"] = har_n

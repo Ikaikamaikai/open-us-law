@@ -94,7 +94,7 @@ so every rebuild includes it. Only `id`, `kind` and `source_url` are required; e
 
 | Source | Sections | From |
 |---|---:|---|
-| Hawaii Revised Statutes | 19,197 | Open US Law v2026.09.1 |
+| Hawaii Revised Statutes | 22,980 | Open US Law v2026.09.1, plus 3,783 sections it lacked and 195 sections updated to 2025 law, fetched from the Legislature's server (`hrs/fill_missing.py`; kept in `hrs/hrs_fill.jsonl.gz` and `hrs/hrs_refresh.jsonl.gz`). Checked against all 22,971 section pages on the server: [hrs/COMPLETENESS.md](hrs/COMPLETENESS.md) |
 | Hawaii Constitution | 160 | Open US Law v2026.09.1 |
 | Hawaii court rules (31 rule sets) | 1,259 | Open US Law v2026.09.1 |
 | Hawaii Attorney General opinions | 66 | Open US Law v2026.09.1 |

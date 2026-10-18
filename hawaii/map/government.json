@@ -734,11 +734,11 @@
    "level": "state",
    "branch": "executive",
    "kind": "office",
-   "parent_id": "hi.exec",
-   "basis_cite": "Haw. Rev. Stat. § 92F-42",
-   "basis_id": "hrs:92F-42",
-   "basis_quote": "Shall, upon request, review and rule on an agency denial of access to information or records",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092F/HRS_0092F-0042.htm",
+   "parent_id": "hi.exec.dept.26-6",
+   "basis_cite": "Haw. Rev. Stat. § 92F-41",
+   "basis_id": "hrs:92F-41",
+   "basis_quote": "There is established an office of information practices within the department of accounting and general services for administrative purposes",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092F/HRS_0092F-0041.htm",
    "verified": 1,
    "origin": "spine"
   },
@@ -794,7 +794,7 @@
    "basis_cite": "Haw. Rev. Stat. § 604-1",
    "basis_id": "hrs:604-1",
    "basis_quote": "There shall be established in each of the judicial circuits of the State a district court",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0604/HRS_0604-0001.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0604/HRS_0604-0001.htm",
    "verified": 1,
    "origin": "spine"
   },
@@ -870,15 +870,15 @@
   },
   {
    "id": "hi.jud.supreme",
-   "name": "Hawaii Supreme Court",
+   "name": "Hawaii Supreme Court (chief justice and four associate justices)",
    "level": "state",
    "branch": "judicial",
    "kind": "court",
    "parent_id": "hi.jud",
-   "basis_cite": "Haw. Const. art. VI, § 1",
-   "basis_id": "hi-const:haw const art vi 1",
-   "basis_quote": "one supreme court",
-   "source_url": "https://capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/05-CONST/CONST_0006-0001.htm",
+   "basis_cite": "Haw. Rev. Stat. § 602-1",
+   "basis_id": "hrs:602-1",
+   "basis_quote": "shall consist of a chief justice and four associate justices",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0602/HRS_0602-0001.htm",
    "verified": 1,
    "origin": "spine"
   },
@@ -1005,6 +1005,20 @@
    "basis_id": "hrs:103-8.5",
    "basis_quote": "There is created a works of art special fund,",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0103/HRS_0103-0008_0005.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.103D-201.autonomous-state-procurement-policy-board",
+   "name": "Autonomous state procurement policy board",
+   "level": "state",
+   "branch": "executive",
+   "kind": "board",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 103D-201",
+   "basis_id": "hrs:103D-201",
+   "basis_quote": "There is hereby created an autonomous state procurement policy board.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0103D/HRS_0103D-0201.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1149,6 +1163,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.11-311.campaign-spending-commission",
+   "name": "Campaign spending commission",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 11-311",
+   "basis_id": "hrs:11-311",
+   "basis_quote": "There is established a campaign spending commission,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0011/HRS_0011-0311.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.11-7.elections-commission",
    "name": "Elections commission",
    "level": "state",
@@ -1261,6 +1289,34 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.134C-1.gun-violence-and-violent-crimes-commission",
+   "name": "Gun violence and violent crimes commission",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 134C-1",
+   "basis_id": "hrs:134C-1",
+   "basis_quote": "There is established the gun violence and violent crimes commission that",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0134C/HRS_0134C-0001.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.134C-1.gun-violence-and-violent-crimes-commission-that",
+   "name": "Gun violence and violent crimes commission that",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": "hi.exec.dept.26-7",
+   "basis_cite": "Haw. Rev. Stat. § 134C-1",
+   "basis_id": "hrs:134C-1",
+   "basis_quote": "the gun violence and violent crimes commission that shall be placed within the department of the attorney general for administrative purposes",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0134C/HRS_0134C-0001.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.141-12.5.grant-program-to-assist-farmers-and-ranchers-in-meeting-the-",
    "name": "Grant program to assist farmers and ranchers in meeting the costs",
    "level": "state",
@@ -1354,7 +1410,7 @@
    "basis_cite": "Haw. Rev. Stat. § 142-3.6",
    "basis_id": "hrs:142-3.6",
    "basis_quote": "There is established the animal industry special fund to be administered by the board of agriculture and biosecurity.",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0142/HRS_0142-0003_0006.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0142/HRS_0142-0003_0006.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1369,6 +1425,20 @@
    "basis_id": "hrs:147-116",
    "basis_quote": "There is established the Hawaii good agricultural practices program to be administered by the department of agriculture and biosecurity.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0147/HRS_0147-0116.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.148-61.seal-of-quality-program",
+   "name": "Seal of quality program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": "hi.exec.dept.26-16",
+   "basis_cite": "Haw. Rev. Stat. § 148-61",
+   "basis_id": "hrs:148-61",
+   "basis_quote": "There is established within the department of agriculture and biosecurity a seal of quality program,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0148/HRS_0148-0061.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1410,7 +1480,7 @@
    "basis_cite": "Haw. Rev. Stat. § 157-29",
    "basis_id": "hrs:157-29",
    "basis_quote": "There is established the milk control special fund to be administered by the board of agriculture and biosecurity.",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0157/HRS_0157-0029.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0157/HRS_0157-0029.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1481,6 +1551,20 @@
    "basis_id": "hrs:167-23",
    "basis_quote": "There is established a Molokai irrigation system water users advisory board,",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0167/HRS_0167-0023.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.171-121.molokai-forest-lands-management-program-to-accelerate-improv",
+   "name": "Molokai forest lands management program to accelerate improved management of Molokai forest lands",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": "hi.exec.dept.26-15",
+   "basis_cite": "Haw. Rev. Stat. § 171-121",
+   "basis_id": "hrs:171-121",
+   "basis_quote": "There is established in the department of land and natural resources a Molokai forest lands management program to accelerate improved management of Molokai forest lands,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0171/HRS_0171-0121.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1597,6 +1681,48 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.195H-15.mauna-kea-management-special-fund",
+   "name": "Mauna Kea management special fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 195H-15",
+   "basis_id": "hrs:195H-15",
+   "basis_quote": "There is established the Mauna Kea management special fund into which",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0195H/HRS_0195H-0015.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.195H-3.authority",
+   "name": "Authority",
+   "level": "state",
+   "branch": "executive",
+   "kind": "authority",
+   "parent_id": "hi.exec.dept.26-15",
+   "basis_cite": "Haw. Rev. Stat. § 195H-3",
+   "basis_id": "hrs:195H-3",
+   "basis_quote": "The authority shall be placed within the department of land and natural resources for administrative purposes",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0195H/HRS_0195H-0003.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.195H-3.mauna-kea-stewardship-and-oversight-authority",
+   "name": "Mauna Kea stewardship and oversight authority",
+   "level": "state",
+   "branch": "executive",
+   "kind": "authority",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 195H-3",
+   "basis_id": "hrs:195H-3",
+   "basis_quote": "There is established the Mauna Kea stewardship and oversight authority,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0195H/HRS_0195H-0003.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.196-112.solar-hui-program",
    "name": "Solar hui program",
    "level": "state",
@@ -1667,6 +1793,34 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.196-71.hawaii-state-energy-office",
+   "name": "Hawaii state energy office",
+   "level": "state",
+   "branch": "executive",
+   "kind": "office",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 196-71",
+   "basis_id": "hrs:196-71",
+   "basis_quote": "There is established the Hawaii state energy office,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0196/HRS_0196-0071.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.196-71.office",
+   "name": "Office",
+   "level": "state",
+   "branch": "executive",
+   "kind": "office",
+   "parent_id": "hi.exec.dept.26-18",
+   "basis_cite": "Haw. Rev. Stat. § 196-71",
+   "basis_id": "hrs:196-71",
+   "basis_quote": "The office shall be placed within the department of business, economic development, and tourism for administrative purposes",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0196/HRS_0196-0071.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.198D-2.hawaii-statewide-trail-and-access-program",
    "name": "Hawaii statewide trail and access program",
    "level": "state",
@@ -1690,7 +1844,7 @@
    "basis_cite": "Haw. Rev. Stat. § 201B-2",
    "basis_id": "hrs:201B-2",
    "basis_quote": "The authority shall be placed within the department of business, economic development, and tourism for administrative purposes",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201B/HRS_0201B-0002.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201B/HRS_0201B-0002.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1704,7 +1858,7 @@
    "basis_cite": "Haw. Rev. Stat. § 201B-2",
    "basis_id": "hrs:201B-2",
    "basis_quote": "There is established the Hawaii tourism authority,",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201B/HRS_0201B-0002.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201B/HRS_0201B-0002.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1737,6 +1891,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.201H-191.dwelling-unit-revolving-fund",
+   "name": "Dwelling unit revolving fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 201H-191",
+   "basis_id": "hrs:201H-191",
+   "basis_quote": "There is created a dwelling unit revolving fund.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201H/HRS_0201H-0191.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.201H-2.hawaii-housing-finance-and-development-corporation-to-be-pla",
    "name": "Hawaii housing finance and development corporation to be placed",
    "level": "state",
@@ -1765,6 +1933,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.201H-206.affordable-homeownership-revolving-fund",
+   "name": "Affordable homeownership revolving fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 201H-206",
+   "basis_id": "hrs:201H-206",
+   "basis_quote": "There is established an affordable homeownership revolving fund to be administered by the corporation for the",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201H/HRS_0201H-0206.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.201H-3.board-of-directors-of-the-hawaii-housing-finance-and-develop",
    "name": "Board of directors of the Hawaii housing finance and development corporation",
    "level": "state",
@@ -1775,6 +1957,20 @@
    "basis_id": "hrs:201H-3",
    "basis_quote": "There is created a board of directors of the Hawaii housing finance and development corporation consisting",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201H/HRS_0201H-0003.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.201H-59.affordable-rental-housing-development-program-under-the-hawa",
+   "name": "Affordable rental housing development program under the Hawaii housing finance and development corporation",
+   "level": "state",
+   "branch": "executive",
+   "kind": "corporation",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 201H-59",
+   "basis_id": "hrs:201H-59",
+   "basis_quote": "There is established the affordable rental housing development program under the Hawaii housing finance and development corporation.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0201H/HRS_0201H-0059.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -1975,6 +2171,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.206R-2.broadband-infrastructure-grant-program",
+   "name": "Broadband infrastructure grant program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 206R-2",
+   "basis_id": "hrs:206R-2",
+   "basis_quote": "There is established the broadband infrastructure grant program within the department of business,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0206R/HRS_0206R-0002.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.209-34.state-disaster-revolving-loan-fund",
    "name": "State disaster revolving loan fund",
    "level": "state",
@@ -2040,7 +2250,7 @@
    "basis_cite": "Haw. Rev. Stat. § 210D-5",
    "basis_id": "hrs:210D-5",
    "basis_quote": "There is established the community-based economic development advisory council,",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0210D/HRS_0210D-0005.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0210D/HRS_0210D-0005.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -2054,7 +2264,7 @@
    "basis_cite": "Haw. Rev. Stat. § 219-3",
    "basis_id": "hrs:219-3",
    "basis_quote": "There is established the Hawaii aquaculture loan program to be administered by the board of agriculture and biosecurity.",
-   "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0219/HRS_0219-0003.htm",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0219/HRS_0219-0003.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -2223,6 +2433,20 @@
    "basis_id": "hrs:23-63",
    "basis_quote": "There is established in the office of the legislative auditor for administrative purposes only, a legislative advisory committee to provide technical advice to the legislature.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0023/HRS_0023-0063.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.232-6.taxation-board-of-review",
+   "name": "Taxation board of review",
+   "level": "state",
+   "branch": "executive",
+   "kind": "board",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 232-6",
+   "basis_id": "hrs:232-6",
+   "basis_quote": "There is created a taxation board of review for the",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0232/HRS_0232-0006.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -2437,14 +2661,14 @@
    "origin": "mined"
   },
   {
-   "id": "hi.mined.27G-.access-hawaii-committee",
+   "id": "hi.mined.27G-3.access-hawaii-committee",
    "name": "Access Hawaii committee",
    "level": "state",
    "branch": "executive",
    "kind": "committee",
    "parent_id": "hi.exec.dept.26-6",
-   "basis_cite": "Haw. Rev. Stat. § 27G-",
-   "basis_id": "hrs:27G-",
+   "basis_cite": "Haw. Rev. Stat. § 27G-3",
+   "basis_id": "hrs:27G-3",
    "basis_quote": "There is established within the department of accounting and general services, the access Hawaii committee.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0027G/HRS_0027G-0003.htm",
    "verified": 1,
@@ -2461,6 +2685,20 @@
    "basis_id": "hrs:28-111",
    "basis_quote": "There is established a victim-witness assistance program in the department of the attorney general,",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0028/HRS_0028-0111.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.28-121.program",
+   "name": "Program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": "hi.exec.dept.26-7",
+   "basis_cite": "Haw. Rev. Stat. § 28-121",
+   "basis_id": "hrs:28-121",
+   "basis_quote": "There is established within the department of the attorney general a program to be known as",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0028/HRS_0028-0121.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -2493,6 +2731,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.29-1.office",
+   "name": "Office",
+   "level": "state",
+   "branch": "executive",
+   "kind": "office",
+   "parent_id": "hi.exec.dept.26-8",
+   "basis_cite": "Haw. Rev. Stat. § 29-1",
+   "basis_id": "hrs:29-1",
+   "basis_quote": "The office is placed within the department of budget and finance for administrative purposes",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0029/HRS_0029-0001.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.291C-111.5.state-highway-enforcement-program",
    "name": "State highway enforcement program",
    "level": "state",
@@ -2503,6 +2755,20 @@
    "basis_id": "hrs:291C-111.5",
    "basis_quote": "There is established the state highway enforcement program within the department of transportation for administrative purposes.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0111_0005.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.291J-12.photo-red-light-imaging-detector-systems-special-fund",
+   "name": "Photo red light imaging detector systems special fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 291J-12",
+   "basis_id": "hrs:291J-12",
+   "basis_quote": "There is established a photo red light imaging detector systems special fund to be administered by the department,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291J/HRS_0291J-0012.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -2605,6 +2871,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.302A-801.hawaii-teacher-standards-board",
+   "name": "Hawaii teacher standards board",
+   "level": "state",
+   "branch": "executive",
+   "kind": "board",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 302A-801",
+   "basis_id": "hrs:302A-801",
+   "basis_quote": "There is established the Hawaii teacher standards board,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0302A/HRS_0302A-0801.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.302D-3.state-public-charter-school-commission-with-statewide-charte",
    "name": "State public charter school commission with statewide chartering jurisdiction and authority",
    "level": "state",
@@ -2699,6 +2979,20 @@
    "basis_id": "hrs:304A-2102",
    "basis_quote": "There is established the Hawaii community college promise program subaccount within the University of Hawaii general fund.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-2102.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.304A-2151.university-of-hawaii-risk-management-special-fund",
+   "name": "University of Hawaii risk management special fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-2151",
+   "basis_id": "hrs:304A-2151",
+   "basis_quote": "There is established the University of Hawaii risk management special fund.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-2151.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -2927,6 +3221,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.304A-2251.university-of-hawaii-commercial-enterprises-revolving-fund",
+   "name": "University of Hawaii commercial enterprises revolving fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-2251",
+   "basis_id": "hrs:304A-2251",
+   "basis_quote": "There is established the University of Hawaii commercial enterprises revolving fund into which",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-2251.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.304A-2253.university-of-hawaii-research-and-training-revolving-fund",
    "name": "University of Hawaii research and training revolving fund",
    "level": "state",
@@ -3151,6 +3459,34 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.304A-3151.state-post-secondary-education-commission",
+   "name": "State post-secondary education commission",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-3151",
+   "basis_id": "hrs:304A-3151",
+   "basis_quote": "There is established a state post-secondary education commission.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-3151.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.304A-3251.hawaii-research-center-for-futures-study",
+   "name": "Hawaii research center for futures study",
+   "level": "state",
+   "branch": "executive",
+   "kind": "center",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-3251",
+   "basis_id": "hrs:304A-3251",
+   "basis_quote": "There is hereby established a Hawaii research center for futures study.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-3251.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.304A-3302.program",
    "name": "Program",
    "level": "state",
@@ -3221,6 +3557,48 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.304A-701.hawaii-educator-loan-program",
+   "name": "Hawaii educator loan program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-701",
+   "basis_id": "hrs:304A-701",
+   "basis_quote": "There is created the Hawaii educator loan program to be administered by the University of Hawaii,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-0701.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.304A-801.coordinating-office-of-educational-services",
+   "name": "Coordinating office of educational services",
+   "level": "state",
+   "branch": "executive",
+   "kind": "office",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-801",
+   "basis_id": "hrs:304A-801",
+   "basis_quote": "There is created a coordinating office of educational services for the",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-0801.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.304A-801.program-of-equal-educational-opportunity-as-an-integral-and-",
+   "name": "Program of equal educational opportunity as an integral and major program of the university",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 304A-801",
+   "basis_id": "hrs:304A-801",
+   "basis_quote": "There is established a program of equal educational opportunity as an integral and major program of the university.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-0801.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.304A-803.dual-credit-program",
    "name": "Dual credit program",
    "level": "state",
@@ -3273,6 +3651,20 @@
    "basis_id": "hrs:321-1.7",
    "basis_quote": "There is established within the department of health a public health nursing services program.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0321/HRS_0321-0001_0007.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.321-101.hearing-and-vision-program-for-children-to-be-conducted-by-t",
+   "name": "Hearing and vision program for children to be conducted by the department of health",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 321-101",
+   "basis_id": "hrs:321-101",
+   "basis_quote": "There is established a hearing and vision program for children to be conducted by the department of health.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0321/HRS_0321-0101.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -3343,6 +3735,20 @@
    "basis_id": "hrs:321-30.2",
    "basis_quote": "There is established the civil monetary penalty special fund,",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0321/HRS_0321-0030_0002.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.321-301.bilingual-health-education-aide-program",
+   "name": "Bilingual health education aide program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": "hi.exec.dept.26-13",
+   "basis_cite": "Haw. Rev. Stat. § 321-301",
+   "basis_id": "hrs:321-301",
+   "basis_quote": "There is established in the department of health a bilingual health education aide program.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0321/HRS_0321-0301.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -3427,6 +3833,20 @@
    "basis_id": "hrs:322H-1",
    "basis_quote": "There is established within the department of budget and finance for administrative purposes the Hawaii health authority.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0322H/HRS_0322H-0001.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.323D-11.state-health-planning-and-development-agency",
+   "name": "State health planning and development agency",
+   "level": "state",
+   "branch": "executive",
+   "kind": "agency",
+   "parent_id": "hi.exec.dept.26-13",
+   "basis_cite": "Haw. Rev. Stat. § 323D-11",
+   "basis_id": "hrs:323D-11",
+   "basis_quote": "There is established within the department of health for administrative purposes only, the state health planning and development agency.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0323D/HRS_0323D-0011.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -3585,6 +4005,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.342L-61.fuel-tank-advisory-committee",
+   "name": "Fuel tank advisory committee",
+   "level": "state",
+   "branch": "executive",
+   "kind": "committee",
+   "parent_id": "hi.exec.dept.26-13",
+   "basis_cite": "Haw. Rev. Stat. § 342L-61",
+   "basis_id": "hrs:342L-61",
+   "basis_quote": "There is established in the department of health the fuel tank advisory committee,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0342L/HRS_0342L-0061.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.342P-8.asbestos-and-lead-abatement-special-fund",
    "name": "Asbestos and lead abatement special fund",
    "level": "state",
@@ -3599,6 +4033,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.346-381.hawaii-interagency-council-on-homelessness",
+   "name": "Hawaii interagency council on homelessness",
+   "level": "state",
+   "branch": "executive",
+   "kind": "council",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 346-381",
+   "basis_id": "hrs:346-381",
+   "basis_quote": "There is established the Hawaii interagency council on homelessness,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0346/HRS_0346-0381.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.346-386.statewide-office-on-homelessness-and-housing-solutions",
    "name": "Statewide office on homelessness and housing solutions",
    "level": "state",
@@ -3609,6 +4057,20 @@
    "basis_id": "hrs:346-386",
    "basis_quote": "There is established within the department of human services, for administrative purposes only, the statewide office on homelessness and housing solutions that",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0346/HRS_0346-0386.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.346-421.health-analytics-program",
+   "name": "Health analytics program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": "hi.exec.dept.26-14",
+   "basis_cite": "Haw. Rev. Stat. § 346-421",
+   "basis_id": "hrs:346-421",
+   "basis_quote": "There is established within the department of human services the health analytics program.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0346/HRS_0346-0421.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -3679,6 +4141,20 @@
    "basis_id": "hrs:350B-2",
    "basis_quote": "There is established the Hawaii children's trust fund as a separate fund of the Hawaii Community Foundation,",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0350B/HRS_0350B-0002.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.351-11.commission",
+   "name": "Commission",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": "hi.exec.dept.26-14.6",
+   "basis_cite": "Haw. Rev. Stat. § 351-11",
+   "basis_id": "hrs:351-11",
+   "basis_quote": "The commission is placed within the department of corrections and rehabilitation for administrative purposes",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0351/HRS_0351-0011.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -3805,6 +4281,20 @@
    "basis_id": "hrs:353E-1",
    "basis_quote": "There is established the statewide integrated sex offender treatment program for the",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0353E/HRS_0353E-0001.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.353L-1.hawaii-correctional-system-oversight-commission",
+   "name": "Hawaii correctional system oversight commission",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": "hi.exec.dept.26-7",
+   "basis_cite": "Haw. Rev. Stat. § 353L-1",
+   "basis_id": "hrs:353L-1",
+   "basis_quote": "There is established within the department of the attorney general for administrative purposes only a Hawaii correctional system oversight commission consisting",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0353L/HRS_0353L-0001.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -3991,6 +4481,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.386-151.trust-fund",
+   "name": "Trust fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 386-151",
+   "basis_id": "hrs:386-151",
+   "basis_quote": "There is hereby created a trust fund to be known as",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0386/HRS_0386-0151.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.386A-2.workers-compensation-state-insurance-fund",
    "name": "Workers' compensation state insurance fund",
    "level": "state",
@@ -4001,6 +4505,20 @@
    "basis_id": "hrs:386A-2",
    "basis_quote": "There is established a workers' compensation state insurance fund to be known as",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0386A/HRS_0386A-0002.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.39-151.hawaii-compound-interest-bond-reserve-fund",
+   "name": "Hawaii compound interest bond reserve fund",
+   "level": "state",
+   "branch": "executive",
+   "kind": "fund",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 39-151",
+   "basis_id": "hrs:39-151",
+   "basis_quote": "There is hereby established the Hawaii compound interest bond reserve fund,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0039/HRS_0039-0151.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -4057,6 +4575,20 @@
    "basis_id": "hrs:431:14A-109.5",
    "basis_quote": "There is established the Hawaii employers' mutual insurance company oversight council which",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol09_Ch0431-0435H/HRS0431/HRS_0431-0014A-0109_0005.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.436H-3.athletic-trainer-program",
+   "name": "Athletic trainer program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 436H-3",
+   "basis_id": "hrs:436H-3",
+   "basis_quote": "There is established an athletic trainer program within the department to be administered by the director.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol10_Ch0436-0474/HRS0436H/HRS_0436H-0003.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -4187,6 +4719,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.457J-3.midwives-licensing-program",
+   "name": "Midwives licensing program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 457J-3",
+   "basis_id": "hrs:457J-3",
+   "basis_quote": "There is established a midwives licensing program within the department to be administered by the director.",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol10_Ch0436-0474/HRS0457J/HRS_0457J-0003.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.461J-4.board-of-physical-therapy",
    "name": "Board of physical therapy",
    "level": "state",
@@ -4253,6 +4799,20 @@
    "basis_id": "hrs:466K-2",
    "basis_quote": "There is established a real estate appraiser program within the department of commerce and consumer affairs,",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol10_Ch0436-0474/HRS0466K/HRS_0466K-0002.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.466M-3.appraisal-management-company-registration-program",
+   "name": "Appraisal management company registration program",
+   "level": "state",
+   "branch": "executive",
+   "kind": "program",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 466M-3",
+   "basis_id": "hrs:466M-3",
+   "basis_quote": "There is established an appraisal management company registration program,",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol10_Ch0436-0474/HRS0466M/HRS_0466M-0003.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -4439,6 +4999,20 @@
    "origin": "mined"
   },
   {
+   "id": "hi.mined.84-21.commission",
+   "name": "Commission",
+   "level": "state",
+   "branch": "executive",
+   "kind": "commission",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 84-21",
+   "basis_id": "hrs:84-21",
+   "basis_quote": "There is established within the office of the auditor for administrative purposes only a commission to be known as",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0084/HRS_0084-0021.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
    "id": "hi.mined.846-10.6.criminal-history-record-improvement-revolving-fund",
    "name": "Criminal history record improvement revolving fund",
    "level": "state",
@@ -4449,6 +5023,20 @@
    "basis_id": "hrs:846-10.6",
    "basis_quote": "There is established a criminal history record improvement revolving fund.",
    "source_url": "http://www.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0846/HRS_0846-0010_0006.htm",
+   "verified": 1,
+   "origin": "mined"
+  },
+  {
+   "id": "hi.mined.846C-1.council",
+   "name": "Council",
+   "level": "state",
+   "branch": "executive",
+   "kind": "council",
+   "parent_id": null,
+   "basis_cite": "Haw. Rev. Stat. § 846C-1",
+   "basis_id": "hrs:846C-1",
+   "basis_quote": "There is established a council to be known as",
+   "source_url": "https://www.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0846C/HRS_0846C-0001.htm",
    "verified": 1,
    "origin": "mined"
   },
@@ -5167,6 +5755,15 @@
   {
    "id": "access.hi.records",
    "record_kind": "state and county government records",
+   "body_id": "hi.exec.oip",
+   "basis_cite": "Haw. Rev. Stat. § 92F-11",
+   "basis_id": "hrs:92F-11",
+   "basis_quote": "All government records are open to public inspection unless access is restricted or closed by law",
+   "verified": 1
+  },
+  {
+   "id": "access.hi.records.policy",
+   "record_kind": "why records are open (stated policy)",
    "body_id": "hi.exec.oip",
    "basis_cite": "Haw. Rev. Stat. § 92F-2",
    "basis_id": "hrs:92F-2",

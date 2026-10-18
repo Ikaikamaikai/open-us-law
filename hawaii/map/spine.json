@@ -28,8 +28,8 @@
      "basis": "Haw. Const. art. V, § 6", "quote": "not more than twenty principal departments"},
     {"id": "hi.exec.elections", "name": "Office of Elections", "level": "state", "branch": "executive", "kind": "office", "parent": "hi.exec.dept.26-6",
      "basis": "Haw. Rev. Stat. § 11-1.5", "quote": "There is established an office of elections"},
-    {"id": "hi.exec.oip", "name": "Office of Information Practices", "level": "state", "branch": "executive", "kind": "office", "parent": "hi.exec",
-     "basis": "Haw. Rev. Stat. § 92F-42", "quote": "Shall, upon request, review and rule on an agency denial of access to information or records"},
+    {"id": "hi.exec.oip", "name": "Office of Information Practices", "level": "state", "branch": "executive", "kind": "office", "parent": "hi.exec.dept.26-6",
+     "basis": "Haw. Rev. Stat. § 92F-41", "quote": "There is established an office of information practices within the department of accounting and general services for administrative purposes"},
     {"id": "hi.exec.ocp", "name": "Office of Consumer Protection", "level": "state", "branch": "executive", "kind": "office", "parent": "hi.exec.dept.26-9",
      "basis": "Haw. Rev. Stat. § 487-2", "quote": "There is created within the department of commerce and consumer affairs an office of consumer protection"},
     {"id": "hi.exec.puc", "name": "Public Utilities Commission", "level": "state", "branch": "executive", "kind": "commission", "parent": "hi.exec",
@@ -44,8 +44,8 @@
 
     {"id": "hi.jud", "name": "Judiciary", "level": "state", "branch": "judicial", "kind": "branch", "parent": "hi",
      "basis": "Haw. Const. art. VI, § 1", "quote": "The judicial power of the State shall be vested in one supreme court"},
-    {"id": "hi.jud.supreme", "name": "Hawaii Supreme Court", "level": "state", "branch": "judicial", "kind": "court", "parent": "hi.jud",
-     "basis": "Haw. Const. art. VI, § 1", "quote": "one supreme court"},
+    {"id": "hi.jud.supreme", "name": "Hawaii Supreme Court (chief justice and four associate justices)", "level": "state", "branch": "judicial", "kind": "court", "parent": "hi.jud",
+     "basis": "Haw. Rev. Stat. § 602-1", "quote": "shall consist of a chief justice and four associate justices"},
     {"id": "hi.jud.ica", "name": "Intermediate Court of Appeals", "level": "state", "branch": "judicial", "kind": "court", "parent": "hi.jud",
      "basis": "Haw. Const. art. VI, § 1", "quote": "one intermediate appellate court"},
     {"id": "hi.jud.circuit", "name": "Circuit Courts (one per judicial circuit)", "level": "state", "branch": "judicial", "kind": "court", "parent": "hi.jud",
@@ -117,6 +117,8 @@
 
   "access": [
     {"id": "access.hi.records", "record_kind": "state and county government records", "body": "hi.exec.oip",
+     "basis": "Haw. Rev. Stat. § 92F-11", "quote": "All government records are open to public inspection unless access is restricted or closed by law"},
+    {"id": "access.hi.records.policy", "record_kind": "why records are open (stated policy)", "body": "hi.exec.oip",
      "basis": "Haw. Rev. Stat. § 92F-2", "quote": "Opening up the government processes to public scrutiny and participation is the only viable and reasonable method of protecting the public's interest"},
     {"id": "access.hi.records.review", "record_kind": "appeal of a denied records request", "body": "hi.exec.oip",
      "basis": "Haw. Rev. Stat. § 92F-42", "quote": "review and rule on an agency denial of access to information or records"},

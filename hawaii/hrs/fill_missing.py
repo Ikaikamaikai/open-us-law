@@ -9,9 +9,10 @@ that are not here. Every section keeps the www.capitol.hawaii.gov URL of the pag
   python3 hrs/fill_missing.py                 # just the sections listed by hrs/check.py
   python3 hrs/fill_missing.py 92F-11 26-1     # just these
   python3 hrs/fill_missing.py --all --dry-run # count what it would fetch
+  python3 hrs/fill_missing.py --refresh       # re-fetch sections whose text here predates a 2025 act
 
-Output: data/law/hrs_fill.jsonl and hrs/hrs_fill_log.csv (build.py loads the sections; it never replaces a
-section that is already present).
+Output: data/law/hrs_fill.jsonl, hrs/hrs_fill_log.csv, and with --all hrs/server_sections.csv (every section page
+on the server). build.py loads the sections; it never replaces a section that is already present.
 """
 import csv
 import json
@@ -19,6 +20,7 @@ import re
 import sqlite3
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -97,24 +99,41 @@ class Paras(HTMLParser):
             self.buf.append(data)
 
 
+DASHES = str.maketrans({"\u2010": "-", "\u2011": "-", "\u2012": "-", "\u2013": "-", "\u2212": "-", "\u00ad": ""})
+
+
+def clean_text(t):
+    """The Legislature's pages often print section numbers with a non-breaking hyphen (U+2011)."""
+    return (t or "").translate(DASHES)
+
+
 def parse_page(raw, num):
     p = Paras()
     p.feed(raw)
-    paras = [x for x in p.out if x]
-    start = next((i for i, x in enumerate(paras) if re.match(r"^\[?\s*§+\s*\d", x)), None)
+    paras = [clean_text(x) for x in p.out if x]
+    marks = [i for i, x in enumerate(paras) if re.match(r"^\[?\s*§+\s*\d", x)]
+    want = num.upper()
+    start = next((i for i in marks if want in re.sub(r"\s+", "", paras[i]).upper()), None)
+    printed = None
+    if start is None and len(marks) == 1:
+        start = marks[0]                       # the page's only section, printed with a different number (a typo)
+        m = re.match(r"^\[?\s*§+\s*([\w:.\-]+)", paras[start])
+        printed = m.group(1) if m else None
+    rule = None
     if start is None:
-        return None
+        start = next((i for i, x in enumerate(paras) if re.match(r"^\[?Rule\s+\d+(?:\.\d+)?\]?\s+\S", x)), None)
+        if start is None:
+            return None
+        rule = re.match(r"^\[?Rule\s+(\d+(?:\.\d+)?)", paras[start]).group(1)
     first = paras[start]
-    if num.upper() not in re.sub(r"\s+", "", first).upper():
-        return None
     headings = paras[:start]
-    body_first = re.sub(r"^\[?\s*§+\s*[\w:.\-]+\]?\s*", "", first)
+    body_first = re.sub(r"^(?:\[?\s*§+\s*[\w:.\-]+\]?|\[?Rule\s+[\d.]+\]?)\s*", "", first)
     hm = re.match(r"^(.{1,200}?\.)\s+(.*)$", body_first)
     heading, lead = (hm.group(1), hm.group(2)) if hm else (body_first[:200], "")
     lines, history = [lead] if lead else [], None
     for x in paras[start + 1:]:
         low = x.lower().rstrip(":. ")
-        if any(low == n or low.startswith(n + " ") for n in NOTES):
+        if any(low == n or low.startswith(n + " ") for n in NOTES) or (low.startswith("rule") and "commentary" in low):
             break
         if re.match(r"^\[(?:Am\s+)?L\s*(?:Sp\s*)?\d{4}", x) or re.match(r"^\[L ", x):
             history = x
@@ -123,15 +142,30 @@ def parse_page(raw, num):
     text = "\n\n".join(lines)
     if history:
         text += "\n\n" + history
-    status = "repealed" if re.search(r"\b(repealed|reserved)\b", heading.lower()) and len(text) < 200 else "in_force"
-    return {"heading": heading, "text": text, "headings_above": headings, "status": status}
+    m = re.search(r"\b(repealed|reserved|renumbered)\b", heading.lower())
+    status = m.group(1) if m and len(text) < 200 else "in_force"
+    rec = {"heading": heading, "text": text, "headings_above": headings, "status": status}
+    if printed:
+        rec["printed_number"] = printed
+    if rule:
+        rec["rule"] = rule
+    return rec
 
 
-def fetch(url):
-    try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
-            raw = r.read()
-    except Exception:
+def fetch(url, tries=4):
+    raw = None
+    for i in range(tries):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+                raw = r.read()
+            break
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 404):
+                return None
+            time.sleep(2 ** i)
+        except Exception:
+            time.sleep(2 ** i)
+    if raw is None:
         return None
     for enc in ("utf-8-sig", "windows-1252"):
         try:
@@ -172,7 +206,7 @@ def targets_from_checks():
 
 
 def server_inventory(workers=4):
-    """Every section page on the Legislature's data server: {number: path}."""
+    """Every section page on the Legislature's data server: ({number: path}, [chapter folders with no section pages])."""
     sys.path.insert(0, str(HERE.parent))
     from cite import hrs_number_from_url
     vols = [h for h in listing(DATA_BASE + "/") if re.search(r"/hrscurrent/Vol\d+[^/]*/$", h)]
@@ -180,14 +214,30 @@ def server_inventory(workers=4):
     for v in vols:
         chapters += [h for h in listing("https://data.capitol.hawaii.gov" + v) if re.search(r"/HRS\d+[A-Z]*/$", h)]
     print(f"{len(vols)} volumes, {len(chapters)} chapter folders on data.capitol.hawaii.gov")
-    found = {}
+    found, empty = {}, []
     with ThreadPoolExecutor(workers) as ex:
-        for files in ex.map(lambda c: listing("https://data.capitol.hawaii.gov" + c), chapters):
+        for folder, files in zip(chapters, ex.map(lambda c: listing("https://data.capitol.hawaii.gov" + c), chapters)):
+            n = 0
             for f in files:
                 num = hrs_number_from_url(f)
                 if num and f.lower().endswith(".htm"):
                     found.setdefault(num, f)
-    return found
+                    n += 1
+            if not n:
+                empty.append(folder)
+    return found, empty
+
+
+def chapter_note(folder):
+    """What a chapter's own index page says when the chapter has no section pages (e.g. 'REPEALED. L 2025, c 201, §2.')."""
+    files = [f for f in listing("https://data.capitol.hawaii.gov" + folder) if f.lower().endswith("-.htm")]
+    if not files:
+        return ""
+    p = Paras()
+    p.feed(fetch("https://data.capitol.hawaii.gov" + files[0]) or "")
+    lines = [clean_text(x) for x in p.out if x]
+    keep = [x for x in lines if re.search(r"repealed|renumbered|transferred|see chapter|present provisions", x, re.I)]
+    return " ".join(keep[:3])[:400]
 
 
 def one(num, path, by_chapter, ranges):
@@ -204,7 +254,8 @@ def one(num, path, by_chapter, ranges):
         if raw:
             rec = parse_page(raw, num)
             if rec:
-                rec.update(number=num, citation=f"Haw. Rev. Stat. § {num}", source_url=www_url, fetched_from=url,
+                cite = f"Haw. R. Evid. {rec['rule']}" if rec.get("rule") and num.startswith("626:") else f"Haw. Rev. Stat. § {num}"
+                rec.update(number=num, citation=cite, source_url=www_url, fetched_from=url,
                            fetched=time.strftime("%Y-%m-%d"))
                 return num, "ok", www_url, rec
             return num, "page_has_no_matching_section", www_url, None
@@ -229,13 +280,41 @@ def main():
         done = {json.loads(l)["number"] for l in open(out_path)}
     paths = {}
     if everything:
-        paths = server_inventory()
+        paths, empty = server_inventory()
+        with open(HERE / "server_sections.csv", "w", newline="") as sf:
+            w = csv.writer(sf)
+            w.writerow(["number", "path"])
+            w.writerows(sorted(paths.items()))
+        with open(HERE / "server_chapter_notes.csv", "w", newline="") as nf:
+            w = csv.writer(nf)
+            w.writerow(["chapter", "folder", "note"])
+            for folder in sorted(empty):
+                chap = re.search(r"/HRS0*(\d+[A-Z]*)/$", folder).group(1)
+                w.writerow([chap, folder, chapter_note(folder)])
+        print(f"{len(empty)} chapter folders have no section pages; their index notes are in server_chapter_notes.csv")
         wanted = sorted(n for n in paths if n not in have)
         print(f"{len(paths)} section pages on the server; {len(wanted)} are not in the database")
     else:
         wanted = [n for n in (args or targets_from_checks()) if n not in have]
     todo = [n for n in wanted if n not in done]
     print(f"{len(wanted)} sections wanted, {len(done)} already fetched, {len(todo)} to go")
+    if "--refresh" in sys.argv:
+        stale = []
+        for name in ("slh2025_amendments_not_in_history_note", "slh2025_repeals_still_in_force"):
+            path = HERE / "checks" / f"{name}.csv"
+            if path.exists():
+                stale += [r["target"] for r in csv.DictReader(open(path))]
+        stale = list(dict.fromkeys(stale))
+        refresh_path = DATA / "law" / "hrs_refresh.jsonl"
+        print(f"refreshing {len(stale)} sections whose text in this database predates a 2025 act")
+        n = 0
+        with open(refresh_path, "w") as f, ThreadPoolExecutor(4) as ex:
+            for num, status, url, rec in ex.map(lambda x: one(x, None, by_chapter, ranges), stale):
+                if rec:
+                    f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                    n += 1
+        print(f"refreshed {n} of {len(stale)}; saved to {refresh_path}. Run build.py to apply them.")
+        return
     if dry:
         for n in todo[:50]:
             print(" ", n, paths.get(n) or url_for(n, by_chapter, ranges))
@@ -252,11 +331,13 @@ def main():
                 got += 1
             if i % 100 == 0:
                 print(f"  {i}/{len(todo)}  ({got} fetched)", flush=True)
-    with open(HERE / "hrs_fill_log.csv", "a", newline="") as lf:
+    log_path = HERE / "hrs_fill_log.csv"
+    latest = {r["number"]: (r["number"], r["status"], r["url"]) for r in csv.DictReader(open(log_path))} if log_path.exists() else {}
+    latest.update({n: (n, st, u) for n, st, u in log})
+    with open(log_path, "w", newline="") as lf:
         w = csv.writer(lf)
-        if lf.tell() == 0:
-            w.writerow(["number", "status", "url"])
-        w.writerows(sorted(log))
+        w.writerow(["number", "status", "url"])
+        w.writerows(sorted(latest.values()))
     print(f"fetched {got} of {len(todo)}; saved to {out_path}. Run build.py to include them.")
 
 
