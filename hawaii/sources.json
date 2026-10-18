@@ -1,0 +1,21 @@
+{
+  "snapshot": "v2026.09.1",
+  "base_url": "https://oss-data-us.vaquill.ai",
+  "files": [
+    {"file": "us_hi_statutes.parquet",           "corpus": "hrs"},
+    {"file": "us_hi_constitutions.parquet",      "corpus": "hi-const"},
+    {"file": "us_hi_court_rules.parquet",        "corpus": "hi-rules"},
+    {"file": "us_hi_ag_opinion.parquet",         "corpus": "hi-ag"},
+    {"file": "us_hi_guidance.parquet",           "corpus": "hi-guidance"},
+    {"file": "us_federal_constitutions.parquet", "corpus": "us-const"},
+    {"file": "us_federal_court_rules.parquet",   "corpus": "fed-rules"},
+    {"file": "us_federal_statutes.parquet",      "corpus": "usc"}
+  ],
+  "cfr_slices": [
+    {
+      "name": "us_federal_cfr_16_436",
+      "where": "citation like '16 C.F.R. § 436.%'",
+      "why": "FTC Franchise Rule: the 23 items of a Franchise Disclosure Document"
+    }
+  ]
+}
