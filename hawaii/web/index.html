@@ -117,6 +117,8 @@ async function run(q) {
   render();
   if (a.outline) { (a.outline.sections || []).forEach(x => items.push({ kind: "section", id: x.id, title: "§ " + x.number, sub: x.heading, status: x.status })); render(); return showOutline(a.outline); }
   if (a.act) { a.act.targets.filter(t => t.section_id).forEach(t => items.push({ kind: "section", id: t.section_id, title: t.citation, sub: "Act " + a.act.act + " §" + (t.act_section || "") })); render(); return showAct(a.act); }
+  if (a.no_match && !items.length) { $("detail").replaceChildren(el("div", "quote", a.no_match)); return; }
+  if (a.no_match) $("readas").textContent += " — " + a.no_match;
   if (a.gaps) return showGaps(a.gaps);
   if (a.not_here) { const box = $("detail"); box.replaceChildren(el("h2", null, a.not_here.citation + " is not in this database")); if (a.not_here.listed) box.appendChild(el("div", "quote", a.not_here.listed)); box.appendChild(el("div", "sub", a.not_here.how_to_get)); return; }
   if (a.appeal_path) return showPath(a.appeal_path);

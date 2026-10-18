@@ -375,8 +375,15 @@ def answer(con, q):
     out = {"query": q, "intent": intent, "object": obj, "filters": f}
     if intent == "act":
         act, year = obj.split()
-        out["act"] = {"year": int(year), "act": int(act), "targets": session_law_act(con, int(act), int(year))}
         out["read_as"] = f"Session Laws of {year}, Act {act}: what it changed in the HRS"
+        targets = session_law_act(con, int(act), int(year))
+        if not targets:
+            lo, hi_, n = con.execute("select min(act), max(act), count(distinct act) from session_law where year = ?",
+                                     (int(year),)).fetchone()
+            out["no_match"] = (f"Act {act} of {year} is not in the Table of Disposition loaded here"
+                               + (f" (it covers Acts {lo}–{hi_} of {year})." if n else f" (no table for {year} is loaded)."))
+            return out
+        out["act"] = {"year": int(year), "act": int(act), "targets": targets}
         return out
     if intent == "outline":
         out["outline"] = outline(con, obj)
@@ -404,14 +411,21 @@ def answer(con, q):
             return out
     if intent == "who":
         out["bodies"] = [body_detail(con, b) for b in find_body(con, obj)[:5]]
-        if not out["bodies"]:
-            out["results"] = search(con, f"{obj} department OR board OR commission OR office", None, False, 10)
         out["read_as"] = f'Which part of government handles "{obj}"'
+        if not out["bodies"]:
+            out["no_match"] = (f'No part of the government map is named "{obj}". '
+                               f'Below: sections of law that mention it, which may name who handles it.')
+            out["results"] = search(con, obj, None, False, 10)
         return out
     if intent == "appeal":
         b = find_body(con, obj)[:1] if obj else []
-        out["appeal_path"] = appeal_path(con, b[0]["id"] if b else "hi.jud.district")
         out["read_as"] = "Where decisions go next, by law"
+        if obj and not b:
+            out["no_match"] = (f'No court or agency named "{obj}" is in the government map. '
+                               'Try a court (district court, circuit court, family court, land court, tax appeal court) '
+                               'or a department (department of health).')
+            return out
+        out["appeal_path"] = appeal_path(con, b[0]["id"] if b else "hi.jud.district")
         return out
     if intent == "access":
         out["access"] = [dict(r) for r in con.execute("select a.*, b.name as body_name from access_rule a left join body b on b.id=a.body_id")]
@@ -544,6 +558,8 @@ def p_answer(a, con):
             print(f"  implemented by {len(rules)} administrative rule section(s): " + ", ".join(r["citation"] for r in rules[:12]))
         if cb:
             print("  cited by: " + ", ".join(c["citation"] for c in cb if c["kind"] == "cites")[:600])
+    if a.get("no_match"):
+        print(f"  {a['no_match']}\n")
     if a.get("not_here"):
         n = a["not_here"]
         print(f"  {B}{n['citation']}{R} is not in this database.")

@@ -123,6 +123,16 @@ def pdf_text(data):
         return "\n".join([first] + [ocr_page(pdf, i, d) for i in range(2, pages + 1)]), True
 
 
+def fix_heading(heading, body):
+    """A heading that wraps in the PDF ends at its first period; pull the rest back from the body."""
+    if heading.rstrip().endswith((".", ":", "]", ")")) or not body:
+        return heading, body
+    m = re.match(r"^([^.\n]{1,120}?\.)\s*(.*)$", body, re.S)
+    if not m or "\n\n" in m.group(1):
+        return heading, body
+    return f"{heading.rstrip()} {re.sub(chr(10), ' ', m.group(1)).strip()}", m.group(2).strip()
+
+
 NOISE = re.compile(r"^[ \t]*(?:§[ \t]*)?\d{1,2}-\d+(?:\.\d+)?[A-Z]?(?:-[\d.]+[A-Z]?)?[ \t]*$", re.M)
 
 
@@ -139,6 +149,7 @@ def split_sections(text):
         hm = re.match(r"^(.+?\.)(?:\s+(.*))?$", line)
         heading, lead = (hm.group(1), hm.group(2) or "") if hm else (line, "")
         chunk = re.sub(r"\n\s*\n+", "\n", lead + "\n" + re.sub(r"[ \t]+", " ", body)).strip()
+        heading, chunk = fix_heading(heading, chunk)
         if sid not in best or len(chunk) > len(best[sid][1]):
             best[sid] = (heading, chunk)
     return best
@@ -229,6 +240,8 @@ def merge(out, partial):
     for line in open(partial):
         r = json.loads(line)
         log.append((r["url"], r["page"], r["label"], r["status"], r["chapter"], len(r["sections"])))
+        for sec in r["sections"]:
+            sec["heading"], sec["text"] = fix_heading(sec["heading"], sec["text"])
         if r["sections"] and (r["chapter"] not in by_chapter or len(r["sections"]) > len(by_chapter[r["chapter"]])):
             by_chapter[r["chapter"]] = r["sections"]
     with open(out / "har_sections.jsonl", "w") as f:
