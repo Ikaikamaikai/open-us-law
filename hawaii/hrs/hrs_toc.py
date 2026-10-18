@@ -229,7 +229,7 @@ def parse(pdf):
                      "chapter": chap, "article": art or "", "article_name": "", "part": m.group(1), "part_name": "",
                      "kind": "subpart", "page": page}
             continue
-        if chap and line.strip().isupper() and not re.search(r"\d", line) and not line.startswith(" "):
+        if chap and line.strip().isupper() and not re.search(r"\d", line) and len(line) - len(line.lstrip()) <= 2:
             finish()
             continue            # e.g. "REFERENCE TABLE" at the margin: a caption, not part of the outline
         if chap and line.startswith(" "):
