@@ -242,3 +242,65 @@ CREATE TABLE IF NOT EXISTS record_part (
   page_to   INTEGER,
   PRIMARY KEY (record_id, ord)
 );
+
+------------------------------------------------------------------------------------
+-- FILES AND LISTINGS: the original files records came from, each with its SHA-256
+-- fingerprint, and each entry on a public listing page as seen on a given day.
+------------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS source_file (
+  sha256            TEXT PRIMARY KEY,      -- the file's fingerprint; changes if even one byte changes
+  original_filename TEXT NOT NULL,         -- the file name exactly as the publisher gave it
+  source_url        TEXT NOT NULL,         -- where it was downloaded from
+  retrieved         TEXT NOT NULL,         -- ISO date it was downloaded
+  size_bytes        INTEGER NOT NULL,
+  media_type        TEXT,                  -- application/pdf, text/html ...
+  local_path        TEXT,                  -- where the file sits on your computer, relative to its download folder
+  page_count        INTEGER,
+  has_text_layer    INTEGER                -- 1 = text can be copied out; 0 = page images that need OCR; NULL = not checked
+);
+CREATE TABLE IF NOT EXISTS record_file (
+  record_id TEXT NOT NULL REFERENCES record(id),
+  sha256    TEXT NOT NULL REFERENCES source_file(sha256),
+  PRIMARY KEY (record_id, sha256)
+);
+CREATE TABLE IF NOT EXISTS listing_entry (
+  source_page_url TEXT NOT NULL,           -- the listing page, e.g. the OAH decision search
+  seen_on         TEXT NOT NULL,           -- ISO date the page was read
+  listing_order   INTEGER NOT NULL,        -- position on the page that day
+  listing_title   TEXT NOT NULL,           -- title exactly as shown
+  program         TEXT,                    -- category exactly as shown, e.g. "REAL ESTATE"
+  record_id       TEXT NOT NULL REFERENCES record(id),
+  PRIMARY KEY (source_page_url, seen_on, listing_order)
+);
+CREATE INDEX IF NOT EXISTS listing_entry_record ON listing_entry(record_id);
+
+-- Franchise Disclosure Documents with one column per item (16 C.F.R. § 436.5 (a) to (w)).
+-- A view over record_part, so each item's text is stored once.
+CREATE VIEW IF NOT EXISTS fdd_items AS
+SELECT r.id AS record_id, r.title, r.date, r.source_url, r.retrieved,
+  max(CASE WHEN p.label = 'Item 1'  THEN p.text END) AS item_01_franchisor,
+  max(CASE WHEN p.label = 'Item 2'  THEN p.text END) AS item_02_business_experience,
+  max(CASE WHEN p.label = 'Item 3'  THEN p.text END) AS item_03_litigation,
+  max(CASE WHEN p.label = 'Item 4'  THEN p.text END) AS item_04_bankruptcy,
+  max(CASE WHEN p.label = 'Item 5'  THEN p.text END) AS item_05_initial_fees,
+  max(CASE WHEN p.label = 'Item 6'  THEN p.text END) AS item_06_other_fees,
+  max(CASE WHEN p.label = 'Item 7'  THEN p.text END) AS item_07_estimated_initial_investment,
+  max(CASE WHEN p.label = 'Item 8'  THEN p.text END) AS item_08_restrictions_on_sources,
+  max(CASE WHEN p.label = 'Item 9'  THEN p.text END) AS item_09_franchisee_obligations,
+  max(CASE WHEN p.label = 'Item 10' THEN p.text END) AS item_10_financing,
+  max(CASE WHEN p.label = 'Item 11' THEN p.text END) AS item_11_franchisor_assistance,
+  max(CASE WHEN p.label = 'Item 12' THEN p.text END) AS item_12_territory,
+  max(CASE WHEN p.label = 'Item 13' THEN p.text END) AS item_13_trademarks,
+  max(CASE WHEN p.label = 'Item 14' THEN p.text END) AS item_14_patents_copyrights_proprietary,
+  max(CASE WHEN p.label = 'Item 15' THEN p.text END) AS item_15_obligation_to_participate,
+  max(CASE WHEN p.label = 'Item 16' THEN p.text END) AS item_16_restrictions_on_what_may_be_sold,
+  max(CASE WHEN p.label = 'Item 17' THEN p.text END) AS item_17_renewal_termination_transfer,
+  max(CASE WHEN p.label = 'Item 18' THEN p.text END) AS item_18_public_figures,
+  max(CASE WHEN p.label = 'Item 19' THEN p.text END) AS item_19_financial_performance,
+  max(CASE WHEN p.label = 'Item 20' THEN p.text END) AS item_20_outlets_and_franchisee_information,
+  max(CASE WHEN p.label = 'Item 21' THEN p.text END) AS item_21_financial_statements,
+  max(CASE WHEN p.label = 'Item 22' THEN p.text END) AS item_22_contracts,
+  max(CASE WHEN p.label = 'Item 23' THEN p.text END) AS item_23_receipts
+FROM record r LEFT JOIN record_part p ON p.record_id = r.id
+WHERE r.structure_id = 'fdd'
+GROUP BY r.id;

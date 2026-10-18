@@ -90,6 +90,24 @@ so every rebuild includes it. Only `id`, `kind` and `source_url` are required; e
 `body_id` is any id from the government map (`hi.jud.circuit`, `hi.exec.dept.26-9`, `co.honolulu`, …).
 `structure_id` (for example `fdd`) marks a document that follows a mandated layout, and `parts` holds its sections.
 
+Two more optional keys record where a record came from:
+
+```json
+"files": [{"sha256": "<SHA-256 of the file>", "original_filename": "<name as published>", "source_url": "<download address>",
+           "retrieved": "YYYY-MM-DD", "size_bytes": 123, "media_type": "application/pdf", "local_path": "<path on your computer>"}],
+"listings": [{"source_page_url": "<listing page>", "seen_on": "YYYY-MM-DD", "listing_order": 1,
+              "listing_title": "<title as shown>", "program": "<category as shown>"}]
+```
+
+### Office of Administrative Hearings decisions
+
+1. Download every decision PDF on Windows: `powershell -ExecutionPolicy Bypass -File oah/download-hi-dcca-oah-pdfs_2026-10-18.ps1`.
+   It keeps the state's file names, checks each file is a complete PDF, and writes a manifest with each file's size,
+   SHA-256 and download date, plus a dated copy of the search page. Run it again to resume.
+2. Turn them into records: `python oah/oah_records.py --pdfs <download folder> --out data/records/hi-dcca-oah-decisions_<date>.jsonl`.
+   It re-checks every PDF against the manifest and writes the records file only if every check passes.
+3. `python hi.py load data/records/hi-dcca-oah-decisions_<date>.jsonl`, or rebuild.
+
 ## What is in it
 
 | Source | Sections | From |
