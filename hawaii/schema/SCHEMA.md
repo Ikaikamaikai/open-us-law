@@ -100,3 +100,17 @@ Parts are parsed from the requiring provision's text, so they change when the la
 Records come in through `hi.py load <file.jsonl>`; the line format is in the [README](../README.md#add-your-records).
 A record whose `structure_id` is `fdd` and whose `parts` are labelled `Item 1` … `Item 23` lines up item by item
 with what 16 C.F.R. § 436.5 requires.
+
+## Files and listings
+
+| Table | One row is | Key columns |
+|---|---|---|
+| `source_file` | one original file as downloaded | `sha256` (fingerprint), `original_filename`, `source_url`, `retrieved`, `size_bytes`, `local_path`, `has_text_layer` |
+| `record_file` | which file a record came from | `record_id`, `sha256` |
+| `listing_entry` | one entry on a public listing page on a given day | `source_page_url`, `seen_on`, `listing_order`, `listing_title`, `program`, `record_id` |
+
+A record's `files` and `listings` (see the README) fill these tables. If the publisher replaces a file, the new
+file has a new fingerprint and gets its own row; the old row stays.
+
+`fdd_items` is a view with one column per FDD item (`item_01_franchisor` … `item_23_receipts`), read from
+`record_part` for records whose `structure_id` is `fdd`. The text is stored once, in `record_part`.

@@ -663,6 +663,16 @@ def insert_records(con, path):
         for i, part in enumerate(r.get("parts", []), 1):
             con.execute("insert or replace into record_part values (?,?,?,?,?,?)",
                         (r["id"], part.get("ord", i), part.get("label"), part.get("text"), part.get("page_from"), part.get("page_to")))
+        con.execute("delete from record_file where record_id = ?", (r["id"],))
+        for f in r.get("files", []):
+            con.execute("insert or replace into source_file values (?,?,?,?,?,?,?,?,?)",
+                        (f["sha256"], f["original_filename"], f["source_url"], f["retrieved"], f["size_bytes"], f.get("media_type"),
+                         f.get("local_path"), f.get("page_count"), f.get("has_text_layer")))
+            con.execute("insert or ignore into record_file values (?,?)", (r["id"], f["sha256"]))
+        con.execute("delete from listing_entry where record_id = ?", (r["id"],))
+        for e in r.get("listings", []):
+            con.execute("insert or replace into listing_entry values (?,?,?,?,?,?)",
+                        (e["source_page_url"], e["seen_on"], e["listing_order"], e["listing_title"], e.get("program"), r["id"]))
         n += 1
     con.execute("insert into record_fts(record_fts) values ('rebuild')")
     return n
