@@ -1,0 +1,812 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Hawaii Public Info: the published law of Hawaii and the United States, the structure of government, and public records, searchable on your own computer.">
+<title>Hawaii Public Info</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='none' stroke='%231f6f84' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%231f6f84'/%3E%3C/svg%3E">
+<style>
+/*@fonts*/
+@font-face { font-family: "Lab Mono Web"; src: url("fonts/labmono-regular-web.woff2") format("woff2"), url("fonts/labmono-regular-web.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
+
+:root {
+  --font: "Drafting Mono", ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Consolas, monospace;
+  --brand: "Lab Mono Web", "Drafting Mono", ui-monospace, monospace;
+  --bg: oklch(98.3% .006 85); --surface: oklch(99.7% .002 85); --sunk: oklch(96.2% .007 85);
+  --ink: oklch(23% .012 80); --muted: oklch(46% .012 80); --line: oklch(88.5% .01 85);
+  --accent: oklch(45% .085 215); --accent-ink: oklch(99% 0 0); --accent-soft: oklch(94.5% .03 215);
+  --done: oklch(47% .12 150); --part: oklch(52% .12 65); --ready: oklch(48% .13 260); --todo: oklch(55% .01 80);
+  --bad: oklch(50% .16 35); --mark: oklch(92% .09 95);
+  --r: 10px; --gap: clamp(12px, 2.2vw, 22px); --bar-h: 64px;
+  --s-1: .8rem; --s0: .92rem; --s1: 1.06rem; --s2: 1.3rem; --s3: 1.6rem; --s5: clamp(1.7rem, 1rem + 3.4vw, 3rem);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: oklch(17.5% .012 230); --surface: oklch(21% .013 230); --sunk: oklch(15.5% .012 230);
+    --ink: oklch(93% .006 85); --muted: oklch(72% .012 85); --line: oklch(32% .014 230);
+    --accent: oklch(79% .1 205); --accent-ink: oklch(18% .02 230); --accent-soft: oklch(28% .045 215);
+    --done: oklch(78% .14 150); --part: oklch(82% .13 80); --ready: oklch(78% .11 260); --todo: oklch(66% .01 85);
+    --bad: oklch(76% .13 40); --mark: oklch(42% .08 95);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: oklch(17.5% .012 230); --surface: oklch(21% .013 230); --sunk: oklch(15.5% .012 230);
+  --ink: oklch(93% .006 85); --muted: oklch(72% .012 85); --line: oklch(32% .014 230);
+  --accent: oklch(79% .1 205); --accent-ink: oklch(18% .02 230); --accent-soft: oklch(28% .045 215);
+  --done: oklch(78% .14 150); --part: oklch(82% .13 80); --ready: oklch(78% .11 260); --todo: oklch(66% .01 85);
+  --bad: oklch(76% .13 40); --mark: oklch(42% .08 95);
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body { margin: 0; min-height: 100dvh; display: flex; flex-direction: column; background: var(--bg); color: var(--ink);
+       font: 400 var(--s0)/1.6 var(--font); font-feature-settings: "calt" 1; font-variant-ligatures: contextual; }
+a { color: var(--accent); text-underline-offset: .18em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+[hidden] { display: none !important; }
+.vh { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.skip { position: absolute; left: 12px; top: -60px; background: var(--accent); color: var(--accent-ink); padding: 8px 12px; border-radius: 8px; z-index: 20; }
+.skip:focus { top: 10px; }
+kbd { font: 500 var(--s-1)/1 var(--font); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 2px 5px; background: var(--surface); color: var(--muted); }
+code { font-family: var(--font); background: var(--sunk); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px; font-size: .92em; overflow-wrap: anywhere; }
+
+/* masthead */
+.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 16px; padding-top: max(10px, env(safe-area-inset-top)); }
+.brand-sm { font: 400 var(--s0) var(--brand); letter-spacing: .02em; color: var(--ink); text-decoration: none; visibility: hidden; }
+body.has-q .brand-sm, body:not([data-view="search"]) .brand-sm { visibility: visible; }
+.nav { display: flex; gap: 4px; align-items: center; }
+.nav a, .icon-btn { display: inline-flex; align-items: center; gap: 6px; min-height: 36px; min-width: 36px; padding: 4px 10px; border-radius: 8px;
+                    color: var(--muted); text-decoration: none; border: 1px solid transparent; background: none; cursor: pointer; }
+.nav a:hover, .icon-btn:hover { color: var(--ink); background: var(--sunk); }
+.nav a[aria-current="page"] { color: var(--ink); border-color: var(--line); background: var(--surface); }
+
+.brand-sm { white-space: nowrap; }
+@media (max-width: 520px) {
+  .nav a[data-nav="search"], #theme-label { display: none; }
+  .nav a, .icon-btn { padding: 4px 8px; }
+}
+main { flex: 1; width: 100%; max-width: 1240px; margin: 0 auto; padding: 0 16px 40px; }
+
+/* search */
+.hero { display: grid; justify-items: center; gap: 14px; padding-top: clamp(40px, 20vh, 200px); padding-bottom: 8px; }
+.wordmark { margin: 0; font: 300 var(--s5)/1.1 var(--brand); letter-spacing: -.01em; text-align: center; }
+.wordmark span { color: var(--accent); }
+.tagline { margin: -4px 0 6px; color: var(--muted); font-size: var(--s-1); text-align: center; max-width: 60ch; }
+.bar { view-transition-name: bar; width: min(100%, 720px); display: flex; align-items: center; gap: 10px; background: var(--surface);
+       border: 1px solid var(--line); border-radius: 14px; padding: 0 10px 0 16px; min-height: 56px;
+       box-shadow: 0 1px 2px oklch(0% 0 0 / .05), 0 8px 24px -16px oklch(0% 0 0 / .25); }
+.bar:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.bar svg { flex: none; color: var(--muted); }
+.bar input { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; font-size: var(--s1); padding: 14px 0; }
+.bar input::placeholder { color: var(--muted); opacity: .85; }
+.bar input::-webkit-search-cancel-button { display: none; }
+.clear { display: none; }
+body.has-q .clear { display: inline-flex; }
+.engine { margin: 0; font-size: var(--s-1); color: var(--muted); text-align: center; max-width: 72ch; }
+.engine .dot { display: inline-block; width: .6em; height: .6em; border-radius: 50%; margin-right: .5em; vertical-align: .05em; background: var(--todo); }
+.engine.up .dot { background: var(--done); }
+.examples { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 6px 0 0; padding: 0; list-style: none; max-width: 760px; }
+.examples button, .chip { min-height: 32px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface);
+                          color: var(--ink); cursor: pointer; font-size: var(--s-1); text-align: left; }
+.examples button:hover, .chip:hover { border-color: var(--accent); color: var(--accent); }
+body.has-q .hero { position: sticky; top: 0; z-index: 5; padding: 8px 0 10px; background: linear-gradient(var(--bg) 85%, transparent); }
+body.has-q .wordmark, body.has-q .tagline, body.has-q .examples, body.has-q .engine { display: none; }
+body.has-q .bar { width: 100%; max-width: none; min-height: 50px; }
+
+.readas { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 10px; min-height: 1.6em; margin: 4px 2px 10px; color: var(--muted); font-size: var(--s-1); }
+.intent { font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); border: 1px solid currentColor; border-radius: 999px; padding: 0 8px; }
+
+.split { display: grid; grid-template-columns: minmax(15rem, 23rem) minmax(0, 1fr); gap: var(--gap); align-items: start; }
+body:not(.has-list) .split { grid-template-columns: minmax(0, 1fr); }
+body:not(.has-list) .list { display: none; }
+@media (max-width: 880px) { .split { grid-template-columns: minmax(0, 1fr); } }
+.list { display: flex; flex-direction: column; gap: 2px; position: sticky; top: 84px; max-height: calc(100dvh - 100px); overflow: auto; overscroll-behavior: contain;
+        padding: 2px; scrollbar-width: thin; }
+@media (max-width: 880px) { .list { position: static; max-height: 42vh; border-bottom: 1px solid var(--line); padding-bottom: 8px; } }
+.opt { padding: 9px 12px; border-radius: 9px; border: 1px solid transparent; cursor: pointer; }
+.opt:hover { background: var(--surface); }
+.opt[aria-selected="true"] { background: var(--accent-soft); border-color: var(--accent); }
+.opt-title { font-weight: 600; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.opt-sub { color: var(--muted); font-size: var(--s-1); }
+.snip { display: block; font-size: var(--s-1); margin-top: 3px; overflow-wrap: anywhere; }
+mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 2px; }
+
+.reader { container-type: inline-size; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: clamp(16px, 3vw, 30px); min-height: 8rem; overflow-wrap: anywhere; }
+.reader:empty { display: none; }
+.reader:focus { outline: none; }
+.eyebrow { margin: 0 0 4px; font-size: var(--s-1); color: var(--muted); }
+.reader h2 { margin: 0; font: 600 var(--s3)/1.25 var(--font); letter-spacing: -.01em; }
+.reader h3 { margin: 0 0 8px; font: 600 .76rem/1.4 var(--font); text-transform: uppercase; letter-spacing: .09em; color: var(--muted); }
+.heading { margin: 4px 0 0; font-size: var(--s1); }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.tag { font-size: .76rem; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
+.tag.bad { color: var(--bad); border-color: currentColor; }
+.tag.ok { color: var(--done); border-color: currentColor; }
+.actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+.btn { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 10px; border-radius: 8px; border: 1px solid var(--line);
+       background: var(--bg); cursor: pointer; font-size: var(--s-1); text-decoration: none; color: var(--ink); }
+.btn:hover { border-color: var(--accent); color: var(--accent); }
+.text { white-space: pre-wrap; max-width: 76ch; margin: 18px 0; font-size: var(--s0); line-height: 1.7; }
+.source { font-size: var(--s-1); color: var(--muted); }
+.block { margin-top: 18px; border-top: 1px solid var(--line); padding-top: 14px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border-radius: 7px; }
+.quote { border-left: 3px solid var(--accent); padding: 4px 12px; margin: 8px 0; font-style: italic; max-width: 76ch; }
+.rows { list-style: none; margin: 0; padding: 0; }
+.rows li { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--line); }
+.rows li:last-child { border-bottom: 0; }
+.rows li.go { cursor: pointer; }
+.rows li.go:hover { color: var(--accent); }
+.rows .k { font-weight: 600; white-space: pre; }
+.steps { list-style: none; margin: 14px 0 0; padding: 0; }
+.steps li { position: relative; padding: 0 0 18px 26px; }
+.steps li::before { content: ""; position: absolute; left: 6px; top: .55em; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+.steps li:not(:last-child)::after { content: ""; position: absolute; left: 10px; top: 1.3em; bottom: 0; width: 2px; background: var(--line); }
+.steps .via { color: var(--muted); font-size: var(--s-1); }
+.note { background: var(--sunk); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; font-size: var(--s-1); }
+.note p { margin: 0 0 6px; } .note p:last-child { margin: 0; }
+.muted { color: var(--muted); }
+
+/* shape */
+.page-head h1 { margin: 18px 0 6px; font: 400 var(--s3)/1.2 var(--brand); }
+.page-head p { margin: 0 0 6px; max-width: 72ch; color: var(--muted); }
+.rings { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 12px; margin: 18px 0; }
+.ring { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; }
+.ring h2 { margin: 0 0 2px; font: 600 var(--s1) var(--font); }
+.ring .order { font-size: .74rem; color: var(--muted); text-transform: uppercase; letter-spacing: .09em; }
+.ring p { margin: 6px 0 0; font-size: var(--s-1); color: var(--muted); }
+.segs { display: flex; height: 8px; border-radius: 99px; overflow: hidden; background: var(--sunk); margin-top: 10px; }
+.segs i { display: block; height: 100%; }
+.c-done { background: var(--done); } .c-part { background: var(--part); } .c-ready { background: var(--ready); } .c-todo { background: var(--todo); opacity: .45; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 4px 0 10px; }
+.filter { flex: 1 1 16rem; display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 0 12px; min-height: 40px; }
+.filter:focus-within { border-color: var(--accent); }
+.filter input { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; padding: 8px 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: var(--s-1); color: var(--muted); margin: 0 0 12px; padding: 0; list-style: none; }
+.st { display: inline-grid; place-items: center; width: 1.45em; height: 1.45em; border-radius: 50%; font-size: .8em; font-weight: 600; flex: none; border: 1.5px solid currentColor; }
+.st.done { color: var(--done); } .st.part { color: var(--part); } .st.ready { color: var(--ready); } .st.todo { color: var(--todo); }
+.st.done::before { content: "✓"; } .st.part::before { content: "◐"; } .st.ready::before { content: "↓"; } .st.todo::before { content: ""; }
+.tree, .tree ul { list-style: none; margin: 0; padding: 0; }
+.tree ul { margin-left: .7em; padding-left: 1.2em; border-left: 1px dashed var(--line); }
+.tree > li > details { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 6px 12px; margin-bottom: 10px; }
+.tree summary { cursor: pointer; list-style: none; padding: 6px 0; }
+.tree summary::-webkit-details-marker { display: none; }
+.tree summary .row::before { content: "▸"; color: var(--muted); width: 1em; flex: none; transition: transform .15s; }
+.tree details[open] > summary .row::before { transform: rotate(90deg); }
+.row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.row .name { font-weight: 600; flex: 1 1 14rem; }
+.tree > li > details > summary .name { font-size: var(--s1); }
+.row .amt { color: var(--muted); font-size: var(--s-1); white-space: nowrap; }
+.meter { width: 90px; height: 6px; border-radius: 99px; background: var(--sunk); overflow: hidden; flex: none; }
+.meter i { display: block; height: 100%; width: var(--p); background: var(--done); }
+.leaf { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.tree ul > li:last-child > .leaf { border-bottom: 0; }
+.leaf .name { font-weight: 400; }
+.leaf .more { margin: 4px 0 0 calc(1.45em + 10px); font-size: var(--s-1); color: var(--muted); display: grid; gap: 3px; }
+.leaf .more a { overflow-wrap: anywhere; }
+.leaf.hit .name { color: var(--accent); }
+.group-note { margin: 0 0 6px; font-size: var(--s-1); color: var(--muted); }
+
+/* about */
+.prose { max-width: 78ch; }
+.prose h2 { font: 600 var(--s2) var(--font); margin: 30px 0 8px; }
+.prose h3 { font: 600 var(--s1) var(--font); margin: 18px 0 6px; }
+.prose p, .prose li { color: var(--ink); }
+.prose ol, .prose ul { padding-left: 1.4em; }
+.prose li { margin: 4px 0; }
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--r); margin: 10px 0; }
+table { border-collapse: collapse; width: 100%; font-size: var(--s-1); }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: var(--sunk); font-weight: 600; }
+tr:last-child td { border-bottom: 0; }
+
+footer { color: var(--muted); font-size: var(--s-1); text-align: center; padding: 18px 16px calc(18px + env(safe-area-inset-bottom)); }
+
+::view-transition-group(*) { animation-duration: .2s; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+@media print {
+  .top, .hero, .readas, .list, .actions, footer, .toolbar, .skip { display: none !important; }
+  body { background: #fff; color: #000; }
+  .reader, .ring, .tree > li > details { border: 0; padding: 0; }
+  .split { display: block; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: .85em; }
+  details { display: block; }
+}
+</style>
+</head>
+<body data-view="search">
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <a class="brand-sm" href="#/">Hawaii Public Info</a>
+  <nav class="nav" aria-label="Views">
+    <a href="#/" data-nav="search">Search</a>
+    <a href="#/shape" data-nav="shape">Shape</a>
+    <a href="#/about" data-nav="about">About</a>
+    <button class="icon-btn" id="theme" type="button" title="Light or dark">◐ <span id="theme-label">auto</span></button>
+  </nav>
+</header>
+
+<main id="main" tabindex="-1">
+  <section id="v-search" aria-label="Search">
+    <div class="hero">
+      <h1 class="wordmark">Hawaii Public Info</h1>
+      <p class="tagline">The published law, the parts of government, and public records. On your computer. Published text and where it came from; not legal advice.</p>
+      <form class="bar" role="search" id="bar" autocomplete="off">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <label class="vh" for="q">Search the law, government and records</label>
+        <input id="q" type="search" spellcheck="false" autocapitalize="off" enterkeyhint="search"
+               role="combobox" aria-expanded="false" aria-controls="list" aria-autocomplete="list"
+               placeholder="HRS 92F-12 · define franchise · who regulates public utilities">
+        <button class="icon-btn clear" type="button" id="clear" aria-label="Clear">✕</button>
+        <kbd aria-hidden="true">/</kbd>
+      </form>
+      <p class="engine" id="engine" aria-live="polite"></p>
+      <ul class="examples" id="examples" aria-label="Examples"></ul>
+    </div>
+    <p class="readas" id="readas" aria-live="polite"></p>
+    <div class="split">
+      <div class="list" id="list" role="listbox" aria-label="Results"></div>
+      <article class="reader" id="reader" tabindex="-1" aria-live="polite"></article>
+    </div>
+  </section>
+
+  <section id="v-shape" aria-labelledby="shape-title" hidden>
+    <header class="page-head">
+      <h1 id="shape-title">The shape of everything</h1>
+      <p>Every body of law and set of public records, starting at home in Hawaii and going outward. Each line says how much of it is here, and where the rest is published.</p>
+      <p id="shape-meta"></p>
+    </header>
+    <div class="rings" id="rings"></div>
+    <div class="toolbar">
+      <label class="filter"><span class="vh">Filter the list</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="sf" type="search" placeholder="Filter: rules, county, Maui, regulations, not started">
+      </label>
+      <button class="btn" type="button" id="open-all">Open all</button>
+      <button class="btn" type="button" id="close-all">Close all</button>
+      <button class="btn" type="button" id="dl-md">Download checklist</button>
+      <button class="btn" type="button" onclick="print()">Print</button>
+    </div>
+    <ul class="legend">
+      <li><span class="st done" aria-hidden="true"></span> here, complete</li>
+      <li><span class="st part" aria-hidden="true"></span> here in part</li>
+      <li><span class="st ready" aria-hidden="true"></span> ready: one step away</li>
+      <li><span class="st todo" aria-hidden="true"></span> not started</li>
+    </ul>
+    <p class="muted" id="shape-count" aria-live="polite"></p>
+    <ul class="tree" id="tree"></ul>
+  </section>
+
+  <section id="v-about" class="prose" aria-labelledby="about-title" hidden>
+    <header class="page-head"><h1 id="about-title">About Hawaii Public Info</h1></header>
+    <p>Hawaii Public Info collects the published law of Hawaii and the United States, the parts of government and the laws that create them, and the public records you add, and lets you search all of it on your own computer. It shows each text as published and links to where it came from. It does not give legal advice, characterize anything, or decide anything for you.</p>
+
+    <h2>Two ways to open it</h2>
+    <h3>1. This file by itself</h3>
+    <p>Double-click it. The Shape, this page, and a search of the Shape work with no program and no internet.</p>
+    <h3>2. With the search engine: everything</h3>
+    <ol>
+      <li>Install Python 3 from python.org (nothing else is needed to search).</li>
+      <li>Put the database at <code>hawaii/data/hawaii.db</code> (from the database download), or build it once: <code>pip install duckdb pdfplumber</code>, then <code>python3 fetch.py</code> and <code>python3 build.py</code> in the <code>hawaii</code> folder.</li>
+      <li>In the <code>hawaii</code> folder run <code>python3 hi.py serve</code> (on Windows: <code>py hi.py serve</code>).</li>
+      <li>Open <a href="http://127.0.0.1:8808">http://127.0.0.1:8808</a>. It answers only this computer.</li>
+    </ol>
+    <p>The same engine answers in the terminal (<code>python3 hi.py HRS 92F-12</code>) and to AI apps that speak MCP (<code>python3 hi.py mcp</code>; see README.md).</p>
+
+    <h2>What you can type</h2>
+    <div class="table-wrap"><table>
+      <thead><tr><th>You type</th><th>You get</th></tr></thead>
+      <tbody>
+        <tr><td>HRS 92F-12 · Haw. Rev. Stat. § 26-4 · 26-4</td><td>the statute, what is next to it, what cites it, the rules that implement it, and the 2025 acts that changed it</td></tr>
+        <tr><td>HAR 16-37-3 · HRCP 23 · FRCP 23 · 42 USC 1983 · 16 CFR 436.5 · haw const art 6 sec 1</td><td>that rule, code section or constitutional provision</td></tr>
+        <tr><td>chapter 92F</td><td>the chapter's outline from the official Table of Contents</td></tr>
+        <tr><td>act 53 · act 53 of 2025</td><td>what a 2025 act changed, from the official Table of Disposition</td></tr>
+        <tr><td>define franchise</td><td>every definition of the word written in the law</td></tr>
+        <tr><td>who regulates public utilities</td><td>the part of government, the law that creates it, what it belongs to and contains</td></tr>
+        <tr><td>appeal from district court</td><td>each step a decision can take next, and the law for each step</td></tr>
+        <tr><td>public records</td><td>the laws that open records and meetings, and who administers them</td></tr>
+        <tr><td>rules for HRS 482E-3 · cited by HRS 480-2</td><td>the rules that implement a statute; what cites a section</td></tr>
+        <tr><td>fdd</td><td>the 23 items of a Franchise Disclosure Document</td></tr>
+        <tr><td>class action in court rules</td><td>full-text search, limited to one source</td></tr>
+        <tr><td>gaps</td><td>how this copy of the statutes compares with the official documents</td></tr>
+        <tr><td>anything else</td><td>full-text search across everything, including your records</td></tr>
+      </tbody>
+    </table></div>
+    <p>Keys: <kbd>/</kbd> or <kbd>Ctrl</kbd> <kbd>K</kbd> to type · <kbd>↑</kbd> <kbd>↓</kbd> to move · <kbd>Enter</kbd> to search now · <kbd>Esc</kbd> to clear. Every search and section has its own address, so the browser's back button, bookmarks and history work.</p>
+
+    <h2>How it is designed, and why</h2>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Idea</th><th>Where you see it</th></tr></thead>
+      <tbody>
+        <tr><td>One box (the first Google page; command palettes like Spotlight and Raycast)</td><td>The first screen is one field. Citations, questions and plain words all go in it.</td></tr>
+        <tr><td>Local-first software (Ink &amp; Switch, 2019)</td><td>The data and the engine are on your computer. No account, no cloud, no API key; it keeps working offline.</td></tr>
+        <tr><td>Show the source (provenance)</td><td>Every passage links to its official publisher. Anything parsed says how it was checked, like ✓ quote found in the law.</td></tr>
+        <tr><td>Say how a question was read</td><td>The line under the box shows how your words were understood, so nothing is guessed behind your back.</td></tr>
+        <tr><td>Honest empty states</td><td>When something is not here, it says so and where it is published, instead of showing something close.</td></tr>
+        <tr><td>Progressive disclosure</td><td>Details open only when you ask: results, then a section, then what cites it.</td></tr>
+        <tr><td>Recognition over recall (Nielsen)</td><td>Examples under the box; the shape of everything is a list you can open, not something to remember.</td></tr>
+        <tr><td>Accessible by default (WCAG 2.2 AA)</td><td>Everything works from the keyboard; focus is always visible; targets are at least 24 px; status is shown by symbol and word, not color alone; screen readers hear results as they change.</td></tr>
+        <tr><td>Calm technology (Weiser and Brown; Amber Case)</td><td>No ads, banners, pop-ups, notifications or tracking. Motion only shows where something went, and stops if your system asks for less motion.</td></tr>
+        <tr><td>Plain language</td><td>Short labels and sentences. It says what it is not.</td></tr>
+        <tr><td>Your system's settings</td><td>Light or dark follows your system; the switch remembers your choice on this computer only. Text sizes follow your browser's zoom.</td></tr>
+        <tr><td>Type made for drafting</td><td>Drafting Mono (Owen Earl, indestructible type*, SIL Open Font License 1.1), a typewriter rhythm for working documents, set at a reading measure of at most 76 characters. The name is set in Lab Mono when its font file is in <code>fonts/</code>.</td></tr>
+        <tr><td>One file, no dependencies</td><td>No framework, no font or script from the internet. The page opens the same way in ten years.</td></tr>
+        <tr><td>Print and copy</td><td>A section prints cleanly with its source address; copy buttons include the citation and source.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h2>Compared with the paid service it was modeled on</h2>
+    <p>Vaquill sells a legal API and publishes the open dataset most of this law comes from. Its 30-path API, read from its published OpenAPI file (api.vaquill.ai/external/openapi.json, October 2026), lines up with this tool as follows:</p>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Vaquill API</th><th>Here (free, on your computer)</th></tr></thead>
+      <tbody>
+        <tr><td>statutes/search</td><td>the box; <code>hi.py find</code>; MCP <code>search</code></td></tr>
+        <tr><td>statutes/resolve (one or many)</td><td>type the citation; MCP <code>resolve_citation</code>, <code>extract_citations</code></td></tr>
+        <tr><td>section, section/body, section/related</td><td>the reader, with what is next to it</td></tr>
+        <tr><td>section/definitions, section/cited-by</td><td><code>define …</code>; Cited by in the reader</td></tr>
+        <tr><td>extract-citations</td><td>MCP <code>extract_citations</code></td></tr>
+        <tr><td>coverage, count, divisions</td><td>the Shape; <code>chapter …</code> outlines; <code>hi.py coverage</code></td></tr>
+        <tr><td>section/changes, section/enactments, session-laws</td><td>2025 acts for each section and <code>act …</code> (from the Table of Disposition; act text is not collected yet)</td></tr>
+        <tr><td>section/cross-state</td><td>not here: other states are in the Shape, ready to pull</td></tr>
+        <tr><td>watches and change feeds</td><td>not here yet</td></tr>
+        <tr><td>credits, balance, pricing</td><td>nothing to pay</td></tr>
+        <tr><td>(not in their API)</td><td>the government map, appeal paths, public-access laws, Hawaii Administrative Rules text and the rules each statute has, required document layouts, your own records, completeness checks</td></tr>
+      </tbody>
+    </table></div>
+
+    <h2>Sources and licences</h2>
+    <p>Law text from Open US Law (Vaquill AI) is published under CC BY-NC 4.0: free for non-commercial use with attribution. The HAR directory and table come from the Hawaii Legislative Reference Bureau, and rule text from the issuing agencies. The law itself is not subject to copyright (<i>Georgia v. Public.Resource.Org, Inc.</i>, 140 S. Ct. 1498 (2020)). Check the original before relying on anything here.</p>
+  </section>
+</main>
+<footer id="foot">Hawaii Public Info · published text and where it came from · not legal advice · nothing you type leaves this computer</footer>
+
+<script id="shape-data" type="application/json"></script>
+<script>
+"use strict";
+const $ = (s, r = document) => r.querySelector(s);
+function h(tag, props, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(props || {})) {
+    if (v == null || v === false) continue;
+    if (k === "class") e.className = v;
+    else if (k === "text") e.textContent = v;
+    else if (k.startsWith("on") && typeof v === "function") e.addEventListener(k.slice(2), v);
+    else e.setAttribute(k, v === true ? "" : v);
+  }
+  for (const k of kids.flat(Infinity)) if (k != null && k !== false && k !== "") e.append(k instanceof Node ? k : String(k));
+  return e;
+}
+const nf = new Intl.NumberFormat("en-US");
+const num = (n) => (n == null ? "" : nf.format(n));
+const plural = (n, w) => `${num(n)} ${w}${n === 1 ? "" : "s"}`;
+const store = {
+  get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch {} },
+};
+const S = { engine: false, cov: null, shape: null, items: [], sel: -1, seq: 0, q: "", timer: 0, leaves: [] };
+try { S.shape = JSON.parse($("#shape-data").textContent || "null"); } catch { S.shape = null; }
+
+/* ---------- theme ---------- */
+function applyTheme(mode) {
+  if (mode === "light" || mode === "dark") document.documentElement.dataset.theme = mode;
+  else delete document.documentElement.dataset.theme;
+  $("#theme-label").textContent = mode || "auto";
+  $("#theme").setAttribute("aria-label", "Color theme: " + (mode || "auto, following your system"));
+}
+applyTheme(store.get("theme"));
+$("#theme").addEventListener("click", () => {
+  const next = { null: "light", light: "dark", dark: null }[String(store.get("theme"))] ?? "light";
+  store.set("theme", next); applyTheme(next);
+});
+
+/* ---------- small helpers ---------- */
+async function api(path) {
+  const r = await fetch(path, { headers: { Accept: "application/json" } });
+  const j = await r.json().catch(() => ({ error: "The engine sent something that is not JSON (" + r.status + ")." }));
+  if (!r.ok && !j.error) j.error = "The engine answered " + r.status + ".";
+  return j;
+}
+function marked(text) {
+  const span = h("span", { class: "snip" });
+  String(text || "").split(/(\[[^\]]*\])/).forEach((part) => span.append(/^\[.*\]$/.test(part) ? h("mark", {}, part.slice(1, -1)) : part));
+  return span;
+}
+const ext = (url, label) => url ? h("a", { href: url, target: "_blank", rel: "noopener noreferrer" }, label || url) : null;
+const chip = (label, fn) => h("button", { class: "chip", type: "button", onclick: fn }, label);
+const block = (title, ...kids) => h("section", { class: "block" }, h("h3", {}, title), ...kids);
+async function copy(text, btn) {
+  try { await navigator.clipboard.writeText(text); }
+  catch { const t = h("textarea", {}, text); document.body.append(t); t.select(); document.execCommand("copy"); t.remove(); }
+  if (btn) { const old = btn.textContent; btn.textContent = "Copied"; setTimeout(() => (btn.textContent = old), 1200); }
+}
+function reader(...kids) { const r = $("#reader"); r.replaceChildren(...kids); return r; }
+function showReaderOnSmall() { if (matchMedia("(max-width: 880px)").matches) $("#reader").scrollIntoView({ block: "start", behavior: "smooth" }); }
+
+/* ---------- engine ---------- */
+async function probe() {
+  if (location.protocol === "file:") return false;
+  try {
+    const r = await fetch("api/coverage", { cache: "no-store" });
+    if (!r.ok) return false;
+    S.cov = await r.json();
+    return Array.isArray(S.cov.corpora);
+  } catch { return false; }
+}
+function engineLine() {
+  const el = $("#engine");
+  if (S.engine) {
+    const n = S.cov.corpora.reduce((a, x) => a + x.sections, 0);
+    el.className = "engine up";
+    el.replaceChildren(h("span", { class: "dot", "aria-hidden": "true" }), `Searching ${num(n)} sections from ${S.cov.corpora.length} sources on this computer.`);
+    $("#foot").textContent = `Hawaii Public Info · ${num(n)} sections · ${S.cov.corpora.length} sources · HAR directory ${num(S.cov.har_chapters.listed)} chapters · published text and where it came from · not legal advice · nothing you type leaves this computer`;
+  } else {
+    el.className = "engine";
+    el.replaceChildren(h("span", { class: "dot", "aria-hidden": "true" }), "The search engine is not running, so the box searches the Shape. To search the law: ",
+      h("code", {}, "python3 hi.py serve"), " in the hawaii folder, then open http://127.0.0.1:8808. ", h("a", { href: "#/about" }, "How"));
+  }
+  const ex = S.engine
+    ? ["HRS 92F-12", "define franchise", "who regulates public utilities", "appeal from district court", "public records", "chapter 92F", "act 53", "rules for HRS 482E-3", "fdd", "class action in court rules"]
+    : ["administrative rules", "county", "court", "regulations", "Maui", "not started"];
+  $("#examples").replaceChildren(...ex.map((x) => h("li", {}, h("button", { type: "button", onclick: () => { $("#q").value = x; typed(true); $("#q").focus(); } }, x))));
+}
+
+/* ---------- search ---------- */
+function setHasQ(on) {
+  if (document.body.classList.contains("has-q") === on) return;
+  const flip = () => document.body.classList.toggle("has-q", on);
+  if (document.startViewTransition && !matchMedia("(prefers-reduced-motion: reduce)").matches) document.startViewTransition(flip);
+  else flip();
+}
+function typed(now) {
+  clearTimeout(S.timer);
+  const go = () => {
+    const q = $("#q").value;
+    history.replaceState(null, "", q.trim() ? "#/q/" + encodeURIComponent(q) : "#/");
+    run(q);
+  };
+  if (now) go(); else S.timer = setTimeout(go, 160);
+}
+function setItems(items) {
+  S.items = items; S.sel = -1;
+  document.body.classList.toggle("has-list", items.length > 0);
+  $("#q").setAttribute("aria-expanded", String(items.length > 0));
+  $("#list").replaceChildren(...items.map((it, i) => h("div", { class: "opt", role: "option", id: "opt-" + i, "aria-selected": "false", onclick: () => pick(i, true) },
+    h("div", { class: "opt-title" }, it.title, it.status && it.status !== "in_force" ? h("span", { class: "tag bad" }, it.status.replaceAll("_", " ")) : null),
+    it.sub ? h("div", { class: "opt-sub" }, it.sub + (it.corpus ? "  ·  " + it.corpus : "")) : null,
+    it.snip ? marked(it.snip) : null)));
+}
+function pick(i, byClick) {
+  if (i < 0 || i >= S.items.length) return;
+  S.sel = i;
+  [...$("#list").children].forEach((n, k) => n.setAttribute("aria-selected", String(k === i)));
+  $("#q").setAttribute("aria-activedescendant", "opt-" + i);
+  $("#list").children[i].scrollIntoView({ block: "nearest" });
+  const it = S.items[i];
+  if (it.kind === "section") openSection(it.id);
+  else if (it.kind === "body") showBody(it.data);
+  else if (it.kind === "record") showRecord(it.data);
+  else if (it.kind === "shape") showShapeNode(it.data);
+  if (byClick) showReaderOnSmall();
+}
+async function run(q) {
+  const my = ++S.seq; S.q = q;
+  setHasQ(!!q.trim());
+  if (!q.trim()) { setItems([]); reader(); $("#readas").replaceChildren(); return; }
+  if (!S.engine) return runShape(q);
+  let a;
+  const busy = setTimeout(() => my === S.seq && $("#readas").replaceChildren(h("span", { class: "intent" }, "…"), `Searching for "${q}"`), 250);
+  try { a = await api("api/q?q=" + encodeURIComponent(q)); } catch (e) { a = { error: "The engine stopped answering. Is hi.py serve still running?" }; }
+  clearTimeout(busy);
+  if (my !== S.seq) return;
+  if (a.error) { setItems([]); $("#readas").replaceChildren(); reader(h("p", {}, a.error)); return; }
+  $("#readas").replaceChildren(h("span", { class: "intent" }, a.intent), a.read_as || "");
+  const items = [];
+  (a.sections || []).forEach((s) => items.push({ kind: "section", id: s.id, title: s.citation, sub: s.heading, status: s.status }));
+  (a.results || []).forEach((s) => items.push(s.corpus === "records"
+    ? { kind: "record", id: s.id, title: s.citation || s.id, sub: s.heading, snip: s.snip, corpus: "your records", data: s }
+    : { kind: "section", id: s.id, title: s.citation, sub: s.heading, snip: s.snip, status: s.status, corpus: s.corpus }));
+  (a.definitions || []).forEach((d) => items.push({ kind: "section", id: d.id, title: d.citation, sub: d.heading, snip: d.definition }));
+  (a.bodies || []).forEach((b) => items.push({ kind: "body", id: b.body.id, title: b.body.name, sub: [b.body.level, b.body.kind].filter(Boolean).join(" · "), data: b }));
+  (a.rules || []).forEach((r) => items.push({ kind: "section", id: r.from_id, title: r.citation, sub: r.heading }));
+  (a.cited_by || []).forEach((c) => items.push({ kind: "section", id: c.id, title: c.citation, sub: (c.kind || "") + " · " + (c.heading || "") }));
+  if (a.outline) (a.outline.sections || []).forEach((x) => items.push({ kind: "section", id: x.id, title: "§ " + x.number, sub: x.heading, status: x.status }));
+  if (a.act) a.act.targets.filter((t) => t.section_id).forEach((t) => items.push({ kind: "section", id: t.section_id, title: t.citation, sub: "Act " + a.act.act + " §" + (t.act_section || "") }));
+  setItems(items);
+  if (a.outline) return showOutline(a.outline);
+  if (a.act) return showAct(a.act);
+  if (a.no_match && !items.length) return reader(h("p", { class: "quote" }, a.no_match));
+  if (a.no_match) $("#readas").append(h("span", {}, "— " + a.no_match));
+  if (a.gaps) return showGaps(a.gaps);
+  if (a.not_here) return showNotHere(a.not_here);
+  if (a.appeal_path) return showPath(a.appeal_path);
+  if (a.access) return showAccess(a.access);
+  if (a.structure) return showStructure(a.structure);
+  if (items.length) pick(0);
+  else reader(h("p", {}, "Nothing here matches. Try fewer words, a citation, or ", h("a", { href: "#/shape" }, "see what is here"), "."));
+}
+
+/* ---------- reader views ---------- */
+async function openSection(id, push) {
+  if (push) history.pushState(null, "", "#/s/" + encodeURIComponent(id));
+  const my = ++S.seq;
+  const d = await api("api/section?id=" + encodeURIComponent(id)).catch(() => ({ error: "x" }));
+  if (my !== S.seq) return;
+  if (d.error) return reader(h("p", {}, "This one is listed but its text has not been collected yet."));
+  const s = d.section;
+  const tags = h("div", { class: "tags" },
+    s.status && s.status !== "in_force" ? h("span", { class: "tag bad" }, s.status.replaceAll("_", " ")) : h("span", { class: "tag ok" }, "in force"),
+    s.provenance && s.provenance.includes("ocr") ? h("span", { class: "tag" }, "text read by OCR") : null,
+    s.last_amended_year ? h("span", { class: "tag" }, "amended " + s.last_amended_year) : null);
+  const cite = s.citation + (s.heading ? " " + s.heading : "");
+  const r = reader(
+    h("header", {},
+      h("p", { class: "eyebrow" }, [s.path, s.part && !(s.path || "").includes(s.part) ? s.part : null].filter(Boolean).join("  ·  ")),
+      h("h2", {}, s.citation),
+      s.heading ? h("p", { class: "heading" }, s.heading) : null,
+      tags,
+      h("div", { class: "actions" },
+        h("button", { class: "btn", type: "button", onclick: (e) => copy(s.citation, e.currentTarget) }, "Copy citation"),
+        h("button", { class: "btn", type: "button", onclick: (e) => copy(cite + "\n\n" + (s.text || "") + "\n\nSource: " + (s.source_url || ""), e.currentTarget) }, "Copy text with source"),
+        s.source_url ? h("a", { class: "btn", href: s.source_url, target: "_blank", rel: "noopener noreferrer" }, "Official source ↗") : null,
+        h("button", { class: "btn", type: "button", onclick: () => print() }, "Print"))),
+    h("div", { class: "text" }, s.text || ""),
+    h("p", { class: "source" }, "Source: ", ext(s.source_url) || "not recorded"));
+  const nav = h("div", { class: "chips" },
+    d.prev ? chip("← " + d.prev.citation, () => openSection(d.prev.id, true)) : null,
+    d.next ? chip(d.next.citation + " →", () => openSection(d.next.id, true)) : null);
+  if (nav.children.length) r.append(block("Next to it", nav));
+  if (d.session_laws && d.session_laws.length) r.append(block("Changed by session law", h("ul", { class: "rows" }, d.session_laws.map((l) => h("li", {},
+    h("span", { class: "k" }, `${l.year} Act ${l.act} §${l.act_section || ""}`),
+    l.repealed ? "repealed" : l.heading_only ? "heading changed" : "added or amended",
+    l.noted_in_text || l.repealed ? null : h("span", { class: "tag" }, "not yet in this copy's history note"))))));
+  if (d.defs && d.defs.length) r.append(block("Definitions for this chapter", h("div", { class: "chips" }, d.defs.map((x) => chip(x.citation + " " + (x.heading || ""), () => openSection(x.id, true))))));
+  if (d.rules && d.rules.length) r.append(block(`Implemented by ${plural(d.rules.length, "rule section")}`, h("div", { class: "chips" }, d.rules.slice(0, 80).map((x) => chip(x.citation, () => openSection(x.from_id, true))))));
+  const out = (d.cites || []).filter((x) => x.to_id);
+  if (out.length) r.append(block("Cites", h("div", { class: "chips" }, out.slice(0, 80).map((x) => chip(x.citation, () => openSection(x.to_id, true))))));
+  const inn = (d.cited_by || []).filter((x) => x.kind !== "implements");
+  if (inn.length) r.append(block(`Cited by ${num(inn.length)}`, h("div", { class: "chips" }, inn.slice(0, 80).map((x) => chip(x.citation, () => openSection(x.id, true))))));
+}
+function showBody(b) {
+  const n = b.body;
+  const r = reader(h("p", { class: "eyebrow" }, [n.level, n.branch, n.kind].filter(Boolean).join(" · ")), h("h2", {}, n.name));
+  if (n.basis_cite) r.append(block("Created by " + n.basis_cite,
+    h("div", { class: "tags" }, n.verified ? h("span", { class: "tag ok" }, "✓ quote found in the law") : h("span", { class: "tag bad" }, "✗ quote not found in the law")),
+    h("p", { class: "quote" }, n.basis_quote || ""),
+    h("div", { class: "actions" }, n.basis_id ? h("button", { class: "btn", type: "button", onclick: () => openSection(n.basis_id, true) }, "Read " + n.basis_cite) : null,
+      n.source_url ? h("a", { class: "btn", href: n.source_url, target: "_blank", rel: "noopener noreferrer" }, "Official source ↗") : null)));
+  if (b.parent) r.append(block("Part of", chip(b.parent.name, () => openBody(b.parent.id))));
+  if (b.children && b.children.length) r.append(block(`Contains ${num(b.children.length)}`, h("div", { class: "chips" }, b.children.map((k) => chip(k.name, () => openBody(k.id))))));
+  if (b.links && b.links.length) r.append(block("Connections", h("ul", { class: "rows" }, b.links.map((l) => h("li", {}, `${l.from_name} — ${l.relation.replaceAll("_", " ")} → ${l.to_name}`, h("span", { class: "muted" }, l.basis_cite))))));
+  if (b.access && b.access.length) r.append(block("Public access", h("ul", { class: "rows" }, b.access.map((a) => h("li", {}, h("span", { class: "k" }, a.record_kind), a.basis_cite)))));
+  if (b.records && b.records.length) r.append(block("Your records held here", h("ul", { class: "rows" }, b.records.map((x) => h("li", {}, h("span", { class: "k" }, x.number || x.id), x.title || "", x.date || "")))));
+}
+async function openBody(id) { const b = await api("api/body?id=" + encodeURIComponent(id)); if (!b.error) showBody(b); }
+function showRecord(x) {
+  reader(h("p", { class: "eyebrow" }, "your record · " + (x.path || "")), h("h2", {}, x.citation || x.id), x.heading ? h("p", { class: "heading" }, x.heading) : null,
+    x.status ? h("div", { class: "tags" }, h("span", { class: "tag" }, x.status)) : null,
+    x.snip ? h("p", {}, marked(x.snip)) : null, h("p", { class: "source" }, "Source: ", ext(x.source_url) || "not recorded"));
+}
+function showOutline(o) {
+  const c = o.chapter;
+  reader(h("p", { class: "eyebrow" }, `Division ${c.division}. ${c.division_name}  ·  Title ${c.title}. ${c.title_name}${c.subtitle ? "  ·  Subtitle " + c.subtitle + ". " + c.subtitle_name : ""}`),
+    h("h2", {}, `HRS chapter ${c.chapter}`), h("p", { class: "heading" }, c.chapter_name),
+    h("div", { class: "tags" }, h("span", { class: "tag" + (c.status === "in_force" ? " ok" : " bad") }, c.status.replaceAll("_", " ")), h("span", { class: "tag" }, plural(c.sections_here, "section") + " here"), h("span", { class: "tag" }, "official TOC page " + c.page)),
+    block("Outline", h("ul", { class: "rows" }, o.parts.map((p) => {
+      const lab = p.kind === "part" ? `Part ${p.part}.` : p.kind === "article" ? `Article ${p.article}.` : p.kind === "subpart" ? `  ${p.part}.` : "";
+      return h("li", {}, h("span", { class: "k" }, lab), p.part_name || p.article_name || "",
+        p.first_section ? h("span", { class: p.present ? "muted" : "tag bad" }, p.present ? "§" + p.first_section : "§" + p.first_section + " not here") : null,
+        p.status !== "in_force" ? h("span", { class: "tag bad" }, p.status) : null);
+    }))));
+}
+function showAct(x) {
+  reader(h("p", { class: "eyebrow" }, "Official Table of Disposition"), h("h2", {}, `Session Laws of ${x.year}, Act ${x.act}`), h("p", { class: "heading" }, `${num(x.targets.length)} ${x.targets.length === 1 ? "entry" : "entries"}`),
+    h("ul", { class: "rows" }, x.targets.map((t) => h("li", { class: t.section_id ? "go" : null, onclick: t.section_id ? () => openSection(t.section_id, true) : null },
+      h("span", { class: "k" }, "§" + (t.act_section || "")),
+      t.kind === "omitted" ? "not codified (O)" : [(t.citation || t.target) + "  " + (t.heading || ""), t.kind === "section" && !t.section_id ? h("span", { class: "tag bad" }, "not here") : null],
+      t.repealed ? h("span", { class: "tag bad" }, "repealed") : null, t.heading_only ? h("span", { class: "tag" }, "heading") : null))));
+}
+function showGaps(g) {
+  reader(h("h2", {}, "This copy of the statutes, checked against the official documents"),
+    h("ul", { class: "rows" }, Object.entries(g).map(([k, v]) => h("li", {}, h("span", { class: "k" }, num(v)), k))),
+    h("p", { class: "source" }, "Lists: hrs/COMPLETENESS.md and hrs/checks/*.csv. Fetch what is not here with hrs/fill_missing.py."));
+}
+function showNotHere(n) {
+  reader(h("h2", {}, n.citation), h("p", { class: "heading" }, "is not in this database."), n.listed ? h("p", { class: "quote" }, n.listed) : null, h("p", { class: "note" }, n.how_to_get));
+}
+function showPath(path) {
+  reader(h("h2", {}, "Where a decision goes next"), h("ol", { class: "steps" }, path.map((st) => h("li", {},
+    h("strong", {}, st.name),
+    st.next ? [h("div", { class: "via" }, `↓ ${st.next.relation.replaceAll("_", " ")} · ${st.next.basis_cite}`), h("p", { class: "quote" }, st.next.basis_quote)] : null))));
+}
+function showAccess(rows) {
+  reader(h("h2", {}, "Laws that open records and meetings"), ...rows.map((a) => block(a.record_kind,
+    h("p", { class: "muted" }, a.basis_cite + (a.body_name ? "  →  " + a.body_name : "") + (a.verified ? "  ✓" : "")),
+    h("p", { class: "quote" }, a.basis_quote),
+    a.basis_id ? h("button", { class: "btn", type: "button", onclick: () => openSection(a.basis_id, true) }, "Read " + a.basis_cite) : null)));
+}
+function showStructure(st) {
+  const text = h("div", { class: "text" });
+  reader(h("p", { class: "eyebrow" }, "required by " + st.structure.basis_cite), h("h2", {}, st.structure.name),
+    st.structure.note ? h("p", { class: "quote" }, st.structure.note) : null,
+    h("p", { class: "source" }, "Source: ", ext(st.structure.source_url)),
+    block(plural(st.parts.length, "part"), h("ul", { class: "rows" }, st.parts.map((p) => h("li", { class: "go", tabindex: "0",
+      onclick: () => (text.textContent = p.label + ": " + p.heading + "\n\n" + p.text),
+      onkeydown: (e) => { if (e.key === "Enter") e.currentTarget.click(); } }, h("span", { class: "k" }, p.label), p.heading)))), text);
+}
+
+/* ---------- the shape ---------- */
+const STATUS_WORD = { done: "here, complete", part: "here in part", ready: "ready: one step away", todo: "not started" };
+function amount(n) {
+  const u = n.unit || "";
+  if (n.have != null && n.of != null) return `${num(n.have)} of ${num(n.of)} ${u}`;
+  if (n.have != null) return `${num(n.have)} ${u}`;
+  if (n.of != null) return `${num(n.of)} ${u} published`;
+  return "counted when collected";
+}
+function groupStatus(t) {
+  const total = Object.values(t).reduce((a, b) => a + b, 0);
+  if ((t.done || 0) === total) return "done";
+  if ((t.done || 0) + (t.part || 0) > 0) return "part";
+  if ((t.ready || 0) > 0) return "ready";
+  return "todo";
+}
+function segs(t) {
+  const total = Object.values(t).reduce((a, b) => a + b, 0) || 1;
+  return h("div", { class: "segs", role: "img", "aria-label": ["done", "part", "ready", "todo"].filter((k) => t[k]).map((k) => `${t[k]} ${STATUS_WORD[k]}`).join(", ") },
+    ["done", "part", "ready", "todo"].map((k) => (t[k] ? h("i", { class: "c-" + k, style: `width:${(100 * t[k]) / total}%` }) : null)));
+}
+function stIcon(status) { return h("span", { class: "st " + status, role: "img", "aria-label": STATUS_WORD[status] }); }
+function walk(node, fn, path = []) { fn(node, path); (node.children || []).forEach((c) => walk(c, fn, [...path, node])); }
+function renderShape() {
+  if (!S.shape) { $("#tree").replaceChildren(h("li", {}, "The shape data is not in this file. Run python3 shape/build_shape.py.")); return; }
+  if ($("#tree").children.length) return;
+  const sh = S.shape;
+  $("#shape-meta").textContent = `Counted ${sh.generated} from this computer's database and the open dataset's index (${sh.dataset.dataset} ${sh.dataset.snapshot}, ${sh.dataset.snapshot_date}).`;
+  const ORDER = ["Home", "Next ring out", "Outermost ring"];
+  $("#rings").replaceChildren(...sh.tree.map((top, i) => {
+    const t = top.tally, total = Object.values(t).reduce((a, b) => a + b, 0);
+    return h("a", { class: "ring", href: "#/shape", style: "text-decoration:none;color:inherit", onclick: (e) => { e.preventDefault(); const d = $(`#tree > li:nth-child(${i + 1}) > details`); d.open = true; d.scrollIntoView({ behavior: "smooth", block: "start" }); } },
+      h("div", { class: "order" }, ORDER[i] || ""), h("h2", {}, top.name),
+      segs(t),
+      h("p", {}, `${t.done || 0} of ${total} checked off · ${t.part || 0} in part · ${t.ready || 0} ready · ${t.todo || 0} not started`),
+      h("p", {}, top.have_total ? `${num(top.have_total)} items here now` : "nothing pulled yet"));
+  }));
+  S.leaves = [];
+  const build = (node, depth) => {
+    if (!node.children) {
+      const li = h("li", {}, h("div", { class: "leaf" },
+        h("div", { class: "row" }, stIcon(node.status), h("span", { class: "name" }, node.name), h("span", { class: "amt" }, amount(node)),
+          node.have != null && node.of ? h("span", { class: "meter", "aria-hidden": "true" }, h("i", { style: `--p:${Math.min(100, (100 * node.have) / node.of)}%` })) : null),
+        (node.note || node.url || node.how || node.file) ? h("div", { class: "more" },
+          node.note ? h("span", {}, node.note) : null,
+          node.url ? h("span", {}, ext(node.url), node.url_note ? " (" + node.url_note + ")" : "") : null,
+          node.how ? h("span", {}, h("code", {}, node.how)) : null,
+          node.file && !node.how ? h("span", {}, "file: " + node.file) : null) : null));
+      const hay = [node.name, node.note, node.file, node.url, STATUS_WORD[node.status]].filter(Boolean).join(" ").toLowerCase();
+      S.leaves.push({ node, li, hay });
+      return li;
+    }
+    const t = node.tally, total = Object.values(t).reduce((a, b) => a + b, 0);
+    const det = h("details", { open: depth === 0 ? true : null },
+      h("summary", {}, h("span", { class: "row" }, stIcon(groupStatus(t)), h("span", { class: "name" }, node.name),
+        h("span", { class: "amt" }, `${t.done || 0} of ${total} checked off${node.have_total ? " · " + num(node.have_total) + " here" : ""}`))),
+      node.note ? h("p", { class: "group-note" }, node.note) : null,
+      h("ul", {}, node.children.map((c) => build(c, depth + 1))));
+    return h("li", {}, det);
+  };
+  $("#tree").replaceChildren(...sh.tree.map((top) => build(top, 0)));
+  $("#shape-count").textContent = `${num(S.leaves.length)} items. ${num(S.leaves.filter((l) => l.node.status === "done").length)} checked off.`;
+}
+function filterShape(text) {
+  const words = text.toLowerCase().split(/\s+/).filter(Boolean);
+  let shown = 0;
+  for (const l of S.leaves) {
+    const ok = words.every((w) => l.hay.includes(w));
+    l.li.hidden = !ok; if (ok) shown++;
+    l.li.firstChild.classList.toggle("hit", !!words.length && ok);
+  }
+  [...$("#tree").querySelectorAll("details")].reverse().forEach((d) => {
+    const li = d.parentElement, any = [...d.querySelectorAll(":scope > ul > li")].some((x) => !x.hidden);
+    li.hidden = !any;
+    if (words.length) d.open = any;
+  });
+  $("#shape-count").textContent = words.length ? `${num(shown)} of ${num(S.leaves.length)} items match.` : `${num(S.leaves.length)} items. ${num(S.leaves.filter((l) => l.node.status === "done").length)} checked off.`;
+}
+function shapeMarkdown() {
+  const sh = S.shape, out = ["# The shape of everything", "", `Counted ${sh.generated}. [x] here, complete · ◐ here in part · ↓ ready · ○ not started`, ""];
+  const mark = { done: "[x]", part: "[ ] ◐", ready: "[ ] ↓", todo: "[ ] ○" };
+  const go = (n, depth) => {
+    if (n.children) {
+      const t = n.tally, total = Object.values(t).reduce((a, b) => a + b, 0);
+      out.push(depth < 2 ? `${"#".repeat(depth + 2)} ${n.name}  (${t.done || 0} of ${total} checked off)` : `${"  ".repeat(depth - 2)}- **${n.name}**`);
+      n.children.forEach((c) => go(c, depth + 1));
+      if (depth < 2) out.push("");
+    } else {
+      out.push(`${"  ".repeat(Math.max(depth - 2, 0))}- ${mark[n.status]} ${n.name}: ${[amount(n), n.note, n.url, n.how && "`" + n.how + "`"].filter(Boolean).join(" · ")}`);
+    }
+  };
+  sh.tree.forEach((t) => go(t, 0));
+  return out.join("\n") + "\n";
+}
+function runShape(q) {
+  renderShape();
+  const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+  const hits = S.leaves.filter((l) => words.every((w) => l.hay.includes(w))).slice(0, 60);
+  $("#readas").replaceChildren(h("span", { class: "intent" }, "shape"), `Searching the Shape for "${q}" (the search engine is not running)`);
+  setItems(hits.map((l) => ({ kind: "shape", title: l.node.name, sub: STATUS_WORD[l.node.status] + " · " + amount(l.node), data: l.node })));
+  if (hits.length) pick(0); else reader(h("p", {}, "Nothing in the Shape matches. ", h("a", { href: "#/shape" }, "Open the Shape"), "."));
+}
+function showShapeNode(n) {
+  reader(h("p", { class: "eyebrow" }, "from the Shape"), h("h2", {}, n.name),
+    h("div", { class: "tags" }, h("span", { class: "tag" + (n.status === "done" ? " ok" : "") }, STATUS_WORD[n.status]), h("span", { class: "tag" }, amount(n))),
+    n.note ? h("p", {}, n.note) : null,
+    n.url ? h("p", { class: "source" }, "Published at: ", ext(n.url), n.url_note ? " (" + n.url_note + ")" : "") : null,
+    n.how ? block("To get it", h("p", {}, h("code", {}, n.how))) : null,
+    n.file ? h("p", { class: "source" }, "File: " + n.file) : null,
+    h("div", { class: "note", style: "margin-top:16px" }, h("p", {}, "To search the law itself, start the engine: ", h("code", {}, "python3 hi.py serve"), " in the hawaii folder, then open http://127.0.0.1:8808.")));
+}
+$("#sf").addEventListener("input", (e) => filterShape(e.target.value));
+$("#open-all").addEventListener("click", () => $("#tree").querySelectorAll("details").forEach((d) => (d.open = true)));
+$("#close-all").addEventListener("click", () => $("#tree").querySelectorAll("details").forEach((d, i) => (d.open = false)));
+$("#dl-md").addEventListener("click", () => {
+  const a = h("a", { href: URL.createObjectURL(new Blob([shapeMarkdown()], { type: "text/markdown" })), download: "hawaii-public-info-checklist.md" });
+  document.body.append(a); a.click(); a.remove();
+});
+
+/* ---------- views and addresses ---------- */
+function show(view) {
+  for (const v of ["search", "shape", "about"]) $("#v-" + v).hidden = v !== view;
+  document.querySelectorAll("[data-nav]").forEach((a) => (a.dataset.nav === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
+  document.body.dataset.view = view;
+  if (view === "shape") renderShape();
+}
+function route() {
+  const m = location.hash.match(/^#\/([a-z]+)(?:\/(.*))?$/) || [];
+  const view = m[1] || "", arg = m[2] ? decodeURIComponent(m[2]) : "";
+  if (view === "shape") { show("shape"); if (arg) { $("#sf").value = arg; filterShape(arg); } return; }
+  if (view === "about") { show("about"); return; }
+  show("search");
+  if (view === "q") { if (arg === S.q && S.items.length) return; $("#q").value = arg; run(arg); }
+  else if (view === "s" && S.engine) { setHasQ(true); if (!S.items.length) setItems([]); openSection(arg); }
+  else if (!view) { if ($("#q").value || S.q) { $("#q").value = ""; run(""); } }
+}
+window.addEventListener("hashchange", route);
+
+/* ---------- keys ---------- */
+$("#bar").addEventListener("submit", (e) => { e.preventDefault(); typed(true); });
+$("#q").addEventListener("input", () => typed(false));
+$("#clear").addEventListener("click", () => { $("#q").value = ""; typed(true); $("#q").focus(); });
+document.addEventListener("keydown", (e) => {
+  const inField = e.target.matches("input, textarea, [contenteditable]");
+  if ((e.key === "/" && !inField) || ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k")) {
+    e.preventDefault();
+    if (document.body.dataset.view !== "search") location.hash = "#/";
+    $("#q").focus(); $("#q").select(); return;
+  }
+  if (document.body.dataset.view !== "search") return;
+  if (e.key === "Escape" && e.target === $("#q")) { $("#q").value = ""; typed(true); return; }
+  if ((e.target === $("#q") || !inField) && S.items.length) {
+    if (e.key === "ArrowDown") { e.preventDefault(); pick(Math.min(S.sel + 1, S.items.length - 1)); }
+    if (e.key === "ArrowUp") { e.preventDefault(); pick(Math.max(S.sel - 1, 0)); }
+  }
+});
+
+/* ---------- start ---------- */
+(async () => {
+  S.engine = await probe();
+  engineLine();
+  route();
+  if (!location.hash && document.body.dataset.view === "search" && matchMedia("(min-width: 700px)").matches) $("#q").focus();
+})();
+</script>
+</body>
+</html>

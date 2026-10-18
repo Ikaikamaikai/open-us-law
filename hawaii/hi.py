@@ -701,6 +701,7 @@ def serve(port):
     from urllib.parse import parse_qs, urlparse
     con = db()
     page = (HERE / "web" / "index.html").read_bytes()
+    previous = (HERE / "web" / "previous.html").read_bytes()
 
     class H(BaseHTTPRequestHandler):
         def log_message(self, *a):
@@ -721,6 +722,8 @@ def serve(port):
             try:
                 if u.path == "/":
                     return self.send(200, page, "text/html; charset=utf-8")
+                if u.path == "/previous":
+                    return self.send(200, previous, "text/html; charset=utf-8")
                 if u.path == "/favicon.ico":
                     return self.send(204, b"", "image/x-icon")
                 if u.path == "/api/q":

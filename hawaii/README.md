@@ -146,9 +146,18 @@ hawaii/
   schema/            the database schema and its explanation
   map/               the government map: definition, generated diagrams, mined bodies
   har/               HAR directory, HRS→HAR table, and the rule-text collector
-  web/index.html     the search page
+  hrs/               HRS table of contents, 2025 table of disposition, completeness checks, the section fetcher
+  shape/             the shape of everything: every body of law and record set, how much of each is here
+  web/page.html      the page's source; build_shape.py turns it into web/index.html with fonts and the shape inside
+  web/index.html     the page (one file: opens by itself as the Shape, searches everything when hi.py serve runs)
+  web/previous.html  the earlier page, at http://127.0.0.1:8808/previous
+  web/fonts/         Drafting Mono (SIL Open Font License) and the Lab Mono declaration
+  oah/               the OAH decision downloader (Windows) and its records converter
   data/              downloads and the built database (not committed)
 ```
+
+`build.py` runs `shape/build_shape.py` at the end, so the page's counts match the database. Run it yourself after
+`hi.py load` or after editing `web/page.html`.
 
 ## Sources and licences
 

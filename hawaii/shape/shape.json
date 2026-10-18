@@ -1,0 +1,2985 @@
+{
+ "generated": "2026-10-18",
+ "tree": [
+  {
+   "name": "Hawaii",
+   "children": [
+    {
+     "name": "State law",
+     "children": [
+      {
+       "name": "Constitution of the State of Hawaii",
+       "status": "done",
+       "have": 160,
+       "of": 160,
+       "unit": "sections",
+       "file": "us_hi_constitutions.parquet"
+      },
+      {
+       "name": "Hawaii Revised Statutes",
+       "children": [
+        {
+         "name": "Sections",
+         "status": "done",
+         "have": 22980,
+         "unit": "sections",
+         "note": "Checked against all 22,971 section pages on the Legislature's server; every one is here except one empty [RESERVED] page. 19,197 came from the open dataset, the rest from the Legislature's server. Details: hrs/COMPLETENESS.md",
+         "url": "https://data.capitol.hawaii.gov/hrscurrent/",
+         "how": "python3 hrs/fill_missing.py --all"
+        },
+        {
+         "name": "Chapters in the official Table of Contents (Feb. 10, 2025)",
+         "status": "done",
+         "have": 1100,
+         "unit": "chapters"
+        },
+        {
+         "name": "Parts, subparts and articles",
+         "status": "done",
+         "have": 1850,
+         "unit": "parts"
+        }
+       ],
+       "tally": {
+        "done": 3
+       },
+       "have_total": 25930
+      },
+      {
+       "name": "Session Laws of Hawaii",
+       "children": [
+        {
+         "name": "2025 Table of Disposition: what each act changed",
+         "status": "done",
+         "have": 1405,
+         "unit": "entries",
+         "note": "313 acts of 2025. Earlier years' tables are not loaded.",
+         "file": "hrs/slh_disposition.csv"
+        },
+        {
+         "name": "Text of the acts",
+         "status": "todo",
+         "unit": "acts",
+         "note": "Published by the Legislature and the Legislative Reference Bureau.",
+         "url": "https://lrb.hawaii.gov/"
+        }
+       ],
+       "tally": {
+        "done": 1,
+        "todo": 1
+       },
+       "have_total": 1405
+      },
+      {
+       "name": "Hawaii Administrative Rules: text",
+       "status": "part",
+       "have": 545,
+       "of": 1001,
+       "unit": "active chapters",
+       "note": "12,707 rule sections of text. The LRB directory lists 1,605 chapters (604 repealed) and 33,931 links from statutes to the rules that implement them.",
+       "url": "https://ltgov.hawaii.gov/the-office/administrative-rules/",
+       "how": "python3 har/scrape_har.py data/har"
+      },
+      {
+       "name": "Hawaii court rules",
+       "status": "done",
+       "have": 1259,
+       "of": 1259,
+       "unit": "sections",
+       "note": "31 rule sets.",
+       "file": "us_hi_court_rules.parquet"
+      },
+      {
+       "name": "Attorney General opinions",
+       "status": "done",
+       "have": 66,
+       "of": 66,
+       "unit": "opinions",
+       "note": "Every opinion in the open dataset. The Department's older opinions are not counted here.",
+       "file": "us_hi_ag_opinion.parquet"
+      },
+      {
+       "name": "Insurance Division memoranda",
+       "status": "done",
+       "have": 171,
+       "of": 171,
+       "unit": "memoranda",
+       "file": "us_hi_guidance.parquet"
+      },
+      {
+       "name": "Appellate opinions (Supreme Court, Intermediate Court of Appeals)",
+       "status": "todo",
+       "unit": "opinions",
+       "note": "Not in the open dataset. On CourtListener: court=haw (Supreme Court) and court=hawapp (ICA).",
+       "url": "https://www.courtlistener.com/?type=o&court=haw",
+       "url_note": "The Judiciary's own site, courts.state.hi.us, refused requests from the machine that built this."
+      },
+      {
+       "name": "Office of Information Practices opinions",
+       "status": "todo",
+       "unit": "opinions",
+       "url": "https://oip.hawaii.gov/laws-rules-opinions/opinions/"
+      },
+      {
+       "name": "State Ethics Commission opinions",
+       "status": "todo",
+       "unit": "opinions",
+       "url": "https://ethics.hawaii.gov/"
+      },
+      {
+       "name": "Governor's executive orders and proclamations",
+       "status": "todo",
+       "unit": "documents",
+       "url": "https://governor.hawaii.gov/"
+      },
+      {
+       "name": "Agency decisions",
+       "children": [
+        {
+         "name": "DCCA Office of Administrative Hearings decisions",
+         "status": "ready",
+         "of": 2970,
+         "unit": "decision PDFs",
+         "note": "3,030 entries on the state's search page point to 2,970 PDFs (read 2026-10-18). The downloader is ready and runs on Windows.",
+         "url": "https://web3.dcca.hawaii.gov/oah/public/result?search=&cat=All",
+         "how": "powershell -ExecutionPolicy Bypass -File oah/download-hi-dcca-oah-pdfs_2026-10-18.ps1"
+        },
+        {
+         "name": "Public Utilities Commission dockets and decisions",
+         "status": "todo",
+         "unit": "documents",
+         "url": "https://puc.hawaii.gov/"
+        },
+        {
+         "name": "Land Use Commission decisions",
+         "status": "todo",
+         "unit": "documents",
+         "url": "https://luc.hawaii.gov/"
+        }
+       ],
+       "tally": {
+        "ready": 1,
+        "todo": 2
+       },
+       "have_total": 0
+      }
+     ],
+     "tally": {
+      "done": 8,
+      "todo": 7,
+      "part": 1,
+      "ready": 1
+     },
+     "have_total": 29536
+    },
+    {
+     "name": "Government of Hawaii",
+     "children": [
+      {
+       "name": "Parts of government, each tied to the law that creates it",
+       "status": "done",
+       "have": 95,
+       "of": 95,
+       "unit": "parts",
+       "note": "Every quote was found in the cited law when the database was built. Shown in map/GOVERNMENT.md."
+      },
+      {
+       "name": "Boards and commissions found in the statutes' own words",
+       "status": "done",
+       "have": 295,
+       "unit": "bodies",
+       "note": "Each keeps the exact sentence that creates it.",
+       "file": "map/bodies_mined.csv"
+      },
+      {
+       "name": "Legal links between parts (appeals, supervision, appointment)",
+       "status": "done",
+       "have": 32,
+       "unit": "links"
+      },
+      {
+       "name": "Laws that open records and meetings to the public",
+       "status": "done",
+       "have": 7,
+       "unit": "laws"
+      }
+     ],
+     "tally": {
+      "done": 4
+     },
+     "have_total": 429
+    },
+    {
+     "name": "Counties",
+     "children": [
+      {
+       "name": "City and County of Honolulu: Revised Ordinances of Honolulu",
+       "status": "todo",
+       "unit": "sections",
+       "note": "The Office of Council Services is the revisor of the ROH.",
+       "url": "https://www.honolulu.gov/ocs/"
+      },
+      {
+       "name": "County of Hawaii: Hawaii County Code",
+       "status": "todo",
+       "unit": "sections",
+       "note": "Published by the County of Hawaii."
+      },
+      {
+       "name": "County of Maui: Maui County Code",
+       "status": "todo",
+       "unit": "sections",
+       "note": "Published by the County of Maui."
+      },
+      {
+       "name": "County of Kauai: Kauai County Code",
+       "status": "todo",
+       "unit": "sections",
+       "note": "Published by the County of Kauai."
+      }
+     ],
+     "tally": {
+      "todo": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Public records",
+     "children": [
+      {
+       "name": "Your records",
+       "status": "ready",
+       "have": 0,
+       "unit": "records",
+       "note": "Court records, filings, parcels and documents you collect, stored as published.",
+       "how": "python3 hi.py load <file.jsonl>   (format: README.md, Add your records)"
+      },
+      {
+       "name": "Franchise Disclosure Document layout",
+       "status": "done",
+       "have": 23,
+       "of": 23,
+       "unit": "items",
+       "note": "The 23 items 16 C.F.R. § 436.5 requires, read from the rule itself."
+      },
+      {
+       "name": "Court dockets (Judiciary, eCourt Kokua)",
+       "status": "todo",
+       "unit": "cases",
+       "note": "Published by the Hawaii State Judiciary."
+      },
+      {
+       "name": "Real property records: Honolulu",
+       "status": "todo",
+       "unit": "parcels",
+       "url": "https://www.qpublic.net/hi/honolulu/"
+      },
+      {
+       "name": "Real property records: Hawaii, Maui and Kauai counties",
+       "status": "todo",
+       "unit": "parcels",
+       "note": "Published by each county."
+      },
+      {
+       "name": "Land records: Bureau of Conveyances",
+       "status": "todo",
+       "unit": "documents",
+       "url": "https://dlnr.hawaii.gov/boc/"
+      },
+      {
+       "name": "Business registrations (DCCA Business Registration Division)",
+       "status": "todo",
+       "unit": "entities",
+       "note": "Published by the Department of Commerce and Consumer Affairs."
+      }
+     ],
+     "tally": {
+      "ready": 1,
+      "done": 1,
+      "todo": 5
+     },
+     "have_total": 23
+    }
+   ],
+   "note": "Home. Everything starts here.",
+   "tally": {
+    "done": 13,
+    "todo": 16,
+    "part": 1,
+    "ready": 2
+   },
+   "have_total": 29988
+  },
+  {
+   "name": "United States",
+   "children": [
+    {
+     "name": "Here now",
+     "children": [
+      {
+       "name": "U.S. Constitution",
+       "status": "done",
+       "have": 74,
+       "of": 74,
+       "unit": "sections",
+       "file": "us_federal_constitutions.parquet"
+      },
+      {
+       "name": "United States Code",
+       "status": "done",
+       "have": 60667,
+       "of": 60667,
+       "unit": "sections",
+       "file": "us_federal_statutes.parquet"
+      },
+      {
+       "name": "Federal court rules",
+       "status": "done",
+       "have": 1130,
+       "of": 1130,
+       "unit": "sections",
+       "file": "us_federal_court_rules.parquet"
+      },
+      {
+       "name": "Code of Federal Regulations",
+       "status": "part",
+       "have": 11,
+       "of": 342351,
+       "unit": "sections",
+       "note": "Only 16 C.F.R. Part 436 (the FTC Franchise Rule) so far. Add a part with one line in sources.json (cfr_slices), then python3 fetch.py and python3 build.py.",
+       "file": "us_federal_regulations.parquet"
+      }
+     ],
+     "tally": {
+      "done": 3,
+      "part": 1
+     },
+     "have_total": 61882
+    },
+    {
+     "name": "In the open dataset, not pulled yet",
+     "children": [
+      {
+       "name": "Agency adjudications",
+       "status": "ready",
+       "of": 1371,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_adjudication.parquet"
+      },
+      {
+       "name": "Administrative guidance",
+       "status": "ready",
+       "of": 10,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_administrative_guidance.parquet"
+      },
+      {
+       "name": "Board of Immigration Appeals precedent decisions",
+       "status": "ready",
+       "of": 3292,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_bia_precedent_decision.parquet"
+      },
+      {
+       "name": "Board decisions",
+       "status": "ready",
+       "of": 66594,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_board_decision.parquet"
+      },
+      {
+       "name": "CFPB enforcement actions",
+       "status": "ready",
+       "of": 386,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_cfpb_enforcement_action.parquet"
+      },
+      {
+       "name": "Code of Federal Regulations, annual edition",
+       "status": "ready",
+       "of": 886066,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_cfr_annual.parquet"
+      },
+      {
+       "name": "Enforcement actions",
+       "status": "ready",
+       "of": 146,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_enforcement_action.parquet"
+      },
+      {
+       "name": "Executive orders",
+       "status": "ready",
+       "of": 737,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_executive_order.parquet"
+      },
+      {
+       "name": "Agency FAQs",
+       "status": "ready",
+       "of": 1990,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_faq.parquet"
+      },
+      {
+       "name": "FTC administrative decisions",
+       "status": "ready",
+       "of": 17973,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_ftc_administrative_decision.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 40692,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_guidance.parquet"
+      },
+      {
+       "name": "Guidelines",
+       "status": "ready",
+       "of": 1281,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_guideline.parquet"
+      },
+      {
+       "name": "IRS announcements",
+       "status": "ready",
+       "of": 83,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_irs_announcement.parquet"
+      },
+      {
+       "name": "IRS notices",
+       "status": "ready",
+       "of": 769,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_irs_notice.parquet"
+      },
+      {
+       "name": "IRS revenue procedures",
+       "status": "ready",
+       "of": 378,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_irs_rev_proc.parquet"
+      },
+      {
+       "name": "IRS revenue rulings",
+       "status": "ready",
+       "of": 248,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_irs_rev_rul.parquet"
+      },
+      {
+       "name": "IRS written determinations",
+       "status": "ready",
+       "of": 45368,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_irs_written_determination.parquet"
+      },
+      {
+       "name": "Memoranda",
+       "status": "ready",
+       "of": 401,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_memorandum.parquet"
+      },
+      {
+       "name": "Merit Systems Protection Board decisions",
+       "status": "ready",
+       "of": 5461,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_mspb_decision.parquet"
+      },
+      {
+       "name": "Notices",
+       "status": "ready",
+       "of": 17633,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_notice.parquet"
+      },
+      {
+       "name": "Presidential documents",
+       "status": "ready",
+       "of": 639,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_presidential_document.parquet"
+      },
+      {
+       "name": "Private laws",
+       "status": "ready",
+       "of": 49460,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_private_law.parquet"
+      },
+      {
+       "name": "Proclamations",
+       "status": "ready",
+       "of": 1833,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_proclamation.parquet"
+      },
+      {
+       "name": "Proposed regulations",
+       "status": "ready",
+       "of": 76865,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_proposed_regulation.parquet"
+      },
+      {
+       "name": "Resolutions",
+       "status": "ready",
+       "of": 406,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_resolution.parquet"
+      },
+      {
+       "name": "Rulings",
+       "status": "ready",
+       "of": 7278,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_ruling.parquet"
+      },
+      {
+       "name": "SEC adjudications",
+       "status": "ready",
+       "of": 5790,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_sec_adjudication.parquet"
+      },
+      {
+       "name": "Session laws",
+       "status": "ready",
+       "of": 375967,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_session_law.parquet"
+      },
+      {
+       "name": "Statute compilations",
+       "status": "ready",
+       "of": 80288,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_statute_compilation.parquet"
+      },
+      {
+       "name": "Treaties",
+       "status": "ready",
+       "of": 1243,
+       "unit": "sections",
+       "url": "https://oss-data-us.vaquill.ai/index.html",
+       "file": "us_federal_treaty.parquet"
+      }
+     ],
+     "note": "Each is one file of the open dataset. They are pulled the way the files above were: sources.json, then fetch.py and build.py.",
+     "tally": {
+      "ready": 30
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Federal court opinions (Supreme Court, Ninth Circuit, District of Hawaii)",
+     "status": "todo",
+     "unit": "opinions",
+     "note": "Not in the open dataset.",
+     "url": "https://www.courtlistener.com/"
+    }
+   ],
+   "tally": {
+    "done": 3,
+    "part": 1,
+    "ready": 30,
+    "todo": 1
+   },
+   "have_total": 61882
+  },
+  {
+   "name": "Other states and territories",
+   "children": [
+    {
+     "name": "Alabama",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 11926,
+       "unit": "sections",
+       "file": "us_al_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 381,
+       "unit": "sections",
+       "file": "us_al_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 870,
+       "unit": "sections",
+       "file": "us_al_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 207,
+       "unit": "sections",
+       "file": "us_al_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 18864,
+       "unit": "sections",
+       "file": "us_al_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 46614,
+       "unit": "sections",
+       "file": "us_al_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Alaska",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 532,
+       "unit": "sections",
+       "file": "us_ak_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 238,
+       "unit": "sections",
+       "file": "us_ak_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 763,
+       "unit": "sections",
+       "file": "us_ak_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 398,
+       "unit": "sections",
+       "file": "us_ak_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 25717,
+       "unit": "sections",
+       "file": "us_ak_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 17935,
+       "unit": "sections",
+       "file": "us_ak_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Arizona",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 147,
+       "unit": "sections",
+       "file": "us_az_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 323,
+       "unit": "sections",
+       "file": "us_az_constitutions.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 235,
+       "unit": "sections",
+       "file": "us_az_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 24956,
+       "unit": "sections",
+       "file": "us_az_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Arkansas",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 10292,
+       "unit": "sections",
+       "file": "us_ar_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 493,
+       "unit": "sections",
+       "file": "us_ar_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 774,
+       "unit": "sections",
+       "file": "us_ar_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 359,
+       "unit": "sections",
+       "file": "us_ar_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 22392,
+       "unit": "sections",
+       "file": "us_ar_regulations.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "California",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 1962,
+       "unit": "sections",
+       "file": "us_ca_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 372,
+       "unit": "sections",
+       "file": "us_ca_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1521,
+       "unit": "sections",
+       "file": "us_ca_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 464,
+       "unit": "sections",
+       "file": "us_ca_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 161428,
+       "unit": "sections",
+       "file": "us_ca_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Colorado",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 109,
+       "unit": "sections",
+       "file": "us_co_ag_opinion.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1194,
+       "unit": "sections",
+       "file": "us_co_court_rules.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 1155,
+       "unit": "sections",
+       "file": "us_co_regulations.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 3
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Connecticut",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 626,
+       "unit": "sections",
+       "file": "us_ct_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 146,
+       "unit": "sections",
+       "file": "us_ct_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1724,
+       "unit": "sections",
+       "file": "us_ct_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 369,
+       "unit": "sections",
+       "file": "us_ct_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 24331,
+       "unit": "sections",
+       "file": "us_ct_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 16082,
+       "unit": "sections",
+       "file": "us_ct_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Delaware",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 843,
+       "unit": "sections",
+       "file": "us_de_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 207,
+       "unit": "sections",
+       "file": "us_de_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1385,
+       "unit": "sections",
+       "file": "us_de_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 303,
+       "unit": "sections",
+       "file": "us_de_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 1164,
+       "unit": "sections",
+       "file": "us_de_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 22669,
+       "unit": "sections",
+       "file": "us_de_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "District of Columbia",
+     "children": [
+      {
+       "name": "Administrative guidance",
+       "status": "ready",
+       "of": 1,
+       "unit": "sections",
+       "file": "us_dc_administrative_guidance.parquet"
+      },
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 37,
+       "unit": "sections",
+       "file": "us_dc_ag_opinion.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1128,
+       "unit": "sections",
+       "file": "us_dc_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 27,
+       "unit": "sections",
+       "file": "us_dc_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 27401,
+       "unit": "sections",
+       "file": "us_dc_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 24036,
+       "unit": "sections",
+       "file": "us_dc_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Florida",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 20960,
+       "unit": "sections",
+       "file": "us_fl_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 213,
+       "unit": "sections",
+       "file": "us_fl_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 943,
+       "unit": "sections",
+       "file": "us_fl_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 100,
+       "unit": "sections",
+       "file": "us_fl_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 28913,
+       "unit": "sections",
+       "file": "us_fl_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 25020,
+       "unit": "sections",
+       "file": "us_fl_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Georgia",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 525,
+       "unit": "sections",
+       "file": "us_ga_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 287,
+       "unit": "sections",
+       "file": "us_ga_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1174,
+       "unit": "sections",
+       "file": "us_ga_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 66,
+       "unit": "sections",
+       "file": "us_ga_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 19691,
+       "unit": "sections",
+       "file": "us_ga_regulations.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Idaho",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 151,
+       "unit": "sections",
+       "file": "us_id_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 234,
+       "unit": "sections",
+       "file": "us_id_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 766,
+       "unit": "sections",
+       "file": "us_id_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 75,
+       "unit": "sections",
+       "file": "us_id_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 8672,
+       "unit": "sections",
+       "file": "us_id_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 22754,
+       "unit": "sections",
+       "file": "us_id_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Illinois",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 1451,
+       "unit": "sections",
+       "file": "us_il_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 140,
+       "unit": "sections",
+       "file": "us_il_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 426,
+       "unit": "sections",
+       "file": "us_il_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 159,
+       "unit": "sections",
+       "file": "us_il_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 55076,
+       "unit": "sections",
+       "file": "us_il_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 72251,
+       "unit": "sections",
+       "file": "us_il_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Indiana",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 9760,
+       "unit": "sections",
+       "file": "us_in_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 195,
+       "unit": "sections",
+       "file": "us_in_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 879,
+       "unit": "sections",
+       "file": "us_in_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 282,
+       "unit": "sections",
+       "file": "us_in_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 83148,
+       "unit": "sections",
+       "file": "us_in_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Iowa",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 190,
+       "unit": "sections",
+       "file": "us_ia_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1294,
+       "unit": "sections",
+       "file": "us_ia_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 83,
+       "unit": "sections",
+       "file": "us_ia_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 27587,
+       "unit": "sections",
+       "file": "us_ia_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 28223,
+       "unit": "sections",
+       "file": "us_ia_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Kansas",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 56,
+       "unit": "sections",
+       "file": "us_ks_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 213,
+       "unit": "sections",
+       "file": "us_ks_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 436,
+       "unit": "sections",
+       "file": "us_ks_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 79,
+       "unit": "sections",
+       "file": "us_ks_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 18848,
+       "unit": "sections",
+       "file": "us_ks_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 24361,
+       "unit": "sections",
+       "file": "us_ks_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Kentucky",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 692,
+       "unit": "sections",
+       "file": "us_ky_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 274,
+       "unit": "sections",
+       "file": "us_ky_constitutions.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 231,
+       "unit": "sections",
+       "file": "us_ky_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 4780,
+       "unit": "sections",
+       "file": "us_ky_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 21194,
+       "unit": "sections",
+       "file": "us_ky_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Louisiana",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 3718,
+       "unit": "sections",
+       "file": "us_la_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 326,
+       "unit": "sections",
+       "file": "us_la_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 481,
+       "unit": "sections",
+       "file": "us_la_court_rules.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 43213,
+       "unit": "sections",
+       "file": "us_la_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Maine",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 832,
+       "unit": "sections",
+       "file": "us_me_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 153,
+       "unit": "sections",
+       "file": "us_me_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 721,
+       "unit": "sections",
+       "file": "us_me_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 228,
+       "unit": "sections",
+       "file": "us_me_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 1717,
+       "unit": "sections",
+       "file": "us_me_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 25316,
+       "unit": "sections",
+       "file": "us_me_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Maryland",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 601,
+       "unit": "sections",
+       "file": "us_md_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 303,
+       "unit": "sections",
+       "file": "us_md_constitutions.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 677,
+       "unit": "sections",
+       "file": "us_md_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 12773,
+       "unit": "sections",
+       "file": "us_md_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 39552,
+       "unit": "sections",
+       "file": "us_md_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Massachusetts",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 529,
+       "unit": "sections",
+       "file": "us_ma_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 100,
+       "unit": "sections",
+       "file": "us_ma_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 972,
+       "unit": "sections",
+       "file": "us_ma_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 417,
+       "unit": "sections",
+       "file": "us_ma_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 23144,
+       "unit": "sections",
+       "file": "us_ma_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Michigan",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 275,
+       "unit": "sections",
+       "file": "us_mi_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1025,
+       "unit": "sections",
+       "file": "us_mi_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 151,
+       "unit": "sections",
+       "file": "us_mi_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 22154,
+       "unit": "sections",
+       "file": "us_mi_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 42355,
+       "unit": "sections",
+       "file": "us_mi_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Minnesota",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 77,
+       "unit": "sections",
+       "file": "us_mn_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 137,
+       "unit": "sections",
+       "file": "us_mn_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 958,
+       "unit": "sections",
+       "file": "us_mn_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 35,
+       "unit": "sections",
+       "file": "us_mn_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 15401,
+       "unit": "sections",
+       "file": "us_mn_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 27747,
+       "unit": "sections",
+       "file": "us_mn_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Mississippi",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 524,
+       "unit": "sections",
+       "file": "us_ms_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 298,
+       "unit": "sections",
+       "file": "us_ms_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 794,
+       "unit": "sections",
+       "file": "us_ms_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 240,
+       "unit": "sections",
+       "file": "us_ms_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 21270,
+       "unit": "sections",
+       "file": "us_ms_regulations.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Missouri",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 8449,
+       "unit": "sections",
+       "file": "us_mo_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 402,
+       "unit": "sections",
+       "file": "us_mo_constitutions.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 106,
+       "unit": "sections",
+       "file": "us_mo_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 29363,
+       "unit": "sections",
+       "file": "us_mo_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Montana",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 3527,
+       "unit": "sections",
+       "file": "us_mt_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 161,
+       "unit": "sections",
+       "file": "us_mt_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 238,
+       "unit": "sections",
+       "file": "us_mt_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 149,
+       "unit": "sections",
+       "file": "us_mt_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 50009,
+       "unit": "sections",
+       "file": "us_mt_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 30515,
+       "unit": "sections",
+       "file": "us_mt_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Nebraska",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 1191,
+       "unit": "sections",
+       "file": "us_ne_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 208,
+       "unit": "sections",
+       "file": "us_ne_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 734,
+       "unit": "sections",
+       "file": "us_ne_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 120,
+       "unit": "sections",
+       "file": "us_ne_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 13545,
+       "unit": "sections",
+       "file": "us_ne_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 28502,
+       "unit": "sections",
+       "file": "us_ne_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Nevada",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 41,
+       "unit": "sections",
+       "file": "us_nv_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 233,
+       "unit": "sections",
+       "file": "us_nv_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1340,
+       "unit": "sections",
+       "file": "us_nv_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 200,
+       "unit": "sections",
+       "file": "us_nv_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 30978,
+       "unit": "sections",
+       "file": "us_nv_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 49745,
+       "unit": "sections",
+       "file": "us_nv_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "New Hampshire",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 156,
+       "unit": "sections",
+       "file": "us_nh_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 972,
+       "unit": "sections",
+       "file": "us_nh_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 178,
+       "unit": "sections",
+       "file": "us_nh_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 38515,
+       "unit": "sections",
+       "file": "us_nh_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 25375,
+       "unit": "sections",
+       "file": "us_nh_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "New Jersey",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 16,
+       "unit": "sections",
+       "file": "us_nj_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 205,
+       "unit": "sections",
+       "file": "us_nj_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1685,
+       "unit": "sections",
+       "file": "us_nj_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 523,
+       "unit": "sections",
+       "file": "us_nj_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 55048,
+       "unit": "sections",
+       "file": "us_nj_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "New Mexico",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 265,
+       "unit": "sections",
+       "file": "us_nm_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 3462,
+       "unit": "sections",
+       "file": "us_nm_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 275,
+       "unit": "sections",
+       "file": "us_nm_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 36339,
+       "unit": "sections",
+       "file": "us_nm_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 31115,
+       "unit": "sections",
+       "file": "us_nm_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "New York",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 536,
+       "unit": "sections",
+       "file": "us_ny_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 202,
+       "unit": "sections",
+       "file": "us_ny_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1088,
+       "unit": "sections",
+       "file": "us_ny_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 1200,
+       "unit": "sections",
+       "file": "us_ny_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 40162,
+       "unit": "sections",
+       "file": "us_ny_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "North Carolina",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 1106,
+       "unit": "sections",
+       "file": "us_nc_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 155,
+       "unit": "sections",
+       "file": "us_nc_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 495,
+       "unit": "sections",
+       "file": "us_nc_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 117,
+       "unit": "sections",
+       "file": "us_nc_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 45826,
+       "unit": "sections",
+       "file": "us_nc_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 41290,
+       "unit": "sections",
+       "file": "us_nc_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "North Dakota",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 5550,
+       "unit": "sections",
+       "file": "us_nd_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 203,
+       "unit": "sections",
+       "file": "us_nd_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 2261,
+       "unit": "sections",
+       "file": "us_nd_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 235,
+       "unit": "sections",
+       "file": "us_nd_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 14343,
+       "unit": "sections",
+       "file": "us_nd_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 29042,
+       "unit": "sections",
+       "file": "us_nd_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Ohio",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 1406,
+       "unit": "sections",
+       "file": "us_oh_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 226,
+       "unit": "sections",
+       "file": "us_oh_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1167,
+       "unit": "sections",
+       "file": "us_oh_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 111,
+       "unit": "sections",
+       "file": "us_oh_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 19407,
+       "unit": "sections",
+       "file": "us_oh_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 33158,
+       "unit": "sections",
+       "file": "us_oh_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Oklahoma",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 3052,
+       "unit": "sections",
+       "file": "us_ok_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 456,
+       "unit": "sections",
+       "file": "us_ok_constitutions.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 144,
+       "unit": "sections",
+       "file": "us_ok_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 19594,
+       "unit": "sections",
+       "file": "us_ok_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 35330,
+       "unit": "sections",
+       "file": "us_ok_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Oregon",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 114,
+       "unit": "sections",
+       "file": "us_or_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 384,
+       "unit": "sections",
+       "file": "us_or_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 605,
+       "unit": "sections",
+       "file": "us_or_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 103,
+       "unit": "sections",
+       "file": "us_or_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 40870,
+       "unit": "sections",
+       "file": "us_or_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 72664,
+       "unit": "sections",
+       "file": "us_or_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Pennsylvania",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 653,
+       "unit": "sections",
+       "file": "us_pa_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 186,
+       "unit": "sections",
+       "file": "us_pa_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 2641,
+       "unit": "sections",
+       "file": "us_pa_court_rules.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 48233,
+       "unit": "sections",
+       "file": "us_pa_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 14617,
+       "unit": "sections",
+       "file": "us_pa_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Puerto Rico",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 81,
+       "unit": "sections",
+       "file": "us_pr_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 102,
+       "unit": "sections",
+       "file": "us_pr_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1528,
+       "unit": "sections",
+       "file": "us_pr_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 1641,
+       "unit": "sections",
+       "file": "us_pr_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 126853,
+       "unit": "sections",
+       "file": "us_pr_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 24763,
+       "unit": "sections",
+       "file": "us_pr_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Rhode Island",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 118,
+       "unit": "sections",
+       "file": "us_ri_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1032,
+       "unit": "sections",
+       "file": "us_ri_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 134,
+       "unit": "sections",
+       "file": "us_ri_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 21107,
+       "unit": "sections",
+       "file": "us_ri_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "South Carolina",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 178,
+       "unit": "sections",
+       "file": "us_sc_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 557,
+       "unit": "sections",
+       "file": "us_sc_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 319,
+       "unit": "sections",
+       "file": "us_sc_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 6189,
+       "unit": "sections",
+       "file": "us_sc_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 30489,
+       "unit": "sections",
+       "file": "us_sc_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "South Dakota",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 1652,
+       "unit": "sections",
+       "file": "us_sd_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 270,
+       "unit": "sections",
+       "file": "us_sd_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 155,
+       "unit": "sections",
+       "file": "us_sd_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 27,
+       "unit": "sections",
+       "file": "us_sd_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 29000,
+       "unit": "sections",
+       "file": "us_sd_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 39589,
+       "unit": "sections",
+       "file": "us_sd_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Tennessee",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 2651,
+       "unit": "sections",
+       "file": "us_tn_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 151,
+       "unit": "sections",
+       "file": "us_tn_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 626,
+       "unit": "sections",
+       "file": "us_tn_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 173,
+       "unit": "sections",
+       "file": "us_tn_guidance.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Texas",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 3502,
+       "unit": "sections",
+       "file": "us_tx_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 503,
+       "unit": "sections",
+       "file": "us_tx_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1050,
+       "unit": "sections",
+       "file": "us_tx_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 1284,
+       "unit": "sections",
+       "file": "us_tx_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 122630,
+       "unit": "sections",
+       "file": "us_tx_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Utah",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 189,
+       "unit": "sections",
+       "file": "us_ut_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 919,
+       "unit": "sections",
+       "file": "us_ut_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 168,
+       "unit": "sections",
+       "file": "us_ut_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 19949,
+       "unit": "sections",
+       "file": "us_ut_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 27556,
+       "unit": "sections",
+       "file": "us_ut_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Vermont",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 16,
+       "unit": "sections",
+       "file": "us_vt_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 98,
+       "unit": "sections",
+       "file": "us_vt_constitutions.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 214,
+       "unit": "sections",
+       "file": "us_vt_guidance.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 23521,
+       "unit": "sections",
+       "file": "us_vt_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 4
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Virginia",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 130,
+       "unit": "sections",
+       "file": "us_va_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 358,
+       "unit": "sections",
+       "file": "us_va_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 89,
+       "unit": "sections",
+       "file": "us_va_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 22396,
+       "unit": "sections",
+       "file": "us_va_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 33861,
+       "unit": "sections",
+       "file": "us_va_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Washington",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 4430,
+       "unit": "sections",
+       "file": "us_wa_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 270,
+       "unit": "sections",
+       "file": "us_wa_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1183,
+       "unit": "sections",
+       "file": "us_wa_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 24,
+       "unit": "sections",
+       "file": "us_wa_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 51026,
+       "unit": "sections",
+       "file": "us_wa_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 52002,
+       "unit": "sections",
+       "file": "us_wa_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "West Virginia",
+     "children": [
+      {
+       "name": "Attorney General opinions",
+       "status": "ready",
+       "of": 151,
+       "unit": "sections",
+       "file": "us_wv_ag_opinion.parquet"
+      },
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 204,
+       "unit": "sections",
+       "file": "us_wv_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1116,
+       "unit": "sections",
+       "file": "us_wv_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 174,
+       "unit": "sections",
+       "file": "us_wv_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 39372,
+       "unit": "sections",
+       "file": "us_wv_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 25664,
+       "unit": "sections",
+       "file": "us_wv_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 6
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Wisconsin",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 161,
+       "unit": "sections",
+       "file": "us_wi_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 395,
+       "unit": "sections",
+       "file": "us_wi_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 232,
+       "unit": "sections",
+       "file": "us_wi_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 17882,
+       "unit": "sections",
+       "file": "us_wi_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 18158,
+       "unit": "sections",
+       "file": "us_wi_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    },
+    {
+     "name": "Wyoming",
+     "children": [
+      {
+       "name": "Constitution",
+       "status": "ready",
+       "of": 316,
+       "unit": "sections",
+       "file": "us_wy_constitutions.parquet"
+      },
+      {
+       "name": "Court rules",
+       "status": "ready",
+       "of": 1020,
+       "unit": "sections",
+       "file": "us_wy_court_rules.parquet"
+      },
+      {
+       "name": "Agency guidance",
+       "status": "ready",
+       "of": 62,
+       "unit": "sections",
+       "file": "us_wy_guidance.parquet"
+      },
+      {
+       "name": "Regulations",
+       "status": "ready",
+       "of": 13348,
+       "unit": "sections",
+       "file": "us_wy_regulations.parquet"
+      },
+      {
+       "name": "Statutes",
+       "status": "ready",
+       "of": 20995,
+       "unit": "sections",
+       "file": "us_wy_statutes.parquet"
+      }
+     ],
+     "tally": {
+      "ready": 5
+     },
+     "have_total": 0
+    }
+   ],
+   "note": "Everything the open dataset holds for each jurisdiction. Not pulled yet.",
+   "tally": {
+    "ready": 269
+   },
+   "have_total": 0
+  }
+ ],
+ "dataset": {
+  "dataset": "open-us-law",
+  "snapshot": "v2026.09.1",
+  "snapshot_date": "2026-09-30",
+  "index_url": "https://oss-data-us.vaquill.ai/index.json",
+  "counted_on": "2026-10-18"
+ }
+}

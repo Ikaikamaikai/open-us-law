@@ -455,6 +455,9 @@ def main():
     for p in problems:
         print(f"        - {p}")
     print(f"built   {out} in {time.time() - t0:.0f}s")
+    if out == HERE / "data" / "hawaii.db":
+        import subprocess, sys
+        subprocess.run([sys.executable, str(HERE / "shape" / "build_shape.py")], check=False)
 
 
 if __name__ == "__main__":
