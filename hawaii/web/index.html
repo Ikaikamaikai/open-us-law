@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hawaii Public Info</title>
+<style>
+:root {
+  --bg: #fbfaf7; --panel: #ffffff; --ink: #1d1d1b; --muted: #6b6a64; --line: #e4e1d8;
+  --accent: #0f5c6e; --accent-soft: #e3f0f2; --mark: #fff1a8; --bad: #9a3412;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #121413; --panel: #1a1d1c; --ink: #e9e7e1; --muted: #9a988f; --line: #2c302e;
+          --accent: #6cc3d5; --accent-soft: #16292d; --mark: #5a4b00; --bad: #f59e7a; }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 var(--sans); }
+main { max-width: 1200px; margin: 0 auto; padding: 0 16px 40px; }
+.top { padding-top: 22vh; transition: padding-top .2s ease; }
+.top.used { padding-top: 18px; }
+h1 { font-weight: 600; font-size: 15px; letter-spacing: .02em; color: var(--muted); margin: 0 0 10px; text-align: center; }
+.top.used h1 { display: none; }
+.bar { display: flex; align-items: center; gap: 10px; background: var(--panel); border: 1px solid var(--line);
+       border-radius: 12px; padding: 12px 16px; box-shadow: 0 1px 2px rgb(0 0 0 / .04); }
+.bar:focus-within { border-color: var(--accent); }
+.bar input { flex: 1; border: 0; outline: 0; background: transparent; color: var(--ink); font: 19px var(--sans); min-width: 0; }
+.hint { color: var(--muted); font-size: 13px; text-align: center; margin-top: 10px; }
+.top.used .hint { display: none; }
+.readas { color: var(--muted); font-size: 13px; margin: 12px 2px 8px; min-height: 20px; }
+.grid { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); gap: 16px; }
+.grid.solo { grid-template-columns: 1fr; }
+@media (max-width: 820px) { .grid { grid-template-columns: 1fr; } }
+.list { display: flex; flex-direction: column; gap: 2px; }
+.item { padding: 9px 12px; border-radius: 8px; cursor: pointer; border: 1px solid transparent; }
+.item:hover { background: var(--panel); }
+.item.sel { background: var(--accent-soft); border-color: var(--accent); }
+.cite { font-weight: 600; }
+.sub { color: var(--muted); font-size: 13px; }
+.snip { font-size: 13px; margin-top: 3px; overflow-wrap: anywhere; }
+mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1px; }
+.detail { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; min-height: 120px; overflow-wrap: anywhere; }
+.detail:empty { display: none; }
+.detail h2 { font-size: 18px; margin: 0 0 2px; }
+.detail .text { white-space: pre-wrap; font-size: 14.5px; margin: 14px 0; }
+.tag { display: inline-block; font-size: 12px; padding: 1px 7px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); margin-right: 6px; }
+.tag.bad { color: var(--bad); border-color: var(--bad); }
+.src a, a { color: var(--accent); }
+.sec { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
+.sec h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 6px; font-weight: 600; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { text-align: left; font-size: 13px; padding: 2px 8px; border: 1px solid var(--line); border-radius: 6px; cursor: pointer; background: transparent; color: var(--ink); font-family: inherit; }
+.chip:hover { border-color: var(--accent); }
+.quote { border-left: 3px solid var(--accent); padding: 2px 10px; margin: 8px 0; font-size: 14px; }
+.step { padding: 8px 0 8px 14px; border-left: 2px solid var(--line); margin-left: 6px; }
+.step .via { color: var(--muted); font-size: 13px; }
+.foot { color: var(--muted); font-size: 12px; margin-top: 28px; text-align: center; }
+.parts { list-style: none; padding: 0; margin: 0; }
+.parts li { padding: 5px 0; border-bottom: 1px solid var(--line); cursor: pointer; }
+.parts li:last-child { border-bottom: 0; }
+kbd { font: 12px var(--mono); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="top" id="top">
+    <h1>Hawaii Public Info</h1>
+    <div class="bar"><input id="q" autocomplete="off" spellcheck="false" placeholder="HRS 92F-12 · who regulates public utilities · define franchise · appeal from district court" autofocus></div>
+    <div class="hint">Type a citation, a question, or words. <kbd>↑</kbd><kbd>↓</kbd> move · <kbd>Enter</kbd> open · <kbd>Esc</kbd> clear · <kbd>/</kbd> focus</div>
+  </div>
+  <div class="readas" id="readas"></div>
+  <div class="grid" id="grid">
+    <div class="list" id="list"></div>
+    <div class="detail" id="detail"></div>
+  </div>
+  <div class="foot" id="foot"></div>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+let items = [], sel = -1, timer = null, seq = 0;
+
+function marked(text) {
+  const span = el("span", "snip");
+  String(text || "").split(/(\[[^\]]*\])/).forEach(part => {
+    if (/^\[.*\]$/.test(part)) span.appendChild(el("mark", null, part.slice(1, -1)));
+    else span.appendChild(document.createTextNode(part));
+  });
+  return span;
+}
+function link(url) {
+  const p = el("div", "src sub");
+  if (!url) return p;
+  p.append("source: ");
+  const a = el("a", null, url); a.href = url; a.target = "_blank"; a.rel = "noopener noreferrer";
+  p.appendChild(a); return p;
+}
+function chip(label, onClick) { const b = el("button", "chip", label); b.type = "button"; b.onclick = onClick; return b; }
+function section(title, ...kids) { const s = el("div", "sec"); s.appendChild(el("h3", null, title)); kids.forEach(k => k && s.appendChild(k)); return s; }
+async function api(path) { const r = await fetch(path); return r.json(); }
+
+async function run(q) {
+  const my = ++seq;
+  if (!q.trim()) { $("list").replaceChildren(); $("detail").replaceChildren(); $("readas").textContent = ""; $("top").classList.remove("used"); return; }
+  $("top").classList.add("used");
+  const a = await api("/api/q?q=" + encodeURIComponent(q));
+  if (my !== seq) return;
+  $("readas").textContent = "read as: " + (a.read_as || a.intent);
+  items = [];
+  (a.sections || []).forEach(s => items.push({ kind: "section", id: s.id, title: s.citation, sub: s.heading, status: s.status }));
+  (a.results || []).forEach(s => items.push({ kind: s.corpus === "records" ? "record" : "section", id: s.id, title: s.citation, sub: s.heading, snip: s.snip, status: s.status, corpus: s.corpus }));
+  (a.definitions || []).forEach(d => items.push({ kind: "section", id: d.id, title: d.citation, sub: d.heading, snip: d.definition }));
+  (a.bodies || []).forEach(b => items.push({ kind: "body", id: b.body.id, title: b.body.name, sub: [b.body.level, b.body.kind].join(" · "), data: b }));
+  (a.rules || []).forEach(r => items.push({ kind: "section", id: r.from_id, title: r.citation, sub: r.heading }));
+  (a.cited_by || []).forEach(c => items.push({ kind: "section", id: c.id, title: c.citation, sub: c.kind + " · " + (c.heading || "") }));
+  render();
+  if (a.appeal_path) return showPath(a.appeal_path);
+  if (a.access) return showAccess(a.access);
+  if (a.structure) return showStructure(a.structure);
+  if (items.length) pick(0); else $("detail").replaceChildren(el("div", "sub", "Nothing found."));
+}
+function render() {
+  const list = $("list"); list.replaceChildren();
+  $("grid").classList.toggle("solo", items.length === 0);
+  items.forEach((it, i) => {
+    const d = el("div", "item" + (i === sel ? " sel" : ""));
+    const head = el("div"); head.appendChild(el("span", "cite", it.title));
+    if (it.status && it.status !== "in_force") head.appendChild(el("span", "tag bad", it.status));
+    d.appendChild(head);
+    if (it.sub) d.appendChild(el("div", "sub", it.sub + (it.corpus ? "  ·  " + it.corpus : "")));
+    if (it.snip) d.appendChild(marked(it.snip));
+    d.onclick = () => pick(i);
+    list.appendChild(d);
+  });
+}
+function pick(i) {
+  if (i < 0 || i >= items.length) return;
+  sel = i; render();
+  const it = items[i];
+  const node = $("list").children[i]; if (node) node.scrollIntoView({ block: "nearest" });
+  if (it.kind === "body") return showBody(it.data);
+  if (it.kind === "section") return showSection(it.id);
+}
+async function showSection(id) {
+  const d = await api("/api/section?id=" + encodeURIComponent(id));
+  const box = $("detail"); box.replaceChildren();
+  if (d.error) { box.appendChild(el("div", "sub", "This rule is listed by the LRB but its text has not been collected yet.")); return; }
+  const s = d.section;
+  box.appendChild(el("h2", null, s.citation));
+  const meta = el("div", "sub");
+  meta.append(s.heading || "");
+  box.appendChild(meta);
+  const tags = el("div");
+  if (s.status && s.status !== "in_force") tags.appendChild(el("span", "tag bad", s.status));
+  if (s.provenance && s.provenance.includes("ocr")) tags.appendChild(el("span", "tag", "text from OCR"));
+  if (s.last_amended_year) tags.appendChild(el("span", "tag", "amended " + s.last_amended_year));
+  if (s.path) tags.appendChild(el("span", "tag", s.path));
+  box.appendChild(tags);
+  box.appendChild(el("div", "text", s.text || ""));
+  box.appendChild(link(s.source_url));
+  const nav = el("div", "chips");
+  if (d.prev) nav.appendChild(chip("← " + d.prev.citation, () => showSection(d.prev.id)));
+  if (d.next) nav.appendChild(chip(d.next.citation + " →", () => showSection(d.next.id)));
+  if (nav.children.length) box.appendChild(section("Next to it", nav));
+  if (d.defs && d.defs.length) { const c = el("div", "chips"); d.defs.forEach(x => c.appendChild(chip(x.citation + " " + (x.heading || ""), () => showSection(x.id)))); box.appendChild(section("Definitions for this chapter", c)); }
+  if (d.rules && d.rules.length) { const c = el("div", "chips"); d.rules.slice(0, 80).forEach(x => c.appendChild(chip(x.citation, () => showSection(x.from_id)))); box.appendChild(section(`Implemented by ${d.rules.length} administrative rule section(s)`, c)); }
+  const out = (d.cites || []).filter(x => x.to_id);
+  if (out.length) { const c = el("div", "chips"); out.slice(0, 80).forEach(x => c.appendChild(chip(x.citation, () => showSection(x.to_id)))); box.appendChild(section("Cites", c)); }
+  const inn = (d.cited_by || []).filter(x => x.kind !== "implements");
+  if (inn.length) { const c = el("div", "chips"); inn.slice(0, 80).forEach(x => c.appendChild(chip(x.citation, () => showSection(x.id)))); box.appendChild(section(`Cited by ${inn.length}`, c)); }
+}
+function showBody(b) {
+  const box = $("detail"); box.replaceChildren();
+  const n = b.body;
+  box.appendChild(el("h2", null, n.name));
+  box.appendChild(el("div", "sub", [n.level, n.branch, n.kind].filter(Boolean).join(" · ")));
+  if (n.basis_cite) {
+    const s = el("div"); s.appendChild(el("div", "sub", "created by " + n.basis_cite + (n.verified ? "  ✓ quote found in the law" : "  ✗ quote not found")));
+    s.appendChild(el("div", "quote", n.basis_quote || ""));
+    s.appendChild(link(n.source_url));
+    if (n.basis_id) s.appendChild(chip("read " + n.basis_cite, () => showSection(n.basis_id)));
+    box.appendChild(s);
+  }
+  if (b.parent) box.appendChild(section("Part of", chip(b.parent.name, () => openBody(b.parent.id))));
+  if (b.children.length) { const c = el("div", "chips"); b.children.forEach(k => c.appendChild(chip(k.name, () => openBody(k.id)))); box.appendChild(section(`Contains ${b.children.length}`, c)); }
+  if (b.links.length) { const c = el("div"); b.links.forEach(l => c.appendChild(el("div", "sub", `${l.from_name} — ${l.relation.replaceAll("_", " ")} → ${l.to_name}   (${l.basis_cite})`))); box.appendChild(section("Connections", c)); }
+  if (b.access.length) { const c = el("div"); b.access.forEach(a => c.appendChild(el("div", "sub", `${a.record_kind}: ${a.basis_cite}`))); box.appendChild(section("Public access", c)); }
+  if (b.records.length) { const c = el("div"); b.records.forEach(r => c.appendChild(el("div", "sub", `${r.number || r.id}  ${r.title || ""}  ${r.date || ""}`))); box.appendChild(section("Your records held here", c)); }
+}
+async function openBody(id) { showBody(await api("/api/body?id=" + encodeURIComponent(id))); }
+function showPath(path) {
+  const box = $("detail"); box.replaceChildren(el("h2", null, "Where a decision goes next"));
+  path.forEach(st => {
+    const s = el("div", "step"); s.appendChild(el("div", "cite", st.name));
+    if (st.next) { s.appendChild(el("div", "via", `↓ ${st.next.relation.replaceAll("_", " ")} — ${st.next.basis_cite}`)); s.appendChild(el("div", "quote", st.next.basis_quote)); }
+    box.appendChild(s);
+  });
+}
+function showAccess(rows) {
+  const box = $("detail"); box.replaceChildren(el("h2", null, "Laws that open records and meetings"));
+  rows.forEach(a => { const s = el("div", "sec"); s.appendChild(el("div", "cite", a.record_kind)); s.appendChild(el("div", "sub", a.basis_cite + "  →  " + (a.body_name || ""))); s.appendChild(el("div", "quote", a.basis_quote)); if (a.basis_id) s.appendChild(chip("read " + a.basis_cite, () => showSection(a.basis_id))); box.appendChild(s); });
+}
+function showStructure(st) {
+  const box = $("detail"); box.replaceChildren(el("h2", null, st.structure.name));
+  box.appendChild(el("div", "sub", "required by " + st.structure.basis_cite));
+  if (st.structure.note) box.appendChild(el("div", "quote", st.structure.note));
+  box.appendChild(link(st.structure.source_url));
+  const ul = el("ul", "parts"); const text = el("div", "text");
+  st.parts.forEach(p => { const li = el("li"); li.appendChild(el("span", "cite", p.label + "  ")); li.append(p.heading); li.onclick = () => { text.textContent = p.label + ": " + p.heading + "\n\n" + p.text; }; ul.appendChild(li); });
+  box.appendChild(section("Parts", ul)); box.appendChild(text);
+}
+$("q").addEventListener("input", e => { clearTimeout(timer); timer = setTimeout(() => run(e.target.value), 180); });
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && document.activeElement !== $("q")) { e.preventDefault(); $("q").focus(); return; }
+  if (e.key === "Escape") { $("q").value = ""; run(""); $("q").focus(); return; }
+  if (e.key === "ArrowDown") { e.preventDefault(); pick(Math.min(sel + 1, items.length - 1)); }
+  if (e.key === "ArrowUp") { e.preventDefault(); pick(Math.max(sel - 1, 0)); }
+  if (e.key === "Enter" && document.activeElement === $("q")) { clearTimeout(timer); run($("q").value); }
+});
+api("/api/coverage").then(c => {
+  const n = c.corpora.reduce((a, x) => a + x.sections, 0);
+  $("foot").textContent = `${n.toLocaleString()} sections · ${c.corpora.length} sources · HAR directory ${c.har_chapters.listed} chapters · all local, nothing leaves this machine · published text, not legal advice`;
+});
+</script>
+</body>
+</html>
