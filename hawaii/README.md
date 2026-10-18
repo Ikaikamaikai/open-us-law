@@ -23,7 +23,7 @@ It shows published text and where it came from. It does not characterize, score,
 cd hawaii
 pip install duckdb pdfplumber          # needed only to build; the finished tool uses plain Python
 python3 fetch.py                       # downloads ~95 MB of law, checks every file's published sha256
-python3 har/scrape_har.py data/har     # optional: collects HAR text from agency sites (hours; resumes if stopped)
+python3 har/scrape_har.py data/har     # optional: re-collects HAR text from agency sites (hours; a collected copy is included)
 python3 build.py                       # builds data/hawaii.db (about a minute)
 ```
 
@@ -99,7 +99,7 @@ so every rebuild includes it. Only `id`, `kind` and `source_url` are required; e
 | Hawaii court rules (31 rule sets) | 1,259 | Open US Law v2026.09.1 |
 | Hawaii Attorney General opinions | 66 | Open US Law v2026.09.1 |
 | Hawaii Insurance Division memoranda | 171 | Open US Law v2026.09.1 |
-| Hawaii Administrative Rules | collected by `har/scrape_har.py` | agency PDFs listed by the Lieutenant Governor |
+| Hawaii Administrative Rules | 12,707 (545 of 1,001 active chapters) | agency PDFs listed by the Lieutenant Governor; kept in `har/har_sections.jsonl.gz`, crawl log in `har/har_pdfs.csv` |
 | HAR directory and HRS→HAR table | 1,605 chapters, 33,931 links | LRB, *2025 Table of Statutory Sections Implemented and Directory* |
 | United States Code | 60,667 | Open US Law v2026.09.1 |
 | U.S. Constitution | 74 | Open US Law v2026.09.1 |

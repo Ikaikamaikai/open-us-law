@@ -92,9 +92,12 @@ def load_har(db, data):
                     None if c["repealed"] == "" else int(c["repealed"])))
         names[f"{c['title']}-{c['chapter']}"] = (c["chapter_name"], c["title_name"])
     path = data / "har" / "har_sections.jsonl"
+    if not path.exists():
+        path = HERE / "har" / "har_sections.jsonl.gz"     # the collected copy kept in the repository
     n = 0
     if path.exists():
-        for line in open(path):
+        import gzip
+        for line in (gzip.open(path, "rt") if path.suffix == ".gz" else open(path)):
             s = json.loads(line)
             cname, tname = names.get(s["chapter"], (None, None))
             db.execute(
