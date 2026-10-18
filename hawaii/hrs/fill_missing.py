@@ -1,16 +1,19 @@
-"""Fetch HRS sections that the Table of Contents or the 2025 Table of Disposition name but this copy lacks.
+"""Fetch HRS sections that the official Legislature server has but this copy lacks.
 
-Run this on your own computer (capitol.hawaii.gov blocks most cloud servers). For each section it tries the
-Legislature's page first, then the Internet Archive's copy of that page. Every section keeps the URL it came from.
+The Legislature publishes the HRS on two hosts with the same files: www.capitol.hawaii.gov (which blocks many
+cloud servers) and its data server, data.capitol.hawaii.gov, whose folders can be listed. With --all this lists
+every chapter folder on the data server, compares every section file with the database, and fetches the ones
+that are not here. Every section keeps the www.capitol.hawaii.gov URL of the page it came from.
 
-  python3 hrs/fill_missing.py                 # the sections listed by hrs/check.py
+  python3 hrs/fill_missing.py --all           # every section on the Legislature's server that is not here
+  python3 hrs/fill_missing.py                 # just the sections listed by hrs/check.py
   python3 hrs/fill_missing.py 92F-11 26-1     # just these
-  python3 hrs/fill_missing.py --dry-run       # print the URLs it would fetch
+  python3 hrs/fill_missing.py --all --dry-run # count what it would fetch
 
-Output: data/law/hrs_fill.jsonl (build.py loads it; sections already present are never replaced).
+Output: data/law/hrs_fill.jsonl and hrs/hrs_fill_log.csv (build.py loads the sections; it never replaces a
+section that is already present).
 """
 import csv
-import html
 import json
 import re
 import sqlite3
@@ -18,6 +21,7 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from html.parser import HTMLParser
 from pathlib import Path
 
@@ -26,6 +30,7 @@ DATA = HERE.parent / "data"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
                     "Chrome/126.0 Safari/537.36"}
 BASE = "https://www.capitol.hawaii.gov/hrscurrent"
+DATA_BASE = "https://data.capitol.hawaii.gov/hrscurrent"
 NUM = re.compile(r"^(\d+)([A-Z]*)(?::(\d+)([A-Z]*))?-(\d+)(?:\.(\d+))?([A-Z]*)$")
 NOTES = ("attorney general opinions", "law journals and reviews", "case notes", "rules of court", "cross references",
          "revision note", "compiler's note", "hawaii administrative rules", "note", "notes", "effect of amendments")
@@ -125,12 +130,23 @@ def parse_page(raw, num):
 def fetch(url):
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
-            body = r.read().decode("windows-1252", "replace")
-            if "Attention Required" in body and "Cloudflare" in body:
-                return None
-            return body
+            raw = r.read()
     except Exception:
         return None
+    for enc in ("utf-8-sig", "windows-1252"):
+        try:
+            body = raw.decode(enc)
+            break
+        except UnicodeDecodeError:
+            continue
+    if "Attention Required" in body and "Cloudflare" in body:
+        return None
+    return body
+
+
+def listing(url):
+    body = fetch(url)
+    return re.findall(r'HREF="([^"]+)"', body or "", re.I)
 
 
 def wayback(url):
@@ -155,45 +171,93 @@ def targets_from_checks():
     return list(dict.fromkeys(out))
 
 
+def server_inventory(workers=4):
+    """Every section page on the Legislature's data server: {number: path}."""
+    sys.path.insert(0, str(HERE.parent))
+    from cite import hrs_number_from_url
+    vols = [h for h in listing(DATA_BASE + "/") if re.search(r"/hrscurrent/Vol\d+[^/]*/$", h)]
+    chapters = []
+    for v in vols:
+        chapters += [h for h in listing("https://data.capitol.hawaii.gov" + v) if re.search(r"/HRS\d+[A-Z]*/$", h)]
+    print(f"{len(vols)} volumes, {len(chapters)} chapter folders on data.capitol.hawaii.gov")
+    found = {}
+    with ThreadPoolExecutor(workers) as ex:
+        for files in ex.map(lambda c: listing("https://data.capitol.hawaii.gov" + c), chapters):
+            for f in files:
+                num = hrs_number_from_url(f)
+                if num and f.lower().endswith(".htm"):
+                    found.setdefault(num, f)
+    return found
+
+
+def one(num, path, by_chapter, ranges):
+    if path:
+        data_url = "https://data.capitol.hawaii.gov" + path
+        www_url = "https://www.capitol.hawaii.gov" + path
+    else:
+        www_url = url_for(num, by_chapter, ranges)
+        if not www_url:
+            return num, "no_url", None, None
+        data_url = www_url.replace("https://www.capitol.hawaii.gov", "https://data.capitol.hawaii.gov")
+    for url in (data_url, www_url):
+        raw = fetch(url)
+        if raw:
+            rec = parse_page(raw, num)
+            if rec:
+                rec.update(number=num, citation=f"Haw. Rev. Stat. § {num}", source_url=www_url, fetched_from=url,
+                           fetched=time.strftime("%Y-%m-%d"))
+                return num, "ok", www_url, rec
+            return num, "page_has_no_matching_section", www_url, None
+    raw, src = wayback(www_url)
+    rec = parse_page(raw, num) if raw else None
+    if rec:
+        rec.update(number=num, citation=f"Haw. Rev. Stat. § {num}", source_url=www_url, fetched_from=src,
+                   fetched=time.strftime("%Y-%m-%d"))
+        return num, "ok", www_url, rec
+    return num, "not_found", www_url, None
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    dry = "--dry-run" in sys.argv
+    dry, everything = "--dry-run" in sys.argv, "--all" in sys.argv
     con = sqlite3.connect(DATA / "hawaii.db")
     by_chapter, ranges = volume_folders(con)
-    wanted = args or targets_from_checks()
+    have = {r[0] for r in con.execute("select number from section where corpus='hrs'")}
     out_path = DATA / "law" / "hrs_fill.jsonl"
     done = set()
     if out_path.exists():
         done = {json.loads(l)["number"] for l in open(out_path)}
+    paths = {}
+    if everything:
+        paths = server_inventory()
+        wanted = sorted(n for n in paths if n not in have)
+        print(f"{len(paths)} section pages on the server; {len(wanted)} are not in the database")
+    else:
+        wanted = [n for n in (args or targets_from_checks()) if n not in have]
     todo = [n for n in wanted if n not in done]
     print(f"{len(wanted)} sections wanted, {len(done)} already fetched, {len(todo)} to go")
-    got = 0
-    with open(out_path, "a") as f:
-        for i, num in enumerate(todo, 1):
-            url = url_for(num, by_chapter, ranges)
-            if dry:
-                print(num, url)
-                continue
-            if not url:
-                print(f"  {num}: no URL")
-                continue
-            raw, src = fetch(url), url
-            if raw is None:
-                raw, src = wayback(url)
-            rec = parse_page(raw, num) if raw else None
-            if not rec:
-                print(f"  {num}: not found ({url})")
-                continue
-            rec.update(number=num, citation=f"Haw. Rev. Stat. § {num}", source_url=url, fetched_from=src,
-                       fetched=time.strftime("%Y-%m-%d"))
-            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            f.flush()
-            got += 1
-            if i % 25 == 0:
-                print(f"  {i}/{len(todo)}  ({got} fetched)")
-            time.sleep(0.5)
-    if not dry:
-        print(f"fetched {got}; saved to {out_path}. Run build.py to include them.")
+    if dry:
+        for n in todo[:50]:
+            print(" ", n, paths.get(n) or url_for(n, by_chapter, ranges))
+        return
+    got, log = 0, []
+    with open(out_path, "a") as f, ThreadPoolExecutor(4) as ex:
+        futs = [ex.submit(one, n, paths.get(n), by_chapter, ranges) for n in todo]
+        for i, fut in enumerate(as_completed(futs), 1):
+            num, status, url, rec = fut.result()
+            log.append((num, status, url))
+            if rec:
+                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                f.flush()
+                got += 1
+            if i % 100 == 0:
+                print(f"  {i}/{len(todo)}  ({got} fetched)", flush=True)
+    with open(HERE / "hrs_fill_log.csv", "a", newline="") as lf:
+        w = csv.writer(lf)
+        if lf.tell() == 0:
+            w.writerow(["number", "status", "url"])
+        w.writerows(sorted(log))
+    print(f"fetched {got} of {len(todo)}; saved to {out_path}. Run build.py to include them.")
 
 
 if __name__ == "__main__":
