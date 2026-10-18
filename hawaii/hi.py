@@ -10,6 +10,9 @@
   hi rules <HRS citation>       Hawaii Administrative Rules that implement a statute
   hi cites <text | @file>       find and resolve every citation in a text
   hi browse [corpus [chapter]]  walk the hierarchy
+  hi chapter <n>                the official outline of an HRS chapter, and which sections this copy has
+  hi act <n> [year]             what a session law changed in the HRS (2025 Table of Disposition)
+  hi gaps                       how this copy compares with the official TOC and Table of Disposition
   hi map [name]                 government structure, each part with the law that creates it
   hi access                     the laws that open records and meetings to the public
   hi structure [id]             document layouts the law requires (e.g. fdd)
@@ -176,6 +179,59 @@ def implementing_rules(con, sec_id):
     return out
 
 
+def session_laws_for(con, sec_id):
+    return [dict(r) for r in con.execute(
+        """select year, act, act_section, repealed, heading_only, noted_in_text from session_law
+           where section_id = ? order by year desc, act""", (sec_id,))]
+
+
+def session_law_act(con, act, year=2025):
+    rows = con.execute(
+        """select l.*, s.citation, s.heading, s.status as section_status from session_law l
+           left join section s on s.id = l.section_id where l.year = ? and l.act = ? order by l.rowid""",
+        (year, act)).fetchall()
+    return [dict(r) for r in rows]
+
+
+def outline(con, chapter):
+    ch = con.execute("select * from hrs_chapter where upper(chapter) = upper(?)", (chapter,)).fetchone()
+    if not ch:
+        return None
+    parts = [dict(r) for r in con.execute("select * from hrs_part where upper(chapter) = upper(?) order by rowid", (chapter,))]
+    for p in parts:
+        p["present"] = bool(p["first_section"]) and con.execute(
+            "select 1 from section where cite_key = ?", ("haw rev stat " + (p["first_section"] or "").lower(),)).fetchone() is not None
+    secs = [dict(r) for r in con.execute(
+        "select id, number, heading, status, part from section where corpus='hrs' and upper(chapter)=upper(?) order by ord",
+        (chapter,))]
+    return {"chapter": dict(ch), "parts": parts, "sections": secs}
+
+
+def gaps(con):
+    q = {
+        "chapters listed in force with no sections here":
+            "select count(*) from hrs_chapter where status='in_force' and sections_here=0",
+        "opening sections of chapters/parts not here":
+            """select count(*) from (select p.first_section f from hrs_part p join hrs_chapter c on c.chapter = p.chapter
+               where p.status='in_force' and c.status='in_force' and p.first_section is not null and c.sections_here>0
+               union select first_section from hrs_chapter where status='in_force' and first_section is not null and sections_here>0)
+               where not exists (select 1 from section s where s.cite_key = 'haw rev stat ' || lower(f))""",
+        "2025 act targets not here":
+            "select count(*) from session_law where year=2025 and kind='section' and repealed=0 and section_id is null",
+        "2025 repeals still in force here":
+            """select count(*) from session_law l join section s on s.id=l.section_id
+               where l.year=2025 and l.repealed=1 and s.status='in_force'""",
+        "2025 amendments not cited in the section's history note":
+            """select count(*) from session_law where year=2025 and kind='section' and repealed=0 and heading_only=0
+               and section_id is not null and noted_in_text=0""",
+        "section numbers repaired from source URLs":
+            "select count(*) from section where provenance like '%repaired from source URL%'",
+        "sections filled by hrs/fill_missing.py":
+            "select count(*) from section where corpus='hrs' and provenance like 'fetched %'",
+    }
+    return {k: con.execute(v).fetchone()[0] for k, v in q.items()}
+
+
 def extract_citations(con, text):
     found = {}
     for key, kind in refs_in_text(text, "hrs"):
@@ -240,6 +296,9 @@ def coverage(con):
 
 # ============================================================ intent: what the person is asking
 INTENTS = [
+    ("act", re.compile(r"^(?:(\d{4})\s+)?(?:act|session laws?(?: act)?)\s+(\d{1,3})(?:\s*(?:of|,)?\s*(\d{4}))?\s*$", re.I)),
+    ("outline", re.compile(r"^(?:hrs\s+)?(?:chapter|ch\.?|outline(?: of)?(?: chapter)?)\s+(\d{1,3}[a-z]{0,2})\s*$", re.I)),
+    ("gaps", re.compile(r"^(?:gaps|completeness|what(?:'s| is) not here)\??$", re.I)),
     ("define", re.compile(r"^(?:define|definition of|meaning of|what (?:is|are) (?:the )?(?:legal )?definition of|what does (?:the term )?[\"“]?(.+?)[\"”]? mean)\s*[\"“]?(.*?)[\"”]?\??$", re.I)),
     ("who", re.compile(r"^(?:who|what agency|which agency|which department|what department)\s+(?:runs|heads|oversees|controls|regulates|handles|is in charge of|is responsible for|enforces|licenses)\s+(.+?)\??$", re.I)),
     ("appeal", re.compile(r"^(?:how (?:do i|to|can i) )?appeal(?:s)?(?: (?:from|a decision of|a))?\s*(.*?)\??$", re.I)),
@@ -263,9 +322,17 @@ def interpret(q):
     if re.search(r"\b(?:including repealed|repealed too|all versions)\b", s, re.I):
         filters["all"] = True
         s = re.sub(r"\b(?:including repealed|repealed too|all versions)\b", "", s, flags=re.I).strip()
+    for name in ("act", "outline", "gaps"):
+        m = dict(INTENTS)[name].match(s)
+        if m:
+            if name == "act":
+                return "act", f"{m.group(2)} {m.group(1) or m.group(3) or 2025}", filters
+            return name, (m.group(1) if m.groups() else ""), filters
     if keys_for_query(s) and re.search(r"\d", s):
         return "read", s, filters
     for name, pat in INTENTS:
+        if name in ("act", "outline", "gaps"):
+            continue
         m = pat.search(s)
         if m:
             obj = next((g for g in m.groups() if g), "") if m.groups() else s
@@ -278,6 +345,21 @@ def interpret(q):
 def answer(con, q):
     intent, obj, f = interpret(q)
     out = {"query": q, "intent": intent, "object": obj, "filters": f}
+    if intent == "act":
+        act, year = obj.split()
+        out["act"] = {"year": int(year), "act": int(act), "targets": session_law_act(con, int(act), int(year))}
+        out["read_as"] = f"Session Laws of {year}, Act {act}: what it changed in the HRS"
+        return out
+    if intent == "outline":
+        out["outline"] = outline(con, obj)
+        if out["outline"]:
+            c = out["outline"]["chapter"]
+            out["read_as"] = f"HRS chapter {c['chapter']}: {c['chapter_name']}"
+            return out
+    if intent == "gaps":
+        out["gaps"] = gaps(con)
+        out["read_as"] = "How this copy of the HRS compares with the official Table of Contents and 2025 Table of Disposition"
+        return out
     if intent == "read":
         rows = resolve(con, obj)
         if rows:
@@ -424,10 +506,43 @@ def p_answer(a, con):
         cb = cited_by(con, s["id"], 15)
         if prev or nxt:
             print(f"{D}  ← {prev['citation'] if prev else '—'}   |   {nxt['citation'] if nxt else '—'} →{R}")
+        for l in session_laws_for(con, s["id"]):
+            what = "repealed" if l["repealed"] else ("heading changed" if l["heading_only"] else "added or amended")
+            note = "" if l["noted_in_text"] or l["repealed"] else f"  {D}(not yet in this copy's history note){R}"
+            print(f"  {l['year']} Session Laws, Act {l['act']} §{l['act_section'] or ''}: {what}{note}")
         if rules:
             print(f"  implemented by {len(rules)} administrative rule section(s): " + ", ".join(r["citation"] for r in rules[:12]))
         if cb:
             print("  cited by: " + ", ".join(c["citation"] for c in cb if c["kind"] == "cites")[:600])
+    if a.get("act"):
+        x = a["act"]
+        print(f"{B}Session Laws of {x['year']}, Act {x['act']}{R}  ({len(x['targets'])} entries in the Table of Disposition)")
+        for t in x["targets"]:
+            mark = " (R)" if t["repealed"] else (" (heading)" if t["heading_only"] else "")
+            if t["kind"] == "omitted":
+                print(f"  §{t['act_section'] or ''}  not codified (O)")
+            else:
+                here = t.get("citation") or f"{t['target']}  {D}not in this copy{R}" if t["kind"] == "section" else t["target"]
+                print(f"  §{t['act_section'] or ''}  {here}{mark}  {t.get('heading') or ''}")
+        print()
+    if a.get("outline"):
+        o = a["outline"]
+        c = o["chapter"]
+        print(f"{B}HRS chapter {c['chapter']}. {c['chapter_name']}{R}  [{c['status']}]")
+        print(f"  Division {c['division']}. {c['division_name']} / Title {c['title']}. {c['title_name']}"
+              + (f" / Subtitle {c['subtitle']}. {c['subtitle_name']}" if c["subtitle"] else ""))
+        print(f"  {c['sections_here']} sections in this copy  {D}(official TOC page {c['page']}){R}")
+        for p in o["parts"]:
+            lab = {"part": f"Part {p['part']}.", "article": f"Article {p['article']}.", "subpart": f"  {p['part']}.",
+                   "unnumbered": ""}.get(p["kind"], "")
+            name = p["part_name"] or p["article_name"] or ""
+            here = "" if not p["first_section"] else ("" if p["present"] else f"  {D}§{p['first_section']} not in this copy{R}")
+            print(f"   {lab} {name}  {D}{p['first_section'] or ''} {'' if p['status'] == 'in_force' else '[' + p['status'] + ']'}{R}{here}")
+        print()
+    if a.get("gaps"):
+        for k, v in a["gaps"].items():
+            print(f"  {v:>6,}  {k}")
+        print(f"\n{D}  details: hrs/COMPLETENESS.md and hrs/checks/*.csv{R}\n")
     for d in a.get("definitions", []):
         print(f"{B}{d['citation']}{R}  {d['heading']}\n{wrap(d['definition'])}\n{D}  source: {d['source_url']}{R}\n")
     for d in a.get("bodies", []):
@@ -555,6 +670,7 @@ def serve(port):
                     s = dict(row)
                     prev, nxt = neighbors(con, s)
                     return self.send(200, {"section": s, "prev": prev, "next": nxt, "defs": definitions(con, s)[:3],
+                                           "session_laws": session_laws_for(con, s["id"]),
                                            "cites": cites_from(con, s["id"]), "cited_by": cited_by(con, s["id"]),
                                            "rules": implementing_rules(con, s["id"])})
                 if u.path == "/api/body":
@@ -584,6 +700,9 @@ MCP_TOOLS = [
     ("public_access", "The laws that open records and meetings to the public.", {}),
     ("document_structure", "Layouts the law requires a document to follow, e.g. fdd (Franchise Disclosure Document).", {"id": "string?"}),
     ("coverage", "What the local database contains.", {}),
+    ("hrs_chapter_outline", "The official outline of an HRS chapter (parts, articles, first sections) and which of its sections this database holds.", {"chapter": "string"}),
+    ("session_law", "What a session law act changed in the HRS, from the official Table of Disposition (2025).", {"act": "integer", "year": "integer?"}),
+    ("completeness", "How this copy of the HRS compares with the official Table of Contents and 2025 Table of Disposition.", {}),
 ]
 
 
@@ -617,6 +736,12 @@ def mcp_call(con, name, a):
         return structure(con, a.get("id"))
     if name == "coverage":
         return coverage(con)
+    if name == "hrs_chapter_outline":
+        return outline(con, a["chapter"]) or {"error": "no such chapter in the HRS Table of Contents"}
+    if name == "session_law":
+        return session_law_act(con, int(a["act"]), int(a.get("year", 2025)))
+    if name == "completeness":
+        return gaps(con)
     raise ValueError(f"unknown tool {name}")
 
 
@@ -747,6 +872,12 @@ def main(argv):
             print(f"\n{D}✗ = the quoted words were not found in that provision. `hi map <name>` for detail; "
                   f"mined bodies: map/bodies_mined.csv{R}")
         return
+    if cmd == "act":
+        return p_answer(answer(con, "act " + text), con)
+    if cmd in ("chapter", "outline"):
+        return p_answer(answer(con, "chapter " + text), con)
+    if cmd == "gaps":
+        return p_answer(answer(con, "gaps"), con)
     if cmd == "access":
         return p_answer(answer(con, "public records"), con)
     if cmd == "structure":

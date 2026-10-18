@@ -35,6 +35,8 @@ CREATE TABLE IF NOT EXISTS section (
   title_name        TEXT,
   chapter           TEXT,
   chapter_name      TEXT,
+  part              TEXT,                  -- "Part II. Freedom of Information" (HRS, from the official TOC)
+  division          TEXT,                  -- "Division 1. Government" (HRS)
   path              TEXT,                  -- "Title 4 / Chapter 26 / § 26-4"
   ord               REAL,                  -- order of the section inside its chapter
   status            TEXT,                  -- in_force | repealed | reserved | expired | omitted | transferred ...
@@ -80,6 +82,53 @@ CREATE TABLE IF NOT EXISTS har_chapter (
   repealed      INTEGER,       -- 1 | 0 | NULL when the directory does not say
   have_text     INTEGER DEFAULT 0
 );
+
+-- The official HRS outline (Table of Contents, updated 2/10/2025): every chapter, including
+-- repealed ones and chapters not present in the section table.
+CREATE TABLE IF NOT EXISTS hrs_chapter (
+  division      TEXT,
+  division_name TEXT,
+  title         TEXT NOT NULL,
+  title_name    TEXT,
+  subtitle      TEXT,
+  subtitle_name TEXT,
+  chapter       TEXT NOT NULL,
+  chapter_to    TEXT,          -- for "807 to 830 RESERVED FOR EXPANSION"
+  chapter_name  TEXT,
+  status        TEXT,          -- in_force | repealed | renumbered | reserved, as the TOC marks it
+  first_section TEXT,
+  page          INTEGER,       -- page of the TOC PDF
+  sections_here INTEGER        -- how many sections of this chapter are in the section table
+);
+CREATE TABLE IF NOT EXISTS hrs_part (
+  chapter       TEXT NOT NULL,
+  kind          TEXT,          -- part | article | subpart | unnumbered
+  article       TEXT,
+  article_name  TEXT,
+  part          TEXT,
+  part_name     TEXT,
+  status        TEXT,
+  first_section TEXT,
+  page          INTEGER
+);
+
+-- Session laws to HRS (Table of Disposition, Table 2). One row per HRS target an act section touched.
+CREATE TABLE IF NOT EXISTS session_law (
+  year         INTEGER NOT NULL,
+  act          INTEGER NOT NULL,
+  act_section  TEXT,
+  kind         TEXT,           -- section | chapter | part | subpart | article | omitted
+  target       TEXT,           -- "803-6", "c 663J", "c 92 pt VII"
+  chapter      TEXT,
+  repealed     INTEGER,        -- the table marks it (R)
+  heading_only INTEGER,        -- the table marks it (heading)
+  section_id   TEXT,           -- section.id when the target section is in the section table
+  noted_in_text INTEGER,       -- 1 when that section's own history note cites "L <year>, c <act>"
+  raw          TEXT,
+  page         INTEGER
+);
+CREATE INDEX IF NOT EXISTS session_law_section ON session_law(section_id);
+CREATE INDEX IF NOT EXISTS session_law_act ON session_law(year, act);
 
 ------------------------------------------------------------------------------------
 -- GOVERNMENT: who exists, what created them, and how they connect.

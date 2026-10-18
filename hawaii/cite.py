@@ -147,3 +147,31 @@ def hrs_in_note(note):
     part = note.split("HRS", 1)[1]
     part = re.split(r"\b(?:U\.?S\.?C|C\.?F\.?R|SLH|Pub\.? ?L)\b", part)[0]
     return [n.lower() for n in HRS_IN_NOTE.findall(part)]
+
+
+HRS_NUM_PARTS = re.compile(r"^(\d+)([A-Z]*)(?::(\d+)([A-Z]*))?-(\d+(?:\.\d+)?)([A-Z]*)$")
+
+
+def hrs_order(num):
+    """Sort key for an HRS section number inside its chapter: '431:10A-304' -> (10, 'A', 304.0, '')."""
+    m = HRS_NUM_PARTS.match((num or "").upper())
+    if not m:
+        return None
+    return (int(m.group(3)) if m.group(3) else -1, m.group(4) or "", float(m.group(5)), m.group(6) or "")
+
+
+HRS_FILE = re.compile(r"HRS_0*(\d+)([A-Za-z]*)-((?:\d{4}[A-Za-z]?-)?)0*(\d+)([A-Za-z]?)((?:_\d{4})*)\.htm$")
+
+
+def hrs_number_from_url(url):
+    """The Legislature's file name carries the section number: HRS_0412-0002-0100_0005.htm -> 412:2-100.5."""
+    m = HRS_FILE.search(url or "")
+    if not m:
+        return None
+    chap = m.group(1) + m.group(2).upper()
+    art = m.group(3).rstrip("-")
+    art = (str(int(art[:4])) + art[4:].upper()) if art else ""
+    sec = m.group(4) + m.group(5).upper()
+    dec = "".join(str(int(d)) for d in m.group(6).split("_") if d)
+    num = f"{chap}:{art}-{sec}" if art else f"{chap}-{sec}"
+    return num + (f".{dec}" if dec else "")

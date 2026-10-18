@@ -13,7 +13,7 @@ from pathlib import Path
 
 import duckdb
 
-from cite import hrs_in_note, norm, refs_in_text
+from cite import HRS_NUM_PARTS, hrs_in_note, hrs_number_from_url, hrs_order, norm, refs_in_text
 
 HERE = Path(__file__).parent
 CORPORA = {
@@ -51,6 +51,13 @@ def load_parquet(db, path, corpus, snapshot):
     seen, n = set(), 0
     for row in con.sql(q).fetchall():
         (citation, number, heading, tnum, tname, chap, cname, path_, status, year, amended, text, url) = row
+        prov = f"vaquill open-us-law {snapshot}"
+        if corpus == "hrs" and not HRS_NUM_PARTS.match((number or "").upper()):
+            fixed = hrs_number_from_url(url)
+            if fixed:
+                prov += f"; section number repaired from source URL (was '{number}')"
+                number, citation = fixed, f"Haw. Rev. Stat. § {fixed}"
+                chap = re.split(r"[-:]", fixed)[0]
         if corpus == "usc" and number is None:
             m = re.match(r"^(\d+) U\.S\.C\. § (\S+)", citation or "")
             number = f"{m.group(1)}-{m.group(2)}" if m else None
@@ -70,7 +77,7 @@ def load_parquet(db, path, corpus, snapshot):
             "chapter_name,path,ord,status,year,last_amended_year,text,source_url,provenance) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (sid, corpus, CORPORA[corpus][1], re.sub(r"\s*\(\d{4}\)$", "", citation or ""), norm(citation or ""), number,
              heading, tnum, None if tname in JUNK_TITLE else tname, chap, cname, path_, ord_of(number), status, year,
-             amended, text, url or "", f"vaquill open-us-law {snapshot}"))
+             amended, text, url or "", prov))
         n += 1
     return n
 
@@ -112,6 +119,102 @@ def load_har(db, data):
         db.execute("insert into ref values (?,?,?,?,?)",
                    (f"har:{r['har_section']}", f"haw rev stat {hrs.lower()}", None, "implements", "lrb-2025-table"))
     return n, len(chapters)
+
+
+def load_hrs_fill(db, data):
+    """Sections fetched by hrs/fill_missing.py. Never replaces a section already loaded."""
+    path = data / "law" / "hrs_fill.jsonl"
+    n = 0
+    if not path.exists():
+        return 0
+    for line in open(path):
+        r = json.loads(line)
+        num = r["number"]
+        chap = re.split(r"[-:]", num)[0]
+        cur = db.execute(
+            "insert or ignore into section(id,corpus,jurisdiction,citation,cite_key,number,heading,chapter,ord,status,"
+            "last_amended_year,text,source_url,provenance) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            (f"hrs:{num}", "hrs", "HI", r["citation"], norm(r["citation"]), num, r["heading"], chap, ord_of(num),
+             r.get("status", "in_force"), None, r["text"], r["source_url"],
+             f"fetched {r.get('fetched', '')} from {r.get('fetched_from', r['source_url'])}"))
+        n += cur.rowcount
+    return n
+
+
+def load_hrs_outline(db):
+    """Official HRS Table of Contents and the 2025 Table of Disposition (both in hrs/)."""
+    chapters = list(csv.DictReader(open(HERE / "hrs" / "hrs_chapters.csv")))
+    parts = list(csv.DictReader(open(HERE / "hrs" / "hrs_parts.csv")))
+    for c in chapters:
+        db.execute("insert into hrs_chapter values (?,?,?,?,?,?,?,?,?,?,?,?,0)",
+                   (c["division"], c["division_name"], c["title"], c["title_name"], c["subtitle"] or None,
+                    c["subtitle_name"] or None, c["chapter"], c["chapter_to"] or None, c["chapter_name"], c["status"],
+                    c["first_section"] or None, int(c["page"])))
+    for p in parts:
+        db.execute("insert into hrs_part values (?,?,?,?,?,?,?,?,?)",
+                   (p["chapter"], p["kind"], p["article"] or None, p["article_name"] or None, p["part"] or None,
+                    p["part_name"] or None, p["status"], p["first_section"] or None, int(p["page"])))
+    by_chapter = {c["chapter"]: c for c in chapters}
+    # A part or article printed without a section number (its subparts carry them) starts where the next
+    # numbered entry under it starts; TOC order breaks the tie so the part precedes its first subpart.
+    marks, pending = {}, {}
+    for i, p in enumerate(parts):
+        k = hrs_order(p["first_section"])
+        if k is None:
+            if p["status"] == "in_force" and p["kind"] in ("part", "article"):
+                pending.setdefault(p["chapter"], []).append((i, p))
+            continue
+        for j, q in pending.pop(p["chapter"], []):
+            marks.setdefault(p["chapter"], []).append((k, j, q))
+        marks.setdefault(p["chapter"], []).append((k, i, p))
+    for v in marks.values():
+        v.sort(key=lambda kp: (kp[0], kp[1]))
+
+    def label(p):
+        if p["kind"] == "article":
+            return f"Article {p['article']}. {p['article_name']}"
+        if p["kind"] == "unnumbered":
+            return p["part_name"]
+        if p["kind"] == "subpart":
+            return f"{p['part']}. {p['part_name']}"
+        pre = f"Article {p['article']}. {p['article_name']} / " if p["article"] and p["article_name"] else ""
+        return f"{pre}Part {p['part']}. {p['part_name']}"
+
+    rows = db.execute("select rowid, number, chapter from section where corpus = 'hrs'").fetchall()
+    for rowid, num, chap in rows:
+        c = by_chapter.get(chap)
+        if not c:
+            continue
+        key = hrs_order(num)
+        major = sub = None
+        for k, _, p in marks.get(chap, []):
+            if key is None or k > key:
+                break
+            if p["kind"] == "subpart":
+                sub = p
+            else:
+                major, sub = p, None
+        part = " / ".join(label(x) for x in (major, sub) if x) or None
+        path = " / ".join(x for x in (f"Title {c['title']}. {c['title_name']}", f"Chapter {chap}. {c['chapter_name']}",
+                                       part, f"§ {num}") if x)
+        db.execute("update section set chapter_name=?, title_name=?, part=?, division=?, path=? where rowid=?",
+                   (c["chapter_name"], c["title_name"], part, f"Division {c['division']}. {c['division_name']}", path, rowid))
+    db.execute("""update hrs_chapter set sections_here =
+                  (select count(*) from section s where s.corpus='hrs' and s.chapter = hrs_chapter.chapter)""")
+
+    n = 0
+    for r in csv.DictReader(open(HERE / "hrs" / "slh_disposition.csv")):
+        sid, noted = None, None
+        if r["kind"] == "section":
+            row = db.execute("select id, text from section where cite_key = ?", (f"haw rev stat {r['target'].lower()}",)).fetchone()
+            if row:
+                sid = row[0]
+                noted = int(bool(re.search(rf"\bL\s*{r['year']},\s*c\s*{r['act']}\b", row[1] or "")))
+        db.execute("insert into session_law values (?,?,?,?,?,?,?,?,?,?,?,?)",
+                   (int(r["year"]), int(r["act"]), r["act_section"] or None, r["kind"], r["target"], r["chapter"] or None,
+                    int(r["repealed"]), int(r["heading_only"]), sid, noted, r["raw"], int(r["page"])))
+        n += 1
+    return len(chapters), len(parts), n
 
 
 def build_refs(db):
@@ -276,6 +379,12 @@ def main():
             continue
         counts[corpus] = counts.get(corpus, 0) + load_parquet(db, p, corpus, src["snapshot"])
         print(f"loaded  {fname}: {counts[corpus]}")
+    if counts.get("hrs"):
+        filled = load_hrs_fill(db, data)
+        if filled:
+            print(f"filled  {filled} HRS sections from hrs/fill_missing.py")
+            counts["hrs"] += filled
+        print("outline HRS TOC %d chapters, %d parts; 2025 session law table %d rows" % load_hrs_outline(db))
     har_n, har_ch = load_har(db, data)
     counts["har"] = har_n
     print(f"loaded  HAR: {har_n} sections, {har_ch} chapters in directory")

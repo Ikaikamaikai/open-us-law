@@ -382,6 +382,11 @@ def _process_section_page(soup, url: str, chapter_node: Node) -> None:
     if not paragraphs:
         return
 
+    # The first section of a chapter, part or subpart is printed under its CHAPTER / PART /
+    # subpart headings, so the "§" line is not always the first <p>. Start at the first
+    # paragraph that begins with the section mark; otherwise keep the old first-<p> behaviour.
+    start = _section_start_index(paragraphs)
+    paragraphs = paragraphs[start:]
     first_p_raw = paragraphs[0].get_text(separator=" ")
     first_p = _clean_text(first_p_raw)
 
@@ -426,6 +431,17 @@ def _process_section_page(soup, url: str, chapter_node: Node) -> None:
         addendum=addendum,
     )
     insert_node(section_node, TABLE_NAME, ignore_duplicate=True, debug_mode=True)
+
+
+_SECTION_START_RE = re.compile(r"^\[?\s*§+\s*\d")
+
+
+def _section_start_index(paragraphs) -> int:
+    """Index of the first paragraph that starts with a section mark (e.g. "§26-1", "[§92F-11]")."""
+    for i, p_tag in enumerate(paragraphs):
+        if _SECTION_START_RE.match(_clean_text(p_tag.get_text(separator=" "))):
+            return i
+    return 0
 
 
 def _parse_section_body(
