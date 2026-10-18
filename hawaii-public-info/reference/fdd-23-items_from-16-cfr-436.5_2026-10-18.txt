@@ -1,0 +1,23 @@
+a 1 | The Franchisor, and any Parents, Predecessors, and Affiliates
+b 2 | Business Experience
+c 3 | Litigation
+d 4 | Bankruptcy
+e 5 | Initial Fees
+f 6 | Other Fees
+g 7 | Estimated Initial Investment
+h 8 | Restrictions on Sources of Products and Services
+i 9 | Franchisee's Obligations
+j 10 | Financing
+k 11 | Franchisor's Assistance, Advertising, Computer Systems, and Training
+l 12 | Territory
+m 13 | Trademarks
+n 14 | Patents, Copyrights, and Proprietary Information
+o 15 | Obligation to Participate in the Actual Operation of the Franchise Business
+p 16 | Restrictions on What the Franchisee May Sell
+q 17 | Renewal, Termination, Transfer, and Dispute Resolution
+r 18 | Public Figures
+s 19 | Financial Performance Representations
+t 20 | Outlets and Franchisee Information
+u 21 | Financial Statements
+v 22 | Contracts
+w 23 | Receipts
