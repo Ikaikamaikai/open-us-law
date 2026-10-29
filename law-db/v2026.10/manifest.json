@@ -1,0 +1,558 @@
+{
+ "name": "law-db",
+ "version": "v2026.10",
+ "exported": "2026-10-29T01:41:12Z",
+ "rows": 326549,
+ "by_corpus": {
+  "cfr": 227335,
+  "fed-rules": 1130,
+  "har": 12707,
+  "hi-ag": 66,
+  "hi-const": 160,
+  "hi-guidance": 171,
+  "hi-rules": 1259,
+  "hrs": 22980,
+  "us-const": 74,
+  "usc": 60667
+ },
+ "corpus_names": {
+  "hrs": "Hawaii Revised Statutes",
+  "har": "Hawaii Administrative Rules",
+  "hi-const": "Constitution of the State of Hawaii",
+  "hi-rules": "Hawaii Court Rules",
+  "hi-ag": "Hawaii Attorney General Opinions",
+  "hi-guidance": "Hawaii Agency Guidance",
+  "usc": "United States Code",
+  "us-const": "Constitution of the United States",
+  "fed-rules": "Federal Court Rules",
+  "cfr": "Code of Federal Regulations"
+ },
+ "license": "Text from the Open US Law snapshot v2026.09.1 (vaquill.ai), CC BY-NC 4.0: non-commercial use. Each section links to the official source. CFR text from the govinfo eCFR bulk XML.",
+ "check": "every row matches the source CSVs (id and sha256 of text)",
+ "sources": [
+  {
+   "file": "ledger/sources/law-fulltext/hrs.csv.gz",
+   "sha256": "8e7b327453112d088f564fa0a25d8d8fa47475b9ac466b683e6eca70d603033f"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/har.csv.gz",
+   "sha256": "8ac84324eabba48053dfa402abb9a254de85202dd358528e7ee7ca3fc2f782a1"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/hi-const.csv.gz",
+   "sha256": "63143b5fba78b3f2e93811a49ed48008f065757cd7eb92b132ae348773ac7c5d"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/hi-rules.csv.gz",
+   "sha256": "6ec3f8d1468cc181345ba2e0822b941b1eb015d5e45792693451348807864abb"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/hi-ag.csv.gz",
+   "sha256": "85bf18a7a88be0818f28bc4e63a02a4f70c47e3c373b70bbd9c03b65162b5dfd"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/hi-guidance.csv.gz",
+   "sha256": "0fb04271df4bc5ff56637463610bc67d1d26abbd6fedebaf82ccd2454d4a21dd"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/usc.csv.gz",
+   "sha256": "6cd256ee2b53d3991730461a9c2d3c686626efd60712dfa300e8968674368502"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/us-const.csv.gz",
+   "sha256": "b9d1abac80d8772fd1a8b4b083f0271af83cad63b5ca4325be72f90ec8532508"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/fed-rules.csv.gz",
+   "sha256": "299fc5ee8c7f119447162603d16f843899c46ff931d4d0fbb0e67942f2682465"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-01.csv.gz",
+   "sha256": "24f46dfbe90d541a4d86a4af81d09c7dea80d92e46f6788504fd1f94cce57258"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-02.csv.gz",
+   "sha256": "d8fda4c53e926af1b3fa28350a056f86779a4eb277890ada6812c1712d4bd2e6"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-03.csv.gz",
+   "sha256": "3fe7b72796b16ed898652c146e9a0e4fbd41123f860d9957620aedbfe0bb202e"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-04.csv.gz",
+   "sha256": "d9ece575999e512c7e987fca40ea1c1fb0c92288ee53a8a89494bf019b74791b"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-05.csv.gz",
+   "sha256": "689dd5cd6e55c0c1d5d5a239806f4859c09f32cd84222381dee3900335c3eebe"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-06.csv.gz",
+   "sha256": "e92ebad72d03e4afbd20f3a2a3cbe80ac5055df7ef345dcd30daf9440222d1ae"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-07.csv.gz",
+   "sha256": "f6894e1bbaf388a5c285f808c023bb6b683ba012507c3f8f9a3bfbf1b4f1b11e"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-08.csv.gz",
+   "sha256": "6eda3872a89ae5f0a17d0c456c129f2438b04ff351a01402006ca126ffa5060d"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-09.csv.gz",
+   "sha256": "dc10948be215dfd35c56cde156646f85a5e5f123d8510dc5c41f29887dc0c5dc"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-10.csv.gz",
+   "sha256": "a6c6e106354e2eecea00f131d9df8398d1871f3854b3461f6e62cfb438a2e06d"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-11.csv.gz",
+   "sha256": "affa4a0486d5fff71ab6aa2ed1e7aaff3d351f4ff80afecebd34cdde516dc98a"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-12.csv.gz",
+   "sha256": "ff2a49cba1d77a336d8e2304aa79adf1c63769e31e8c5f18ce541819b81d7ecd"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-13.csv.gz",
+   "sha256": "8ae453a53b256dd77be32eadf04f0237a45d57540923c07b0525014c3ed8470d"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-14.csv.gz",
+   "sha256": "3db176e9ac45b385229fcc567eae5632c6cb892f1833f3e547c7c0da505a8f7e"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-15.csv.gz",
+   "sha256": "67205dd751dccd19e669901326a2e9448462a3d17b023d2be995d6449abf6808"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-16.csv.gz",
+   "sha256": "ec7763a25d4bfa6960120ed5743b9aa94cfd4881ae8d030aad7b7617e6068254"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-17.csv.gz",
+   "sha256": "bd54f25c0944c6fd756112d34b8f26611fefad79a996efe7171e7c0311d0085b"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-18.csv.gz",
+   "sha256": "52c328f8827459e5a930b340c445a4a805019542c7755170051c5e630dfa5669"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-19.csv.gz",
+   "sha256": "ce043a6ad2b771239eca88ea874729bc2fb81d2001ecb8bfa585a301becf894a"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-20.csv.gz",
+   "sha256": "73a70df8f2b63e3970564eb7bcd42425bdcb6e229d6fc27e66265278a0cb3eca"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-21.csv.gz",
+   "sha256": "c2b723fb59e22a8a4e4d1e92766adfe8257fb10210b97743f2719c4ad0b5a484"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-22.csv.gz",
+   "sha256": "9de0c4c2d6dd57264620bfa83b9e6ace28c2b8f522fa1281ad8e437b5a1d5f0f"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-23.csv.gz",
+   "sha256": "e5e8d60d30835a4cac85a95c499e22f507f2f0772b91037298e0c03696cf7b12"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-24.csv.gz",
+   "sha256": "6e9f80713e39a2c627b0d9d0d947124a332a95e023db6dcb31464e1a8c06cc1e"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-25.csv.gz",
+   "sha256": "71abcf0e61faf1aa4aa7071ff1ff2277d2e2b138e6520222dd40ca6b359420e9"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-26.csv.gz",
+   "sha256": "62443c21dc9373f900c0f3c160c23b9c3e03358750db242f298b757c0c323549"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-27.csv.gz",
+   "sha256": "3acb66ff8635db1bb951a865affb01181cc5aca01cfe53dcfd395b10781b6726"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-28.csv.gz",
+   "sha256": "ac2cbd4f4d1821fb9f47bae8123027b9be075e3db41b7ca6f71a8800658c6995"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-29.csv.gz",
+   "sha256": "a687d6b43eabdacfd464b0c833fb0bc20040569a9f745195825c8266030672bf"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-30.csv.gz",
+   "sha256": "1d78be5b008a0b4ef191424d82730518180f73686df112546fa69f12d56b42be"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-31.csv.gz",
+   "sha256": "c104f88db8559451f0a791009292da20bc29233b3e0263285926686d0e946701"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-32.csv.gz",
+   "sha256": "297a55b6c0be264149a3bbbc86f9aef26f530665891ffedad94f79bc2bb0c2c1"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-33.csv.gz",
+   "sha256": "141410f19af0117036248fa722ee0320acbf3792a3c6eba1642965775a4dd294"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-34.csv.gz",
+   "sha256": "357aa619d1e86e17a52e51845459b9297817e258b7dd381a910bceac794258ba"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-36.csv.gz",
+   "sha256": "c769df77f8e74b1e7e73d2fe7b83905a51082bc271aa13dcf1fcb05cd261d124"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-37.csv.gz",
+   "sha256": "6a350068b8aa4660b0f65117a141e85a3cc049e38416df7b06b43e36bea6b1d0"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-38.csv.gz",
+   "sha256": "5e27d2678a5534eab5be58473220c75efe5b8256d03f123e252b392a91e7aa1e"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-39.csv.gz",
+   "sha256": "49a652c358a647ec816f17fe51001e0801790002b7c61d0fd42885fb6c9d1500"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-40.csv.gz",
+   "sha256": "412d47aa312299018d0c301bfacdf6dcf20013a2bc8280914fa8b4e02a01fd31"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-41.csv.gz",
+   "sha256": "e6b11e08a2692a982af2b9fd6a5d278caffbb8708da8deb4fbbf4a6e4cfeea49"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-42.csv.gz",
+   "sha256": "81f8cb6de6be55e3d0287e5a631c6b400ccd56f706fd994df554db3ed574599d"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-43.csv.gz",
+   "sha256": "9aa117790e13c88bc1e53810413c17a698c461d2333bcdb2e563b37f53a8f4e6"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-44.csv.gz",
+   "sha256": "d289382548b2759f386e87076c874640a0a00b859ba2b9b86a97a52d144acc7d"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-45.csv.gz",
+   "sha256": "6dd4976877f6b7b90cbb5c4794e11c3ddc2f84936f3baec0473aad48bce2838e"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-46.csv.gz",
+   "sha256": "5a1b5488b36d4295e38cc8f1b8dd7efca502b496ed3bc5a039e0efdc29807665"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-47.csv.gz",
+   "sha256": "f4cc81990803dc8f01753f802f27d338002ff4cc5fccf2ad96bd6e68a91b4ce7"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-48.csv.gz",
+   "sha256": "4570e183ab47a2f60811c6582b50aaa43b02a36bd6a4749f7d1c68d329b07bb6"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-49.csv.gz",
+   "sha256": "8d71f740b1a3241fcc311c017154ec3bf581c5431c277b5e072c36d88d0e338c"
+  },
+  {
+   "file": "ledger/sources/law-fulltext/cfr/title-50.csv.gz",
+   "sha256": "f6a60477293083ad0e290897dbebed047bb7081ea1c029cf4a4059256a8471de"
+  }
+ ],
+ "files": {
+  "cfr-title-01.parquet": {
+   "rows": 288,
+   "bytes": 111464,
+   "sha256": "bb329b9c298f4dd3fa9a742b2c20149898e68b413d42087dee5ed6bedf1308f2"
+  },
+  "cfr-title-02.parquet": {
+   "rows": 1522,
+   "bytes": 403732,
+   "sha256": "f5c3e71057c20a2633acc087dd6ae23d76ef1562182b942fdd5684e46d7afbbc"
+  },
+  "cfr-title-03.parquet": {
+   "rows": 27,
+   "bytes": 13890,
+   "sha256": "3625c5851504a6b25ef25dba1c7dcecf08cf3d4faa831171834f304a88975219"
+  },
+  "cfr-title-04.parquet": {
+   "rows": 222,
+   "bytes": 107506,
+   "sha256": "ad1b081064589154903c9c75d83b035aceef09cb177004ed49a890b0e891ef9c"
+  },
+  "cfr-title-05.parquet": {
+   "rows": 5387,
+   "bytes": 2270979,
+   "sha256": "2ab397b4819b136e4dae246c4f1f0dc6127da0604cf000a4d939492897bdee2a"
+  },
+  "cfr-title-06.parquet": {
+   "rows": 584,
+   "bytes": 323608,
+   "sha256": "58b91550de5bbfd7068e8d3fd8eeea556ebdd88c9ba673607b8523b2c8157970"
+  },
+  "cfr-title-07.parquet": {
+   "rows": 17200,
+   "bytes": 7435236,
+   "sha256": "64271a840603f58bdefaac04cd9e0da78a7c2ac8d06d0cc80be7eeebec2c63e8"
+  },
+  "cfr-title-08.parquet": {
+   "rows": 985,
+   "bytes": 1119732,
+   "sha256": "0ddf67c5cc95a3fa30bb09463673ff526a13570e6f12a571920797337ff84232"
+  },
+  "cfr-title-09.parquet": {
+   "rows": 2440,
+   "bytes": 1327525,
+   "sha256": "a489046935657613bbb6a7da18dba8cd6fdbd9b63691460bafd416391bf81f15"
+  },
+  "cfr-title-10.parquet": {
+   "rows": 5239,
+   "bytes": 2904809,
+   "sha256": "0b22d44169ee3c5361b9853c9ba5108041f739b96bdc72fcce9eea871b36c9f5"
+  },
+  "cfr-title-11.parquet": {
+   "rows": 587,
+   "bytes": 317407,
+   "sha256": "5ae471a78fcd9119526be861c94dea3343ebe68a9448d059cefcbc53abf57fa2"
+  },
+  "cfr-title-12.parquet": {
+   "rows": 7199,
+   "bytes": 5328128,
+   "sha256": "1f1e1056a2b2061537fe7e87bb6092e54545c03c1d5b1eb12b3203be555b6269"
+  },
+  "cfr-title-13.parquet": {
+   "rows": 1707,
+   "bytes": 819560,
+   "sha256": "1999491b441ffbf2da9f00cf633341c9efac07f074e8a6b4ec5e18c3174a2068"
+  },
+  "cfr-title-14.parquet": {
+   "rows": 6363,
+   "bytes": 2386280,
+   "sha256": "8a4f559f4f8e3dae07550581db6336d4420ea17e42f7cfdd2d31f9cc96558b39"
+  },
+  "cfr-title-15.parquet": {
+   "rows": 2237,
+   "bytes": 1399358,
+   "sha256": "fe44ab92c524c17e489c035d4c9b33d93e1d1929648904c9f231a70ff19d8c3a"
+  },
+  "cfr-title-16.parquet": {
+   "rows": 2136,
+   "bytes": 1411221,
+   "sha256": "36172e586f6ca693b7935e5766e97d7ba9bd6b70729b538d90d1a16f84e4fb8b"
+  },
+  "cfr-title-17.parquet": {
+   "rows": 3528,
+   "bytes": 3015713,
+   "sha256": "3139c927f8bcb4f001cbbdd5343e70ce80db98d485476e5051bc00b9831cfe27"
+  },
+  "cfr-title-18.parquet": {
+   "rows": 2048,
+   "bytes": 1121086,
+   "sha256": "3451032179992f5a11858dd9e0daed55ee556006f396f3d18dd64630a1b7be2a"
+  },
+  "cfr-title-19.parquet": {
+   "rows": 3172,
+   "bytes": 1601125,
+   "sha256": "f234090f6eeb2dbee7a516a54b28d1675623ff3e43625a203dce2ab3203fb9e6"
+  },
+  "cfr-title-20.parquet": {
+   "rows": 5634,
+   "bytes": 2511673,
+   "sha256": "7cc0945c3ddea447baa5140b4047ecaa64c51c65d098a1eac042b944a9ee64d4"
+  },
+  "cfr-title-21.parquet": {
+   "rows": 8427,
+   "bytes": 3786870,
+   "sha256": "ca2b0a2b9652ec8acf62288cd01dc5672a02dceabe5d3253574dbd313462e995"
+  },
+  "cfr-title-22.parquet": {
+   "rows": 3408,
+   "bytes": 1287232,
+   "sha256": "052015aa1e43a42e3a21d4caf9581f21777e2cc935613bb40a27cb1f361a3ff3"
+  },
+  "cfr-title-23.parquet": {
+   "rows": 987,
+   "bytes": 561382,
+   "sha256": "e571fb127c2d42990bfa552cee9398f0e8d99f15ec4184d100cf9d2f61215bae"
+  },
+  "cfr-title-24.parquet": {
+   "rows": 4877,
+   "bytes": 2592095,
+   "sha256": "0da6f103bf30c052dab9b4461b8009fd09142e00b7f334e32eccd3e79f409b6c"
+  },
+  "cfr-title-25.parquet": {
+   "rows": 4747,
+   "bytes": 1268501,
+   "sha256": "0f87743ff7b09ab0cb35f946204ee6a84fdb8ff532c4d8ad7a71bf5699cb2e45"
+  },
+  "cfr-title-26.parquet": {
+   "rows": 6163,
+   "bytes": 15152844,
+   "sha256": "4b17997e0fcd60c45e0ae012127f246f910ed287dcb5ae2c317a9f82e09fd7c8"
+  },
+  "cfr-title-27.parquet": {
+   "rows": 3952,
+   "bytes": 1319401,
+   "sha256": "eef883b491a8c96f7a317844c69d2ea693a687891650f0b14c1557ba8bacd59b"
+  },
+  "cfr-title-28.parquet": {
+   "rows": 3080,
+   "bytes": 1475090,
+   "sha256": "9de22532575c4741ea271cb6f3462827d1b1b840d26f78892f6d701411175142"
+  },
+  "cfr-title-29.parquet": {
+   "rows": 7259,
+   "bytes": 5539809,
+   "sha256": "de443cf407940e167dd3e5eba1dd833e32340dadd009190c3421a47cf4a073fa"
+  },
+  "cfr-title-30.parquet": {
+   "rows": 5954,
+   "bytes": 1860781,
+   "sha256": "35048cefba0f5d848f0e765568ea5fea1e9b9647f822a0eb293e36f94a0b5ff9"
+  },
+  "cfr-title-31.parquet": {
+   "rows": 5398,
+   "bytes": 1339953,
+   "sha256": "61f48c3b2b2dfa49bfd1a9fc940fe70f33bf630479755a0facf8f8178f4ccd5b"
+  },
+  "cfr-title-32.parquet": {
+   "rows": 3640,
+   "bytes": 2656825,
+   "sha256": "e7f27685feba96297be1a24bbf6956c1803811689af8f891baf891e484c1e2ae"
+  },
+  "cfr-title-33.parquet": {
+   "rows": 4653,
+   "bytes": 2201696,
+   "sha256": "b1b27f35dd4c042937ad5811ea17d67e3c1ce3b26a0b48b24fbcd3d0526f91ef"
+  },
+  "cfr-title-34.parquet": {
+   "rows": 3259,
+   "bytes": 1575313,
+   "sha256": "f9d4950702b699886ef6998b10fbd4838d1ce862c3599a3ab5b50eb833064010"
+  },
+  "cfr-title-36.parquet": {
+   "rows": 3120,
+   "bytes": 1525142,
+   "sha256": "06468f5862b1830c569d222a540f590c03dbbfb685b276afbecbc4592bbd2588"
+  },
+  "cfr-title-37.parquet": {
+   "rows": 1331,
+   "bytes": 837502,
+   "sha256": "1af0221e3e36f91ce3d69d880160141907c713c47d7c676f43368358ead95263"
+  },
+  "cfr-title-38.parquet": {
+   "rows": 2953,
+   "bytes": 1862359,
+   "sha256": "93bb5feaee0296c937f87cfe6659ba6574943cb383497619d3b26e4428be9489"
+  },
+  "cfr-title-39.parquet": {
+   "rows": 1129,
+   "bytes": 482070,
+   "sha256": "80a8b0d3772baba3c9298b2fda818234cf6e158aabae8eed4d01c6c689e676c0"
+  },
+  "cfr-title-40.parquet": {
+   "rows": 24652,
+   "bytes": 16247857,
+   "sha256": "162cc1a5300da7a97f3e3b8c37fc26882aa6c79d446b3837f6e6f1c592730e36"
+  },
+  "cfr-title-41.parquet": {
+   "rows": 3085,
+   "bytes": 901379,
+   "sha256": "c1cd93db4f3d0e830bd4fb0ca0cbce955e5079a270ecfde15b42f97fbc385df2"
+  },
+  "cfr-title-42.parquet": {
+   "rows": 7315,
+   "bytes": 4515761,
+   "sha256": "cd631ab48178c0f3d35535c099fef4b5b0400720f8bd8ec8f8fac5ff67faffc5"
+  },
+  "cfr-title-43.parquet": {
+   "rows": 5436,
+   "bytes": 1904054,
+   "sha256": "1c30fced442c997b615a3bb8a534406288b617811b2ebfd62da71346a5ca8c8c"
+  },
+  "cfr-title-44.parquet": {
+   "rows": 943,
+   "bytes": 475480,
+   "sha256": "1d0003712553cc80983e0c4e247b58c6b643c56391b649bb6307f93b1a06cb78"
+  },
+  "cfr-title-45.parquet": {
+   "rows": 5694,
+   "bytes": 2763895,
+   "sha256": "05ba53fadb53da2ac1705b9af044034ba6c007d5e51e8e5c90acd09cbc5cd435"
+  },
+  "cfr-title-46.parquet": {
+   "rows": 8430,
+   "bytes": 2674182,
+   "sha256": "e83816a97422d888d18615f6b32a39da3b6e9ba2b24c4a02a1e27b9322cf7854"
+  },
+  "cfr-title-47.parquet": {
+   "rows": 5164,
+   "bytes": 3273719,
+   "sha256": "ab484273d4924225d5fd015c7856f9a79be0497bea27744c02fe62995cafe90f"
+  },
+  "cfr-title-48.parquet": {
+   "rows": 11551,
+   "bytes": 4023793,
+   "sha256": "93282db3f49c1faa38b5f24dd82c66b787548e4c956ba63b1cb525b3658ef634"
+  },
+  "cfr-title-49.parquet": {
+   "rows": 9004,
+   "bytes": 5140770,
+   "sha256": "2bf0e66b8f63ee473ee5059bf4537e2f06f2b70acdecb9fc19d5cad3cfb9cde6"
+  },
+  "cfr-title-50.parquet": {
+   "rows": 3219,
+   "bytes": 4985908,
+   "sha256": "7b64fb88b94e131dc421fd040599c64e44e6a911bfedfbcc9a7fa0a046046549"
+  },
+  "fed-rules.parquet": {
+   "rows": 1130,
+   "bytes": 1880455,
+   "sha256": "2975aa0321bfa21f81c623ab4a55895ac988d683a324add63cba4747467afc67"
+  },
+  "har.parquet": {
+   "rows": 12707,
+   "bytes": 6563914,
+   "sha256": "a990b2572355233f41c7a8a7017731121fb017908710c154e6451b9664dec35a"
+  },
+  "hi-ag.parquet": {
+   "rows": 66,
+   "bytes": 408260,
+   "sha256": "fac11ffb8d2a671ed049f04ee214cb9dfc5d17b5fa5bd13cec78b8a620ec311f"
+  },
+  "hi-const.parquet": {
+   "rows": 160,
+   "bytes": 38967,
+   "sha256": "e6ff6e8cc49ad93f4ab0d4409eb52698e38b443d5102d67ae6fcd1bc131df525"
+  },
+  "hi-guidance.parquet": {
+   "rows": 171,
+   "bytes": 220719,
+   "sha256": "a38e7878a424644e2416fd67c6442a2fe659a91d48315f5bd338ad6f72c13bca"
+  },
+  "hi-rules.parquet": {
+   "rows": 1259,
+   "bytes": 776380,
+   "sha256": "3a09bbff17617f3ad21aa63519c220532f919de5336c9a406f69454260a4a9bc"
+  },
+  "hrs.parquet": {
+   "rows": 22980,
+   "bytes": 8684617,
+   "sha256": "3ab6cf32ee4d642f252a2d8309852b5a9840211262c9502685f1931d1a61947e"
+  },
+  "us-const.parquet": {
+   "rows": 74,
+   "bytes": 20128,
+   "sha256": "395f34ed410c64f32bf087df15412e7daad761f80eebfae67c1d259d6f716ea4"
+  },
+  "usc.parquet": {
+   "rows": 60667,
+   "bytes": 70827842,
+   "sha256": "b72339e067d8e14e0b70765e5398f6ee48f3ba52d9669906f02f3998901d6793"
+  }
+ }
+}
