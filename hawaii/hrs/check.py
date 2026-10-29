@@ -1,0 +1,129 @@
+"""Compare the HRS sections in hawaii.db with the official HRS Table of Contents and the 2025 Table of Disposition.
+
+Writes hrs/COMPLETENESS.md and one CSV per check under hrs/checks/.
+Usage: python3 hrs/check.py [path/to/hawaii.db]
+"""
+import csv
+import sqlite3
+import sys
+from pathlib import Path
+
+HERE = Path(__file__).parent
+DB = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE.parent / "data" / "hawaii.db"
+
+CHECKS = [
+    ("server_sections_not_here",
+     "Section pages on the Legislature's server (data.capitol.hawaii.gov) that are not in this database",
+     """select v.number, v.path from server_section v
+        where not exists (select 1 from section s where s.corpus = 'hrs' and s.number = v.number)
+        order by v.number"""),
+    ("sections_not_on_server",
+     "HRS sections in this database whose number is not a section page on the Legislature's server",
+     """select s.number, s.heading, s.status, s.provenance from section s
+        where s.corpus = 'hrs' and (select count(*) from server_section) > 0
+          and not exists (select 1 from server_section v where v.number = s.number)
+        order by s.number"""),
+    ("chapters_without_sections",
+     "Chapters the Table of Contents lists as in force, with no sections in this copy",
+     """select c.title, c.title_name, c.chapter, c.chapter_name, c.first_section, c.page as toc_page,
+               (select 'repealed by 2025 Act ' || group_concat(distinct l.act) from session_law l
+                where l.year = 2025 and l.kind = 'chapter' and l.target = 'c ' || c.chapter and l.repealed = 1) as session_law_2025,
+               (select n.note from server_note n where n.chapter = c.chapter) as legislature_page_says
+        from hrs_chapter c where c.status = 'in_force' and c.sections_here = 0
+        order by cast(c.title as integer), c.title, cast(c.chapter as integer), c.chapter"""),
+    ("chapters_not_in_toc",
+     "Chapters with sections in this copy that the Table of Contents does not list as in force",
+     """select s.chapter, count(*) as sections, coalesce(c.status, 'not listed') as toc_status,
+               (select 'created by 2025 Act ' || group_concat(distinct l.act) from session_law l
+                where l.year = 2025 and l.kind = 'chapter' and l.target = 'c ' || s.chapter and l.repealed = 0) as session_law_2025
+        from section s left join hrs_chapter c on c.chapter = s.chapter
+        where s.corpus = 'hrs' and s.status = 'in_force' and (c.chapter is null or c.status != 'in_force')
+        group by s.chapter, c.status order by cast(s.chapter as integer), s.chapter"""),
+    ("opening_sections_not_present",
+     "Sections the Table of Contents names as the first section of an in-force chapter, part or article, not in this copy",
+     """select x.chapter, x.level, x.label, x.first_section, x.toc_page from (
+          select c.chapter, 'chapter' as level, c.chapter_name as label, c.first_section, c.page as toc_page
+          from hrs_chapter c where c.status = 'in_force' and c.first_section is not null and c.sections_here > 0
+          union all
+          select p.chapter, p.kind, coalesce(p.part, p.article, '') || ' ' || coalesce(p.part_name, p.article_name, ''),
+                 p.first_section, p.page
+          from hrs_part p join hrs_chapter c on c.chapter = p.chapter
+          where p.status = 'in_force' and c.status = 'in_force' and p.first_section is not null and c.sections_here > 0
+        ) x
+        where not exists (select 1 from section s where s.cite_key = 'haw rev stat ' || lower(x.first_section))
+        order by cast(x.chapter as integer), x.chapter, x.first_section"""),
+    ("slh2025_targets_not_present",
+     "Sections the 2025 Session Laws added or amended (not repealed), not in this copy",
+     """select l.act, l.act_section, l.target, l.heading_only, l.page as table_page, l.raw as table_entry
+        from session_law l where l.year = 2025 and l.kind = 'section' and l.repealed = 0 and l.section_id is null
+        order by l.act, l.target"""),
+    ("slh2025_repeals_still_in_force",
+     "Sections the 2025 Session Laws repealed, still marked in force in this copy",
+     """select l.act, l.act_section, l.target, s.status, s.last_amended_year
+        from session_law l join section s on s.id = l.section_id
+        where l.year = 2025 and l.repealed = 1 and s.status = 'in_force' order by l.act, l.target"""),
+    ("slh2025_amendments_not_in_history_note",
+     "Sections the 2025 Session Laws amended whose history note in this copy does not cite that act",
+     """select l.act, l.act_section, l.target, s.last_amended_year
+        from session_law l join section s on s.id = l.section_id
+        where l.year = 2025 and l.kind = 'section' and l.repealed = 0 and l.heading_only = 0 and l.noted_in_text = 0
+        order by l.act, l.target"""),
+]
+
+
+def main():
+    con = sqlite3.connect(DB)
+    con.execute("create temp table server_section (number text primary key, path text)")
+    con.execute("create temp table server_note (chapter text primary key, folder text, note text)")
+    notes = HERE / "server_chapter_notes.csv"
+    if notes.exists():
+        con.executemany("insert or ignore into server_note values (?, ?, ?)",
+                        [(r["chapter"], r["folder"], r["note"]) for r in csv.DictReader(open(notes))])
+    inv = HERE / "server_sections.csv"
+    if inv.exists():
+        con.executemany("insert or ignore into server_section values (?, ?)",
+                        [(r["number"], r["path"]) for r in csv.DictReader(open(inv))])
+    out = HERE / "checks"
+    out.mkdir(exist_ok=True)
+    toc = con.execute("select count(*), sum(status='in_force'), sum(status='repealed'), sum(status='reserved') from hrs_chapter").fetchone()
+    secs = con.execute("select count(*), sum(status='in_force') from section where corpus='hrs'").fetchone()
+    slh = con.execute("""select count(distinct act), sum(kind='section'), sum(kind='section' and section_id is not null),
+                                sum(noted_in_text=1) from session_law where year=2025""").fetchone()
+    L = ["# HRS completeness check\n",
+         "This compares the HRS sections in this database (Open US Law snapshot) with two official documents:\n",
+         "- **Hawaii Revised Statutes, Table of Contents**, updated 2/10/2025 ([source/hrstoc.pdf](source/hrstoc.pdf))",
+         "- **Table of Disposition, Table 2: Session Laws of 2025 to HRS** ([source/tablesofdisposition_2025.pdf](source/tablesofdisposition_2025.pdf))",
+         "- **The Legislature's own list of section pages** on data.capitol.hawaii.gov ([server_sections.csv](server_sections.csv), made by `hrs/fill_missing.py --all`)\n",
+         "Generated by `hrs/check.py`. Each list below is also a CSV in [checks/](checks/).\n",
+         "| | |", "|---|---:|",
+         f"| HRS chapters in the Table of Contents | {toc[0]:,} ({toc[1]:,} in force, {toc[2]:,} repealed, {toc[3]:,} reserved ranges) |",
+         f"| HRS sections in this copy | {secs[0]:,} ({secs[1]:,} in force) |",
+         f"| HRS section pages on the Legislature's server | {con.execute('select count(*) from server_section').fetchone()[0]:,} |",
+         f"| 2025 acts in the Table of Disposition | {slh[0]:,} |",
+         f"| 2025 section targets | {slh[1]:,} ({slh[2]:,} found in this copy; {slh[3]:,} whose history note cites the act) |", ""]
+    for name, title, sql in CHECKS:
+        cur = con.execute(sql)
+        cols = [d[0] for d in cur.description]
+        rows = cur.fetchall()
+        with open(out / f"{name}.csv", "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow(cols)
+            w.writerows(rows)
+        L.append(f"## {title}\n")
+        L.append(f"**{len(rows):,}** — [checks/{name}.csv](checks/{name}.csv)\n")
+        if rows:
+            L.append("| " + " | ".join(cols) + " |")
+            L.append("|" + "---|" * len(cols))
+            for r in rows[:25]:
+                L.append("| " + " | ".join("" if v is None else str(v) for v in r) + " |")
+            if len(rows) > 25:
+                L.append(f"\n…and {len(rows) - 25:,} more in the CSV.")
+            L.append("")
+    (HERE / "COMPLETENESS.md").write_text("\n".join(L) + "\n")
+    print(f"wrote {HERE / 'COMPLETENESS.md'}")
+    for name, _, sql in CHECKS:
+        print(f"  {name}: {len(con.execute(sql).fetchall())}")
+
+
+if __name__ == "__main__":
+    main()

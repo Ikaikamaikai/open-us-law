@@ -1,0 +1,1242 @@
+{
+ "dataset": "open-us-law",
+ "snapshot": "v2026.09.1",
+ "snapshot_date": "2026-09-30",
+ "index_url": "https://oss-data-us.vaquill.ai/index.json",
+ "counted_on": "2026-10-18",
+ "how_counted": "num_rows from each parquet file's footer (duckdb parquet_file_metadata over HTTPS)",
+ "files": {
+  "us_ak_ag_opinion.parquet": {
+   "rows": 532,
+   "bytes": 2994070
+  },
+  "us_ak_constitutions.parquet": {
+   "rows": 238,
+   "bytes": 46013
+  },
+  "us_ak_court_rules.parquet": {
+   "rows": 763,
+   "bytes": 985945
+  },
+  "us_ak_guidance.parquet": {
+   "rows": 398,
+   "bytes": 570480
+  },
+  "us_ak_regulations.parquet": {
+   "rows": 25717,
+   "bytes": 9614970
+  },
+  "us_ak_statutes.parquet": {
+   "rows": 17935,
+   "bytes": 7184328
+  },
+  "us_al_ag_opinion.parquet": {
+   "rows": 11926,
+   "bytes": 20824803
+  },
+  "us_al_constitutions.parquet": {
+   "rows": 381,
+   "bytes": 186648
+  },
+  "us_al_court_rules.parquet": {
+   "rows": 870,
+   "bytes": 1492492
+  },
+  "us_al_guidance.parquet": {
+   "rows": 207,
+   "bytes": 264720
+  },
+  "us_al_regulations.parquet": {
+   "rows": 18864,
+   "bytes": 12467212
+  },
+  "us_al_statutes.parquet": {
+   "rows": 46614,
+   "bytes": 19421398
+  },
+  "us_ar_ag_opinion.parquet": {
+   "rows": 10292,
+   "bytes": 29896020
+  },
+  "us_ar_constitutions.parquet": {
+   "rows": 493,
+   "bytes": 138341
+  },
+  "us_ar_court_rules.parquet": {
+   "rows": 774,
+   "bytes": 614188
+  },
+  "us_ar_guidance.parquet": {
+   "rows": 359,
+   "bytes": 583837
+  },
+  "us_ar_regulations.parquet": {
+   "rows": 22392,
+   "bytes": 13359223
+  },
+  "us_az_ag_opinion.parquet": {
+   "rows": 147,
+   "bytes": 773565
+  },
+  "us_az_constitutions.parquet": {
+   "rows": 323,
+   "bytes": 109273
+  },
+  "us_az_guidance.parquet": {
+   "rows": 235,
+   "bytes": 817030
+  },
+  "us_az_statutes.parquet": {
+   "rows": 24956,
+   "bytes": 14155086
+  },
+  "us_ca_ag_opinion.parquet": {
+   "rows": 1962,
+   "bytes": 12525956
+  },
+  "us_ca_constitutions.parquet": {
+   "rows": 372,
+   "bytes": 167182
+  },
+  "us_ca_court_rules.parquet": {
+   "rows": 1521,
+   "bytes": 1174201
+  },
+  "us_ca_guidance.parquet": {
+   "rows": 464,
+   "bytes": 869746
+  },
+  "us_ca_statutes.parquet": {
+   "rows": 161428,
+   "bytes": 60701851
+  },
+  "us_co_ag_opinion.parquet": {
+   "rows": 109,
+   "bytes": 684827
+  },
+  "us_co_court_rules.parquet": {
+   "rows": 1194,
+   "bytes": 846022
+  },
+  "us_co_regulations.parquet": {
+   "rows": 1155,
+   "bytes": 24075105
+  },
+  "us_ct_ag_opinion.parquet": {
+   "rows": 626,
+   "bytes": 2324573
+  },
+  "us_ct_constitutions.parquet": {
+   "rows": 146,
+   "bytes": 48067
+  },
+  "us_ct_court_rules.parquet": {
+   "rows": 1724,
+   "bytes": 964649
+  },
+  "us_ct_guidance.parquet": {
+   "rows": 369,
+   "bytes": 634618
+  },
+  "us_ct_regulations.parquet": {
+   "rows": 24331,
+   "bytes": 13269161
+  },
+  "us_ct_statutes.parquet": {
+   "rows": 16082,
+   "bytes": 11786794
+  },
+  "us_dc_administrative_guidance.parquet": {
+   "rows": 1,
+   "bytes": 11618
+  },
+  "us_dc_ag_opinion.parquet": {
+   "rows": 37,
+   "bytes": 207163
+  },
+  "us_dc_court_rules.parquet": {
+   "rows": 1128,
+   "bytes": 1005227
+  },
+  "us_dc_guidance.parquet": {
+   "rows": 27,
+   "bytes": 62141
+  },
+  "us_dc_regulations.parquet": {
+   "rows": 27401,
+   "bytes": 17303857
+  },
+  "us_dc_statutes.parquet": {
+   "rows": 24036,
+   "bytes": 10431246
+  },
+  "us_de_ag_opinion.parquet": {
+   "rows": 843,
+   "bytes": 2460637
+  },
+  "us_de_constitutions.parquet": {
+   "rows": 207,
+   "bytes": 75048
+  },
+  "us_de_court_rules.parquet": {
+   "rows": 1385,
+   "bytes": 1139709
+  },
+  "us_de_guidance.parquet": {
+   "rows": 303,
+   "bytes": 440628
+  },
+  "us_de_regulations.parquet": {
+   "rows": 1164,
+   "bytes": 8878858
+  },
+  "us_de_statutes.parquet": {
+   "rows": 22669,
+   "bytes": 11070336
+  },
+  "us_federal_adjudication.parquet": {
+   "rows": 1371,
+   "bytes": 13249949
+  },
+  "us_federal_administrative_guidance.parquet": {
+   "rows": 10,
+   "bytes": 13880
+  },
+  "us_federal_bia_precedent_decision.parquet": {
+   "rows": 3292,
+   "bytes": 16324211
+  },
+  "us_federal_board_decision.parquet": {
+   "rows": 66594,
+   "bytes": 831076903
+  },
+  "us_federal_cfpb_enforcement_action.parquet": {
+   "rows": 386,
+   "bytes": 6992383
+  },
+  "us_federal_cfr_annual.parquet": {
+   "rows": 886066,
+   "bytes": 1006141829
+  },
+  "us_federal_constitutions.parquet": {
+   "rows": 74,
+   "bytes": 25708
+  },
+  "us_federal_court_rules.parquet": {
+   "rows": 1130,
+   "bytes": 2174278
+  },
+  "us_federal_enforcement_action.parquet": {
+   "rows": 146,
+   "bytes": 664081
+  },
+  "us_federal_executive_order.parquet": {
+   "rows": 737,
+   "bytes": 2168865
+  },
+  "us_federal_faq.parquet": {
+   "rows": 1990,
+   "bytes": 1014905
+  },
+  "us_federal_ftc_administrative_decision.parquet": {
+   "rows": 17973,
+   "bytes": 175274898
+  },
+  "us_federal_guidance.parquet": {
+   "rows": 40692,
+   "bytes": 125115523
+  },
+  "us_federal_guideline.parquet": {
+   "rows": 1281,
+   "bytes": 1591987
+  },
+  "us_federal_irs_announcement.parquet": {
+   "rows": 83,
+   "bytes": 234111
+  },
+  "us_federal_irs_notice.parquet": {
+   "rows": 769,
+   "bytes": 3973199
+  },
+  "us_federal_irs_rev_proc.parquet": {
+   "rows": 378,
+   "bytes": 4539026
+  },
+  "us_federal_irs_rev_rul.parquet": {
+   "rows": 248,
+   "bytes": 339821
+  },
+  "us_federal_irs_written_determination.parquet": {
+   "rows": 45368,
+   "bytes": 132414071
+  },
+  "us_federal_memorandum.parquet": {
+   "rows": 401,
+   "bytes": 440097
+  },
+  "us_federal_mspb_decision.parquet": {
+   "rows": 5461,
+   "bytes": 20370568
+  },
+  "us_federal_notice.parquet": {
+   "rows": 17633,
+   "bytes": 52456665
+  },
+  "us_federal_presidential_document.parquet": {
+   "rows": 639,
+   "bytes": 386920
+  },
+  "us_federal_private_law.parquet": {
+   "rows": 49460,
+   "bytes": 9914627
+  },
+  "us_federal_proclamation.parquet": {
+   "rows": 1833,
+   "bytes": 3375931
+  },
+  "us_federal_proposed_regulation.parquet": {
+   "rows": 76865,
+   "bytes": 938914459
+  },
+  "us_federal_regulations.parquet": {
+   "rows": 342351,
+   "bytes": 1449364168
+  },
+  "us_federal_resolution.parquet": {
+   "rows": 406,
+   "bytes": 181175
+  },
+  "us_federal_ruling.parquet": {
+   "rows": 7278,
+   "bytes": 9090576
+  },
+  "us_federal_sec_adjudication.parquet": {
+   "rows": 5790,
+   "bytes": 16855500
+  },
+  "us_federal_session_law.parquet": {
+   "rows": 375967,
+   "bytes": 205975350
+  },
+  "us_federal_statute_compilation.parquet": {
+   "rows": 80288,
+   "bytes": 57960152
+  },
+  "us_federal_statutes.parquet": {
+   "rows": 60667,
+   "bytes": 80786461
+  },
+  "us_federal_treaty.parquet": {
+   "rows": 1243,
+   "bytes": 7037013
+  },
+  "us_fl_ag_opinion.parquet": {
+   "rows": 20960,
+   "bytes": 13313063
+  },
+  "us_fl_constitutions.parquet": {
+   "rows": 213,
+   "bytes": 109858
+  },
+  "us_fl_court_rules.parquet": {
+   "rows": 943,
+   "bytes": 1340535
+  },
+  "us_fl_guidance.parquet": {
+   "rows": 100,
+   "bytes": 140633
+  },
+  "us_fl_regulations.parquet": {
+   "rows": 28913,
+   "bytes": 19202027
+  },
+  "us_fl_statutes.parquet": {
+   "rows": 25020,
+   "bytes": 21330829
+  },
+  "us_ga_ag_opinion.parquet": {
+   "rows": 525,
+   "bytes": 1303399
+  },
+  "us_ga_constitutions.parquet": {
+   "rows": 287,
+   "bytes": 98782
+  },
+  "us_ga_court_rules.parquet": {
+   "rows": 1174,
+   "bytes": 567667
+  },
+  "us_ga_guidance.parquet": {
+   "rows": 66,
+   "bytes": 76861
+  },
+  "us_ga_regulations.parquet": {
+   "rows": 19691,
+   "bytes": 11806687
+  },
+  "us_hi_ag_opinion.parquet": {
+   "rows": 66,
+   "bytes": 456756
+  },
+  "us_hi_constitutions.parquet": {
+   "rows": 160,
+   "bytes": 49738
+  },
+  "us_hi_court_rules.parquet": {
+   "rows": 1259,
+   "bytes": 940511
+  },
+  "us_hi_guidance.parquet": {
+   "rows": 171,
+   "bytes": 258788
+  },
+  "us_hi_statutes.parquet": {
+   "rows": 19197,
+   "bytes": 9237504
+  },
+  "us_ia_constitutions.parquet": {
+   "rows": 190,
+   "bytes": 41190
+  },
+  "us_ia_court_rules.parquet": {
+   "rows": 1294,
+   "bytes": 747151
+  },
+  "us_ia_guidance.parquet": {
+   "rows": 83,
+   "bytes": 164464
+  },
+  "us_ia_regulations.parquet": {
+   "rows": 27587,
+   "bytes": 12581196
+  },
+  "us_ia_statutes.parquet": {
+   "rows": 28223,
+   "bytes": 12908918
+  },
+  "us_id_ag_opinion.parquet": {
+   "rows": 151,
+   "bytes": 1134316
+  },
+  "us_id_constitutions.parquet": {
+   "rows": 234,
+   "bytes": 58133
+  },
+  "us_id_court_rules.parquet": {
+   "rows": 766,
+   "bytes": 626927
+  },
+  "us_id_guidance.parquet": {
+   "rows": 75,
+   "bytes": 104218
+  },
+  "us_id_regulations.parquet": {
+   "rows": 8672,
+   "bytes": 4599455
+  },
+  "us_id_statutes.parquet": {
+   "rows": 22754,
+   "bytes": 11823030
+  },
+  "us_il_ag_opinion.parquet": {
+   "rows": 1451,
+   "bytes": 4497566
+  },
+  "us_il_constitutions.parquet": {
+   "rows": 140,
+   "bytes": 44270
+  },
+  "us_il_court_rules.parquet": {
+   "rows": 426,
+   "bytes": 791640
+  },
+  "us_il_guidance.parquet": {
+   "rows": 159,
+   "bytes": 289916
+  },
+  "us_il_regulations.parquet": {
+   "rows": 55076,
+   "bytes": 40489586
+  },
+  "us_il_statutes.parquet": {
+   "rows": 72251,
+   "bytes": 31415695
+  },
+  "us_in_ag_opinion.parquet": {
+   "rows": 9760,
+   "bytes": 19447209
+  },
+  "us_in_constitutions.parquet": {
+   "rows": 195,
+   "bytes": 36636
+  },
+  "us_in_court_rules.parquet": {
+   "rows": 879,
+   "bytes": 825727
+  },
+  "us_in_guidance.parquet": {
+   "rows": 282,
+   "bytes": 315610
+  },
+  "us_in_statutes.parquet": {
+   "rows": 83148,
+   "bytes": 23213399
+  },
+  "us_ks_ag_opinion.parquet": {
+   "rows": 56,
+   "bytes": 227939
+  },
+  "us_ks_constitutions.parquet": {
+   "rows": 213,
+   "bytes": 48845
+  },
+  "us_ks_court_rules.parquet": {
+   "rows": 436,
+   "bytes": 429906
+  },
+  "us_ks_guidance.parquet": {
+   "rows": 79,
+   "bytes": 127469
+  },
+  "us_ks_regulations.parquet": {
+   "rows": 18848,
+   "bytes": 6420161
+  },
+  "us_ks_statutes.parquet": {
+   "rows": 24361,
+   "bytes": 12377166
+  },
+  "us_ky_ag_opinion.parquet": {
+   "rows": 692,
+   "bytes": 2069499
+  },
+  "us_ky_constitutions.parquet": {
+   "rows": 274,
+   "bytes": 72248
+  },
+  "us_ky_guidance.parquet": {
+   "rows": 231,
+   "bytes": 627459
+  },
+  "us_ky_regulations.parquet": {
+   "rows": 4780,
+   "bytes": 9636481
+  },
+  "us_ky_statutes.parquet": {
+   "rows": 21194,
+   "bytes": 13125668
+  },
+  "us_la_ag_opinion.parquet": {
+   "rows": 3718,
+   "bytes": 8042698
+  },
+  "us_la_constitutions.parquet": {
+   "rows": 326,
+   "bytes": 147990
+  },
+  "us_la_court_rules.parquet": {
+   "rows": 481,
+   "bytes": 417143
+  },
+  "us_la_statutes.parquet": {
+   "rows": 43213,
+   "bytes": 22386920
+  },
+  "us_ma_ag_opinion.parquet": {
+   "rows": 529,
+   "bytes": 1494307
+  },
+  "us_ma_constitutions.parquet": {
+   "rows": 100,
+   "bytes": 37966
+  },
+  "us_ma_court_rules.parquet": {
+   "rows": 972,
+   "bytes": 1559401
+  },
+  "us_ma_guidance.parquet": {
+   "rows": 417,
+   "bytes": 894108
+  },
+  "us_ma_statutes.parquet": {
+   "rows": 23144,
+   "bytes": 13763441
+  },
+  "us_md_ag_opinion.parquet": {
+   "rows": 601,
+   "bytes": 5173340
+  },
+  "us_md_constitutions.parquet": {
+   "rows": 303,
+   "bytes": 94591
+  },
+  "us_md_guidance.parquet": {
+   "rows": 677,
+   "bytes": 1347672
+  },
+  "us_md_regulations.parquet": {
+   "rows": 12773,
+   "bytes": 9428302
+  },
+  "us_md_statutes.parquet": {
+   "rows": 39552,
+   "bytes": 16257298
+  },
+  "us_me_ag_opinion.parquet": {
+   "rows": 832,
+   "bytes": 2949285
+  },
+  "us_me_constitutions.parquet": {
+   "rows": 153,
+   "bytes": 52987
+  },
+  "us_me_court_rules.parquet": {
+   "rows": 721,
+   "bytes": 724196
+  },
+  "us_me_guidance.parquet": {
+   "rows": 228,
+   "bytes": 368803
+  },
+  "us_me_regulations.parquet": {
+   "rows": 1717,
+   "bytes": 9814707
+  },
+  "us_me_statutes.parquet": {
+   "rows": 25316,
+   "bytes": 15220402
+  },
+  "us_mi_constitutions.parquet": {
+   "rows": 275,
+   "bytes": 88061
+  },
+  "us_mi_court_rules.parquet": {
+   "rows": 1025,
+   "bytes": 1007467
+  },
+  "us_mi_guidance.parquet": {
+   "rows": 151,
+   "bytes": 272745
+  },
+  "us_mi_regulations.parquet": {
+   "rows": 22154,
+   "bytes": 8387613
+  },
+  "us_mi_statutes.parquet": {
+   "rows": 42355,
+   "bytes": 21030849
+  },
+  "us_mn_ag_opinion.parquet": {
+   "rows": 77,
+   "bytes": 373253
+  },
+  "us_mn_constitutions.parquet": {
+   "rows": 137,
+   "bytes": 37731
+  },
+  "us_mn_court_rules.parquet": {
+   "rows": 958,
+   "bytes": 900727
+  },
+  "us_mn_guidance.parquet": {
+   "rows": 35,
+   "bytes": 92954
+  },
+  "us_mn_regulations.parquet": {
+   "rows": 15401,
+   "bytes": 10082650
+  },
+  "us_mn_statutes.parquet": {
+   "rows": 27747,
+   "bytes": 20645882
+  },
+  "us_mo_ag_opinion.parquet": {
+   "rows": 8449,
+   "bytes": 11616314
+  },
+  "us_mo_constitutions.parquet": {
+   "rows": 402,
+   "bytes": 190881
+  },
+  "us_mo_guidance.parquet": {
+   "rows": 106,
+   "bytes": 149313
+  },
+  "us_mo_statutes.parquet": {
+   "rows": 29363,
+   "bytes": 16212775
+  },
+  "us_ms_ag_opinion.parquet": {
+   "rows": 524,
+   "bytes": 908749
+  },
+  "us_ms_constitutions.parquet": {
+   "rows": 298,
+   "bytes": 80331
+  },
+  "us_ms_court_rules.parquet": {
+   "rows": 794,
+   "bytes": 773613
+  },
+  "us_ms_guidance.parquet": {
+   "rows": 240,
+   "bytes": 355915
+  },
+  "us_ms_regulations.parquet": {
+   "rows": 21270,
+   "bytes": 22186594
+  },
+  "us_mt_ag_opinion.parquet": {
+   "rows": 3527,
+   "bytes": 7279628
+  },
+  "us_mt_constitutions.parquet": {
+   "rows": 161,
+   "bytes": 45283
+  },
+  "us_mt_court_rules.parquet": {
+   "rows": 238,
+   "bytes": 174311
+  },
+  "us_mt_guidance.parquet": {
+   "rows": 149,
+   "bytes": 335820
+  },
+  "us_mt_regulations.parquet": {
+   "rows": 50009,
+   "bytes": 14433593
+  },
+  "us_mt_statutes.parquet": {
+   "rows": 30515,
+   "bytes": 12991052
+  },
+  "us_nc_ag_opinion.parquet": {
+   "rows": 1106,
+   "bytes": 2348326
+  },
+  "us_nc_constitutions.parquet": {
+   "rows": 155,
+   "bytes": 50338
+  },
+  "us_nc_court_rules.parquet": {
+   "rows": 495,
+   "bytes": 443031
+  },
+  "us_nc_guidance.parquet": {
+   "rows": 117,
+   "bytes": 97577
+  },
+  "us_nc_regulations.parquet": {
+   "rows": 45826,
+   "bytes": 12301531
+  },
+  "us_nc_statutes.parquet": {
+   "rows": 41290,
+   "bytes": 16123927
+  },
+  "us_nd_ag_opinion.parquet": {
+   "rows": 5550,
+   "bytes": 11515981
+  },
+  "us_nd_constitutions.parquet": {
+   "rows": 203,
+   "bytes": 55972
+  },
+  "us_nd_court_rules.parquet": {
+   "rows": 2261,
+   "bytes": 1117748
+  },
+  "us_nd_guidance.parquet": {
+   "rows": 235,
+   "bytes": 320157
+  },
+  "us_nd_regulations.parquet": {
+   "rows": 14343,
+   "bytes": 6478345
+  },
+  "us_nd_statutes.parquet": {
+   "rows": 29042,
+   "bytes": 11249548
+  },
+  "us_ne_ag_opinion.parquet": {
+   "rows": 1191,
+   "bytes": 4897705
+  },
+  "us_ne_constitutions.parquet": {
+   "rows": 208,
+   "bytes": 77657
+  },
+  "us_ne_court_rules.parquet": {
+   "rows": 734,
+   "bytes": 605892
+  },
+  "us_ne_guidance.parquet": {
+   "rows": 120,
+   "bytes": 231775
+  },
+  "us_ne_regulations.parquet": {
+   "rows": 13545,
+   "bytes": 9124995
+  },
+  "us_ne_statutes.parquet": {
+   "rows": 28502,
+   "bytes": 13058286
+  },
+  "us_nh_constitutions.parquet": {
+   "rows": 156,
+   "bytes": 52533
+  },
+  "us_nh_court_rules.parquet": {
+   "rows": 972,
+   "bytes": 735748
+  },
+  "us_nh_guidance.parquet": {
+   "rows": 178,
+   "bytes": 415871
+  },
+  "us_nh_regulations.parquet": {
+   "rows": 38515,
+   "bytes": 15258471
+  },
+  "us_nh_statutes.parquet": {
+   "rows": 25375,
+   "bytes": 10581501
+  },
+  "us_nj_ag_opinion.parquet": {
+   "rows": 16,
+   "bytes": 99212
+  },
+  "us_nj_constitutions.parquet": {
+   "rows": 205,
+   "bytes": 71947
+  },
+  "us_nj_court_rules.parquet": {
+   "rows": 1685,
+   "bytes": 1168623
+  },
+  "us_nj_guidance.parquet": {
+   "rows": 523,
+   "bytes": 880833
+  },
+  "us_nj_statutes.parquet": {
+   "rows": 55048,
+   "bytes": 24919845
+  },
+  "us_nm_constitutions.parquet": {
+   "rows": 265,
+   "bytes": 78963
+  },
+  "us_nm_court_rules.parquet": {
+   "rows": 3462,
+   "bytes": 1756661
+  },
+  "us_nm_guidance.parquet": {
+   "rows": 275,
+   "bytes": 368417
+  },
+  "us_nm_regulations.parquet": {
+   "rows": 36339,
+   "bytes": 14589672
+  },
+  "us_nm_statutes.parquet": {
+   "rows": 31115,
+   "bytes": 11364291
+  },
+  "us_nv_ag_opinion.parquet": {
+   "rows": 41,
+   "bytes": 192907
+  },
+  "us_nv_constitutions.parquet": {
+   "rows": 233,
+   "bytes": 88691
+  },
+  "us_nv_court_rules.parquet": {
+   "rows": 1340,
+   "bytes": 971259
+  },
+  "us_nv_guidance.parquet": {
+   "rows": 200,
+   "bytes": 285700
+  },
+  "us_nv_regulations.parquet": {
+   "rows": 30978,
+   "bytes": 9525965
+  },
+  "us_nv_statutes.parquet": {
+   "rows": 49745,
+   "bytes": 16705551
+  },
+  "us_ny_ag_opinion.parquet": {
+   "rows": 536,
+   "bytes": 1356217
+  },
+  "us_ny_constitutions.parquet": {
+   "rows": 202,
+   "bytes": 103173
+  },
+  "us_ny_court_rules.parquet": {
+   "rows": 1088,
+   "bytes": 643109
+  },
+  "us_ny_guidance.parquet": {
+   "rows": 1200,
+   "bytes": 2165383
+  },
+  "us_ny_statutes.parquet": {
+   "rows": 40162,
+   "bytes": 31028103
+  },
+  "us_oh_ag_opinion.parquet": {
+   "rows": 1406,
+   "bytes": 10585497
+  },
+  "us_oh_constitutions.parquet": {
+   "rows": 226,
+   "bytes": 113226
+  },
+  "us_oh_court_rules.parquet": {
+   "rows": 1167,
+   "bytes": 1224582
+  },
+  "us_oh_guidance.parquet": {
+   "rows": 111,
+   "bytes": 154564
+  },
+  "us_oh_regulations.parquet": {
+   "rows": 19407,
+   "bytes": 21658379
+  },
+  "us_oh_statutes.parquet": {
+   "rows": 33158,
+   "bytes": 20144061
+  },
+  "us_ok_ag_opinion.parquet": {
+   "rows": 3052,
+   "bytes": 8905915
+  },
+  "us_ok_constitutions.parquet": {
+   "rows": 456,
+   "bytes": 164529
+  },
+  "us_ok_guidance.parquet": {
+   "rows": 144,
+   "bytes": 240487
+  },
+  "us_ok_regulations.parquet": {
+   "rows": 19594,
+   "bytes": 19303102
+  },
+  "us_ok_statutes.parquet": {
+   "rows": 35330,
+   "bytes": 18312422
+  },
+  "us_or_ag_opinion.parquet": {
+   "rows": 114,
+   "bytes": 1171774
+  },
+  "us_or_constitutions.parquet": {
+   "rows": 384,
+   "bytes": 114475
+  },
+  "us_or_court_rules.parquet": {
+   "rows": 605,
+   "bytes": 559009
+  },
+  "us_or_guidance.parquet": {
+   "rows": 103,
+   "bytes": 252583
+  },
+  "us_or_regulations.parquet": {
+   "rows": 40870,
+   "bytes": 28143030
+  },
+  "us_or_statutes.parquet": {
+   "rows": 72664,
+   "bytes": 20434832
+  },
+  "us_pa_ag_opinion.parquet": {
+   "rows": 653,
+   "bytes": 1861750
+  },
+  "us_pa_constitutions.parquet": {
+   "rows": 186,
+   "bytes": 61750
+  },
+  "us_pa_court_rules.parquet": {
+   "rows": 2641,
+   "bytes": 1889420
+  },
+  "us_pa_regulations.parquet": {
+   "rows": 48233,
+   "bytes": 18269866
+  },
+  "us_pa_statutes.parquet": {
+   "rows": 14617,
+   "bytes": 7877349
+  },
+  "us_pr_ag_opinion.parquet": {
+   "rows": 81,
+   "bytes": 597931
+  },
+  "us_pr_constitutions.parquet": {
+   "rows": 102,
+   "bytes": 32669
+  },
+  "us_pr_court_rules.parquet": {
+   "rows": 1528,
+   "bytes": 825080
+  },
+  "us_pr_guidance.parquet": {
+   "rows": 1641,
+   "bytes": 2281328
+  },
+  "us_pr_regulations.parquet": {
+   "rows": 126853,
+   "bytes": 89158781
+  },
+  "us_pr_statutes.parquet": {
+   "rows": 24763,
+   "bytes": 10788788
+  },
+  "us_ri_constitutions.parquet": {
+   "rows": 118,
+   "bytes": 38107
+  },
+  "us_ri_court_rules.parquet": {
+   "rows": 1032,
+   "bytes": 716189
+  },
+  "us_ri_guidance.parquet": {
+   "rows": 134,
+   "bytes": 243652
+  },
+  "us_ri_statutes.parquet": {
+   "rows": 21107,
+   "bytes": 8581844
+  },
+  "us_sc_constitutions.parquet": {
+   "rows": 178,
+   "bytes": 59816
+  },
+  "us_sc_court_rules.parquet": {
+   "rows": 557,
+   "bytes": 646932
+  },
+  "us_sc_guidance.parquet": {
+   "rows": 319,
+   "bytes": 720416
+  },
+  "us_sc_regulations.parquet": {
+   "rows": 6189,
+   "bytes": 5230892
+  },
+  "us_sc_statutes.parquet": {
+   "rows": 30489,
+   "bytes": 13367895
+  },
+  "us_sd_ag_opinion.parquet": {
+   "rows": 1652,
+   "bytes": 2944006
+  },
+  "us_sd_constitutions.parquet": {
+   "rows": 270,
+   "bytes": 85609
+  },
+  "us_sd_court_rules.parquet": {
+   "rows": 155,
+   "bytes": 93714
+  },
+  "us_sd_guidance.parquet": {
+   "rows": 27,
+   "bytes": 38346
+  },
+  "us_sd_regulations.parquet": {
+   "rows": 29000,
+   "bytes": 7214829
+  },
+  "us_sd_statutes.parquet": {
+   "rows": 39589,
+   "bytes": 10961307
+  },
+  "us_tn_ag_opinion.parquet": {
+   "rows": 2651,
+   "bytes": 8901954
+  },
+  "us_tn_constitutions.parquet": {
+   "rows": 151,
+   "bytes": 40064
+  },
+  "us_tn_court_rules.parquet": {
+   "rows": 626,
+   "bytes": 959882
+  },
+  "us_tn_guidance.parquet": {
+   "rows": 173,
+   "bytes": 259080
+  },
+  "us_tx_ag_opinion.parquet": {
+   "rows": 3502,
+   "bytes": 15373938
+  },
+  "us_tx_constitutions.parquet": {
+   "rows": 503,
+   "bytes": 199086
+  },
+  "us_tx_court_rules.parquet": {
+   "rows": 1050,
+   "bytes": 675978
+  },
+  "us_tx_guidance.parquet": {
+   "rows": 1284,
+   "bytes": 1558271
+  },
+  "us_tx_statutes.parquet": {
+   "rows": 122630,
+   "bytes": 31212004
+  },
+  "us_ut_constitutions.parquet": {
+   "rows": 189,
+   "bytes": 61068
+  },
+  "us_ut_court_rules.parquet": {
+   "rows": 919,
+   "bytes": 1001376
+  },
+  "us_ut_guidance.parquet": {
+   "rows": 168,
+   "bytes": 267269
+  },
+  "us_ut_regulations.parquet": {
+   "rows": 19949,
+   "bytes": 10798761
+  },
+  "us_ut_statutes.parquet": {
+   "rows": 27556,
+   "bytes": 15342083
+  },
+  "us_va_constitutions.parquet": {
+   "rows": 130,
+   "bytes": 66735
+  },
+  "us_va_court_rules.parquet": {
+   "rows": 358,
+   "bytes": 295815
+  },
+  "us_va_guidance.parquet": {
+   "rows": 89,
+   "bytes": 222064
+  },
+  "us_va_regulations.parquet": {
+   "rows": 22396,
+   "bytes": 14791622
+  },
+  "us_va_statutes.parquet": {
+   "rows": 33861,
+   "bytes": 17304579
+  },
+  "us_vt_ag_opinion.parquet": {
+   "rows": 16,
+   "bytes": 79797
+  },
+  "us_vt_constitutions.parquet": {
+   "rows": 98,
+   "bytes": 29607
+  },
+  "us_vt_guidance.parquet": {
+   "rows": 214,
+   "bytes": 414747
+  },
+  "us_vt_statutes.parquet": {
+   "rows": 23521,
+   "bytes": 10708461
+  },
+  "us_wa_ag_opinion.parquet": {
+   "rows": 4430,
+   "bytes": 13811772
+  },
+  "us_wa_constitutions.parquet": {
+   "rows": 270,
+   "bytes": 94860
+  },
+  "us_wa_court_rules.parquet": {
+   "rows": 1183,
+   "bytes": 1096003
+  },
+  "us_wa_guidance.parquet": {
+   "rows": 24,
+   "bytes": 79148
+  },
+  "us_wa_regulations.parquet": {
+   "rows": 51026,
+   "bytes": 32185792
+  },
+  "us_wa_statutes.parquet": {
+   "rows": 52002,
+   "bytes": 22810105
+  },
+  "us_wi_constitutions.parquet": {
+   "rows": 161,
+   "bytes": 52720
+  },
+  "us_wi_court_rules.parquet": {
+   "rows": 395,
+   "bytes": 392556
+  },
+  "us_wi_guidance.parquet": {
+   "rows": 232,
+   "bytes": 385967
+  },
+  "us_wi_regulations.parquet": {
+   "rows": 17882,
+   "bytes": 11712770
+  },
+  "us_wi_statutes.parquet": {
+   "rows": 18158,
+   "bytes": 12500730
+  },
+  "us_wv_ag_opinion.parquet": {
+   "rows": 151,
+   "bytes": 736136
+  },
+  "us_wv_constitutions.parquet": {
+   "rows": 204,
+   "bytes": 72600
+  },
+  "us_wv_court_rules.parquet": {
+   "rows": 1116,
+   "bytes": 632596
+  },
+  "us_wv_guidance.parquet": {
+   "rows": 174,
+   "bytes": 627456
+  },
+  "us_wv_regulations.parquet": {
+   "rows": 39372,
+   "bytes": 27613495
+  },
+  "us_wv_statutes.parquet": {
+   "rows": 25664,
+   "bytes": 14422118
+  },
+  "us_wy_constitutions.parquet": {
+   "rows": 316,
+   "bytes": 72739
+  },
+  "us_wy_court_rules.parquet": {
+   "rows": 1020,
+   "bytes": 707889
+  },
+  "us_wy_guidance.parquet": {
+   "rows": 62,
+   "bytes": 114385
+  },
+  "us_wy_regulations.parquet": {
+   "rows": 13348,
+   "bytes": 7333958
+  },
+  "us_wy_statutes.parquet": {
+   "rows": 20995,
+   "bytes": 7827312
+  }
+ }
+}

@@ -1,0 +1,1101 @@
+division,division_name,title,title_name,subtitle,subtitle_name,chapter,chapter_to,chapter_name,status,first_section,page
+1,Government,1,General Provisions,,,1,,Common Law; Construction of Laws,in_force,1-1,1
+1,Government,1,General Provisions,,,1B,,Designation of Rural Areas for Federal Programs,in_force,1B-1,1
+1,Government,1,General Provisions,,,2,,Statute Revision and Publication,repealed,,1
+1,Government,1,General Provisions,,,3,,Uniformity of Legislation,in_force,3-1,1
+1,Government,1,General Provisions,,,4,,Boundaries,in_force,4-1,1
+1,Government,1,General Provisions,,,4E,,State Board on Geographic Names,in_force,4E-1,1
+1,Government,1,General Provisions,,,5,,Emblems and Symbols,in_force,5-1,1
+1,Government,1,General Provisions,,,6,,Memorials,repealed,,1
+1,Government,1,General Provisions,,,6D,,Protection of Caves,in_force,6D-1,1
+1,Government,1,General Provisions,,,6E,,Historic Preservation,in_force,,1
+1,Government,1,General Provisions,,,6F,,Judiciary History Center,in_force,6F-1,1
+1,Government,1,General Provisions,,,6K,,Kaho'olawe Island Reserve,in_force,6K-1,1
+1,Government,1,General Provisions,,,7,,Miscellaneous Rights of the People,in_force,7-1,1
+1,Government,1,General Provisions,,,8,,Holidays and Periods of Recognition and Observance,in_force,8-1,1
+1,Government,1,General Provisions,,,9,,Foundation on Culture and the Arts,in_force,,1
+1,Government,1,General Provisions,,,9C,,Ethnic Studies,repealed,,1
+1,Government,1,General Provisions,,,10,,Office of Hawaiian Affairs,in_force,,1
+1,Government,1,General Provisions,,,10H,,Native Hawaiian Recognition,in_force,10H-1,2
+1,Government,2,Elections,,,11,,"Elections, Generally",in_force,,2
+1,Government,2,Elections,,,12,,Primary Elections,in_force,,2
+1,Government,2,Elections,,,13,,Board of Education,repealed,,2
+1,Government,2,Elections,,,13D,,"Board of Trustees, Office of Hawaiian Affairs",in_force,13D-1,2
+1,Government,2,Elections,,,14,,Presidential Elections,in_force,,2
+1,Government,2,Elections,,,14D,,Agreement Among the States to Elect the President by National Popular Vote,in_force,14D-1,2
+1,Government,2,Elections,,,15,,Absentee Voting,in_force,15-1,2
+1,Government,2,Elections,,,15A,,Voting by Mailing Ballot,repealed,,3
+1,Government,2,Elections,,,15D,,Uniform Military and Overseas Voters Act,in_force,15D-1,3
+1,Government,2,Elections,,,16,,Voting Systems,in_force,,3
+1,Government,2,Elections,,,16A,,Uniform Act for Voting by New Residents in Presidential Elections,repealed,,3
+1,Government,2,Elections,,,17,,Vacancies,in_force,17-1,3
+1,Government,2,Elections,,,18,,Districting,repealed,,3
+1,Government,2,Elections,,,19,,Election Offense,in_force,19-1,3
+1,Government,3,Legislature,,,21,,Legislative Hearings and Procedure,in_force,21-1,3
+1,Government,3,Legislature,,,21B,,Impeachment of the Governor; Lieutenant Governor,in_force,21B-1,3
+1,Government,3,Legislature,,,21D,,Access/Legislative Information Service,in_force,21D-1,3
+1,Government,3,Legislature,,,21E,,Joint Legislative Management Committee,in_force,21E-1,3
+1,Government,3,Legislature,,,21F,,Legislative Fiscal and Budget Analysis,in_force,21F-1,3
+1,Government,3,Legislature,,,21G,,Public Access,in_force,21G-1,3
+1,Government,3,Legislature,,,22,,"Presiding Officers, Clerks, and Staff",in_force,22-1,3
+1,Government,3,Legislature,,,23,,Auditor,in_force,,3
+1,Government,3,Legislature,,,23G,,Office of the Legislative Reference Bureau,in_force,,3
+1,Government,3,Legislature,,,24,,Allowance and Salary for Legislators,in_force,24-1,3
+1,Government,3,Legislature,,,25,,Reapportionment,in_force,25-1,3
+1,Government,4,"State Organization and Administration, Generally",,,26,,Executive and Administrative Departments,in_force,,3
+1,Government,4,"State Organization and Administration, Generally",,,26H,,Hawaii Regulatory Licensing Reform Act,in_force,26H-1,4
+1,Government,4,"State Organization and Administration, Generally",,,27,,State Functions and Responsibilities,in_force,,4
+1,Government,4,"State Organization and Administration, Generally",,,27C,,State Information Service,in_force,27C-1,4
+1,Government,4,"State Organization and Administration, Generally",,,27G,,Access Hawaii Committee,in_force,27G-1,4
+1,Government,4,"State Organization and Administration, Generally",,,27J,,Apostilles and Certifications,in_force,27J-1,4
+1,Government,4,"State Organization and Administration, Generally",,,28,,Attorney General,in_force,,4
+1,Government,4,"State Organization and Administration, Generally",,,29,,Federal Aid,in_force,,4
+1,Government,4,"State Organization and Administration, Generally",,,30,,Gubernatorial Transition,in_force,30-1,4
+1,Government,5,State Financial Administration,,,36,,Management of State Funds,in_force,,4
+1,Government,5,State Financial Administration,,,37,,Budget,in_force,,4
+1,Government,5,State Financial Administration,,,37B,,Disposition of Excess Revenues,in_force,37B-1,4
+1,Government,5,State Financial Administration,,,37C,,State Debt,in_force,,5
+1,Government,5,State Financial Administration,,,37D,,Management of Financing Agreements,in_force,37D-1,5
+1,Government,5,State Financial Administration,,,38,,Deposits of Public Funds,in_force,38-1,5
+1,Government,5,State Financial Administration,,,39,,State Bonds,in_force,,5
+1,Government,5,State Financial Administration,,,39A,,Special Purpose Revenue Bonds,in_force,,5
+1,Government,5,State Financial Administration,,,39B,,Allocation of Private Activity Bonds,in_force,39B-1,5
+1,Government,5,State Financial Administration,,,39C,,Allocation of State Bond Ceiling,in_force,39C-1,5
+1,Government,5,State Financial Administration,,,40,,Audit and Accounting,in_force,,5
+1,Government,5,State Financial Administration,,,41,,State Insurance Administration,repealed,,6
+1,Government,5,State Financial Administration,,,41D,,State Risk Management and Insurance Administration,in_force,41D-1,6
+1,Government,5,State Financial Administration,,,42,,"Grants, Subsidies, and Purchases of Service",repealed,,6
+1,Government,5,State Financial Administration,,,42D,,"Grants, Subsidies, and Purchases of Service",repealed,,6
+1,Government,5,State Financial Administration,,,42F,,Grants,in_force,42F-101,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,46,,General Provisions,in_force,,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,47,,County Bonds,in_force,,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,47C,,"Indebtedness of the Counties, Exclusions from the Funded Debt, and Certification Thereof",in_force,47C-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,48,,Economic Development Bonds,in_force,48-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,48E,,Political Subdivision Pollution Control Special Purpose Revenue Bonds,in_force,48E-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,49,,Revenue Bonds,in_force,49-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,50,,Charter Commissions,in_force,50-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,51,,Mass Transit,in_force,51-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,51D,,Transit Capital Development Fund,repealed,,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,52,,Police Departments,repealed,,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,52D,,Police Departments,in_force,52D-1,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,53,,Urban Renewal Law,in_force,,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,54,,Water Systems,in_force,,6
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,56,,Public Off-Street Parking Facilities,in_force,56-1,7
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,57,,Urban and Regional Design,repealed,,7
+1,Government,6,County Organization and Administration,1,Provisions Common to All Counties,58,,Exceptional Trees,in_force,58-1,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",61,,General Organization and Powers,repealed,,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",62,,County Officers,repealed,,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",63,,Election of Officers,repealed,,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",64,,Provisions Specific for Hawaii,repealed,,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",65,,Provisions Specific for Kauai,repealed,,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",66,,Provisions Specific for Maui,repealed,,7
+1,Government,6,County Organization and Administration,2,"Government of Hawaii, Kauai, Maui",67,,Improvement by Assessment,repealed,,7
+1,Government,6,County Organization and Administration,3,Honolulu Government,70,,General Provisions Relating to Honolulu,repealed,,7
+1,Government,6,County Organization and Administration,3,Honolulu Government,71,,Artesian Well Control,repealed,,7
+1,Government,7,Public Officers and Employees,,,76,,Civil Service Law,in_force,,7
+1,Government,7,Public Officers and Employees,,,77,,Compensation Law,repealed,,7
+1,Government,7,Public Officers and Employees,,,78,,Public Service,in_force,78-1,7
+1,Government,7,Public Officers and Employees,,,79,,Leaves of Absence,repealed,,7
+1,Government,7,Public Officers and Employees,,,80,,Hours of Work,repealed,,7
+1,Government,7,Public Officers and Employees,,,81,,In-Service Training Programs,repealed,,7
+1,Government,7,Public Officers and Employees,,,82,,Incentive and Service Awards,repealed,,7
+1,Government,7,Public Officers and Employees,,,83,,Temporary Intergovernmental Assignment of Public Employees,repealed,,7
+1,Government,7,Public Officers and Employees,,,84,,Standards of Conduct,in_force,,7
+1,Government,7,Public Officers and Employees,,,85,,Loyalty,in_force,,8
+1,Government,7,Public Officers and Employees,,,86,,Strikes Against the Government,repealed,,8
+1,Government,7,Public Officers and Employees,,,87,,Public Employees Health Fund,repealed,,8
+1,Government,7,Public Officers and Employees,,,87A,,Hawaii Employer-Union Health Benefits Trust Fund,in_force,,8
+1,Government,7,Public Officers and Employees,,,87D,,Voluntary Employees' Beneficiary Association Trusts,repealed,,8
+1,Government,7,Public Officers and Employees,,,88,,Pension and Retirement Systems,in_force,,8
+1,Government,7,Public Officers and Employees,,,88D,,Tax Deferred Compensation Plans for Public Employees,in_force,88D-1,8
+1,Government,7,Public Officers and Employees,,,88E,,Deferred Compensation Plan,in_force,88E-1,8
+1,Government,7,Public Officers and Employees,,,88F,,"Deferred Compensation Retirement Plan for Part-Time, Temporary, and Seasonal or Casual Employees",in_force,88F-1,8
+1,Government,7,Public Officers and Employees,,,89,,Collective Bargaining in Public Employment,in_force,89-1,8
+1,Government,7,Public Officers and Employees,,,89A,,Office of Collective Bargaining and Managed Competition,in_force,89A-1,8
+1,Government,7,Public Officers and Employees,,,89C,,Public Officers and Employees Excluded from Collective Bargaining,in_force,89C-1,8
+1,Government,7,Public Officers and Employees,,,89E,,Separation Benefits,repealed,,8
+1,Government,7,Public Officers and Employees,,,90,,State Policy Concerning the Utilization of Volunteer Services,in_force,90-1,8
+1,Government,7,Public Officers and Employees,,,90D,,Commission for National and Community Service,in_force,90D-1,8
+1,Government,8,Public Proceedings and Records,,,91,,Administrative Procedure,in_force,91-1,9
+1,Government,8,Public Proceedings and Records,,,92,,Public Agency Meetings and Records,in_force,,9
+1,Government,8,Public Proceedings and Records,,,92E,,Fair Information Practice (Confidentiality of Personal Record),repealed,,9
+1,Government,8,Public Proceedings and Records,,,92F,,Uniform Information Practices Act (Modified),in_force,,9
+1,Government,8,Public Proceedings and Records,,,92H,,Restrictions on Publication of Certain Public Servants' Personal Information,in_force,92H-1,9
+1,Government,8,Public Proceedings and Records,,,92J,,Department of Hawaiian Home Lands Records,in_force,92J-1,9
+1,Government,8,Public Proceedings and Records,,,93,,Government Publications,in_force,,9
+1,Government,8,Public Proceedings and Records,,,94,,Public Archives; Disposal of Records,in_force,94-1,9
+1,Government,8,Public Proceedings and Records,,,95,,Destroying or Defacing Official Notices,repealed,,9
+1,Government,8,Public Proceedings and Records,,,96,,The Ombudsman,in_force,96-1,9
+1,Government,8,Public Proceedings and Records,,,97,,Lobbyists,in_force,97-1,9
+1,Government,8,Public Proceedings and Records,,,98,,Uniform Electronic Legal Material Act,in_force,98-1,9
+1,Government,9,"Public Property, Purchasing and Contracting",,,101,,Eminent Domain,in_force,,9
+1,Government,9,"Public Property, Purchasing and Contracting",,,102,,Concessions on Public Property,in_force,102-1,9
+1,Government,9,"Public Property, Purchasing and Contracting",,,103,,Expenditure of Public Money and Public Contracts,in_force,,9
+1,Government,9,"Public Property, Purchasing and Contracting",,,103B,,Employment of State Residents on Construction Procurement Contracts,in_force,103B-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,103D,,Hawaii Public Procurement Code,in_force,,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,103F,,Purchases of Health and Human Services,in_force,,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,104,,Wages and Hours of Employees on Public Works,in_force,,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,105,,Government Motor Vehicles,in_force,105-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,106,,"Inventory, Accounting, and Disposal of Government Assets",repealed,,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,107,,Public Improvements,in_force,,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,107D,,State Facility Renovation Partnership Program,in_force,107D-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,109,,Stadiums and Recreational Facilities,in_force,109-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,110,,State-Owned Cemeteries,in_force,110-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,111,,Assistance to Displaced Persons,in_force,111-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,113,,Land Acquisition Policies for Federally Assisted Programs,in_force,113-1,10
+1,Government,9,"Public Property, Purchasing and Contracting",,,115,,Public Access to Coastal and Inland Recreational Areas,in_force,115-1,10
+1,Government,10,Public Safety and Internal Security,,,121,,Militia; National Guard,in_force,121-1,10
+1,Government,10,Public Safety and Internal Security,,,122,,Hawaii State Guard,repealed,,10
+1,Government,10,Public Safety and Internal Security,,,122A,,Hawaii State Defense Force,in_force,122A-1,10
+1,Government,10,Public Safety and Internal Security,,,123,,Naval Militia,in_force,123-1,10
+1,Government,10,Public Safety and Internal Security,,,124,,Military Courts-Martial,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,124A,,Hawaii Code of Military Justice,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,124B,,Hawaii Code of Military Justice,in_force,,11
+1,Government,10,Public Safety and Internal Security,,,125,,Procurement and Control of Distribution of Necessary Commodities,in_force,125-1,11
+1,Government,10,Public Safety and Internal Security,,,125C,,"Procurement, Control, Distribution and Sale of Petroleum Products",in_force,,11
+1,Government,10,Public Safety and Internal Security,,,126,,Federal Flood Insurance,in_force,126-1,11
+1,Government,10,Public Safety and Internal Security,,,127,,Disaster Relief,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,127A,,Emergency Management,in_force,127A-1,11
+1,Government,10,Public Safety and Internal Security,,,127D,,Intrastate Mutual Aid Act,in_force,127D-1,11
+1,Government,10,Public Safety and Internal Security,,,127F,,Emergency Management Assistance Compact,in_force,127F-1,11
+1,Government,10,Public Safety and Internal Security,,,128,,Civil Defense and Emergency Act,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,128A,,Homeland Security,in_force,,11
+1,Government,10,Public Safety and Internal Security,,,128B,,Cybersecurity,in_force,128B-1,11
+1,Government,10,Public Safety and Internal Security,,,128D,,Environmental Response Law,in_force,,11
+1,Government,10,Public Safety and Internal Security,,,128E,,Hawaii Emergency Planning and Community Right-to-Know Act,in_force,128E-1,11
+1,Government,10,Public Safety and Internal Security,,,128F,,Emergency Management Assistance Compact,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,129,,Blackouts and Illumination Control,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,130,,Emergency Seat of Government,in_force,130-1,11
+1,Government,10,Public Safety and Internal Security,,,131,,Commission on Subversive Activities,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,132,,Fire Protection,in_force,132-1,11
+1,Government,10,Public Safety and Internal Security,,,132C,,Reduced Ignition Propensity Cigarettes Law,in_force,132C-1,11
+1,Government,10,Public Safety and Internal Security,,,132D,,Fireworks,in_force,132D-1,11
+1,Government,10,Public Safety and Internal Security,,,133,,Combustibles,repealed,,11
+1,Government,10,Public Safety and Internal Security,,,134,,"Firearms, Ammunition and Dangerous Weapons",in_force,,11
+1,Government,10,Public Safety and Internal Security,,,134C,,Gun Violence and Violent Crimes Commission,in_force,134C-1,11
+1,Government,10,Public Safety and Internal Security,,,135,,Emergency Use of Private Real Property,in_force,135-1,11
+1,Government,10,Public Safety and Internal Security,,,136,,Laser Pointing Devices,in_force,136-1,12
+1,Government,10,Public Safety and Internal Security,,,137,,Search and Rescue Reimbursement Act,in_force,137-1,12
+1,Government,10,Public Safety and Internal Security,,,138,,911 Services,in_force,138-1,12
+1,Government,10,Public Safety and Internal Security,,,139,,Law Enforcement Standards,in_force,139-1,12
+1,Government,11,Agriculture and Animals,,,141,,Department of Agriculture,in_force,,12
+1,Government,11,Agriculture and Animals,,,141D,,Agricultural Enterprises,in_force,141D-1,12
+1,Government,11,Agriculture and Animals,,,142,,"Animals, Brands, and Fences",in_force,,12
+1,Government,11,Agriculture and Animals,,,143,,Animals: Licenses and Regulations,in_force,143-1,12
+1,Government,11,Agriculture and Animals,,,144,,Feed,in_force,144-1,12
+1,Government,11,Agriculture and Animals,,,145,,Regulation of Farm Produce,in_force,,12
+1,Government,11,Agriculture and Animals,,,145D,,Donation of Food,in_force,145D-1,12
+1,Government,11,Agriculture and Animals,,,146,,Slaughtering Operations and Slaughterhouses,in_force,,12
+1,Government,11,Agriculture and Animals,,,147,,Grades and Standards,in_force,,12
+1,Government,11,Agriculture and Animals,,,148,,Advertising and Marketing,in_force,,12
+1,Government,11,Agriculture and Animals,,,148D,,Aquaculture Advisory Council,repealed,,12
+1,Government,11,Agriculture and Animals,,,149,,Economic Poisons,repealed,,12
+1,Government,11,Agriculture and Animals,,,149A,,Hawaii Pesticides Law,in_force,,12
+1,Government,11,Agriculture and Animals,,,150,,Seeds,in_force,,13
+1,Government,11,Agriculture and Animals,,,150A,,Plant and Non-Domestic Animal Quarantine and Microorganism Import,in_force,,13
+1,Government,11,Agriculture and Animals,,,151,,Weed Control,repealed,,13
+1,Government,11,Agriculture and Animals,,,152,,Noxious Weed Control,in_force,152-1,13
+1,Government,11,Agriculture and Animals,,,153,,Agricultural Products Program,repealed,,13
+1,Government,11,Agriculture and Animals,,,154,,Fruit and Nut Orchards,repealed,,13
+1,Government,11,Agriculture and Animals,,,155,,Agricultural and Water Infrastructure Loans,in_force,,13
+1,Government,11,Agriculture and Animals,,,155D,,Livestock Revitalization Program,in_force,155D-1,13
+1,Government,11,Agriculture and Animals,,,156,,Farm Advisory Board,repealed,,13
+1,Government,11,Agriculture and Animals,,,157,,Milk Control Act,in_force,,13
+1,Government,11,Agriculture and Animals,,,159,,Hawaii Meat Inspection Act,in_force,,13
+1,Government,11,Agriculture and Animals,,,161,,Poultry Inspection,in_force,,13
+1,Government,11,Agriculture and Animals,,,163,,Marketing Orders and Agreements,repealed,,14
+1,Government,11,Agriculture and Animals,,,163D,,Agribusiness Development Corporation,in_force,,14
+1,Government,11,Agriculture and Animals,,,164,,Agriculture Coordinating Committee,repealed,,14
+1,Government,11,Agriculture and Animals,,,165,,Hawaii Right to Farm Act,in_force,165-1,14
+1,Government,11,Agriculture and Animals,,,166,,Agricultural Parks,in_force,166-1,14
+1,Government,11,Agriculture and Animals,,,166E,,Non-Agricultural Park Lands,in_force,166E-1,14
+1,Government,11,Agriculture and Animals,,,167,,Irrigation Water Development,in_force,167-1,14
+1,Government,11,Agriculture and Animals,,,168,,Irrigation and Water Utilization Projects,in_force,168-1,14
+1,Government,11,Agriculture and Animals,,,169,,Private Agricultural Parks,in_force,169-1,14
+1,Government,12,Conservation and Resources,1,Public Lands,171,,"Public Lands, Management and Disposition of",in_force,,14
+1,Government,12,Conservation and Resources,1,Public Lands,171C,,Public Land Development Corporation,repealed,,15
+1,Government,12,Conservation and Resources,1,Public Lands,172,,Land Commission Awards; Surveys,in_force,172-1,15
+1,Government,12,Conservation and Resources,1,Public Lands,173,,Reclamation of Lands,in_force,173-1,15
+1,Government,12,Conservation and Resources,1,Public Lands,173A,,Acquisition of Resource Value Lands,in_force,173A-1,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,174,,Water and Land Development,in_force,174-1,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,174C,,State Water Code,in_force,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,175,,Molokai Irrigation and Water Utilization Project,repealed,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,176,,Water Resources,repealed,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,176D,,Protection of Instream Uses of Water,repealed,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,177,,Ground-Water Use,repealed,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,178,,"Wells, Generally",repealed,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,179,,Flood Control and Flood Water Conservation,in_force,179-1,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,179D,,Dams and Reservoirs,in_force,,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,180,,Soil and Water Conservation Districts,in_force,180-1,15
+1,Government,12,Conservation and Resources,2,Water and Land Development; Flood Control,180C,,Soil Erosion and Sediment Control,in_force,180C-1,15
+1,Government,12,Conservation and Resources,3,Mining and Minerals,181,,Strip Mining,in_force,181-1,15
+1,Government,12,Conservation and Resources,3,Mining and Minerals,182,,Reservation and Disposition of Government Mineral Rights,in_force,182-1,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183,,"Forest Reserves, Water Development, Zoning",in_force,,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183B,,Hawaiian Fishponds,in_force,183B-1,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183C,,Conservation District,in_force,183C-1,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,183D,,Wildlife,in_force,,15
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,184,,State Parks and Recreation Areas,in_force,,16
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,185,,Land Fire Protection Law,in_force,185-1,16
+1,Government,12,Conservation and Resources,4,Forestry and Wildlife; Recreation Areas; Fire Protection,186,,Tree Farms,in_force,186-1,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,187,,General Provisions Relating to Aquatic Resources and Wildlife,repealed,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,187A,,Aquatic Resources,in_force,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,188,,Fishing Rights and Regulations,in_force,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,188C,,Pacific Marine Fisheries Compact,in_force,188C-1,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,188E,,Hawaii Fisheries Coordinating Council,repealed,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,188F,,West Hawaii Regional Fishery Management Area,in_force,188F-1,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,189,,Commercial Fishing,in_force,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,189G,,Aquaculture Advisory Council,repealed,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,190,,Marine Life Conservation Program,in_force,190-1,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,190D,,Ocean and Submerged Lands Leasing,in_force,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,191,,Birds and Mammals,repealed,,16
+1,Government,12,Conservation and Resources,5,Aquatic Resources and Wildlife,192,,Shooting Preserves and Game Bird Farming,repealed,,16
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,193,,Conservation: Employment Programs,in_force,,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,194,,Invasive Species Council,in_force,194-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,195,,Natural Area Reserves System,in_force,195-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,195D,,"Conservation of Aquatic Life, Wildlife, and Land Plants",in_force,,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,195F,,Forest Stewardship,in_force,195F-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,195H,,Mauna Kea Stewardship and Oversight Authority,in_force,195H-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,196,,Energy Resources,in_force,,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,196D,,Geothermal and Cable System Development,in_force,196D-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,197,,General Provisions Relating to Aquatic Resources and Wildlife,in_force,197-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,198,,Conservation Easements,in_force,198-1,17
+1,Government,12,Conservation and Resources,6,General and Miscellaneous Programs,198D,,Hawaii Statewide Trail and Access System,in_force,198D-1,17
+1,Government,12,Conservation and Resources,7,Enforcement,199,,Conservation and Resources Enforcement Program,in_force,199-1,17
+1,Government,12,Conservation and Resources,7,Enforcement,199D,,Civil Natural Resource Violations Act,in_force,199D-1,17
+1,Government,12,Conservation and Resources,8,Ocean Recreation and Coastal Areas,200,,Ocean Recreation and Coastal Areas Programs,in_force,,17
+1,Government,12,Conservation and Resources,8,Ocean Recreation and Coastal Areas,200A,,Uniform Certificate of Title for Vessels Act,in_force,200A-1,17
+1,Government,12,Conservation and Resources,8,Ocean Recreation and Coastal Areas,200D,,Kaneohe Bay Regional Council,in_force,200D-1,17
+1,Government,13,Planning and Economic Development,,,201,,"Department of Business, Economic Development, and Tourism",in_force,,18
+1,Government,13,Planning and Economic Development,,,201B,,Hawaii Tourism Authority,in_force,,18
+1,Government,13,Planning and Economic Development,,,201C,,Financial Services Assistance Program,in_force,201C-1,18
+1,Government,13,Planning and Economic Development,,,201D,,Business Action Center,repealed,,18
+1,Government,13,Planning and Economic Development,,,201E,,Housing Finance and Development Corporation,repealed,,18
+1,Government,13,Planning and Economic Development,,,201F,,Rental Housing Trust Fund,repealed,,18
+1,Government,13,Planning and Economic Development,,,201G,,Housing and Community Development Corporation of Hawaii,repealed,,18
+1,Government,13,Planning and Economic Development,,,201H,,Hawaii Housing Finance and Development Corporation,in_force,,18
+1,Government,13,Planning and Economic Development,,,201M,,Small Business Regulatory Flexibility Act,in_force,201M-1,18
+1,Government,13,Planning and Economic Development,,,201N,,Renewable Energy Facility Siting Process,repealed,,18
+1,Government,13,Planning and Economic Development,,,202,,Hawaii Workforce Development Council,in_force,202-1,18
+1,Government,13,Planning and Economic Development,,,203,,Tourism Development,repealed,,18
+1,Government,13,Planning and Economic Development,,,204,,State Fairs,repealed,,18
+1,Government,13,Planning and Economic Development,,,205,,Land Use Commission,in_force,,18
+1,Government,13,Planning and Economic Development,,,205A,,Coastal Zone Management,in_force,,19
+1,Government,13,Planning and Economic Development,,,206,,Oahu Land Development,in_force,206-1,19
+1,Government,13,Planning and Economic Development,,,206E,,Hawaii Community Development Authority,in_force,,19
+1,Government,13,Planning and Economic Development,,,206G,,Kalaeloa Community Development District,repealed,,19
+1,Government,13,Planning and Economic Development,,,206J,,Aloha Tower Development Corporation,in_force,206J-1,19
+1,Government,13,Planning and Economic Development,,,206M,,Hawaii Technology Development Corporation,in_force,,19
+1,Government,13,Planning and Economic Development,,,206N,,Wireless Broadband and Communications Networks,in_force,206N-1,19
+1,Government,13,Planning and Economic Development,,,206P,,Hawaii Telecommunications and Information Industries Act,repealed,,19
+1,Government,13,Planning and Economic Development,,,206R,,Broadband Infrastructure Grant Program,in_force,206R-1,19
+1,Government,13,Planning and Economic Development,,,206S,,Hawaii Broadband and Digital Equity Office,in_force,206S-1,19
+1,Government,13,Planning and Economic Development,,,206X,,Convention Center Authority,repealed,,19
+1,Government,13,Planning and Economic Development,,,207,,Mortgage Loans,in_force,,19
+1,Government,13,Planning and Economic Development,,,208,,Economic Redevelopment Program for Depressed Areas,repealed,,19
+1,Government,13,Planning and Economic Development,,,209,,Disaster Relief and Rehabilitation,in_force,,20
+1,Government,13,Planning and Economic Development,,,209E,,State Enterprise Zones,in_force,209E-1,20
+1,Government,13,Planning and Economic Development,,,210,,Capital Loan Program,in_force,210-1,20
+1,Government,13,Planning and Economic Development,,,210D,,Community-Based Development,in_force,210D-1,20
+1,Government,13,Planning and Economic Development,,,211,,Guarantee of Commercial Loans,repealed,,20
+1,Government,13,Planning and Economic Development,,,211D,,Capital Access Program,in_force,211D-1,20
+1,Government,13,Planning and Economic Development,,,211E,,Hawaii Innovation Development Program,in_force,211E-1,20
+1,Government,13,Planning and Economic Development,,,211F,,Hawaii Strategic Development Corporation,repealed,,20
+1,Government,13,Planning and Economic Development,,,211G,,State Private Investment Fund,repealed,,20
+1,Government,13,Planning and Economic Development,,,212,,Foreign-Trade Zones,in_force,212-1,20
+1,Government,13,Planning and Economic Development,,,213,,Research and Development Industry Promotion Program,in_force,213-1,20
+1,Government,13,Planning and Economic Development,,,213E,,Employee Ownership and Participation Programs,repealed,,20
+1,Government,13,Planning and Economic Development,,,214,,Grants-in-Aid for County Capital Improvement Projects,in_force,214-1,20
+1,Government,13,Planning and Economic Development,,,218,,Marine Affairs Coordinator,repealed,,20
+1,Government,13,Planning and Economic Development,,,219,,Aquaculture Loan Program,in_force,219-1,20
+1,Government,13,Planning and Economic Development,,,220,,Aquaculture Farms,in_force,220-1,20
+1,Government,13,Planning and Economic Development,,,221,,Commission on the Year 2000,repealed,,20
+1,Government,13,Planning and Economic Development,,,222,,Hawaii Research Center for Futures Study,repealed,,20
+1,Government,13,Planning and Economic Development,,,223,,Quality Growth Policy,in_force,223-1,20
+1,Government,13,Planning and Economic Development,,,224,,State Population and Planning,repealed,,20
+1,Government,13,Planning and Economic Development,,,225,,Policy Planning,repealed,,20
+1,Government,13,Planning and Economic Development,,,225M,,State Planning,in_force,225M-1,20
+1,Government,13,Planning and Economic Development,,,225P,,Hawaii Climate Change Mitigation and Adaptation Initiative,in_force,225P-1,20
+1,Government,13,Planning and Economic Development,,,226,,Hawaii State Planning Act,in_force,,20
+1,Government,13,Planning and Economic Development,,,227,,Natural Energy Laboratory of Hawaii,repealed,,20
+1,Government,13,Planning and Economic Development,,,227D,,Natural Energy Laboratory of Hawaii Authority,in_force,227D-1,20
+1,Government,13,Planning and Economic Development,,,228,,Ocean Resources Management,repealed,,20
+1,Government,13,Planning and Economic Development,,,229,,Sister-State and Province Relationships,in_force,229-1,20
+1,Government,14,Taxation,,,231,,Administration of Taxes,in_force,,20
+1,Government,14,Taxation,,,232,,Tax Appeals,in_force,232-1,21
+1,Government,14,Taxation,,,232E,,Tax Review Commission,in_force,232E-1,21
+1,Government,14,Taxation,,,233,,Tax Classification of Certain Business Relationships,in_force,233-1,21
+1,Government,14,Taxation,,,234,,Tax Relief for Natural Disaster Losses,repealed,,21
+1,Government,14,Taxation,,,235,,Income Tax Law,in_force,,21
+1,Government,14,Taxation,,,235D,,Qualified Improvement Tax Credit,repealed,,21
+1,Government,14,Taxation,,,236,,Inheritance and Estate Taxes Law,repealed,,21
+1,Government,14,Taxation,,,236A,,Revised Uniform Estate Tax Apportionment Act,repealed,,21
+1,Government,14,Taxation,,,236D,,Estate and Transfer Tax,in_force,236D-1,21
+1,Government,14,Taxation,,,236E,,Estate and Generation-Skipping Transfer Tax,in_force,236E-1,21
+1,Government,14,Taxation,,,237,,General Excise Tax Law,in_force,,21
+1,Government,14,Taxation,,,237D,,Transient Accommodations Tax,in_force,237D-1,21
+1,Government,14,Taxation,,,238,,Use Tax Law,in_force,238-1,21
+1,Government,14,Taxation,,,239,,Public Service Company Tax Law,in_force,,21
+1,Government,14,Taxation,,,240,,Public Utilities; Franchise Tax,in_force,240-1,21
+1,Government,14,Taxation,,,241,,Taxation of Banks and Other Financial Corporations,in_force,241-1,21
+1,Government,14,Taxation,,,242,,Mortgage Loan Exemption,repealed,,21
+1,Government,14,Taxation,,,243,,Fuel Tax Law,in_force,243-1,21
+1,Government,14,Taxation,,,244,,Liquor Tax Law,repealed,,21
+1,Government,14,Taxation,,,244D,,Liquor Tax Law,in_force,244D-1,21
+1,Government,14,Taxation,,,245,,Cigarette Tax and Tobacco Tax Law,in_force,,21
+1,Government,14,Taxation,,,246,,Real Property Tax Law,repealed,,22
+1,Government,14,Taxation,,,246A,,Transfer of Real Property Taxation Functions,repealed,,22
+1,Government,14,Taxation,,,247,,Conveyance Tax,in_force,247-1,22
+1,Government,14,Taxation,,,248,,County Budgets; Tax Funds,in_force,248-1,22
+1,Government,14,Taxation,,,249,,County Vehicular Taxes,in_force,,22
+1,Government,14,Taxation,,,251,,"Rental Motor Vehicle, Tour Vehicle, and Car-Sharing Vehicle Surcharge Tax",in_force,251-1,22
+1,Government,14,Taxation,,,255,,Multistate Tax Compact,in_force,255-1,22
+1,Government,14,Taxation,,,255D,,Hawaii Simplified Sales and Use Tax Administration Act,in_force,255D-1,22
+1,Government,14,Taxation,,,256,,College Savings Program,in_force,256-1,22
+1,Government,14,Taxation,,,256B,,Hawaii ABLE Savings Program,in_force,256B-1,22
+1,Government,14,Taxation,,,257,,Individual Development Accounts,in_force,257-1,22
+1,Government,15,Transportation and Utilities,,,261,,Aeronautics,in_force,,22
+1,Government,15,Transportation and Utilities,,,261C,,Hawaii Air Carriers,repealed,,22
+1,Government,15,Transportation and Utilities,,,261D,,Transportation Use Special Fund,in_force,261D-1,22
+1,Government,15,Transportation and Utilities,,,261E,,Hawaii Air Carriers,in_force,261E-1,22
+1,Government,15,Transportation and Utilities,,,262,,Airport Zoning Act,in_force,262-1,22
+1,Government,15,Transportation and Utilities,,,263,,Uniform Aeronautics Act (Modified),in_force,263-1,22
+1,Government,15,Transportation and Utilities,,,263A,,Alcohol and Aviation Safety,in_force,263A-1,22
+1,Government,15,Transportation and Utilities,,,264,,Highways,in_force,,22
+1,Government,15,Transportation and Utilities,,,265,,"County Highways, Sidewalks, Wharves",repealed,,22
+1,Government,15,Transportation and Utilities,,,265A,,County Highways and Sidewalks,in_force,265A-1,22
+1,Government,15,Transportation and Utilities,,,266,,Harbors,in_force,,22
+1,Government,15,Transportation and Utilities,,,267,,Boating Law,repealed,,23
+1,Government,15,Transportation and Utilities,,,267A,,Abandoned Vessels,repealed,,23
+1,Government,15,Transportation and Utilities,,,267B,,Trespass to Vessels,repealed,,23
+1,Government,15,Transportation and Utilities,,,267C,,Vessel Identification Numbers,repealed,,23
+1,Government,15,Transportation and Utilities,,,268,,Ferries,in_force,268-1,23
+1,Government,15,Transportation and Utilities,,,269,,Public Utilities Commission,in_force,,23
+1,Government,15,Transportation and Utilities,,,269E,,One Call Center; Advance Warning to Excavators,in_force,269E-1,23
+1,Government,15,Transportation and Utilities,,,270,,Employees of Public Utilities,repealed,,23
+1,Government,15,Transportation and Utilities,,,271,,Motor Carrier Law,in_force,271-1,23
+1,Government,15,Transportation and Utilities,,,271G,,Hawaii Water Carrier Act,in_force,271G-1,23
+1,Government,15,Transportation and Utilities,,,272,,Defrauding Carriers of Passengers,repealed,,23
+1,Government,15,Transportation and Utilities,,,273,,Railway Law,in_force,273-1,23
+1,Government,15,Transportation and Utilities,,,274,,Radio Control,repealed,,23
+1,Government,15,Transportation and Utilities,,,275,,"Liabilities and Offenses Connected with Telephones, Wire Communications, and Cable Television Systems",in_force,275-1,23
+1,Government,15,Transportation and Utilities,,,277,,Energy Corridors,in_force,277-1,23
+1,Government,15,Transportation and Utilities,,,279,,Transportation Control,repealed,,23
+1,Government,15,Transportation and Utilities,,,279A,,Statewide Transportation Planning,in_force,279A-1,23
+1,Government,15,Transportation and Utilities,,,279C,,Environmental Planning,in_force,279C-1,23
+1,Government,15,Transportation and Utilities,,,279D,,Metropolitan Planning Organizations,in_force,279D-1,23
+1,Government,15,Transportation and Utilities,,,279E,,Metropolitan Planning Organization,repealed,,23
+1,Government,15,Transportation and Utilities,,,279G,,Ridesharing,in_force,279G-1,23
+1,Government,15,Transportation and Utilities,,,279J,,Transportation Network Companies,in_force,279J-1,23
+1,Government,15,Transportation and Utilities,,,279L,,Peer-to-Peer Car-Sharing,in_force,279L-1,23
+1,Government,16,Intoxicating Liquor,,,281,,Intoxicating Liquor,in_force,,23
+1,Government,17,Motor and Other Vehicles,,,286,,Highway Safety,in_force,,24
+1,Government,17,Motor and Other Vehicles,,,286A,,Vehicle Equipment Safety Compact,repealed,,24
+1,Government,17,Motor and Other Vehicles,,,286C,,Driver License Compact,in_force,286C-1,24
+1,Government,17,Motor and Other Vehicles,,,286G,,Driver Education and Training Fund,in_force,286G-1,24
+1,Government,17,Motor and Other Vehicles,,,287,,Motor Vehicle Safety Responsibility Act,in_force,287-1,24
+1,Government,17,Motor and Other Vehicles,,,288,,"Common Carriers, Compulsory Insurance",in_force,288-1,24
+1,Government,17,Motor and Other Vehicles,,,289,,Used Motor Vehicle Parts and Accessories,in_force,289-1,24
+1,Government,17,Motor and Other Vehicles,,,290,,Abandoned Vehicles,in_force,,24
+1,Government,17,Motor and Other Vehicles,,,291,,Traffic Violations,in_force,,24
+1,Government,17,Motor and Other Vehicles,,,291A,,Nonresident Violator Compact,in_force,291A-1,24
+1,Government,17,Motor and Other Vehicles,,,291C,,Statewide Traffic Code,in_force,,24
+1,Government,17,Motor and Other Vehicles,,,291D,,Adjudication of Infractions,in_force,291D-1,25
+1,Government,17,Motor and Other Vehicles,,,291E,,Use of Intoxicants While Operating a Vehicle,in_force,,25
+1,Government,17,Motor and Other Vehicles,,,291J,,Photo Red Light Imaging Detector Systems,in_force,291J-1,25
+1,Government,17,Motor and Other Vehicles,,,291L,,Automated Speed Enforcement Systems,in_force,291L-1,25
+1,Government,17,Motor and Other Vehicles,,,292,,Odometer Accuracy and Record Maintenance,repealed,,25
+1,Government,17,Motor and Other Vehicles,,,293,,Bicycles,in_force,293-1,25
+1,Government,17,Motor and Other Vehicles,,,294,,Motor Vehicle Accident Reparations,repealed,,25
+1,Government,18,Education,,,296,,Public Education,repealed,,25
+1,Government,18,Education,,,296C,,School/Community-Based Management,repealed,,25
+1,Government,18,Education,,,296D,,School Priority Fund,repealed,,25
+1,Government,18,Education,,,297,,Personnel of Public Schools,repealed,,25
+1,Government,18,Education,,,297D,,Hawaii Teacher Standards Board,repealed,,25
+1,Government,18,Education,,,298,,"Schools and Attendance, Generally",repealed,,25
+1,Government,18,Education,,,299,,Driver Education,repealed,,25
+1,Government,18,Education,,,300,,Technical and Vocational Training,repealed,,25
+1,Government,18,Education,,,301,,Other Special Training,repealed,,25
+1,Government,18,Education,,,302,,Agents of Private Schools and Correspondence Schools,repealed,,25
+1,Government,18,Education,,,302A,,Education,in_force,,25
+1,Government,18,Education,,,302B,,Public Charter Schools,repealed,,26
+1,Government,18,Education,,,302C,,Private Schools,in_force,302C-1,26
+1,Government,18,Education,,,302D,,Public Charter Schools,in_force,302D-1,26
+1,Government,18,Education,,,302H,,Hawaiian Language Medium Education,in_force,302H-1,26
+1,Government,18,Education,,,302L,,Early Learning System,in_force,302L-1,26
+1,Government,18,Education,,,303,,Employees' Annuity and Custodial Account Contracts,in_force,303-1,26
+1,Government,18,Education,,,304,,University of Hawaii,repealed,,26
+1,Government,18,Education,,,304A,,University of Hawaii System,in_force,,26
+1,Government,18,Education,,,304D,,Center for Nursing,repealed,,27
+1,Government,18,Education,,,304E,,Nursing Scholars Program,repealed,,27
+1,Government,18,Education,,,305,,Community Colleges,repealed,,27
+1,Government,18,Education,,,305A,,Career and Technical Education Under Federal Aid,repealed,,27
+1,Government,18,Education,,,305E,,College-Credit Equivalency Program,repealed,,27
+1,Government,18,Education,,,305H,,State Post-Secondary Education Commission,repealed,,28
+1,Government,18,Education,,,305J,,Post-Secondary Education Authorization,in_force,305J-1,28
+1,Government,18,Education,,,306,,University Projects,repealed,,28
+1,Government,18,Education,,,307,,Research Corporation of the University of Hawaii,repealed,,28
+1,Government,18,Education,,,308,,University Parking,repealed,,28
+1,Government,18,Education,,,309,,Student Loan Funds,in_force,309-1,28
+1,Government,18,Education,,,309H,,Hawaii Health Corps,in_force,309H-1,28
+1,Government,18,Education,,,310,,Western Regional Education Compact,repealed,,28
+1,Government,18,Education,,,311,,Compact for Education,in_force,311-1,28
+1,Government,18,Education,,,311D,,Interstate Compact on Educational Opportunity for Military Children,in_force,311D-1,28
+1,Government,18,Education,,,312,,Libraries,in_force,,28
+1,Government,18,Education,,,314,,Hawaii Public Broadcasting Authority,repealed,,28
+1,Government,18,Education,,,315,,Interstate Agreement on Qualifications of Educational Personnel,in_force,315-1,28
+1,Government,18,Education,,,317,,Secondary School Students Conference,repealed,,28
+1,Government,18,Education,,,318,,College and University Student Leaders Conference,repealed,,28
+1,Government,18,Education,,,319,,Dental Education,in_force,319-1,28
+1,Government,19,Health,,,321,,Department of Health,in_force,,28
+1,Government,19,Health,,,321C,,Office of Language Access,in_force,321C-1,29
+1,Government,19,Health,,,321D,,Interdepartmental Cluster for Services to Children,in_force,321D-1,29
+1,Government,19,Health,,,321E,,Dispersal Review Council,repealed,,29
+1,Government,19,Health,,,321F,,Office of the Aloha Health Corps,repealed,,29
+1,Government,19,Health,,,321G,,California-Hawaii Cooperative Commission,repealed,,29
+1,Government,19,Health,,,321H,,Neurotrauma,in_force,321H-1,29
+1,Government,19,Health,,,322,,Nuisances; Sanitary Regulations,in_force,,29
+1,Government,19,Health,,,322H,,Hawaii Health Authority,in_force,322H-1,30
+1,Government,19,Health,,,323,,Hospitals and Medical Facilities,in_force,,30
+1,Government,19,Health,,,323B,,Health Care Privacy Harmonization Act,in_force,323B-1,30
+1,Government,19,Health,,,323C,,Privacy of Health Care Information,repealed,,30
+1,Government,19,Health,,,323D,,Health Planning and Resources Development and Health Care Cost Control,in_force,,30
+1,Government,19,Health,,,323F,,Hawaii Health Systems Corporation,in_force,,30
+1,Government,19,Health,,,323G,,Hospital Discharge Planning--Designation of a Caregiver,in_force,323G-1,30
+1,Government,19,Health,,,323J,,Reproductive Health Care Services,in_force,323J-1,30
+1,Government,19,Health,,,324,,Medical Research; Morbidity and Mortality Information,in_force,,30
+1,Government,19,Health,,,325,,Infectious and Communicable Diseases,in_force,,30
+1,Government,19,Health,,,326,,Hansen's Disease,in_force,326-1,30
+1,Government,19,Health,,,327,,Medical and Research Use of Bodies,in_force,,30
+1,Government,19,Health,,,327C,,Death,in_force,327C-1,30
+1,Government,19,Health,,,327D,,Medical Treatment Decisions,repealed,,30
+1,Government,19,Health,,,327E,,Uniform Health-Care Decisions Act (Modified),in_force,327E-1,31
+1,Government,19,Health,,,327F,,Medical Treatment Decisions for Psychotic Disorders,repealed,,31
+1,Government,19,Health,,,327G,,Advance Mental Health Care Directives,in_force,327G-1,31
+1,Government,19,Health,,,327H,,Pain Patient's Bill of Rights,in_force,327H-1,31
+1,Government,19,Health,,,327K,,Provider Orders for Life-Sustaining Treatment,in_force,327K-1,31
+1,Government,19,Health,,,327L,,"Our Care, Our Choice Act",in_force,327L-1,31
+1,Government,19,Health,,,327N,,Hydrolysis Facilities,in_force,327N-1,31
+1,Government,19,Health,,,328,,"Food, Drugs, and Cosmetics",in_force,,31
+1,Government,19,Health,,,328A,,"Water, Furnishing Potable",repealed,,31
+1,Government,19,Health,,,328B,,Return-for-Credit-and-Reuse of Prescription Drugs,repealed,,31
+1,Government,19,Health,,,328C,,Donation of Pharmaceuticals and Health Care Supplies,in_force,328C-1,31
+1,Government,19,Health,,,328D,,Bottled Water,in_force,328D-1,31
+1,Government,19,Health,,,328E,,Intoxicating Compounds,in_force,328E-1,31
+1,Government,19,Health,,,328G,,Hemp Processors,in_force,328G-1,31
+1,Government,19,Health,,,328J,,Smoking,in_force,328J-1,31
+1,Government,19,Health,,,328K,,Smoking,repealed,,31
+1,Government,19,Health,,,328L,,Hawaii Tobacco Settlement Moneys,in_force,328L-1,31
+1,Government,19,Health,,,329,,Uniform Controlled Substances Act,in_force,,31
+1,Government,19,Health,,,329B,,Substance Abuse Testing,in_force,329B-1,31
+1,Government,19,Health,,,329C,,Imitation Controlled Substances Act,in_force,329C-1,31
+1,Government,19,Health,,,329D,,Medical Cannabis Dispensary System,in_force,329D-1,31
+1,Government,19,Health,,,329E,,Overdose Prevention and Emergency Response Act,in_force,329E-1,31
+1,Government,19,Health,,,330,,"Poisons, Sale of",in_force,330-1,31
+1,Government,19,Health,,,330C,,Hawaii Poison Prevention Packaging Act,in_force,330C-1,31
+1,Government,19,Health,,,331,,Radium for Medical and Surgical Purposes,repealed,,31
+1,Government,19,Health,,,332,,"Mattresses, Manufacture, Etc., and Sale of",in_force,332-1,31
+1,Government,19,Health,,,332D,,Polybrominated Diphenyl Ethers,in_force,332D-1,31
+1,Government,19,Health,,,333,,Mental Retardation,repealed,,31
+1,Government,19,Health,,,333E,,Developmental Disabilities,in_force,,32
+1,Government,19,Health,,,333F,,Services for Persons with Developmental or Intellectual Disabilities,in_force,333F-1,32
+1,Government,19,Health,,,334,,"Mental Health, Mental Illness, Drug Addiction, and Alcoholism",in_force,,32
+1,Government,19,Health,,,334B,,"Utilization Review and Managed Care of Mental Health, Alcohol, or Drug Abuse Treatment",in_force,334B-1,32
+1,Government,19,Health,,,334D,,Diversion Program for Chemically Dependent Nurses,in_force,334D-1,32
+1,Government,19,Health,,,334E,,Rights of Recipients of Mental Health Services,in_force,334E-1,32
+1,Government,19,Health,,,335,,Interstate Compact on Mental Health,in_force,335-1,32
+1,Government,19,Health,,,336,,Deportation and Transfer of Alien and Nonresident Public Charges,in_force,,32
+1,Government,19,Health,,,337,,Uniform Act for the Extradition of Persons of Unsound Mind,in_force,337-1,32
+1,Government,19,Health,,,338,,Vital Statistics,in_force,,32
+1,Government,19,Health,,,339,,Litter Control,in_force,,32
+1,Government,19,Health,,,339D,,Electronic Device Recycling and Recovery Act,in_force,,32
+1,Government,19,Health,,,339K,,Northwest Interstate Compact on Low-Level Radioactive Waste Management,in_force,339K-1,32
+1,Government,19,Health,,,340,,Hawaii Waste Management,repealed,,32
+1,Government,19,Health,,,340A,,Solid Waste,in_force,340A-1,32
+1,Government,19,Health,,,340B,,Wastewater Treatment Personnel,in_force,340B-1,32
+1,Government,19,Health,,,340E,,Safe Drinking Water,in_force,,32
+1,Government,19,Health,,,340F,,Hawaii Law for Mandatory Certification of Public Water System Operators,in_force,340F-1,33
+1,Government,19,Health,,,341,,Environmental Advisory Council,in_force,341-1,33
+1,Government,19,Health,,,342,,Environmental Quality,repealed,,33
+1,Government,19,Health,,,342B,,Air Pollution Control,in_force,,33
+1,Government,19,Health,,,342C,,Ozone Layer Protection,in_force,342C-1,33
+1,Government,19,Health,,,342D,,Water Pollution,in_force,,33
+1,Government,19,Health,,,342E,,Nonpoint Source Pollution Management and Control,in_force,342E-1,33
+1,Government,19,Health,,,342F,,Noise Pollution,in_force,,33
+1,Government,19,Health,,,342G,,Integrated Solid Waste Management,in_force,,33
+1,Government,19,Health,,,342H,,Solid Waste Pollution,in_force,,33
+1,Government,19,Health,,,342I,,Special Wastes Recycling,in_force,,33
+1,Government,19,Health,,,342J,,Hazardous Waste,in_force,,33
+1,Government,19,Health,,,342L,,Underground Storage Tanks,in_force,,33
+1,Government,19,Health,,,342N,,"Used Oil Transport, Recycling, and Disposal",repealed,,33
+1,Government,19,Health,,,342P,,Asbestos and Lead,in_force,,33
+1,Government,19,Health,,,343,,Environmental Impact Statements,in_force,343-1,34
+1,Government,19,Health,,,343D,,Hawaii Environmental Disclosure Law,repealed,,34
+1,Government,19,Health,,,344,,State Environmental Policy,in_force,344-1,34
+1,Government,20,Social Services,,,346,,Department of Human Services,in_force,,34
+1,Government,20,Social Services,,,346C,,Long-Term Care Financing Program,in_force,346C-1,35
+1,Government,20,Social Services,,,346D,,Long-Term Care,in_force,346D-1,35
+1,Government,20,Social Services,,,346E,,Nursing Facility Tax,repealed,,35
+1,Government,20,Social Services,,,346F,,Nursing Facility Sustainability Program,in_force,346F-1,35
+1,Government,20,Social Services,,,346G,,Hospital Sustainability Program,in_force,346G-1,35
+1,Government,20,Social Services,,,347,,"Blind, Visually Handicapped, and Other Disabled Persons",in_force,347-1,35
+1,Government,20,Social Services,,,347D,,Hawaii State Coordinating Council on Deafness,repealed,,35
+1,Government,20,Social Services,,,348,,Vocational Rehabilitation,in_force,348-1,35
+1,Government,20,Social Services,,,348E,,Commission on Persons with Disabilities,repealed,,35
+1,Government,20,Social Services,,,348F,,Disability and Communication Access Board,in_force,348F-1,35
+1,Government,20,Social Services,,,349,,Executive Office on Aging,in_force,,35
+1,Government,20,Social Services,,,349C,,Elder Abuse or Neglect,repealed,,35
+1,Government,20,Social Services,,,350,,Child Abuse,in_force,350-1,35
+1,Government,20,Social Services,,,350B,,Hawaii Children's Trust Fund,in_force,350B-1,35
+1,Government,20,Social Services,,,350C,,Adoption Assistance Compact and Procedures for Interstate Services Payments,in_force,350C-1,35
+1,Government,20,Social Services,,,350E,,Interstate Compact on Placement of Children,in_force,350E-1,35
+1,Government,20,Social Services,,,351,,Crime Victim Compensation,in_force,,35
+1,Government,20,Social Services,,,352,,Hawaii Youth Correctional Facilities,in_force,352-1,35
+1,Government,20,Social Services,,,352D,,Office of Youth Services,in_force,352D-1,35
+1,Government,20,Social Services,,,353,,Corrections and Rehabilitation,in_force,,35
+1,Government,20,Social Services,,,353B,,Interstate Compact for the Supervision of Adult Offenders,in_force,353B-1,35
+1,Government,20,Social Services,,,353C,,Law Enforcement,in_force,353C-1,35
+1,Government,20,Social Services,,,353D,,Offender Family Service Center Act,in_force,353D-1,35
+1,Government,20,Social Services,,,353E,,Statewide Integrated Sex Offender Treatment Program,in_force,353E-1,35
+1,Government,20,Social Services,,,353F,,Corrections Population Management Commission,repealed,,36
+1,Government,20,Social Services,,,353G,,Criminal Offender Treatment Act,in_force,353G-1,36
+1,Government,20,Social Services,,,353H,,Comprehensive Offender Reentry System,in_force,,36
+1,Government,20,Social Services,,,353L,,Hawaii Correctional System Oversight Commission,in_force,353L-1,36
+1,Government,20,Social Services,,,354,,Correctional Industries,repealed,,36
+1,Government,20,Social Services,,,354D,,Hawaii Correctional Industries,in_force,354D-1,36
+1,Government,20,Social Services,,,355,,Western Interstate Corrections Compact,in_force,355-1,36
+1,Government,20,Social Services,,,355D,,Interstate Corrections Compact,in_force,355D-1,36
+1,Government,20,Social Services,,,356,,Hawaii Housing Authority; Low Income Housing,repealed,,36
+1,Government,20,Social Services,,,356D,,Hawaii Public Housing Authority,in_force,,36
+1,Government,20,Social Services,,,357,,Federal Housing Projects,repealed,,36
+1,Government,20,Social Services,,,358,,Government Aid for Housing Projects,repealed,,36
+1,Government,20,Social Services,,,358D,,Homeless Assistance Act,repealed,,36
+1,Government,20,Social Services,,,359,,State Housing Projects,repealed,,36
+1,Government,20,Social Services,,,359A,,Teachers Housing,repealed,,36
+1,Government,20,Social Services,,,359G,,Hawaii Housing Authority--Housing Projects,repealed,,36
+1,Government,20,Social Services,,,359L,,Factory Built Housing,repealed,,36
+1,Government,20,Social Services,,,360,,Provisions Applicable to Public Housing Generally,repealed,,36
+1,Government,20,Social Services,,,360E,,Advisory Council on Housing,repealed,,36
+1,Government,20,Social Services,,,361,,Community Home Mortgage Program,repealed,,36
+1,Government,20,Social Services,,,362,,Progressive Neighborhoods Program,repealed,,36
+1,Government,20,Social Services,,,363,,Veterans Rights and Benefits,in_force,363-1,36
+1,Government,20,Social Services,,,364,,Veterans Loans,repealed,,36
+1,Government,20,Social Services,,,367,,Status of Women,in_force,367-1,36
+1,Government,20,Social Services,,,367D,,Parity for Female Offenders,in_force,367D-1,36
+1,Government,20,Social Services,,,368,,Civil Rights Commission,in_force,,36
+1,Government,20,Social Services,,,368D,,Discrimination in State Educational Programs and Activities,in_force,368D-1,36
+1,Government,20,Social Services,,,368F,,Rental Discrimination Based on Source of Income,in_force,368F-1,36
+1,Government,20,Social Services,,,369,,"Hawaii State Lesbian, Gay, Bisexual, Transgender, Queer, Plus Commission",in_force,369-1,36
+1,Government,21,Labor and Industrial Relations,,,371,,Department of Labor and Industrial Relations,in_force,,37
+1,Government,21,Labor and Industrial Relations,,,371K,,Community Services,in_force,371K-1,37
+1,Government,21,Labor and Industrial Relations,,,372,,Apprenticeship,in_force,372-1,37
+1,Government,21,Labor and Industrial Relations,,,373,,Commercial Employment Agencies,in_force,373-1,37
+1,Government,21,Labor and Industrial Relations,,,373C,,Occupational and Career Information,in_force,,37
+1,Government,21,Labor and Industrial Relations,,,373E,,Statewide Transition to Work System,repealed,,37
+1,Government,21,Labor and Industrial Relations,,,373F,,Tourism Training Council,repealed,,37
+1,Government,21,Labor and Industrial Relations,,,373K,,Professional Employment Organizations,repealed,,37
+1,Government,21,Labor and Industrial Relations,,,373L,,Professional Employer Organizations,in_force,373L-1,37
+1,Government,21,Labor and Industrial Relations,,,374,,Emigrant Agents,repealed,,37
+1,Government,21,Labor and Industrial Relations,,,375,,Garment Industry Homework,repealed,,37
+1,Government,21,Labor and Industrial Relations,,,376,,Industrial Safety,repealed,,37
+1,Government,21,Labor and Industrial Relations,,,377,,Hawaii Employment Relations Act,in_force,377-1,37
+1,Government,21,Labor and Industrial Relations,,,378,,Employment Practices,in_force,,37
+1,Government,21,Labor and Industrial Relations,,,379,,Recruiting and Hiring of Employees During Labor Disputes,in_force,379-1,37
+1,Government,21,Labor and Industrial Relations,,,379A,,Picketing of Residence or Dwelling Place,in_force,379A-1,37
+1,Government,21,Labor and Industrial Relations,,,380,,Labor Disputes; Jurisdiction of Courts,in_force,380-1,37
+1,Government,21,Labor and Industrial Relations,,,381,,Labor Disputes; Public Utilities,in_force,381-1,37
+1,Government,21,Labor and Industrial Relations,,,382,,Labor Disputes; Stevedoring Industry,in_force,382-1,37
+1,Government,21,Labor and Industrial Relations,,,383,,Hawaii Employment Security Law,in_force,,37
+1,Government,21,Labor and Industrial Relations,,,384,,Hawaii Agricultural Unemployment Compensation Law,repealed,,38
+1,Government,21,Labor and Industrial Relations,,,385,,Additional Unemployment Compensation Benefits Law,in_force,385-1,38
+1,Government,21,Labor and Industrial Relations,,,386,,Workers' Compensation Law,in_force,,38
+1,Government,21,Labor and Industrial Relations,,,386A,,Hawaii State Compensation Mutual Insurance Fund,in_force,386A-1,38
+1,Government,21,Labor and Industrial Relations,,,387,,Wage and Hour Law,in_force,387-1,38
+1,Government,21,Labor and Industrial Relations,,,388,,"Wages and Other Compensation, Payment of",in_force,,38
+1,Government,21,Labor and Industrial Relations,,,389,,Hawaii Retirement Savings,in_force,389-1,38
+1,Government,21,Labor and Industrial Relations,,,390,,Child Labor Law,in_force,390-1,38
+1,Government,21,Labor and Industrial Relations,,,392,,Temporary Disability Insurance,in_force,,38
+1,Government,21,Labor and Industrial Relations,,,393,,Prepaid Health Care Act,in_force,,39
+1,Government,21,Labor and Industrial Relations,,,394,,Manpower Development and Training,in_force,394-1,39
+1,Government,21,Labor and Industrial Relations,,,394A,,Job Training,repealed,,39
+1,Government,21,Labor and Industrial Relations,,,394B,,Dislocated Workers,in_force,394B-1,39
+1,Government,21,Labor and Industrial Relations,,,396,,Occupational Safety and Health,in_force,396-1,39
+1,Government,21,Labor and Industrial Relations,,,397,,Boiler and Elevator Safety Law,in_force,397-1,39
+1,Government,21,Labor and Industrial Relations,,,398,,Family Leave,in_force,,39
+1,Government,21,Labor and Industrial Relations,,,398A,,"Leave of Absence for Organ, Bone Marrow, or Peripheral Blood Stem Cell Donation",in_force,398A-1,39
+2,Business,22,Banks and Financial Institutions,,,401,,Commissioner of Financial Institutions,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,402,,Fiduciaries and Investments,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,403,,Hawaii Bank Act,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,404,,Bank Mergers,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,405,,International and Foreign Banking by Hawaii Corporations,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,405A,,International Banking Facilities,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,405D,,Foreign Banks,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,406,,Trust Companies,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,407,,Savings and Loan Associations,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,408,,Financial Services Loan Companies,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,408A,,Industrial Loan Company Guaranty Act,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,409,,Small Loan Companies,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,410,,State Chartered Credit Unions,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,411,,Emergency Acquisition of Financial Institutions,repealed,,39
+2,Business,22,Banks and Financial Institutions,,,412,,Code of Financial Institutions,in_force,,39
+2,Business,23,Corporations and Partnerships,,,414,,Hawaii Business Corporation Act,in_force,,41
+2,Business,23,Corporations and Partnerships,,,414D,,Hawaii Nonprofit Corporations Act,in_force,,42
+2,Business,23,Corporations and Partnerships,,,414E,,Control Share Acquisitions,in_force,414E-1,42
+2,Business,23,Corporations and Partnerships,,,415,,Hawaii Business Corporation Act,repealed,,42
+2,Business,23,Corporations and Partnerships,,,415A,,Professional Corporation Act,in_force,415A-1,42
+2,Business,23,Corporations and Partnerships,,,415B,,Hawaii Nonprofit Corporation Act,repealed,,42
+2,Business,23,Corporations and Partnerships,,,416,,"Corporations, Generally",repealed,,42
+2,Business,23,Corporations and Partnerships,,,417,,Consolidation and Merger of Corporations,repealed,,42
+2,Business,23,Corporations and Partnerships,,,417E,,Corporate Take-Overs,in_force,417E-1,42
+2,Business,23,Corporations and Partnerships,,,418,,Foreign Corporations,repealed,,42
+2,Business,23,Corporations and Partnerships,,,419,,Corporations Sole for Ecclesiastical Purposes,in_force,419-1,42
+2,Business,23,Corporations and Partnerships,,,420,,Business Development Corporations,repealed,,42
+2,Business,23,Corporations and Partnerships,,,420D,,Sustainable Business Corporations,in_force,420D-1,42
+2,Business,23,Corporations and Partnerships,,,421,,Agricultural Cooperative Associations,in_force,421-1,42
+2,Business,23,Corporations and Partnerships,,,421C,,Consumer Cooperative Associations,in_force,,42
+2,Business,23,Corporations and Partnerships,,,421G,,Limited-Equity Housing Cooperatives,repealed,,42
+2,Business,23,Corporations and Partnerships,,,421H,,Limited-Equity Housing Cooperatives,in_force,421H-1,42
+2,Business,23,Corporations and Partnerships,,,421I,,Cooperative Housing Corporations,in_force,421I-1,42
+2,Business,23,Corporations and Partnerships,,,421J,,Planned Community Associations,in_force,421J-1,42
+2,Business,23,Corporations and Partnerships,,,422,,Fish Marketing Associations,repealed,,43
+2,Business,23,Corporations and Partnerships,,,423,,Dental Service Corporations,in_force,423-1,43
+2,Business,23,Corporations and Partnerships,,,424,,Optometric Service Corporations,in_force,424-1,43
+2,Business,23,Corporations and Partnerships,,,425,,Partnerships,in_force,,43
+2,Business,23,Corporations and Partnerships,,,425D,,Uniform Limited Partnership Act,repealed,,43
+2,Business,23,Corporations and Partnerships,,,425E,,Uniform Limited Partnership Act,in_force,,43
+2,Business,23,Corporations and Partnerships,,,425R,,Registered Agents Act,in_force,425R-1,43
+2,Business,23A,Other Business Entities,,,428,,Uniform Limited Liability Company Act,in_force,,43
+2,Business,23A,Other Business Entities,,,429,,Uniform Unincorporated Nonprofit Association Act,in_force,429-1,44
+2,Business,24,Insurance,,,431,,Insurance Code,in_force,,44
+2,Business,24,Insurance,,,431A,,Readability of Insurance Contracts,repealed,,47
+2,Business,24,Insurance,,,431C,,Life Settlements,in_force,,47
+2,Business,24,Insurance,,,431D,,Insurance Company Insolvency,repealed,,47
+2,Business,24,Insurance,,,431E,,Life Settlements,repealed,,47
+2,Business,24,Insurance,,,431F,,Hawaii Life and Disability Insurance Guaranty Association Act,repealed,,48
+2,Business,24,Insurance,,,431H,,Insurance Information Protection Act,repealed,,48
+2,Business,24,Insurance,,,431J,,Captive Insurance Companies,repealed,,48
+2,Business,24,Insurance,,,431K,,Risk Retention,in_force,431K-1,48
+2,Business,24,Insurance,,,431L,,Medicaid-Related Mandates,in_force,431L-1,48
+2,Business,24,Insurance,,,431M,,Mental Health and Alcohol and Substance Use Disorder Treatment Insurance Benefits,in_force,431M-1,48
+2,Business,24,Insurance,,,431N,,State Health Insurance Program Act,in_force,431N-1,48
+2,Business,24,Insurance,,,431P,,Hawaii Hurricane Relief Fund,in_force,,48
+2,Business,24,Insurance,,,431R,,Prescription Drug Benefits,in_force,431R-1,48
+2,Business,24,Insurance,,,431S,,Pharmacy Benefit Managers,in_force,431S-1,48
+2,Business,24,Insurance,,,432,,Benefit Societies,in_force,,48
+2,Business,24,Insurance,,,432C,,Nonprofit Entities; Conversion of Assets,in_force,432C-1,48
+2,Business,24,Insurance,,,432D,,Health Maintenance Organization Act,in_force,432D-1,48
+2,Business,24,Insurance,,,432E,,Patients' Bill of Rights and Responsibilities Act,in_force,,48
+2,Business,24,Insurance,,,432F,,Health Care Provider Network Adequacy,repealed,,48
+2,Business,24,Insurance,,,432G,,Dental Insurers,in_force,432G-1,48
+2,Business,24,Insurance,,,433,,Mutual and Fraternal Benefit Societies,repealed,,48
+2,Business,24,Insurance,,,434,,Insurance by Fraternal Benefit Societies,repealed,,48
+2,Business,24,Insurance,,,435,,Credit Life Insurance and Credit Disability Insurance,repealed,,48
+2,Business,24,Insurance,,,435C,,Hawaii Medical Malpractice Underwriting Plan,in_force,435C-1,48
+2,Business,24,Insurance,,,435E,,Physicians and Surgeons Cooperative Indemnity,in_force,,48
+2,Business,24,Insurance,,,435H,,Hawaii Health Insurance Exchange,repealed,,48
+2,Business,25,Professions and Occupations,,,436,,Abstract Makers,repealed,,49
+2,Business,25,Professions and Occupations,,,436B,,Uniform Professional and Vocational Licensing Act,in_force,,49
+2,Business,25,Professions and Occupations,,,436C,,Licensing Sanctions for Student Loan Defaults,repealed,,49
+2,Business,25,Professions and Occupations,,,436D,,Acupuncture Practitioners,repealed,,49
+2,Business,25,Professions and Occupations,,,436E,,Acupuncture Practitioners,in_force,436E-1,49
+2,Business,25,Professions and Occupations,,,436H,,Athletic Trainers,in_force,436H-1,49
+2,Business,25,Professions and Occupations,,,436M,,Alarm Businesses,in_force,436M-1,49
+2,Business,25,Professions and Occupations,,,437,,Motor Vehicle Industry Licensing Act,in_force,,49
+2,Business,25,Professions and Occupations,,,437B,,Regulation of Motor Vehicle Repairs,in_force,437B-1,49
+2,Business,25,Professions and Occupations,,,437D,,Motor Vehicle Rental Industry,in_force,437D-1,49
+2,Business,25,Professions and Occupations,,,438,,"Barbering, Practice of",repealed,,49
+2,Business,25,Professions and Occupations,,,439,,Beauty Culture,repealed,,49
+2,Business,25,Professions and Occupations,,,439A,,Barbering and Cosmetology Licensing Act,in_force,439A-1,49
+2,Business,25,Professions and Occupations,,,440,,Boxing Contests,in_force,440-1,49
+2,Business,25,Professions and Occupations,,,440D,,No Rules Combat or Similar Contests,repealed,,49
+2,Business,25,Professions and Occupations,,,440E,,Mixed Martial Arts Contests,in_force,440E-1,49
+2,Business,25,Professions and Occupations,,,440G,,Cable Television Systems,in_force,440G-1,49
+2,Business,25,Professions and Occupations,,,440J,,Telecommunications and Cable Industry Information Reporting,repealed,,49
+2,Business,25,Professions and Occupations,,,441,,Cemetery and Funeral Trusts,in_force,441-1,49
+2,Business,25,Professions and Occupations,,,442,,Chiropractic,in_force,442-1,49
+2,Business,25,Professions and Occupations,,,443,,Collection Agencies,repealed,,49
+2,Business,25,Professions and Occupations,,,443A,,Debt Collection Practices,repealed,,49
+2,Business,25,Professions and Occupations,,,443B,,Collection Agencies,in_force,443B-1,49
+2,Business,25,Professions and Occupations,,,444,,Contractors,in_force,444-1,49
+2,Business,25,Professions and Occupations,,,445,,County Licenses,in_force,,49
+2,Business,25,Professions and Occupations,,,446,,Debt Adjusting,in_force,446-1,49
+2,Business,25,Professions and Occupations,,,446D,,Degree Granting Institutions,repealed,,49
+2,Business,25,Professions and Occupations,,,446E,,Unaccredited Degree Granting Institutions,in_force,446E-1,49
+2,Business,25,Professions and Occupations,,,447,,Dental Hygienists,in_force,447-1,50
+2,Business,25,Professions and Occupations,,,448,,Dentistry,in_force,448-1,50
+2,Business,25,Professions and Occupations,,,448A,,Escort Agencies,repealed,,50
+2,Business,25,Professions and Occupations,,,448B,,Dietitians,in_force,448B-1,50
+2,Business,25,Professions and Occupations,,,448D,,Dental Service Organizations,in_force,448D-1,50
+2,Business,25,Professions and Occupations,,,448E,,Electricians and Plumbers,in_force,448E-1,50
+2,Business,25,Professions and Occupations,,,448F,,Electrologists,in_force,448F-1,50
+2,Business,25,Professions and Occupations,,,448H,,Elevator Mechanics,in_force,448H-1,50
+2,Business,25,Professions and Occupations,,,449,,Escrow Depositories,in_force,449-1,50
+2,Business,25,Professions and Occupations,,,450,,Fumigation,repealed,,50
+2,Business,25,Professions and Occupations,,,451,,"Gasoline, Fuel, and Motor Oil",repealed,,50
+2,Business,25,Professions and Occupations,,,451A,,Hearing Aid Dealers and Fitters,in_force,451A-1,50
+2,Business,25,Professions and Occupations,,,451D,,Health Care Professionals,in_force,451D-1,50
+2,Business,25,Professions and Occupations,,,451J,,Licensed Marriage and Family Therapists,in_force,451J-1,50
+2,Business,25,Professions and Occupations,,,451K,,Genetic Counselors,in_force,451K-1,50
+2,Business,25,Professions and Occupations,,,452,,Massage,in_force,452-1,50
+2,Business,25,Professions and Occupations,,,453,,Medicine and Surgery,in_force,,50
+2,Business,25,Professions and Occupations,,,453B,,Interstate Medical Licensure Compact,in_force,453B-1,50
+2,Business,25,Professions and Occupations,,,453D,,Mental Health Counselors,in_force,453D-1,50
+2,Business,25,Professions and Occupations,,,453J,,Conversion Therapy Prohibited for Sexual Orientation and Gender Identity,in_force,453J-1,50
+2,Business,25,Professions and Occupations,,,454,,Mortgage Brokers and Solicitors,repealed,,50
+2,Business,25,Professions and Occupations,,,454D,,Real Estate Collection Servicing Agents,repealed,,50
+2,Business,25,Professions and Occupations,,,454F,,Secure and Fair Enforcement for Mortgage Licensing Act,in_force,,50
+2,Business,25,Professions and Occupations,,,454M,,Mortgage Servicers,in_force,454M-1,50
+2,Business,25,Professions and Occupations,,,455,,Naturopathic Medicine,in_force,455-1,50
+2,Business,25,Professions and Occupations,,,456,,Notaries Public,in_force,456-1,50
+2,Business,25,Professions and Occupations,,,457,,Nurses,in_force,457-1,50
+2,Business,25,Professions and Occupations,,,457A,,Nurse Aides,in_force,457A-1,50
+2,Business,25,Professions and Occupations,,,457B,,Nursing Home Administrators Act,in_force,457B-1,50
+2,Business,25,Professions and Occupations,,,457G,,Occupational Therapy Practice,in_force,457G-1,50
+2,Business,25,Professions and Occupations,,,457J,,Midwives,in_force,457J-1,50
+2,Business,25,Professions and Occupations,,,458,,"Opticians, Dispensing",in_force,458-1,50
+2,Business,25,Professions and Occupations,,,459,,Optometry,in_force,459-1,50
+2,Business,25,Professions and Occupations,,,460,,Osteopathy,repealed,,50
+2,Business,25,Professions and Occupations,,,460J,,Pest Control Operators,in_force,460J-1,50
+2,Business,25,Professions and Occupations,,,461,,Pharmacists and Pharmacy,in_force,461-1,50
+2,Business,25,Professions and Occupations,,,461J,,Physical Therapy Practice Act,in_force,461J-1,50
+2,Business,25,Professions and Occupations,,,462,,Photography,repealed,,50
+2,Business,25,Professions and Occupations,,,462A,,Pilotage,in_force,462A-1,50
+2,Business,25,Professions and Occupations,,,463,,Private Investigators and Guards,in_force,463-1,50
+2,Business,25,Professions and Occupations,,,463E,,Podiatrists,in_force,463E-1,50
+2,Business,25,Professions and Occupations,,,464,,"Professional Engineers, Architects, Surveyors and Landscape Architects",in_force,464-1,50
+2,Business,25,Professions and Occupations,,,465,,Psychologists,in_force,465-1,50
+2,Business,25,Professions and Occupations,,,465D,,Behavior Analysts,in_force,465D-1,50
+2,Business,25,Professions and Occupations,,,466,,Public Accountancy,in_force,,50
+2,Business,25,Professions and Occupations,,,466D,,Respiratory Therapists,in_force,466D-1,50
+2,Business,25,Professions and Occupations,,,466J,,Radiologic Technology,in_force,466J-1,51
+2,Business,25,Professions and Occupations,,,466K,,Real Estate Appraisers,in_force,466K-1,51
+2,Business,25,Professions and Occupations,,,466L,,Appraisal Management Companies,repealed,,51
+2,Business,25,Professions and Occupations,,,466M,,Appraisal Management Companies,in_force,466M-1,51
+2,Business,25,Professions and Occupations,,,467,,Real Estate Brokers and Salespersons,in_force,467-1,51
+2,Business,25,Professions and Occupations,,,467A,,Rental Agencies,repealed,,51
+2,Business,25,Professions and Occupations,,,467B,,Solicitation of Funds from the Public,in_force,467B-1,51
+2,Business,25,Professions and Occupations,,,467D,,Social Workers,repealed,,51
+2,Business,25,Professions and Occupations,,,467E,,Social Workers,in_force,467E-1,51
+2,Business,25,Professions and Occupations,,,468,,Solicitors; Business of Taking Orders,repealed,,51
+2,Business,25,Professions and Occupations,,,468B,,Bonding of Solar Energy Device Dealers,repealed,,51
+2,Business,25,Professions and Occupations,,,468E,,Speech Pathologists and Audiologists,in_force,468E-1,51
+2,Business,25,Professions and Occupations,,,468J,,Travel Agencies,repealed,,51
+2,Business,25,Professions and Occupations,,,468K,,Travel Agencies,repealed,,51
+2,Business,25,Professions and Occupations,,,468L,,Travel Agencies,in_force,,51
+2,Business,25,Professions and Occupations,,,468M,,Activity Providers and Activity Desks,in_force,468M-1,51
+2,Business,25,Professions and Occupations,,,469,,"Undertakers, Embalmers, Funeral Directors",in_force,469-1,51
+2,Business,25,Professions and Occupations,,,470,,"Vendors, Itinerant",repealed,,51
+2,Business,25,Professions and Occupations,,,471,,Veterinary Medicine,in_force,471-1,51
+2,Business,25,Professions and Occupations,,,472,,Veterinary Technology Practice,in_force,472-1,51
+2,Business,25A,General Business Provisions,,,474,,Business Action Center,in_force,474-1,51
+2,Business,26,Trade Regulation and Practice,,,476,,Credit Sales,in_force,476-1,51
+2,Business,26,Trade Regulation and Practice,,,477,,Disclosure of Finance Costs,repealed,,51
+2,Business,26,Trade Regulation and Practice,,,477E,,Fair Credit Extension,in_force,477E-1,51
+2,Business,26,Trade Regulation and Practice,,,478,,Interest and Usury,in_force,478-1,51
+2,Business,26,Trade Regulation and Practice,,,479,,"Insurance Companies, Freedom of Choice of",repealed,,51
+2,Business,26,Trade Regulation and Practice,,,480,,Monopolies; Restraint of Trade,in_force,,51
+2,Business,26,Trade Regulation and Practice,,,480B,,Media Publications Disclosure Act,in_force,480B-1,51
+2,Business,26,Trade Regulation and Practice,,,480D,,Collection Practices,in_force,480D-1,51
+2,Business,26,Trade Regulation and Practice,,,480E,,Mortgage Rescue Fraud Prevention Act,in_force,480E-1,51
+2,Business,26,Trade Regulation and Practice,,,480F,,Check Cashing,in_force,480F-1,51
+2,Business,26,Trade Regulation and Practice,,,480J,,Installment Loans,in_force,,51
+2,Business,26,Trade Regulation and Practice,,,481,,Fair Trade Regulations,in_force,,51
+2,Business,26,Trade Regulation and Practice,,,481A,,Uniform Deceptive Trade Practice Act,in_force,481A-1,52
+2,Business,26,Trade Regulation and Practice,,,481B,,Unfair and Deceptive Practices,in_force,,52
+2,Business,26,Trade Regulation and Practice,,,481C,,Door-to-Door Sale,in_force,481C-1,52
+2,Business,26,Trade Regulation and Practice,,,481D,,Going Out of Business Sales,in_force,481D-1,52
+2,Business,26,Trade Regulation and Practice,,,481E,,Uniform Athlete Agents Act,repealed,,52
+2,Business,26,Trade Regulation and Practice,,,481F,,Sale of Prints,in_force,481F-1,52
+2,Business,26,Trade Regulation and Practice,,,481G,,Office Machine Products Dealerships,in_force,481G-1,52
+2,Business,26,Trade Regulation and Practice,,,481H,,Water Treatment Units,in_force,481H-1,52
+2,Business,26,Trade Regulation and Practice,,,481I,,Motor Vehicle Express Warranty Enforcement (Lemon Law),in_force,481I-1,52
+2,Business,26,Trade Regulation and Practice,,,481J,,Used Motor Vehicle Sales and Warranties,in_force,481J-1,52
+2,Business,26,Trade Regulation and Practice,,,481K,,Assistive Technology Warranty Act,in_force,481K-1,52
+2,Business,26,Trade Regulation and Practice,,,481L,,Motor Vehicle Lease Disclosure Act,in_force,481L-1,52
+2,Business,26,Trade Regulation and Practice,,,481M,,Lease-Purchase Agreements for Personal Property,in_force,481M-1,52
+2,Business,26,Trade Regulation and Practice,,,481P,,Telemarketing Fraud Prevention Act,in_force,481P-1,52
+2,Business,26,Trade Regulation and Practice,,,481R,,Vehicle Protection Product Warrantors,in_force,481R-1,52
+2,Business,26,Trade Regulation and Practice,,,481T,,Relating to the Advertising of Live Musical Performances,in_force,481T-1,52
+2,Business,26,Trade Regulation and Practice,,,481X,,Service Contracts,in_force,481X-1,52
+2,Business,26,Trade Regulation and Practice,,,481Z,,Revised Uniform Athlete Agents Act,in_force,481Z-1,52
+2,Business,26,Trade Regulation and Practice,,,482,,"Trademarks, Service Marks, and Trade Names, Registration and Protection of",in_force,,52
+2,Business,26,Trade Regulation and Practice,,,482B,,Trade Secrets,in_force,482B-1,52
+2,Business,26,Trade Regulation and Practice,,,482C,,Copyrights in Sound Recordings,in_force,482C-1,52
+2,Business,26,Trade Regulation and Practice,,,482D,,Gold and Silver Stamping,in_force,482D-1,52
+2,Business,26,Trade Regulation and Practice,,,482E,,Franchise Investment Law,in_force,482E-1,52
+2,Business,26,Trade Regulation and Practice,,,482P,,Publicity Rights,in_force,482P-1,52
+2,Business,26,Trade Regulation and Practice,,,483,,Uniform Joint Obligations Act,in_force,483-1,52
+2,Business,26,Trade Regulation and Practice,,,484,,Uniform Land Sales Practices Act,in_force,484-1,52
+2,Business,26,Trade Regulation and Practice,,,485,,Uniform Securities Act (Modified),repealed,,52
+2,Business,26,Trade Regulation and Practice,,,485A,,Uniform Securities Act,in_force,,52
+2,Business,26,Trade Regulation and Practice,,,486,,Measurement Standards,in_force,,52
+2,Business,26,Trade Regulation and Practice,,,486A,,Weight of Bread,repealed,,53
+2,Business,26,Trade Regulation and Practice,,,486B,,Unfair Trade Practices by Petroleum Industry,in_force,486B-1,53
+2,Business,26,Trade Regulation and Practice,,,486D,,Petroleum Product Accounting Act,repealed,,53
+2,Business,26,Trade Regulation and Practice,,,486E,,Fuel Distribution,repealed,,53
+2,Business,26,Trade Regulation and Practice,,,486H,,Gasoline Dealers,in_force,486H-1,53
+2,Business,26,Trade Regulation and Practice,,,486I,,Petroleum Industry Information Reporting,repealed,,53
+2,Business,26,Trade Regulation and Practice,,,486J,,Energy Industry Information Reporting Act,in_force,,53
+2,Business,26,Trade Regulation and Practice,,,486K,,Hotels,in_force,486K-1,53
+2,Business,26,Trade Regulation and Practice,,,486M,,Pawnbrokers and Secondhand Dealers,in_force,486M-1,53
+2,Business,26,Trade Regulation and Practice,,,486N,,Health Clubs,in_force,486N-1,53
+2,Business,26,Trade Regulation and Practice,,,486P,,Tobacco Products Reporting,in_force,486P-1,53
+2,Business,26,Trade Regulation and Practice,,,487,,Consumer Protection,in_force,487-1,53
+2,Business,26,Trade Regulation and Practice,,,487A,,Language of Consumer Transactions,in_force,487A-1,53
+2,Business,26,Trade Regulation and Practice,,,487D,,Retail Merchant Club Cards,in_force,487D-1,53
+2,Business,26,Trade Regulation and Practice,,,487G,,Uniform Employee and Student Online Privacy Protection Act,in_force,487G-1,53
+2,Business,26,Trade Regulation and Practice,,,487J,,Personal Information Protection,in_force,487J-1,53
+2,Business,26,Trade Regulation and Practice,,,487N,,Security Breach of Personal Information,in_force,487N-1,53
+2,Business,26,Trade Regulation and Practice,,,487R,,Destruction of Personal Information Records,in_force,487R-1,53
+2,Business,26,Trade Regulation and Practice,,,488,,Legal Service Plans,in_force,488-1,53
+2,Business,26,Trade Regulation and Practice,,,489,,Discrimination in Public Accommodations,in_force,,53
+2,Business,26,Trade Regulation and Practice,,,489D,,Money Transmitters Modernization Act,in_force,489D-1,53
+2,Business,26,Trade Regulation and Practice,,,489E,,Uniform Electronic Transactions Act,in_force,489E-1,53
+2,Business,26,Trade Regulation and Practice,,,489J,,Miscellaneous Business Provisions,in_force,489J-1,53
+2,Business,26,Trade Regulation and Practice,,,489M,,International Trade Agreements,in_force,489M-1,53
+2,Business,26,Trade Regulation and Practice,,,489N,,International Matchmaking Organizations,in_force,489N-1,53
+2,Business,26,Trade Regulation and Practice,,,489P,,Consumer Credit Reporting Agencies,in_force,489P-1,53
+2,Business,26,Trade Regulation and Practice,,,489X,,Adult Products,in_force,489X-1,53
+2,Business,27,Uniform Commercial Code,,,490,,Uniform Commercial Code,in_force,,53
+3,Property; Family,28,Property,,,501,,Land Court Registration,in_force,,56
+3,Property; Family,28,Property,,,502,,Bureau of Conveyances; Recording,in_force,,56
+3,Property; Family,28,Property,,,502C,,Family Child Care Homes,in_force,502C-1,56
+3,Property; Family,28,Property,,,503,,Commissioners of Deeds,repealed,,56
+3,Property; Family,28,Property,,,503B,,Time Share Commissioners of Deeds,repealed,,57
+3,Property; Family,28,Property,,,504,,Federal Judgment Registration,in_force,504-1,57
+3,Property; Family,28,Property,,,505,,Uniform Federal Tax Lien Registration Act (Modified),in_force,505-1,57
+3,Property; Family,28,Property,,,506,,Mortgages of Real Property or Fixtures,in_force,506-1,57
+3,Property; Family,28,Property,,,507,,Liens,in_force,,57
+3,Property; Family,28,Property,,,507D,,Nonconsensual Common Law Liens and Frivolous Financing Statements,in_force,507D-1,57
+3,Property; Family,28,Property,,,508,,Uniform Vendor and Purchaser Risk Act,in_force,508-1,57
+3,Property; Family,28,Property,,,508C,,Uniform Environmental Covenants Act,in_force,508C-1,57
+3,Property; Family,28,Property,,,508D,,Mandatory Seller Disclosures in Real Estate Transactions,in_force,508D-1,57
+3,Property; Family,28,Property,,,509,,Conveyances to Two or More,in_force,509-1,57
+3,Property; Family,28,Property,,,510,,Community Property,in_force,,57
+3,Property; Family,28,Property,,,511,,War Emergency Agency,repealed,,57
+3,Property; Family,28,Property,,,512,,Release of Powers,in_force,512-1,57
+3,Property; Family,28,Property,,,513,,Property Rights--Labor Organizations,in_force,513-1,57
+3,Property; Family,28,Property,,,514,,Horizontal Property Regimes,repealed,,57
+3,Property; Family,28,Property,,,514A,,Condominium Property Regimes,repealed,,57
+3,Property; Family,28,Property,,,514B,,Condominiums,in_force,,57
+3,Property; Family,28,Property,,,514C,,Lease to Fee Conversions for Condominiums and Cooperative Housing Corporations,in_force,,57
+3,Property; Family,28,Property,,,514E,,Time Sharing Plans,in_force,514E-1,58
+3,Property; Family,28,Property,,,515,,Discrimination in Real Property Transactions,in_force,515-1,58
+3,Property; Family,28,Property,,,516,,Residential Leaseholds,in_force,,58
+3,Property; Family,28,Property,,,516D,,Residential Leasehold Condominiums and Cooperatives,in_force,,58
+3,Property; Family,28,Property,,,517,,Disposition of Trust Real Property,in_force,517-1,58
+3,Property; Family,28,Property,,,517D,,Uniform Management of Institutional Funds Act,repealed,,58
+3,Property; Family,28,Property,,,517E,,Uniform Prudent Management of Institutional Funds Act,in_force,517E-1,58
+3,Property; Family,28,Property,,,518,,Covenants in Leases,in_force,518-1,58
+3,Property; Family,28,Property,,,519,,Real Property Leases,in_force,519-1,58
+3,Property; Family,28,Property,,,520,,Landowners' Liability,in_force,520-1,58
+3,Property; Family,28,Property,,,520A,,Landowner's Liability for Access to Control Invasive Species,in_force,520A-1,58
+3,Property; Family,28,Property,,,521,,Residential Landlord-Tenant Code,in_force,,58
+3,Property; Family,28,Property,,,522,,Uniform Disclaimer of Property Interests Act,repealed,,58
+3,Property; Family,28,Property,,,523,,Revised Uniform Disposition of Unclaimed Property Act,repealed,,58
+3,Property; Family,28,Property,,,523A,,Unclaimed Property,in_force,,58
+3,Property; Family,28,Property,,,524,,Facilities for Elders,in_force,524-1,58
+3,Property; Family,28,Property,,,525,,Uniform Statutory Rule Against Perpetuities,in_force,525-1,58
+3,Property; Family,28,Property,,,526,,Uniform Disclaimer of Property Interests Act,in_force,526-1,58
+3,Property; Family,28,Property,,,527,,Uniform Real Property Transfer on Death Act,in_force,527-1,58
+3,Property; Family,29,Decedents' Estates,,,531,,Probate: Jurisdiction and Procedure,in_force,,58
+3,Property; Family,29,Decedents' Estates,,,531B,,Disposition of Remains,in_force,531B-1,59
+3,Property; Family,29,Decedents' Estates,,,532,,Descent of Property,in_force,532-1,59
+3,Property; Family,29,Decedents' Estates,,,533,,Dower and Curtesy,in_force,533-1,59
+3,Property; Family,29,Decedents' Estates,,,534,,Uniform Simultaneous Death Act,repealed,,59
+3,Property; Family,29,Decedents' Estates,,,534A,,Uniform Simultaneous Death Act,repealed,,59
+3,Property; Family,29,Decedents' Estates,,,535,,Specific Performance of Decedent's Contracts to Convey Real Estate,in_force,535-1,59
+3,Property; Family,29,Decedents' Estates,,,536,,Wills,repealed,,59
+3,Property; Family,29,Decedents' Estates,,,537,,Uniform Testamentary Additions to Trusts Act,repealed,,59
+3,Property; Family,29,Decedents' Estates,,,538,,Disclaimers,repealed,,59
+3,Property; Family,29,Decedents' Estates,,,539,,Uniform Transfer-on-Death (TOD) Security Registration Act,in_force,539-1,59
+3,Property; Family,30,Guardians and Trustees,,,551,,Guardians and Wards,in_force,,59
+3,Property; Family,30,Guardians and Trustees,,,551A,,Office of the Public Guardian,in_force,551A-1,59
+3,Property; Family,30,Guardians and Trustees,,,551D,,Uniform Durable Power of Attorney Act,repealed,,59
+3,Property; Family,30,Guardians and Trustees,,,551E,,Uniform Power of Attorney Act,in_force,,59
+3,Property; Family,30,Guardians and Trustees,,,551G,,Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act,in_force,,59
+3,Property; Family,30,Guardians and Trustees,,,552,,Uniform Veteran's Guardianship Act,repealed,,59
+3,Property; Family,30,Guardians and Trustees,,,553,,Uniform Gifts to Minors Act,repealed,,59
+3,Property; Family,30,Guardians and Trustees,,,553A,,Uniform Transfers to Minors Act,in_force,553A-1,59
+3,Property; Family,30,Guardians and Trustees,,,554,,Trusts and Trustees; Accounts,in_force,554-1,59
+3,Property; Family,30,Guardians and Trustees,,,554A,,Uniform Trustees' Powers Act,repealed,,59
+3,Property; Family,30,Guardians and Trustees,,,554B,,Uniform Custodial Trust Act,in_force,554B-1,59
+3,Property; Family,30,Guardians and Trustees,,,554C,,Uniform Prudent Investor Act,repealed,,59
+3,Property; Family,30,Guardians and Trustees,,,554D,,Uniform Trust Code,in_force,,60
+3,Property; Family,30,Guardians and Trustees,,,554G,,Permitted Transfers in Trust,in_force,554G-1,60
+3,Property; Family,30,Guardians and Trustees,,,555,,Employees Trust,in_force,555-1,60
+3,Property; Family,30,Guardians and Trustees,,,556,,Uniform Fiduciaries Act,in_force,556-1,60
+3,Property; Family,30,Guardians and Trustees,,,556A,,Uniform Fiduciary Access to Digital Assets Act,in_force,556A-1,60
+3,Property; Family,30,Guardians and Trustees,,,557,,Revised Uniform Principal and Income Act,repealed,,60
+3,Property; Family,30,Guardians and Trustees,,,557A,,Uniform Principal and Income Act,in_force,,60
+3,Property; Family,30,Guardians and Trustees,,,558,,Land Trusts--Beneficiary Controlled,in_force,558-1,60
+3,Property; Family,30A,Uniform Probate Code,,,560,,Uniform Probate Code,in_force,,60
+3,Property; Family,31,Family,,,571,,Family Courts,in_force,,62
+3,Property; Family,31,Family,,,571D,,Juvenile Justice Interagency Board,repealed,,62
+3,Property; Family,31,Family,,,572,,Marriage,in_force,,62
+3,Property; Family,31,Family,,,572B,,Civil Unions,in_force,572B-1,62
+3,Property; Family,31,Family,,,572C,,Reciprocal Beneficiaries,in_force,572C-1,62
+3,Property; Family,31,Family,,,572D,,Uniform Premarital Agreement Act,in_force,572D-1,62
+3,Property; Family,31,Family,,,573,,Married Women,repealed,,62
+3,Property; Family,31,Family,,,574,,Names,in_force,574-1,62
+3,Property; Family,31,Family,,,575,,Uniform Desertion and Nonsupport Act (Modified),in_force,575-1,62
+3,Property; Family,31,Family,,,576,,Uniform Reciprocal Enforcement of Support Act,repealed,,62
+3,Property; Family,31,Family,,,576B,,Uniform Interstate Family Support Act,in_force,,62
+3,Property; Family,31,Family,,,576D,,Child Support Enforcement,in_force,576D-1,63
+3,Property; Family,31,Family,,,576E,,Administrative Process for Child Support Enforcement,in_force,576E-1,63
+3,Property; Family,31,Family,,,577,,Children,in_force,577-1,63
+3,Property; Family,31,Family,,,577A,,Legal Capacity of Minor Regarding Medical Care,in_force,577A-1,63
+3,Property; Family,31,Family,,,577D,,Primary Medical Care for Minors Without Support,in_force,577D-1,63
+3,Property; Family,31,Family,,,577E,,Commission on Fatherhood,in_force,577E-1,63
+3,Property; Family,31,Family,,,578,,Adoption,in_force,578-1,63
+3,Property; Family,31,Family,,,579,,Illegitimates: Paternity Proceedings,repealed,,63
+3,Property; Family,31,Family,,,580,,"Annulment, Divorce, and Separation",in_force,,63
+3,Property; Family,31,Family,,,581,,Office of Children and Youth,repealed,,63
+3,Property; Family,31,Family,,,582,,Interstate Compact on Juveniles,in_force,582-1,63
+3,Property; Family,31,Family,,,582D,,Interstate Compact for Juveniles,in_force,582D-1,63
+3,Property; Family,31,Family,,,583,,Uniform Child Custody Jurisdiction Act,repealed,,63
+3,Property; Family,31,Family,,,583A,,Uniform Child-Custody Jurisdiction and Enforcement Act,in_force,,63
+3,Property; Family,31,Family,,,584,,Uniform Parentage Act,in_force,584-1,63
+3,Property; Family,31,Family,,,585,,Ex Parte Temporary Restraining Orders,repealed,,63
+3,Property; Family,31,Family,,,586,,Domestic Abuse Protective Orders,in_force,,63
+3,Property; Family,31,Family,,,586C,,Uniform Recognition and Enforcement of Canadian Domestic-Violence Protection Orders Act,in_force,586C-1,63
+3,Property; Family,31,Family,,,587,,Child Protective Act,repealed,,63
+3,Property; Family,31,Family,,,587A,,Child Protective Act,in_force,,63
+3,Property; Family,31,Family,,,587D,,Safe Place for Newborns,in_force,587D-1,63
+3,Property; Family,31,Family,,,588,,Children's Justice Program,in_force,588-1,63
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,601,,Courts Generally,in_force,601-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,602,,Courts of Appeal,in_force,,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,603,,Circuit Courts,in_force,,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,604,,District Courts,in_force,604-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,604A,,Environmental Courts,in_force,604A-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,605,,Attorneys,in_force,605-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,606,,"Clerks, Reporters, Interpreters, Etc.",in_force,606-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,607,,Costs and Fees,in_force,607-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,608,,Expenses and Salaries,in_force,608-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,609,,Jurors,repealed,,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,610,,Retirement and Removal of Justices and Judges,repealed,,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,611,,Counsel and Other Services for Indigent Defendants,repealed,,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,612,,Jurors,in_force,,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,613,,Center for Alternative Dispute Resolution,in_force,613-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,614,,Criminal Justice Research Institute,in_force,614-1,64
+4,Courts and Judicial Proceedings,32,Courts and Court Officers,,,615,,Women's Corrections Implementation Commission,in_force,615-1,64
+4,Courts and Judicial Proceedings,33,Evidence,,,621,,"Evidence and Witnesses, Generally",in_force,621-1,64
+4,Courts and Judicial Proceedings,33,Evidence,,,621C,,Witness Immunity,in_force,621C-1,64
+4,Courts and Judicial Proceedings,33,Evidence,,,622,,Documentary Evidence,in_force,,64
+4,Courts and Judicial Proceedings,33,Evidence,,,623,,Uniform Judicial Notice of Foreign Laws,repealed,,64
+4,Courts and Judicial Proceedings,33,Evidence,,,624,,Depositions and Discovery,in_force,,64
+4,Courts and Judicial Proceedings,33,Evidence,,,624D,,Uniform Interstate Depositions and Discovery Act,in_force,624D-1,65
+4,Courts and Judicial Proceedings,33,Evidence,,,625,,"Notice to Admit, Inspection, and Discovery",repealed,,65
+4,Courts and Judicial Proceedings,33,Evidence,,,626,,Hawaii Rules of Evidence,in_force,626-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,631,,"Agreed Facts, Submission on in Supreme Court",repealed,,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,632,,Declaratory Judgments,in_force,632-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,633,,"Small Claims, District Courts",in_force,633-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,634,,"Civil Actions and Proceedings, Generally",in_force,,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,634D,,Service of Process,repealed,,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,634F,,Citizen Participation in Government,repealed,,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,634G,,Hawaii Public Expression Protection Act,in_force,634G-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,634J,,Vexatious Litigants,in_force,634J-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,634L,,Abusive Litigation,in_force,634L-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,635,,Trials,in_force,635-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,636,,Judgment,in_force,636-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,636C,,Uniform Enforcement of Foreign Judgments Act,in_force,636C-1,65
+4,Courts and Judicial Proceedings,34,Pleadings and Procedure,,,637,,Equity: Jurisdiction and Procedure,repealed,,65
+4,Courts and Judicial Proceedings,35,Appeal and Error,,,641,,Appeals,in_force,,65
+4,Courts and Judicial Proceedings,35,Appeal and Error,,,642,,Reserved Questions,repealed,,65
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,651,,Attachment and Execution,in_force,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,651C,,Uniform Fraudulent Transfer Act,in_force,651C-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,652,,Garnishment,in_force,652-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,653,,Garnishment of Government Beneficiaries,in_force,653-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,654,,Special Proceedings for Immediate Possession of Personal Property,in_force,654-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,655,,Deposit and Delivery,in_force,655-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,656,,"Frauds, Statute of",in_force,656-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,657,,Limitation of Actions,in_force,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,657D,,Civil Relief for State Military Forces,in_force,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658,,Arbitration and Awards,repealed,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658A,,Uniform Arbitration Act,in_force,658A-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658B,,Uniform Foreign-Money Claims Act,in_force,658B-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658C,,Uniform Foreign Money-Judgments Recognition Act,repealed,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658D,,International Arbitration,in_force,658D-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658F,,Uniform Foreign-Country Money Judgments Recognition Act,in_force,658F-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658G,,Hawaii Uniform Collaborative Law Act,in_force,658G-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658H,,Uniform Mediation Act,in_force,658H-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,658J,,Uniform Family Law Arbitration Act,in_force,658J-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,659,,Quo Warranto,in_force,659-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,660,,Habeas Corpus,in_force,660-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,661,,Actions By and Against the State,in_force,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,661B,,Redress for Wrongful Conviction and Imprisonment,in_force,661B-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,662,,State Tort Liability Act,in_force,662-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,662D,,Volunteer Service; Immunity,in_force,662D-1,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,662E,,Claims Against Government Arising Out of Year 2000 Errors,repealed,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663,,Tort Actions,in_force,,66
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663A,,Civil Liability for Shoplifting,in_force,663A-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663B,,Equine Activities,in_force,663B-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663D,,Drug Dealer Liability,repealed,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663E,,Drug Dealer Liability,in_force,663E-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663J,,Liability for Coercion into Prostitution,in_force,663J-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,663M,,Year 2000 Errors in Computer-Based Systems,repealed,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,664,,"Boundaries, Fences, Ways, Water Rights",in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,665,,Escheat,in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,666,,Landlord and Tenant,in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,667,,Foreclosures,in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,668,,Partition of Real Estate,in_force,668-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,668A,,Uniform Partition of Heirs Property Act,in_force,668A-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,669,,Quieting Title,in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,671,,Medical Torts,in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,671D,,Health Care Peer Review,in_force,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,672,,Design Professional Conciliation Panel,repealed,,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,672B,,Design Claim Conciliation Panel,in_force,672B-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,672E,,Contractor Repair Act,in_force,672E-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,673,,Native Hawaiian Trusts Judicial Relief Act,in_force,673-1,67
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,674,,Individual Claims Resolution Under the Hawaiian Home Lands Trust,in_force,,68
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,675,,Tobacco Liability Act,in_force,675-1,68
+4,Courts and Judicial Proceedings,36,Civil Remedies and Defenses and Special Proceedings,,,676,,Structured Settlement Protection Act,in_force,676-1,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,701,,Preliminary Provisions,in_force,701-100,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,702,,General Principles of Penal Liability,in_force,702-200,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,703,,General Principles of Justification,in_force,703-300,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,704,,Penal Responsibility and Fitness to Proceed,in_force,704-400,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,705,,Inchoate Crimes,in_force,,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,706,,Disposition of Convicted Defendants,in_force,,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,707,,Offenses Against the Person,in_force,,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,708,,Offenses Against Property Rights,in_force,,68
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,708A,,Money Laundering,in_force,708A-1,69
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,709,,Offenses Against the Family and Against Incompetents,in_force,709-900,69
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,710,,Offenses Against Public Administration,in_force,,69
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,711,,Offenses Against Public Order,in_force,711-1100,69
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,712,,Offenses Against Public Health and Morals,in_force,,69
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,712A,,Forfeiture,in_force,712A-1,69
+5,Crimes and Criminal Proceedings,37,Hawaii Penal Code,,,713,,Repeal and Recodification Provisions,in_force,713-1300,69
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,801,,Rights of Accused,in_force,801-1,69
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,801D,,Rights of Victims and Witnesses in Criminal Proceedings,in_force,801D-1,69
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,801G,,Address Confidentiality Program,in_force,801G-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,801K,,Eyewitness Identification Procedures,in_force,801K-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,802,,Counsel and Other Services for Indigent Criminal Defendants,in_force,802-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,802E,,Court Advisement of Aliens Entering Guilty Plea,in_force,802E-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,803,,"Arrests, Search Warrants",in_force,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,804,,Bail; Bond to Keep the Peace,in_force,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,805,,Criminal Procedure: District Courts,in_force,805-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,806,,Criminal Procedure: Circuit Courts,in_force,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,806D,,Criminal Process Records,in_force,806D-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,807,830,Reserved for Expansion,reserved,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,831,,Uniform Act on Status of Convicted Persons,in_force,831-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,832,,Uniform Criminal Extradition Act,in_force,832-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,833,,Uniform Rendition of Accused Persons Act,in_force,833-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,834,,Agreement on Detainers,in_force,834-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,835,,Securing Attendance of Witness by Material Witness Order,in_force,835-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,836,,Uniform Act to Secure the Attendance of Witnesses from Without a State in Criminal Proceedings,in_force,836-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,837,840,Reserved for Expansion,reserved,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,841,,"Inquests, Coroners",in_force,841-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,842,,Organized Crime,in_force,842-1,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,843,,Hawaii Criminal Justice Commission,repealed,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,844,,State Law Enforcement Planning Agency,repealed,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,844D,,Forensic Identification,in_force,,70
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,844G,,Sexual Assault Evidence Collection Kits,in_force,844G-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,845,,Career Criminals,in_force,845-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,846,,Hawaii Criminal Justice Data Center; Civil Identification,in_force,,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,846C,,National Crime Prevention and Privacy Compact,in_force,846C-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,846D,,Juvenile Justice Information System,in_force,846D-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,846E,,Registration of Sex Offenders and Other Covered Offenders and Public Access to Registration Information,in_force,846E-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,846F,,Internet Crimes Against Children,in_force,846F-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,847,850,Reserved for Expansion,reserved,,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,851,,Credit Card Offenses,repealed,,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,852,,Obstruction of Ingress or Egress,in_force,852-1,71
+5,Crimes and Criminal Proceedings,38,Procedural and Supplementary Provisions,,,853,,"Criminal Procedure: Deferred Acceptance of Guilty Plea, Nolo Contendere Plea",in_force,853-1,71
